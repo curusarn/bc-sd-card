@@ -1,0 +1,153 @@
+{
+    "pepcatotal": 0, 
+    "attachments": [], 
+    "precedence": 3, 
+    "phashes": [
+        {
+            "name": "pepca", 
+            "value": "ped9912d7a37cc4a5"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "p956ca09b448d7ce8"
+        }
+    ], 
+    "adNotches": [
+        {
+            "subscores": [
+                5
+            ], 
+            "score": 5, 
+            "name": [
+                "images_in_subject"
+            ], 
+            "module": "ill"
+        }
+    ], 
+    "unsub_link": "http://info.garmin.com/u/un.php?par=7q0yWMQxrS_97324_71030_1", 
+    "adscore": 5, 
+    "list_unsubscribe_urls": [
+        "http://info.garmin.com/u/lu.php?lu=n7dL$:,6D:BIZ:7q0yWMQxrS"
+    ], 
+    "senders": {
+        "idf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "tf_log_idf": "", 
+        "log_ecnt_idf": "", 
+        "ttf_w_duc": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "src_revert_detail": [
+            {
+                "confidence": 2.03494956313046, 
+                "domain": "garmin"
+            }
+        ], 
+        "domain_keywords_detail": [
+            {
+                "confidence": 26352129.6394898, 
+                "domain": "ebay"
+            }
+        ], 
+        "log_ecnt_idf_detail": [], 
+        "plain_domain": "garmin", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt_idf": "", 
+        "src_revert": "garmin", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "ettf_w_duc_detail": [], 
+        "cnt-pow4_w_duc_detail": [], 
+        "plain_domain_detail": [
+            {
+                "confidence": 3, 
+                "domain": "garmin"
+            }
+        ], 
+        "log_ecnt_idf_log_tidf": "", 
+        "ettf_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "domain_keywords": "ebay", 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "cnt-pow4_w_duc": "", 
+        "ttf_w_duc_detail": [], 
+        "tf_log_idf_detail": [], 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "idf": "", 
+        "log_ecnt_log_idf_log_tidf": ""
+    }, 
+    "pepca_style": "", 
+    "subject": "Dekujeme za registraci vaseho zarizeni nuvi 660", 
+    "first10words": " Registrace nuvi 660 probehla uspesne Nezobrazuje se vam tento e mail Zobrazit jako webovou stranku ", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/48edecb19a72994f84e141955c4d7e21.eml", 
+    "spamscore": 2, 
+    "pepca_style_total": 0, 
+    "content": "CONTENT_DEFAULT", 
+    "last10words": "Kansas 66062 913 397 8200 Garmin com Ochrana osobnich udaju ", 
+    "contains_list_header": true, 
+    "header_from": "reply@email1.garmin.com", 
+    "unsub_link_candidates": [
+        "http://info.garmin.com/u/un.php?par=7q0yWMQxrS_97324_71030_1"
+    ], 
+    "pepca_inline_style_total": 1, 
+    "word_count": 292, 
+    "lang": "cs", 
+    "unsub_link_texts": [
+        "nechtit li dostavat e mail z ucta mygarmin kliknout prosit sem "
+    ], 
+    "rcpts_count": 1, 
+    "phishing": {
+        "fake_https": 0, 
+        "num_black_sheep_link_phish": 0, 
+        "num_https_urls": 2, 
+        "text_link_with_path": 2, 
+        "num_dots_urls": 3, 
+        "num_phish_keywords": 5, 
+        "num_param_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_sender_diff_url": 0, 
+        "num_tld_in_url_path": 0, 
+        "num_black_sheep_link": -1, 
+        "text_and_href": 0, 
+        "num_text_forms": 3, 
+        "suspicious_links": [], 
+        "num_ip_urls": 0, 
+        "num_www_in_url_path": 0, 
+        "camouflage": 0, 
+        "num_slashes_urls": 2, 
+        "num_freehost_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "subject_phish_keywords": 0, 
+        "html_form": 0, 
+        "num_black_sheep_link_global": -1, 
+        "num_html_script_tags": 0, 
+        "num_path_phish": 0, 
+        "num_subdomain_phish": 0, 
+        "num_shortened_urls": 0
+    }, 
+    "notches": [
+        {
+            "subscores": [
+                1, 
+                0.0, 
+                1
+            ], 
+            "score": 2, 
+            "name": [
+                "date_in_past", 
+                "from_missmatch", 
+                "images_in_subject"
+            ], 
+            "module": "ill"
+        }
+    ], 
+    "phish_score": 0, 
+    "pepca": "ped9912d7a37cc4a5", 
+    "pepca_inline_style": "p956ca09b448d7ce8"
+}

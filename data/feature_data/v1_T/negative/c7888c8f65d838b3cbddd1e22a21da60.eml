@@ -1,0 +1,152 @@
+{
+    "pepcatotal": 0, 
+    "attachments": [
+        {
+            "lang": "un", 
+            "name": "KLK 41_2014_Objedn\u00e1vka Ko\u0161\u0165\u00e1lov - Elektros.pdf", 
+            "pepca": "pd94cbb78b486d1e4", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "sumphash": "43c71010a5df6a7d53412ec6c8c9673e", 
+            "mime_type": "application/pdf", 
+            "size": 798099
+        }, 
+        {
+            "lang": "un", 
+            "name": "P\u0159\u00edloha \u010d. 2 - Podm\u00ednky BOZP.pdf", 
+            "pepca": "pdb2306ae9825f763", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "sumphash": "0b2c71d29a8fe94a37dd89562a4eb8d3", 
+            "mime_type": "application/pdf", 
+            "size": 2821293
+        }
+    ], 
+    "precedence": 3, 
+    "phashes": [
+        {
+            "name": "att-pepca", 
+            "value": "pd94cbb78b486d1e4"
+        }, 
+        {
+            "name": "att-pepca", 
+            "value": "pdb2306ae9825f763"
+        }, 
+        {
+            "name": "pepca", 
+            "value": "p0f4c3d9ea28bd427"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "p657ea0bcd3aa9dcd"
+        }
+    ], 
+    "word_count": 185, 
+    "adscore": 0, 
+    "senders": {
+        "idf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "tf_log_idf": "", 
+        "log_ecnt_idf": "", 
+        "ttf_w_duc": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "src_revert_detail": [], 
+        "domain_keywords_detail": [
+            {
+                "confidence": 29603362.287426, 
+                "domain": "eset"
+            }
+        ], 
+        "log_ecnt_idf_detail": [], 
+        "plain_domain": "eset", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt_idf": "", 
+        "src_revert": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "ettf_w_duc_detail": [], 
+        "cnt-pow4_w_duc_detail": [], 
+        "plain_domain_detail": [
+            {
+                "confidence": 1, 
+                "domain": "eset"
+            }
+        ], 
+        "log_ecnt_idf_log_tidf": "", 
+        "ettf_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "domain_keywords": "eset", 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "cnt-pow4_w_duc": "", 
+        "ttf_w_duc_detail": [], 
+        "tf_log_idf_detail": [], 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "idf": "", 
+        "log_ecnt_log_idf_log_tidf": ""
+    }, 
+    "pepca_style": "", 
+    "subject": "Kostalov objednavka na elektromontazni prace ELEKTROS", 
+    "first10words": " Dobry den dle Vasi dohody sA p Loudou Vam vA priloze zasilam objednavku na material a prace dodavane na stavbu aKost", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/c7888c8f65d838b3cbddd1e22a21da60.eml", 
+    "pepca_style_total": 0, 
+    "content": "CONTENT_DEFAULT", 
+    "last10words": "ce od ESET Endpoint Antivirus verze databaze 10878 20141215 Tuto zpravu proveril ESET Endpoint Antivirus http www eset cz ", 
+    "spamscore": 1, 
+    "header_from": "Koskova@syner.cz", 
+    "pepca_inline_style_total": 0, 
+    "lang": "cs", 
+    "rcpts_count": 1, 
+    "phishing": {
+        "fake_https": 0, 
+        "num_black_sheep_link_phish": 0, 
+        "num_https_urls": 0, 
+        "text_link_with_path": 0, 
+        "num_dots_urls": 2, 
+        "num_phish_keywords": 0, 
+        "num_param_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_sender_diff_url": 1, 
+        "num_tld_in_url_path": 0, 
+        "num_black_sheep_link": -1, 
+        "text_and_href": 1, 
+        "num_text_forms": 3, 
+        "suspicious_links": [], 
+        "num_ip_urls": 0, 
+        "num_www_in_url_path": 0, 
+        "camouflage": 0, 
+        "num_slashes_urls": 0, 
+        "num_freehost_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "subject_phish_keywords": 0, 
+        "html_form": 0, 
+        "num_black_sheep_link_global": -1, 
+        "num_html_script_tags": 0, 
+        "num_path_phish": 0, 
+        "num_subdomain_phish": 0, 
+        "num_shortened_urls": 0
+    }, 
+    "notches": [
+        {
+            "subscores": [
+                1, 
+                0.0
+            ], 
+            "score": 1, 
+            "name": [
+                "date_in_past", 
+                "from_missmatch"
+            ], 
+            "module": "ill"
+        }
+    ], 
+    "phish_score": 0, 
+    "pepca": "p0f4c3d9ea28bd427", 
+    "pepca_inline_style": "p657ea0bcd3aa9dcd"
+}

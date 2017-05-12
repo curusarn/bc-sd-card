@@ -1,0 +1,123 @@
+{
+    "adscore": 0, 
+    "attachments": [], 
+    "content": "CONTENT_DEFAULT", 
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/1565.eml", 
+    "first10words": " PayPal ", 
+    "header_from": "update@pypal.com", 
+    "lang": "en", 
+    "last10words": " ", 
+    "notches": [
+        {
+            "module": "ill", 
+            "name": [
+                "date_in_past", 
+                "from_missmatch"
+            ], 
+            "score": 1, 
+            "subscores": [
+                1, 
+                0.0
+            ]
+        }
+    ], 
+    "pepca": "pb6bbe6baee1938f9", 
+    "pepca_inline_style": "", 
+    "pepca_inline_style_total": 0, 
+    "pepca_style": "p1dfc13741910dcd7", 
+    "pepca_style_total": 0, 
+    "pepcatotal": 0, 
+    "phashes": [
+        {
+            "name": "pepca", 
+            "value": "pb6bbe6baee1938f9"
+        }, 
+        {
+            "name": "pepca_style", 
+            "value": "p1dfc13741910dcd7"
+        }
+    ], 
+    "phish_score": 0, 
+    "phishing": {
+        "camouflage": 0, 
+        "fake_https": 0, 
+        "html_form": 0, 
+        "num_black_sheep_link": -1, 
+        "num_black_sheep_link_global": -1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_dots_urls": 5, 
+        "num_freehost_urls": 0, 
+        "num_html_script_tags": 0, 
+        "num_https_urls": 0, 
+        "num_ip_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "num_param_phish": 0, 
+        "num_path_phish": 0, 
+        "num_phish_keywords": 12, 
+        "num_sender_diff_url": 1, 
+        "num_shortened_urls": 0, 
+        "num_slashes_urls": 4, 
+        "num_subdomain_phish": 0, 
+        "num_text_forms": 1, 
+        "num_tld_in_url_path": 0, 
+        "num_www_in_url_path": 0, 
+        "subject_phish_keywords": 1, 
+        "suspicious_links": [], 
+        "text_and_href": 0, 
+        "text_link_with_path": 0
+    }, 
+    "precedence": 3, 
+    "rcpts_count": 1, 
+    "senders": {
+        "cnt-pow4_w_duc": "", 
+        "cnt-pow4_w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "domain_keywords": "kuponator", 
+        "domain_keywords_detail": [
+            {
+                "confidence": 6589572707.91362, 
+                "domain": "kuponator"
+            }
+        ], 
+        "ettf_w_duc": "", 
+        "ettf_w_duc_detail": [], 
+        "idf": "", 
+        "idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "log_cnt-w_duc_detail": [], 
+        "log_cnt_idf": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "log_ecnt_idf": "", 
+        "log_ecnt_idf_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "log_ecnt_log_idf_log_tidf": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "plain_domain": "", 
+        "plain_domain_detail": [], 
+        "src_revert": "paypal", 
+        "src_revert_detail": [
+            {
+                "confidence": 1, 
+                "domain": "paypal"
+            }
+        ], 
+        "tf_log_idf": "", 
+        "tf_log_idf_detail": [], 
+        "ttf_w_duc": "", 
+        "ttf_w_duc_detail": []
+    }, 
+    "spamscore": 1, 
+    "subject": "Account Review", 
+    "word_count": 163
+}

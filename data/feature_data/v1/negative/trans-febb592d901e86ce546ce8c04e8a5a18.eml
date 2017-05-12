@@ -1,0 +1,122 @@
+{
+    "adscore": 0, 
+    "attachments": [], 
+    "content": "CONTENT_DEFAULT", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/trans-febb592d901e86ce546ce8c04e8a5a18.eml", 
+    "first10words": " e shop Potvrzeni objednavky JW1500037 Vystaveno 13 01 2015 13 05 43 Dodavatel Neo Neon CZ s r o Chrast", 
+    "header_from": "eshop@led-house.cz", 
+    "lang": "cs", 
+    "last10words": "elkova suma s DPH 2 623 89 Kc Vami objednane zbozi bude pripraveno ci predano k expedici dle Vami zadanych pozadavku ", 
+    "notches": [
+        {
+            "module": "ill", 
+            "name": [
+                "date_in_past", 
+                "from_missmatch"
+            ], 
+            "score": 1, 
+            "subscores": [
+                1, 
+                0.0
+            ]
+        }
+    ], 
+    "pepca": "p8b6d6a3c06da20e9", 
+    "pepca_inline_style": "p73148eec4946560f", 
+    "pepca_inline_style_total": 0, 
+    "pepca_style": "p9bf7b19062643f32", 
+    "pepca_style_total": 0, 
+    "pepcatotal": 0, 
+    "phashes": [
+        {
+            "name": "pepca", 
+            "value": "p8b6d6a3c06da20e9"
+        }, 
+        {
+            "name": "pepca_style", 
+            "value": "p9bf7b19062643f32"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "p73148eec4946560f"
+        }
+    ], 
+    "phish_score": 0, 
+    "phishing": {
+        "camouflage": 0, 
+        "fake_https": 0, 
+        "html_form": 0, 
+        "num_black_sheep_link": -1, 
+        "num_black_sheep_link_global": -1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_dots_urls": 4, 
+        "num_freehost_urls": 0, 
+        "num_html_script_tags": 0, 
+        "num_https_urls": 0, 
+        "num_ip_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "num_param_phish": 0, 
+        "num_path_phish": 0, 
+        "num_phish_keywords": 2, 
+        "num_sender_diff_url": 1, 
+        "num_shortened_urls": 0, 
+        "num_slashes_urls": 3, 
+        "num_subdomain_phish": 0, 
+        "num_text_forms": 1, 
+        "num_tld_in_url_path": 0, 
+        "num_www_in_url_path": 0, 
+        "subject_phish_keywords": 0, 
+        "suspicious_links": [], 
+        "text_and_href": 0, 
+        "text_link_with_path": 0
+    }, 
+    "precedence": 3, 
+    "rcpts_count": 1, 
+    "senders": {
+        "cnt-pow4_w_duc": "", 
+        "cnt-pow4_w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "domain_keywords": "masterinter", 
+        "domain_keywords_detail": [
+            {
+                "confidence": 50982457.980352, 
+                "domain": "masterinter"
+            }
+        ], 
+        "ettf_w_duc": "", 
+        "ettf_w_duc_detail": [], 
+        "idf": "", 
+        "idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "log_cnt-w_duc_detail": [], 
+        "log_cnt_idf": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "log_ecnt_idf": "", 
+        "log_ecnt_idf_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "log_ecnt_log_idf_log_tidf": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "plain_domain": "", 
+        "plain_domain_detail": [], 
+        "src_revert": "", 
+        "src_revert_detail": [], 
+        "tf_log_idf": "", 
+        "tf_log_idf_detail": [], 
+        "ttf_w_duc": "", 
+        "ttf_w_duc_detail": []
+    }, 
+    "spamscore": 1, 
+    "subject": "Objednavka z e shopu c JW1500037", 
+    "word_count": 384
+}

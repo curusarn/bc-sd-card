@@ -1,0 +1,132 @@
+{
+    "pepcatotal": 0, 
+    "attachments": [
+        {
+            "name": "3K242I.PNG", 
+            "cid": "006901c6b9df$afd78320$6c822ecf@XHD2T8M", 
+            "pepca": "pf5b97d37b77bef6a", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "sumphash": "8e368c722eafaa4de6d7d8151ce92f92", 
+            "mime_type": "image/png", 
+            "size": 7614
+        }
+    ], 
+    "precedence": 3, 
+    "phashes": [
+        {
+            "name": "att-pepca", 
+            "value": "pf5b97d37b77bef6a"
+        }, 
+        {
+            "name": "pepca", 
+            "value": "p0417297e9bbc968f"
+        }
+    ], 
+    "word_count": 441, 
+    "adscore": 0, 
+    "senders": {
+        "idf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "tf_log_idf": "", 
+        "log_ecnt_idf": "", 
+        "ttf_w_duc": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "src_revert_detail": [], 
+        "domain_keywords_detail": [
+            {
+                "confidence": 43351513.5504165, 
+                "domain": "aweber"
+            }
+        ], 
+        "log_ecnt_idf_detail": [], 
+        "plain_domain": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt_idf": "", 
+        "src_revert": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "ettf_w_duc_detail": [], 
+        "cnt-pow4_w_duc_detail": [], 
+        "plain_domain_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "ettf_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "domain_keywords": "aweber", 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "cnt-pow4_w_duc": "", 
+        "ttf_w_duc_detail": [], 
+        "tf_log_idf_detail": [], 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "idf": "", 
+        "log_ecnt_log_idf_log_tidf": ""
+    }, 
+    "pepca_style": "", 
+    "subject": "Important banking mail from Fifth Third Bank Mon 7 Aug 2006 05 09 40 0060 ", 
+    "first10words": " lay flog me zing sell net sick burr mace pay rape reed cusp avow dop doe bun stub sere wilt hum bead bog foal bail pan foil tar ", 
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing2/1419.eml", 
+    "pepca_style_total": 0, 
+    "content": "CONTENT_DEFAULT", 
+    "last10words": "y may vow vole onto sear kino mull loud wake bode silo sere cry rimy mug no wean swallow case minx yea orc age dis veal use dice char Mr mad ", 
+    "spamscore": 1.5, 
+    "header_from": "infonum_0332764966.cust@53.com", 
+    "pepca_inline_style_total": 0, 
+    "lang": "un", 
+    "rcpts_count": 1, 
+    "phishing": {
+        "fake_https": 0, 
+        "num_black_sheep_link_phish": 0, 
+        "num_https_urls": 0, 
+        "text_link_with_path": 0, 
+        "num_dots_urls": 7, 
+        "num_phish_keywords": 0, 
+        "num_param_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_sender_diff_url": 1, 
+        "num_tld_in_url_path": 0, 
+        "num_black_sheep_link": -1, 
+        "text_and_href": 0, 
+        "num_text_forms": 0, 
+        "suspicious_links": [], 
+        "num_ip_urls": 0, 
+        "num_www_in_url_path": 0, 
+        "camouflage": 0, 
+        "num_slashes_urls": 2, 
+        "num_freehost_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "ner_domain_detected": true, 
+        "subject_phish_keywords": 1, 
+        "html_form": 0, 
+        "num_black_sheep_link_global": -1, 
+        "num_html_script_tags": 0, 
+        "num_path_phish": 0, 
+        "num_subdomain_phish": 0, 
+        "num_shortened_urls": 0
+    }, 
+    "notches": [
+        {
+            "subscores": [
+                1, 
+                0.0, 
+                0.5
+            ], 
+            "score": 1.5, 
+            "name": [
+                "date_in_past", 
+                "from_missmatch", 
+                "long_subject"
+            ], 
+            "module": "ill"
+        }
+    ], 
+    "phish_score": 0, 
+    "pepca": "p0417297e9bbc968f", 
+    "pepca_inline_style": ""
+}

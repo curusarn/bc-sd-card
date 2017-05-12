@@ -1,0 +1,138 @@
+{
+    "pepcatotal": 0, 
+    "attachments": [], 
+    "precedence": 3, 
+    "phashes": [
+        {
+            "name": "pepca", 
+            "value": "pd1f4e5297572bb87"
+        }, 
+        {
+            "name": "pepca_style", 
+            "value": "p0e574b79aa4a5056"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "p4ba8a50d4fbcab49"
+        }
+    ], 
+    "word_count": 202, 
+    "adscore": 0, 
+    "senders": {
+        "idf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "tf_log_idf": "", 
+        "log_ecnt_idf": "", 
+        "ttf_w_duc": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "src_revert_detail": [
+            {
+                "confidence": 1, 
+                "domain": "restu"
+            }, 
+            {
+                "confidence": 1, 
+                "domain": "topsrovnani"
+            }
+        ], 
+        "domain_keywords_detail": [
+            {
+                "confidence": 60067945.825916, 
+                "domain": "restu"
+            }
+        ], 
+        "log_ecnt_idf_detail": [], 
+        "plain_domain": "restu", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt_idf": "", 
+        "src_revert": "restu", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "ettf_w_duc_detail": [], 
+        "cnt-pow4_w_duc_detail": [], 
+        "plain_domain_detail": [
+            {
+                "confidence": 1, 
+                "domain": "restu"
+            }
+        ], 
+        "log_ecnt_idf_log_tidf": "", 
+        "ettf_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "domain_keywords": "restu", 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "cnt-pow4_w_duc": "", 
+        "ttf_w_duc_detail": [], 
+        "tf_log_idf_detail": [], 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "idf": "", 
+        "log_ecnt_log_idf_log_tidf": ""
+    }, 
+    "pepca_style": "p0e574b79aa4a5056", 
+    "subject": "Obdrzeli jsme zadost o reset hesla", 
+    "first10words": " Obdrzeli jsme zadost o reset hesla www restu cz Obdrzeli jsme zadost o reset hesla Dobry den p", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/c496b13b5d8c668ea5c4d4850a8626fb.eml", 
+    "pepca_style_total": 1, 
+    "content": "CONTENT_DEFAULT", 
+    "last10words": "it a napiste nam na info restu cz nebo nam zavolejte na telefonni cislo 420 232 000 444 Po Ne 11 00 20 00 Restu 2014 ", 
+    "spamscore": 1.1, 
+    "header_from": "info@restu.cz", 
+    "pepca_inline_style_total": 1, 
+    "lang": "cs", 
+    "rcpts_count": 1, 
+    "phishing": {
+        "fake_https": 0, 
+        "num_black_sheep_link_phish": 0, 
+        "num_https_urls": 0, 
+        "text_link_with_path": 0, 
+        "num_dots_urls": 3, 
+        "num_phish_keywords": 8, 
+        "num_param_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_sender_diff_url": 1, 
+        "num_tld_in_url_path": 0, 
+        "num_black_sheep_link": -1, 
+        "text_and_href": 0, 
+        "num_text_forms": 1, 
+        "suspicious_links": [], 
+        "num_ip_urls": 0, 
+        "num_www_in_url_path": 0, 
+        "camouflage": 1, 
+        "num_slashes_urls": 4, 
+        "num_freehost_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "subject_phish_keywords": 1, 
+        "html_form": 0, 
+        "num_black_sheep_link_global": -1, 
+        "num_html_script_tags": 0, 
+        "num_path_phish": 0, 
+        "num_subdomain_phish": 0, 
+        "num_shortened_urls": 0
+    }, 
+    "notches": [
+        {
+            "subscores": [
+                1, 
+                0.0, 
+                0.1
+            ], 
+            "score": 1.1, 
+            "name": [
+                "date_in_past", 
+                "from_missmatch", 
+                "html_a_href_camouflaging"
+            ], 
+            "module": "ill"
+        }
+    ], 
+    "phish_score": 0, 
+    "pepca": "pd1f4e5297572bb87", 
+    "pepca_inline_style": "p4ba8a50d4fbcab49"
+}

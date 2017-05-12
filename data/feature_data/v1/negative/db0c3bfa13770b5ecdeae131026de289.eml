@@ -1,0 +1,145 @@
+{
+    "adscore": 0, 
+    "attachments": [
+        {
+            "cid": "part1.00030907.09060301@ltu-sped.cz", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "image/jpeg", 
+            "name": "podpis.jpg", 
+            "pepca": "p806ea62433afcb90", 
+            "size": 22094, 
+            "sumphash": "c27c8e10249d39319b41af6ddd09e19d"
+        }, 
+        {
+            "cid": "m14a4d8ef04am600", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "image/jpeg", 
+            "name": "Objednávka přepravy LTU-SPED1.jpg", 
+            "pepca": "p966f1bb4f126d137", 
+            "size": 341760, 
+            "sumphash": "91469ab95717f6eb6327c317920db29c"
+        }
+    ], 
+    "content": "CONTENT_DEFAULT", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/db0c3bfa13770b5ecdeae131026de289.eml", 
+    "first10words": " Puvodni zprava Od Ivana Jircharova jircharova ltu sped cz Komu travnicek j seznam cz Datum 15 12 2014 11 30 0", 
+    "header_from": "travnicek.j@seznam.cz", 
+    "lang": "cs", 
+    "last10words": "t Objednavka prepravy LTU SPED ok a psoilame Vam to ten Export a diky moc a hezky dn preju ", 
+    "notches": [
+        {
+            "module": "ill", 
+            "name": [
+                "date_in_past", 
+                "from_missmatch", 
+                "foreign_message_id"
+            ], 
+            "score": 1.1, 
+            "subscores": [
+                1, 
+                0.0, 
+                0.1
+            ]
+        }
+    ], 
+    "pepca": "p5106679ce4e81268", 
+    "pepca_inline_style": "", 
+    "pepca_inline_style_total": 0, 
+    "pepca_style": "", 
+    "pepca_style_total": 0, 
+    "pepcatotal": 0, 
+    "phashes": [
+        {
+            "name": "att-pepca", 
+            "value": "p806ea62433afcb90"
+        }, 
+        {
+            "name": "att-pepca", 
+            "value": "p966f1bb4f126d137"
+        }, 
+        {
+            "name": "pepca", 
+            "value": "p5106679ce4e81268"
+        }
+    ], 
+    "phish_score": 0, 
+    "phishing": {
+        "camouflage": 0, 
+        "fake_https": 0, 
+        "html_form": 0, 
+        "num_black_sheep_link": -1, 
+        "num_black_sheep_link_global": -1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_dots_urls": 0, 
+        "num_freehost_urls": 0, 
+        "num_html_script_tags": 0, 
+        "num_https_urls": 0, 
+        "num_ip_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "num_param_phish": 0, 
+        "num_path_phish": 0, 
+        "num_phish_keywords": 0, 
+        "num_sender_diff_url": 0, 
+        "num_shortened_urls": 0, 
+        "num_slashes_urls": 0, 
+        "num_subdomain_phish": 0, 
+        "num_text_forms": 0, 
+        "num_tld_in_url_path": 0, 
+        "num_www_in_url_path": 0, 
+        "subject_phish_keywords": 0, 
+        "suspicious_links": [], 
+        "text_and_href": 0, 
+        "text_link_with_path": 0
+    }, 
+    "precedence": 3, 
+    "rcpts_count": 1, 
+    "senders": {
+        "cnt-pow4_w_duc": "", 
+        "cnt-pow4_w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "domain_keywords": "jkd-sped", 
+        "domain_keywords_detail": [
+            {
+                "confidence": 1839434.562446, 
+                "domain": "jkd-sped"
+            }
+        ], 
+        "ettf_w_duc": "", 
+        "ettf_w_duc_detail": [], 
+        "idf": "", 
+        "idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "log_cnt-w_duc_detail": [], 
+        "log_cnt_idf": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "log_ecnt_idf": "", 
+        "log_ecnt_idf_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "log_ecnt_log_idf_log_tidf": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "plain_domain": "", 
+        "plain_domain_detail": [], 
+        "src_revert": "", 
+        "src_revert_detail": [], 
+        "tf_log_idf": "", 
+        "tf_log_idf_detail": [], 
+        "ttf_w_duc": "", 
+        "ttf_w_duc_detail": []
+    }, 
+    "spamscore": 1.1, 
+    "subject": "Fwd Objednavka prepravy LTU SPED", 
+    "word_count": 40
+}

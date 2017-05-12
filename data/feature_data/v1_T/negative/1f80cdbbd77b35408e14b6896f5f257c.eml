@@ -1,0 +1,141 @@
+{
+    "pepcatotal": 0, 
+    "attachments": [], 
+    "precedence": 3, 
+    "phashes": [
+        {
+            "name": "pepca", 
+            "value": "p515f093d5ba68875"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "p99d89c50a8649118"
+        }
+    ], 
+    "word_count": 391, 
+    "unsub_link_texts": [
+        " odhlasit odber skype neumoznovat tisnovy volani"
+    ], 
+    "adscore": 0, 
+    "senders": {
+        "idf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "tf_log_idf": "", 
+        "log_ecnt_idf": "", 
+        "ttf_w_duc": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "src_revert_detail": [
+            {
+                "confidence": 2, 
+                "domain": "skype"
+            }
+        ], 
+        "domain_keywords_detail": [
+            {
+                "confidence": 391127679.616934, 
+                "domain": "skype"
+            }
+        ], 
+        "log_ecnt_idf_detail": [], 
+        "plain_domain": "skype", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt_idf": "", 
+        "src_revert": "skype", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "ettf_w_duc_detail": [], 
+        "cnt-pow4_w_duc_detail": [], 
+        "plain_domain_detail": [
+            {
+                "confidence": 4, 
+                "domain": "skype"
+            }
+        ], 
+        "log_ecnt_idf_log_tidf": "", 
+        "ettf_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "domain_keywords": "skype", 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "cnt-pow4_w_duc": "", 
+        "ttf_w_duc_detail": [], 
+        "tf_log_idf_detail": [], 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "idf": "", 
+        "log_ecnt_log_idf_log_tidf": ""
+    }, 
+    "pepca_style": "", 
+    "subject": "Mate zmenene heslo k uctu Skype", 
+    "first10words": " Skype Tento e mail byl odeslan automaticky proto na nej neodpovidejte Vazeny uzivateli bronik95 ", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/1f80cdbbd77b35408e14b6896f5f257c.eml", 
+    "unsub_link": "https://go.skype.com/email.unsubscribe?user=bronik95&token=7c37db8b36", 
+    "pepca_style_total": 0, 
+    "content": "CONTENT_DEFAULT", 
+    "last10words": "oga a symbol S jsou ochranne znamky spolecnosti Skype Skype Communications S A R L 23 29 Rives de Clausen L 2165 Luxembourg ", 
+    "spamscore": 1, 
+    "header_from": "noreply@notifications.skype.com", 
+    "unsub_link_candidates": [
+        "https://go.skype.com/email.unsubscribe?user=bronik95&token=7c37db8b36"
+    ], 
+    "pepca_inline_style_total": 0, 
+    "lang": "cs", 
+    "rcpts_count": 1, 
+    "phishing": {
+        "fake_https": 0, 
+        "num_black_sheep_link_phish": 0, 
+        "num_https_urls": 3, 
+        "text_link_with_path": 0, 
+        "num_dots_urls": 4, 
+        "num_phish_keywords": 18, 
+        "num_param_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_sender_diff_url": 0, 
+        "num_tld_in_url_path": 0, 
+        "num_black_sheep_link": -1, 
+        "text_and_href": 0, 
+        "num_text_forms": 4, 
+        "suspicious_links": [], 
+        "num_ip_urls": 0, 
+        "num_www_in_url_path": 0, 
+        "camouflage": 0, 
+        "num_slashes_urls": 3, 
+        "num_freehost_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "5_top_domains_id_0": 0, 
+        "5_top_domains_id_1": 1, 
+        "subject_phish_keywords": 2, 
+        "5_top_domains_id_2": 2, 
+        "html_form": 0, 
+        "5_top_domains_percent_2": 0.3333333333333333, 
+        "5_top_domains_percent_1": 0.3333333333333333, 
+        "5_top_domains_percent_0": 0.3333333333333333, 
+        "num_black_sheep_link_global": -1, 
+        "num_html_script_tags": 0, 
+        "num_path_phish": 0, 
+        "num_subdomain_phish": 0, 
+        "num_shortened_urls": 0
+    }, 
+    "notches": [
+        {
+            "subscores": [
+                1, 
+                0.0
+            ], 
+            "score": 1, 
+            "name": [
+                "date_in_past", 
+                "from_missmatch"
+            ], 
+            "module": "ill"
+        }
+    ], 
+    "phish_score": 0, 
+    "pepca": "p515f093d5ba68875", 
+    "pepca_inline_style": "p99d89c50a8649118"
+}

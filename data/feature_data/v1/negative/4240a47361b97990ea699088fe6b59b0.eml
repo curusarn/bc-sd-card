@@ -1,0 +1,176 @@
+{
+    "adscore": 0, 
+    "attachments": [
+        {
+            "cid": "part1.00080905.04050301@oknostyl.cz", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "image/png", 
+            "name": "logoNew.png", 
+            "pepca": "pfde4543867f5e8a6", 
+            "size": 11011, 
+            "sumphash": "721a626e4c94bddadc2aae6497c50a0c"
+        }, 
+        {
+            "cid": "m14a4d90f3d4m1ef1", 
+            "cte": "BASE64", 
+            "first10words": "SMLOUVA O DILO C uzavrena podle platneho zneni obcanskeho zakoniku", 
+            "flags": 0, 
+            "lang": "cs", 
+            "mime_type": "application/pdf", 
+            "name": "sml1-2014-2178 - Fencl Ivan.pdf", 
+            "pepca": "p7e236ac7ebcbf703", 
+            "size": 59554, 
+            "sumphash": "9d8d0e821fe0728720e619733f60ce0b"
+        }, 
+        {
+            "cid": "m14a4d90f3d4m1ef2", 
+            "cte": "BASE64", 
+            "first10words": "OKNOSTYL group s r o sidlem Tisnovska Kurim PSC Vedena", 
+            "flags": 0, 
+            "lang": "cs", 
+            "mime_type": "application/pdf", 
+            "name": "fakt1-2014-2178 - Fencl Ivan.pdf", 
+            "pepca": "p69d98e1482affca9", 
+            "size": 29177, 
+            "sumphash": "b6f8947f08c3133ef5f017d9b0ccceb1"
+        }
+    ], 
+    "content": "CONTENT_DEFAULT", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/4240a47361b97990ea699088fe6b59b0.eml", 
+    "first10words": " Nova nabidka a predbezna faktura I Puvodni zprava Od Hacklova Jitka OKNOSTYL group provozovna oknosty", 
+    "header_from": "fencl.i@seznam.cz", 
+    "lang": "cs", 
+    "last10words": "yl cz www oknostyl cz Tato zprava neobsahuje viry ani jiny skodlivy kod avast Antivirus je aktivni ", 
+    "notches": [
+        {
+            "module": "ill", 
+            "name": [
+                "date_in_past", 
+                "from_missmatch", 
+                "foreign_message_id"
+            ], 
+            "score": 1.1, 
+            "subscores": [
+                1, 
+                0.0, 
+                0.1
+            ]
+        }
+    ], 
+    "pepca": "p782e21534e2de55a", 
+    "pepca_inline_style": "p18e1db148b80cb70", 
+    "pepca_inline_style_total": 0, 
+    "pepca_style": "", 
+    "pepca_style_total": 0, 
+    "pepcatotal": 0, 
+    "phashes": [
+        {
+            "name": "att-pepca", 
+            "value": "pfde4543867f5e8a6"
+        }, 
+        {
+            "name": "att-pepca", 
+            "value": "p7e236ac7ebcbf703"
+        }, 
+        {
+            "name": "att-pepca", 
+            "value": "p69d98e1482affca9"
+        }, 
+        {
+            "name": "pepca", 
+            "value": "p782e21534e2de55a"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "p18e1db148b80cb70"
+        }
+    ], 
+    "phish_score": 0, 
+    "phishing": {
+        "camouflage": 0, 
+        "fake_https": 0, 
+        "html_form": 0, 
+        "num_black_sheep_link": -1, 
+        "num_black_sheep_link_global": -1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_dots_urls": 2, 
+        "num_freehost_urls": 0, 
+        "num_html_script_tags": 0, 
+        "num_https_urls": 0, 
+        "num_ip_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "num_param_phish": 0, 
+        "num_path_phish": 0, 
+        "num_phish_keywords": 0, 
+        "num_sender_diff_url": 2, 
+        "num_shortened_urls": 0, 
+        "num_slashes_urls": 1, 
+        "num_subdomain_phish": 0, 
+        "num_text_forms": 0, 
+        "num_tld_in_url_path": 0, 
+        "num_www_in_url_path": 0, 
+        "subject_phish_keywords": 0, 
+        "suspicious_links": [], 
+        "text_and_href": 1, 
+        "text_link_with_path": 0
+    }, 
+    "precedence": 3, 
+    "rcpts_count": 1, 
+    "senders": {
+        "cnt-pow4_w_duc": "", 
+        "cnt-pow4_w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "domain_keywords": "oknostyl", 
+        "domain_keywords_detail": [
+            {
+                "confidence": 27611804.6628814, 
+                "domain": "oknostyl"
+            }
+        ], 
+        "ettf_w_duc": "", 
+        "ettf_w_duc_detail": [], 
+        "idf": "", 
+        "idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "log_cnt-w_duc_detail": [], 
+        "log_cnt_idf": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "log_ecnt_idf": "", 
+        "log_ecnt_idf_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "log_ecnt_log_idf_log_tidf": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "plain_domain": "oknostyl", 
+        "plain_domain_detail": [
+            {
+                "confidence": 1, 
+                "domain": "oknostyl"
+            }, 
+            {
+                "confidence": 1, 
+                "domain": "avast"
+            }
+        ], 
+        "src_revert": "", 
+        "src_revert_detail": [], 
+        "tf_log_idf": "", 
+        "tf_log_idf_detail": [], 
+        "ttf_w_duc": "", 
+        "ttf_w_duc_detail": []
+    }, 
+    "spamscore": 1.1, 
+    "subject": "Fwd 1 2014 2178 Smlouva o dilo proforma faktura", 
+    "word_count": 120
+}

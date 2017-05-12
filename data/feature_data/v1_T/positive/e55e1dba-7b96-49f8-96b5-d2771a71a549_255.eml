@@ -1,0 +1,187 @@
+{
+    "pepcatotal": 0, 
+    "theme": {}, 
+    "attachments": [
+        {
+            "name": "potts.GIF", 
+            "cid": "part1.05090402.02000907@custservice_id_5472308316643@ebay.com", 
+            "pepca": "paf1829f6d4e4e0d2", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "sumphash": "2f15bf8c4047d5673ee6dcebadc58b4d", 
+            "mime_type": "image/gif", 
+            "size": 13303
+        }
+    ], 
+    "precedence": 3, 
+    "phashes": [
+        {
+            "name": "att-pepca", 
+            "value": "paf1829f6d4e4e0d2"
+        }
+    ], 
+    "word_count": 11, 
+    "unsub_link": {}, 
+    "adscore": 0, 
+    "universalprobes": [
+        {
+            "value": "1", 
+            "key": "ps-from_mismatch"
+        }, 
+        {
+            "value": "['banking']", 
+            "key": "ps-subject_phish_keyword"
+        }, 
+        {
+            "value": "1", 
+            "key": "ps-attachments"
+        }, 
+        {
+            "value": "1", 
+            "key": "ps-many_emails"
+        }, 
+        {
+            "value": "[]", 
+            "key": "ps-most-suspicious-links"
+        }, 
+        {
+            "value": "1", 
+            "key": "ps-phishing"
+        }
+    ], 
+    "senders": {
+        "idf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "tf_log_idf": "", 
+        "log_ecnt_idf": "", 
+        "ttf_w_duc": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "src_revert_detail": [], 
+        "domain_keywords_detail": [
+            {
+                "confidence": 496061.891313, 
+                "domain": "gw-world"
+            }
+        ], 
+        "log_ecnt_idf_detail": [], 
+        "plain_domain": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt_idf": "", 
+        "src_revert": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "ettf_w_duc_detail": [], 
+        "cnt-pow4_w_duc_detail": [], 
+        "plain_domain_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "ettf_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "domain_keywords": "gw-world", 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "cnt-pow4_w_duc": "", 
+        "ttf_w_duc_detail": [], 
+        "tf_log_idf_detail": [], 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "idf": "", 
+        "log_ecnt_log_idf_log_tidf": ""
+    }, 
+    "pepca_style": "", 
+    "subject": "Banking mail from eBay Inc", 
+    "first10words": " It s funny In fact in 1971 in 1983 Dreamcast ", 
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/255.eml", 
+    "spfstatus": {}, 
+    "pepca_style_total": 0, 
+    "content": "CONTENT_DEFAULT", 
+    "last10words": " It s funny In fact in 1971 in 1983 Dreamcast ", 
+    "spamscore": 1, 
+    "header_from": "support_id_733346400543@ebay.com", 
+    "extractedEmailsTotalCount": {}, 
+    "pepca_inline_style_total": 0, 
+    "lang": "en", 
+    "domainstat": {}, 
+    "dmarc_status": {}, 
+    "rcpts_count": 1, 
+    "pepca_small": "p5e4d1ec74bda5f90", 
+    "notches": [
+        {
+            "subscores": [
+                1, 
+                0.0
+            ], 
+            "score": 1, 
+            "name": [
+                "date_in_past", 
+                "from_missmatch"
+            ], 
+            "module": "ill"
+        }
+    ], 
+    "phish_score": 10.5, 
+    "dkstatus": {}, 
+    "pepca": "", 
+    "phNotches": [
+        {
+            "subscores": [
+                1, 
+                0.5, 
+                0.0, 
+                1, 
+                -2, 
+                8
+            ], 
+            "score": 8.5, 
+            "name": [
+                "from_mismatch", 
+                "phisheable", 
+                "subject_phish_keyword", 
+                "attachments", 
+                "many_emails", 
+                "phishing"
+            ], 
+            "module": "phish-score"
+        }
+    ], 
+    "phishing": {
+        "fake_https": 0, 
+        "num_black_sheep_link_phish": 0, 
+        "num_https_urls": 1, 
+        "text_link_with_path": 0, 
+        "num_dots_urls": 3, 
+        "num_phish_keywords": 0, 
+        "num_param_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_sender_diff_url": 0, 
+        "num_tld_in_url_path": 0, 
+        "num_attachments": 1, 
+        "num_black_sheep_link": -1, 
+        "text_and_href": 0, 
+        "num_text_forms": 1, 
+        "num_subject_phish_keywords": 1, 
+        "suspicious_links": [], 
+        "many_emails": true, 
+        "num_ip_urls": 0, 
+        "num_www_in_url_path": 0, 
+        "camouflage": 0, 
+        "num_slashes_urls": 2, 
+        "num_freehost_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "5_top_domains_id_0": 0, 
+        "subject_phish_keywords": 1, 
+        "html_form": 0, 
+        "5_top_domains_percent_0": 1.0, 
+        "num_black_sheep_link_global": -1, 
+        "num_html_script_tags": 0, 
+        "num_path_phish": 0, 
+        "num_subdomain_phish": 0, 
+        "num_shortened_urls": 0
+    }, 
+    "pepca_inline_style": "", 
+    "domainstat_themes": {}
+}

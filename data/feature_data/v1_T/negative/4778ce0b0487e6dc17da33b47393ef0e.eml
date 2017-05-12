@@ -1,0 +1,148 @@
+{
+    "pepcatotal": 0, 
+    "attachments": [
+        {
+            "name": "logo-ulekare.png", 
+            "cid": "logo-ulekare", 
+            "pepca": "pef9fcef0b3a18924", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "sumphash": "e4be452813686db93e68266ad9d76b58", 
+            "mime_type": "image/png", 
+            "size": 1176
+        }
+    ], 
+    "precedence": 3, 
+    "phashes": [
+        {
+            "name": "att-pepca", 
+            "value": "pef9fcef0b3a18924"
+        }, 
+        {
+            "name": "pepca", 
+            "value": "p5df351818abf2f16"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "pa037d84beffaa34d"
+        }
+    ], 
+    "word_count": 125, 
+    "adscore": 0, 
+    "senders": {
+        "idf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "tf_log_idf": "", 
+        "log_ecnt_idf": "", 
+        "ttf_w_duc": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "src_revert_detail": [], 
+        "domain_keywords_detail": [
+            {
+                "confidence": 50214182.6599995, 
+                "domain": "ulekare"
+            }
+        ], 
+        "log_ecnt_idf_detail": [], 
+        "plain_domain": "ulekare", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt_idf": "", 
+        "src_revert": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "ettf_w_duc_detail": [], 
+        "cnt-pow4_w_duc_detail": [], 
+        "plain_domain_detail": [
+            {
+                "confidence": 1, 
+                "domain": "ulekare"
+            }, 
+            {
+                "confidence": 1, 
+                "domain": "hemofilie"
+            }, 
+            {
+                "confidence": 1, 
+                "domain": "meditorial"
+            }
+        ], 
+        "log_ecnt_idf_log_tidf": "", 
+        "ettf_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "domain_keywords": "ulekare", 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "cnt-pow4_w_duc": "", 
+        "ttf_w_duc_detail": [], 
+        "tf_log_idf_detail": [], 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "idf": "", 
+        "log_ecnt_log_idf_log_tidf": ""
+    }, 
+    "pepca_style": "", 
+    "subject": "Potvrzeni registrace www ulekare cz", 
+    "first10words": " Potvrzeni registrace www ulekare cz Dekujeme za Vasi registraci do projektu uLekare cz Pro uspesne dokonceni registra", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/4778ce0b0487e6dc17da33b47393ef0e.eml", 
+    "pepca_style_total": 0, 
+    "content": "CONTENT_DEFAULT", 
+    "last10words": "olitida Cilena biologicka lecba Poruchy srazlivosti krve c 2007 14 Meditorial Pravni prohlaseni ISSN 1802 5544 ", 
+    "spamscore": 1.1, 
+    "header_from": "info@ulekare.cz", 
+    "pepca_inline_style_total": 0, 
+    "lang": "cs", 
+    "rcpts_count": 1, 
+    "phishing": {
+        "fake_https": 0, 
+        "num_black_sheep_link_phish": 0, 
+        "num_https_urls": 0, 
+        "text_link_with_path": 2, 
+        "num_dots_urls": 2, 
+        "num_phish_keywords": 5, 
+        "num_param_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_sender_diff_url": 5, 
+        "num_tld_in_url_path": 0, 
+        "num_black_sheep_link": -1, 
+        "text_and_href": 2, 
+        "num_text_forms": 0, 
+        "suspicious_links": [], 
+        "num_ip_urls": 0, 
+        "num_www_in_url_path": 0, 
+        "camouflage": 1, 
+        "num_slashes_urls": 1, 
+        "num_freehost_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "subject_phish_keywords": 1, 
+        "html_form": 0, 
+        "num_black_sheep_link_global": -1, 
+        "num_html_script_tags": 0, 
+        "num_path_phish": 0, 
+        "num_subdomain_phish": 0, 
+        "num_shortened_urls": 0
+    }, 
+    "notches": [
+        {
+            "subscores": [
+                1, 
+                0.0, 
+                0.1
+            ], 
+            "score": 1.1, 
+            "name": [
+                "date_in_past", 
+                "from_missmatch", 
+                "html_a_href_camouflaging"
+            ], 
+            "module": "ill"
+        }
+    ], 
+    "phish_score": 0, 
+    "pepca": "p5df351818abf2f16", 
+    "pepca_inline_style": "pa037d84beffaa34d"
+}

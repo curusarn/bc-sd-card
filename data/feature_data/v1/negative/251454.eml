@@ -1,0 +1,140 @@
+{
+    "adscore": 0, 
+    "attachments": [
+        {
+            "cte": "QPRINT", 
+            "flags": 0, 
+            "mime_type": "text/html", 
+            "name": "objednavka_0015045587.html", 
+            "pepca": "p67115f6513747a23", 
+            "size": 3142, 
+            "sumphash": "dffbb765fab1ce1a43558153cbe7ec94"
+        }
+    ], 
+    "content": "CONTENT_DEFAULT", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/251454.eml", 
+    "first10words": " Vazeny zakazniku potvrzujeme prijeti Vasi objednavky V priloze zasilame rekapitulaci objednavek Dekujeme za vyuziti e sh", 
+    "header_from": "eshop_noreply@dpp.cz", 
+    "lang": "cs", 
+    "last10words": " html Toto je automaticky generovana zprava prosime neodpovidejte na ni V pripade dotazu nebo potizi kontaktujte prosim infolinku ", 
+    "notches": [
+        {
+            "module": "ill", 
+            "name": [
+                "date_in_past", 
+                "from_missmatch"
+            ], 
+            "score": 1, 
+            "subscores": [
+                1, 
+                0.0
+            ]
+        }
+    ], 
+    "pepca": "p1e225bf1bb1a6366", 
+    "pepca_inline_style": "", 
+    "pepca_inline_style_total": 0, 
+    "pepca_style": "", 
+    "pepca_style_total": 0, 
+    "pepcatotal": 0, 
+    "phashes": [
+        {
+            "name": "att-pepca", 
+            "value": "p67115f6513747a23"
+        }, 
+        {
+            "name": "pepca", 
+            "value": "p1e225bf1bb1a6366"
+        }
+    ], 
+    "phish_score": 0, 
+    "phishing": {
+        "camouflage": 0, 
+        "fake_https": 0, 
+        "html_form": 0, 
+        "num_black_sheep_link": -1, 
+        "num_black_sheep_link_global": -1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_dots_urls": 3, 
+        "num_freehost_urls": 0, 
+        "num_html_script_tags": 0, 
+        "num_https_urls": 0, 
+        "num_ip_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "num_param_phish": 0, 
+        "num_path_phish": 0, 
+        "num_phish_keywords": 8, 
+        "num_sender_diff_url": 0, 
+        "num_shortened_urls": 0, 
+        "num_slashes_urls": 3, 
+        "num_subdomain_phish": 0, 
+        "num_text_forms": 0, 
+        "num_tld_in_url_path": 0, 
+        "num_www_in_url_path": 0, 
+        "subject_phish_keywords": 1, 
+        "suspicious_links": [], 
+        "text_and_href": 3, 
+        "text_link_with_path": 2
+    }, 
+    "precedence": 3, 
+    "rcpts_count": 1, 
+    "senders": {
+        "cnt-pow4_w_duc": "", 
+        "cnt-pow4_w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "domain_keywords": "dobrovsky-test", 
+        "domain_keywords_detail": [
+            {
+                "confidence": 17269930.65148, 
+                "domain": "dobrovsky-test"
+            }
+        ], 
+        "ettf_w_duc": "", 
+        "ettf_w_duc_detail": [], 
+        "idf": "", 
+        "idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "log_cnt-w_duc_detail": [], 
+        "log_cnt_idf": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "log_ecnt_idf": "", 
+        "log_ecnt_idf_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "log_ecnt_log_idf_log_tidf": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "plain_domain": "dpp", 
+        "plain_domain_detail": [
+            {
+                "confidence": 1, 
+                "domain": "dpp"
+            }
+        ], 
+        "src_revert": "", 
+        "src_revert_detail": [], 
+        "tf_log_idf": "", 
+        "tf_log_idf_detail": [], 
+        "ttf_w_duc": "", 
+        "ttf_w_duc_detail": []
+    }, 
+    "spamscore": 1, 
+    "subject": "E shop DPP c obj 0015045587 Potvrzeni prijeti objednavky", 
+    "unsub_link": "http://eshop.dpp.cz/eShopResources/text/obchodni_podminky.html", 
+    "unsub_link_candidates": [
+        "http://eshop.dpp.cz/eShopResources/text/obchodni_podminky.html"
+    ], 
+    "unsub_link_texts": [
+        "praha akciovy spolecnost sokolovsky praha obchodny podminka najit na adresa http eshop dpp cz eshopresources text obchodny podminka html toto je automaticky generovany zprava prosit neodpovidat na on"
+    ], 
+    "word_count": 334
+}

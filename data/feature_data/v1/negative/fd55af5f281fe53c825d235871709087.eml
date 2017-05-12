@@ -1,0 +1,152 @@
+{
+    "adscore": 0, 
+    "attachments": [
+        {
+            "cid": "image001.jpg@01D0185D.0392C580", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "image/jpeg", 
+            "name": "image001.jpg", 
+            "pepca": "p138c238c480cd523", 
+            "size": 2062, 
+            "sumphash": "19abb7e3f18812fd6036196f97e0250e"
+        }, 
+        {
+            "cte": "BASE64", 
+            "flags": 0, 
+            "lang": "un", 
+            "mime_type": "application/pdf", 
+            "name": "kovodemont.pdf", 
+            "pepca": "p13a3e5d5fe4859b2", 
+            "size": 190449, 
+            "sumphash": "14053f72f90df6a5939d7dde7a586fca"
+        }
+    ], 
+    "content": "CONTENT_DEFAULT", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/fd55af5f281fe53c825d235871709087.eml", 
+    "first10words": " Dobry den A VA priloze Vam zasilam objednavku sA platnosti od 10 12 2014A do 10 1 2015 a timto pros", 
+    "header_from": "petra.hovorkova@praktikgroup.cz", 
+    "lang": "cs", 
+    "last10words": "bujete vytisknout tento e mail Please consider your environmental responsibilities before printing this email A ", 
+    "notches": [
+        {
+            "module": "ill", 
+            "name": [
+                "date_in_past", 
+                "from_missmatch"
+            ], 
+            "score": 1, 
+            "subscores": [
+                1, 
+                0.0
+            ]
+        }
+    ], 
+    "pepca": "p572ddfc58549b123", 
+    "pepca_inline_style": "pf06292162a5b6950", 
+    "pepca_inline_style_total": 0, 
+    "pepca_style": "", 
+    "pepca_style_total": 0, 
+    "pepcatotal": 0, 
+    "phashes": [
+        {
+            "name": "att-pepca", 
+            "value": "p138c238c480cd523"
+        }, 
+        {
+            "name": "att-pepca", 
+            "value": "p13a3e5d5fe4859b2"
+        }, 
+        {
+            "name": "pepca", 
+            "value": "p572ddfc58549b123"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "pf06292162a5b6950"
+        }
+    ], 
+    "phish_score": 0, 
+    "phishing": {
+        "camouflage": 0, 
+        "fake_https": 0, 
+        "html_form": 0, 
+        "num_black_sheep_link": -1, 
+        "num_black_sheep_link_global": -1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_dots_urls": 2, 
+        "num_freehost_urls": 0, 
+        "num_html_script_tags": 0, 
+        "num_https_urls": 0, 
+        "num_ip_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "num_param_phish": 0, 
+        "num_path_phish": 0, 
+        "num_phish_keywords": 1, 
+        "num_sender_diff_url": 0, 
+        "num_shortened_urls": 0, 
+        "num_slashes_urls": 1, 
+        "num_subdomain_phish": 0, 
+        "num_text_forms": 5, 
+        "num_tld_in_url_path": 0, 
+        "num_www_in_url_path": 0, 
+        "subject_phish_keywords": 0, 
+        "suspicious_links": [], 
+        "text_and_href": 0, 
+        "text_link_with_path": 0
+    }, 
+    "precedence": 3, 
+    "rcpts_count": 1, 
+    "senders": {
+        "cnt-pow4_w_duc": "", 
+        "cnt-pow4_w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "domain_keywords": "alza", 
+        "domain_keywords_detail": [
+            {
+                "confidence": 2287536.581903, 
+                "domain": "alza"
+            }
+        ], 
+        "ettf_w_duc": "", 
+        "ettf_w_duc_detail": [], 
+        "idf": "", 
+        "idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "log_cnt-w_duc_detail": [], 
+        "log_cnt_idf": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "log_ecnt_idf": "", 
+        "log_ecnt_idf_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "log_ecnt_log_idf_log_tidf": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "plain_domain": "praktikgroup", 
+        "plain_domain_detail": [
+            {
+                "confidence": 2, 
+                "domain": "praktikgroup"
+            }
+        ], 
+        "src_revert": "", 
+        "src_revert_detail": [], 
+        "tf_log_idf": "", 
+        "tf_log_idf_detail": [], 
+        "ttf_w_duc": "", 
+        "ttf_w_duc_detail": []
+    }, 
+    "spamscore": 1, 
+    "subject": "Objednavka platna 10 12 2014 10 1 2015", 
+    "word_count": 231
+}

@@ -1,0 +1,161 @@
+{
+    "adscore": 0, 
+    "attachments": [
+        {
+            "cid": "part1.08040302.08000107@zarovky-shop.cz", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "image/jpeg", 
+            "name": "", 
+            "pepca": "p36a5eb00bc7ad567", 
+            "size": 2753, 
+            "sumphash": "3fad38f99bf8ce7af1f7e067366d6c36"
+        }
+    ], 
+    "content": "CONTENT_DEFAULT", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/32809ec46aca83efec199383138199ff.eml.eml", 
+    "first10words": " Dobry den zarovky nebyly u dodavatele skladem tudiz nyni objednavam a doposleme v patek S pozdravem Eliska Slaninova o", 
+    "header_from": "eliska.slaninova@hdt.cz", 
+    "lang": "cs", 
+    "last10words": "ejeme hezky zbytek dne Vas obchod zarovky shop cz info zarovky shop cz ", 
+    "notches": [
+        {
+            "module": "ill", 
+            "name": [
+                "date_in_past", 
+                "from_missmatch"
+            ], 
+            "score": 1, 
+            "subscores": [
+                1, 
+                0.0
+            ]
+        }
+    ], 
+    "pepca": "p106cd73b7e3500e6", 
+    "pepca_inline_style": "p6f4e291240dee1da", 
+    "pepca_inline_style_total": 0, 
+    "pepca_style": "", 
+    "pepca_style_total": 0, 
+    "pepcatotal": 0, 
+    "phashes": [
+        {
+            "name": "att-pepca", 
+            "value": "p36a5eb00bc7ad567"
+        }, 
+        {
+            "name": "pepca", 
+            "value": "p106cd73b7e3500e6"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "p6f4e291240dee1da"
+        }
+    ], 
+    "phish_score": 0, 
+    "phishing": {
+        "camouflage": 0, 
+        "fake_https": 0, 
+        "html_form": 0, 
+        "num_black_sheep_link": -1, 
+        "num_black_sheep_link_global": -1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_dots_urls": 3, 
+        "num_freehost_urls": 0, 
+        "num_html_script_tags": 0, 
+        "num_https_urls": 1, 
+        "num_ip_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "num_param_phish": 0, 
+        "num_path_phish": 0, 
+        "num_phish_keywords": 0, 
+        "num_sender_diff_url": 5, 
+        "num_shortened_urls": 0, 
+        "num_slashes_urls": 6, 
+        "num_subdomain_phish": 0, 
+        "num_text_forms": 9, 
+        "num_tld_in_url_path": 0, 
+        "num_www_in_url_path": 0, 
+        "subject_phish_keywords": 0, 
+        "suspicious_links": [], 
+        "text_and_href": 5, 
+        "text_link_with_path": 3
+    }, 
+    "precedence": 3, 
+    "rcpts_count": 1, 
+    "senders": {
+        "cnt-pow4_w_duc": "", 
+        "cnt-pow4_w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "domain_keywords": "masterinter", 
+        "domain_keywords_detail": [
+            {
+                "confidence": 293149133.387024, 
+                "domain": "masterinter"
+            }
+        ], 
+        "ettf_w_duc": "", 
+        "ettf_w_duc_detail": [], 
+        "idf": "", 
+        "idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "log_cnt-w_duc_detail": [], 
+        "log_cnt_idf": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "log_ecnt_idf": "", 
+        "log_ecnt_idf_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "log_ecnt_log_idf_log_tidf": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "plain_domain": "ledstudio", 
+        "plain_domain_detail": [
+            {
+                "confidence": 2, 
+                "domain": "ledstudio"
+            }, 
+            {
+                "confidence": 1, 
+                "domain": "dt-bautrade"
+            }, 
+            {
+                "confidence": 3, 
+                "domain": "hdt"
+            }, 
+            {
+                "confidence": 4, 
+                "domain": "zarovky-shop"
+            }, 
+            {
+                "confidence": 1, 
+                "domain": "disco-shop"
+            }
+        ], 
+        "src_revert": "", 
+        "src_revert_detail": [], 
+        "tf_log_idf": "", 
+        "tf_log_idf_detail": [], 
+        "ttf_w_duc": "", 
+        "ttf_w_duc_detail": []
+    }, 
+    "spamscore": 1, 
+    "subject": "Re RE Nova objednavka 1153989 www zarovky shop cz", 
+    "unsub_link": "http://www.zarovky-shop.cz/zarovky/2-OBCHODNI-PODMINKY", 
+    "unsub_link_candidates": [
+        "http://www.zarovky-shop.cz/zarovky/2-OBCHODNI-PODMINKY"
+    ], 
+    "unsub_link_texts": [
+        "obchodny podminka a reklamacni rad cist zde "
+    ], 
+    "word_count": 1484
+}

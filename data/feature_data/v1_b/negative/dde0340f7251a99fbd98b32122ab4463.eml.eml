@@ -1,0 +1,141 @@
+{
+    "pepcatotal": 0, 
+    "attachments": [
+        {
+            "name": "image001.gif", 
+            "cid": "image001.gif@01D02E74.26E7E4C0", 
+            "pepca": "pab73044e3f89fc9b", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "sumphash": "7fae8d30a1108d34390edb55dc3be7bc", 
+            "mime_type": "image/gif", 
+            "size": 26673
+        }
+    ], 
+    "precedence": 3, 
+    "phashes": [
+        {
+            "name": "att-pepca", 
+            "value": "pab73044e3f89fc9b"
+        }, 
+        {
+            "name": "pepca", 
+            "value": "p2f093bf78610d5e6"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "pe07537a5630c10c5"
+        }
+    ], 
+    "word_count": 247, 
+    "adscore": 0, 
+    "senders": {
+        "idf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "tf_log_idf": "", 
+        "log_ecnt_idf": "", 
+        "ttf_w_duc": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "src_revert_detail": [], 
+        "domain_keywords_detail": [
+            {
+                "confidence": 50982457.980352, 
+                "domain": "masterinter"
+            }
+        ], 
+        "log_ecnt_idf_detail": [], 
+        "plain_domain": "copyservis", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt_idf": "", 
+        "src_revert": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "ettf_w_duc_detail": [], 
+        "cnt-pow4_w_duc_detail": [], 
+        "plain_domain_detail": [
+            {
+                "confidence": 1, 
+                "domain": "copyservis"
+            }
+        ], 
+        "log_ecnt_idf_log_tidf": "", 
+        "ettf_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "domain_keywords": "masterinter", 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "cnt-pow4_w_duc": "", 
+        "ttf_w_duc_detail": [], 
+        "tf_log_idf_detail": [], 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "idf": "", 
+        "log_ecnt_log_idf_log_tidf": ""
+    }, 
+    "pepca_style": "", 
+    "subject": "Vase objednavka", 
+    "first10words": " Vazeny zakazniku dekujeme Vam za objednavku A Vase objednavka byla vyrizena A", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/dde0340f7251a99fbd98b32122ab4463.eml.eml", 
+    "pepca_style_total": 0, 
+    "content": "CONTENT_DEFAULT", 
+    "last10words": "nikova 43 Praha 5 150 00 Tel 257 326 011 728 436 606 jan kostka copyservis cz www copyservis cz A ", 
+    "spamscore": 1.1, 
+    "header_from": "jan.kostka@copyservis.cz", 
+    "pepca_inline_style_total": 0, 
+    "lang": "cs", 
+    "rcpts_count": 1, 
+    "phishing": {
+        "fake_https": 0, 
+        "num_black_sheep_link_phish": 0, 
+        "num_https_urls": 0, 
+        "text_link_with_path": 0, 
+        "num_dots_urls": 2, 
+        "num_phish_keywords": 1, 
+        "num_param_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_sender_diff_url": 0, 
+        "num_tld_in_url_path": 0, 
+        "num_black_sheep_link": -1, 
+        "text_and_href": 0, 
+        "num_text_forms": 1, 
+        "suspicious_links": [], 
+        "num_ip_urls": 0, 
+        "num_www_in_url_path": 0, 
+        "camouflage": 0, 
+        "num_slashes_urls": 0, 
+        "num_freehost_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "ner_domain_detected": false, 
+        "subject_phish_keywords": 0, 
+        "html_form": 0, 
+        "num_black_sheep_link_global": -1, 
+        "num_html_script_tags": 0, 
+        "num_path_phish": 0, 
+        "num_subdomain_phish": 0, 
+        "num_shortened_urls": 0
+    }, 
+    "notches": [
+        {
+            "subscores": [
+                1, 
+                0.0, 
+                0.1
+            ], 
+            "score": 1.1, 
+            "name": [
+                "date_in_past", 
+                "from_missmatch", 
+                "foreign_message_id"
+            ], 
+            "module": "ill"
+        }
+    ], 
+    "phish_score": 0, 
+    "pepca": "p2f093bf78610d5e6", 
+    "pepca_inline_style": "pe07537a5630c10c5"
+}

@@ -1,0 +1,130 @@
+{
+    "adscore": 0, 
+    "attachments": [
+        {
+            "cid": "part1.09000803.06070907@supprefnum63248@southtrust.com", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "image/gif", 
+            "name": "covariant.GIF", 
+            "pepca": "p2fd2051fb42ef507", 
+            "size": 7374, 
+            "sumphash": "d9c5c6e6cac2cd186af45cdc0bed040e"
+        }
+    ], 
+    "content": "CONTENT_DEFAULT", 
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/20051114/51.eml", 
+    "first10words": " in 1823 Rock Music Web Ramadan History ", 
+    "header_from": "support_refnum_654341@southtrust.com", 
+    "lang": "en", 
+    "last10words": " in 1823 Rock Music Web Ramadan History ", 
+    "notches": [
+        {
+            "module": "ill", 
+            "name": [
+                "date_in_past", 
+                "from_missmatch"
+            ], 
+            "score": 1, 
+            "subscores": [
+                1, 
+                0.0
+            ]
+        }
+    ], 
+    "pepca": "p53daf762d4e9b672", 
+    "pepca_inline_style": "", 
+    "pepca_inline_style_total": 0, 
+    "pepca_style": "", 
+    "pepca_style_total": 0, 
+    "pepcatotal": 0, 
+    "phashes": [
+        {
+            "name": "att-pepca", 
+            "value": "p2fd2051fb42ef507"
+        }, 
+        {
+            "name": "pepca", 
+            "value": "p53daf762d4e9b672"
+        }
+    ], 
+    "phish_score": 0, 
+    "phishing": {
+        "camouflage": 0, 
+        "fake_https": 0, 
+        "html_form": 0, 
+        "num_black_sheep_link": -1, 
+        "num_black_sheep_link_global": -1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_dots_urls": 2, 
+        "num_freehost_urls": 0, 
+        "num_html_script_tags": 0, 
+        "num_https_urls": 1, 
+        "num_ip_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "num_param_phish": 0, 
+        "num_path_phish": 0, 
+        "num_phish_keywords": 0, 
+        "num_sender_diff_url": 0, 
+        "num_shortened_urls": 0, 
+        "num_slashes_urls": 3, 
+        "num_subdomain_phish": 0, 
+        "num_text_forms": 0, 
+        "num_tld_in_url_path": 0, 
+        "num_www_in_url_path": 0, 
+        "subject_phish_keywords": 0, 
+        "suspicious_links": [], 
+        "text_and_href": 0, 
+        "text_link_with_path": 0
+    }, 
+    "precedence": 3, 
+    "rcpts_count": 1, 
+    "resent": true, 
+    "senders": {
+        "cnt-pow4_w_duc": "", 
+        "cnt-pow4_w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "domain_keywords": "mclub", 
+        "domain_keywords_detail": [
+            {
+                "confidence": 2431519.14227, 
+                "domain": "mclub"
+            }
+        ], 
+        "ettf_w_duc": "", 
+        "ettf_w_duc_detail": [], 
+        "idf": "", 
+        "idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "log_cnt-w_duc_detail": [], 
+        "log_cnt_idf": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "log_ecnt_idf": "", 
+        "log_ecnt_idf_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "log_ecnt_log_idf_log_tidf": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "plain_domain": "", 
+        "plain_domain_detail": [], 
+        "src_revert": "", 
+        "src_revert_detail": [], 
+        "tf_log_idf": "", 
+        "tf_log_idf_detail": [], 
+        "ttf_w_duc": "", 
+        "ttf_w_duc_detail": []
+    }, 
+    "spamscore": 1, 
+    "subject": "SOUTHTRUST BANK SPECIAL ANNOUNCE", 
+    "word_count": 9
+}

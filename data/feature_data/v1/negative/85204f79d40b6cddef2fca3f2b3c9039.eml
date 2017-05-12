@@ -1,0 +1,144 @@
+{
+    "adscore": 0, 
+    "attachments": [
+        {
+            "cte": "BASE64", 
+            "first10words": "obchodni podminky Obchodni podminky platne od pro www sportobchod cz", 
+            "flags": 0, 
+            "lang": "cs", 
+            "mime_type": "application/pdf", 
+            "name": "obchodni_podminky.pdf", 
+            "pepca": "pcb23ae90b647a495", 
+            "size": 201631, 
+            "sumphash": "fb597d8116e67954de729f64ea79d541"
+        }
+    ], 
+    "content": "CONTENT_DEFAULT", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/85204f79d40b6cddef2fca3f2b3c9039.eml", 
+    "first10words": " Vazeny zakazniku dekujeme Vam za objednavku zbozi prostrednictvim internetoveho obchodu SportObchod cz Tato objednavka byla", 
+    "header_from": "info@sportobchod.cz", 
+    "lang": "cs", 
+    "last10words": "Obchod cz s r o Cechynska 16 602 00 Brno IC 26904241 DIC CZ26904241 Vsechny ceny jsou konecne vcetne DPH v prislusne sazbe ", 
+    "notches": [
+        {
+            "module": "ill", 
+            "name": [
+                "date_in_past", 
+                "from_missmatch"
+            ], 
+            "score": 1, 
+            "subscores": [
+                1, 
+                0.0
+            ]
+        }
+    ], 
+    "pepca": "p4a7d895fca73a311", 
+    "pepca_inline_style": "p3f96e6da2d0a9546", 
+    "pepca_inline_style_total": 0, 
+    "pepca_style": "", 
+    "pepca_style_total": 0, 
+    "pepcatotal": 0, 
+    "phashes": [
+        {
+            "name": "att-pepca", 
+            "value": "pcb23ae90b647a495"
+        }, 
+        {
+            "name": "pepca", 
+            "value": "p4a7d895fca73a311"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "p3f96e6da2d0a9546"
+        }
+    ], 
+    "phish_score": 0, 
+    "phishing": {
+        "camouflage": 0, 
+        "fake_https": 0, 
+        "html_form": 0, 
+        "num_black_sheep_link": -1, 
+        "num_black_sheep_link_global": -1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_dots_urls": 3, 
+        "num_freehost_urls": 0, 
+        "num_html_script_tags": 0, 
+        "num_https_urls": 0, 
+        "num_ip_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "num_param_phish": 0, 
+        "num_path_phish": 0, 
+        "num_phish_keywords": 5, 
+        "num_sender_diff_url": 1, 
+        "num_shortened_urls": 0, 
+        "num_slashes_urls": 1, 
+        "num_subdomain_phish": 0, 
+        "num_text_forms": 0, 
+        "num_tld_in_url_path": 0, 
+        "num_www_in_url_path": 0, 
+        "subject_phish_keywords": 0, 
+        "suspicious_links": [], 
+        "text_and_href": 1, 
+        "text_link_with_path": 0
+    }, 
+    "precedence": 3, 
+    "rcpts_count": 1, 
+    "senders": {
+        "cnt-pow4_w_duc": "", 
+        "cnt-pow4_w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "domain_keywords": "sportobchod", 
+        "domain_keywords_detail": [
+            {
+                "confidence": 87063984.720818, 
+                "domain": "sportobchod"
+            }
+        ], 
+        "ettf_w_duc": "", 
+        "ettf_w_duc_detail": [], 
+        "idf": "", 
+        "idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "log_cnt-w_duc_detail": [], 
+        "log_cnt_idf": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "log_ecnt_idf": "", 
+        "log_ecnt_idf_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "log_ecnt_log_idf_log_tidf": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "plain_domain": "sportobchod", 
+        "plain_domain_detail": [
+            {
+                "confidence": 4, 
+                "domain": "sportobchod"
+            }
+        ], 
+        "src_revert": "sportobchod", 
+        "src_revert_detail": [
+            {
+                "confidence": 1, 
+                "domain": "sportobchod"
+            }
+        ], 
+        "tf_log_idf": "", 
+        "tf_log_idf_detail": [], 
+        "ttf_w_duc": "", 
+        "ttf_w_duc_detail": []
+    }, 
+    "spamscore": 1, 
+    "subject": "Objednavka v internetovem obchode SportObchod cz", 
+    "word_count": 255
+}

@@ -1,0 +1,130 @@
+{
+    "pepcatotal": 0, 
+    "attachments": [
+        {
+            "name": "bessemer.gif", 
+            "cid": "Y1W5PLQ8YS", 
+            "pepca": "p965afc05125dd658", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "sumphash": "9ceb17b0dccb58ce881c4eb3ed2989c6", 
+            "mime_type": "image/gif", 
+            "size": 9536
+        }
+    ], 
+    "precedence": 3, 
+    "phashes": [
+        {
+            "name": "att-pepca", 
+            "value": "p965afc05125dd658"
+        }, 
+        {
+            "name": "pepca", 
+            "value": "p441345ad31054775"
+        }
+    ], 
+    "word_count": 57, 
+    "adscore": 0, 
+    "senders": {
+        "idf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "tf_log_idf": "", 
+        "log_ecnt_idf": "", 
+        "ttf_w_duc": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "src_revert_detail": [], 
+        "domain_keywords_detail": [
+            {
+                "confidence": 15948539.7645305, 
+                "domain": "mcsv"
+            }
+        ], 
+        "log_ecnt_idf_detail": [], 
+        "plain_domain": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt_idf": "", 
+        "src_revert": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "ettf_w_duc_detail": [], 
+        "cnt-pow4_w_duc_detail": [], 
+        "plain_domain_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "ettf_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "domain_keywords": "mcsv", 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "cnt-pow4_w_duc": "", 
+        "ttf_w_duc_detail": [], 
+        "tf_log_idf_detail": [], 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "idf": "", 
+        "log_ecnt_log_idf_log_tidf": ""
+    }, 
+    "pepca_style": "", 
+    "subject": "Important Information For BB T Client message id de52161901344976 ", 
+    "first10words": " common 0x83 NO1 0x20049676 0x952 0x68255999 0x22 0x07686247 0x9 0x9 0x18 0x3 0x95 0x31921736 0x84 0x2 0x8177 0x085", 
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/471.eml", 
+    "pepca_style_total": 0, 
+    "content": "CONTENT_DEFAULT", 
+    "last10words": " file KMA common tmp api 18U GZEU D2Z7 engine function hex tmp 54N2 include update 0x44473778 0x1 0x23 0x1 0x17050037 0x5 0x403 ", 
+    "spamscore": 1, 
+    "header_from": "businessservice.ref605460002844393.cm@bbt.com", 
+    "pepca_inline_style_total": 0, 
+    "lang": "en", 
+    "rcpts_count": 1, 
+    "phishing": {
+        "fake_https": 0, 
+        "num_black_sheep_link_phish": 0, 
+        "num_https_urls": 0, 
+        "text_link_with_path": 0, 
+        "num_dots_urls": 6, 
+        "num_phish_keywords": 1, 
+        "num_param_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_sender_diff_url": 1, 
+        "num_tld_in_url_path": 0, 
+        "num_black_sheep_link": -1, 
+        "text_and_href": 0, 
+        "num_text_forms": 0, 
+        "suspicious_links": [], 
+        "num_ip_urls": 0, 
+        "num_www_in_url_path": 0, 
+        "camouflage": 0, 
+        "num_slashes_urls": 3, 
+        "num_freehost_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "ner_domain_detected": false, 
+        "subject_phish_keywords": 1, 
+        "html_form": 0, 
+        "num_black_sheep_link_global": -1, 
+        "num_html_script_tags": 0, 
+        "num_path_phish": 0, 
+        "num_subdomain_phish": 0, 
+        "num_shortened_urls": 0
+    }, 
+    "notches": [
+        {
+            "subscores": [
+                1, 
+                0.0
+            ], 
+            "score": 1, 
+            "name": [
+                "date_in_past", 
+                "from_missmatch"
+            ], 
+            "module": "ill"
+        }
+    ], 
+    "phish_score": 0, 
+    "pepca": "p441345ad31054775", 
+    "pepca_inline_style": ""
+}

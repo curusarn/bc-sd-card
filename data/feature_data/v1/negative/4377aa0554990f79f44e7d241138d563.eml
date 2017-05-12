@@ -1,0 +1,142 @@
+{
+    "adscore": 0, 
+    "attachments": [
+        {
+            "cid": "photo0", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "image/png", 
+            "name": "", 
+            "pepca": "pe14ac0782ecdb307", 
+            "size": 8267, 
+            "sumphash": "62bee5efa6dbaba33243a67cc551b390"
+        }
+    ], 
+    "contains_list_header": true, 
+    "content": "CONTENT_DEFAULT", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/4377aa0554990f79f44e7d241138d563.eml", 
+    "first10words": " Dobry den zazadali jste o zaslani noveho hesla pro Vas uzivatelsky ucet vedeny pod e mailovou adresou zlatka 91 seznam cz ", 
+    "header_from": "coolsoutez@coolsoutez.cz", 
+    "lang": "cs", 
+    "last10words": "uctu na CoolSoutez cz pod Vasi e mailovou adresou V tomto pripade nam tuto zalezitost nahlaste na info coolsoutez cz Dekujeme ", 
+    "list_unsubscribe_urls": [
+        "mailto:unsubscribe@email-server.cz?subject=odhlasit&body=odhlasit:<zlatka.91@seznam.cz"
+    ], 
+    "notches": [
+        {
+            "module": "ill", 
+            "name": [
+                "date_in_past", 
+                "from_missmatch", 
+                "html_a_href_camouflaging", 
+                "missing_message_id"
+            ], 
+            "score": 2.1, 
+            "subscores": [
+                1, 
+                0.0, 
+                0.1, 
+                1
+            ]
+        }
+    ], 
+    "pepca": "pcbec01c197e5ce5e", 
+    "pepca_inline_style": "", 
+    "pepca_inline_style_total": 0, 
+    "pepca_style": "", 
+    "pepca_style_total": 0, 
+    "pepcatotal": 0, 
+    "phashes": [
+        {
+            "name": "att-pepca", 
+            "value": "pe14ac0782ecdb307"
+        }, 
+        {
+            "name": "pepca", 
+            "value": "pcbec01c197e5ce5e"
+        }
+    ], 
+    "phish_score": 0, 
+    "phishing": {
+        "camouflage": 1, 
+        "fake_https": 0, 
+        "html_form": 0, 
+        "num_black_sheep_link": -1, 
+        "num_black_sheep_link_global": -1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_dots_urls": 2, 
+        "num_freehost_urls": 0, 
+        "num_html_script_tags": 0, 
+        "num_https_urls": 1, 
+        "num_ip_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "num_param_phish": 0, 
+        "num_path_phish": 0, 
+        "num_phish_keywords": 6, 
+        "num_sender_diff_url": 1, 
+        "num_shortened_urls": 0, 
+        "num_slashes_urls": 1, 
+        "num_subdomain_phish": 0, 
+        "num_text_forms": 1, 
+        "num_tld_in_url_path": 0, 
+        "num_www_in_url_path": 0, 
+        "subject_phish_keywords": 2, 
+        "suspicious_links": [], 
+        "text_and_href": 0, 
+        "text_link_with_path": 1
+    }, 
+    "precedence": 3, 
+    "rcpts_count": 1, 
+    "senders": {
+        "cnt-pow4_w_duc": "", 
+        "cnt-pow4_w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "domain_keywords": "benaughty", 
+        "domain_keywords_detail": [
+            {
+                "confidence": 4662190.9252958, 
+                "domain": "benaughty"
+            }
+        ], 
+        "ettf_w_duc": "", 
+        "ettf_w_duc_detail": [], 
+        "idf": "", 
+        "idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "log_cnt-w_duc_detail": [], 
+        "log_cnt_idf": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "log_ecnt_idf": "", 
+        "log_ecnt_idf_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "log_ecnt_log_idf_log_tidf": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "plain_domain": "coolsoutez", 
+        "plain_domain_detail": [
+            {
+                "confidence": 1, 
+                "domain": "coolsoutez"
+            }
+        ], 
+        "src_revert": "", 
+        "src_revert_detail": [], 
+        "tf_log_idf": "", 
+        "tf_log_idf_detail": [], 
+        "ttf_w_duc": "", 
+        "ttf_w_duc_detail": []
+    }, 
+    "spamscore": 2.1, 
+    "subject": "Nove heslo k vasemu uctu", 
+    "word_count": 78
+}

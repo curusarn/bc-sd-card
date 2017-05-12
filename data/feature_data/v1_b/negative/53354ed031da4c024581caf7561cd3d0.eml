@@ -1,0 +1,143 @@
+{
+    "pepcatotal": 0, 
+    "attachments": [
+        {
+            "name": "logo_mares_diving.jpg", 
+            "cid": "logo_mares_diving.jpg", 
+            "pepca": "pafec62e72cd7ef39", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "sumphash": "a4e03e892738cf084e834fa224f7b73b", 
+            "mime_type": "image/jpeg", 
+            "size": 35661
+        }
+    ], 
+    "precedence": 3, 
+    "phashes": [
+        {
+            "name": "att-pepca", 
+            "value": "pafec62e72cd7ef39"
+        }, 
+        {
+            "name": "pepca", 
+            "value": "p5ec3b09c1a0fd406"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "p5645c398a83de37e"
+        }
+    ], 
+    "word_count": 224, 
+    "adscore": 0, 
+    "senders": {
+        "idf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "tf_log_idf": "", 
+        "log_ecnt_idf": "", 
+        "ttf_w_duc": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "src_revert_detail": [], 
+        "domain_keywords_detail": [
+            {
+                "confidence": 38236843.485264, 
+                "domain": "masterinter"
+            }
+        ], 
+        "log_ecnt_idf_detail": [], 
+        "plain_domain": "marediving", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt_idf": "", 
+        "src_revert": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "ettf_w_duc_detail": [], 
+        "cnt-pow4_w_duc_detail": [], 
+        "plain_domain_detail": [
+            {
+                "confidence": 1, 
+                "domain": "marediving"
+            }, 
+            {
+                "confidence": 1, 
+                "domain": "opencart"
+            }
+        ], 
+        "log_ecnt_idf_log_tidf": "", 
+        "ettf_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "domain_keywords": "masterinter", 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "cnt-pow4_w_duc": "", 
+        "ttf_w_duc_detail": [], 
+        "tf_log_idf_detail": [], 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "idf": "", 
+        "log_ecnt_log_idf_log_tidf": ""
+    }, 
+    "pepca_style": "", 
+    "subject": "Marediving Potapecske vybaveni MARES Objednavka 3843", 
+    "first10words": " Marediving Potapecske vybaveni MARES Objednavka 3843 Dekujeme za Vas zajem o zbozi z internetoveho obchodu M", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/53354ed031da4c024581caf7561cd3d0.eml", 
+    "pepca_style_total": 0, 
+    "content": "CONTENT_DEFAULT", 
+    "last10words": "Kc Postovne 150 Kc Celkem 1 630 Kc Marediving Potapecske vybaveni MARES pouziva OpenCart ", 
+    "spamscore": 1, 
+    "header_from": "rove@volny.cz", 
+    "pepca_inline_style_total": 0, 
+    "lang": "cs", 
+    "rcpts_count": 1, 
+    "phishing": {
+        "fake_https": 0, 
+        "num_black_sheep_link_phish": 0, 
+        "num_https_urls": 0, 
+        "text_link_with_path": 0, 
+        "num_dots_urls": 2, 
+        "num_phish_keywords": 0, 
+        "num_param_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_sender_diff_url": 2, 
+        "num_tld_in_url_path": 0, 
+        "num_black_sheep_link": -1, 
+        "text_and_href": 0, 
+        "num_text_forms": 2, 
+        "suspicious_links": [], 
+        "num_ip_urls": 0, 
+        "num_www_in_url_path": 0, 
+        "camouflage": 0, 
+        "num_slashes_urls": 1, 
+        "num_freehost_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "ner_domain_detected": false, 
+        "subject_phish_keywords": 0, 
+        "html_form": 0, 
+        "num_black_sheep_link_global": -1, 
+        "num_html_script_tags": 0, 
+        "num_path_phish": 0, 
+        "num_subdomain_phish": 0, 
+        "num_shortened_urls": 0
+    }, 
+    "notches": [
+        {
+            "subscores": [
+                1, 
+                0.0
+            ], 
+            "score": 1, 
+            "name": [
+                "date_in_past", 
+                "from_missmatch"
+            ], 
+            "module": "ill"
+        }
+    ], 
+    "phish_score": 0, 
+    "pepca": "p5ec3b09c1a0fd406", 
+    "pepca_inline_style": "p5645c398a83de37e"
+}

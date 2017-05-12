@@ -1,0 +1,152 @@
+{
+    "pepcatotal": 0, 
+    "attachments": [
+        {
+            "name": "5450c30fa61bc3729373041.jpg", 
+            "cid": "44bda7f3a6327cc70cfe909a76e75dc3", 
+            "pepca": "p220df6f6cc68e098", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "sumphash": "fbabd0cb4cbe5f4e0f8ce7b216e216d8", 
+            "mime_type": "image/jpeg", 
+            "size": 19571
+        }, 
+        {
+            "name": "5450c30fa61bc3141597518.jpg", 
+            "cid": "aa0248d37b56d309466f52b3f3c44b63", 
+            "pepca": "p217ee6dcc47e9e84", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "sumphash": "19ba25395eb996c368935bd5400d9a5a", 
+            "mime_type": "image/jpeg", 
+            "size": 13358
+        }
+    ], 
+    "precedence": 3, 
+    "phashes": [
+        {
+            "name": "att-pepca", 
+            "value": "p220df6f6cc68e098"
+        }, 
+        {
+            "name": "att-pepca", 
+            "value": "p217ee6dcc47e9e84"
+        }, 
+        {
+            "name": "pepca", 
+            "value": "p7f5066df1ee5d296"
+        }, 
+        {
+            "name": "pepca_style", 
+            "value": "p3ad0b6456a1e556f"
+        }
+    ], 
+    "word_count": 100, 
+    "adscore": 0, 
+    "senders": {
+        "idf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "tf_log_idf": "", 
+        "log_ecnt_idf": "", 
+        "ttf_w_duc": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "src_revert_detail": [], 
+        "domain_keywords_detail": [
+            {
+                "confidence": 2468469.36959, 
+                "domain": "deezer"
+            }
+        ], 
+        "log_ecnt_idf_detail": [], 
+        "plain_domain": "receptynakazdyden", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt_idf": "", 
+        "src_revert": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "ettf_w_duc_detail": [], 
+        "cnt-pow4_w_duc_detail": [], 
+        "plain_domain_detail": [
+            {
+                "confidence": 2, 
+                "domain": "receptynakazdyden"
+            }
+        ], 
+        "log_ecnt_idf_log_tidf": "", 
+        "ettf_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "domain_keywords": "deezer", 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "cnt-pow4_w_duc": "", 
+        "ttf_w_duc_detail": [], 
+        "tf_log_idf_detail": [], 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "idf": "", 
+        "log_ecnt_log_idf_log_tidf": ""
+    }, 
+    "pepca_style": "p3ad0b6456a1e556f", 
+    "subject": "Uspesna registrace", 
+    "first10words": " Vazeny a Verca Kopecka Gratulujeme uspesne jste se zaregistroval a na strance www receptynakazdyden", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/320f86eb9e0d3e1e62adf129dc1b788f.eml", 
+    "pepca_style_total": 0, 
+    "content": "CONTENT_DEFAULT", 
+    "last10words": "yl a Vasi emailovou adresu jste neregistroval a napiste nam na unileverreceptynakazdyden gmail com a my ucet smazeme ", 
+    "spamscore": 1, 
+    "header_from": "unileverreceptynakazdyden@gmail.com", 
+    "pepca_inline_style_total": 0, 
+    "lang": "cs", 
+    "rcpts_count": 1, 
+    "phishing": {
+        "fake_https": 0, 
+        "num_black_sheep_link_phish": 0, 
+        "num_https_urls": 1, 
+        "text_link_with_path": 0, 
+        "num_dots_urls": 2, 
+        "num_phish_keywords": 1, 
+        "num_param_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_sender_diff_url": 1, 
+        "num_tld_in_url_path": 0, 
+        "num_black_sheep_link": -1, 
+        "text_and_href": 0, 
+        "num_text_forms": 3, 
+        "suspicious_links": [], 
+        "num_ip_urls": 0, 
+        "num_www_in_url_path": 0, 
+        "camouflage": 0, 
+        "num_slashes_urls": 1, 
+        "num_freehost_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "subject_phish_keywords": 0, 
+        "html_form": 0, 
+        "num_black_sheep_link_global": -1, 
+        "num_html_script_tags": 0, 
+        "num_path_phish": 0, 
+        "num_subdomain_phish": 0, 
+        "num_shortened_urls": 0
+    }, 
+    "notches": [
+        {
+            "subscores": [
+                1, 
+                0.0
+            ], 
+            "score": 1, 
+            "name": [
+                "date_in_past", 
+                "from_missmatch"
+            ], 
+            "module": "ill"
+        }
+    ], 
+    "phish_score": 0, 
+    "pepca": "p7f5066df1ee5d296", 
+    "pepca_inline_style": ""
+}

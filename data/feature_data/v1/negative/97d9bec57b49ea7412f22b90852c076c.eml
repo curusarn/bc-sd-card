@@ -1,0 +1,152 @@
+{
+    "adscore": 0, 
+    "attachments": [
+        {
+            "cid": "image001.jpg@01D0185A.551272A0", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "image/jpeg", 
+            "name": "image001.jpg", 
+            "pepca": "p1158d4bb46ebe072", 
+            "size": 63898, 
+            "sumphash": "133a0e84380e603089f575559c1023ed"
+        }, 
+        {
+            "cid": "image002.jpg@01D0185A.551272A0", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "image/jpeg", 
+            "name": "image002.jpg", 
+            "pepca": "p4453519354c14931", 
+            "size": 32292, 
+            "sumphash": "af1fcbf8610d77b20e4de11cc8fc1d65"
+        }
+    ], 
+    "content": "CONTENT_DEFAULT", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/97d9bec57b49ea7412f22b90852c076c.eml", 
+    "first10words": " fyi A Miroslav Flieger PhD Institute of Microbiology Academy of Sciences of the Czech Republic ", 
+    "header_from": "flieger@biomed.cas.cz", 
+    "lang": "cs", 
+    "last10words": " 420 234 700 808 Web www mironet cz A A A A ", 
+    "notches": [
+        {
+            "module": "ill", 
+            "name": [
+                "date_in_past", 
+                "from_missmatch"
+            ], 
+            "score": 1, 
+            "subscores": [
+                1, 
+                0.0
+            ]
+        }
+    ], 
+    "pepca": "pfeb7aaf623d09c8d", 
+    "pepca_inline_style": "pbf5560cf798a7b31", 
+    "pepca_inline_style_total": 0, 
+    "pepca_style": "", 
+    "pepca_style_total": 0, 
+    "pepcatotal": 0, 
+    "phashes": [
+        {
+            "name": "att-pepca", 
+            "value": "p1158d4bb46ebe072"
+        }, 
+        {
+            "name": "att-pepca", 
+            "value": "p4453519354c14931"
+        }, 
+        {
+            "name": "pepca", 
+            "value": "pfeb7aaf623d09c8d"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "pbf5560cf798a7b31"
+        }
+    ], 
+    "phish_score": 0, 
+    "phishing": {
+        "camouflage": 0, 
+        "fake_https": 0, 
+        "html_form": 0, 
+        "num_black_sheep_link": -1, 
+        "num_black_sheep_link_global": -1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_dots_urls": 4, 
+        "num_freehost_urls": 0, 
+        "num_html_script_tags": 0, 
+        "num_https_urls": 6, 
+        "num_ip_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "num_param_phish": 0, 
+        "num_path_phish": 0, 
+        "num_phish_keywords": 1, 
+        "num_sender_diff_url": 3, 
+        "num_shortened_urls": 0, 
+        "num_slashes_urls": 5, 
+        "num_subdomain_phish": 0, 
+        "num_text_forms": 9, 
+        "num_tld_in_url_path": 0, 
+        "num_www_in_url_path": 0, 
+        "subject_phish_keywords": 0, 
+        "suspicious_links": [], 
+        "text_and_href": 7, 
+        "text_link_with_path": 8
+    }, 
+    "precedence": 3, 
+    "rcpts_count": 1, 
+    "senders": {
+        "cnt-pow4_w_duc": "", 
+        "cnt-pow4_w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "domain_keywords": "mironet", 
+        "domain_keywords_detail": [
+            {
+                "confidence": 182082340.602, 
+                "domain": "mironet"
+            }
+        ], 
+        "ettf_w_duc": "", 
+        "ettf_w_duc_detail": [], 
+        "idf": "", 
+        "idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "log_cnt-w_duc_detail": [], 
+        "log_cnt_idf": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "log_ecnt_idf": "", 
+        "log_ecnt_idf_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "log_ecnt_log_idf_log_tidf": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "plain_domain": "mironet", 
+        "plain_domain_detail": [
+            {
+                "confidence": 3, 
+                "domain": "mironet"
+            }
+        ], 
+        "src_revert": "", 
+        "src_revert_detail": [], 
+        "tf_log_idf": "", 
+        "tf_log_idf_detail": [], 
+        "ttf_w_duc": "", 
+        "ttf_w_duc_detail": []
+    }, 
+    "spamscore": 1, 
+    "subject": "FW Objednavka c N141002107", 
+    "word_count": 1448
+}

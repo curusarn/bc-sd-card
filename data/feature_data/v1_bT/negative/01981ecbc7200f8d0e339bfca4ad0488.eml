@@ -1,0 +1,138 @@
+{
+    "pepcatotal": 0, 
+    "attachments": [], 
+    "precedence": 3, 
+    "phashes": [
+        {
+            "name": "pepca", 
+            "value": "pda5a08d6ac36dfd6"
+        }, 
+        {
+            "name": "pepca_style", 
+            "value": "p26e093ef2b350fb3"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "p72e6ccc3b7603994"
+        }
+    ], 
+    "word_count": 625, 
+    "adscore": 0, 
+    "senders": {
+        "idf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "tf_log_idf": "", 
+        "log_ecnt_idf": "", 
+        "ttf_w_duc": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "src_revert_detail": [
+            {
+                "confidence": 4, 
+                "domain": "ebay"
+            }
+        ], 
+        "domain_keywords_detail": [
+            {
+                "confidence": 4203966872.18338, 
+                "domain": "ebay"
+            }
+        ], 
+        "log_ecnt_idf_detail": [], 
+        "plain_domain": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt_idf": "", 
+        "src_revert": "ebay", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "ettf_w_duc_detail": [], 
+        "cnt-pow4_w_duc_detail": [], 
+        "plain_domain_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "ettf_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "domain_keywords": "ebay", 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "cnt-pow4_w_duc": "", 
+        "ttf_w_duc_detail": [], 
+        "tf_log_idf_detail": [], 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "idf": "", 
+        "log_ecnt_log_idf_log_tidf": ""
+    }, 
+    "pepca_style": "p26e093ef2b350fb3", 
+    "subject": "Re Other apowerfix sent a message about ULTRAMAX 6N11A 3A 6V 11AH MOTORCYCLE MOTORBIKE QUAD BIKE JET SKI BATTERY 261218399538", 
+    "first10words": " eBay Good afternoon Thank you for contacting us sor New message from a", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/01981ecbc7200f8d0e339bfca4ad0488.eml", 
+    "pepca_style_total": 0, 
+    "content": "CONTENT_DEFAULT", 
+    "last10words": "t for the contact data of your contracting party 2015 eBay Inc eBay Europe S a r l 22 24 Boulevard Royal L 2449 Luxembourg ", 
+    "spamscore": 1.6, 
+    "header_from": "apower_ks6857tbo@members.ebay.co.uk", 
+    "pepca_inline_style_total": 0, 
+    "lang": "en", 
+    "rcpts_count": 1, 
+    "phishing": {
+        "fake_https": 0, 
+        "num_black_sheep_link_phish": 0, 
+        "num_https_urls": 0, 
+        "text_link_with_path": 0, 
+        "num_dots_urls": 8, 
+        "num_phish_keywords": 5, 
+        "num_param_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_sender_diff_url": 0, 
+        "num_tld_in_url_path": 0, 
+        "num_black_sheep_link": -1, 
+        "text_and_href": 0, 
+        "num_text_forms": 10, 
+        "suspicious_links": [], 
+        "num_ip_urls": 0, 
+        "num_www_in_url_path": 0, 
+        "camouflage": 0, 
+        "num_slashes_urls": 4, 
+        "num_freehost_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "5_top_domains_id_0": 0, 
+        "5_top_domains_id_1": 0, 
+        "ner_domain_detected": true, 
+        "subject_phish_keywords": 0, 
+        "5_top_domains_id_2": 1, 
+        "html_form": 0, 
+        "5_top_domains_percent_2": 0.21428571428571427, 
+        "5_top_domains_percent_1": 0.21428571428571427, 
+        "5_top_domains_percent_0": 0.5714285714285714, 
+        "num_black_sheep_link_global": -1, 
+        "num_html_script_tags": 0, 
+        "num_path_phish": 0, 
+        "num_subdomain_phish": 0, 
+        "num_shortened_urls": 0
+    }, 
+    "notches": [
+        {
+            "subscores": [
+                1, 
+                0.0, 
+                0.1, 
+                0.5
+            ], 
+            "score": 1.6, 
+            "name": [
+                "date_in_past", 
+                "from_missmatch", 
+                "foreign_message_id", 
+                "long_subject"
+            ], 
+            "module": "ill"
+        }
+    ], 
+    "phish_score": 0, 
+    "pepca": "pda5a08d6ac36dfd6", 
+    "pepca_inline_style": "p72e6ccc3b7603994"
+}

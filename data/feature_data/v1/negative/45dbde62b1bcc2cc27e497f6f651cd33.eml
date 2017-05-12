@@ -1,0 +1,136 @@
+{
+    "adscore": 0, 
+    "attachments": [], 
+    "content": "CONTENT_DEFAULT", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/45dbde62b1bcc2cc27e497f6f651cd33.eml", 
+    "first10words": " Dobry den obdrzeli jsme Vasi zadost o nove heslo k Vasemu uctu na Fashion Da", 
+    "header_from": "no-reply@fashiondays.cz", 
+    "lang": "cs", 
+    "last10words": "s O Fashion Days Casto kladene dotazy FAQ Obchodni podminky Ochrana osobnich udaju APEK ", 
+    "notches": [
+        {
+            "module": "ill", 
+            "name": [
+                "date_in_past", 
+                "from_missmatch", 
+                "foreign_message_id"
+            ], 
+            "score": 1.1, 
+            "subscores": [
+                1, 
+                0.0, 
+                0.1
+            ]
+        }
+    ], 
+    "pepca": "p28b3c9dc631a8bc5", 
+    "pepca_inline_style": "p40f299887ce6072b", 
+    "pepca_inline_style_total": 0, 
+    "pepca_style": "pe5cd4ded8f85d469", 
+    "pepca_style_total": 0, 
+    "pepcatotal": 0, 
+    "phashes": [
+        {
+            "name": "pepca", 
+            "value": "p28b3c9dc631a8bc5"
+        }, 
+        {
+            "name": "pepca_style", 
+            "value": "pe5cd4ded8f85d469"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "p40f299887ce6072b"
+        }
+    ], 
+    "phish_score": 0, 
+    "phishing": {
+        "camouflage": 0, 
+        "fake_https": 0, 
+        "html_form": 0, 
+        "num_black_sheep_link": -1, 
+        "num_black_sheep_link_global": -1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_dots_urls": 4, 
+        "num_freehost_urls": 0, 
+        "num_html_script_tags": 0, 
+        "num_https_urls": 5, 
+        "num_ip_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "num_param_phish": 0, 
+        "num_path_phish": 0, 
+        "num_phish_keywords": 7, 
+        "num_sender_diff_url": 0, 
+        "num_shortened_urls": 0, 
+        "num_slashes_urls": 4, 
+        "num_subdomain_phish": 0, 
+        "num_text_forms": 9, 
+        "num_tld_in_url_path": 0, 
+        "num_www_in_url_path": 0, 
+        "subject_phish_keywords": 1, 
+        "suspicious_links": [], 
+        "text_and_href": 0, 
+        "text_link_with_path": 0
+    }, 
+    "precedence": 3, 
+    "rcpts_count": 1, 
+    "senders": {
+        "cnt-pow4_w_duc": "", 
+        "cnt-pow4_w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "domain_keywords": "zendesk", 
+        "domain_keywords_detail": [
+            {
+                "confidence": 30135188.59632, 
+                "domain": "zendesk"
+            }
+        ], 
+        "ettf_w_duc": "", 
+        "ettf_w_duc_detail": [], 
+        "idf": "", 
+        "idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "log_cnt-w_duc_detail": [], 
+        "log_cnt_idf": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "log_ecnt_idf": "", 
+        "log_ecnt_idf_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "log_ecnt_log_idf_log_tidf": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "plain_domain": "", 
+        "plain_domain_detail": [], 
+        "src_revert": "fashiondays", 
+        "src_revert_detail": [
+            {
+                "confidence": 6, 
+                "domain": "fashiondays"
+            }
+        ], 
+        "tf_log_idf": "", 
+        "tf_log_idf_detail": [], 
+        "ttf_w_duc": "", 
+        "ttf_w_duc_detail": []
+    }, 
+    "spamscore": 1.1, 
+    "subject": "Vase nove heslo", 
+    "unsub_link": "http://ecomm.fashiondays.cz/track/click/30058639/www.fashiondays.cz?p=eyJzIjoiNHJ0S3RJZDczWjdjcnJDamotX3RwVVl0b3hrIiwidiI6MSwicCI6IntcInVcIjozMDA1ODYzOSxcInZcIjoxLFwidXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5mYXNoaW9uZGF5cy5jelxcXC9wYWdlXFxcL3Rlcm1zXFxcLz91dG1fc291cmNlPXRyYW5zYWN0aW9uYWxfZW1haWwmdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249cGFzc3dvcmRjaGFuZ2VfdXNlcl9yZXFcIixcImlkXCI6XCI1NDEwN2RjM2E3ZTg0ODdhYmJlMjlmZjYyNDEzNDI2N1wiLFwidXJsX2lkc1wiOltcIjk0NjRmMmJiMzI1Nzk0ZjhjYmJhMGUzN2UxZGQyZjk0NWU3YzcwY2JcIl19In0", 
+    "unsub_link_candidates": [
+        "http://ecomm.fashiondays.cz/track/click/30058639/www.fashiondays.cz?p=eyJzIjoiNHJ0S3RJZDczWjdjcnJDamotX3RwVVl0b3hrIiwidiI6MSwicCI6IntcInVcIjozMDA1ODYzOSxcInZcIjoxLFwidXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5mYXNoaW9uZGF5cy5jelxcXC9wYWdlXFxcL3Rlcm1zXFxcLz91dG1fc291cmNlPXRyYW5zYWN0aW9uYWxfZW1haWwmdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249cGFzc3dvcmRjaGFuZ2VfdXNlcl9yZXFcIixcImlkXCI6XCI1NDEwN2RjM2E3ZTg0ODdhYmJlMjlmZjYyNDEzNDI2N1wiLFwidXJsX2lkc1wiOltcIjk0NjRmMmJiMzI1Nzk0ZjhjYmJhMGUzN2UxZGQyZjk0NWU3YzcwY2JcIl19In0"
+    ], 
+    "unsub_link_texts": [
+        " obchodny podminka "
+    ], 
+    "word_count": 305
+}

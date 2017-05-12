@@ -1,0 +1,134 @@
+{
+    "pepcatotal": 0, 
+    "attachments": [], 
+    "precedence": 2, 
+    "phashes": [
+        {
+            "name": "pepca", 
+            "value": "pfc524ce365933aa1"
+        }, 
+        {
+            "name": "pepca_style", 
+            "value": "p169667091bc4d6de"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "p14b64ffd051a7841"
+        }
+    ], 
+    "word_count": 187, 
+    "adscore": 0, 
+    "list_unsubscribe_urls": [
+        "mailto:unsubscribe@odpadnes.sk?subject=Odhlasenie_ID_4321284", 
+        "http://zlavy.odpadnes.sk/unsubscribe/?mt=mPwRequest&md=20141031&s[hash]=QJToP084in5vEqCK+NMRiA=="
+    ], 
+    "senders": {
+        "idf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "tf_log_idf": "", 
+        "log_ecnt_idf": "", 
+        "ttf_w_duc": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "src_revert_detail": [
+            {
+                "confidence": 7, 
+                "domain": "azet"
+            }
+        ], 
+        "domain_keywords_detail": [
+            {
+                "confidence": 18058921.458902, 
+                "domain": "odpadnes"
+            }
+        ], 
+        "log_ecnt_idf_detail": [], 
+        "plain_domain": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt_idf": "", 
+        "src_revert": "azet", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "ettf_w_duc_detail": [], 
+        "cnt-pow4_w_duc_detail": [], 
+        "plain_domain_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "ettf_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "domain_keywords": "odpadnes", 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "cnt-pow4_w_duc": "", 
+        "ttf_w_duc_detail": [], 
+        "tf_log_idf_detail": [], 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "idf": "", 
+        "log_ecnt_log_idf_log_tidf": ""
+    }, 
+    "pepca_style": "p169667091bc4d6de", 
+    "subject": "Ziadost o zmenu hesla", 
+    "first10words": " Odpadnes sk Nezobrazuje sa vam tento e mail v spravne Kliknite sem Dobry den Radek zaznam", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/738bc198781c87249495ca791ed683f2.eml", 
+    "spamscore": 1.1, 
+    "pepca_style_total": 0, 
+    "content": "CONTENT_DEFAULT", 
+    "last10words": " Kontakt Ombudsman FAQ Ako fungujeme Odhlasit e maily 2010 2014 Odpadnes sk ", 
+    "contains_list_header": true, 
+    "header_from": "noreply@odpadnes.sk", 
+    "pepca_inline_style_total": 0, 
+    "lang": "sk", 
+    "rcpts_count": 1, 
+    "phishing": {
+        "fake_https": 0, 
+        "num_black_sheep_link_phish": 0, 
+        "num_https_urls": 3, 
+        "text_link_with_path": 0, 
+        "num_dots_urls": 3, 
+        "num_phish_keywords": 0, 
+        "num_param_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_sender_diff_url": 3, 
+        "num_tld_in_url_path": 0, 
+        "num_black_sheep_link": -1, 
+        "text_and_href": 0, 
+        "num_text_forms": 1, 
+        "suspicious_links": [], 
+        "num_ip_urls": 0, 
+        "num_www_in_url_path": 0, 
+        "camouflage": 1, 
+        "num_slashes_urls": 3, 
+        "num_freehost_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "subject_phish_keywords": 0, 
+        "html_form": 0, 
+        "num_black_sheep_link_global": -1, 
+        "num_html_script_tags": 0, 
+        "num_path_phish": 0, 
+        "num_subdomain_phish": 0, 
+        "num_shortened_urls": 0
+    }, 
+    "notches": [
+        {
+            "subscores": [
+                1, 
+                0.0, 
+                0.1
+            ], 
+            "score": 1.1, 
+            "name": [
+                "date_in_past", 
+                "from_missmatch", 
+                "html_a_href_camouflaging"
+            ], 
+            "module": "ill"
+        }
+    ], 
+    "phish_score": 0, 
+    "pepca": "pfc524ce365933aa1", 
+    "pepca_inline_style": "p14b64ffd051a7841"
+}

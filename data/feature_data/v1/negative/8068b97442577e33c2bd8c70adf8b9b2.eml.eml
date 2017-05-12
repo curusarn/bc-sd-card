@@ -1,0 +1,187 @@
+{
+    "adscore": 0, 
+    "attachments": [
+        {
+            "cid": "part1.07030808.06030503@advokatky.cz", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "image/jpeg", 
+            "name": "email_footer.jpg", 
+            "pepca": "pf39f986c997a3552", 
+            "size": 18068, 
+            "sumphash": "235f3e1ce4bd38bec4f5fc67e450fcae"
+        }, 
+        {
+            "cid": "part3.07070400.04070302@advokatky.cz", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "image/png", 
+            "name": "lj.png", 
+            "pepca": "p32e9f8566dbe1e18", 
+            "size": 3257, 
+            "sumphash": "ddc9d4d19e919a640adad2e46349f2f6"
+        }, 
+        {
+            "cid": "part5.06060702.05070602@advokatky.cz", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "image/png", 
+            "name": "AEA.png", 
+            "pepca": "p8a8ac344119b674e", 
+            "size": 3605, 
+            "sumphash": "d04c86a32d34bfafdffe7cadbf8abcdf"
+        }, 
+        {
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "text/plain", 
+            "name": "Faktura_201510159(2).pdf", 
+            "pepca": "p335e5b15b7cb2b52", 
+            "size": 39286, 
+            "sumphash": "f0a70e5d8bb13a06fe7491a473c98a45"
+        }
+    ], 
+    "content": "CONTENT_DEFAULT", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/8068b97442577e33c2bd8c70adf8b9b2.eml.eml", 
+    "first10words": " Vazena pani Dashevska v priloze Vam zasilame danovy doklad k prijate platbe za pravni sluzby bez zauctovani deku", 
+    "header_from": "finance@advokatky.cz", 
+    "lang": "cs", 
+    "last10words": " in error or are not the named recipient s please immediately notify the sender and delete this e mail message from your computer Thank you ", 
+    "notches": [
+        {
+            "module": "ill", 
+            "name": [
+                "date_in_past", 
+                "from_missmatch"
+            ], 
+            "score": 1, 
+            "subscores": [
+                1, 
+                0.0
+            ]
+        }
+    ], 
+    "pepca": "pf17b8ea929787129", 
+    "pepca_inline_style": "pe414d8232bf181e1", 
+    "pepca_inline_style_total": 0, 
+    "pepca_style": "", 
+    "pepca_style_total": 0, 
+    "pepcatotal": 0, 
+    "phashes": [
+        {
+            "name": "att-pepca", 
+            "value": "pf39f986c997a3552"
+        }, 
+        {
+            "name": "att-pepca", 
+            "value": "p32e9f8566dbe1e18"
+        }, 
+        {
+            "name": "att-pepca", 
+            "value": "p8a8ac344119b674e"
+        }, 
+        {
+            "name": "att-pepca", 
+            "value": "p335e5b15b7cb2b52"
+        }, 
+        {
+            "name": "pepca", 
+            "value": "pf17b8ea929787129"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "pe414d8232bf181e1"
+        }
+    ], 
+    "phish_score": 0, 
+    "phishing": {
+        "camouflage": 0, 
+        "fake_https": 0, 
+        "html_form": 0, 
+        "num_black_sheep_link": -1, 
+        "num_black_sheep_link_global": -1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_dots_urls": 2, 
+        "num_freehost_urls": 0, 
+        "num_html_script_tags": 0, 
+        "num_https_urls": 0, 
+        "num_ip_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "num_param_phish": 0, 
+        "num_path_phish": 0, 
+        "num_phish_keywords": 1, 
+        "num_sender_diff_url": 2, 
+        "num_shortened_urls": 0, 
+        "num_slashes_urls": 2, 
+        "num_subdomain_phish": 0, 
+        "num_text_forms": 6, 
+        "num_tld_in_url_path": 0, 
+        "num_www_in_url_path": 0, 
+        "subject_phish_keywords": 0, 
+        "suspicious_links": [], 
+        "text_and_href": 1, 
+        "text_link_with_path": 0
+    }, 
+    "precedence": 3, 
+    "rcpts_count": 1, 
+    "senders": {
+        "cnt-pow4_w_duc": "", 
+        "cnt-pow4_w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "domain_keywords": "clamav", 
+        "domain_keywords_detail": [
+            {
+                "confidence": 114565814.992, 
+                "domain": "clamav"
+            }
+        ], 
+        "ettf_w_duc": "", 
+        "ettf_w_duc_detail": [], 
+        "idf": "", 
+        "idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "log_cnt-w_duc_detail": [], 
+        "log_cnt_idf": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "log_ecnt_idf": "", 
+        "log_ecnt_idf_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "log_ecnt_log_idf_log_tidf": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "plain_domain": "justinianlawyers", 
+        "plain_domain_detail": [
+            {
+                "confidence": 1, 
+                "domain": "justinianlawyers"
+            }, 
+            {
+                "confidence": 1, 
+                "domain": "aeuropea"
+            }, 
+            {
+                "confidence": 1, 
+                "domain": "advokatky"
+            }
+        ], 
+        "src_revert": "", 
+        "src_revert_detail": [], 
+        "tf_log_idf": "", 
+        "tf_log_idf_detail": [], 
+        "ttf_w_duc": "", 
+        "ttf_w_duc_detail": []
+    }, 
+    "spamscore": 1, 
+    "subject": "KOFEIN CZ s r o Faktura c 201510159", 
+    "word_count": 187
+}

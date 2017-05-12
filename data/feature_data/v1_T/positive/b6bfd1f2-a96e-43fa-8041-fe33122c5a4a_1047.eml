@@ -1,0 +1,133 @@
+{
+    "pepcatotal": 0, 
+    "attachments": [], 
+    "precedence": 3, 
+    "phashes": [
+        {
+            "name": "pepca", 
+            "value": "p88a39c70abb291d5"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "p2cfb9f0dd34e07f9"
+        }
+    ], 
+    "word_count": 221, 
+    "adscore": 0, 
+    "senders": {
+        "idf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "tf_log_idf": "", 
+        "log_ecnt_idf": "", 
+        "ttf_w_duc": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "src_revert_detail": [
+            {
+                "confidence": 1, 
+                "domain": "yahoogroups"
+            }, 
+            {
+                "confidence": 1, 
+                "domain": "paypal"
+            }
+        ], 
+        "domain_keywords_detail": [
+            {
+                "confidence": 698871045.101513, 
+                "domain": "paypal"
+            }
+        ], 
+        "log_ecnt_idf_detail": [], 
+        "plain_domain": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt_idf": "", 
+        "src_revert": "yahoogroups", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "ettf_w_duc_detail": [], 
+        "cnt-pow4_w_duc_detail": [], 
+        "plain_domain_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "ettf_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "domain_keywords": "paypal", 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "cnt-pow4_w_duc": "", 
+        "ttf_w_duc_detail": [], 
+        "tf_log_idf_detail": [], 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "idf": "", 
+        "log_ecnt_log_idf_log_tidf": ""
+    }, 
+    "pepca_style": "", 
+    "subject": "Restore Your Account Access openbsd mobile example com", 
+    "first10words": " A Dear A openbsd mobile example com A A It has come to our attention that yourA PayPal acco", 
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/1047.eml", 
+    "pepca_style_total": 0, 
+    "content": "CONTENT_DEFAULT", 
+    "last10words": "d User Agreement if you have any questions A http www paypal com cgi bin webscr cmd p gen ua policy privacy outside A ", 
+    "spamscore": 1.2, 
+    "header_from": "service@paypal.com", 
+    "pepca_inline_style_total": 0, 
+    "lang": "en", 
+    "rcpts_count": 1, 
+    "phishing": {
+        "fake_https": 0, 
+        "num_black_sheep_link_phish": 0, 
+        "num_https_urls": 1, 
+        "text_link_with_path": 2, 
+        "num_dots_urls": 7, 
+        "num_phish_keywords": 16, 
+        "num_param_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_sender_diff_url": 1, 
+        "num_tld_in_url_path": 0, 
+        "num_black_sheep_link": -1, 
+        "text_and_href": 0, 
+        "num_text_forms": 2, 
+        "suspicious_links": [], 
+        "num_ip_urls": 0, 
+        "num_www_in_url_path": 0, 
+        "camouflage": 1, 
+        "num_slashes_urls": 6, 
+        "num_freehost_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "5_top_domains_id_0": 0, 
+        "subject_phish_keywords": 2, 
+        "html_form": 1, 
+        "5_top_domains_percent_0": 1.0, 
+        "num_black_sheep_link_global": -1, 
+        "num_html_script_tags": 0, 
+        "num_path_phish": 0, 
+        "num_subdomain_phish": 0, 
+        "num_shortened_urls": 0
+    }, 
+    "notches": [
+        {
+            "subscores": [
+                1, 
+                0.0, 
+                0.1, 
+                0.1
+            ], 
+            "score": 1.2, 
+            "name": [
+                "date_in_past", 
+                "from_missmatch", 
+                "html_a_href_camouflaging", 
+                "foreign_message_id"
+            ], 
+            "module": "ill"
+        }
+    ], 
+    "phish_score": 0, 
+    "pepca": "p88a39c70abb291d5", 
+    "pepca_inline_style": "p2cfb9f0dd34e07f9"
+}

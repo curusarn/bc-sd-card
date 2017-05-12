@@ -1,0 +1,134 @@
+{
+    "pepcatotal": 0, 
+    "attachments": [], 
+    "precedence": 3, 
+    "phashes": [
+        {
+            "name": "pepca", 
+            "value": "p004f83b0af679997"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "pca7d419aed4d5764"
+        }
+    ], 
+    "word_count": 212, 
+    "adscore": 0, 
+    "senders": {
+        "idf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "tf_log_idf": "", 
+        "log_ecnt_idf": "", 
+        "ttf_w_duc": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "src_revert_detail": [
+            {
+                "confidence": 2, 
+                "domain": "prodeti"
+            }
+        ], 
+        "domain_keywords_detail": [
+            {
+                "confidence": 44055539.88315, 
+                "domain": "active24"
+            }
+        ], 
+        "log_ecnt_idf_detail": [], 
+        "plain_domain": "prodeti", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt_idf": "", 
+        "src_revert": "prodeti", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "ettf_w_duc_detail": [], 
+        "cnt-pow4_w_duc_detail": [], 
+        "plain_domain_detail": [
+            {
+                "confidence": 3, 
+                "domain": "prodeti"
+            }, 
+            {
+                "confidence": 1, 
+                "domain": "ti"
+            }
+        ], 
+        "log_ecnt_idf_log_tidf": "", 
+        "ettf_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "domain_keywords": "active24", 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "cnt-pow4_w_duc": "", 
+        "ttf_w_duc_detail": [], 
+        "tf_log_idf_detail": [], 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "idf": "", 
+        "log_ecnt_log_idf_log_tidf": ""
+    }, 
+    "pepca_style": "", 
+    "subject": "Prodeti cz overeni emailu", 
+    "first10words": " Prodeti cz Pozor ted uz neni cesty zpatky vstoupili jste do pohadky Krasny a kouzelny je s Prodeti sve", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/ab6bb092b32f55eca2b192e8b454369a.eml", 
+    "pepca_style_total": 0, 
+    "content": "CONTENT_DEFAULT", 
+    "last10words": "k www prodeti cz facebook com Prodeticz info prodeti cz 420 226 256 112 Na Porici 1067 25 Nove Mesto 110 00 Praha 1 ", 
+    "spamscore": 1.1, 
+    "header_from": "info@prodeti.cz", 
+    "pepca_inline_style_total": 0, 
+    "lang": "cs", 
+    "rcpts_count": 1, 
+    "phishing": {
+        "fake_https": 0, 
+        "num_black_sheep_link_phish": 0, 
+        "num_https_urls": 0, 
+        "text_link_with_path": 2, 
+        "num_dots_urls": 2, 
+        "num_phish_keywords": 6, 
+        "num_param_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_sender_diff_url": 2, 
+        "num_tld_in_url_path": 0, 
+        "num_black_sheep_link": -1, 
+        "text_and_href": 2, 
+        "num_text_forms": 0, 
+        "suspicious_links": [], 
+        "num_ip_urls": 0, 
+        "num_www_in_url_path": 0, 
+        "camouflage": 1, 
+        "num_slashes_urls": 5, 
+        "num_freehost_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "subject_phish_keywords": 1, 
+        "html_form": 0, 
+        "num_black_sheep_link_global": -1, 
+        "num_html_script_tags": 0, 
+        "num_path_phish": 0, 
+        "num_subdomain_phish": 0, 
+        "num_shortened_urls": 0
+    }, 
+    "notches": [
+        {
+            "subscores": [
+                1, 
+                0.0, 
+                0.1
+            ], 
+            "score": 1.1, 
+            "name": [
+                "date_in_past", 
+                "from_missmatch", 
+                "html_a_href_camouflaging"
+            ], 
+            "module": "ill"
+        }
+    ], 
+    "phish_score": 0, 
+    "pepca": "p004f83b0af679997", 
+    "pepca_inline_style": "pca7d419aed4d5764"
+}

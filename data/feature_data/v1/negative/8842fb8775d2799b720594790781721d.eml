@@ -1,0 +1,125 @@
+{
+    "adscore": 0, 
+    "attachments": [], 
+    "content": "CONTENT_DEFAULT", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/8842fb8775d2799b720594790781721d.eml", 
+    "first10words": " Pro vytvoreni noveho hesla kliknete na tento odkaz Pro vytvoreni noveho hesla kliknete na tento odkaz https ww", 
+    "header_from": "noreply@electroworld.cz", 
+    "lang": "cs", 
+    "last10words": "cc electroworld cz copy 2013 null Vsechna prava vyhrazena 2014 Electroworld Czechia Vsechna prava vyhrazena ", 
+    "notches": [
+        {
+            "module": "ill", 
+            "name": [
+                "date_in_past", 
+                "from_missmatch", 
+                "foreign_message_id"
+            ], 
+            "score": 1.1, 
+            "subscores": [
+                1, 
+                0.0, 
+                0.1
+            ]
+        }
+    ], 
+    "pepca": "p7c9d1e9204d30b0d", 
+    "pepca_inline_style": "p02828f52f16adddf", 
+    "pepca_inline_style_total": 0, 
+    "pepca_style": "", 
+    "pepca_style_total": 0, 
+    "pepcatotal": 0, 
+    "phashes": [
+        {
+            "name": "pepca", 
+            "value": "p7c9d1e9204d30b0d"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "p02828f52f16adddf"
+        }
+    ], 
+    "phish_score": 0, 
+    "phishing": {
+        "camouflage": 0, 
+        "fake_https": 0, 
+        "html_form": 0, 
+        "num_black_sheep_link": -1, 
+        "num_black_sheep_link_global": -1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_dots_urls": 2, 
+        "num_freehost_urls": 0, 
+        "num_html_script_tags": 0, 
+        "num_https_urls": 1, 
+        "num_ip_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "num_param_phish": 0, 
+        "num_path_phish": 0, 
+        "num_phish_keywords": 3, 
+        "num_sender_diff_url": 0, 
+        "num_shortened_urls": 0, 
+        "num_slashes_urls": 8, 
+        "num_subdomain_phish": 0, 
+        "num_text_forms": 3, 
+        "num_tld_in_url_path": 0, 
+        "num_www_in_url_path": 0, 
+        "subject_phish_keywords": 1, 
+        "suspicious_links": [], 
+        "text_and_href": 1, 
+        "text_link_with_path": 1
+    }, 
+    "precedence": 3, 
+    "rcpts_count": 1, 
+    "senders": {
+        "cnt-pow4_w_duc": "", 
+        "cnt-pow4_w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "domain_keywords": "electroworld", 
+        "domain_keywords_detail": [
+            {
+                "confidence": 35217813.152731, 
+                "domain": "electroworld"
+            }
+        ], 
+        "ettf_w_duc": "", 
+        "ettf_w_duc_detail": [], 
+        "idf": "", 
+        "idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "log_cnt-w_duc_detail": [], 
+        "log_cnt_idf": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "log_ecnt_idf": "", 
+        "log_ecnt_idf_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "log_ecnt_log_idf_log_tidf": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "plain_domain": "", 
+        "plain_domain_detail": [], 
+        "src_revert": "electroworld", 
+        "src_revert_detail": [
+            {
+                "confidence": 1, 
+                "domain": "electroworld"
+            }
+        ], 
+        "tf_log_idf": "", 
+        "tf_log_idf_detail": [], 
+        "ttf_w_duc": "", 
+        "ttf_w_duc_detail": []
+    }, 
+    "spamscore": 1.1, 
+    "subject": "Vase heslo", 
+    "word_count": 72
+}

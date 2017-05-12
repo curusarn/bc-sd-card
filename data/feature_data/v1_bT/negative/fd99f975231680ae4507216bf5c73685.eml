@@ -1,0 +1,161 @@
+{
+    "pepcatotal": 0, 
+    "attachments": [
+        {
+            "name": "image001.png", 
+            "cid": "image001.png@01D0185A.3DA34D60", 
+            "pepca": "p7b764a70015e1a5e", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "sumphash": "fcded58128399305c1c6638063d52a18", 
+            "mime_type": "image/png", 
+            "size": 4000
+        }, 
+        {
+            "lang": "cs", 
+            "first10words": "PDF Document Historie transakci Ceska sporitelna a s Praha Olbrachtova", 
+            "name": "platba VT Jersonov\u00e1.pdf", 
+            "cid": "m14a4d90289bm9b0", 
+            "pepca": "p27acf21c6ec8b24d", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "sumphash": "3df03442301ef016da24bcdb85c2528c", 
+            "mime_type": "application/pdf", 
+            "size": 122891
+        }
+    ], 
+    "precedence": 3, 
+    "phashes": [
+        {
+            "name": "att-pepca", 
+            "value": "p7b764a70015e1a5e"
+        }, 
+        {
+            "name": "att-pepca", 
+            "value": "p27acf21c6ec8b24d"
+        }, 
+        {
+            "name": "pepca", 
+            "value": "p88b3f2d9b1c46dfc"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "pd09dfdcda7897942"
+        }
+    ], 
+    "word_count": 105, 
+    "adscore": 0, 
+    "senders": {
+        "idf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "tf_log_idf": "", 
+        "log_ecnt_idf": "", 
+        "ttf_w_duc": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "src_revert_detail": [], 
+        "domain_keywords_detail": [
+            {
+                "confidence": 13906207.45122, 
+                "domain": "novevouchery"
+            }
+        ], 
+        "log_ecnt_idf_detail": [], 
+        "plain_domain": "spilberk", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt_idf": "", 
+        "src_revert": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "ettf_w_duc_detail": [], 
+        "cnt-pow4_w_duc_detail": [], 
+        "plain_domain_detail": [
+            {
+                "confidence": 2, 
+                "domain": "spilberk"
+            }, 
+            {
+                "confidence": 1, 
+                "domain": "email"
+            }
+        ], 
+        "log_ecnt_idf_log_tidf": "", 
+        "ettf_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "domain_keywords": "novevouchery", 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "cnt-pow4_w_duc": "", 
+        "ttf_w_duc_detail": [], 
+        "tf_log_idf_detail": [], 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "idf": "", 
+        "log_ecnt_log_idf_log_tidf": ""
+    }, 
+    "pepca_style": "", 
+    "subject": "Re faktura vila Tugendhat", 
+    "first10words": " Dobry den dekuji za zaslani faktury Platbu jsem provedla viz priloha mailu Verim ze vouchery do Vanoc dorazi Hezky den Jer", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/fd99f975231680ae4507216bf5c73685.eml", 
+    "pepca_style_total": 0, 
+    "content": "CONTENT_DEFAULT", 
+    "last10words": "rk 210 1 662 24 Brno Tel 542 123 665 Email najzarova spilberk cz www spilberk cz ", 
+    "spamscore": 1.1, 
+    "header_from": "lucira@email.cz", 
+    "pepca_inline_style_total": 0, 
+    "lang": "cs", 
+    "rcpts_count": 1, 
+    "phishing": {
+        "fake_https": 0, 
+        "num_black_sheep_link_phish": 0, 
+        "num_https_urls": 0, 
+        "text_link_with_path": 0, 
+        "num_dots_urls": 2, 
+        "num_phish_keywords": 1, 
+        "num_param_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_sender_diff_url": 1, 
+        "num_tld_in_url_path": 0, 
+        "num_black_sheep_link": -1, 
+        "text_and_href": 0, 
+        "num_text_forms": 6, 
+        "suspicious_links": [], 
+        "num_ip_urls": 0, 
+        "num_www_in_url_path": 0, 
+        "camouflage": 0, 
+        "num_slashes_urls": 1, 
+        "num_freehost_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "ner_domain_detected": false, 
+        "subject_phish_keywords": 0, 
+        "html_form": 0, 
+        "num_black_sheep_link_global": -1, 
+        "num_html_script_tags": 0, 
+        "num_path_phish": 0, 
+        "num_subdomain_phish": 0, 
+        "num_shortened_urls": 0
+    }, 
+    "notches": [
+        {
+            "subscores": [
+                1, 
+                0.0, 
+                0.1
+            ], 
+            "score": 1.1, 
+            "name": [
+                "date_in_past", 
+                "from_missmatch", 
+                "foreign_message_id"
+            ], 
+            "module": "ill"
+        }
+    ], 
+    "phish_score": 0, 
+    "pepca": "p88b3f2d9b1c46dfc", 
+    "pepca_inline_style": "pd09dfdcda7897942"
+}

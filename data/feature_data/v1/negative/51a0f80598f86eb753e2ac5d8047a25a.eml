@@ -1,0 +1,164 @@
+{
+    "adscore": 0, 
+    "attachments": [
+        {
+            "cid": "part3.04090109.00020203@a8reklama.cz", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "image/jpeg", 
+            "name": "logo.jpg", 
+            "pepca": "p1c885830870480c1", 
+            "size": 20653, 
+            "sumphash": "9d39f4d3aaafc813275c59a7ec0aaeb8"
+        }, 
+        {
+            "cte": "BASE64", 
+            "first10words": "ESCALDES s r o Baarova Ceska republika A REKLAMA kreativ", 
+            "flags": 0, 
+            "lang": "cs", 
+            "mime_type": "application/pdf", 
+            "name": "Faktura vystavená_88141163_15122014 ESCA.pdf", 
+            "pepca": "pdf4c6e5f6ce09dc4", 
+            "size": 50370, 
+            "sumphash": "c3d5ec2de51791497b6ff0c30ed6b0f3"
+        }
+    ], 
+    "content": "CONTENT_DEFAULT", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/51a0f80598f86eb753e2ac5d8047a25a.eml", 
+    "first10words": " Dobry den v priloze prikladam fakturu na polepy jid listky a banner hezky den Martina Lasotova A8 REKLAMA ", 
+    "header_from": "info@a8reklama.cz", 
+    "lang": "cs", 
+    "last10words": " www a8reklama cz Tato zprava neobsahuje viry ani jiny skodlivy kod avast Antivirus je aktivni ", 
+    "notches": [
+        {
+            "module": "ill", 
+            "name": [
+                "date_in_past", 
+                "from_missmatch", 
+                "foreign_message_id"
+            ], 
+            "score": 1.1, 
+            "subscores": [
+                1, 
+                0.0, 
+                0.1
+            ]
+        }
+    ], 
+    "pepca": "pd263c41f4dcc47f2", 
+    "pepca_inline_style": "p7e723ef00522458f", 
+    "pepca_inline_style_total": 0, 
+    "pepca_style": "", 
+    "pepca_style_total": 0, 
+    "pepcatotal": 0, 
+    "phashes": [
+        {
+            "name": "att-pepca", 
+            "value": "p1c885830870480c1"
+        }, 
+        {
+            "name": "att-pepca", 
+            "value": "pdf4c6e5f6ce09dc4"
+        }, 
+        {
+            "name": "pepca", 
+            "value": "pd263c41f4dcc47f2"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "p7e723ef00522458f"
+        }
+    ], 
+    "phish_score": 0, 
+    "phishing": {
+        "camouflage": 0, 
+        "fake_https": 0, 
+        "html_form": 0, 
+        "num_black_sheep_link": -1, 
+        "num_black_sheep_link_global": -1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_dots_urls": 2, 
+        "num_freehost_urls": 0, 
+        "num_html_script_tags": 0, 
+        "num_https_urls": 0, 
+        "num_ip_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "num_param_phish": 0, 
+        "num_path_phish": 0, 
+        "num_phish_keywords": 0, 
+        "num_sender_diff_url": 1, 
+        "num_shortened_urls": 0, 
+        "num_slashes_urls": 1, 
+        "num_subdomain_phish": 0, 
+        "num_text_forms": 1, 
+        "num_tld_in_url_path": 0, 
+        "num_www_in_url_path": 0, 
+        "subject_phish_keywords": 0, 
+        "suspicious_links": [], 
+        "text_and_href": 0, 
+        "text_link_with_path": 0
+    }, 
+    "precedence": 3, 
+    "rcpts_count": 1, 
+    "senders": {
+        "cnt-pow4_w_duc": "", 
+        "cnt-pow4_w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "domain_keywords": "google", 
+        "domain_keywords_detail": [
+            {
+                "confidence": 3465508.5200624, 
+                "domain": "google"
+            }
+        ], 
+        "ettf_w_duc": "", 
+        "ettf_w_duc_detail": [], 
+        "idf": "", 
+        "idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "log_cnt-w_duc_detail": [], 
+        "log_cnt_idf": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "log_ecnt_idf": "", 
+        "log_ecnt_idf_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "log_ecnt_log_idf_log_tidf": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "plain_domain": "a8reklama", 
+        "plain_domain_detail": [
+            {
+                "confidence": 2, 
+                "domain": "a8reklama"
+            }, 
+            {
+                "confidence": 1, 
+                "domain": "avast"
+            }
+        ], 
+        "src_revert": "volny", 
+        "src_revert_detail": [
+            {
+                "confidence": 1, 
+                "domain": "volny"
+            }
+        ], 
+        "tf_log_idf": "", 
+        "tf_log_idf_detail": [], 
+        "ttf_w_duc": "", 
+        "ttf_w_duc_detail": []
+    }, 
+    "spamscore": 1.1, 
+    "subject": "Re Fwd Re faktura", 
+    "word_count": 94
+}

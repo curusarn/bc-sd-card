@@ -1,0 +1,138 @@
+{
+    "pepcatotal": 0, 
+    "attachments": [
+        {
+            "name": "cargill.gif", 
+            "cid": "554S7SLK7E", 
+            "pepca": "p965afc05125dd658", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "sumphash": "45b013bca865003430bdabb377f32211", 
+            "mime_type": "image/gif", 
+            "size": 9536
+        }
+    ], 
+    "precedence": 3, 
+    "phashes": [
+        {
+            "name": "att-pepca", 
+            "value": "p965afc05125dd658"
+        }, 
+        {
+            "name": "pepca", 
+            "value": "p07bd1f6355b16bea"
+        }
+    ], 
+    "word_count": 51, 
+    "adscore": 0, 
+    "senders": {
+        "idf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "tf_log_idf": "", 
+        "log_ecnt_idf": "", 
+        "ttf_w_duc": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "src_revert_detail": [], 
+        "domain_keywords_detail": [
+            {
+                "confidence": 1510815.1364, 
+                "domain": "friday-ad"
+            }
+        ], 
+        "log_ecnt_idf_detail": [], 
+        "plain_domain": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt_idf": "", 
+        "src_revert": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "ettf_w_duc_detail": [], 
+        "cnt-pow4_w_duc_detail": [], 
+        "plain_domain_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "ettf_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "domain_keywords": "friday-ad", 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "cnt-pow4_w_duc": "", 
+        "ttf_w_duc_detail": [], 
+        "tf_log_idf_detail": [], 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "idf": "", 
+        "log_ecnt_log_idf_log_tidf": ""
+    }, 
+    "pepca_style": "", 
+    "subject": "Confirm your identity message id 8416078109332 ", 
+    "first10words": " 0x442 0x34 0x02 0x056 0x781 0x2603 0x28 0x689 0x3 NT0M 0x47603317 0x2 0x1554 0x41794325 0x3 0x6 0x52 E0ZE 79TP tm", 
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/497.eml", 
+    "pepca_style_total": 0, 
+    "content": "CONTENT_DEFAULT", 
+    "last10words": "O7 X4H serv 0SV SG3K FA0 SII hex revision start Z2Z0 C5L root 0x29 0x91 0x4 0x257 0x13 0x0149 0x7663 0x550 0x7 0x74821544 ", 
+    "spamscore": 1, 
+    "header_from": "service.refud170882020398fd.cm@bbt.com", 
+    "pepca_inline_style_total": 0, 
+    "lang": "un", 
+    "rcpts_count": 1, 
+    "phishing": {
+        "fake_https": 0, 
+        "num_black_sheep_link_phish": 0, 
+        "num_https_urls": 0, 
+        "text_link_with_path": 0, 
+        "num_dots_urls": 6, 
+        "num_phish_keywords": 0, 
+        "num_param_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_sender_diff_url": 1, 
+        "num_tld_in_url_path": 0, 
+        "num_black_sheep_link": -1, 
+        "text_and_href": 0, 
+        "num_text_forms": 1, 
+        "suspicious_links": [], 
+        "num_ip_urls": 0, 
+        "num_www_in_url_path": 0, 
+        "camouflage": 0, 
+        "num_slashes_urls": 3, 
+        "num_freehost_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "5_top_domains_id_3": 0, 
+        "5_top_domains_id_0": 1, 
+        "5_top_domains_id_1": 0, 
+        "ner_domain_detected": true, 
+        "subject_phish_keywords": 1, 
+        "5_top_domains_id_2": 1, 
+        "html_form": 0, 
+        "5_top_domains_percent_3": 0.25, 
+        "5_top_domains_percent_2": 0.25, 
+        "5_top_domains_percent_1": 0.25, 
+        "5_top_domains_percent_0": 0.25, 
+        "num_black_sheep_link_global": -1, 
+        "num_html_script_tags": 0, 
+        "num_path_phish": 0, 
+        "num_subdomain_phish": 0, 
+        "num_shortened_urls": 0
+    }, 
+    "notches": [
+        {
+            "subscores": [
+                1, 
+                0.0
+            ], 
+            "score": 1, 
+            "name": [
+                "date_in_past", 
+                "from_missmatch"
+            ], 
+            "module": "ill"
+        }
+    ], 
+    "phish_score": 0, 
+    "pepca": "p07bd1f6355b16bea", 
+    "pepca_inline_style": ""
+}

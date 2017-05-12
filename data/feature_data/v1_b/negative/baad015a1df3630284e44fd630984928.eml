@@ -1,0 +1,153 @@
+{
+    "pepcatotal": 0, 
+    "attachments": [
+        {
+            "name": "head.gif", 
+            "cid": "98f24607afb0b82d8a6797c0defca5d9", 
+            "pepca": "pa8e067aa6d860f44", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "sumphash": "ed7cc120df59d6d3c379c321bb624941", 
+            "mime_type": "image/gif", 
+            "size": 12415
+        }, 
+        {
+            "name": "paysec.png", 
+            "cid": "86764ab0d3005c287e8f717a5a592cb2", 
+            "pepca": "pcdc15cad383f5ad5", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "sumphash": "43ea3784187612fef1febb2adb0070af", 
+            "mime_type": "image/png", 
+            "size": 2281
+        }
+    ], 
+    "precedence": 3, 
+    "phashes": [
+        {
+            "name": "att-pepca", 
+            "value": "pa8e067aa6d860f44"
+        }, 
+        {
+            "name": "att-pepca", 
+            "value": "pcdc15cad383f5ad5"
+        }, 
+        {
+            "name": "pepca", 
+            "value": "p34fd33bd5d763c5b"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "pe743403a5d03cf35"
+        }
+    ], 
+    "word_count": 105, 
+    "adscore": 0, 
+    "senders": {
+        "idf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "tf_log_idf": "", 
+        "log_ecnt_idf": "", 
+        "ttf_w_duc": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "src_revert_detail": [], 
+        "domain_keywords_detail": [
+            {
+                "confidence": 7138118.63964125, 
+                "domain": "datingfactory"
+            }
+        ], 
+        "log_ecnt_idf_detail": [], 
+        "plain_domain": "predplatne", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt_idf": "", 
+        "src_revert": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "ettf_w_duc_detail": [], 
+        "cnt-pow4_w_duc_detail": [], 
+        "plain_domain_detail": [
+            {
+                "confidence": 3, 
+                "domain": "predplatne"
+            }
+        ], 
+        "log_ecnt_idf_log_tidf": "", 
+        "ettf_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "domain_keywords": "datingfactory", 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "cnt-pow4_w_duc": "", 
+        "ttf_w_duc_detail": [], 
+        "tf_log_idf_detail": [], 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "idf": "", 
+        "log_ecnt_log_idf_log_tidf": ""
+    }, 
+    "pepca_style": "", 
+    "subject": "Zapomenute heslo", 
+    "first10words": " Predplatne cz Vygenerovani noveho hesla Na strankach predplatne cz jste zazadal o vygenerovani noveho hesla k uct", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/baad015a1df3630284e44fd630984928.eml", 
+    "pepca_style_total": 0, 
+    "content": "CONTENT_DEFAULT", 
+    "last10words": "bku 1800 77 Hala A7 193 00 Praha 9 Horni Pocernice www predplatne cz 420 840 306 090 Umoznujeme platbu pomoci ", 
+    "spamscore": 1, 
+    "header_from": "info@predplatne.cz", 
+    "pepca_inline_style_total": 0, 
+    "lang": "cs", 
+    "rcpts_count": 1, 
+    "phishing": {
+        "fake_https": 0, 
+        "num_black_sheep_link_phish": 0, 
+        "num_https_urls": 0, 
+        "text_link_with_path": 1, 
+        "num_dots_urls": 2, 
+        "num_phish_keywords": 8, 
+        "num_param_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_sender_diff_url": 0, 
+        "num_tld_in_url_path": 0, 
+        "num_black_sheep_link": -1, 
+        "text_and_href": 2, 
+        "num_text_forms": 7, 
+        "suspicious_links": [], 
+        "num_ip_urls": 0, 
+        "num_www_in_url_path": 0, 
+        "camouflage": 0, 
+        "num_slashes_urls": 3, 
+        "num_freehost_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "ner_domain_detected": false, 
+        "subject_phish_keywords": 1, 
+        "html_form": 0, 
+        "num_black_sheep_link_global": -1, 
+        "num_html_script_tags": 0, 
+        "num_path_phish": 0, 
+        "num_subdomain_phish": 0, 
+        "num_shortened_urls": 0
+    }, 
+    "notches": [
+        {
+            "subscores": [
+                1, 
+                0.0
+            ], 
+            "score": 1, 
+            "name": [
+                "date_in_past", 
+                "from_missmatch"
+            ], 
+            "module": "ill"
+        }
+    ], 
+    "phish_score": 0, 
+    "pepca": "p34fd33bd5d763c5b", 
+    "pepca_inline_style": "pe743403a5d03cf35"
+}

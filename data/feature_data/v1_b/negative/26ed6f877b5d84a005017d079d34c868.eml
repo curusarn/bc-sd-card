@@ -1,0 +1,142 @@
+{
+    "pepcatotal": 0, 
+    "attachments": [], 
+    "precedence": 3, 
+    "phashes": [
+        {
+            "name": "pepca", 
+            "value": "pfa8880adb10361c1"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "pa299ee199617f7f2"
+        }
+    ], 
+    "word_count": 317, 
+    "unsub_link": "http://tmr.cortex.cz/email/u/8985450db12ba220ef13f40387", 
+    "adscore": 0, 
+    "list_unsubscribe_urls": [
+        "info@gopass.cz"
+    ], 
+    "senders": {
+        "idf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "tf_log_idf": "", 
+        "log_ecnt_idf": "", 
+        "ttf_w_duc": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "src_revert_detail": [
+            {
+                "confidence": 17, 
+                "domain": "reserved"
+            }
+        ], 
+        "domain_keywords_detail": [
+            {
+                "confidence": 38692248.2251518, 
+                "domain": "gopass"
+            }
+        ], 
+        "log_ecnt_idf_detail": [], 
+        "plain_domain": "gopass", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt_idf": "", 
+        "src_revert": "reserved", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "ettf_w_duc_detail": [], 
+        "cnt-pow4_w_duc_detail": [], 
+        "plain_domain_detail": [
+            {
+                "confidence": 3, 
+                "domain": "gopass"
+            }
+        ], 
+        "log_ecnt_idf_log_tidf": "", 
+        "ettf_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "domain_keywords": "gopass", 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "cnt-pow4_w_duc": "", 
+        "ttf_w_duc_detail": [], 
+        "tf_log_idf_detail": [], 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "idf": "", 
+        "log_ecnt_log_idf_log_tidf": ""
+    }, 
+    "pepca_style": "", 
+    "subject": "Potvrzeni registrace a overeni Vaseho e mailu", 
+    "first10words": " Potvrzeni registrace a overeni Vaseho e mailu Pokud se Vam tento e mail nezobrazuje spravne kliknete zde ", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/26ed6f877b5d84a005017d079d34c868.eml", 
+    "spamscore": 1.1, 
+    "pepca_style_total": 0, 
+    "content": "CONTENT_DEFAULT", 
+    "last10words": "gopass cz Pokud si v budoucnu neprejete dostavat novinky z programu GOPASS muzete se odhlasit kliknutim na tento odkaz ", 
+    "contains_list_header": true, 
+    "header_from": "info@gopass.cz", 
+    "unsub_link_candidates": [
+        "http://tmr.cortex.cz/email/u/8985450db12ba220ef13f40387"
+    ], 
+    "pepca_inline_style_total": 1, 
+    "lang": "cs", 
+    "unsub_link_texts": [
+        "pokud si v budoucno neprat dostavat novinka z program gopass moct se odhlasit kliknuti na tento odkaz "
+    ], 
+    "rcpts_count": 1, 
+    "phishing": {
+        "fake_https": 1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_https_urls": 1, 
+        "text_link_with_path": 1, 
+        "num_dots_urls": 4, 
+        "num_phish_keywords": 7, 
+        "num_param_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_sender_diff_url": 1, 
+        "num_tld_in_url_path": 0, 
+        "num_black_sheep_link": -1, 
+        "text_and_href": 0, 
+        "num_text_forms": 13, 
+        "suspicious_links": [], 
+        "num_ip_urls": 0, 
+        "num_www_in_url_path": 0, 
+        "camouflage": 1, 
+        "num_slashes_urls": 5, 
+        "num_freehost_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "ner_domain_detected": true, 
+        "subject_phish_keywords": 2, 
+        "html_form": 0, 
+        "num_black_sheep_link_global": -1, 
+        "num_html_script_tags": 0, 
+        "num_path_phish": 0, 
+        "num_subdomain_phish": 0, 
+        "num_shortened_urls": 0
+    }, 
+    "notches": [
+        {
+            "subscores": [
+                1, 
+                0.0, 
+                0.1
+            ], 
+            "score": 1.1, 
+            "name": [
+                "date_in_past", 
+                "from_missmatch", 
+                "html_a_href_camouflaging"
+            ], 
+            "module": "ill"
+        }
+    ], 
+    "phish_score": 0, 
+    "pepca": "pfa8880adb10361c1", 
+    "pepca_inline_style": "pa299ee199617f7f2"
+}

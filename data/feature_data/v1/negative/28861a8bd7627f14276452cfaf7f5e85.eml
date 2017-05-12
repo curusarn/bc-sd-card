@@ -1,0 +1,139 @@
+{
+    "adscore": 0, 
+    "attachments": [], 
+    "contains_list_header": true, 
+    "content": "CONTENT_DEFAULT", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/28861a8bd7627f14276452cfaf7f5e85.eml", 
+    "first10words": " JYSK Prosim aktivujte Vasi registraci kliknutim na odkaz Zobrazit on line verzi kliknete zde ", 
+    "header_from": "czech@email.jysk.com", 
+    "lang": "cs", 
+    "last10words": "ska 1010 14 142 00 Praha 4 Tel 420 848 260 270 Fax 420 255 702 390 servis zakaznik jysk com Diskretnost ", 
+    "list_unsubscribe_urls": [
+        "http://email.jysk.com/public/list_unsubscribe.jsp?action=listUnsubscribe&gid=1600239595&uid=16446928926&mid=1600453727&siglistunsub=&errorPage=/public/list_unsubscribe.jsp", 
+        "mailto:listunsubscribe-1600239595-1600453727-16446928926@email.jysk.com"
+    ], 
+    "notches": [
+        {
+            "module": "ill", 
+            "name": [
+                "date_in_past", 
+                "from_missmatch", 
+                "foreign_message_id"
+            ], 
+            "score": 1.1, 
+            "subscores": [
+                1, 
+                0.0, 
+                0.1
+            ]
+        }
+    ], 
+    "pepca": "p54fd2a946214b93c", 
+    "pepca_inline_style": "p9e7ac782f9ef188a", 
+    "pepca_inline_style_total": 0, 
+    "pepca_style": "pbc16247b3a2452ca", 
+    "pepca_style_total": 0, 
+    "pepcatotal": 0, 
+    "phashes": [
+        {
+            "name": "pepca", 
+            "value": "p54fd2a946214b93c"
+        }, 
+        {
+            "name": "pepca_style", 
+            "value": "pbc16247b3a2452ca"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "p9e7ac782f9ef188a"
+        }
+    ], 
+    "phish_score": 0, 
+    "phishing": {
+        "camouflage": 0, 
+        "fake_https": 0, 
+        "html_form": 0, 
+        "num_black_sheep_link": -1, 
+        "num_black_sheep_link_global": -1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_dots_urls": 5, 
+        "num_freehost_urls": 0, 
+        "num_html_script_tags": 0, 
+        "num_https_urls": 0, 
+        "num_ip_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "num_param_phish": 0, 
+        "num_path_phish": 0, 
+        "num_phish_keywords": 0, 
+        "num_sender_diff_url": 0, 
+        "num_shortened_urls": 0, 
+        "num_slashes_urls": 4, 
+        "num_subdomain_phish": 0, 
+        "num_text_forms": 14, 
+        "num_tld_in_url_path": 0, 
+        "num_www_in_url_path": 0, 
+        "subject_phish_keywords": 1, 
+        "suspicious_links": [], 
+        "text_and_href": 0, 
+        "text_link_with_path": 0
+    }, 
+    "precedence": 3, 
+    "rcpts_count": 1, 
+    "senders": {
+        "cnt-pow4_w_duc": "", 
+        "cnt-pow4_w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "domain_keywords": "jysk", 
+        "domain_keywords_detail": [
+            {
+                "confidence": 44691228.90556, 
+                "domain": "jysk"
+            }
+        ], 
+        "ettf_w_duc": "", 
+        "ettf_w_duc_detail": [], 
+        "idf": "", 
+        "idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "log_cnt-w_duc_detail": [], 
+        "log_cnt_idf": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "log_ecnt_idf": "", 
+        "log_ecnt_idf_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "log_ecnt_log_idf_log_tidf": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "plain_domain": "jysk", 
+        "plain_domain_detail": [
+            {
+                "confidence": 1, 
+                "domain": "jysk"
+            }
+        ], 
+        "src_revert": "jysk", 
+        "src_revert_detail": [
+            {
+                "confidence": 5, 
+                "domain": "jysk"
+            }
+        ], 
+        "tf_log_idf": "", 
+        "tf_log_idf_detail": [], 
+        "ttf_w_duc": "", 
+        "ttf_w_duc_detail": []
+    }, 
+    "spamscore": 1.1, 
+    "subject": "Potvrzeni registrace k odberu JYSKoveho newsletteru", 
+    "word_count": 234
+}

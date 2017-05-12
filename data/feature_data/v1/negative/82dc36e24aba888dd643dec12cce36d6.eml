@@ -1,0 +1,201 @@
+{
+    "adNotches": [
+        {
+            "module": "ill", 
+            "name": [
+                "images_in_subject"
+            ], 
+            "score": 5, 
+            "subscores": [
+                5
+            ]
+        }
+    ], 
+    "adscore": 5, 
+    "attachments": [], 
+    "contains_list_header": true, 
+    "content": "CONTENT_DEFAULT", 
+    "dkstatus": {}, 
+    "dmarc_status": {}, 
+    "domainstat": {}, 
+    "domainstat_themes": {}, 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/82dc36e24aba888dd643dec12cce36d6.eml", 
+    "extractedEmailsTotalCount": {}, 
+    "first10words": " Registrace nuvi 54LM probehla uspesne Nezobrazuje se vam tento e mail Zobrazit jako webovou stranku ", 
+    "header_from": "reply@email1.garmin.com", 
+    "lang": "cs", 
+    "last10words": "Kansas 66062 913 397 8200 Garmin com Ochrana osobnich udaju ", 
+    "list_unsubscribe_urls": [
+        "http://info.garmin.com/u/lu.php?lu=n7dL$:,6D:Bws:wVulAi5l1d"
+    ], 
+    "notches": [
+        {
+            "module": "ill", 
+            "name": [
+                "date_in_past", 
+                "from_missmatch", 
+                "images_in_subject"
+            ], 
+            "score": 2, 
+            "subscores": [
+                1, 
+                0.0, 
+                1
+            ]
+        }
+    ], 
+    "pepca": "p8db58fe8766b8fe5", 
+    "pepca_inline_style": "p956ca09b448d7ce8", 
+    "pepca_inline_style_total": 6, 
+    "pepca_style": "", 
+    "pepca_style_total": 0, 
+    "pepcatotal": 3, 
+    "phNotches": [
+        {
+            "module": "phish-score", 
+            "name": [
+                "from_mismatch", 
+                "phisheable", 
+                "phish_keyword", 
+                "unsub_link", 
+                "many_emails"
+            ], 
+            "score": -2.5, 
+            "subscores": [
+                1, 
+                0.5, 
+                0.0, 
+                -2, 
+                -2
+            ]
+        }
+    ], 
+    "phashes": [
+        {
+            "name": "pepca", 
+            "value": "p8db58fe8766b8fe5"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "p956ca09b448d7ce8"
+        }
+    ], 
+    "phish_score": -0.75, 
+    "phishing": {
+        "camouflage": 0, 
+        "fake_https": 0, 
+        "html_form": 0, 
+        "many_emails": true, 
+        "num_attachments": 0, 
+        "num_black_sheep_link": -1, 
+        "num_black_sheep_link_global": -1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_dots_urls": 3, 
+        "num_freehost_urls": 0, 
+        "num_html_script_tags": 0, 
+        "num_https_urls": 2, 
+        "num_ip_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "num_param_phish": 0, 
+        "num_path_phish": 0, 
+        "num_phish_keywords": 5, 
+        "num_sender_diff_url": 0, 
+        "num_shortened_urls": 0, 
+        "num_slashes_urls": 2, 
+        "num_subdomain_phish": 0, 
+        "num_subject_phish_keywords": 0, 
+        "num_text_forms": 3, 
+        "num_tld_in_url_path": 0, 
+        "num_www_in_url_path": 0, 
+        "subject_phish_keywords": 0, 
+        "suspicious_links": [], 
+        "text_and_href": 0, 
+        "text_link_with_path": 2
+    }, 
+    "precedence": 3, 
+    "rcpts_count": 1, 
+    "senders": {
+        "cnt-pow4_w_duc": "", 
+        "cnt-pow4_w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "domain_keywords": "ebay", 
+        "domain_keywords_detail": [
+            {
+                "confidence": 26352129.6394898, 
+                "domain": "ebay"
+            }
+        ], 
+        "ettf_w_duc": "", 
+        "ettf_w_duc_detail": [], 
+        "idf": "", 
+        "idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "log_cnt-w_duc_detail": [], 
+        "log_cnt_idf": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "log_ecnt_idf": "", 
+        "log_ecnt_idf_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "log_ecnt_log_idf_log_tidf": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "plain_domain": "garmin", 
+        "plain_domain_detail": [
+            {
+                "confidence": 3, 
+                "domain": "garmin"
+            }
+        ], 
+        "src_revert": "garmin", 
+        "src_revert_detail": [
+            {
+                "confidence": 2.03494956313046, 
+                "domain": "garmin"
+            }
+        ], 
+        "tf_log_idf": "", 
+        "tf_log_idf_detail": [], 
+        "ttf_w_duc": "", 
+        "ttf_w_duc_detail": []
+    }, 
+    "spamscore": 2, 
+    "spfstatus": {}, 
+    "subject": "Dekujeme za registraci vaseho zarizeni nuvi 54LM", 
+    "theme": {}, 
+    "universalprobes": [
+        {
+            "key": "ps-from_mismatch", 
+            "value": "1"
+        }, 
+        {
+            "key": "ps-phish_keyword", 
+            "value": "['z\\xc3\\xadskat', 'p\\xc5\\x99\\xc3\\xadstup', 'schr\\xc3\\xa1nka', 'privacy', '\\xc3\\xba\\xc4\\x8det']"
+        }, 
+        {
+            "key": "ps-unsub_link", 
+            "value": "1"
+        }, 
+        {
+            "key": "ps-many_emails", 
+            "value": "1"
+        }
+    ], 
+    "unsub_link": "http://info.garmin.com/u/un.php?par=wVulAi5l1d_97324_70805_1", 
+    "unsub_link_candidates": [
+        "http://info.garmin.com/u/un.php?par=wVulAi5l1d_97324_70805_1"
+    ], 
+    "unsub_link_texts": [
+        "nechtit li dostavat e mail z ucta mygarmin kliknout prosit sem "
+    ], 
+    "word_count": 292
+}

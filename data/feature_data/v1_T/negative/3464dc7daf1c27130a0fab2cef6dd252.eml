@@ -1,0 +1,130 @@
+{
+    "pepcatotal": 0, 
+    "attachments": [], 
+    "precedence": 3, 
+    "phashes": [
+        {
+            "name": "pepca", 
+            "value": "p82907b5ae078c3bb"
+        }, 
+        {
+            "name": "pepca_style", 
+            "value": "pcfe600315c3a575a"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "pfca20d38c190b204"
+        }
+    ], 
+    "word_count": 277, 
+    "adscore": 0, 
+    "senders": {
+        "idf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "tf_log_idf": "", 
+        "log_ecnt_idf": "", 
+        "ttf_w_duc": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "src_revert_detail": [
+            {
+                "confidence": 1, 
+                "domain": "facebookmail"
+            }
+        ], 
+        "domain_keywords_detail": [
+            {
+                "confidence": 27543795.8669938, 
+                "domain": "ebay"
+            }
+        ], 
+        "log_ecnt_idf_detail": [], 
+        "plain_domain": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt_idf": "", 
+        "src_revert": "facebookmail", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "ettf_w_duc_detail": [], 
+        "cnt-pow4_w_duc_detail": [], 
+        "plain_domain_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "ettf_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "domain_keywords": "ebay", 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "cnt-pow4_w_duc": "", 
+        "ttf_w_duc_detail": [], 
+        "tf_log_idf_detail": [], 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "idf": "", 
+        "log_ecnt_log_idf_log_tidf": ""
+    }, 
+    "pepca_style": "pcfe600315c3a575a", 
+    "subject": "Nekdo pozadal o nove heslo k vasemu uctu na Facebooku", 
+    "first10words": " Facebook Nekdo nedavno pozadat o obnoveni vaseho hesla k Facebooku Kliknete sem a zmente si heslo Pripadne muzete zada", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/3464dc7daf1c27130a0fab2cef6dd252.eml", 
+    "pepca_style_total": 0, 
+    "content": "CONTENT_DEFAULT", 
+    "last10words": " adresu lek hostivice volny cz na vasi zadost Facebook Inc Attention Department 415 PO Box 10005 Palo Alto CA 94303 ", 
+    "spamscore": 1.5, 
+    "header_from": "password+zrdp=pdfvrlf@facebookmail.com", 
+    "resent": true, 
+    "pepca_inline_style_total": 0, 
+    "lang": "cs", 
+    "rcpts_count": 1, 
+    "phishing": {
+        "fake_https": 0, 
+        "num_black_sheep_link_phish": 0, 
+        "num_https_urls": 3, 
+        "text_link_with_path": 0, 
+        "num_dots_urls": 3, 
+        "num_phish_keywords": 14, 
+        "num_param_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_sender_diff_url": 1, 
+        "num_tld_in_url_path": 0, 
+        "num_black_sheep_link": -1, 
+        "text_and_href": 0, 
+        "num_text_forms": 14, 
+        "suspicious_links": [], 
+        "num_ip_urls": 0, 
+        "num_www_in_url_path": 0, 
+        "camouflage": 0, 
+        "num_slashes_urls": 3, 
+        "num_freehost_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "subject_phish_keywords": 2, 
+        "html_form": 0, 
+        "num_black_sheep_link_global": -1, 
+        "num_html_script_tags": 0, 
+        "num_path_phish": 0, 
+        "num_subdomain_phish": 0, 
+        "num_shortened_urls": 0
+    }, 
+    "notches": [
+        {
+            "subscores": [
+                1, 
+                0.0, 
+                0.5
+            ], 
+            "score": 1.5, 
+            "name": [
+                "date_in_past", 
+                "from_missmatch", 
+                "long_subject"
+            ], 
+            "module": "ill"
+        }
+    ], 
+    "phish_score": 0, 
+    "pepca": "p82907b5ae078c3bb", 
+    "pepca_inline_style": "pfca20d38c190b204"
+}

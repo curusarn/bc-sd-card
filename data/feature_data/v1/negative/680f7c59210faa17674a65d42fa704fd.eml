@@ -1,0 +1,140 @@
+{
+    "adscore": 0, 
+    "attachments": [
+        {
+            "cid": "image001.png@01D0185C.D2629BC0", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "image/png", 
+            "name": "image001.png", 
+            "pepca": "pf347020ee98e676f", 
+            "size": 2411, 
+            "sumphash": "e009b971e2b2719559416c29a29d9171"
+        }
+    ], 
+    "content": "CONTENT_DEFAULT", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/680f7c59210faa17674a65d42fa704fd.eml", 
+    "first10words": " e shop Dobry den dekujeme za Vasi objednavku Zbozi dnes expedujeme zasilkovou sluzbou PPL platba ", 
+    "header_from": "obchod@viakom.cz", 
+    "lang": "cs", 
+    "last10words": "nimi podminkami firmy VIAKOM CZ s r o ktere jsou zavazne pro veskery obchodni styk mezi objednatelem a dodavatelem ", 
+    "notches": [
+        {
+            "module": "ill", 
+            "name": [
+                "date_in_past", 
+                "from_missmatch", 
+                "long_subject"
+            ], 
+            "score": 1.5, 
+            "subscores": [
+                1, 
+                0.0, 
+                0.5
+            ]
+        }
+    ], 
+    "pepca": "pa3d4bcfbeb0bcf48", 
+    "pepca_inline_style": "pcec6bbf912250c98", 
+    "pepca_inline_style_total": 0, 
+    "pepca_style": "", 
+    "pepca_style_total": 0, 
+    "pepcatotal": 0, 
+    "phashes": [
+        {
+            "name": "att-pepca", 
+            "value": "pf347020ee98e676f"
+        }, 
+        {
+            "name": "pepca", 
+            "value": "pa3d4bcfbeb0bcf48"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "pcec6bbf912250c98"
+        }
+    ], 
+    "phish_score": 0, 
+    "phishing": {
+        "camouflage": 0, 
+        "fake_https": 0, 
+        "html_form": 0, 
+        "num_black_sheep_link": -1, 
+        "num_black_sheep_link_global": -1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_dots_urls": 2, 
+        "num_freehost_urls": 0, 
+        "num_html_script_tags": 0, 
+        "num_https_urls": 0, 
+        "num_ip_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "num_param_phish": 0, 
+        "num_path_phish": 0, 
+        "num_phish_keywords": 1, 
+        "num_sender_diff_url": 0, 
+        "num_shortened_urls": 0, 
+        "num_slashes_urls": 2, 
+        "num_subdomain_phish": 0, 
+        "num_text_forms": 9, 
+        "num_tld_in_url_path": 0, 
+        "num_www_in_url_path": 0, 
+        "subject_phish_keywords": 0, 
+        "suspicious_links": [], 
+        "text_and_href": 0, 
+        "text_link_with_path": 0
+    }, 
+    "precedence": 3, 
+    "rcpts_count": 1, 
+    "senders": {
+        "cnt-pow4_w_duc": "", 
+        "cnt-pow4_w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "domain_keywords": "masterinter", 
+        "domain_keywords_detail": [
+            {
+                "confidence": 63728072.47544, 
+                "domain": "masterinter"
+            }
+        ], 
+        "ettf_w_duc": "", 
+        "ettf_w_duc_detail": [], 
+        "idf": "", 
+        "idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "log_cnt-w_duc_detail": [], 
+        "log_cnt_idf": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "log_ecnt_idf": "", 
+        "log_ecnt_idf_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "log_ecnt_log_idf_log_tidf": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "plain_domain": "viakom", 
+        "plain_domain_detail": [
+            {
+                "confidence": 5, 
+                "domain": "viakom"
+            }
+        ], 
+        "src_revert": "", 
+        "src_revert_detail": [], 
+        "tf_log_idf": "", 
+        "tf_log_idf_detail": [], 
+        "ttf_w_duc": "", 
+        "ttf_w_duc_detail": []
+    }, 
+    "spamscore": 1.5, 
+    "subject": "RE Objednavka z e shopu www VIAKOM cz c VIA1018649", 
+    "word_count": 753
+}

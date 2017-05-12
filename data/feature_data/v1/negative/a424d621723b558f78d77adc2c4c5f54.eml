@@ -1,0 +1,138 @@
+{
+    "adscore": 0, 
+    "attachments": [], 
+    "content": "CONTENT_DEFAULT", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/a424d621723b558f78d77adc2c4c5f54.eml", 
+    "first10words": " Plus500 Mechanismus svetoveho obchodu Vase nove heslo je qmbfmq Pro", 
+    "header_from": "noreply@plus500.com", 
+    "lang": "cs", 
+    "last10words": "u Registracni cislo Urad pro financni spravu 509909 Kliknete zde pro zruseni odberu zprav ", 
+    "notches": [
+        {
+            "module": "ill", 
+            "name": [
+                "date_in_past", 
+                "from_missmatch", 
+                "foreign_message_id"
+            ], 
+            "score": 1.1, 
+            "subscores": [
+                1, 
+                0.0, 
+                0.1
+            ]
+        }
+    ], 
+    "pepca": "p52397960ee785adc", 
+    "pepca_inline_style": "pcd02f1740c66392c", 
+    "pepca_inline_style_total": 0, 
+    "pepca_style": "p0dd0aac1dab55ebe", 
+    "pepca_style_total": 0, 
+    "pepcatotal": 0, 
+    "phashes": [
+        {
+            "name": "pepca", 
+            "value": "p52397960ee785adc"
+        }, 
+        {
+            "name": "pepca_style", 
+            "value": "p0dd0aac1dab55ebe"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "pcd02f1740c66392c"
+        }
+    ], 
+    "phish_score": 0, 
+    "phishing": {
+        "camouflage": 0, 
+        "fake_https": 0, 
+        "html_form": 0, 
+        "num_black_sheep_link": -1, 
+        "num_black_sheep_link_global": -1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_dots_urls": 2, 
+        "num_freehost_urls": 0, 
+        "num_html_script_tags": 0, 
+        "num_https_urls": 0, 
+        "num_ip_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "num_param_phish": 0, 
+        "num_path_phish": 0, 
+        "num_phish_keywords": 6, 
+        "num_sender_diff_url": 0, 
+        "num_shortened_urls": 0, 
+        "num_slashes_urls": 2, 
+        "num_subdomain_phish": 0, 
+        "num_text_forms": 11, 
+        "num_tld_in_url_path": 0, 
+        "num_www_in_url_path": 0, 
+        "subject_phish_keywords": 1, 
+        "suspicious_links": [], 
+        "text_and_href": 0, 
+        "text_link_with_path": 0
+    }, 
+    "precedence": 3, 
+    "rcpts_count": 1, 
+    "senders": {
+        "cnt-pow4_w_duc": "", 
+        "cnt-pow4_w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "domain_keywords": "plus500", 
+        "domain_keywords_detail": [
+            {
+                "confidence": 41153722.879568, 
+                "domain": "plus500"
+            }
+        ], 
+        "ettf_w_duc": "", 
+        "ettf_w_duc_detail": [], 
+        "idf": "", 
+        "idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "log_cnt-w_duc_detail": [], 
+        "log_cnt_idf": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "log_ecnt_idf": "", 
+        "log_ecnt_idf_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "log_ecnt_log_idf_log_tidf": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "plain_domain": "", 
+        "plain_domain_detail": [], 
+        "src_revert": "plus500", 
+        "src_revert_detail": [
+            {
+                "confidence": 8, 
+                "domain": "plus500"
+            }
+        ], 
+        "tf_log_idf": "", 
+        "tf_log_idf_detail": [], 
+        "ttf_w_duc": "", 
+        "ttf_w_duc_detail": []
+    }, 
+    "spamscore": 1.1, 
+    "subject": "Vase nove heslo", 
+    "unsub_link": "http://sndgrd.plus500.com/wf/click?upn=LWNpzcRuG9rmx6UskeIJV0eZutf7PhELiwPuq-2B6eeZi2KsoQkpwD1XloeIdtKXdvCVh84uH4BAzB0GgnE3jylILFhxrNLKs7LM7aWlxBN1Qr9BOwnUwNTNeD4x89Cf6I_4dLW-2FJjqjEsfVtVDlu0z2AJchfjpWvzSeSo4zeRtq4Ys51ivL-2Fih44xTWMUyIinKKFmImehyAes2mH7s0HMwqwlVQnOrxJOGRPORKZEO-2BoHO-2BmheZ-2FMfrDmkygDLb-2Fp1I4lzC5XOtP2BLU8VfssMQt3cS-2BKY23ud08FGGeoxP-2B28P0I7bgSnFKzl1yD5a3dNk3uG7Zg0-2BKTA60HrGjrkemmApfscUQEB3hPm1U1FR1LIpRRJIFYNkxqun76QPWZ0e89jIJU6SQGUoYbtgndINw-3D-3D", 
+    "unsub_link_candidates": [
+        "http://sndgrd.plus500.com/wf/click?upn=LWNpzcRuG9rmx6UskeIJVxg4MvtY1pmsBWyi0gl-2B-2FyIrb9Lt9uhR1JpwMz-2FnFQJkMsy5EO2MLxmyvYsNXMxnAA-3D-3D_4dLW-2FJjqjEsfVtVDlu0z2AJchfjpWvzSeSo4zeRtq4Ys51ivL-2Fih44xTWMUyIinKXyYpa6iIy6mAfWxMF1DvzzpiNlPazIM-2BemnTzTrkUWzidWrhvyRHKGqsIXnfbODz8hJ9pDy7yKzwcQjM1SQd9qaSakwGzqJA7gsj6NDFp7UWIb3LxHtxJd94p6kxzrRxIdoTLZq0ygv1Qe71XTappeeUJktLabfjfyz3MXre77T2-2Bkf12kTbhmh0AGkytgRq6MKoCPAgJen9StqPwNU28w-3D-3D", 
+        "http://sndgrd.plus500.com/wf/click?upn=LWNpzcRuG9rmx6UskeIJV0eZutf7PhELiwPuq-2B6eeZi2KsoQkpwD1XloeIdtKXdvCVh84uH4BAzB0GgnE3jylILFhxrNLKs7LM7aWlxBN1Qr9BOwnUwNTNeD4x89Cf6I_4dLW-2FJjqjEsfVtVDlu0z2AJchfjpWvzSeSo4zeRtq4Ys51ivL-2Fih44xTWMUyIinKKFmImehyAes2mH7s0HMwqwlVQnOrxJOGRPORKZEO-2BoHO-2BmheZ-2FMfrDmkygDLb-2Fp1I4lzC5XOtP2BLU8VfssMQt3cS-2BKY23ud08FGGeoxP-2B28P0I7bgSnFKzl1yD5a3dNk3uG7Zg0-2BKTA60HrGjrkemmApfscUQEB3hPm1U1FR1LIpRRJIFYNkxqun76QPWZ0e89jIJU6SQGUoYbtgndINw-3D-3D"
+    ], 
+    "unsub_link_texts": [
+        " linkedin linkedin tento e mail byt obdrzet proto ze pouzivat obchodny platforma plus a v predvolba mit", 
+        "kliknout zde pro zruseni odber zprava "
+    ], 
+    "word_count": 299
+}

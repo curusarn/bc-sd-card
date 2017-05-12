@@ -1,0 +1,134 @@
+{
+    "pepcatotal": 0, 
+    "attachments": [
+        {
+            "name": "5CJC0X.PNG", 
+            "cid": "006901c6b4d2$ddc00a80$6c822ecf@ZOLH62K6", 
+            "pepca": "p2c31a11438742f29", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "sumphash": "ffe4026f1c3c5f800420d2afc08779df", 
+            "mime_type": "image/png", 
+            "size": 7670
+        }
+    ], 
+    "precedence": 3, 
+    "phashes": [
+        {
+            "name": "att-pepca", 
+            "value": "p2c31a11438742f29"
+        }, 
+        {
+            "name": "pepca", 
+            "value": "p1725137c735fe135"
+        }
+    ], 
+    "word_count": 465, 
+    "adscore": 0, 
+    "senders": {
+        "idf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "tf_log_idf": "", 
+        "log_ecnt_idf": "", 
+        "ttf_w_duc": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "src_revert_detail": [], 
+        "domain_keywords_detail": [
+            {
+                "confidence": 629536487.553931, 
+                "domain": "aweber"
+            }
+        ], 
+        "log_ecnt_idf_detail": [], 
+        "plain_domain": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt_idf": "", 
+        "src_revert": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "ettf_w_duc_detail": [], 
+        "cnt-pow4_w_duc_detail": [], 
+        "plain_domain_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "ettf_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "domain_keywords": "aweber", 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "cnt-pow4_w_duc": "", 
+        "ttf_w_duc_detail": [], 
+        "tf_log_idf_detail": [], 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "idf": "", 
+        "log_ecnt_log_idf_log_tidf": ""
+    }, 
+    "pepca_style": "", 
+    "subject": "Customer Service Your Fifth Third Bank Account Mon 31 Jul 2006 18 55 18 0300 ", 
+    "first10words": " go go hi of of but from but and how best no of very good no out to why well of many of very goodtoday", 
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing2/1306.eml", 
+    "pepca_style_total": 0, 
+    "content": "CONTENT_DEFAULT", 
+    "last10words": " how many out but today very good are hi but go why and but you you from go of very good from and do you are why are out hi you to go ", 
+    "spamscore": 1.5, 
+    "header_from": "operator_20734972806.cust@53.com", 
+    "pepca_inline_style_total": 0, 
+    "lang": "en", 
+    "rcpts_count": 1, 
+    "phishing": {
+        "fake_https": 0, 
+        "num_black_sheep_link_phish": 0, 
+        "num_https_urls": 0, 
+        "text_link_with_path": 0, 
+        "num_dots_urls": 7, 
+        "num_phish_keywords": 0, 
+        "num_param_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_sender_diff_url": 1, 
+        "num_tld_in_url_path": 0, 
+        "num_black_sheep_link": -1, 
+        "text_and_href": 0, 
+        "num_text_forms": 0, 
+        "suspicious_links": [], 
+        "num_ip_urls": 0, 
+        "num_www_in_url_path": 0, 
+        "camouflage": 0, 
+        "num_slashes_urls": 2, 
+        "num_freehost_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "5_top_domains_id_0": 0, 
+        "ner_domain_detected": true, 
+        "subject_phish_keywords": 1, 
+        "html_form": 0, 
+        "5_top_domains_percent_0": 1.0, 
+        "num_black_sheep_link_global": -1, 
+        "num_html_script_tags": 0, 
+        "num_path_phish": 0, 
+        "num_subdomain_phish": 0, 
+        "num_shortened_urls": 0
+    }, 
+    "notches": [
+        {
+            "subscores": [
+                1, 
+                0.0, 
+                0.5
+            ], 
+            "score": 1.5, 
+            "name": [
+                "date_in_past", 
+                "from_missmatch", 
+                "long_subject"
+            ], 
+            "module": "ill"
+        }
+    ], 
+    "phish_score": 0, 
+    "pepca": "p1725137c735fe135", 
+    "pepca_inline_style": ""
+}

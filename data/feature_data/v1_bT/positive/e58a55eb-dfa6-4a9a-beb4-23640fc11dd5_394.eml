@@ -1,0 +1,135 @@
+{
+    "pepcatotal": 0, 
+    "attachments": [], 
+    "precedence": 3, 
+    "phashes": [
+        {
+            "name": "pepca", 
+            "value": "p254865b7be90f07e"
+        }, 
+        {
+            "name": "pepca_style", 
+            "value": "pa73c14f997d4c52c"
+        }
+    ], 
+    "word_count": 295, 
+    "adscore": 0, 
+    "senders": {
+        "idf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "tf_log_idf": "", 
+        "log_ecnt_idf": "", 
+        "ttf_w_duc": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "src_revert_detail": [
+            {
+                "confidence": 3, 
+                "domain": "paypal"
+            }
+        ], 
+        "domain_keywords_detail": [
+            {
+                "confidence": 1505885573.17648, 
+                "domain": "paypal"
+            }
+        ], 
+        "log_ecnt_idf_detail": [], 
+        "plain_domain": "paypal", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt_idf": "", 
+        "src_revert": "paypal", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "ettf_w_duc_detail": [], 
+        "cnt-pow4_w_duc_detail": [], 
+        "plain_domain_detail": [
+            {
+                "confidence": 2, 
+                "domain": "paypal"
+            }
+        ], 
+        "log_ecnt_idf_log_tidf": "", 
+        "ettf_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "domain_keywords": "paypal", 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "cnt-pow4_w_duc": "", 
+        "ttf_w_duc_detail": [], 
+        "tf_log_idf_detail": [], 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "idf": "", 
+        "log_ecnt_log_idf_log_tidf": ""
+    }, 
+    "pepca_style": "pa73c14f997d4c52c", 
+    "subject": "Quarterly Statement Notice", 
+    "first10words": " PayPal Quarterly Statement Notice Dear member You are receiving this notification because PayPa", 
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing2/394.eml", 
+    "pepca_style_total": 2, 
+    "content": "CONTENT_DEFAULT", 
+    "last10words": "ed Designated trademarks and brands are the property of their respective owners PayPal is located at 2211 N First St San Jose CA 95131 ", 
+    "spamscore": 1.1, 
+    "header_from": "paypal@email.paypal.com", 
+    "pepca_inline_style_total": 0, 
+    "lang": "en", 
+    "rcpts_count": 1, 
+    "phishing": {
+        "fake_https": 1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_https_urls": 4, 
+        "text_link_with_path": 3, 
+        "num_dots_urls": 3, 
+        "num_phish_keywords": 16, 
+        "num_param_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_sender_diff_url": 1, 
+        "num_tld_in_url_path": 0, 
+        "num_black_sheep_link": -1, 
+        "text_and_href": 0, 
+        "num_text_forms": 1, 
+        "suspicious_links": [], 
+        "num_ip_urls": 0, 
+        "num_www_in_url_path": 0, 
+        "camouflage": 1, 
+        "num_slashes_urls": 3, 
+        "num_freehost_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "5_top_domains_id_0": 0, 
+        "5_top_domains_id_1": 0, 
+        "ner_domain_detected": true, 
+        "subject_phish_keywords": 0, 
+        "html_form": 0, 
+        "5_top_domains_percent_1": 0.07692307692307693, 
+        "5_top_domains_percent_0": 0.9230769230769231, 
+        "num_black_sheep_link_global": -1, 
+        "num_html_script_tags": 0, 
+        "num_path_phish": 0, 
+        "num_subdomain_phish": 0, 
+        "num_shortened_urls": 0
+    }, 
+    "notches": [
+        {
+            "subscores": [
+                1, 
+                0.0, 
+                0.1
+            ], 
+            "score": 1.1, 
+            "name": [
+                "date_in_past", 
+                "from_missmatch", 
+                "html_a_href_camouflaging"
+            ], 
+            "module": "ill"
+        }
+    ], 
+    "phish_score": 0, 
+    "pepca": "p254865b7be90f07e", 
+    "pepca_inline_style": ""
+}

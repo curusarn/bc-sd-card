@@ -1,0 +1,170 @@
+{
+    "adscore": 0, 
+    "attachments": [
+        {
+            "cid": "li", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "image/png", 
+            "name": "li", 
+            "pepca": "p430693e6f3eb9162", 
+            "size": 168, 
+            "sumphash": "0f460c7b2c0e9660131fd7327d1f1675"
+        }, 
+        {
+            "cid": "logo", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "image/png", 
+            "name": "logo", 
+            "pepca": "p828b7e46750dc087", 
+            "size": 2687, 
+            "sumphash": "7a245d75f93f8f40e2bb2151df3506a6"
+        }, 
+        {
+            "cid": "logo-footer", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "image/png", 
+            "name": "logo-footer", 
+            "pepca": "pcc74fcf5ebb1119f", 
+            "size": 1511, 
+            "sumphash": "3aae66808ccbb2d76d91f1a2c74273f1"
+        }
+    ], 
+    "content": "CONTENT_DEFAULT", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/241864.eml", 
+    "first10words": " Invia Vitejte mezi nami Dobry den dekujeme Vam ze jste se zaregistrovali na Invia cz Jsme radi", 
+    "header_from": "moje@invia.cz", 
+    "lang": "cs", 
+    "last10words": "sti 5 110 00 Praha poradce invia cz tel 420 800 999 800 www invia cz kompletni kontakty www invia cz o invia kontakty ", 
+    "notches": [
+        {
+            "module": "ill", 
+            "name": [
+                "date_in_past", 
+                "from_missmatch"
+            ], 
+            "score": 1, 
+            "subscores": [
+                1, 
+                0.0
+            ]
+        }
+    ], 
+    "pepca": "p68833efe65a7fec8", 
+    "pepca_inline_style": "pa4b8deb5015071da", 
+    "pepca_inline_style_total": 0, 
+    "pepca_style": "p012f48ff37d517f5", 
+    "pepca_style_total": 0, 
+    "pepcatotal": 0, 
+    "phashes": [
+        {
+            "name": "att-pepca", 
+            "value": "p430693e6f3eb9162"
+        }, 
+        {
+            "name": "att-pepca", 
+            "value": "p828b7e46750dc087"
+        }, 
+        {
+            "name": "att-pepca", 
+            "value": "pcc74fcf5ebb1119f"
+        }, 
+        {
+            "name": "pepca", 
+            "value": "p68833efe65a7fec8"
+        }, 
+        {
+            "name": "pepca_style", 
+            "value": "p012f48ff37d517f5"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "pa4b8deb5015071da"
+        }
+    ], 
+    "phish_score": 0, 
+    "phishing": {
+        "camouflage": 0, 
+        "fake_https": 0, 
+        "html_form": 0, 
+        "num_black_sheep_link": -1, 
+        "num_black_sheep_link_global": -1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_dots_urls": 2, 
+        "num_freehost_urls": 0, 
+        "num_html_script_tags": 0, 
+        "num_https_urls": 0, 
+        "num_ip_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "num_param_phish": 0, 
+        "num_path_phish": 0, 
+        "num_phish_keywords": 3, 
+        "num_sender_diff_url": 0, 
+        "num_shortened_urls": 0, 
+        "num_slashes_urls": 3, 
+        "num_subdomain_phish": 0, 
+        "num_text_forms": 2, 
+        "num_tld_in_url_path": 0, 
+        "num_www_in_url_path": 0, 
+        "subject_phish_keywords": 0, 
+        "suspicious_links": [], 
+        "text_and_href": 1, 
+        "text_link_with_path": 1
+    }, 
+    "precedence": 3, 
+    "rcpts_count": 1, 
+    "senders": {
+        "cnt-pow4_w_duc": "", 
+        "cnt-pow4_w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "domain_keywords": "invia", 
+        "domain_keywords_detail": [
+            {
+                "confidence": 228353475.0333, 
+                "domain": "invia"
+            }
+        ], 
+        "ettf_w_duc": "", 
+        "ettf_w_duc_detail": [], 
+        "idf": "", 
+        "idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "log_cnt-w_duc_detail": [], 
+        "log_cnt_idf": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "log_ecnt_idf": "", 
+        "log_ecnt_idf_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "log_ecnt_log_idf_log_tidf": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "plain_domain": "invia", 
+        "plain_domain_detail": [
+            {
+                "confidence": 4, 
+                "domain": "invia"
+            }
+        ], 
+        "src_revert": "", 
+        "src_revert_detail": [], 
+        "tf_log_idf": "", 
+        "tf_log_idf_detail": [], 
+        "ttf_w_duc": "", 
+        "ttf_w_duc_detail": []
+    }, 
+    "spamscore": 1, 
+    "subject": "Vitejte mezi nami Invia", 
+    "word_count": 158
+}

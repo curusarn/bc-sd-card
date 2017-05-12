@@ -1,0 +1,146 @@
+{
+    "adscore": 0, 
+    "attachments": [], 
+    "contains_list_header": true, 
+    "content": "CONTENT_DEFAULT", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/3d94653d214a6fab5484d6b174d90e2b.eml", 
+    "first10words": " kanec Vase heslo na SexBang cz Chcete li mit vsechny zpravy dorucene do Vasi e mailove schranky pridejte prosim S", 
+    "header_from": "noreply@mass.datingfactory.com", 
+    "lang": "cs", 
+    "last10words": "o email muze obsahovat inzerci Dating Factory s r o 3 patro 207 Regent Street Londyn W1B 3HH Velka Britanie ", 
+    "list_unsubscribe_urls": [
+        "mailto:unsubscribe+1372039824.46277545.26570247.18@mass.datingfactory.com", 
+        "http://sexbang.cz/support/unsubscribe/0046277545002vbi5a3e2801c70195163076a7669c6a8950/1372039824.46277545.26570247.18?linkId=77"
+    ], 
+    "notches": [
+        {
+            "module": "ill", 
+            "name": [
+                "date_in_past", 
+                "from_missmatch", 
+                "foreign_message_id"
+            ], 
+            "score": 1.1, 
+            "subscores": [
+                1, 
+                0.0, 
+                0.1
+            ]
+        }
+    ], 
+    "pepca": "p55f6eed0b5380052", 
+    "pepca_inline_style": "pf22c454365e6cbb8", 
+    "pepca_inline_style_total": 0, 
+    "pepca_style": "", 
+    "pepca_style_total": 0, 
+    "pepcatotal": 0, 
+    "phashes": [
+        {
+            "name": "pepca", 
+            "value": "p55f6eed0b5380052"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "pf22c454365e6cbb8"
+        }
+    ], 
+    "phish_score": 0, 
+    "phishing": {
+        "camouflage": 0, 
+        "fake_https": 0, 
+        "html_form": 0, 
+        "num_black_sheep_link": -1, 
+        "num_black_sheep_link_global": -1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_dots_urls": 4, 
+        "num_freehost_urls": 0, 
+        "num_html_script_tags": 0, 
+        "num_https_urls": 0, 
+        "num_ip_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "num_param_phish": 0, 
+        "num_path_phish": 0, 
+        "num_phish_keywords": 9, 
+        "num_sender_diff_url": 2, 
+        "num_shortened_urls": 0, 
+        "num_slashes_urls": 4, 
+        "num_subdomain_phish": 0, 
+        "num_text_forms": 2, 
+        "num_tld_in_url_path": 0, 
+        "num_www_in_url_path": 0, 
+        "subject_phish_keywords": 1, 
+        "suspicious_links": [], 
+        "text_and_href": 0, 
+        "text_link_with_path": 0
+    }, 
+    "precedence": 3, 
+    "rcpts_count": 1, 
+    "senders": {
+        "cnt-pow4_w_duc": "", 
+        "cnt-pow4_w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "domain_keywords": "datingfactory", 
+        "domain_keywords_detail": [
+            {
+                "confidence": 251917902.803793, 
+                "domain": "datingfactory"
+            }
+        ], 
+        "ettf_w_duc": "", 
+        "ettf_w_duc_detail": [], 
+        "idf": "", 
+        "idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "log_cnt-w_duc_detail": [], 
+        "log_cnt_idf": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "log_ecnt_idf": "", 
+        "log_ecnt_idf_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "log_ecnt_log_idf_log_tidf": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "plain_domain": "musexbang", 
+        "plain_domain_detail": [
+            {
+                "confidence": 1, 
+                "domain": "musexbang"
+            }, 
+            {
+                "confidence": 2, 
+                "domain": "sexbang"
+            }
+        ], 
+        "src_revert": "sdas", 
+        "src_revert_detail": [
+            {
+                "confidence": 2, 
+                "domain": "sdas"
+            }
+        ], 
+        "tf_log_idf": "", 
+        "tf_log_idf_detail": [], 
+        "ttf_w_duc": "", 
+        "ttf_w_duc_detail": []
+    }, 
+    "spamscore": 1.1, 
+    "subject": "kanec Vase heslo na SexBang cz", 
+    "unsub_link": "http://sexbang.cz/support/unsubscribe/0046277545002vbi5a3e2801c70195163076a7669c6a8950/1372039824.46277545.26570247.18?linkId=2", 
+    "unsub_link_candidates": [
+        "http://sexbang.cz/support/unsubscribe/0046277545002vbi5a3e2801c70195163076a7669c6a8950/1372039824.46277545.26570247.18?linkId=2"
+    ], 
+    "unsub_link_texts": [
+        "pokud byt si nezalozit tento ucet odhlasit se zde "
+    ], 
+    "word_count": 262
+}

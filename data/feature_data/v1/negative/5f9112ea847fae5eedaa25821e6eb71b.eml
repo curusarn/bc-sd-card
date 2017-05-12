@@ -1,0 +1,175 @@
+{
+    "adscore": 0, 
+    "attachments": [
+        {
+            "cid": "6c58cd5a21a13f4d6116ad25c4c778ba", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "image/png", 
+            "name": "emailheader.png", 
+            "pepca": "p871cda04b6dc9549", 
+            "size": 42090, 
+            "sumphash": "704b6a8fa6a125e493652a56ead494c7"
+        }, 
+        {
+            "cid": "a49f52d30a40853a993c5073ba53405a", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "image/gif", 
+            "name": "help.gif", 
+            "pepca": "pa8b885fa3e26935b", 
+            "size": 7457, 
+            "sumphash": "b11200467dcd51bd542099a2538499b6"
+        }, 
+        {
+            "cid": "f602c81c3246e75220e41a7f1bb9f191", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "image/png", 
+            "name": "emailfooter.png", 
+            "pepca": "p27ac34c631571dc8", 
+            "size": 1046, 
+            "sumphash": "e14b79ee1c6dd49fd132de018b216e7b"
+        }
+    ], 
+    "contains_list_header": true, 
+    "content": "CONTENT_DEFAULT", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/5f9112ea847fae5eedaa25821e6eb71b.eml", 
+    "first10words": " LastPass Bezpecnostni upozorneni LastPass Zmena hesla stranky Ahoj This is an advisory notice letting you", 
+    "header_from": "support@lastpass.com", 
+    "lang": "cs", 
+    "last10words": "a nikomu nesdelujte vase Hlavni heslo ani nam Osoba ktera si vyzadala poslani tohoto emailu mela IP adresu 89 176 0 129 ", 
+    "list_unsubscribe_urls": [
+        "mailto:feedbackloopuser@lastpass.com?subject=listunsubscribe", 
+        "https://lastpass.com/misc_nospamlist.php?data=jpcIjizKVTCE5fJTSRbtNBQ0UAhpFcv45l%2BB%2FZtnS1%2FsGSSLXF9Anj3O%2Fph7qzEspLmrEc4NC39sP4b28Ym1tRVi%2FGFB8syDyipRqtTC2%2B6uRPDwcfsHdzODfnXu78Tf780rNr7xenNnn88jvP1t8Juf8gA%2BTvgrLCKx%2BZujTs9xt5obN6WZhhOFib1yJOoKNoQhfVCIVMr281aaDFoZAo66sMoAGyxiU2y9mgBUBbHjEJZOjRjNhr3bVdEk%2BnbE68ztcK7hHJPHBwtFftjYeT4LZ5Yh3ER%2FhEDPgIk%2BRfopOVI%2B9Oh0dWj9XDmZz%2BZeFCNN1SFJijVsi1fQbPYtuA%3D%3D&auto=1"
+    ], 
+    "notches": [
+        {
+            "module": "ill", 
+            "name": [
+                "date_in_past", 
+                "from_missmatch"
+            ], 
+            "score": 1, 
+            "subscores": [
+                1, 
+                0.0
+            ]
+        }
+    ], 
+    "pepca": "p65dfba9284eb34bd", 
+    "pepca_inline_style": "p28dcca82b30e4439", 
+    "pepca_inline_style_total": 0, 
+    "pepca_style": "", 
+    "pepca_style_total": 0, 
+    "pepcatotal": 0, 
+    "phashes": [
+        {
+            "name": "att-pepca", 
+            "value": "p871cda04b6dc9549"
+        }, 
+        {
+            "name": "att-pepca", 
+            "value": "pa8b885fa3e26935b"
+        }, 
+        {
+            "name": "att-pepca", 
+            "value": "p27ac34c631571dc8"
+        }, 
+        {
+            "name": "pepca", 
+            "value": "p65dfba9284eb34bd"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "p28dcca82b30e4439"
+        }
+    ], 
+    "phish_score": 0, 
+    "phishing": {
+        "camouflage": 0, 
+        "fake_https": 0, 
+        "html_form": 0, 
+        "num_black_sheep_link": -1, 
+        "num_black_sheep_link_global": -1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_dots_urls": 2, 
+        "num_freehost_urls": 0, 
+        "num_html_script_tags": 0, 
+        "num_https_urls": 2, 
+        "num_ip_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "num_param_phish": 0, 
+        "num_path_phish": 0, 
+        "num_phish_keywords": 7, 
+        "num_sender_diff_url": 1, 
+        "num_shortened_urls": 0, 
+        "num_slashes_urls": 1, 
+        "num_subdomain_phish": 0, 
+        "num_text_forms": 9, 
+        "num_tld_in_url_path": 0, 
+        "num_www_in_url_path": 0, 
+        "subject_phish_keywords": 2, 
+        "suspicious_links": [], 
+        "text_and_href": 0, 
+        "text_link_with_path": 0
+    }, 
+    "precedence": 2, 
+    "rcpts_count": 1, 
+    "senders": {
+        "cnt-pow4_w_duc": "", 
+        "cnt-pow4_w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "domain_keywords": "aweber", 
+        "domain_keywords_detail": [
+            {
+                "confidence": 95237010.2572346, 
+                "domain": "aweber"
+            }
+        ], 
+        "ettf_w_duc": "", 
+        "ettf_w_duc_detail": [], 
+        "idf": "", 
+        "idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "log_cnt-w_duc_detail": [], 
+        "log_cnt_idf": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "log_ecnt_idf": "", 
+        "log_ecnt_idf_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "log_ecnt_log_idf_log_tidf": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "plain_domain": "lastpass", 
+        "plain_domain_detail": [
+            {
+                "confidence": 1, 
+                "domain": "lastpass"
+            }, 
+            {
+                "confidence": 1, 
+                "domain": "xmarks"
+            }
+        ], 
+        "src_revert": "", 
+        "src_revert_detail": [], 
+        "tf_log_idf": "", 
+        "tf_log_idf_detail": [], 
+        "ttf_w_duc": "", 
+        "ttf_w_duc_detail": []
+    }, 
+    "spamscore": 1, 
+    "subject": "Bezpecnostni upozorneni LastPass Zmena hesla stranky", 
+    "word_count": 184
+}

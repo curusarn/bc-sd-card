@@ -1,0 +1,165 @@
+{
+    "adscore": 0, 
+    "attachments": [
+        {
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "text/html", 
+            "name": "106556.html", 
+            "pepca": "p4299c12c5653589f", 
+            "size": 7013, 
+            "sumphash": "259a021cb1e0738a591a911c27f9498b"
+        }, 
+        {
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "text/html", 
+            "name": "obchodni-podminky.html", 
+            "pepca": "peb2755c287cabbff", 
+            "size": 36207, 
+            "sumphash": "d416a83538c110805079fb92b9e2b32a"
+        }, 
+        {
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "text/html", 
+            "name": "formular-pro-odstupeni-od-ks.html", 
+            "pepca": "p4e9641a5d548190a", 
+            "size": 392, 
+            "sumphash": "c1fefac8deffe1c82c394548a4c72082"
+        }
+    ], 
+    "content": "CONTENT_DEFAULT", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/trans-8cbb01c42779375bcfdc8fb31c427df0.eml", 
+    "first10words": " Vazeny zakazniku Vase objednavka cislo 106556 byla uspesne prijata nasim automatickym objednavkovym systemem V prilo", 
+    "header_from": "info@softcotton.cz", 
+    "lang": "cs", 
+    "last10words": " SOFT COTTON s r o Tel 420 777 665 111 info softcotton cz www softcotton cz www softcotton eu www softcotton sk www luisamoretti cz ", 
+    "notches": [
+        {
+            "module": "ill", 
+            "name": [
+                "date_in_past", 
+                "from_missmatch", 
+                "foreign_message_id"
+            ], 
+            "score": 1.1, 
+            "subscores": [
+                1, 
+                0.0, 
+                0.1
+            ]
+        }
+    ], 
+    "pepca": "p4294faf898c64b70", 
+    "pepca_inline_style": "", 
+    "pepca_inline_style_total": 0, 
+    "pepca_style": "", 
+    "pepca_style_total": 0, 
+    "pepcatotal": 0, 
+    "phashes": [
+        {
+            "name": "att-pepca", 
+            "value": "p4299c12c5653589f"
+        }, 
+        {
+            "name": "att-pepca", 
+            "value": "peb2755c287cabbff"
+        }, 
+        {
+            "name": "att-pepca", 
+            "value": "p4e9641a5d548190a"
+        }, 
+        {
+            "name": "pepca", 
+            "value": "p4294faf898c64b70"
+        }
+    ], 
+    "phish_score": 0, 
+    "phishing": {
+        "camouflage": 0, 
+        "fake_https": 0, 
+        "html_form": 0, 
+        "num_black_sheep_link": -1, 
+        "num_black_sheep_link_global": -1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_dots_urls": 2, 
+        "num_freehost_urls": 0, 
+        "num_html_script_tags": 0, 
+        "num_https_urls": 0, 
+        "num_ip_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "num_param_phish": 0, 
+        "num_path_phish": 0, 
+        "num_phish_keywords": 1, 
+        "num_sender_diff_url": 1, 
+        "num_shortened_urls": 0, 
+        "num_slashes_urls": 0, 
+        "num_subdomain_phish": 0, 
+        "num_text_forms": 2, 
+        "num_tld_in_url_path": 0, 
+        "num_www_in_url_path": 0, 
+        "subject_phish_keywords": 0, 
+        "suspicious_links": [], 
+        "text_and_href": 0, 
+        "text_link_with_path": 0
+    }, 
+    "precedence": 3, 
+    "rcpts_count": 1, 
+    "senders": {
+        "cnt-pow4_w_duc": "", 
+        "cnt-pow4_w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "domain_keywords": "viwefix", 
+        "domain_keywords_detail": [
+            {
+                "confidence": 5581187.27106, 
+                "domain": "viwefix"
+            }
+        ], 
+        "ettf_w_duc": "", 
+        "ettf_w_duc_detail": [], 
+        "idf": "", 
+        "idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "log_cnt-w_duc_detail": [], 
+        "log_cnt_idf": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "log_ecnt_idf": "", 
+        "log_ecnt_idf_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "log_ecnt_log_idf_log_tidf": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "plain_domain": "softcotton", 
+        "plain_domain_detail": [
+            {
+                "confidence": 3, 
+                "domain": "softcotton"
+            }, 
+            {
+                "confidence": 1, 
+                "domain": "luisamoretti"
+            }
+        ], 
+        "src_revert": "", 
+        "src_revert_detail": [], 
+        "tf_log_idf": "", 
+        "tf_log_idf_detail": [], 
+        "ttf_w_duc": "", 
+        "ttf_w_duc_detail": []
+    }, 
+    "spamscore": 1.1, 
+    "subject": "Objednavka prijata", 
+    "word_count": 38
+}

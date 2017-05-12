@@ -1,0 +1,163 @@
+{
+    "pepcatotal": 0, 
+    "attachments": [
+        {
+            "lang": "cs", 
+            "first10words": "Zasilatelsky prikaz cislo listu Prehled zasilek predavanych Toptransu dne cislo", 
+            "name": "zasilatelsky_prikaz_70240714_720.pdf", 
+            "pepca": "pd54227606ee0bcbe", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "sumphash": "54636d478f61ec0e0576ad06f20fc63c", 
+            "mime_type": "application/pdf", 
+            "size": 46369
+        }, 
+        {
+            "lang": "cs", 
+            "first10words": "SEDLACKOVA ERIKA OPLOT PRESTICE Datum Termin Standard Hmotnost kg Cislo", 
+            "name": "stitky_70240714_720.pdf", 
+            "pepca": "pb7af2a59d14fe082", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "sumphash": "4bbace491e3a37cf68569bd90cf744a0", 
+            "mime_type": "application/pdf", 
+            "size": 24474
+        }, 
+        {
+            "lang": "cs", 
+            "first10words": "Zasilatelsky prikaz SOUPISKA Listu zasilatelskeho prikazu Prehled zasilek predavanych Toptransu", 
+            "name": "soupiska_70240714_720.pdf", 
+            "pepca": "p5c1525fb6beb71f0", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "sumphash": "526cbaa3cc317e0bdff67ceeaab06f38", 
+            "mime_type": "application/pdf", 
+            "size": 7928
+        }
+    ], 
+    "precedence": 3, 
+    "phashes": [
+        {
+            "name": "att-pepca", 
+            "value": "pd54227606ee0bcbe"
+        }, 
+        {
+            "name": "att-pepca", 
+            "value": "pb7af2a59d14fe082"
+        }, 
+        {
+            "name": "att-pepca", 
+            "value": "p5c1525fb6beb71f0"
+        }, 
+        {
+            "name": "pepca", 
+            "value": "pac34d7f0796af079"
+        }
+    ], 
+    "word_count": 105, 
+    "adscore": 0, 
+    "senders": {
+        "idf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "tf_log_idf": "", 
+        "log_ecnt_idf": "", 
+        "ttf_w_duc": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "src_revert_detail": [], 
+        "domain_keywords_detail": [
+            {
+                "confidence": 21973796.716123, 
+                "domain": "toptrans"
+            }
+        ], 
+        "log_ecnt_idf_detail": [], 
+        "plain_domain": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt_idf": "", 
+        "src_revert": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "ettf_w_duc_detail": [], 
+        "cnt-pow4_w_duc_detail": [], 
+        "plain_domain_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "ettf_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "domain_keywords": "toptrans", 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "cnt-pow4_w_duc": "", 
+        "ttf_w_duc_detail": [], 
+        "tf_log_idf_detail": [], 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "idf": "", 
+        "log_ecnt_log_idf_log_tidf": ""
+    }, 
+    "pepca_style": "", 
+    "subject": "Potvrzeni o odeslani objednavek 70240714 720", 
+    "first10words": " Vazeny zakazniku dekujeme Vam za Vas zasilatelsky prikaz v nasem objednavkovem systemu ktery byl prijat ke zpracovani V pr", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/240356.eml", 
+    "pepca_style_total": 0, 
+    "content": "CONTENT_DEFAULT", 
+    "last10words": "em programu Na tento e mail prosim neodpovidejte neni monitorovan je generovan automaticky S pranim prijemneho dne Toptrans EU a s ", 
+    "spamscore": 1.1, 
+    "header_from": "no-reply@toptrans.cz", 
+    "pepca_inline_style_total": 0, 
+    "lang": "cs", 
+    "rcpts_count": 1, 
+    "phishing": {
+        "fake_https": 0, 
+        "num_black_sheep_link_phish": 0, 
+        "num_https_urls": 0, 
+        "text_link_with_path": 1, 
+        "num_dots_urls": 2, 
+        "num_phish_keywords": 1, 
+        "num_param_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_sender_diff_url": 0, 
+        "num_tld_in_url_path": 0, 
+        "num_black_sheep_link": -1, 
+        "text_and_href": 0, 
+        "num_text_forms": 0, 
+        "suspicious_links": [], 
+        "num_ip_urls": 0, 
+        "num_www_in_url_path": 0, 
+        "camouflage": 0, 
+        "num_slashes_urls": 5, 
+        "num_freehost_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "ner_domain_detected": false, 
+        "subject_phish_keywords": 1, 
+        "html_form": 0, 
+        "num_black_sheep_link_global": -1, 
+        "num_html_script_tags": 0, 
+        "num_path_phish": 0, 
+        "num_subdomain_phish": 0, 
+        "num_shortened_urls": 0
+    }, 
+    "notches": [
+        {
+            "subscores": [
+                1, 
+                0.0, 
+                0.1
+            ], 
+            "score": 1.1, 
+            "name": [
+                "date_in_past", 
+                "from_missmatch", 
+                "foreign_message_id"
+            ], 
+            "module": "ill"
+        }
+    ], 
+    "phish_score": 0, 
+    "pepca": "pac34d7f0796af079", 
+    "pepca_inline_style": ""
+}

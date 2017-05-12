@@ -1,0 +1,173 @@
+{
+    "pepcatotal": 5, 
+    "theme": {}, 
+    "attachments": [], 
+    "precedence": 3, 
+    "phashes": [
+        {
+            "name": "pepca", 
+            "value": "p1a6e13867a7ceaf0"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "p1c47df7f958ccdb9"
+        }
+    ], 
+    "word_count": 336, 
+    "unsub_link": {}, 
+    "adscore": 0, 
+    "universalprobes": [
+        {
+            "value": "1", 
+            "key": "ps-from_mismatch"
+        }, 
+        {
+            "value": "['bezpe\\xc4\\x8dnost', 'u\\xc5\\xbeivatel', 'z\\xc3\\xadskat']", 
+            "key": "ps-phish_keyword"
+        }, 
+        {
+            "value": "1", 
+            "key": "ps-many_emails"
+        }, 
+        {
+            "value": "[]", 
+            "key": "ps-most-suspicious-links"
+        }
+    ], 
+    "senders": {
+        "idf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "tf_log_idf": "", 
+        "log_ecnt_idf": "", 
+        "ttf_w_duc": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "src_revert_detail": [], 
+        "domain_keywords_detail": [
+            {
+                "confidence": 100966427.169556, 
+                "domain": "allegro"
+            }
+        ], 
+        "log_ecnt_idf_detail": [], 
+        "plain_domain": "aukro", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt_idf": "", 
+        "src_revert": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "ettf_w_duc_detail": [], 
+        "cnt-pow4_w_duc_detail": [], 
+        "plain_domain_detail": [
+            {
+                "confidence": 2, 
+                "domain": "aukro"
+            }
+        ], 
+        "log_ecnt_idf_log_tidf": "", 
+        "ettf_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "domain_keywords": "allegro", 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "cnt-pow4_w_duc": "", 
+        "ttf_w_duc_detail": [], 
+        "tf_log_idf_detail": [], 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "idf": "", 
+        "log_ecnt_log_idf_log_tidf": ""
+    }, 
+    "pepca_style": "", 
+    "subject": "Prihozeni v aukcni nabidce prekonano 5081142063 Cd G Love Lemonade", 
+    "first10words": " Dobry den U Roy Jaromir Fait Pamatujte prosim ze veskere automaticke e maily tykajici se Vasich transakci na Aukru ci v Au", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/9379110cfda2affeacfcb09761d99b16.eml", 
+    "spfstatus": {}, 
+    "pepca_style_total": 0, 
+    "content": "CONTENT_DEFAULT", 
+    "last10words": " 186 00 Praha 8 IC 24725382 DIC CZ24725382 zapsana v obchodnim rejstriku vedenem Mestskym soudem v Praze v oddile C vlozka 169090 ", 
+    "spamscore": 1.5, 
+    "header_from": "oznameni@aukro.cz", 
+    "extractedEmailsTotalCount": {}, 
+    "pepca_inline_style_total": 9, 
+    "lang": "cs", 
+    "domainstat": {}, 
+    "dmarc_status": {}, 
+    "rcpts_count": 1, 
+    "phishing": {
+        "fake_https": 0, 
+        "num_black_sheep_link_phish": 0, 
+        "num_https_urls": 0, 
+        "text_link_with_path": 1, 
+        "num_dots_urls": 2, 
+        "num_phish_keywords": 3, 
+        "num_param_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_sender_diff_url": 0, 
+        "num_tld_in_url_path": 0, 
+        "num_attachments": 0, 
+        "num_black_sheep_link": -1, 
+        "text_and_href": 1, 
+        "num_text_forms": 3, 
+        "num_subject_phish_keywords": 0, 
+        "suspicious_links": [], 
+        "many_emails": true, 
+        "num_ip_urls": 0, 
+        "num_www_in_url_path": 0, 
+        "camouflage": 0, 
+        "num_slashes_urls": 4, 
+        "num_freehost_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "ner_domain_detected": true, 
+        "subject_phish_keywords": 0, 
+        "html_form": 0, 
+        "num_black_sheep_link_global": -1, 
+        "num_html_script_tags": 0, 
+        "num_path_phish": 0, 
+        "num_subdomain_phish": 0, 
+        "num_shortened_urls": 0
+    }, 
+    "notches": [
+        {
+            "subscores": [
+                1, 
+                0.0, 
+                0.5
+            ], 
+            "score": 1.5, 
+            "name": [
+                "date_in_past", 
+                "from_missmatch", 
+                "long_subject"
+            ], 
+            "module": "ill"
+        }
+    ], 
+    "phish_score": 1, 
+    "dkstatus": {}, 
+    "pepca": "p1a6e13867a7ceaf0", 
+    "phNotches": [
+        {
+            "subscores": [
+                1, 
+                0.5, 
+                0.0, 
+                -2
+            ], 
+            "score": -0.5, 
+            "name": [
+                "from_mismatch", 
+                "phisheable", 
+                "phish_keyword", 
+                "many_emails"
+            ], 
+            "module": "phish-score"
+        }
+    ], 
+    "pepca_inline_style": "p1c47df7f958ccdb9", 
+    "domainstat_themes": {}
+}

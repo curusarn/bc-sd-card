@@ -1,0 +1,177 @@
+{
+    "pepcatotal": 0, 
+    "attachments": [
+        {
+            "name": "spacer.gif", 
+            "cid": "ebbd0cafe0a1436dc9224d2b95b862fc", 
+            "pepca": "pdc9acc191ecbed78", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "sumphash": "75176bab9b36170b40f27be74f1ca0a6", 
+            "mime_type": "image/gif", 
+            "size": 1093
+        }, 
+        {
+            "name": "logo.gif", 
+            "cid": "38bfb11bf48fc2f56d2ca2d796d0b0af", 
+            "pepca": "pc8c01710db845c02", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "sumphash": "a2a18178829df2cc629b326e001cd43e", 
+            "mime_type": "image/gif", 
+            "size": 4154
+        }, 
+        {
+            "name": "help_icon.gif", 
+            "cid": "6a65c49f40bfa6a3a88deef27bf63c43", 
+            "pepca": "p1d69457e3713823f", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "sumphash": "c4f41b9a98126074263e2a364eaeb9e8", 
+            "mime_type": "image/gif", 
+            "size": 1974
+        }, 
+        {
+            "name": "icn_phone.png", 
+            "cid": "188cc4522355bc862c1146e7d26ef597", 
+            "pepca": "p3453005f1e146358", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "sumphash": "fa27d70212dd5d7d8c87b0e9e8ac0e4c", 
+            "mime_type": "image/png", 
+            "size": 2195
+        }
+    ], 
+    "precedence": 2, 
+    "phashes": [
+        {
+            "name": "att-pepca", 
+            "value": "pdc9acc191ecbed78"
+        }, 
+        {
+            "name": "att-pepca", 
+            "value": "pc8c01710db845c02"
+        }, 
+        {
+            "name": "att-pepca", 
+            "value": "p1d69457e3713823f"
+        }, 
+        {
+            "name": "att-pepca", 
+            "value": "p3453005f1e146358"
+        }, 
+        {
+            "name": "pepca", 
+            "value": "p8cf1fce94f6ff16a"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "pf28d0c0cb728fb6a"
+        }
+    ], 
+    "word_count": 185, 
+    "adscore": 0, 
+    "senders": {
+        "idf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "tf_log_idf": "", 
+        "log_ecnt_idf": "", 
+        "ttf_w_duc": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "src_revert_detail": [], 
+        "domain_keywords_detail": [
+            {
+                "confidence": 126680403.0852, 
+                "domain": "mcafee"
+            }
+        ], 
+        "log_ecnt_idf_detail": [], 
+        "plain_domain": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt_idf": "", 
+        "src_revert": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "ettf_w_duc_detail": [], 
+        "cnt-pow4_w_duc_detail": [], 
+        "plain_domain_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "ettf_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "domain_keywords": "mcafee", 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "cnt-pow4_w_duc": "", 
+        "ttf_w_duc_detail": [], 
+        "tf_log_idf_detail": [], 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "idf": "", 
+        "log_ecnt_log_idf_log_tidf": ""
+    }, 
+    "pepca_style": "", 
+    "subject": "Ziskejte pomoc s obnovenim hesla", 
+    "first10words": " McAfee SafeKey Ziskejte pomoc s obnovenim hesla Ahoj Je nam lito ze jste zapomneli heslo do aplikace McAfee Saf", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/06c8ccd583bf224fcfc137bf6a659a55.eml", 
+    "pepca_style_total": 0, 
+    "content": "CONTENT_DEFAULT", 
+    "last10words": "vu neodpovidejte Na teto adrese neprijimame e maily proto nebudeme moci zareagovat Potrebujete pomoc Zavolejte nam ", 
+    "spamscore": 1.1, 
+    "header_from": "donotreply@mcafee.com", 
+    "pepca_inline_style_total": 0, 
+    "lang": "cs", 
+    "rcpts_count": 1, 
+    "phishing": {
+        "fake_https": 0, 
+        "num_black_sheep_link_phish": 0, 
+        "num_https_urls": 1, 
+        "text_link_with_path": 0, 
+        "num_dots_urls": 3, 
+        "num_phish_keywords": 13, 
+        "num_param_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_sender_diff_url": 0, 
+        "num_tld_in_url_path": 0, 
+        "num_black_sheep_link": -1, 
+        "text_and_href": 0, 
+        "num_text_forms": 4, 
+        "suspicious_links": [], 
+        "num_ip_urls": 0, 
+        "num_www_in_url_path": 0, 
+        "camouflage": 0, 
+        "num_slashes_urls": 2, 
+        "num_freehost_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "subject_phish_keywords": 3, 
+        "html_form": 0, 
+        "num_black_sheep_link_global": -1, 
+        "num_html_script_tags": 0, 
+        "num_path_phish": 0, 
+        "num_subdomain_phish": 0, 
+        "num_shortened_urls": 0
+    }, 
+    "notches": [
+        {
+            "subscores": [
+                1, 
+                0.0, 
+                0.1
+            ], 
+            "score": 1.1, 
+            "name": [
+                "date_in_past", 
+                "from_missmatch", 
+                "foreign_message_id"
+            ], 
+            "module": "ill"
+        }
+    ], 
+    "phish_score": 0, 
+    "pepca": "p8cf1fce94f6ff16a", 
+    "pepca_inline_style": "pf28d0c0cb728fb6a"
+}

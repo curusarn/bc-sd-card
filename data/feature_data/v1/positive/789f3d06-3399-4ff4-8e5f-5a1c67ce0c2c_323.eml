@@ -1,0 +1,140 @@
+{
+    "adscore": 0, 
+    "attachments": [
+        {
+            "cid": "cc28499b8441$c4ec24f2$1bbf92e6@postbank.de", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "image/gif", 
+            "name": "lfcavro.gif", 
+            "pepca": "p8987cbd0d5054834", 
+            "size": 894, 
+            "sumphash": "42f6279cd11ba0ccbe1f407ddae92b6c"
+        }
+    ], 
+    "content": "CONTENT_DEFAULT", 
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/20051114/323.eml", 
+    "first10words": " Postbank Online Banking Sehr geehrter Kunde Unser neues Schutzystem kann Ihnen helfen A ftere betrA gerischen Transaktionen", 
+    "header_from": "Techunterstutzung-01@postbank.de", 
+    "lang": "de", 
+    "last10words": "sg id 9424887 Wed 12 Oct 200520 33 00epochal Copyright A 2005A A Deutsche Postbank AG A A Alle Rechte sind vorbehalten ", 
+    "notches": [
+        {
+            "module": "ill", 
+            "name": [
+                "date_in_past", 
+                "from_missmatch", 
+                "foreign_message_id"
+            ], 
+            "score": 1.1, 
+            "subscores": [
+                1, 
+                0.0, 
+                0.1
+            ]
+        }
+    ], 
+    "pepca": "pc37a17600c6f47dd", 
+    "pepca_inline_style": "p446bfc7d74596148", 
+    "pepca_inline_style_total": 0, 
+    "pepca_style": "", 
+    "pepca_style_total": 0, 
+    "pepcatotal": 0, 
+    "phashes": [
+        {
+            "name": "att-pepca", 
+            "value": "p8987cbd0d5054834"
+        }, 
+        {
+            "name": "pepca", 
+            "value": "pc37a17600c6f47dd"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "p446bfc7d74596148"
+        }
+    ], 
+    "phish_score": 0, 
+    "phishing": {
+        "camouflage": 0, 
+        "fake_https": 0, 
+        "html_form": 0, 
+        "num_black_sheep_link": -1, 
+        "num_black_sheep_link_global": -1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_dots_urls": 4, 
+        "num_freehost_urls": 0, 
+        "num_html_script_tags": 0, 
+        "num_https_urls": 0, 
+        "num_ip_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "num_param_phish": 0, 
+        "num_path_phish": 0, 
+        "num_phish_keywords": 2, 
+        "num_sender_diff_url": 1, 
+        "num_shortened_urls": 0, 
+        "num_slashes_urls": 4, 
+        "num_subdomain_phish": 0, 
+        "num_text_forms": 1, 
+        "num_tld_in_url_path": 0, 
+        "num_www_in_url_path": 0, 
+        "subject_phish_keywords": 0, 
+        "suspicious_links": [], 
+        "text_and_href": 0, 
+        "text_link_with_path": 0
+    }, 
+    "precedence": 3, 
+    "rcpts_count": 1, 
+    "senders": {
+        "cnt-pow4_w_duc": "", 
+        "cnt-pow4_w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "domain_keywords": "ebay", 
+        "domain_keywords_detail": [
+            {
+                "confidence": 219998147.10672, 
+                "domain": "ebay"
+            }
+        ], 
+        "ettf_w_duc": "", 
+        "ettf_w_duc_detail": [], 
+        "idf": "", 
+        "idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "log_cnt-w_duc_detail": [], 
+        "log_cnt_idf": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "log_ecnt_idf": "", 
+        "log_ecnt_idf_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "log_ecnt_log_idf_log_tidf": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "plain_domain": "postbank", 
+        "plain_domain_detail": [
+            {
+                "confidence": 1, 
+                "domain": "postbank"
+            }
+        ], 
+        "src_revert": "", 
+        "src_revert_detail": [], 
+        "tf_log_idf": "", 
+        "tf_log_idf_detail": [], 
+        "ttf_w_duc": "", 
+        "ttf_w_duc_detail": []
+    }, 
+    "spamscore": 1.1, 
+    "subject": "Mitteilung von dem Postbank Sicherheitsdienst Ref 451 ", 
+    "word_count": 129
+}
