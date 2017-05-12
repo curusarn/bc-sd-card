@@ -1,42 +1,80 @@
 {
-    "spf_dom_policy_registry": "Policy not found",
-    "precedence": 2,
-    "contains_list_header": true,
-    "extractedSrcUrlsDomainCount": 2,
-    "extractedTxtUrlsDomainCount": 1,
-    "html_tr_tag_count": 16,
-    "extractedEmailsCardinality": 1,
-    "spfstatus_hfrom": "SPF_FAIL",
-    "rcpts_count": 1,
+    "dkim_hfrom_match": 0,
+    "mime_root_type": "multipart/alternative",
+    "list_unsubscribe_urls": [
+        "mailto:CECCQCCQVCQUQQQUVCPMMWEIPVCAADBW.owner@unsub.mailkit.eu",
+        "http://user.mailkit.eu/mc/CECCQCCQVCQUQQQUVCPMMWEIPVCAADBW"
+    ],
+    "dkselector": "mail",
     "header_total_count": 25,
+    "dk_statuses": [
+        {
+            "domain": "mailkit.eu",
+            "status": "PASS",
+            "selector": "mail"
+        }
+    ],
+    "extractedEmails": [
+        "info@chance.cz"
+    ],
+    "precedence": 2,
+    "self_send": 0,
     "dkstatus": "PASS",
-    "extractedSrcUrlsTotalCount": 3,
-    "html_tag_total_count": 93,
+    "lang": "cs",
+    "extractedHrefUrls": [
+        "http://user.mailkit.eu/mc/CECCQCCQVCQUQQQUVCPMMWEIHFHVYAYM",
+        "http://user.mailkit.eu/mc/CECCQCCQVCQUQQQUVCPMMWEIBOVLMTKJ",
+        "http://track.mailkit.eu/mc/CECCQCCQVCQUQQQUVCPMMWEIVPJXSSQB",
+        "https://www.chance.cz/ConfirmFirstLoginAction.do?id=11244149&code=OKUavuLkUE0xPtaqe0hG0MHMk ",
+        "http://user.mailkit.eu/mc/CECCQCCQVCQUQQQUVCPMMWEIPVCAADBW"
+    ],
+    "word_count": 123,
+    "pepca": "p0ca99c2cf6f74bf8",
+    "list_unsubscribe_total_count": 2,
     "header_reply_to_count": 0,
-    "pepca_style": "",
-    "ahref_camouflage_count": 1,
-    "extractedTxtUrlsCardinality": 2,
-    "content": "CONTENT_DEFAULT",
-    "html_td_tag_count": 18,
-    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/6da066a00618e23d07b53fd1eecf53d0.eml",
-    "spamscore": 1.1,
+    "html_tag_total_count": 93,
+    "subject": "Potvrd registraci a hraj ",
+    "extractedTxtUrls": [
+        "https://www.chance.cz/ConfirmFirstLoginAction.do?id=11244149&code=OKUavuLkUE0xPtaqe0hG0MHMk",
+        "http://www.chance.cz"
+    ],
+    "rfcid_length": 38,
+    "last10words": "folinka 233 090 831 Tento email ma charakter obchodniho sdeleni Copyright 2014 CHANCE a s Vsechna prava vyhrazena ",
+    "mime_children_types": [
+        "text/plain",
+        "text/html"
+    ],
+    "spfstatus": "NONE",
+    "dkim_efrom_match": 0,
     "extractedSrcUrlsCardinality": 3,
+    "extractedTxtUrlsDomainCount": 1,
+    "header_from_count": 1,
+    "extractedSrcUrlsDomainCount": 2,
+    "pepca_inline_style_total": 0,
+    "extractedHrefUrlsDomainCount": 2,
+    "rfcid_is_invalid": false,
+    "dkdomain": "mailkit.eu",
+    "dkim_count": 1,
+    "first10words": " Potvrd registraci a hraj Nezobrazuje se Vam logo a obrazky Tisk Vitame Te u CHANC",
+    "now": 1494598309,
     "notches": [
         {
-            "subscores": [
-                1,
-                0.0,
-                0.1
-            ],
+            "module": "ill",
             "name": [
                 "date_in_past",
                 "from_missmatch",
                 "html_a_href_camouflaging"
             ],
-            "score": 1.1,
-            "module": "ill"
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
         }
     ],
+    "extractedEmailsTotalCount": 1,
+    "spfstatus_hfrom": "SPF_FAIL",
     "phashes": [
         {
             "name": "pepca",
@@ -47,184 +85,146 @@
             "value": "p47fd30ff7cb77da2"
         }
     ],
-    "list_unsubscribe_urls": [
-        "mailto:CECCQCCQVCQUQQQUVCPMMWEIPVCAADBW.owner@unsub.mailkit.eu",
-        "http://user.mailkit.eu/mc/CECCQCCQVCQUQQQUVCPMMWEIPVCAADBW"
-    ],
-    "now": 1494598309,
-    "html_in_text_plain_count": 0,
-    "last10words": "folinka 233 090 831 Tento email ma charakter obchodniho sdeleni Copyright 2014 CHANCE a s Vsechna prava vyhrazena ",
-    "spf_domain_policy": "UNKNOWN",
-    "dkim_count": 1,
-    "unsub_link_texts": [
-        " odhlasit odber novinka a tip infolinka"
-    ],
-    "rfcid_is_invalid": false,
-    "list_unsubscribe_mailto_count": 1,
-    "pepcatotal": 0,
-    "word_count": 123,
-    "html_script_tag_count": 0,
-    "dkim_efrom_match": 0,
-    "unsub_link_candidates": [
-        "http://user.mailkit.eu/mc/CECCQCCQVCQUQQQUVCPMMWEIPVCAADBW"
-    ],
-    "extractedEmails": [
-        "info@chance.cz"
-    ],
-    "spfstatus": "NONE",
-    "phish_score": 0,
-    "date_difference": -79764646,
-    "extractedTxtUrls": [
-        "https://www.chance.cz/ConfirmFirstLoginAction.do?id=11244149&code=OKUavuLkUE0xPtaqe0hG0MHMk",
-        "http://www.chance.cz"
-    ],
-    "list_unsubscribe_total_count": 2,
-    "dkim_passed_count": 1,
-    "extractedHrefUrlsDomainCount": 2,
-    "first10words": " Potvrd registraci a hraj Nezobrazuje se Vam logo a obrazky Tisk Vitame Te u CHANC",
-    "pepca": "p0ca99c2cf6f74bf8",
-    "pepca_style_total": 0,
-    "unsub_link": "http://user.mailkit.eu/mc/CECCQCCQVCQUQQQUVCPMMWEIPVCAADBW",
-    "extractedEmailsTotalCount": 1,
-    "rfcid_is_foreign": 0,
-    "attachments": [],
-    "pepca_inline_style_total": 0,
-    "header_from_count": 1,
-    "mime_children_types": [
-        "text/plain",
-        "text/html"
-    ],
-    "subject": "Potvrd registraci a hraj ",
-    "dkdomain": "mailkit.eu",
-    "senders": {
-        "domain_keywords": "mcsv",
-        "log_ecnt_idf": "",
-        "log_cnt-w_duc_detail": [],
-        "log_cnt_idf_log_tidf_detail": [],
-        "log_ecnt-w_duc": "",
-        "idf_detail": [],
-        "log_cnt_idf_log_tidf": "",
-        "log_cnt-pow4_w_duc": "",
-        "plain_domain_detail": [
-            {
-                "domain": "chance",
-                "confidence": 1
-            }
-        ],
-        "log_cnt-pow_w_duc": "",
-        "log_cnt_idf_detail": [],
-        "log_ecnt_log_idf_log_tidf_detail": [],
-        "tf_log_idf_detail": [],
-        "ttf_w_duc_detail": [],
-        "cnt-pow_w_duc_detail": [],
-        "log_cnt-pow4_w_duc_detail": [],
-        "ettf_w_duc": "",
-        "log_ecnt_idf_detail": [],
-        "ttf_w_duc": "",
-        "plain_domain": "chance",
-        "domain_keywords_detail": [
-            {
-                "domain": "mcsv",
-                "confidence": 10256637.2474413
-            }
-        ],
-        "cnt-pow_w_duc": "",
-        "cnt-pow4_w_duc": "",
-        "log_cnt-pow_w_duc_detail": [],
-        "ettf_w_duc_detail": [],
-        "log_ecnt-w_duc_detail": [],
-        "log_cnt_idf": "",
-        "tf_log_idf": "",
-        "src_revert_detail": [
-            {
-                "domain": "tipsport",
-                "confidence": 2
-            }
-        ],
-        "log_ecnt_log_idf_log_tidf": "",
-        "log_cnt-w_duc": "",
-        "cnt-pow4_w_duc_detail": [],
-        "idf": "",
-        "log_ecnt_idf_log_tidf": "",
-        "log_ecnt_idf_log_tidf_detail": [],
-        "src_revert": "tipsport"
-    },
-    "dkim_hfrom_match": 0,
-    "ahref_total_count": 7,
-    "list_unsubscribe_http_count": 1,
+    "list_unsubscribe_invalid_count": 0,
     "extractedSrcUrls": [
         "http://home.tipsport.cz/mailing/chance/mailing/service2014/servisni.CH-2014_logo.png",
         "http://home.tipsport.cz/mailing/chance/mailing/service2014/servisni.CH-2014_header.vitej.png",
         "http://track.mailkit.eu/mc/CECCQCCQVCQUQQQUVCPMMWEIVUIJEPRX"
     ],
+    "ahref_verbal_count": 4,
+    "contains_list_header": true,
+    "phish_score": 0,
+    "date_difference": -79764646,
+    "list_unsubscribe_http_count": 1,
+    "spamtrap_hit": false,
+    "pepca_style": "",
+    "header_from": "info@chance.cz",
+    "spamscore": 1.1,
     "subject_image_count": 0,
-    "extractedHrefUrlsTotalCount": 5,
-    "dk_statuses": [
-        {
-            "status": "PASS",
-            "selector": "mail",
-            "domain": "mailkit.eu"
-        }
-    ],
+    "html_td_tag_count": 18,
+    "pepca_style_total": 0,
     "from_match": 0,
-    "lang": "cs",
-    "extractedHrefUrls": [
-        "http://user.mailkit.eu/mc/CECCQCCQVCQUQQQUVCPMMWEIHFHVYAYM",
-        "http://user.mailkit.eu/mc/CECCQCCQVCQUQQQUVCPMMWEIBOVLMTKJ",
-        "http://track.mailkit.eu/mc/CECCQCCQVCQUQQQUVCPMMWEIVPJXSSQB",
-        "https://www.chance.cz/ConfirmFirstLoginAction.do?id=11244149&code=OKUavuLkUE0xPtaqe0hG0MHMk ",
+    "rfcid_is_foreign": 0,
+    "spf_dom_policy_registry": "Policy not found",
+    "unsub_link_texts": [
+        " odhlasit odber novinka a tip infolinka"
+    ],
+    "attachments": [],
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/6da066a00618e23d07b53fd1eecf53d0.eml",
+    "ahref_camouflage_count": 1,
+    "unsub_link_candidates": [
         "http://user.mailkit.eu/mc/CECCQCCQVCQUQQQUVCPMMWEIPVCAADBW"
     ],
+    "list_unsubscribe_mailto_count": 1,
+    "html_tr_tag_count": 16,
+    "pepcatotal": 0,
+    "html_script_tag_count": 0,
+    "dkim_passed_count": 1,
+    "extractedHrefUrlsTotalCount": 5,
+    "ahref_total_count": 7,
     "pepca_inline_style": "p47fd30ff7cb77da2",
-    "self_send": 0,
-    "ahref_verbal_count": 4,
-    "extractedTxtUrlsTotalCount": 2,
-    "subject_word_count": 4,
+    "rcpts_count": 1,
     "extractedEmailsDomainCount": 1,
-    "header_from": "info@chance.cz",
-    "mime_root_type": "multipart/alternative",
-    "rfcid_length": 38,
-    "mime_children_count": 2,
-    "extractedHrefUrlsCardinality": 5,
-    "adscore": 0,
+    "unsub_link": "http://user.mailkit.eu/mc/CECCQCCQVCQUQQQUVCPMMWEIPVCAADBW",
+    "spf_domain_policy": "UNKNOWN",
+    "extractedTxtUrlsTotalCount": 2,
     "dkim_signs_cnt": 1,
-    "spamtrap_hit": false,
+    "adscore": 0,
     "spf_status_registry": "Status not found",
-    "dkselector": "mail",
+    "extractedEmailsCardinality": 1,
+    "content": "CONTENT_DEFAULT",
+    "extractedTxtUrlsCardinality": 2,
     "phishing": {
-        "body_richness": 0.1968,
-        "num_black_sheep_link": -1,
-        "subject_richness": 0.148148148148148,
-        "max_num_slashes_urls": 2,
-        "num_https_urls": 2,
-        "camouflage": 1,
-        "ner_domain_detected": false,
-        "html_form": 0,
-        "num_subdomain_phish": 0,
-        "num_external_links": 8,
-        "fake_https": 0,
-        "num_html_script_tags": 0,
-        "num_freehost_urls": 0,
-        "num_phish_keywords": 3,
-        "suspicious_links": [],
-        "num_sender_diff_url": 1,
-        "text_and_href": 0,
         "subject_phish_keywords": 1,
-        "num_www_in_url_path": 0,
+        "html_form": 0,
+        "num_black_sheep_link": -1,
         "num_domain_phish": 0,
-        "num_of_chars": 624,
-        "num_ip_urls": 0,
-        "num_path_phish": 0,
-        "num_param_phish": 0,
-        "max_num_dots_urls": 3,
-        "num_tld_in_url_path": 0,
-        "is_html": true,
-        "num_black_sheep_link_phish": 0,
-        "num_non_80_port_urls": 0,
-        "num_text_forms": 25,
+        "num_shortened_urls": 0,
+        "num_phish_keywords": 3,
+        "num_www_in_url_path": 0,
+        "num_external_links": 8,
         "num_black_sheep_link_global": -1,
+        "num_black_sheep_link_phish": 0,
+        "is_html": true,
+        "num_sender_diff_url": 1,
+        "num_tld_in_url_path": 0,
+        "text_and_href": 0,
+        "ner_domain_detected": false,
+        "max_num_dots_urls": 3,
+        "camouflage": 1,
+        "num_text_forms": 25,
+        "num_https_urls": 2,
+        "body_richness": 0.1968,
+        "num_ip_urls": 0,
+        "num_html_script_tags": 0,
+        "subject_richness": 0.148148148148148,
+        "fake_https": 0,
+        "suspicious_links": [],
+        "num_of_chars": 624,
         "text_link_with_path": 1,
-        "num_shortened_urls": 0
+        "num_path_phish": 0,
+        "num_subdomain_phish": 0,
+        "max_num_slashes_urls": 2,
+        "num_param_phish": 0,
+        "num_non_80_port_urls": 0,
+        "num_freehost_urls": 0
     },
-    "list_unsubscribe_invalid_count": 0
+    "subject_word_count": 4,
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf": "",
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "idf": "",
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "src_revert_detail": [
+            {
+                "confidence": 2,
+                "domain": "tipsport"
+            }
+        ],
+        "log_cnt-w_duc": "",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "chance"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "cnt-pow_w_duc": "",
+        "src_revert": "tipsport",
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "chance",
+        "domain_keywords_detail": [
+            {
+                "confidence": 10256637.2474413,
+                "domain": "mcsv"
+            }
+        ],
+        "log_cnt-pow_w_duc_detail": [],
+        "domain_keywords": "mcsv",
+        "log_cnt_idf": "",
+        "log_ecnt_idf_log_tidf_detail": []
+    },
+    "html_in_text_plain_count": 0,
+    "extractedHrefUrlsCardinality": 5,
+    "extractedSrcUrlsTotalCount": 3,
+    "mime_children_count": 2
 }

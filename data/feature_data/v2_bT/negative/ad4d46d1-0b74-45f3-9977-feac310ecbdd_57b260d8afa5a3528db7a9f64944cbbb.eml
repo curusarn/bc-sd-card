@@ -1,42 +1,78 @@
 {
-    "spf_dom_policy_registry": "Policy not found",
-    "precedence": 3,
-    "contains_list_header": true,
-    "extractedSrcUrlsDomainCount": 1,
-    "extractedTxtUrlsDomainCount": 1,
-    "html_tr_tag_count": 82,
-    "extractedEmailsCardinality": 1,
-    "spfstatus_hfrom": "SPF_FAIL",
-    "rcpts_count": 1,
+    "dkim_hfrom_match": 1,
+    "mime_root_type": "multipart/alternative",
+    "list_unsubscribe_urls": [
+        "mailto:lu-ph@to.ropot.net?subject=31350c3a374711e49ef5441ea14ed80c&body=08220ce234861f5ba838922c1ccae39bU29ueWpha0BzZXpuYW0uY3osNmZhYzEzY2E5YWY3NGIzMTg4OWY1MDU0YmE5OWNiMjk="
+    ],
+    "dkselector": "to",
     "header_total_count": 20,
+    "dk_statuses": [
+        {
+            "domain": "flirt.com",
+            "status": "PASS",
+            "selector": "to"
+        }
+    ],
+    "extractedEmails": [
+        "Sonyjak@seznam.cz"
+    ],
+    "precedence": 3,
+    "self_send": 0,
     "dkstatus": "PASS",
-    "extractedSrcUrlsTotalCount": 5,
-    "html_tag_total_count": 306,
+    "lang": "cs",
+    "extractedHrefUrls": [
+        "http://www.flirt.com/staticPage/privacypolicy",
+        "http://www.flirt.com/staticPage/terms",
+        "http://www.flirt.com/amarket.php?dynamic_page=android_page&id=com.flirt&referrer=utm_source%3Dcrm%26ukey%3Dd7822852febb6c7690594",
+        "http://apps.facebook.com/flirt-com/?utm_source=crm&utm_campaign=generalcrm",
+        "825417989"
+    ],
+    "word_count": 388,
+    "pepca": "p1a67aa36fbcea72b",
+    "list_unsubscribe_total_count": 1,
     "header_reply_to_count": 1,
-    "pepca_style": "",
-    "ahref_camouflage_count": 0,
-    "extractedTxtUrlsCardinality": 1,
-    "content": "CONTENT_DEFAULT",
-    "html_td_tag_count": 106,
-    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/57b260d8afa5a3528db7a9f64944cbbb.eml",
-    "spamscore": 1.1,
+    "html_tag_total_count": 306,
+    "subject": "Otevrete pripomenuti hesla",
+    "extractedTxtUrls": [
+        "https://www.flirt.com/site/autologin?emlTrack=1414507471-591b18f9bef511e38e3e68b599be7074-UGFzc3dvcmRSZW1pbmRlclRndGg%3D-ZUVtYWl"
+    ],
+    "rfcid_length": 56,
+    "last10words": "4 Vincenti Buildings 28 19 Strait Street Valletta VLT 1432 Malta Tel 44 3444824945 vase uzivatelske id 825417989 ",
+    "mime_children_types": [
+        "text/plain",
+        "text/html"
+    ],
+    "spfstatus": "NONE",
+    "dkim_efrom_match": 0,
     "extractedSrcUrlsCardinality": 5,
+    "extractedTxtUrlsDomainCount": 1,
+    "header_from_count": 1,
+    "extractedSrcUrlsDomainCount": 1,
+    "pepca_inline_style_total": 2,
+    "extractedHrefUrlsDomainCount": 2,
+    "rfcid_is_invalid": false,
+    "dkdomain": "flirt.com",
+    "dkim_count": 1,
+    "first10words": " Flirt Prihlaste se temito udaji na svuj ucet a nadale se seznamujte s lidmi z vaseho okoli Upgrade svuj ucet a",
+    "now": 1494598273,
     "notches": [
         {
-            "subscores": [
-                1,
-                0.0,
-                0.1
-            ],
+            "module": "ill",
             "name": [
                 "date_in_past",
                 "from_missmatch",
                 "foreign_message_id"
             ],
-            "score": 1.1,
-            "module": "ill"
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
         }
     ],
+    "extractedEmailsTotalCount": 1,
+    "spfstatus_hfrom": "SPF_FAIL",
     "phashes": [
         {
             "name": "pepca",
@@ -47,108 +83,7 @@
             "value": "p81273a46f4360152"
         }
     ],
-    "list_unsubscribe_urls": [
-        "mailto:lu-ph@to.ropot.net?subject=31350c3a374711e49ef5441ea14ed80c&body=08220ce234861f5ba838922c1ccae39bU29ueWpha0BzZXpuYW0uY3osNmZhYzEzY2E5YWY3NGIzMTg4OWY1MDU0YmE5OWNiMjk="
-    ],
-    "now": 1494598273,
-    "html_in_text_plain_count": 3,
-    "last10words": "4 Vincenti Buildings 28 19 Strait Street Valletta VLT 1432 Malta Tel 44 3444824945 vase uzivatelske id 825417989 ",
-    "spf_domain_policy": "UNKNOWN",
-    "dkim_count": 1,
-    "unsub_link_texts": [
-        "svuj ucet a kontaktovat vsechen uzivatel odhlasit zmena nastaveni mail",
-        " odhlasit se zmena vas emailovy predplatne",
-        "zmena vas emailovy predplatne ochrana soukromy "
-    ],
-    "rfcid_is_invalid": false,
-    "list_unsubscribe_mailto_count": 1,
-    "pepcatotal": 0,
-    "word_count": 388,
-    "html_script_tag_count": 0,
-    "dkim_efrom_match": 0,
-    "unsub_link_candidates": [
-        "https://www.flirt.com/site/autologin?emlTrack=1414507471-591b18f9bef511e38e3e68b599be7074-UGFzc3dvcmRSZW1pbmRlclRndGg%3D-ZUVtYWls-UGFzc3dvcmQgUmVtaW5kZXI%3D&key=2a37114755a2493e6b1c4bbdfedf48df&uniqmessageId=6fac13ca9af74b31889f5054ba99cb29&open=unsubscribe",
-        "https://www.flirt.com/site/autologin?emlTrack=1414507471-591b18f9bef511e38e3e68b599be7074-UGFzc3dvcmRSZW1pbmRlclRndGg%3D-ZUVtYWls-UGFzc3dvcmQgUmVtaW5kZXI%3D&key=2a37114755a2493e6b1c4bbdfedf48df&uniqmessageId=6fac13ca9af74b31889f5054ba99cb29&open=unsubscribe",
-        "http://www.flirt.com/staticPage/privacypolicy"
-    ],
-    "extractedEmails": [
-        "Sonyjak@seznam.cz"
-    ],
-    "spfstatus": "NONE",
-    "phish_score": 0,
-    "date_difference": -80090800,
-    "extractedTxtUrls": [
-        "https://www.flirt.com/site/autologin?emlTrack=1414507471-591b18f9bef511e38e3e68b599be7074-UGFzc3dvcmRSZW1pbmRlclRndGg%3D-ZUVtYWl"
-    ],
-    "list_unsubscribe_total_count": 1,
-    "dkim_passed_count": 1,
-    "extractedHrefUrlsDomainCount": 2,
-    "first10words": " Flirt Prihlaste se temito udaji na svuj ucet a nadale se seznamujte s lidmi z vaseho okoli Upgrade svuj ucet a",
-    "pepca": "p1a67aa36fbcea72b",
-    "pepca_style_total": 0,
-    "unsub_link": "http://www.flirt.com/staticPage/privacypolicy",
-    "extractedEmailsTotalCount": 1,
-    "rfcid_is_foreign": 1,
-    "attachments": [],
-    "pepca_inline_style_total": 2,
-    "header_from_count": 1,
-    "mime_children_types": [
-        "text/plain",
-        "text/html"
-    ],
-    "subject": "Otevrete pripomenuti hesla",
-    "dkdomain": "flirt.com",
-    "senders": {
-        "domain_keywords": "benaughty",
-        "log_ecnt_idf": "",
-        "log_cnt-w_duc_detail": [],
-        "log_cnt_idf_log_tidf_detail": [],
-        "log_ecnt-w_duc": "",
-        "idf_detail": [],
-        "log_cnt_idf_log_tidf": "",
-        "log_cnt-pow4_w_duc": "",
-        "plain_domain_detail": [],
-        "log_cnt-pow_w_duc": "",
-        "log_cnt_idf_detail": [],
-        "log_ecnt_log_idf_log_tidf_detail": [],
-        "tf_log_idf_detail": [],
-        "ttf_w_duc_detail": [],
-        "cnt-pow_w_duc_detail": [],
-        "log_cnt-pow4_w_duc_detail": [],
-        "ettf_w_duc": "",
-        "log_ecnt_idf_detail": [],
-        "ttf_w_duc": "",
-        "plain_domain": "",
-        "domain_keywords_detail": [
-            {
-                "domain": "benaughty",
-                "confidence": 166603181.128602
-            }
-        ],
-        "cnt-pow_w_duc": "",
-        "cnt-pow4_w_duc": "",
-        "log_cnt-pow_w_duc_detail": [],
-        "ettf_w_duc_detail": [],
-        "log_ecnt-w_duc_detail": [],
-        "log_cnt_idf": "",
-        "tf_log_idf": "",
-        "src_revert_detail": [
-            {
-                "domain": "flirt",
-                "confidence": 5
-            }
-        ],
-        "log_ecnt_log_idf_log_tidf": "",
-        "log_cnt-w_duc": "",
-        "cnt-pow4_w_duc_detail": [],
-        "idf": "",
-        "log_ecnt_idf_log_tidf": "",
-        "log_ecnt_idf_log_tidf_detail": [],
-        "src_revert": "flirt"
-    },
-    "dkim_hfrom_match": 1,
-    "ahref_total_count": 13,
-    "list_unsubscribe_http_count": 0,
+    "list_unsubscribe_invalid_count": 0,
     "extractedSrcUrls": [
         "http://www.flirt.com/assets/static/e10495b3/logoFlirt.png",
         "http://www.flirt.com/crm/resource/index/id/b68b1d68182a958a8c326e657f8356b6.jpg",
@@ -156,74 +91,139 @@
         "http://www.flirt.com/crm/resource/index/id/7ffc62bd76a1f0b33000e5a6a86b5306.jpg",
         "http://www.flirt.com/site/emailOpen?uniqmessageId=6fac13ca9af74b31889f5054ba99cb29&uid=3132e105374711e49ef5441ea14ed80c&emlTrack"
     ],
-    "subject_image_count": 0,
-    "extractedHrefUrlsTotalCount": 9,
-    "dk_statuses": [
-        {
-            "status": "PASS",
-            "selector": "to",
-            "domain": "flirt.com"
-        }
-    ],
-    "from_match": 0,
-    "lang": "cs",
-    "extractedHrefUrls": [
-        "http://www.flirt.com/staticPage/privacypolicy",
-        "http://www.flirt.com/staticPage/terms",
-        "http://www.flirt.com/amarket.php?dynamic_page=android_page&id=com.flirt&referrer=utm_source%3Dcrm%26ukey%3Dd7822852febb6c7690594",
-        "http://apps.facebook.com/flirt-com/?utm_source=crm&utm_campaign=generalcrm",
-        "825417989"
-    ],
-    "pepca_inline_style": "p81273a46f4360152",
-    "self_send": 0,
     "ahref_verbal_count": 9,
-    "extractedTxtUrlsTotalCount": 1,
-    "subject_word_count": 3,
-    "extractedEmailsDomainCount": 1,
-    "header_from": "admin@flirt.com",
-    "mime_root_type": "multipart/alternative",
-    "rfcid_length": 56,
-    "mime_children_count": 2,
-    "extractedHrefUrlsCardinality": 9,
-    "adscore": 0,
-    "dkim_signs_cnt": 1,
+    "contains_list_header": true,
+    "phish_score": 0,
+    "date_difference": -80090800,
+    "list_unsubscribe_http_count": 0,
     "spamtrap_hit": false,
+    "pepca_style": "",
+    "header_from": "admin@flirt.com",
+    "spamscore": 1.1,
+    "subject_image_count": 0,
+    "html_td_tag_count": 106,
+    "pepca_style_total": 0,
+    "from_match": 0,
+    "rfcid_is_foreign": 1,
+    "spf_dom_policy_registry": "Policy not found",
+    "unsub_link_texts": [
+        "svuj ucet a kontaktovat vsechen uzivatel odhlasit zmena nastaveni mail",
+        " odhlasit se zmena vas emailovy predplatne",
+        "zmena vas emailovy predplatne ochrana soukromy "
+    ],
+    "attachments": [],
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/57b260d8afa5a3528db7a9f64944cbbb.eml",
+    "ahref_camouflage_count": 0,
+    "unsub_link_candidates": [
+        "https://www.flirt.com/site/autologin?emlTrack=1414507471-591b18f9bef511e38e3e68b599be7074-UGFzc3dvcmRSZW1pbmRlclRndGg%3D-ZUVtYWls-UGFzc3dvcmQgUmVtaW5kZXI%3D&key=2a37114755a2493e6b1c4bbdfedf48df&uniqmessageId=6fac13ca9af74b31889f5054ba99cb29&open=unsubscribe",
+        "https://www.flirt.com/site/autologin?emlTrack=1414507471-591b18f9bef511e38e3e68b599be7074-UGFzc3dvcmRSZW1pbmRlclRndGg%3D-ZUVtYWls-UGFzc3dvcmQgUmVtaW5kZXI%3D&key=2a37114755a2493e6b1c4bbdfedf48df&uniqmessageId=6fac13ca9af74b31889f5054ba99cb29&open=unsubscribe",
+        "http://www.flirt.com/staticPage/privacypolicy"
+    ],
+    "list_unsubscribe_mailto_count": 1,
+    "html_tr_tag_count": 82,
+    "pepcatotal": 0,
+    "html_script_tag_count": 0,
+    "dkim_passed_count": 1,
+    "extractedHrefUrlsTotalCount": 9,
+    "ahref_total_count": 13,
+    "pepca_inline_style": "p81273a46f4360152",
+    "rcpts_count": 1,
+    "extractedEmailsDomainCount": 1,
+    "unsub_link": "http://www.flirt.com/staticPage/privacypolicy",
+    "spf_domain_policy": "UNKNOWN",
+    "extractedTxtUrlsTotalCount": 1,
+    "dkim_signs_cnt": 1,
+    "adscore": 0,
     "spf_status_registry": "Status not found",
-    "dkselector": "to",
+    "extractedEmailsCardinality": 1,
+    "content": "CONTENT_DEFAULT",
+    "extractedTxtUrlsCardinality": 1,
     "phishing": {
-        "body_richness": 0.288261515601783,
-        "num_black_sheep_link": -1,
-        "subject_richness": 0.1,
-        "max_num_slashes_urls": 2,
-        "num_https_urls": 3,
-        "camouflage": 0,
-        "ner_domain_detected": false,
-        "html_form": 0,
-        "num_subdomain_phish": 0,
-        "num_external_links": 10,
-        "fake_https": 0,
-        "num_html_script_tags": 0,
-        "num_freehost_urls": 0,
-        "num_phish_keywords": 8,
-        "suspicious_links": [],
-        "num_sender_diff_url": 1,
-        "text_and_href": 1,
         "subject_phish_keywords": 1,
-        "num_www_in_url_path": 0,
+        "html_form": 0,
+        "num_black_sheep_link": -1,
         "num_domain_phish": 0,
-        "num_of_chars": 1345,
-        "num_ip_urls": 0,
-        "num_path_phish": 0,
-        "num_param_phish": 0,
-        "max_num_dots_urls": 4,
-        "num_tld_in_url_path": 0,
-        "is_html": true,
-        "num_black_sheep_link_phish": 0,
-        "num_non_80_port_urls": 0,
-        "num_text_forms": 12,
+        "num_shortened_urls": 0,
+        "num_phish_keywords": 8,
+        "num_www_in_url_path": 0,
+        "num_external_links": 10,
         "num_black_sheep_link_global": -1,
+        "num_black_sheep_link_phish": 0,
+        "is_html": true,
+        "num_sender_diff_url": 1,
+        "num_tld_in_url_path": 0,
+        "text_and_href": 1,
+        "ner_domain_detected": false,
+        "max_num_dots_urls": 4,
+        "camouflage": 0,
+        "num_text_forms": 12,
+        "num_https_urls": 3,
+        "body_richness": 0.288261515601783,
+        "num_ip_urls": 0,
+        "num_html_script_tags": 0,
+        "subject_richness": 0.1,
+        "fake_https": 0,
+        "suspicious_links": [],
+        "num_of_chars": 1345,
         "text_link_with_path": 1,
-        "num_shortened_urls": 0
+        "num_path_phish": 0,
+        "num_subdomain_phish": 0,
+        "max_num_slashes_urls": 2,
+        "num_param_phish": 0,
+        "num_non_80_port_urls": 0,
+        "num_freehost_urls": 0
     },
-    "list_unsubscribe_invalid_count": 0
+    "subject_word_count": 3,
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf": "",
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "idf": "",
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "src_revert_detail": [
+            {
+                "confidence": 5,
+                "domain": "flirt"
+            }
+        ],
+        "log_cnt-w_duc": "",
+        "plain_domain_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "cnt-pow_w_duc": "",
+        "src_revert": "flirt",
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 166603181.128602,
+                "domain": "benaughty"
+            }
+        ],
+        "log_cnt-pow_w_duc_detail": [],
+        "domain_keywords": "benaughty",
+        "log_cnt_idf": "",
+        "log_ecnt_idf_log_tidf_detail": []
+    },
+    "html_in_text_plain_count": 3,
+    "extractedHrefUrlsCardinality": 9,
+    "extractedSrcUrlsTotalCount": 5,
+    "mime_children_count": 2
 }

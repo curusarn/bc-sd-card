@@ -1,40 +1,77 @@
 {
-    "spf_dom_policy_registry": "Policy not found",
-    "precedence": 3,
-    "contains_list_header": true,
-    "extractedSrcUrlsDomainCount": 1,
-    "extractedTxtUrlsDomainCount": 1,
-    "html_tr_tag_count": 22,
-    "extractedEmailsCardinality": 2,
-    "spfstatus_hfrom": "SPF_SOFTFAIL",
-    "rcpts_count": 1,
+    "dkim_hfrom_match": 1,
+    "mime_root_type": "multipart/alternative",
+    "list_unsubscribe_urls": [
+        "mailto:unsubscribe@bigbrands.cz?subject=Unsubscribe"
+    ],
+    "dkselector": "default",
     "header_total_count": 15,
+    "dk_statuses": [
+        {
+            "domain": "bigbrands.cz",
+            "status": "PASS",
+            "selector": "default"
+        }
+    ],
+    "extractedEmails": [
+        "ondra.sima@post.cz",
+        "info@bigbrands.cz"
+    ],
+    "precedence": 3,
+    "self_send": 0,
     "dkstatus": "PASS",
-    "extractedSrcUrlsTotalCount": 4,
-    "html_tag_total_count": 139,
+    "lang": "cs",
+    "extractedHrefUrls": [
+        "https://www.bigbrands.cz/letak.html?id=1138516&mID=3861&hash=a5c8ac31fd2efe0ff427e5ed4edfbf19",
+        "https://www.bigbrands.cz/?pv_muid=1138516&pv_mmid=3861&utm_medium=e-mail&utm_source=newsletter&utm_campaign=3861",
+        "https://www.bigbrands.cz/aktivace-uctu.html?key=c374aa577a0308282e7f896f2c1039eb&email=ondra.sima@post.cz",
+        "http://www.facebook.com/pages/Bigbrands/338510775577?ref=ts",
+        "http://twitter.com/BigBrandsCZ"
+    ],
+    "word_count": 190,
+    "pepca": "pa3b86a123c5bfec4",
+    "list_unsubscribe_total_count": 1,
     "header_reply_to_count": 1,
-    "pepca_style": "",
-    "ahref_camouflage_count": 0,
-    "extractedTxtUrlsCardinality": 1,
-    "content": "CONTENT_DEFAULT",
-    "html_td_tag_count": 26,
-    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/95ddce5178993fc418ea2ecb04821ae5.eml",
-    "spamscore": 1,
+    "html_tag_total_count": 139,
+    "subject": "BigBrands Dokoncete registraci a ziskejte slevy na skvele znacky",
+    "extractedTxtUrls": [
+        "http://www.bigbrands.cz"
+    ],
+    "rfcid_length": 49,
+    "last10words": " mailu info bigbrands cz nebo na telefonu 222 531 721 Po Pa 8 30 16 00 BigBrands K Cervenemu dvoru 2132 24 13000 Praha 3 ",
+    "mime_children_types": [
+        "text/plain",
+        "text/html"
+    ],
+    "spfstatus": "NONE",
+    "dkim_efrom_match": 0,
     "extractedSrcUrlsCardinality": 4,
+    "extractedTxtUrlsDomainCount": 1,
+    "header_from_count": 1,
+    "extractedSrcUrlsDomainCount": 1,
+    "pepca_inline_style_total": 1,
+    "extractedHrefUrlsDomainCount": 3,
+    "rfcid_is_invalid": false,
+    "dkdomain": "bigbrands.cz",
+    "dkim_count": 1,
+    "first10words": " Tento email byl zaslan na ondra sima post cz Odhlasit upravit odber novinek Nevidite obrazky Kliknete zde ",
+    "now": 1494598354,
     "notches": [
         {
-            "subscores": [
-                1,
-                0.0
-            ],
+            "module": "ill",
             "name": [
                 "date_in_past",
                 "from_missmatch"
             ],
-            "score": 1,
-            "module": "ill"
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
         }
     ],
+    "extractedEmailsTotalCount": 2,
+    "spfstatus_hfrom": "SPF_SOFTFAIL",
     "phashes": [
         {
             "name": "pepca",
@@ -45,186 +82,149 @@
             "value": "pf16521503f818ad8"
         }
     ],
-    "list_unsubscribe_urls": [
-        "mailto:unsubscribe@bigbrands.cz?subject=Unsubscribe"
-    ],
-    "now": 1494598354,
-    "html_in_text_plain_count": 10,
-    "last10words": " mailu info bigbrands cz nebo na telefonu 222 531 721 Po Pa 8 30 16 00 BigBrands K Cervenemu dvoru 2132 24 13000 Praha 3 ",
-    "spf_domain_policy": "UNKNOWN",
-    "dkim_count": 1,
-    "unsub_link_texts": [
-        " odhlasit upravit odber novinka nevidet obrazek",
-        " kliknout zde "
-    ],
-    "rfcid_is_invalid": false,
-    "list_unsubscribe_mailto_count": 1,
-    "pepcatotal": 1,
-    "word_count": 190,
-    "html_script_tag_count": 0,
-    "dkim_efrom_match": 0,
-    "unsub_link_candidates": [
-        "https://www.bigbrands.cz/zmena-odberu.html?id=1138516&mID=3861&action=management&hash=a5c8ac31fd2efe0ff427e5ed4edfbf19",
-        "https://www.bigbrands.cz/letak.html?id=1138516&mID=3861&hash=a5c8ac31fd2efe0ff427e5ed4edfbf19"
-    ],
-    "extractedEmails": [
-        "ondra.sima@post.cz",
-        "info@bigbrands.cz"
-    ],
-    "spfstatus": "NONE",
-    "phish_score": 0,
-    "date_difference": -79901820,
-    "extractedTxtUrls": [
-        "http://www.bigbrands.cz"
-    ],
-    "list_unsubscribe_total_count": 1,
-    "dkim_passed_count": 1,
-    "extractedHrefUrlsDomainCount": 3,
-    "first10words": " Tento email byl zaslan na ondra sima post cz Odhlasit upravit odber novinek Nevidite obrazky Kliknete zde ",
-    "pepca": "pa3b86a123c5bfec4",
-    "pepca_style_total": 0,
-    "unsub_link": "https://www.bigbrands.cz/letak.html?id=1138516&mID=3861&hash=a5c8ac31fd2efe0ff427e5ed4edfbf19",
-    "extractedEmailsTotalCount": 2,
-    "rfcid_is_foreign": 0,
-    "attachments": [],
-    "pepca_inline_style_total": 1,
-    "header_from_count": 1,
-    "mime_children_types": [
-        "text/plain",
-        "text/html"
-    ],
-    "subject": "BigBrands Dokoncete registraci a ziskejte slevy na skvele znacky",
-    "dkdomain": "bigbrands.cz",
-    "senders": {
-        "domain_keywords": "bigbrands",
-        "log_ecnt_idf": "",
-        "log_cnt-w_duc_detail": [],
-        "log_cnt_idf_log_tidf_detail": [],
-        "log_ecnt-w_duc": "",
-        "idf_detail": [],
-        "log_cnt_idf_log_tidf": "",
-        "log_cnt-pow4_w_duc": "",
-        "plain_domain_detail": [
-            {
-                "domain": "bigbrands",
-                "confidence": 1
-            }
-        ],
-        "log_cnt-pow_w_duc": "",
-        "log_cnt_idf_detail": [],
-        "log_ecnt_log_idf_log_tidf_detail": [],
-        "tf_log_idf_detail": [],
-        "ttf_w_duc_detail": [],
-        "cnt-pow_w_duc_detail": [],
-        "log_cnt-pow4_w_duc_detail": [],
-        "ettf_w_duc": "",
-        "log_ecnt_idf_detail": [],
-        "ttf_w_duc": "",
-        "plain_domain": "bigbrands",
-        "domain_keywords_detail": [
-            {
-                "domain": "bigbrands",
-                "confidence": 52599791.583146
-            }
-        ],
-        "cnt-pow_w_duc": "",
-        "cnt-pow4_w_duc": "",
-        "log_cnt-pow_w_duc_detail": [],
-        "ettf_w_duc_detail": [],
-        "log_ecnt-w_duc_detail": [],
-        "log_cnt_idf": "",
-        "tf_log_idf": "",
-        "src_revert_detail": [
-            {
-                "domain": "bigbrands",
-                "confidence": 4
-            }
-        ],
-        "log_ecnt_log_idf_log_tidf": "",
-        "log_cnt-w_duc": "",
-        "cnt-pow4_w_duc_detail": [],
-        "idf": "",
-        "log_ecnt_idf_log_tidf": "",
-        "log_ecnt_idf_log_tidf_detail": [],
-        "src_revert": "bigbrands"
-    },
-    "dkim_hfrom_match": 1,
-    "ahref_total_count": 6,
-    "list_unsubscribe_http_count": 0,
+    "list_unsubscribe_invalid_count": 0,
     "extractedSrcUrls": [
         "https://www.bigbrands.cz/image.jpg?id=3861&user_id=1138516&seed=9a37b331ea67716b62ce7a72ede65a3e",
         "http://www.bigbrands.cz/templates/site/images/mail/icons/fb.png",
         "http://www.bigbrands.cz/templates/site/images/mail/icons/tw.png",
         "http://www.bigbrands.cz/templates/site/images/mail/icons/karty_cz.png"
     ],
-    "subject_image_count": 0,
-    "extractedHrefUrlsTotalCount": 6,
-    "dk_statuses": [
-        {
-            "status": "PASS",
-            "selector": "default",
-            "domain": "bigbrands.cz"
-        }
-    ],
-    "from_match": 0,
-    "lang": "cs",
-    "extractedHrefUrls": [
-        "https://www.bigbrands.cz/letak.html?id=1138516&mID=3861&hash=a5c8ac31fd2efe0ff427e5ed4edfbf19",
-        "https://www.bigbrands.cz/?pv_muid=1138516&pv_mmid=3861&utm_medium=e-mail&utm_source=newsletter&utm_campaign=3861",
-        "https://www.bigbrands.cz/aktivace-uctu.html?key=c374aa577a0308282e7f896f2c1039eb&email=ondra.sima@post.cz",
-        "http://www.facebook.com/pages/Bigbrands/338510775577?ref=ts",
-        "http://twitter.com/BigBrandsCZ"
-    ],
-    "pepca_inline_style": "pf16521503f818ad8",
-    "self_send": 0,
     "ahref_verbal_count": 4,
-    "extractedTxtUrlsTotalCount": 1,
-    "subject_word_count": 9,
-    "extractedEmailsDomainCount": 2,
-    "header_from": "evelina@bigbrands.cz",
-    "mime_root_type": "multipart/alternative",
-    "rfcid_length": 49,
-    "mime_children_count": 2,
-    "extractedHrefUrlsCardinality": 6,
-    "adscore": 0,
-    "dkim_signs_cnt": 1,
+    "contains_list_header": true,
+    "phish_score": 0,
+    "date_difference": -79901820,
+    "list_unsubscribe_http_count": 0,
     "spamtrap_hit": false,
+    "pepca_style": "",
+    "header_from": "evelina@bigbrands.cz",
+    "spamscore": 1,
+    "subject_image_count": 0,
+    "html_td_tag_count": 26,
+    "pepca_style_total": 0,
+    "from_match": 0,
+    "rfcid_is_foreign": 0,
+    "spf_dom_policy_registry": "Policy not found",
+    "unsub_link_texts": [
+        " odhlasit upravit odber novinka nevidet obrazek",
+        " kliknout zde "
+    ],
+    "attachments": [],
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/95ddce5178993fc418ea2ecb04821ae5.eml",
+    "ahref_camouflage_count": 0,
+    "unsub_link_candidates": [
+        "https://www.bigbrands.cz/zmena-odberu.html?id=1138516&mID=3861&action=management&hash=a5c8ac31fd2efe0ff427e5ed4edfbf19",
+        "https://www.bigbrands.cz/letak.html?id=1138516&mID=3861&hash=a5c8ac31fd2efe0ff427e5ed4edfbf19"
+    ],
+    "list_unsubscribe_mailto_count": 1,
+    "html_tr_tag_count": 22,
+    "pepcatotal": 1,
+    "html_script_tag_count": 0,
+    "dkim_passed_count": 1,
+    "extractedHrefUrlsTotalCount": 6,
+    "ahref_total_count": 6,
+    "pepca_inline_style": "pf16521503f818ad8",
+    "rcpts_count": 1,
+    "extractedEmailsDomainCount": 2,
+    "unsub_link": "https://www.bigbrands.cz/letak.html?id=1138516&mID=3861&hash=a5c8ac31fd2efe0ff427e5ed4edfbf19",
+    "spf_domain_policy": "UNKNOWN",
+    "extractedTxtUrlsTotalCount": 1,
+    "dkim_signs_cnt": 1,
+    "adscore": 0,
     "spf_status_registry": "Status not found",
-    "dkselector": "default",
+    "extractedEmailsCardinality": 2,
+    "content": "CONTENT_DEFAULT",
+    "extractedTxtUrlsCardinality": 1,
     "phishing": {
-        "body_richness": 0.213004484304933,
-        "num_black_sheep_link": -1,
-        "subject_richness": 0.121621621621622,
-        "max_num_slashes_urls": 3,
-        "num_https_urls": 5,
-        "camouflage": 0,
-        "ner_domain_detected": false,
-        "html_form": 0,
-        "num_subdomain_phish": 0,
-        "num_external_links": 9,
-        "fake_https": 0,
-        "num_html_script_tags": 0,
-        "num_freehost_urls": 0,
-        "num_phish_keywords": 2,
-        "suspicious_links": [],
-        "num_sender_diff_url": 2,
-        "text_and_href": 0,
         "subject_phish_keywords": 1,
-        "num_www_in_url_path": 0,
+        "html_form": 0,
+        "num_black_sheep_link": -1,
         "num_domain_phish": 0,
-        "num_of_chars": 891,
-        "num_ip_urls": 0,
-        "num_path_phish": 0,
-        "num_param_phish": 0,
-        "max_num_dots_urls": 5,
-        "num_tld_in_url_path": 0,
-        "is_html": true,
-        "num_black_sheep_link_phish": 0,
-        "num_non_80_port_urls": 0,
-        "num_text_forms": 1,
+        "num_shortened_urls": 0,
+        "num_phish_keywords": 2,
+        "num_www_in_url_path": 0,
+        "num_external_links": 9,
         "num_black_sheep_link_global": -1,
+        "num_black_sheep_link_phish": 0,
+        "is_html": true,
+        "num_sender_diff_url": 2,
+        "num_tld_in_url_path": 0,
+        "text_and_href": 0,
+        "ner_domain_detected": false,
+        "max_num_dots_urls": 5,
+        "camouflage": 0,
+        "num_text_forms": 1,
+        "num_https_urls": 5,
+        "body_richness": 0.213004484304933,
+        "num_ip_urls": 0,
+        "num_html_script_tags": 0,
+        "subject_richness": 0.121621621621622,
+        "fake_https": 0,
+        "suspicious_links": [],
+        "num_of_chars": 891,
         "text_link_with_path": 0,
-        "num_shortened_urls": 0
+        "num_path_phish": 0,
+        "num_subdomain_phish": 0,
+        "max_num_slashes_urls": 3,
+        "num_param_phish": 0,
+        "num_non_80_port_urls": 0,
+        "num_freehost_urls": 0
     },
-    "list_unsubscribe_invalid_count": 0
+    "subject_word_count": 9,
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf": "",
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "idf": "",
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "src_revert_detail": [
+            {
+                "confidence": 4,
+                "domain": "bigbrands"
+            }
+        ],
+        "log_cnt-w_duc": "",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "bigbrands"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "cnt-pow_w_duc": "",
+        "src_revert": "bigbrands",
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "bigbrands",
+        "domain_keywords_detail": [
+            {
+                "confidence": 52599791.583146,
+                "domain": "bigbrands"
+            }
+        ],
+        "log_cnt-pow_w_duc_detail": [],
+        "domain_keywords": "bigbrands",
+        "log_cnt_idf": "",
+        "log_ecnt_idf_log_tidf_detail": []
+    },
+    "html_in_text_plain_count": 10,
+    "extractedHrefUrlsCardinality": 6,
+    "extractedSrcUrlsTotalCount": 4,
+    "mime_children_count": 2
 }

@@ -1,341 +1,178 @@
 {
+    "spf_domain_policy": "UNKNOWN",
+    "subject_word_count": 5,
+    "last10words": " 602 74 09 74 Sledujte nas na socialnich sitich ",
+    "spfstatus": "NONE",
+    "header_from": "info@psidetektiv.cz",
+    "dkim_passed_count": 0,
+    "header_total_count": 14,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p03cf8c2bfd4122ef"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p1f07ac20681da313"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p640b0c05ad6f2a75"
+        },
+        {
+            "name": "att-pepca",
+            "value": "pc48c4a921108ca44"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p0918bb56fff72410"
+        },
+        {
+            "name": "att-pepca",
+            "value": "pa9f682b27a4b011a"
+        },
+        {
+            "name": "att-pepca",
+            "value": "pa410b30d956e4952"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p35102db52abeb765"
+        },
+        {
+            "name": "att-pepca",
+            "value": "pcd570e231acc63f5"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p4e4624f16555e53c"
+        },
+        {
+            "name": "pepca",
+            "value": "p137cff081cedeb8f"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pc2bcaddc35b3685e"
+        }
+    ],
+    "self_send": 0,
+    "header_from_count": 1,
+    "phish_score": 0,
+    "html_in_text_plain_count": 0,
+    "extractedSrcUrlsTotalCount": 9,
+    "rcpts_count": 1,
+    "extractedEmails": [
+        "info@psidetektiv.cz",
+        "petra.petnikova@seznam.cz"
+    ],
+    "spf_dom_policy_registry": "Policy not found",
+    "dkim_hfrom_match": 0,
+    "list_unsubscribe_total_count": 0,
+    "ahref_total_count": 3,
+    "extractedEmailsDomainCount": 2,
+    "html_td_tag_count": 68,
+    "spamtrap_hit": false,
+    "mime_children_types": [
+        "text/plain",
+        "multipart/related"
+    ],
+    "extractedTxtUrlsCardinality": 1,
+    "dk_statuses": [
+        {
+            "status": "NEUTRAL",
+            "statusDetail": "NOT_SIGNED"
+        }
+    ],
+    "first10words": " Nove heslo k Vasemu uctu Pokud se Vam tento e mail nezobrazuje spravne kliknete prosim zde Nov",
+    "extractedEmailsCardinality": 2,
     "notches": [
         {
+            "score": 1.1,
             "subscores": [
                 1,
                 0.0,
                 0.1
             ],
-            "score": 1.1,
-            "module": "ill",
             "name": [
                 "date_in_past",
                 "from_missmatch",
                 "foreign_message_id"
-            ]
+            ],
+            "module": "ill"
         }
     ],
+    "date_difference": -79580223,
+    "extractedEmailsTotalCount": 2,
+    "subject_image_count": 0,
+    "extractedSrcUrlsCardinality": 9,
+    "dkim_signs_cnt": 1,
+    "pepca_style": "",
+    "html_script_tag_count": 0,
+    "extractedHrefUrlsCardinality": 6,
+    "adscore": 0,
+    "list_unsubscribe_http_count": 0,
+    "extractedHrefUrlsTotalCount": 6,
+    "content": "CONTENT_DEFAULT",
+    "rfcid_length": 51,
+    "extractedTxtUrlsDomainCount": 1,
+    "pepca_inline_style_total": 0,
+    "dkim_count": 0,
+    "subject": "Nove heslo k Vasemu uctu",
+    "pepcatotal": 0,
+    "mime_root_type": "multipart/alternative",
+    "ahref_camouflage_count": 0,
+    "dkStatusDetail": "NOT_SIGNED",
+    "header_reply_to_count": 1,
+    "list_unsubscribe_mailto_count": 0,
+    "rfcid_is_foreign": 1,
+    "dkstatus": "NEUTRAL",
+    "mime_children_count": 2,
+    "extractedHrefUrlsDomainCount": 5,
+    "word_count": 225,
+    "list_unsubscribe_invalid_count": 0,
+    "precedence": 3,
     "extractedTxtUrls": [
         "http://www.psidetektiv.cz"
     ],
-    "spfstatus": "NONE",
-    "mime_root_type": "multipart/alternative",
-    "header_from_count": 1,
-    "now": 1494598215,
-    "dkim_efrom_match": 0,
-    "pepca_inline_style_total": 0,
-    "rcpts_count": 1,
-    "extractedEmailsTotalCount": 2,
-    "pepca_inline_style": "pc2bcaddc35b3685e",
-    "pepca_style_total": 0,
-    "dkim_hfrom_match": 0,
-    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/29142511487c789f97b98e136b6940a7.eml",
-    "html_td_tag_count": 68,
-    "extractedHrefUrlsCardinality": 6,
-    "list_unsubscribe_mailto_count": 0,
-    "subject_word_count": 5,
-    "lang": "cs",
-    "precedence": 3,
-    "phishing": {
-        "num_html_script_tags": 0,
-        "num_text_forms": 8,
-        "fake_https": 0,
-        "is_html": true,
-        "num_non_80_port_urls": 0,
-        "num_https_urls": 3,
-        "num_of_chars": 872,
-        "num_param_phish": 0,
-        "text_and_href": 0,
-        "body_richness": 0.257731958762887,
-        "text_link_with_path": 0,
-        "max_num_slashes_urls": 4,
-        "num_shortened_urls": 0,
-        "num_sender_diff_url": 4,
-        "num_ip_urls": 0,
-        "num_black_sheep_link": -1,
-        "subject_richness": 0.172413793103448,
-        "num_tld_in_url_path": 0,
-        "subject_phish_keywords": 2,
-        "num_black_sheep_link_global": -1,
-        "num_black_sheep_link_phish": 0,
-        "num_path_phish": 0,
-        "suspicious_links": [],
-        "html_form": 0,
-        "num_phish_keywords": 8,
-        "num_subdomain_phish": 0,
-        "num_domain_phish": 0,
-        "ner_domain_detected": false,
-        "camouflage": 0,
-        "num_freehost_urls": 0,
-        "num_external_links": 5,
-        "max_num_dots_urls": 2,
-        "num_www_in_url_path": 0
-    },
     "spf_status_registry": "Status not found",
-    "rfcid_is_foreign": 1,
-    "from_match": 0,
-    "first10words": " Nove heslo k Vasemu uctu Pokud se Vam tento e mail nezobrazuje spravne kliknete prosim zde Nov",
-    "extractedTxtUrlsDomainCount": 1,
-    "spf_domain_policy": "UNKNOWN",
-    "header_total_count": 14,
-    "dkim_passed_count": 0,
-    "extractedTxtUrlsCardinality": 1,
-    "dkim_signs_cnt": 1,
-    "mime_children_types": [
-        "text/plain",
-        "multipart/related"
-    ],
-    "ahref_verbal_count": 1,
-    "subject_image_count": 0,
-    "phish_score": 0,
-    "rfcid_is_invalid": false,
-    "dkstatus": "NEUTRAL",
-    "phashes": [
-        {
-            "value": "p03cf8c2bfd4122ef",
-            "name": "att-pepca"
-        },
-        {
-            "value": "p1f07ac20681da313",
-            "name": "att-pepca"
-        },
-        {
-            "value": "p640b0c05ad6f2a75",
-            "name": "att-pepca"
-        },
-        {
-            "value": "pc48c4a921108ca44",
-            "name": "att-pepca"
-        },
-        {
-            "value": "p0918bb56fff72410",
-            "name": "att-pepca"
-        },
-        {
-            "value": "pa9f682b27a4b011a",
-            "name": "att-pepca"
-        },
-        {
-            "value": "pa410b30d956e4952",
-            "name": "att-pepca"
-        },
-        {
-            "value": "p35102db52abeb765",
-            "name": "att-pepca"
-        },
-        {
-            "value": "pcd570e231acc63f5",
-            "name": "att-pepca"
-        },
-        {
-            "value": "p4e4624f16555e53c",
-            "name": "att-pepca"
-        },
-        {
-            "value": "p137cff081cedeb8f",
-            "name": "pepca"
-        },
-        {
-            "value": "pc2bcaddc35b3685e",
-            "name": "pepca_inline_style"
-        }
-    ],
+    "lang": "cs",
     "extractedTxtUrlsTotalCount": 1,
-    "self_send": 0,
-    "attachments": [
-        {
-            "mime_type": "image/jpeg",
-            "cte": "BASE64",
-            "flags": 0,
-            "pepca": "p03cf8c2bfd4122ef",
-            "cid": "ce7b2f09567518573895eb9d32d8badb",
-            "sumphash": "9167f61a2ba644041c1833a0f6efce0e",
-            "size": 4918,
-            "name": "email-bg.jpg"
-        },
-        {
-            "mime_type": "image/jpeg",
-            "cte": "BASE64",
-            "flags": 0,
-            "pepca": "p1f07ac20681da313",
-            "cid": "ab44c27b69e4b124f3e3948fc491d8be",
-            "sumphash": "86db8672daddb6e9ba0b87796451550e",
-            "size": 5319,
-            "name": "email-header-newsletter.jpg"
-        },
-        {
-            "mime_type": "image/jpeg",
-            "cte": "BASE64",
-            "flags": 0,
-            "pepca": "p640b0c05ad6f2a75",
-            "cid": "b40190005f3ebc1a1a69436849e1b8c6",
-            "sumphash": "054a9dccc9f73a95780124d5f0a55118",
-            "size": 50383,
-            "name": "email-header.jpg"
-        },
-        {
-            "mime_type": "image/jpeg",
-            "cte": "BASE64",
-            "flags": 0,
-            "pepca": "pc48c4a921108ca44",
-            "cid": "64145fea23834033ac6825910f7323cb",
-            "sumphash": "8dc0f93b66a0c2a5a82d66bcf88b09c9",
-            "size": 6584,
-            "name": "email-title.jpg"
-        },
-        {
-            "mime_type": "image/jpeg",
-            "cte": "BASE64",
-            "flags": 0,
-            "pepca": "p0918bb56fff72410",
-            "cid": "67ef341441314d0d0c02d66424ac9e7d",
-            "sumphash": "47f97514beb20e02f3d6ce8a84c20663",
-            "size": 4426,
-            "name": "email-footer-hand.jpg"
-        },
-        {
-            "mime_type": "image/jpeg",
-            "cte": "BASE64",
-            "flags": 0,
-            "pepca": "pa9f682b27a4b011a",
-            "cid": "cdeaca9730f4f11f95a8ca24f44b7523",
-            "sumphash": "3043f12ef300041df4fde2c04b358861",
-            "size": 6561,
-            "name": "email-footer-bg.jpg"
-        },
-        {
-            "mime_type": "image/jpeg",
-            "cte": "BASE64",
-            "flags": 0,
-            "pepca": "pa410b30d956e4952",
-            "cid": "b9896ae8f2a925bd720628dfce5b16e9",
-            "sumphash": "8bdee16a6334da7e9687f4350cc8a051",
-            "size": 5816,
-            "name": "email-ico-facebook.jpg"
-        },
-        {
-            "mime_type": "image/jpeg",
-            "cte": "BASE64",
-            "flags": 0,
-            "pepca": "p35102db52abeb765",
-            "cid": "30f141d9313323a410b15e038a54619f",
-            "sumphash": "e00fdcdfaf63f2544fecc2d7d7616bcd",
-            "size": 6147,
-            "name": "email-ico-twitter.jpg"
-        },
-        {
-            "mime_type": "image/jpeg",
-            "cte": "BASE64",
-            "flags": 0,
-            "pepca": "pcd570e231acc63f5",
-            "cid": "8fe0c31da871591401280930bd669d37",
-            "sumphash": "861f618a3820d8c9977596c864298d8d",
-            "size": 5636,
-            "name": "email-ico-gplus.jpg"
-        },
-        {
-            "mime_type": "image/jpeg",
-            "cte": "BASE64",
-            "flags": 0,
-            "pepca": "p4e4624f16555e53c",
-            "cid": "0421fbdc1a4f5e4397bc652d88dfc476",
-            "sumphash": "8b2287b278aeeba9bb8a7d8ca44bc3eb",
-            "size": 5571,
-            "name": "email-ico-youtube.jpg"
-        }
-    ],
-    "html_tr_tag_count": 32,
-    "extractedEmails": [
-        "info@psidetektiv.cz",
-        "petra.petnikova@seznam.cz"
-    ],
-    "html_tag_total_count": 183,
-    "mime_children_count": 2,
-    "spamtrap_hit": false,
-    "extractedEmailsDomainCount": 2,
-    "extractedHrefUrlsTotalCount": 6,
-    "extractedSrcUrlsCardinality": 9,
-    "spamscore": 1.1,
-    "ahref_total_count": 3,
-    "extractedEmailsCardinality": 2,
-    "extractedSrcUrlsTotalCount": 9,
-    "dkim_count": 0,
-    "adscore": 0,
-    "pepca": "p137cff081cedeb8f",
-    "dkStatusDetail": "NOT_SIGNED",
-    "html_script_tag_count": 0,
-    "date_difference": -79580223,
-    "html_in_text_plain_count": 0,
-    "pepca_style": "",
-    "word_count": 225,
-    "rfcid_length": 51,
-    "spf_dom_policy_registry": "Policy not found",
-    "pepcatotal": 0,
-    "last10words": " 602 74 09 74 Sledujte nas na socialnich sitich ",
-    "extractedHrefUrls": [
-        "http://www.psidetektiv.cz/",
-        "https://www.facebook.com/pages/Ps%C3%AD-detektiv/254398331378679",
-        "https://twitter.com/psidetektiv",
-        "https://plus.google.com/b/111864095668475761584/111864095668475761584/posts",
-        "http://www.youtube.com/channel/UCH8xuJqC3l0ORBRWLaOrxRg"
-    ],
-    "spfstatus_hfrom": "SPF_SOFTFAIL",
-    "header_reply_to_count": 1,
-    "senders": {
-        "log_cnt_idf_detail": [],
-        "log_ecnt_idf_detail": [],
-        "tf_log_idf": "",
-        "log_cnt-pow4_w_duc": "",
-        "log_ecnt_idf_log_tidf_detail": [],
-        "cnt-pow_w_duc_detail": [],
-        "cnt-pow_w_duc": "",
-        "log_ecnt-w_duc_detail": [],
-        "idf": "",
-        "cnt-pow4_w_duc_detail": [],
-        "ttf_w_duc_detail": [],
-        "ettf_w_duc_detail": [],
-        "log_cnt-w_duc": "",
-        "src_revert": "",
-        "log_cnt_idf_log_tidf_detail": [],
-        "log_cnt_idf_log_tidf": "",
-        "log_cnt-pow4_w_duc_detail": [],
-        "log_cnt-pow_w_duc": "",
-        "cnt-pow4_w_duc": "",
-        "plain_domain": "psidetektiv",
-        "src_revert_detail": [],
-        "log_ecnt_log_idf_log_tidf": "",
-        "log_ecnt_idf_log_tidf": "",
-        "log_cnt-pow_w_duc_detail": [],
-        "ttf_w_duc": "",
-        "plain_domain_detail": [
-            {
-                "confidence": 2,
-                "domain": "psidetektiv"
-            }
-        ],
-        "log_ecnt_idf": "",
-        "tf_log_idf_detail": [],
-        "ettf_w_duc": "",
-        "idf_detail": [],
-        "log_ecnt_log_idf_log_tidf_detail": [],
-        "domain_keywords_detail": [
-            {
-                "confidence": 8553997.73452,
-                "domain": "skype"
-            }
-        ],
-        "domain_keywords": "skype",
-        "log_cnt-w_duc_detail": [],
-        "log_ecnt-w_duc": "",
-        "log_cnt_idf": ""
+    "phishing": {
+        "is_html": true,
+        "num_subdomain_phish": 0,
+        "body_richness": 0.257731958762887,
+        "num_domain_phish": 0,
+        "num_https_urls": 3,
+        "text_link_with_path": 0,
+        "num_text_forms": 8,
+        "num_phish_keywords": 8,
+        "num_external_links": 5,
+        "num_non_80_port_urls": 0,
+        "subject_richness": 0.172413793103448,
+        "num_black_sheep_link": -1,
+        "num_freehost_urls": 0,
+        "num_sender_diff_url": 4,
+        "max_num_dots_urls": 2,
+        "fake_https": 0,
+        "suspicious_links": [],
+        "ner_domain_detected": false,
+        "num_black_sheep_link_global": -1,
+        "max_num_slashes_urls": 4,
+        "num_param_phish": 0,
+        "num_www_in_url_path": 0,
+        "text_and_href": 0,
+        "num_path_phish": 0,
+        "camouflage": 0,
+        "subject_phish_keywords": 2,
+        "num_html_script_tags": 0,
+        "num_black_sheep_link_phish": 0,
+        "num_shortened_urls": 0,
+        "num_of_chars": 872,
+        "num_ip_urls": 0,
+        "html_form": 0,
+        "num_tld_in_url_path": 0
     },
-    "dk_statuses": [
-        {
-            "statusDetail": "NOT_SIGNED",
-            "status": "NEUTRAL"
-        }
-    ],
-    "content": "CONTENT_DEFAULT",
     "extractedSrcUrls": [
         "cid:cdeaca9730f4f11f95a8ca24f44b7523",
         "cid:b9896ae8f2a925bd720628dfce5b16e9",
@@ -343,12 +180,175 @@
         "cid:8fe0c31da871591401280930bd669d37",
         "cid:0421fbdc1a4f5e4397bc652d88dfc476"
     ],
-    "list_unsubscribe_http_count": 0,
-    "extractedHrefUrlsDomainCount": 5,
-    "subject": "Nove heslo k Vasemu uctu",
-    "list_unsubscribe_total_count": 0,
+    "from_match": 0,
+    "html_tr_tag_count": 32,
+    "senders": {
+        "log_cnt-w_duc_detail": [],
+        "idf_detail": [],
+        "log_ecnt_idf_detail": [],
+        "domain_keywords": "skype",
+        "log_cnt-pow_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "src_revert": "",
+        "ttf_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "domain": "skype",
+                "confidence": 8553997.73452
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_cnt_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-w_duc": "",
+        "log_ecnt-w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "tf_log_idf": "",
+        "log_cnt_idf": "",
+        "log_ecnt_idf": "",
+        "idf": "",
+        "src_revert_detail": [],
+        "plain_domain_detail": [
+            {
+                "domain": "psidetektiv",
+                "confidence": 2
+            }
+        ],
+        "cnt-pow_w_duc_detail": [],
+        "plain_domain": "psidetektiv",
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "tf_log_idf_detail": []
+    },
+    "pepca": "p137cff081cedeb8f",
+    "rfcid_is_invalid": false,
     "extractedSrcUrlsDomainCount": 0,
-    "ahref_camouflage_count": 0,
-    "list_unsubscribe_invalid_count": 0,
-    "header_from": "info@psidetektiv.cz"
+    "ahref_verbal_count": 1,
+    "now": 1494598215,
+    "spfstatus_hfrom": "SPF_SOFTFAIL",
+    "pepca_inline_style": "pc2bcaddc35b3685e",
+    "pepca_style_total": 0,
+    "spamscore": 1.1,
+    "dkim_efrom_match": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/29142511487c789f97b98e136b6940a7.eml",
+    "attachments": [
+        {
+            "pepca": "p03cf8c2bfd4122ef",
+            "cte": "BASE64",
+            "name": "email-bg.jpg",
+            "size": 4918,
+            "flags": 0,
+            "cid": "ce7b2f09567518573895eb9d32d8badb",
+            "sumphash": "9167f61a2ba644041c1833a0f6efce0e",
+            "mime_type": "image/jpeg"
+        },
+        {
+            "pepca": "p1f07ac20681da313",
+            "cte": "BASE64",
+            "name": "email-header-newsletter.jpg",
+            "size": 5319,
+            "flags": 0,
+            "cid": "ab44c27b69e4b124f3e3948fc491d8be",
+            "sumphash": "86db8672daddb6e9ba0b87796451550e",
+            "mime_type": "image/jpeg"
+        },
+        {
+            "pepca": "p640b0c05ad6f2a75",
+            "cte": "BASE64",
+            "name": "email-header.jpg",
+            "size": 50383,
+            "flags": 0,
+            "cid": "b40190005f3ebc1a1a69436849e1b8c6",
+            "sumphash": "054a9dccc9f73a95780124d5f0a55118",
+            "mime_type": "image/jpeg"
+        },
+        {
+            "pepca": "pc48c4a921108ca44",
+            "cte": "BASE64",
+            "name": "email-title.jpg",
+            "size": 6584,
+            "flags": 0,
+            "cid": "64145fea23834033ac6825910f7323cb",
+            "sumphash": "8dc0f93b66a0c2a5a82d66bcf88b09c9",
+            "mime_type": "image/jpeg"
+        },
+        {
+            "pepca": "p0918bb56fff72410",
+            "cte": "BASE64",
+            "name": "email-footer-hand.jpg",
+            "size": 4426,
+            "flags": 0,
+            "cid": "67ef341441314d0d0c02d66424ac9e7d",
+            "sumphash": "47f97514beb20e02f3d6ce8a84c20663",
+            "mime_type": "image/jpeg"
+        },
+        {
+            "pepca": "pa9f682b27a4b011a",
+            "cte": "BASE64",
+            "name": "email-footer-bg.jpg",
+            "size": 6561,
+            "flags": 0,
+            "cid": "cdeaca9730f4f11f95a8ca24f44b7523",
+            "sumphash": "3043f12ef300041df4fde2c04b358861",
+            "mime_type": "image/jpeg"
+        },
+        {
+            "pepca": "pa410b30d956e4952",
+            "cte": "BASE64",
+            "name": "email-ico-facebook.jpg",
+            "size": 5816,
+            "flags": 0,
+            "cid": "b9896ae8f2a925bd720628dfce5b16e9",
+            "sumphash": "8bdee16a6334da7e9687f4350cc8a051",
+            "mime_type": "image/jpeg"
+        },
+        {
+            "pepca": "p35102db52abeb765",
+            "cte": "BASE64",
+            "name": "email-ico-twitter.jpg",
+            "size": 6147,
+            "flags": 0,
+            "cid": "30f141d9313323a410b15e038a54619f",
+            "sumphash": "e00fdcdfaf63f2544fecc2d7d7616bcd",
+            "mime_type": "image/jpeg"
+        },
+        {
+            "pepca": "pcd570e231acc63f5",
+            "cte": "BASE64",
+            "name": "email-ico-gplus.jpg",
+            "size": 5636,
+            "flags": 0,
+            "cid": "8fe0c31da871591401280930bd669d37",
+            "sumphash": "861f618a3820d8c9977596c864298d8d",
+            "mime_type": "image/jpeg"
+        },
+        {
+            "pepca": "p4e4624f16555e53c",
+            "cte": "BASE64",
+            "name": "email-ico-youtube.jpg",
+            "size": 5571,
+            "flags": 0,
+            "cid": "0421fbdc1a4f5e4397bc652d88dfc476",
+            "sumphash": "8b2287b278aeeba9bb8a7d8ca44bc3eb",
+            "mime_type": "image/jpeg"
+        }
+    ],
+    "html_tag_total_count": 183,
+    "extractedHrefUrls": [
+        "http://www.psidetektiv.cz/",
+        "https://www.facebook.com/pages/Ps%C3%AD-detektiv/254398331378679",
+        "https://twitter.com/psidetektiv",
+        "https://plus.google.com/b/111864095668475761584/111864095668475761584/posts",
+        "http://www.youtube.com/channel/UCH8xuJqC3l0ORBRWLaOrxRg"
+    ]
 }

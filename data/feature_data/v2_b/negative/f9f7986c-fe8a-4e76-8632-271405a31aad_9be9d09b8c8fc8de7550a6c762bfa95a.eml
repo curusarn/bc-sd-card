@@ -1,220 +1,220 @@
 {
+    "spf_domain_policy": "UNKNOWN",
+    "subject_word_count": 7,
+    "last10words": " E mail lida kouril seznam cz Heslo sh3gxj CEMOD CZ s r o provozovatel internetoveho obchodu Vyprodej slevy cz ",
+    "spfstatus": "NONE",
+    "header_from": "info@vyprodejslevy.cz",
+    "dkim_passed_count": 0,
+    "header_total_count": 13,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p8f1996eb5ee9a22c"
+        },
+        {
+            "name": "pepca",
+            "value": "p2770ebf118791f72"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p86aae6800cf8f29c"
+        }
+    ],
+    "self_send": 0,
+    "header_from_count": 1,
+    "phish_score": 0,
+    "html_in_text_plain_count": 0,
+    "extractedSrcUrlsTotalCount": 1,
+    "rcpts_count": 1,
+    "extractedEmails": [
+        "lida.kouril@seznam.cz"
+    ],
+    "spf_dom_policy_registry": "Policy not found",
+    "dkim_hfrom_match": 0,
+    "list_unsubscribe_total_count": 0,
+    "ahref_total_count": 1,
+    "extractedEmailsDomainCount": 1,
+    "html_td_tag_count": 8,
+    "spamtrap_hit": false,
+    "mime_children_types": [
+        "multipart/alternative",
+        "image/png"
+    ],
+    "extractedTxtUrlsCardinality": 1,
+    "dk_statuses": [
+        {
+            "status": "NEUTRAL",
+            "statusDetail": "NOT_SIGNED"
+        }
+    ],
+    "first10words": " Nove heslo k webu Vyprodej slevy cz Nove heslo k webu Vyprodej slevy cz E mail lida kouril seznam cz ",
+    "extractedEmailsCardinality": 1,
     "notches": [
         {
+            "score": 1.1,
             "subscores": [
                 1,
                 0.0,
                 0.1
             ],
-            "score": 1.1,
-            "module": "ill",
             "name": [
                 "date_in_past",
                 "from_missmatch",
                 "foreign_message_id"
-            ]
+            ],
+            "module": "ill"
         }
     ],
+    "date_difference": -79892421,
+    "extractedEmailsTotalCount": 1,
+    "subject_image_count": 0,
+    "extractedSrcUrlsCardinality": 1,
+    "dkim_signs_cnt": 1,
+    "pepca_style": "",
+    "html_script_tag_count": 0,
+    "extractedHrefUrlsCardinality": 2,
+    "adscore": 0,
+    "list_unsubscribe_http_count": 0,
+    "extractedHrefUrlsTotalCount": 2,
+    "content": "CONTENT_DEFAULT",
+    "rfcid_length": 54,
+    "extractedTxtUrlsDomainCount": 1,
+    "pepca_inline_style_total": 2,
+    "dkim_count": 0,
+    "subject": "Nove heslo k webu Vyprodej slevy cz",
+    "pepcatotal": 2,
+    "mime_root_type": "multipart/related",
+    "ahref_camouflage_count": 0,
+    "dkStatusDetail": "NOT_SIGNED",
+    "header_reply_to_count": 0,
+    "list_unsubscribe_mailto_count": 0,
+    "rfcid_is_foreign": 1,
+    "dkstatus": "NEUTRAL",
+    "mime_children_count": 2,
+    "extractedHrefUrlsDomainCount": 1,
+    "word_count": 68,
+    "list_unsubscribe_invalid_count": 0,
+    "precedence": 3,
     "extractedTxtUrls": [
         "http://Vyprodej-slevy.cz"
     ],
-    "spfstatus": "NONE",
-    "mime_root_type": "multipart/related",
-    "header_from_count": 1,
-    "now": 1494598361,
-    "dkim_efrom_match": 0,
-    "pepca_inline_style_total": 2,
-    "rcpts_count": 1,
-    "extractedEmailsTotalCount": 1,
-    "pepca_inline_style": "p86aae6800cf8f29c",
-    "pepca_style_total": 0,
-    "dkim_hfrom_match": 0,
-    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/9be9d09b8c8fc8de7550a6c762bfa95a.eml",
-    "html_td_tag_count": 8,
-    "extractedHrefUrlsCardinality": 2,
-    "list_unsubscribe_mailto_count": 0,
-    "subject_word_count": 7,
-    "lang": "cs",
-    "precedence": 3,
-    "phishing": {
-        "num_html_script_tags": 0,
-        "num_text_forms": 3,
-        "fake_https": 0,
-        "is_html": true,
-        "num_non_80_port_urls": 0,
-        "num_https_urls": 0,
-        "num_of_chars": 259,
-        "num_param_phish": 0,
-        "text_and_href": 0,
-        "body_richness": 0.261538461538462,
-        "text_link_with_path": 0,
-        "max_num_slashes_urls": 1,
-        "num_shortened_urls": 0,
-        "num_sender_diff_url": 1,
-        "num_ip_urls": 0,
-        "num_black_sheep_link": -1,
-        "subject_richness": 0.189189189189189,
-        "num_tld_in_url_path": 0,
-        "subject_phish_keywords": 1,
-        "num_black_sheep_link_global": -1,
-        "num_black_sheep_link_phish": 0,
-        "num_path_phish": 0,
-        "suspicious_links": [],
-        "html_form": 0,
-        "num_phish_keywords": 3,
-        "num_subdomain_phish": 0,
-        "num_domain_phish": 0,
-        "ner_domain_detected": false,
-        "camouflage": 0,
-        "num_freehost_urls": 0,
-        "num_external_links": 2,
-        "max_num_dots_urls": 2,
-        "num_www_in_url_path": 0
-    },
     "spf_status_registry": "Status not found",
-    "rfcid_is_foreign": 1,
-    "from_match": 0,
-    "first10words": " Nove heslo k webu Vyprodej slevy cz Nove heslo k webu Vyprodej slevy cz E mail lida kouril seznam cz ",
-    "extractedTxtUrlsDomainCount": 1,
-    "spf_domain_policy": "UNKNOWN",
-    "header_total_count": 13,
-    "dkim_passed_count": 0,
-    "extractedTxtUrlsCardinality": 1,
-    "dkim_signs_cnt": 1,
-    "mime_children_types": [
-        "multipart/alternative",
-        "image/png"
-    ],
-    "ahref_verbal_count": 0,
-    "subject_image_count": 0,
-    "phish_score": 0,
-    "rfcid_is_invalid": false,
-    "dkstatus": "NEUTRAL",
-    "phashes": [
-        {
-            "value": "p8f1996eb5ee9a22c",
-            "name": "att-pepca"
-        },
-        {
-            "value": "p2770ebf118791f72",
-            "name": "pepca"
-        },
-        {
-            "value": "p86aae6800cf8f29c",
-            "name": "pepca_inline_style"
-        }
-    ],
+    "lang": "cs",
     "extractedTxtUrlsTotalCount": 1,
-    "self_send": 0,
-    "attachments": [
-        {
-            "mime_type": "image/png",
-            "cte": "BASE64",
-            "flags": 0,
-            "pepca": "p8f1996eb5ee9a22c",
-            "cid": "logo",
-            "sumphash": "b6d96b3dc5997e44b8732f54efb79cd6",
-            "size": 4604,
-            "name": "logo.png"
-        }
-    ],
-    "html_tr_tag_count": 8,
-    "extractedEmails": [
-        "lida.kouril@seznam.cz"
-    ],
-    "html_tag_total_count": 57,
-    "mime_children_count": 2,
-    "spamtrap_hit": false,
-    "extractedEmailsDomainCount": 1,
-    "extractedHrefUrlsTotalCount": 2,
-    "extractedSrcUrlsCardinality": 1,
-    "spamscore": 1.1,
-    "ahref_total_count": 1,
-    "extractedEmailsCardinality": 1,
-    "extractedSrcUrlsTotalCount": 1,
-    "dkim_count": 0,
-    "adscore": 0,
-    "pepca": "p2770ebf118791f72",
-    "dkStatusDetail": "NOT_SIGNED",
-    "html_script_tag_count": 0,
-    "date_difference": -79892421,
-    "html_in_text_plain_count": 0,
-    "pepca_style": "",
-    "word_count": 68,
-    "rfcid_length": 54,
-    "spf_dom_policy_registry": "Policy not found",
-    "pepcatotal": 2,
-    "last10words": " E mail lida kouril seznam cz Heslo sh3gxj CEMOD CZ s r o provozovatel internetoveho obchodu Vyprodej slevy cz ",
-    "extractedHrefUrls": [
-        "http://www.vyprodej-slevy.cz",
-        "http://www.vyprodej-slevy.cz/"
-    ],
-    "spfstatus_hfrom": "SPF_SOFTFAIL",
-    "header_reply_to_count": 0,
-    "senders": {
-        "log_cnt_idf_detail": [],
-        "log_ecnt_idf_detail": [],
-        "tf_log_idf": "",
-        "log_cnt-pow4_w_duc": "",
-        "log_ecnt_idf_log_tidf_detail": [],
-        "cnt-pow_w_duc_detail": [],
-        "cnt-pow_w_duc": "",
-        "log_ecnt-w_duc_detail": [],
-        "idf": "",
-        "cnt-pow4_w_duc_detail": [],
-        "ttf_w_duc_detail": [],
-        "ettf_w_duc_detail": [],
-        "log_cnt-w_duc": "",
-        "src_revert": "",
-        "log_cnt_idf_log_tidf_detail": [],
-        "log_cnt_idf_log_tidf": "",
-        "log_cnt-pow4_w_duc_detail": [],
-        "log_cnt-pow_w_duc": "",
-        "cnt-pow4_w_duc": "",
-        "plain_domain": "vyprodej-slevy",
-        "src_revert_detail": [],
-        "log_ecnt_log_idf_log_tidf": "",
-        "log_ecnt_idf_log_tidf": "",
-        "log_cnt-pow_w_duc_detail": [],
-        "ttf_w_duc": "",
-        "plain_domain_detail": [
-            {
-                "confidence": 3,
-                "domain": "vyprodej-slevy"
-            }
-        ],
-        "log_ecnt_idf": "",
-        "tf_log_idf_detail": [],
-        "ettf_w_duc": "",
-        "idf_detail": [],
-        "log_ecnt_log_idf_log_tidf_detail": [],
-        "domain_keywords_detail": [
-            {
-                "confidence": 6415498.30089,
-                "domain": "skype"
-            }
-        ],
-        "domain_keywords": "skype",
-        "log_cnt-w_duc_detail": [],
-        "log_ecnt-w_duc": "",
-        "log_cnt_idf": ""
+    "phishing": {
+        "is_html": true,
+        "num_subdomain_phish": 0,
+        "body_richness": 0.261538461538462,
+        "num_domain_phish": 0,
+        "num_https_urls": 0,
+        "text_link_with_path": 0,
+        "num_text_forms": 3,
+        "num_phish_keywords": 3,
+        "num_external_links": 2,
+        "num_non_80_port_urls": 0,
+        "subject_richness": 0.189189189189189,
+        "num_black_sheep_link": -1,
+        "num_freehost_urls": 0,
+        "num_sender_diff_url": 1,
+        "max_num_dots_urls": 2,
+        "fake_https": 0,
+        "suspicious_links": [],
+        "ner_domain_detected": false,
+        "num_black_sheep_link_global": -1,
+        "max_num_slashes_urls": 1,
+        "num_param_phish": 0,
+        "num_www_in_url_path": 0,
+        "text_and_href": 0,
+        "num_path_phish": 0,
+        "camouflage": 0,
+        "subject_phish_keywords": 1,
+        "num_html_script_tags": 0,
+        "num_black_sheep_link_phish": 0,
+        "num_shortened_urls": 0,
+        "num_of_chars": 259,
+        "num_ip_urls": 0,
+        "html_form": 0,
+        "num_tld_in_url_path": 0
     },
-    "dk_statuses": [
-        {
-            "statusDetail": "NOT_SIGNED",
-            "status": "NEUTRAL"
-        }
-    ],
-    "content": "CONTENT_DEFAULT",
     "extractedSrcUrls": [
         "cid:logo"
     ],
-    "list_unsubscribe_http_count": 0,
-    "extractedHrefUrlsDomainCount": 1,
-    "subject": "Nove heslo k webu Vyprodej slevy cz",
-    "list_unsubscribe_total_count": 0,
+    "from_match": 0,
+    "html_tr_tag_count": 8,
+    "senders": {
+        "log_cnt-w_duc_detail": [],
+        "idf_detail": [],
+        "log_ecnt_idf_detail": [],
+        "domain_keywords": "skype",
+        "log_cnt-pow_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "src_revert": "",
+        "ttf_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "domain": "skype",
+                "confidence": 6415498.30089
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_cnt_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-w_duc": "",
+        "log_ecnt-w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "tf_log_idf": "",
+        "log_cnt_idf": "",
+        "log_ecnt_idf": "",
+        "idf": "",
+        "src_revert_detail": [],
+        "plain_domain_detail": [
+            {
+                "domain": "vyprodej-slevy",
+                "confidence": 3
+            }
+        ],
+        "cnt-pow_w_duc_detail": [],
+        "plain_domain": "vyprodej-slevy",
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "tf_log_idf_detail": []
+    },
+    "pepca": "p2770ebf118791f72",
+    "rfcid_is_invalid": false,
     "extractedSrcUrlsDomainCount": 0,
-    "ahref_camouflage_count": 0,
-    "list_unsubscribe_invalid_count": 0,
-    "header_from": "info@vyprodejslevy.cz"
+    "ahref_verbal_count": 0,
+    "now": 1494598361,
+    "spfstatus_hfrom": "SPF_SOFTFAIL",
+    "pepca_inline_style": "p86aae6800cf8f29c",
+    "pepca_style_total": 0,
+    "spamscore": 1.1,
+    "dkim_efrom_match": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/9be9d09b8c8fc8de7550a6c762bfa95a.eml",
+    "attachments": [
+        {
+            "pepca": "p8f1996eb5ee9a22c",
+            "cte": "BASE64",
+            "name": "logo.png",
+            "size": 4604,
+            "flags": 0,
+            "cid": "logo",
+            "sumphash": "b6d96b3dc5997e44b8732f54efb79cd6",
+            "mime_type": "image/png"
+        }
+    ],
+    "html_tag_total_count": 57,
+    "extractedHrefUrls": [
+        "http://www.vyprodej-slevy.cz",
+        "http://www.vyprodej-slevy.cz/"
+    ]
 }

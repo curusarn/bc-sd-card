@@ -1,89 +1,6 @@
 {
-    "date_difference": -79806971,
-    "html_td_tag_count": 8,
-    "extractedEmails": [
-        "support@palmknihy.cz",
-        "support@palmknihy.cz."
-    ],
-    "list_unsubscribe_total_count": 0,
-    "from_match": 0,
-    "spf_dom_policy_registry": "Policy not found",
-    "dkim_passed_count": 2,
-    "notches": [
-        {
-            "subscores": [
-                1,
-                0.0,
-                0.1
-            ],
-            "name": [
-                "date_in_past",
-                "from_missmatch",
-                "html_a_href_camouflaging"
-            ],
-            "score": 1.1,
-            "module": "ill"
-        }
-    ],
-    "extractedHrefUrlsDomainCount": 1,
-    "first10words": " Dobry den na strance Zmena hesla jste vy nebo nekdo dalsi pozadali o nove heslo na Palmknihy cz Pokud si ",
-    "word_count": 127,
-    "pepca": "pbc27a7a706f0fa8a",
-    "extractedSrcUrlsDomainCount": 2,
-    "last10words": "vyse uvedeneho nerozumite a potrebujete poradit kontaktujte nas prosim na support palmknihy cz Vase Palmknihy cz ",
-    "extractedTxtUrlsDomainCount": 1,
-    "pepcatotal": 1,
-    "pepca_style_total": 1,
-    "extractedEmailsTotalCount": 2,
-    "mime_root_type": "multipart/alternative",
-    "extractedEmailsCardinality": 2,
-    "extractedHrefUrlsTotalCount": 2,
-    "html_tr_tag_count": 8,
-    "pepca_style": "p24174fa0ebcc3298",
-    "pepca_inline_style_total": 1,
-    "header_from_count": 1,
-    "header_total_count": 19,
-    "extractedSrcUrlsCardinality": 2,
-    "ahref_camouflage_count": 1,
-    "extractedSrcUrlsTotalCount": 2,
-    "html_tag_total_count": 55,
-    "ahref_total_count": 2,
-    "extractedEmailsDomainCount": 2,
     "dkim_hfrom_match": 0,
-    "dkstatus": "PASS",
-    "header_reply_to_count": 0,
-    "spfstatus_hfrom": "SPF_FAIL",
-    "subject_image_count": 0,
-    "extractedTxtUrlsCardinality": 3,
-    "spf_status_registry": "Status not found",
-    "rfcid_is_foreign": 0,
-    "content": "CONTENT_DEFAULT",
-    "extractedSrcUrls": [
-        "https://www.palmknihy.cz/skin/frontend/palmknihy/default/images/logo_email.gif",
-        "http://mandrillapp.com/track/open.php?u=30304294&id=409f66a9da534772901c7bb7dbd94b0b"
-    ],
-    "lang": "cs",
-    "extractedTxtUrls": [
-        "http://Palmknihy.cz.",
-        "https://www.palmknihy.cz/customer/account/resetpassword/?id=85058&token=0f075f2f4b36564bb01ebf2a4c7a02c8",
-        "http://Palmknihy.cz"
-    ],
-    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/32d06e4c79d7199a165df4a60559f4cd.eml",
-    "spamscore": 1.1,
-    "attachments": [],
-    "dk_statuses": [
-        {
-            "status": "PASS",
-            "selector": "mandrill",
-            "domain": "mail135.wdc04.mandrillapp.com"
-        },
-        {
-            "status": "PASS",
-            "selector": "mandrill",
-            "domain": "mandrillapp.com"
-        }
-    ],
-    "dkdomain": "mail135.wdc04.mandrillapp.com",
+    "from_match": 0,
     "phashes": [
         {
             "name": "pepca",
@@ -98,132 +15,215 @@
             "value": "p6abcc0aea378b325"
         }
     ],
-    "pepca_inline_style": "p6abcc0aea378b325",
-    "rcpts_count": 1,
-    "self_send": 0,
-    "now": 1494598228,
-    "mime_children_count": 2,
-    "ahref_verbal_count": 0,
-    "extractedTxtUrlsTotalCount": 3,
-    "subject_word_count": 6,
-    "spf_domain_policy": "UNKNOWN",
-    "dkim_count": 2,
-    "rfcid_is_invalid": false,
-    "header_from": "support@palmknihy.cz",
-    "list_unsubscribe_mailto_count": 0,
-    "rfcid_length": 77,
-    "html_in_text_plain_count": 0,
-    "extractedHrefUrlsCardinality": 2,
-    "html_script_tag_count": 0,
-    "dkim_efrom_match": 0,
-    "adscore": 0,
-    "mime_children_types": [
-        "text/plain",
-        "text/html"
+    "list_unsubscribe_invalid_count": 0,
+    "extractedSrcUrls": [
+        "https://www.palmknihy.cz/skin/frontend/palmknihy/default/images/logo_email.gif",
+        "http://mandrillapp.com/track/open.php?u=30304294&id=409f66a9da534772901c7bb7dbd94b0b"
     ],
-    "dkim_signs_cnt": 2,
-    "spfstatus": "NONE",
+    "ahref_verbal_count": 0,
+    "subject_image_count": 0,
+    "dkselector": "mandrill",
+    "date_difference": -79806971,
+    "header_total_count": 19,
+    "dk_statuses": [
+        {
+            "domain": "mail135.wdc04.mandrillapp.com",
+            "status": "PASS",
+            "selector": "mandrill"
+        },
+        {
+            "domain": "mandrillapp.com",
+            "status": "PASS",
+            "selector": "mandrill"
+        }
+    ],
+    "extractedEmails": [
+        "support@palmknihy.cz",
+        "support@palmknihy.cz."
+    ],
+    "precedence": 3,
+    "spamtrap_hit": false,
+    "pepca_style": "p24174fa0ebcc3298",
+    "subject": "Potvrzeni zmeny hesla pro radek jelinek",
+    "header_from": "support@palmknihy.cz",
+    "spamscore": 1.1,
+    "self_send": 0,
+    "dkstatus": "PASS",
+    "pepca_style_total": 1,
+    "lang": "cs",
     "extractedHrefUrls": [
         "http://mandrillapp.com/track/click/30304294/www.palmknihy.cz?p=eyJzIjoiTmI2MEJMQzlxeThJdnhvNFN1OWNxVjM2Qm1ZIiwidiI6MSwicCI6IntcI",
         "http://mandrillapp.com/track/click/30304294/www.palmknihy.cz?p=eyJzIjoiUS1lMWJQbUFiaDlBdjgzbDhmeGltdVAzUGhjIiwidiI6MSwicCI6IntcI"
     ],
-    "spamtrap_hit": false,
-    "precedence": 3,
-    "list_unsubscribe_http_count": 0,
-    "dkselector": "mandrill",
+    "rfcid_is_foreign": 0,
+    "spf_status_registry": "Status not found",
+    "spf_dom_policy_registry": "Policy not found",
+    "dkim_count": 2,
+    "list_unsubscribe_total_count": 0,
+    "now": 1494598228,
+    "header_reply_to_count": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/32d06e4c79d7199a165df4a60559f4cd.eml",
+    "ahref_camouflage_count": 1,
+    "html_tag_total_count": 55,
+    "rfcid_length": 77,
+    "extractedHrefUrlsDomainCount": 1,
+    "extractedTxtUrls": [
+        "http://Palmknihy.cz.",
+        "https://www.palmknihy.cz/customer/account/resetpassword/?id=85058&token=0f075f2f4b36564bb01ebf2a4c7a02c8",
+        "http://Palmknihy.cz"
+    ],
+    "pepca_inline_style": "p6abcc0aea378b325",
+    "subject_word_count": 6,
+    "html_tr_tag_count": 8,
+    "pepcatotal": 1,
+    "html_script_tag_count": 0,
+    "last10words": "vyse uvedeneho nerozumite a potrebujete poradit kontaktujte nas prosim na support palmknihy cz Vase Palmknihy cz ",
+    "dkim_passed_count": 2,
+    "extractedHrefUrlsTotalCount": 2,
+    "mime_children_types": [
+        "text/plain",
+        "text/html"
+    ],
+    "ahref_total_count": 2,
+    "list_unsubscribe_mailto_count": 0,
+    "extractedEmailsTotalCount": 2,
+    "rcpts_count": 1,
+    "extractedEmailsDomainCount": 2,
+    "phish_score": 0,
     "phishing": {
-        "body_richness": 0.13804347826087,
-        "num_black_sheep_link": -1,
-        "subject_richness": 0.13953488372093,
-        "max_num_slashes_urls": 4,
-        "num_https_urls": 2,
-        "camouflage": 1,
-        "ner_domain_detected": false,
-        "html_form": 0,
-        "num_subdomain_phish": 0,
-        "num_external_links": 4,
-        "fake_https": 1,
-        "num_html_script_tags": 0,
-        "num_freehost_urls": 0,
-        "num_phish_keywords": 7,
-        "suspicious_links": [],
-        "num_sender_diff_url": 1,
-        "text_and_href": 0,
         "subject_phish_keywords": 2,
-        "num_www_in_url_path": 0,
+        "html_form": 0,
+        "num_black_sheep_link": -1,
         "num_domain_phish": 0,
-        "num_of_chars": 919,
-        "num_ip_urls": 0,
-        "num_path_phish": 0,
-        "num_param_phish": 0,
-        "max_num_dots_urls": 3,
-        "num_tld_in_url_path": 0,
-        "is_html": true,
-        "num_black_sheep_link_phish": 0,
-        "num_non_80_port_urls": 0,
-        "num_text_forms": 1,
+        "num_shortened_urls": 0,
+        "num_phish_keywords": 7,
+        "num_www_in_url_path": 0,
+        "num_external_links": 4,
         "num_black_sheep_link_global": -1,
+        "num_black_sheep_link_phish": 0,
+        "is_html": true,
+        "num_sender_diff_url": 1,
+        "num_tld_in_url_path": 0,
+        "text_and_href": 0,
+        "ner_domain_detected": false,
+        "max_num_dots_urls": 3,
+        "camouflage": 1,
+        "num_text_forms": 1,
+        "num_https_urls": 2,
+        "body_richness": 0.13804347826087,
+        "num_ip_urls": 0,
+        "num_html_script_tags": 0,
+        "subject_richness": 0.13953488372093,
+        "fake_https": 1,
+        "suspicious_links": [],
+        "num_of_chars": 919,
         "text_link_with_path": 1,
-        "num_shortened_urls": 0
+        "num_path_phish": 0,
+        "num_subdomain_phish": 0,
+        "max_num_slashes_urls": 4,
+        "num_param_phish": 0,
+        "num_non_80_port_urls": 0,
+        "num_freehost_urls": 0
     },
+    "dkim_efrom_match": 0,
+    "extractedSrcUrlsCardinality": 2,
+    "extractedTxtUrlsDomainCount": 1,
+    "header_from_count": 1,
+    "extractedSrcUrlsTotalCount": 2,
+    "spf_domain_policy": "UNKNOWN",
+    "dkim_signs_cnt": 2,
+    "extractedSrcUrlsDomainCount": 2,
+    "adscore": 0,
+    "pepca_inline_style_total": 1,
+    "extractedEmailsCardinality": 2,
     "senders": {
-        "domain_keywords": "paypal",
-        "log_ecnt_idf": "",
-        "log_cnt-w_duc_detail": [],
-        "log_cnt_idf_log_tidf_detail": [],
-        "log_ecnt-w_duc": "",
-        "idf_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
         "log_cnt_idf_log_tidf": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf": "",
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_ecnt-w_duc_detail": [],
         "log_cnt-pow4_w_duc": "",
-        "plain_domain_detail": [
+        "log_ecnt_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "idf": "",
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "src_revert_detail": [
             {
-                "domain": "palmknihy",
-                "confidence": 2
+                "confidence": 1,
+                "domain": "palmknihy"
+            },
+            {
+                "confidence": 1,
+                "domain": "topsrovnani"
             }
         ],
+        "log_cnt-w_duc": "",
+        "plain_domain_detail": [
+            {
+                "confidence": 2,
+                "domain": "palmknihy"
+            }
+        ],
+        "log_ecnt-w_duc": "",
         "log_cnt-pow_w_duc": "",
-        "log_cnt_idf_detail": [],
-        "log_ecnt_log_idf_log_tidf_detail": [],
-        "tf_log_idf_detail": [],
+        "cnt-pow_w_duc": "",
+        "src_revert": "palmknihy",
         "ttf_w_duc_detail": [],
-        "cnt-pow_w_duc_detail": [],
-        "log_cnt-pow4_w_duc_detail": [],
-        "ettf_w_duc": "",
-        "log_ecnt_idf_detail": [],
-        "ttf_w_duc": "",
+        "log_cnt_idf_log_tidf_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt_idf_detail": [],
         "plain_domain": "palmknihy",
         "domain_keywords_detail": [
             {
-                "domain": "paypal",
-                "confidence": 14305082.6583221
+                "confidence": 14305082.6583221,
+                "domain": "paypal"
             }
         ],
-        "cnt-pow_w_duc": "",
-        "cnt-pow4_w_duc": "",
         "log_cnt-pow_w_duc_detail": [],
-        "ettf_w_duc_detail": [],
-        "log_ecnt-w_duc_detail": [],
+        "domain_keywords": "paypal",
         "log_cnt_idf": "",
-        "tf_log_idf": "",
-        "src_revert_detail": [
-            {
-                "domain": "palmknihy",
-                "confidence": 1
-            },
-            {
-                "domain": "topsrovnani",
-                "confidence": 1
-            }
-        ],
-        "log_ecnt_log_idf_log_tidf": "",
-        "log_cnt-w_duc": "",
-        "cnt-pow4_w_duc_detail": [],
-        "idf": "",
-        "log_ecnt_idf_log_tidf": "",
-        "log_ecnt_idf_log_tidf_detail": [],
-        "src_revert": "palmknihy"
+        "log_ecnt_idf_log_tidf_detail": []
     },
-    "phish_score": 0,
-    "subject": "Potvrzeni zmeny hesla pro radek jelinek",
-    "list_unsubscribe_invalid_count": 0
+    "word_count": 127,
+    "html_td_tag_count": 8,
+    "rfcid_is_invalid": false,
+    "mime_root_type": "multipart/alternative",
+    "content": "CONTENT_DEFAULT",
+    "dkdomain": "mail135.wdc04.mandrillapp.com",
+    "extractedTxtUrlsCardinality": 3,
+    "list_unsubscribe_http_count": 0,
+    "spfstatus": "NONE",
+    "first10words": " Dobry den na strance Zmena hesla jste vy nebo nekdo dalsi pozadali o nove heslo na Palmknihy cz Pokud si ",
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "html_in_text_plain_count": 0,
+    "extractedHrefUrlsCardinality": 2,
+    "extractedTxtUrlsTotalCount": 3,
+    "pepca": "pbc27a7a706f0fa8a",
+    "mime_children_count": 2,
+    "spfstatus_hfrom": "SPF_FAIL"
 }

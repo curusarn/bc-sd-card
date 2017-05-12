@@ -1,215 +1,215 @@
 {
-    "notches": [
+    "spf_domain_policy": "UNKNOWN",
+    "subject_word_count": 3,
+    "last10words": "5 e mail info pizzasprint cz web www pizzasprint cz facebook facebook com pizzasprintcz Casy rozvoru a obchodni podminky ",
+    "spfstatus": "NONE",
+    "header_from": "info@pizzasprint.cz",
+    "dkim_passed_count": 0,
+    "header_total_count": 21,
+    "phashes": [
         {
-            "subscores": [
-                1,
-                0.0,
-                0.1
-            ],
-            "score": 1.1,
-            "module": "ill",
-            "name": [
-                "date_in_past",
-                "from_missmatch",
-                "foreign_message_id"
-            ]
+            "name": "pepca",
+            "value": "pf8ade5b28008acac"
+        },
+        {
+            "name": "pepca_style",
+            "value": "p668a44e862ef4efa"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p848bf5e4c4a81300"
         }
     ],
+    "self_send": 0,
+    "header_from_count": 1,
+    "phish_score": 0,
+    "html_in_text_plain_count": 0,
+    "rcpts_count": 1,
+    "extractedEmails": [
+        "info@pizzasprint.cz",
+        "machova@gmail.com"
+    ],
+    "spf_dom_policy_registry": "Policy not found",
+    "dkim_hfrom_match": 0,
+    "list_unsubscribe_total_count": 0,
+    "ahref_total_count": 4,
+    "extractedEmailsDomainCount": 2,
+    "html_td_tag_count": 28,
+    "spamtrap_hit": false,
+    "mime_children_types": [
+        "text/plain",
+        "text/html"
+    ],
+    "extractedTxtUrlsCardinality": 3,
+    "lang": "cs",
+    "first10words": " Pizza Sprint VAZENY ZAKAZNIKU dekujeme za Vasi objednavku na PizzaSprint cz Timto e mailem potvrzujeme ze jsme v poradku p",
+    "extractedEmailsCardinality": 2,
+    "header_reply_to_count": 0,
+    "date_difference": -73698028,
+    "extractedEmailsTotalCount": 2,
+    "spamscore": 1.1,
+    "dkim_signs_cnt": 1,
+    "unsub_link": "http://www.pizzasprint.cz/#rozvoz",
+    "pepca_style": "p668a44e862ef4efa",
+    "html_script_tag_count": 0,
+    "extractedHrefUrlsCardinality": 3,
+    "adscore": 0,
+    "list_unsubscribe_http_count": 0,
+    "extractedHrefUrlsTotalCount": 3,
+    "content": "CONTENT_DEFAULT",
+    "rfcid_length": 29,
+    "extractedTxtUrlsDomainCount": 2,
+    "dkim_count": 0,
+    "subject": "Objednavka Pizza Sprint",
+    "unsub_link_texts": [
+        " casy rozvor a obchodny podminka "
+    ],
+    "pepcatotal": 0,
+    "mime_root_type": "multipart/alternative",
+    "ahref_camouflage_count": 0,
+    "dkStatusDetail": "NOT_SIGNED",
+    "dk_statuses": [
+        {
+            "status": "NEUTRAL",
+            "statusDetail": "NOT_SIGNED"
+        }
+    ],
+    "list_unsubscribe_mailto_count": 0,
+    "rfcid_is_foreign": 1,
+    "dkstatus": "NEUTRAL",
+    "mime_children_count": 2,
+    "extractedHrefUrlsDomainCount": 2,
+    "word_count": 163,
+    "list_unsubscribe_invalid_count": 0,
+    "precedence": 3,
     "extractedTxtUrls": [
         "http://www.pizzasprint.cz",
         "http://PizzaSprint.cz.",
         "http://facebook.com/pizzasprintcz"
     ],
-    "spfstatus": "NONE",
-    "mime_root_type": "multipart/alternative",
-    "header_from_count": 1,
-    "now": 1494598249,
-    "dkim_efrom_match": 0,
+    "spf_status_registry": "Status not found",
+    "extractedTxtUrlsTotalCount": 3,
+    "phishing": {
+        "is_html": true,
+        "num_subdomain_phish": 0,
+        "body_richness": 0.17470525187567,
+        "num_domain_phish": 0,
+        "num_https_urls": 1,
+        "text_link_with_path": 1,
+        "num_text_forms": 9,
+        "num_phish_keywords": 0,
+        "num_external_links": 3,
+        "num_non_80_port_urls": 0,
+        "subject_richness": 0.12,
+        "num_black_sheep_link": -1,
+        "num_freehost_urls": 0,
+        "num_sender_diff_url": 1,
+        "max_num_dots_urls": 2,
+        "fake_https": 0,
+        "suspicious_links": [],
+        "ner_domain_detected": false,
+        "num_black_sheep_link_global": -1,
+        "max_num_slashes_urls": 1,
+        "num_param_phish": 0,
+        "num_www_in_url_path": 0,
+        "text_and_href": 1,
+        "num_path_phish": 0,
+        "camouflage": 0,
+        "subject_phish_keywords": 0,
+        "num_html_script_tags": 0,
+        "num_black_sheep_link_phish": 0,
+        "num_shortened_urls": 0,
+        "num_of_chars": 932,
+        "num_ip_urls": 0,
+        "html_form": 0,
+        "num_tld_in_url_path": 0
+    },
+    "extractedSrcUrls": [],
+    "from_match": 0,
+    "html_tr_tag_count": 12,
+    "senders": {
+        "log_cnt-w_duc_detail": [],
+        "idf_detail": [],
+        "log_ecnt_idf_detail": [],
+        "domain_keywords": "svkhk",
+        "log_cnt-pow_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "src_revert": "",
+        "ttf_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "domain": "svkhk",
+                "confidence": 4449680.988174
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_cnt_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-w_duc": "",
+        "log_ecnt-w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "tf_log_idf": "",
+        "log_cnt_idf": "",
+        "log_ecnt_idf": "",
+        "idf": "",
+        "src_revert_detail": [],
+        "plain_domain_detail": [
+            {
+                "domain": "pizzasprint",
+                "confidence": 2
+            }
+        ],
+        "cnt-pow_w_duc_detail": [],
+        "plain_domain": "pizzasprint",
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "tf_log_idf_detail": []
+    },
     "pepca_inline_style_total": 0,
-    "rcpts_count": 1,
-    "extractedEmailsTotalCount": 2,
+    "rfcid_is_invalid": false,
+    "pepca": "pf8ade5b28008acac",
+    "ahref_verbal_count": 1,
+    "now": 1494598249,
+    "spfstatus_hfrom": "SPF_NONE",
     "pepca_inline_style": "p848bf5e4c4a81300",
     "pepca_style_total": 0,
-    "dkim_hfrom_match": 0,
-    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/4228f71d5e3c52b15923bb08a0d6f330.eml.eml",
-    "html_td_tag_count": 28,
-    "extractedHrefUrlsCardinality": 3,
-    "list_unsubscribe_mailto_count": 0,
-    "subject_word_count": 3,
-    "lang": "cs",
-    "precedence": 3,
-    "phishing": {
-        "num_html_script_tags": 0,
-        "num_text_forms": 9,
-        "fake_https": 0,
-        "is_html": true,
-        "num_non_80_port_urls": 0,
-        "num_https_urls": 1,
-        "num_of_chars": 932,
-        "num_param_phish": 0,
-        "text_and_href": 1,
-        "body_richness": 0.17470525187567,
-        "text_link_with_path": 1,
-        "max_num_slashes_urls": 1,
-        "num_shortened_urls": 0,
-        "num_sender_diff_url": 1,
-        "num_ip_urls": 0,
-        "num_black_sheep_link": -1,
-        "subject_richness": 0.12,
-        "num_tld_in_url_path": 0,
-        "subject_phish_keywords": 0,
-        "num_black_sheep_link_global": -1,
-        "num_black_sheep_link_phish": 0,
-        "num_path_phish": 0,
-        "suspicious_links": [],
-        "html_form": 0,
-        "num_phish_keywords": 0,
-        "num_subdomain_phish": 0,
-        "num_domain_phish": 0,
-        "ner_domain_detected": false,
-        "camouflage": 0,
-        "num_freehost_urls": 0,
-        "num_external_links": 3,
-        "max_num_dots_urls": 2,
-        "num_www_in_url_path": 0
-    },
-    "spf_status_registry": "Status not found",
-    "rfcid_is_foreign": 1,
-    "from_match": 0,
-    "first10words": " Pizza Sprint VAZENY ZAKAZNIKU dekujeme za Vasi objednavku na PizzaSprint cz Timto e mailem potvrzujeme ze jsme v poradku p",
-    "extractedTxtUrlsDomainCount": 2,
-    "spf_domain_policy": "UNKNOWN",
-    "header_total_count": 21,
-    "dkim_passed_count": 0,
-    "extractedTxtUrlsCardinality": 3,
-    "dkim_signs_cnt": 1,
-    "mime_children_types": [
-        "text/plain",
-        "text/html"
-    ],
-    "ahref_verbal_count": 1,
     "subject_image_count": 0,
-    "phish_score": 0,
-    "rfcid_is_invalid": false,
-    "dkstatus": "NEUTRAL",
-    "unsub_link_texts": [
-        " casy rozvor a obchodny podminka "
-    ],
-    "phashes": [
-        {
-            "value": "pf8ade5b28008acac",
-            "name": "pepca"
-        },
-        {
-            "value": "p668a44e862ef4efa",
-            "name": "pepca_style"
-        },
-        {
-            "value": "p848bf5e4c4a81300",
-            "name": "pepca_inline_style"
-        }
-    ],
-    "extractedTxtUrlsTotalCount": 3,
-    "self_send": 0,
+    "dkim_efrom_match": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/4228f71d5e3c52b15923bb08a0d6f330.eml.eml",
     "attachments": [],
-    "html_tr_tag_count": 12,
-    "extractedEmails": [
-        "info@pizzasprint.cz",
-        "machova@gmail.com"
-    ],
     "html_tag_total_count": 128,
-    "mime_children_count": 2,
-    "spamtrap_hit": false,
-    "extractedEmailsDomainCount": 2,
-    "extractedHrefUrlsTotalCount": 3,
-    "spamscore": 1.1,
-    "ahref_total_count": 4,
-    "extractedEmailsCardinality": 2,
-    "list_unsubscribe_http_count": 0,
-    "dkim_count": 0,
-    "adscore": 0,
-    "pepca": "pf8ade5b28008acac",
-    "dkStatusDetail": "NOT_SIGNED",
-    "unsub_link_candidates": [
-        "http://www.pizzasprint.cz/#rozvoz"
-    ],
-    "html_script_tag_count": 0,
-    "date_difference": -73698028,
-    "html_in_text_plain_count": 0,
-    "pepca_style": "p668a44e862ef4efa",
-    "word_count": 163,
-    "rfcid_length": 29,
-    "spf_dom_policy_registry": "Policy not found",
-    "unsub_link": "http://www.pizzasprint.cz/#rozvoz",
-    "last10words": "5 e mail info pizzasprint cz web www pizzasprint cz facebook facebook com pizzasprintcz Casy rozvoru a obchodni podminky ",
     "extractedHrefUrls": [
         "http://www.pizzasprint.cz",
         "https://www.facebook.com/pizzasprintcz",
         "http://www.pizzasprint.cz/#rozvoz"
     ],
-    "spfstatus_hfrom": "SPF_NONE",
-    "header_reply_to_count": 0,
-    "senders": {
-        "log_cnt_idf_detail": [],
-        "log_ecnt_idf_detail": [],
-        "tf_log_idf": "",
-        "log_cnt-pow4_w_duc": "",
-        "log_ecnt_idf_log_tidf_detail": [],
-        "cnt-pow_w_duc_detail": [],
-        "cnt-pow_w_duc": "",
-        "log_ecnt-w_duc_detail": [],
-        "idf": "",
-        "cnt-pow4_w_duc_detail": [],
-        "ttf_w_duc_detail": [],
-        "ettf_w_duc_detail": [],
-        "log_cnt-w_duc": "",
-        "src_revert": "",
-        "log_cnt_idf_log_tidf_detail": [],
-        "log_cnt_idf_log_tidf": "",
-        "log_cnt-pow4_w_duc_detail": [],
-        "log_cnt-pow_w_duc": "",
-        "cnt-pow4_w_duc": "",
-        "plain_domain": "pizzasprint",
-        "src_revert_detail": [],
-        "log_ecnt_log_idf_log_tidf": "",
-        "log_ecnt_idf_log_tidf": "",
-        "log_cnt-pow_w_duc_detail": [],
-        "ttf_w_duc": "",
-        "plain_domain_detail": [
-            {
-                "confidence": 2,
-                "domain": "pizzasprint"
-            }
-        ],
-        "log_ecnt_idf": "",
-        "tf_log_idf_detail": [],
-        "ettf_w_duc": "",
-        "idf_detail": [],
-        "log_ecnt_log_idf_log_tidf_detail": [],
-        "domain_keywords_detail": [
-            {
-                "confidence": 4449680.988174,
-                "domain": "svkhk"
-            }
-        ],
-        "domain_keywords": "svkhk",
-        "log_cnt-w_duc_detail": [],
-        "log_ecnt-w_duc": "",
-        "log_cnt_idf": ""
-    },
-    "pepcatotal": 0,
-    "content": "CONTENT_DEFAULT",
-    "extractedSrcUrls": [],
-    "extractedHrefUrlsDomainCount": 2,
-    "subject": "Objednavka Pizza Sprint",
-    "list_unsubscribe_total_count": 0,
-    "dk_statuses": [
-        {
-            "statusDetail": "NOT_SIGNED",
-            "status": "NEUTRAL"
-        }
+    "unsub_link_candidates": [
+        "http://www.pizzasprint.cz/#rozvoz"
     ],
-    "ahref_camouflage_count": 0,
-    "list_unsubscribe_invalid_count": 0,
-    "header_from": "info@pizzasprint.cz"
+    "notches": [
+        {
+            "score": 1.1,
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "module": "ill"
+        }
+    ]
 }

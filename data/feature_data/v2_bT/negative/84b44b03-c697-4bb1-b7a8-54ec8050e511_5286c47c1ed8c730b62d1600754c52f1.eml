@@ -1,108 +1,5 @@
 {
-    "date_difference": -75957758,
-    "html_td_tag_count": 242,
-    "list_unsubscribe_total_count": 0,
-    "precedence": 3,
-    "spfstatus_hfrom": "SPF_SOFTFAIL",
-    "dkim_passed_count": 0,
-    "unsub_link_candidates": [
-        "http://www.lekarna.cz/shop.php?action=cancel_order&order_id=562389914&s=14c8664b2682ef69f4a6f5cef301cb8b"
-    ],
-    "notches": [
-        {
-            "subscores": [
-                1,
-                0.0,
-                0.1
-            ],
-            "name": [
-                "date_in_past",
-                "from_missmatch",
-                "foreign_message_id"
-            ],
-            "score": 1.1,
-            "module": "ill"
-        }
-    ],
-    "extractedHrefUrlsDomainCount": 1,
-    "first10words": " Objednavka c 562389914 Mila klientko mily kliente dekujeme za Vasi objednavku na Lekarna cz H",
-    "word_count": 724,
-    "pepca": "p606089cd9c5a4f28",
-    "extractedSrcUrlsDomainCount": 1,
-    "last10words": " IC 257 84 684 DIC CZ 257 84 684 Lekarna cz Tam me maji radi www lekarna cz krasny den preje Jana ",
-    "extractedTxtUrlsDomainCount": 3,
-    "pepcatotal": 0,
-    "pepca_style_total": 0,
-    "unsub_link": "http://www.lekarna.cz/shop.php?action=cancel_order&order_id=562389914&s=14c8664b2682ef69f4a6f5cef301cb8b",
-    "extractedEmails": [
-        "obchod@lekarna.cz"
-    ],
-    "mime_root_type": "multipart/mixed",
-    "extractedEmailsCardinality": 1,
-    "extractedHrefUrlsTotalCount": 6,
-    "html_tr_tag_count": 92,
-    "pepca_style": "",
-    "dkStatusDetail": "NOT_SIGNED",
-    "header_from_count": 1,
-    "header_total_count": 13,
-    "dk_statuses": [
-        {
-            "status": "NEUTRAL",
-            "statusDetail": "NOT_SIGNED"
-        }
-    ],
-    "ahref_camouflage_count": 0,
-    "extractedSrcUrlsTotalCount": 3,
-    "html_tag_total_count": 529,
-    "header_reply_to_count": 0,
-    "extractedEmailsDomainCount": 1,
     "dkim_hfrom_match": 0,
-    "dkstatus": "NEUTRAL",
-    "ahref_total_count": 7,
-    "subject_image_count": 0,
-    "extractedTxtUrlsCardinality": 3,
-    "spf_domain_policy": "UNKNOWN",
-    "spf_status_registry": "Status not found",
-    "rfcid_is_foreign": 1,
-    "content": "CONTENT_DEFAULT",
-    "extractedSrcUrls": [
-        "http://www.lekarna.cz/inc/templates3/cze/img/email/logo.gif",
-        "http://www.lekarna.cz/inc/templates3/cze/img/vanoce2014/thank-you-mail-soutez.jpg",
-        "http://www.lekarna.cz/inc/templates3/cze/img/email/footer.gif"
-    ],
-    "lang": "cs",
-    "extractedTxtUrls": [
-        "http://www.lekarna.cz",
-        "http://rna.cz",
-        "http://rny.cz"
-    ],
-    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/5286c47c1ed8c730b62d1600754c52f1.eml",
-    "spamscore": 1.1,
-    "attachments": [
-        {
-            "flags": 0,
-            "cte": "BASE64",
-            "name": "vseobecne-obchodni-podminky.pdf",
-            "size": 114799,
-            "mime_type": "application/pdf",
-            "sumphash": "c671d672fd1b682ee621a537ab1ce3dd",
-            "first10words": "Obchodni podminky Obchodni podminky spolecnosti PEARS HEALTH CYBER s r",
-            "lang": "cs",
-            "pepca": "p954a7c36143ecdf0"
-        },
-        {
-            "flags": 0,
-            "cte": "BASE64",
-            "name": "informace-o-podminkach-odstoupeni-od-kupni-smlouvy.pdf",
-            "size": 91034,
-            "mime_type": "application/pdf",
-            "sumphash": "a266970b8c7a9d17c6605422400ed737",
-            "first10words": "Informace o podminkach odstoupeni od kupni smlouvy Pravo odstoupit od",
-            "lang": "cs",
-            "pepca": "pb093a20c54d9a2af"
-        }
-    ],
-    "extractedSrcUrlsCardinality": 3,
     "from_match": 0,
     "phashes": [
         {
@@ -122,6 +19,40 @@
             "value": "pc76537188763a9f1"
         }
     ],
+    "list_unsubscribe_invalid_count": 0,
+    "extractedSrcUrls": [
+        "http://www.lekarna.cz/inc/templates3/cze/img/email/logo.gif",
+        "http://www.lekarna.cz/inc/templates3/cze/img/vanoce2014/thank-you-mail-soutez.jpg",
+        "http://www.lekarna.cz/inc/templates3/cze/img/email/footer.gif"
+    ],
+    "ahref_verbal_count": 4,
+    "subject_image_count": 0,
+    "phish_score": 0,
+    "date_difference": -75957758,
+    "header_total_count": 13,
+    "dk_statuses": [
+        {
+            "statusDetail": "NOT_SIGNED",
+            "status": "NEUTRAL"
+        }
+    ],
+    "extractedEmails": [
+        "obchod@lekarna.cz"
+    ],
+    "precedence": 3,
+    "spamtrap_hit": false,
+    "pepca_style": "",
+    "unsub_link": "http://www.lekarna.cz/shop.php?action=cancel_order&order_id=562389914&s=14c8664b2682ef69f4a6f5cef301cb8b",
+    "subject": "Objednavka c 562389914",
+    "header_from": "obchod@lekarna.cz",
+    "spamscore": 1.1,
+    "self_send": 0,
+    "dkstatus": "NEUTRAL",
+    "pepca_style_total": 0,
+    "unsub_link_candidates": [
+        "http://www.lekarna.cz/shop.php?action=cancel_order&order_id=562389914&s=14c8664b2682ef69f4a6f5cef301cb8b"
+    ],
+    "lang": "cs",
     "extractedHrefUrls": [
         "http://www.lekarna.cz/",
         "http://www.lekarna.cz/jak-nakupovat/#orderStatusInfo",
@@ -129,136 +60,205 @@
         "http://www.lekarna.cz/shop.php?action=cancel_order&order_id=562389914&s=14c8664b2682ef69f4a6f5cef301cb8b",
         "http://www.lekarna.cz"
     ],
-    "pepca_inline_style": "pc76537188763a9f1",
-    "pepca_inline_style_total": 0,
-    "self_send": 0,
-    "now": 1494598268,
-    "mime_children_count": 3,
-    "ahref_verbal_count": 4,
-    "extractedTxtUrlsTotalCount": 3,
-    "subject_word_count": 3,
-    "rcpts_count": 1,
-    "dkim_count": 0,
+    "rfcid_is_foreign": 1,
+    "spf_status_registry": "Status not found",
+    "spf_dom_policy_registry": "Policy not found",
     "unsub_link_texts": [
         "to je mozny zde v priloha naleznout aktualni obchodny podminka a informace o podminka odstoupeni od kupny smlouva"
     ],
-    "rfcid_is_invalid": false,
-    "header_from": "obchod@lekarna.cz",
-    "list_unsubscribe_mailto_count": 0,
+    "dkim_count": 0,
+    "list_unsubscribe_total_count": 0,
+    "now": 1494598268,
+    "header_reply_to_count": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/5286c47c1ed8c730b62d1600754c52f1.eml",
+    "ahref_camouflage_count": 0,
+    "html_tag_total_count": 529,
     "rfcid_length": 47,
-    "html_in_text_plain_count": 0,
-    "extractedHrefUrlsCardinality": 6,
+    "extractedHrefUrlsDomainCount": 1,
+    "extractedTxtUrls": [
+        "http://www.lekarna.cz",
+        "http://rna.cz",
+        "http://rny.cz"
+    ],
+    "pepca_inline_style": "pc76537188763a9f1",
+    "html_tr_tag_count": 92,
+    "pepcatotal": 0,
     "html_script_tag_count": 0,
-    "dkim_efrom_match": 0,
-    "adscore": 0,
+    "last10words": " IC 257 84 684 DIC CZ 257 84 684 Lekarna cz Tam me maji radi www lekarna cz krasny den preje Jana ",
+    "dkim_passed_count": 0,
+    "extractedHrefUrlsTotalCount": 6,
     "mime_children_types": [
         "text/html",
         "application/pdf",
         "application/pdf"
     ],
-    "dkim_signs_cnt": 1,
-    "spfstatus": "NONE",
+    "ahref_total_count": 7,
+    "list_unsubscribe_mailto_count": 0,
     "extractedEmailsTotalCount": 1,
-    "spamtrap_hit": false,
-    "spf_dom_policy_registry": "Policy not found",
-    "list_unsubscribe_http_count": 0,
+    "dkStatusDetail": "NOT_SIGNED",
+    "rcpts_count": 1,
+    "extractedEmailsDomainCount": 1,
     "phishing": {
-        "body_richness": 0.222906403940887,
-        "num_black_sheep_link": -1,
-        "subject_richness": 0.115384615384615,
-        "max_num_slashes_urls": 2,
-        "num_https_urls": 0,
-        "camouflage": 0,
-        "ner_domain_detected": false,
-        "html_form": 0,
-        "num_subdomain_phish": 0,
-        "num_external_links": 8,
-        "fake_https": 0,
-        "num_html_script_tags": 0,
-        "num_freehost_urls": 0,
-        "num_phish_keywords": 1,
-        "suspicious_links": [],
-        "num_sender_diff_url": 2,
-        "text_and_href": 1,
         "subject_phish_keywords": 0,
-        "num_www_in_url_path": 0,
+        "html_form": 0,
+        "num_black_sheep_link": -1,
         "num_domain_phish": 0,
-        "num_of_chars": 3247,
-        "num_ip_urls": 0,
-        "num_path_phish": 0,
-        "num_param_phish": 0,
-        "max_num_dots_urls": 4,
-        "num_tld_in_url_path": 0,
-        "is_html": true,
-        "num_black_sheep_link_phish": 0,
-        "num_non_80_port_urls": 0,
-        "num_text_forms": 1,
+        "num_shortened_urls": 0,
+        "num_phish_keywords": 1,
+        "num_www_in_url_path": 0,
+        "num_external_links": 8,
         "num_black_sheep_link_global": -1,
+        "num_black_sheep_link_phish": 0,
+        "is_html": true,
+        "num_sender_diff_url": 2,
+        "num_tld_in_url_path": 0,
+        "text_and_href": 1,
+        "ner_domain_detected": false,
+        "max_num_dots_urls": 4,
+        "camouflage": 0,
+        "num_text_forms": 1,
+        "num_https_urls": 0,
+        "body_richness": 0.222906403940887,
+        "num_ip_urls": 0,
+        "num_html_script_tags": 0,
+        "subject_richness": 0.115384615384615,
+        "fake_https": 0,
+        "suspicious_links": [],
+        "num_of_chars": 3247,
         "text_link_with_path": 0,
-        "num_shortened_urls": 0
+        "num_path_phish": 0,
+        "num_subdomain_phish": 0,
+        "max_num_slashes_urls": 2,
+        "num_param_phish": 0,
+        "num_non_80_port_urls": 0,
+        "num_freehost_urls": 0
     },
+    "dkim_efrom_match": 0,
+    "extractedSrcUrlsCardinality": 3,
+    "extractedTxtUrlsDomainCount": 3,
+    "header_from_count": 1,
+    "extractedSrcUrlsTotalCount": 3,
+    "spf_domain_policy": "UNKNOWN",
+    "dkim_signs_cnt": 1,
+    "extractedSrcUrlsDomainCount": 1,
+    "adscore": 0,
+    "pepca_inline_style_total": 0,
+    "extractedEmailsCardinality": 1,
     "senders": {
-        "domain_keywords": "lekarna",
-        "log_ecnt_idf": "",
-        "log_cnt-w_duc_detail": [],
-        "log_cnt_idf_log_tidf_detail": [],
-        "log_ecnt-w_duc": "",
-        "idf_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
         "log_cnt_idf_log_tidf": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf": "",
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_ecnt-w_duc_detail": [],
         "log_cnt-pow4_w_duc": "",
-        "plain_domain_detail": [
+        "log_ecnt_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "idf": "",
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "src_revert_detail": [
             {
-                "domain": "lekarna",
-                "confidence": 2
-            },
-            {
-                "domain": "rna",
-                "confidence": 1
-            },
-            {
-                "domain": "rny",
-                "confidence": 1
+                "confidence": 3,
+                "domain": "lekarna"
             }
         ],
+        "log_cnt-w_duc": "",
+        "plain_domain_detail": [
+            {
+                "confidence": 2,
+                "domain": "lekarna"
+            },
+            {
+                "confidence": 1,
+                "domain": "rna"
+            },
+            {
+                "confidence": 1,
+                "domain": "rny"
+            }
+        ],
+        "log_ecnt-w_duc": "",
         "log_cnt-pow_w_duc": "",
-        "log_cnt_idf_detail": [],
-        "log_ecnt_log_idf_log_tidf_detail": [],
-        "tf_log_idf_detail": [],
+        "cnt-pow_w_duc": "",
+        "src_revert": "lekarna",
         "ttf_w_duc_detail": [],
-        "cnt-pow_w_duc_detail": [],
-        "log_cnt-pow4_w_duc_detail": [],
-        "ettf_w_duc": "",
-        "log_ecnt_idf_detail": [],
-        "ttf_w_duc": "",
+        "log_cnt_idf_log_tidf_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt_idf_detail": [],
         "plain_domain": "lekarna",
         "domain_keywords_detail": [
             {
-                "domain": "lekarna",
-                "confidence": 45790272.709028
+                "confidence": 45790272.709028,
+                "domain": "lekarna"
             }
         ],
-        "cnt-pow_w_duc": "",
-        "cnt-pow4_w_duc": "",
         "log_cnt-pow_w_duc_detail": [],
-        "ettf_w_duc_detail": [],
-        "log_ecnt-w_duc_detail": [],
+        "domain_keywords": "lekarna",
         "log_cnt_idf": "",
-        "tf_log_idf": "",
-        "src_revert_detail": [
-            {
-                "domain": "lekarna",
-                "confidence": 3
-            }
-        ],
-        "log_ecnt_log_idf_log_tidf": "",
-        "log_cnt-w_duc": "",
-        "cnt-pow4_w_duc_detail": [],
-        "idf": "",
-        "log_ecnt_idf_log_tidf": "",
-        "log_ecnt_idf_log_tidf_detail": [],
-        "src_revert": "lekarna"
+        "log_ecnt_idf_log_tidf_detail": []
     },
-    "phish_score": 0,
-    "subject": "Objednavka c 562389914",
-    "list_unsubscribe_invalid_count": 0
+    "word_count": 724,
+    "html_td_tag_count": 242,
+    "rfcid_is_invalid": false,
+    "mime_root_type": "multipart/mixed",
+    "content": "CONTENT_DEFAULT",
+    "subject_word_count": 3,
+    "extractedTxtUrlsCardinality": 3,
+    "list_unsubscribe_http_count": 0,
+    "spfstatus": "NONE",
+    "first10words": " Objednavka c 562389914 Mila klientko mily kliente dekujeme za Vasi objednavku na Lekarna cz H",
+    "attachments": [
+        {
+            "first10words": "Obchodni podminky Obchodni podminky spolecnosti PEARS HEALTH CYBER s r",
+            "name": "vseobecne-obchodni-podminky.pdf",
+            "flags": 0,
+            "size": 114799,
+            "cte": "BASE64",
+            "pepca": "p954a7c36143ecdf0",
+            "sumphash": "c671d672fd1b682ee621a537ab1ce3dd",
+            "lang": "cs",
+            "mime_type": "application/pdf"
+        },
+        {
+            "first10words": "Informace o podminkach odstoupeni od kupni smlouvy Pravo odstoupit od",
+            "name": "informace-o-podminkach-odstoupeni-od-kupni-smlouvy.pdf",
+            "flags": 0,
+            "size": 91034,
+            "cte": "BASE64",
+            "pepca": "pb093a20c54d9a2af",
+            "sumphash": "a266970b8c7a9d17c6605422400ed737",
+            "lang": "cs",
+            "mime_type": "application/pdf"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "html_in_text_plain_count": 0,
+    "extractedHrefUrlsCardinality": 6,
+    "extractedTxtUrlsTotalCount": 3,
+    "pepca": "p606089cd9c5a4f28",
+    "mime_children_count": 3,
+    "spfstatus_hfrom": "SPF_SOFTFAIL"
 }

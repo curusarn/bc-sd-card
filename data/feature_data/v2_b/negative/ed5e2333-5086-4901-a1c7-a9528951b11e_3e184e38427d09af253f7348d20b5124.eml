@@ -1,205 +1,139 @@
 {
-    "notches": [
+    "spf_domain_policy": "UNKNOWN",
+    "subject_word_count": 2,
+    "last10words": "secka 852 66 190 00 Praha 9 Prosek zapsana v obchodnim rejstriku Mestskeho soudu v Praze oddil C vlozka 88159 IC 26698714 ",
+    "spfstatus": "NONE",
+    "header_from": "klub@reserved.cz",
+    "dkim_passed_count": 1,
+    "header_total_count": 17,
+    "phashes": [
         {
-            "subscores": [
-                1,
-                0.0
-            ],
-            "score": 1,
-            "module": "ill",
-            "name": [
-                "date_in_past",
-                "from_missmatch"
-            ]
+            "name": "pepca",
+            "value": "p793b4d84a33f0681"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pfe7fff0b8bda08fc"
         }
     ],
-    "rfcid_is_invalid": false,
-    "spfstatus": "NONE",
-    "mime_root_type": "multipart/alternative",
+    "self_send": 0,
     "header_from_count": 1,
-    "now": 1494598241,
-    "dkim_efrom_match": 0,
-    "pepca_inline_style_total": 0,
+    "phish_score": 0,
+    "html_in_text_plain_count": 0,
+    "extractedSrcUrlsTotalCount": 26,
     "rcpts_count": 1,
-    "extractedEmailsTotalCount": 1,
-    "pepca_inline_style": "pfe7fff0b8bda08fc",
-    "pepca_style_total": 0,
-    "dkselector": "dkim",
-    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/3e184e38427d09af253f7348d20b5124.eml",
-    "html_td_tag_count": 116,
-    "extractedHrefUrlsCardinality": 11,
-    "list_unsubscribe_mailto_count": 0,
-    "subject_word_count": 2,
-    "lang": "cs",
+    "extractedEmails": [
+        "klub@reserved.cz"
+    ],
     "precedence": 3,
-    "phishing": {
-        "num_html_script_tags": 0,
-        "num_text_forms": 77,
-        "fake_https": 0,
-        "is_html": true,
-        "num_non_80_port_urls": 0,
-        "num_https_urls": 0,
-        "num_of_chars": 1431,
-        "num_param_phish": 0,
-        "text_and_href": 0,
-        "body_richness": 0.289804469273743,
-        "text_link_with_path": 0,
-        "max_num_slashes_urls": 5,
-        "num_shortened_urls": 0,
-        "num_sender_diff_url": 0,
-        "num_ip_urls": 0,
-        "num_black_sheep_link": -1,
-        "subject_richness": 0.111111111111111,
-        "num_tld_in_url_path": 0,
-        "subject_phish_keywords": 1,
-        "num_black_sheep_link_global": -1,
-        "num_black_sheep_link_phish": 0,
-        "num_path_phish": 0,
-        "suspicious_links": [],
-        "html_form": 0,
-        "num_phish_keywords": 8,
-        "num_subdomain_phish": 0,
-        "num_domain_phish": 0,
-        "ner_domain_detected": false,
-        "camouflage": 0,
-        "num_freehost_urls": 0,
-        "num_external_links": 10,
-        "max_num_dots_urls": 5,
-        "num_www_in_url_path": 0
-    },
-    "spf_status_registry": "Status not found",
-    "rfcid_is_foreign": 0,
-    "from_match": 0,
-    "first10words": " Aktualizace hesla Pri potizich se zobrazenim otevrete webovou verzi Aktualni pocet bodu 4701 bod",
-    "spf_domain_policy": "UNKNOWN",
-    "header_total_count": 17,
-    "dkim_passed_count": 1,
-    "dkim_signs_cnt": 1,
+    "spf_dom_policy_registry": "Policy not found",
     "list_unsubscribe_urls": [
         "klub@reserved.cz"
     ],
-    "mime_children_types": [
-        "text/plain",
-        "text/html"
+    "dkim_hfrom_match": 0,
+    "list_unsubscribe_total_count": 1,
+    "ahref_total_count": 11,
+    "extractedEmailsDomainCount": 1,
+    "html_td_tag_count": 116,
+    "spamtrap_hit": false,
+    "dkselector": "dkim",
+    "dk_statuses": [
+        {
+            "domain": "cortex.cz",
+            "selector": "dkim",
+            "status": "PASS"
+        }
     ],
-    "ahref_verbal_count": 11,
+    "first10words": " Aktualizace hesla Pri potizich se zobrazenim otevrete webovou verzi Aktualni pocet bodu 4701 bod",
+    "extractedEmailsCardinality": 1,
+    "extractedEmailsTotalCount": 1,
     "subject_image_count": 0,
-    "phish_score": 0,
-    "self_send": 0,
-    "dkstatus": "PASS",
+    "extractedSrcUrlsCardinality": 26,
+    "dkim_signs_cnt": 1,
+    "unsub_link": "http://www.reserved.cz/email/l/8f8207f6255e78e0fb8f776dec/88c1329b938/?u=http%3A%2F%2Fwww.reserved.cz%2Femail%2Fu%2F8f8207f6255e78e0fb8f776dec",
+    "pepca_style": "",
+    "html_script_tag_count": 0,
+    "extractedHrefUrlsCardinality": 11,
+    "adscore": 0,
+    "list_unsubscribe_http_count": 0,
+    "extractedHrefUrlsTotalCount": 11,
+    "content": "CONTENT_DEFAULT",
+    "rfcid_length": 48,
+    "word_count": 415,
+    "pepca_inline_style_total": 0,
+    "dkim_count": 1,
+    "subject": "Aktualizace hesla",
     "unsub_link_texts": [
         "  neprat li si aby vy byt obchodny sdeleni odesilatel nadale zasilan kliknout",
         "neprat li si aby vy byt obchodny sdeleni odesilatel nadale zasilan kliknout zde "
     ],
-    "phashes": [
-        {
-            "value": "p793b4d84a33f0681",
-            "name": "pepca"
-        },
-        {
-            "value": "pfe7fff0b8bda08fc",
-            "name": "pepca_inline_style"
-        }
-    ],
-    "contains_list_header": true,
-    "dkdomain": "cortex.cz",
-    "html_tr_tag_count": 50,
-    "extractedEmails": [
-        "klub@reserved.cz"
-    ],
-    "html_tag_total_count": 309,
-    "mime_children_count": 2,
-    "spamtrap_hit": false,
-    "extractedEmailsDomainCount": 1,
-    "extractedHrefUrlsTotalCount": 11,
-    "dk_statuses": [
-        {
-            "selector": "dkim",
-            "status": "PASS",
-            "domain": "cortex.cz"
-        }
-    ],
-    "extractedSrcUrlsCardinality": 26,
-    "senders": {
-        "log_cnt_idf_detail": [],
-        "log_ecnt_idf_detail": [],
-        "tf_log_idf": "",
-        "log_cnt-pow4_w_duc": "",
-        "log_ecnt_idf_log_tidf_detail": [],
-        "cnt-pow_w_duc_detail": [],
-        "cnt-pow_w_duc": "",
-        "log_ecnt-w_duc_detail": [],
-        "idf": "",
-        "cnt-pow4_w_duc_detail": [],
-        "ttf_w_duc_detail": [],
-        "ettf_w_duc_detail": [],
-        "log_cnt-w_duc": "",
-        "src_revert": "reserved",
-        "log_cnt_idf_log_tidf_detail": [],
-        "log_cnt_idf_log_tidf": "",
-        "log_cnt-pow4_w_duc_detail": [],
-        "log_cnt-pow_w_duc": "",
-        "cnt-pow4_w_duc": "",
-        "plain_domain": "",
-        "src_revert_detail": [
-            {
-                "confidence": 26,
-                "domain": "reserved"
-            }
-        ],
-        "log_ecnt_log_idf_log_tidf": "",
-        "log_ecnt_idf_log_tidf": "",
-        "log_cnt-pow_w_duc_detail": [],
-        "ttf_w_duc": "",
-        "plain_domain_detail": [],
-        "log_ecnt_idf": "",
-        "tf_log_idf_detail": [],
-        "ettf_w_duc": "",
-        "idf_detail": [],
-        "log_ecnt_log_idf_log_tidf_detail": [],
-        "domain_keywords_detail": [
-            {
-                "confidence": 30075146.0241123,
-                "domain": "mcsv"
-            }
-        ],
-        "domain_keywords": "mcsv",
-        "log_cnt-w_duc_detail": [],
-        "log_ecnt-w_duc": "",
-        "log_cnt_idf": ""
-    },
-    "spamscore": 1,
-    "ahref_total_count": 11,
-    "extractedEmailsCardinality": 1,
-    "extractedSrcUrlsTotalCount": 26,
-    "dkim_count": 1,
-    "adscore": 0,
-    "pepca": "p793b4d84a33f0681",
-    "unsub_link_candidates": [
-        "http://www.reserved.cz/email/l/8f8207f6255e78e0fb8f776dec/8ec4e199b3d/?u=https%3A%2F%2Fwww.reserved.cz%2Fkontakt.html",
-        "http://www.reserved.cz/email/l/8f8207f6255e78e0fb8f776dec/88c1329b938/?u=http%3A%2F%2Fwww.reserved.cz%2Femail%2Fu%2F8f8207f6255e78e0fb8f776dec"
-    ],
-    "html_script_tag_count": 0,
-    "date_difference": -80087332,
-    "html_in_text_plain_count": 0,
-    "pepca_style": "",
-    "word_count": 415,
-    "rfcid_length": 48,
-    "spf_dom_policy_registry": "Policy not found",
     "pepcatotal": 0,
-    "last10words": "secka 852 66 190 00 Praha 9 Prosek zapsana v obchodnim rejstriku Mestskeho soudu v Praze oddil C vlozka 88159 IC 26698714 ",
-    "extractedHrefUrls": [
-        "http://www.reserved.cz/email/l/8f8207f6255e78e0fb8f776dec/87cdf09d2bd/?u=http%3A%2F%2Fwww.facebook.com",
-        "http://www.reserved.cz/email/l/8f8207f6255e78e0fb8f776dec/8dca4192552/?u=http%3A%2F%2Fwww.reserved.com%2Fcz%2Fcz%2Fstorelocator%",
-        "http://www.reserved.cz/email/l/8f8207f6255e78e0fb8f776dec/82c7919cb28/?u=http%3A%2F%2Fwww.reserved.com%2Fcz%2Fcz%2F",
-        "http://www.reserved.cz/email/l/8f8207f6255e78e0fb8f776dec/8ec4e199b3d/?u=https%3A%2F%2Fwww.reserved.cz%2Fkontakt.html",
-        "http://www.reserved.cz/email/l/8f8207f6255e78e0fb8f776dec/88c1329b938/?u=http%3A%2F%2Fwww.reserved.cz%2Femail%2Fu%2F8f8207f6255e"
-    ],
-    "spfstatus_hfrom": "SPF_NONE",
+    "mime_root_type": "multipart/alternative",
+    "ahref_camouflage_count": 0,
+    "date_difference": -80087332,
     "header_reply_to_count": 1,
-    "dkim_hfrom_match": 0,
-    "attachments": [],
-    "content": "CONTENT_DEFAULT",
+    "list_unsubscribe_mailto_count": 0,
+    "rfcid_is_foreign": 0,
+    "dkstatus": "PASS",
+    "mime_children_count": 2,
+    "extractedHrefUrlsDomainCount": 1,
+    "contains_list_header": true,
+    "list_unsubscribe_invalid_count": 1,
+    "mime_children_types": [
+        "text/plain",
+        "text/html"
+    ],
+    "notches": [
+        {
+            "score": 1,
+            "subscores": [
+                1,
+                0.0
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "module": "ill"
+        }
+    ],
+    "spf_status_registry": "Status not found",
+    "lang": "cs",
+    "phishing": {
+        "is_html": true,
+        "num_subdomain_phish": 0,
+        "body_richness": 0.289804469273743,
+        "num_domain_phish": 0,
+        "num_https_urls": 0,
+        "text_link_with_path": 0,
+        "num_text_forms": 77,
+        "num_phish_keywords": 8,
+        "num_external_links": 10,
+        "num_non_80_port_urls": 0,
+        "subject_richness": 0.111111111111111,
+        "num_black_sheep_link": -1,
+        "num_freehost_urls": 0,
+        "num_sender_diff_url": 0,
+        "max_num_dots_urls": 5,
+        "fake_https": 0,
+        "suspicious_links": [],
+        "ner_domain_detected": false,
+        "num_black_sheep_link_global": -1,
+        "max_num_slashes_urls": 5,
+        "num_param_phish": 0,
+        "num_www_in_url_path": 0,
+        "text_and_href": 0,
+        "num_path_phish": 0,
+        "camouflage": 0,
+        "subject_phish_keywords": 1,
+        "num_html_script_tags": 0,
+        "num_black_sheep_link_phish": 0,
+        "num_shortened_urls": 0,
+        "num_of_chars": 1431,
+        "num_ip_urls": 0,
+        "html_form": 0,
+        "num_tld_in_url_path": 0
+    },
     "extractedSrcUrls": [
         "http://reserved.cortex.cz/email/mail_20140422/images/advanced_23.jpg",
         "http://reserved.cortex.cz/email/mail_20140422/images/advanced_done_32.jpg",
@@ -207,13 +141,79 @@
         "http://reserved.cortex.cz/email/mail_20140422/images/spacer.gif",
         "http://www.reserved.cz/email/o/8f8207f6255e78e0fb8f776dec"
     ],
-    "list_unsubscribe_http_count": 0,
-    "unsub_link": "http://www.reserved.cz/email/l/8f8207f6255e78e0fb8f776dec/88c1329b938/?u=http%3A%2F%2Fwww.reserved.cz%2Femail%2Fu%2F8f8207f6255e78e0fb8f776dec",
-    "extractedHrefUrlsDomainCount": 1,
-    "subject": "Aktualizace hesla",
-    "list_unsubscribe_total_count": 1,
+    "from_match": 0,
+    "html_tr_tag_count": 50,
+    "senders": {
+        "log_cnt-w_duc_detail": [],
+        "idf_detail": [],
+        "log_ecnt_idf_detail": [],
+        "domain_keywords": "mcsv",
+        "log_cnt-pow_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "src_revert": "reserved",
+        "ttf_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "domain": "mcsv",
+                "confidence": 30075146.0241123
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_cnt_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-w_duc": "",
+        "log_ecnt-w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "tf_log_idf": "",
+        "log_cnt_idf": "",
+        "log_ecnt_idf": "",
+        "idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "reserved",
+                "confidence": 26
+            }
+        ],
+        "plain_domain_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "plain_domain": "",
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "tf_log_idf_detail": []
+    },
+    "pepca": "p793b4d84a33f0681",
+    "rfcid_is_invalid": false,
     "extractedSrcUrlsDomainCount": 2,
-    "ahref_camouflage_count": 0,
-    "list_unsubscribe_invalid_count": 1,
-    "header_from": "klub@reserved.cz"
+    "dkdomain": "cortex.cz",
+    "ahref_verbal_count": 11,
+    "now": 1494598241,
+    "spfstatus_hfrom": "SPF_NONE",
+    "pepca_inline_style": "pfe7fff0b8bda08fc",
+    "pepca_style_total": 0,
+    "spamscore": 1,
+    "dkim_efrom_match": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/3e184e38427d09af253f7348d20b5124.eml",
+    "attachments": [],
+    "html_tag_total_count": 309,
+    "extractedHrefUrls": [
+        "http://www.reserved.cz/email/l/8f8207f6255e78e0fb8f776dec/87cdf09d2bd/?u=http%3A%2F%2Fwww.facebook.com",
+        "http://www.reserved.cz/email/l/8f8207f6255e78e0fb8f776dec/8dca4192552/?u=http%3A%2F%2Fwww.reserved.com%2Fcz%2Fcz%2Fstorelocator%",
+        "http://www.reserved.cz/email/l/8f8207f6255e78e0fb8f776dec/82c7919cb28/?u=http%3A%2F%2Fwww.reserved.com%2Fcz%2Fcz%2F",
+        "http://www.reserved.cz/email/l/8f8207f6255e78e0fb8f776dec/8ec4e199b3d/?u=https%3A%2F%2Fwww.reserved.cz%2Fkontakt.html",
+        "http://www.reserved.cz/email/l/8f8207f6255e78e0fb8f776dec/88c1329b938/?u=http%3A%2F%2Fwww.reserved.cz%2Femail%2Fu%2F8f8207f6255e"
+    ],
+    "unsub_link_candidates": [
+        "http://www.reserved.cz/email/l/8f8207f6255e78e0fb8f776dec/8ec4e199b3d/?u=https%3A%2F%2Fwww.reserved.cz%2Fkontakt.html",
+        "http://www.reserved.cz/email/l/8f8207f6255e78e0fb8f776dec/88c1329b938/?u=http%3A%2F%2Fwww.reserved.cz%2Femail%2Fu%2F8f8207f6255e78e0fb8f776dec"
+    ]
 }

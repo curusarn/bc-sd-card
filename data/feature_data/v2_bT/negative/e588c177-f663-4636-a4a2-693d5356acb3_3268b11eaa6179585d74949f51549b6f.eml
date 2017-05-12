@@ -1,89 +1,5 @@
 {
-    "date_difference": -75957799,
-    "html_td_tag_count": 46,
-    "list_unsubscribe_total_count": 0,
-    "precedence": 3,
-    "spfstatus_hfrom": "SPF_ERR",
-    "dkim_passed_count": 0,
-    "notches": [
-        {
-            "subscores": [
-                1,
-                0.0
-            ],
-            "name": [
-                "date_in_past",
-                "from_missmatch"
-            ],
-            "score": 1,
-            "module": "ill"
-        }
-    ],
-    "extractedHrefUrlsDomainCount": 4,
-    "first10words": " Vazeny zakazniku dekujeme za Vas nakup na MALL CZ Timto e mailem potvrzujeme z",
-    "word_count": 338,
-    "pepca": "pb07b204c38ee668c",
-    "extractedSrcUrlsDomainCount": 1,
-    "last10words": " www mall cz Zakaznicka linka 840 625 529 Po Pa 8 00 22 00 facebook twitter ",
-    "extractedTxtUrlsDomainCount": 1,
-    "pepcatotal": 0,
-    "pepca_style_total": 0,
-    "extractedEmails": [],
-    "mime_root_type": "multipart/mixed",
-    "extractedEmailsCardinality": 0,
-    "extractedHrefUrlsTotalCount": 5,
-    "html_tr_tag_count": 26,
-    "pepca_style": "",
-    "dkStatusDetail": "NOT_SIGNED",
-    "header_from_count": 1,
-    "header_total_count": 15,
-    "dk_statuses": [
-        {
-            "status": "NEUTRAL",
-            "statusDetail": "NOT_SIGNED"
-        }
-    ],
-    "ahref_camouflage_count": 0,
-    "extractedSrcUrlsTotalCount": 3,
-    "html_tag_total_count": 218,
-    "header_reply_to_count": 1,
-    "extractedEmailsDomainCount": 0,
     "dkim_hfrom_match": 0,
-    "dkstatus": "NEUTRAL",
-    "ahref_total_count": 6,
-    "subject_image_count": 0,
-    "extractedTxtUrlsCardinality": 3,
-    "spf_domain_policy": "UNKNOWN",
-    "spf_status_registry": "Status not found",
-    "rfcid_is_foreign": 0,
-    "content": "CONTENT_DEFAULT",
-    "extractedSrcUrls": [
-        "http://s.cdn.nrholding.net/CZ10MA/gfx/logo_160x30.png?rev=2",
-        "http://i.cdn.nrholding.net/19245709/",
-        "http://beacon.nrholding.net/m?g=975CAF63A4F3C97F9D9CE814FD0B70FE"
-    ],
-    "lang": "cs",
-    "extractedTxtUrls": [
-        "http://www.mall.cz",
-        "http://MALL.CZ.",
-        "http://MALL.CZ"
-    ],
-    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/3268b11eaa6179585d74949f51549b6f.eml",
-    "spamscore": 1,
-    "attachments": [
-        {
-            "flags": 0,
-            "cte": "BASE64",
-            "name": "VOP_formular.pdf",
-            "size": 396553,
-            "mime_type": "application/pdf",
-            "sumphash": "deadfafb99c0c32fbcaaf96a39445e51",
-            "first10words": "Obchodni podminky spolecnosti Internet Mall a s Tyto obchodni podminky",
-            "lang": "cs",
-            "pepca": "p28a3086c1c9fd68e"
-        }
-    ],
-    "extractedSrcUrlsCardinality": 3,
     "from_match": 0,
     "phashes": [
         {
@@ -99,6 +15,34 @@
             "value": "pef59999756b77cad"
         }
     ],
+    "list_unsubscribe_invalid_count": 0,
+    "extractedSrcUrls": [
+        "http://s.cdn.nrholding.net/CZ10MA/gfx/logo_160x30.png?rev=2",
+        "http://i.cdn.nrholding.net/19245709/",
+        "http://beacon.nrholding.net/m?g=975CAF63A4F3C97F9D9CE814FD0B70FE"
+    ],
+    "ahref_verbal_count": 4,
+    "subject_image_count": 0,
+    "phish_score": 0,
+    "date_difference": -75957799,
+    "header_total_count": 15,
+    "dk_statuses": [
+        {
+            "statusDetail": "NOT_SIGNED",
+            "status": "NEUTRAL"
+        }
+    ],
+    "extractedEmails": [],
+    "precedence": 3,
+    "spamtrap_hit": false,
+    "pepca_style": "",
+    "subject": "Objednavka 86685309",
+    "header_from": "zakaznicky.servis@mall.cz",
+    "spamscore": 1,
+    "self_send": 0,
+    "dkstatus": "NEUTRAL",
+    "pepca_style_total": 0,
+    "lang": "cs",
     "extractedHrefUrls": [
         "http://www.mall.cz",
         "https://www.mall.cz/darkove-certifikaty",
@@ -106,126 +50,182 @@
         "http://twitter.com/mallcz",
         "http://platbyonline.payu.cz/?utm_campaign=platby_online&utm_source=mall.cz&utm_medium=banner_servisni_maily"
     ],
-    "pepca_inline_style": "pef59999756b77cad",
-    "pepca_inline_style_total": 1,
-    "self_send": 0,
-    "now": 1494598228,
-    "mime_children_count": 2,
-    "ahref_verbal_count": 4,
-    "extractedTxtUrlsTotalCount": 3,
-    "subject_word_count": 2,
-    "rcpts_count": 1,
+    "rfcid_is_foreign": 0,
+    "spf_status_registry": "Status not found",
+    "spf_dom_policy_registry": "Policy not found",
     "dkim_count": 0,
-    "rfcid_is_invalid": false,
-    "header_from": "zakaznicky.servis@mall.cz",
-    "list_unsubscribe_mailto_count": 0,
+    "list_unsubscribe_total_count": 0,
+    "now": 1494598228,
+    "header_reply_to_count": 1,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/3268b11eaa6179585d74949f51549b6f.eml",
+    "ahref_camouflage_count": 0,
+    "html_tag_total_count": 218,
     "rfcid_length": 50,
-    "html_in_text_plain_count": 0,
-    "extractedHrefUrlsCardinality": 5,
+    "extractedHrefUrlsDomainCount": 4,
+    "extractedTxtUrls": [
+        "http://www.mall.cz",
+        "http://MALL.CZ.",
+        "http://MALL.CZ"
+    ],
+    "pepca_inline_style": "pef59999756b77cad",
+    "html_tr_tag_count": 26,
+    "pepcatotal": 0,
     "html_script_tag_count": 0,
-    "dkim_efrom_match": 0,
-    "adscore": 0,
+    "last10words": " www mall cz Zakaznicka linka 840 625 529 Po Pa 8 00 22 00 facebook twitter ",
+    "dkim_passed_count": 0,
+    "extractedHrefUrlsTotalCount": 5,
     "mime_children_types": [
         "multipart/alternative",
         "application/pdf"
     ],
-    "dkim_signs_cnt": 1,
-    "spfstatus": "NONE",
+    "ahref_total_count": 6,
+    "list_unsubscribe_mailto_count": 0,
     "extractedEmailsTotalCount": 0,
-    "spamtrap_hit": false,
-    "spf_dom_policy_registry": "Policy not found",
-    "list_unsubscribe_http_count": 0,
+    "dkStatusDetail": "NOT_SIGNED",
+    "rcpts_count": 1,
+    "extractedEmailsDomainCount": 0,
     "phishing": {
-        "body_richness": 0.159810874704492,
-        "num_black_sheep_link": -1,
-        "subject_richness": 0.1,
-        "max_num_slashes_urls": 3,
-        "num_https_urls": 1,
-        "camouflage": 0,
-        "ner_domain_detected": true,
-        "html_form": 0,
-        "num_subdomain_phish": 0,
-        "num_external_links": 8,
-        "fake_https": 0,
-        "5_top_domains_id_0": 0,
-        "num_html_script_tags": 0,
-        "num_freehost_urls": 0,
-        "num_phish_keywords": 0,
-        "suspicious_links": [],
-        "num_sender_diff_url": 3,
-        "text_and_href": 1,
         "subject_phish_keywords": 0,
-        "num_www_in_url_path": 0,
+        "html_form": 0,
+        "num_black_sheep_link": -1,
         "num_domain_phish": 0,
-        "5_top_domains_percent_0": 1.0,
-        "num_of_chars": 2114,
-        "num_ip_urls": 0,
-        "num_path_phish": 0,
-        "num_param_phish": 0,
-        "max_num_dots_urls": 3,
-        "num_tld_in_url_path": 0,
-        "is_html": true,
-        "num_black_sheep_link_phish": 0,
-        "num_non_80_port_urls": 0,
-        "num_text_forms": 4,
+        "num_shortened_urls": 0,
+        "num_phish_keywords": 0,
+        "5_top_domains_id_0": 0,
+        "num_www_in_url_path": 0,
+        "num_external_links": 8,
         "num_black_sheep_link_global": -1,
+        "num_black_sheep_link_phish": 0,
+        "is_html": true,
+        "num_sender_diff_url": 3,
+        "num_tld_in_url_path": 0,
+        "text_and_href": 1,
+        "ner_domain_detected": true,
+        "max_num_dots_urls": 3,
+        "camouflage": 0,
+        "num_text_forms": 4,
+        "num_https_urls": 1,
+        "body_richness": 0.159810874704492,
+        "num_ip_urls": 0,
+        "num_html_script_tags": 0,
+        "subject_richness": 0.1,
+        "fake_https": 0,
+        "suspicious_links": [],
+        "num_of_chars": 2114,
         "text_link_with_path": 0,
-        "num_shortened_urls": 0
+        "num_path_phish": 0,
+        "num_subdomain_phish": 0,
+        "max_num_slashes_urls": 3,
+        "num_param_phish": 0,
+        "5_top_domains_percent_0": 1.0,
+        "num_non_80_port_urls": 0,
+        "num_freehost_urls": 0
     },
+    "dkim_efrom_match": 0,
+    "extractedSrcUrlsCardinality": 3,
+    "extractedTxtUrlsDomainCount": 1,
+    "header_from_count": 1,
+    "extractedSrcUrlsTotalCount": 3,
+    "spf_domain_policy": "UNKNOWN",
+    "dkim_signs_cnt": 1,
+    "extractedSrcUrlsDomainCount": 1,
+    "adscore": 0,
+    "pepca_inline_style_total": 1,
+    "extractedEmailsCardinality": 0,
     "senders": {
-        "domain_keywords": "mall",
-        "log_ecnt_idf": "",
-        "log_cnt-w_duc_detail": [],
-        "log_cnt_idf_log_tidf_detail": [],
-        "log_ecnt-w_duc": "",
-        "idf_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
         "log_cnt_idf_log_tidf": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf": "",
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_ecnt-w_duc_detail": [],
         "log_cnt-pow4_w_duc": "",
-        "plain_domain_detail": [
+        "log_ecnt_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "idf": "",
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "src_revert_detail": [
             {
-                "domain": "mall",
-                "confidence": 3
+                "confidence": 3,
+                "domain": "mall"
             }
         ],
+        "log_cnt-w_duc": "",
+        "plain_domain_detail": [
+            {
+                "confidence": 3,
+                "domain": "mall"
+            }
+        ],
+        "log_ecnt-w_duc": "",
         "log_cnt-pow_w_duc": "",
-        "log_cnt_idf_detail": [],
-        "log_ecnt_log_idf_log_tidf_detail": [],
-        "tf_log_idf_detail": [],
+        "cnt-pow_w_duc": "",
+        "src_revert": "mall",
         "ttf_w_duc_detail": [],
-        "cnt-pow_w_duc_detail": [],
-        "log_cnt-pow4_w_duc_detail": [],
-        "ettf_w_duc": "",
-        "log_ecnt_idf_detail": [],
-        "ttf_w_duc": "",
+        "log_cnt_idf_log_tidf_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt_idf_detail": [],
         "plain_domain": "mall",
         "domain_keywords_detail": [
             {
-                "domain": "mall",
-                "confidence": 97750479.0902747
+                "confidence": 97750479.0902747,
+                "domain": "mall"
             }
         ],
-        "cnt-pow_w_duc": "",
-        "cnt-pow4_w_duc": "",
         "log_cnt-pow_w_duc_detail": [],
-        "ettf_w_duc_detail": [],
-        "log_ecnt-w_duc_detail": [],
+        "domain_keywords": "mall",
         "log_cnt_idf": "",
-        "tf_log_idf": "",
-        "src_revert_detail": [
-            {
-                "domain": "mall",
-                "confidence": 3
-            }
-        ],
-        "log_ecnt_log_idf_log_tidf": "",
-        "log_cnt-w_duc": "",
-        "cnt-pow4_w_duc_detail": [],
-        "idf": "",
-        "log_ecnt_idf_log_tidf": "",
-        "log_ecnt_idf_log_tidf_detail": [],
-        "src_revert": "mall"
+        "log_ecnt_idf_log_tidf_detail": []
     },
-    "phish_score": 0,
-    "subject": "Objednavka 86685309",
-    "list_unsubscribe_invalid_count": 0
+    "word_count": 338,
+    "html_td_tag_count": 46,
+    "rfcid_is_invalid": false,
+    "mime_root_type": "multipart/mixed",
+    "content": "CONTENT_DEFAULT",
+    "subject_word_count": 2,
+    "extractedTxtUrlsCardinality": 3,
+    "list_unsubscribe_http_count": 0,
+    "spfstatus": "NONE",
+    "first10words": " Vazeny zakazniku dekujeme za Vas nakup na MALL CZ Timto e mailem potvrzujeme z",
+    "attachments": [
+        {
+            "first10words": "Obchodni podminky spolecnosti Internet Mall a s Tyto obchodni podminky",
+            "name": "VOP_formular.pdf",
+            "flags": 0,
+            "size": 396553,
+            "cte": "BASE64",
+            "pepca": "p28a3086c1c9fd68e",
+            "sumphash": "deadfafb99c0c32fbcaaf96a39445e51",
+            "lang": "cs",
+            "mime_type": "application/pdf"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "html_in_text_plain_count": 0,
+    "extractedHrefUrlsCardinality": 5,
+    "extractedTxtUrlsTotalCount": 3,
+    "pepca": "pb07b204c38ee668c",
+    "mime_children_count": 2,
+    "spfstatus_hfrom": "SPF_ERR"
 }

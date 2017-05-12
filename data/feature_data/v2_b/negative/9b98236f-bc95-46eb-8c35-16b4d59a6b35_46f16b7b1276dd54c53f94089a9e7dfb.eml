@@ -1,89 +1,66 @@
 {
-    "notches": [
+    "spf_domain_policy": "UNKNOWN",
+    "subject_word_count": 4,
+    "last10words": "0543 DIC CZ6309302010 Kontakt Objednavky 420 602 716 471 Technicke dotazy 420 604 288 282 Fakturace 420 724 922 841 ",
+    "spfstatus": "NONE",
+    "header_from": "nastroje@seznam.cz",
+    "dkim_passed_count": 0,
+    "header_total_count": 11,
+    "phashes": [
         {
-            "subscores": [
-                1,
-                0.0,
-                0.1
-            ],
-            "score": 1.1,
-            "module": "ill",
-            "name": [
-                "date_in_past",
-                "from_missmatch",
-                "foreign_message_id"
-            ]
+            "name": "att-pepca",
+            "value": "pc2e0310133595eb6"
+        },
+        {
+            "name": "att-pepca",
+            "value": "pa790b99a20e3ea74"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p2f71ec4d90f982dc"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p308a724ca3fff76c"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p2f71ec4d90f982dc"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p899c0bb28649d378"
+        },
+        {
+            "name": "att-pepca",
+            "value": "pd3647e60bf02f102"
+        },
+        {
+            "name": "pepca",
+            "value": "pf77f8e8ce724aed2"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p5570a3a790a4bed8"
         }
     ],
-    "extractedTxtUrls": [
-        "http://www.kovonastroje.cz/",
-        "http://www.kovonastroje.cz/out/pictures/wysiwigpro/NadnormativniZasoby.xls",
-        "http://KOVONASTROJE.CZ",
-        "http://www.kovonastroje.cz/Nadnormativn",
-        "http://www.kovonastroje.cz/out/pictures/wysiwigpro/NadnormativniZasoby.xlsObjedn"
-    ],
-    "spfstatus": "NONE",
-    "mime_root_type": "multipart/mixed",
+    "self_send": 0,
     "header_from_count": 1,
-    "now": 1494598256,
-    "dkim_efrom_match": 0,
-    "pepca_inline_style_total": 0,
+    "phish_score": 0,
+    "html_in_text_plain_count": 0,
+    "extractedSrcUrlsTotalCount": 7,
     "rcpts_count": 1,
-    "extractedEmailsTotalCount": 2,
-    "pepca_inline_style": "p5570a3a790a4bed8",
+    "extractedEmails": [
+        "kamatex@volny.cz",
+        "nastroje@seznam.cz"
+    ],
+    "spf_dom_policy_registry": "Policy not found",
     "dkim_hfrom_match": 0,
-    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/46f16b7b1276dd54c53f94089a9e7dfb.eml",
+    "list_unsubscribe_total_count": 0,
+    "ahref_total_count": 0,
+    "extractedEmailsDomainCount": 2,
     "html_td_tag_count": 156,
-    "pepca_style_total": 0,
-    "list_unsubscribe_mailto_count": 0,
-    "subject_word_count": 4,
-    "lang": "cs",
-    "precedence": 3,
-    "phishing": {
-        "num_html_script_tags": 0,
-        "num_text_forms": 1,
-        "fake_https": 0,
-        "is_html": true,
-        "num_non_80_port_urls": 0,
-        "num_https_urls": 0,
-        "num_of_chars": 2731,
-        "num_param_phish": 0,
-        "text_and_href": 0,
-        "body_richness": 0.189970717423133,
-        "text_link_with_path": 3,
-        "max_num_slashes_urls": 4,
-        "num_shortened_urls": 0,
-        "num_sender_diff_url": 1,
-        "num_ip_urls": 0,
-        "num_black_sheep_link": -1,
-        "subject_richness": 0.129032258064516,
-        "num_tld_in_url_path": 0,
-        "subject_phish_keywords": 0,
-        "num_black_sheep_link_global": -1,
-        "num_black_sheep_link_phish": 0,
-        "num_path_phish": 0,
-        "suspicious_links": [],
-        "html_form": 0,
-        "num_phish_keywords": 1,
-        "num_subdomain_phish": 0,
-        "num_domain_phish": 0,
-        "ner_domain_detected": false,
-        "camouflage": 0,
-        "num_freehost_urls": 0,
-        "num_external_links": 0,
-        "max_num_dots_urls": 3,
-        "num_www_in_url_path": 0
-    },
-    "spf_status_registry": "Status not found",
-    "rfcid_is_foreign": 1,
-    "from_match": 0,
-    "first10words": " Dobry den pane Kvasnicka mikrometr na dutiny 25 50mm uz mame skladem Budete ho chtit poslat nebo k nemu jeste neco doobjednate ",
-    "extractedTxtUrlsDomainCount": 1,
-    "spf_domain_policy": "UNKNOWN",
-    "header_total_count": 11,
-    "dkim_passed_count": 0,
-    "extractedTxtUrlsCardinality": 6,
-    "dkim_signs_cnt": 1,
+    "spamtrap_hit": false,
     "mime_children_types": [
         "multipart/alternative",
         "image/gif",
@@ -94,207 +71,88 @@
         "image/jpeg",
         "image/jpeg"
     ],
-    "ahref_verbal_count": 0,
-    "subject_image_count": 0,
-    "rfcid_is_invalid": false,
-    "dkstatus": "NEUTRAL",
-    "phashes": [
-        {
-            "value": "pc2e0310133595eb6",
-            "name": "att-pepca"
-        },
-        {
-            "value": "pa790b99a20e3ea74",
-            "name": "att-pepca"
-        },
-        {
-            "value": "p2f71ec4d90f982dc",
-            "name": "att-pepca"
-        },
-        {
-            "value": "p308a724ca3fff76c",
-            "name": "att-pepca"
-        },
-        {
-            "value": "p2f71ec4d90f982dc",
-            "name": "att-pepca"
-        },
-        {
-            "value": "p899c0bb28649d378",
-            "name": "att-pepca"
-        },
-        {
-            "value": "pd3647e60bf02f102",
-            "name": "att-pepca"
-        },
-        {
-            "value": "pf77f8e8ce724aed2",
-            "name": "pepca"
-        },
-        {
-            "value": "p5570a3a790a4bed8",
-            "name": "pepca_inline_style"
-        }
-    ],
-    "extractedTxtUrlsTotalCount": 6,
-    "self_send": 0,
-    "attachments": [
-        {
-            "mime_type": "image/gif",
-            "cte": "BASE64",
-            "flags": 0,
-            "pepca": "pc2e0310133595eb6",
-            "cid": "509f14bd9ba76f34ab83d89010ee5ad1",
-            "sumphash": "4468d5d37aed74e7f41f740c7f280571",
-            "size": 5624,
-            "name": "image"
-        },
-        {
-            "mime_type": "image/jpeg",
-            "cte": "BASE64",
-            "flags": 0,
-            "pepca": "pa790b99a20e3ea74",
-            "cid": "509a779d6811c539ba371e3810eb25eb",
-            "sumphash": "50572167102749dcfaef0281c99ba279",
-            "size": 2435,
-            "name": "image"
-        },
-        {
-            "mime_type": "image/jpeg",
-            "cte": "BASE64",
-            "flags": 0,
-            "pepca": "p2f71ec4d90f982dc",
-            "cid": "509e941ea29dac9e4c932a1ef73ebbdc",
-            "sumphash": "c79bf20fb0f915e7f9fe0a4e2f293e4b",
-            "size": 2296,
-            "name": "image"
-        },
-        {
-            "mime_type": "image/jpeg",
-            "cte": "BASE64",
-            "flags": 0,
-            "pepca": "p308a724ca3fff76c",
-            "cid": "509d7a099a3c5a3b229040f79a8ca047",
-            "sumphash": "d3c3997bed7fdc62c2ad317c84a70f01",
-            "size": 2229,
-            "name": "image"
-        },
-        {
-            "mime_type": "image/jpeg",
-            "cte": "BASE64",
-            "flags": 0,
-            "pepca": "p2f71ec4d90f982dc",
-            "cid": "5093d7e05e539c555f0e7fd9b6707e18",
-            "sumphash": "c79bf20fb0f915e7f9fe0a4e2f293e4b",
-            "size": 2296,
-            "name": "image"
-        },
-        {
-            "mime_type": "image/jpeg",
-            "cte": "BASE64",
-            "flags": 0,
-            "pepca": "p899c0bb28649d378",
-            "cid": "509217c3a4c657bdd35ad9644df34281",
-            "sumphash": "d1fca28620ef84a783398b30daf0b031",
-            "size": 1736,
-            "name": "image"
-        },
-        {
-            "mime_type": "image/jpeg",
-            "cte": "BASE64",
-            "flags": 0,
-            "pepca": "pd3647e60bf02f102",
-            "cid": "5098b2267725aa083e02aff33ca46859",
-            "sumphash": "dc67c62b9ef62bfd55e22cae32ecf40d",
-            "size": 2124,
-            "name": "image"
-        }
-    ],
-    "html_tr_tag_count": 46,
-    "html_tag_total_count": 379,
-    "phish_score": 0,
-    "spamtrap_hit": false,
-    "extractedEmailsDomainCount": 2,
-    "extractedEmails": [
-        "kamatex@volny.cz",
-        "nastroje@seznam.cz"
-    ],
-    "extractedSrcUrlsCardinality": 7,
-    "spamscore": 1.1,
-    "ahref_total_count": 0,
+    "extractedTxtUrlsCardinality": 6,
+    "lang": "cs",
+    "list_unsubscribe_http_count": 0,
     "extractedEmailsCardinality": 2,
-    "extractedSrcUrlsTotalCount": 7,
-    "dkim_count": 0,
-    "adscore": 0,
-    "pepca": "pf77f8e8ce724aed2",
-    "dkStatusDetail": "NOT_SIGNED",
-    "html_script_tag_count": 0,
-    "date_difference": -75957825,
-    "html_in_text_plain_count": 0,
-    "pepca_style": "",
-    "word_count": 519,
-    "rfcid_length": 37,
-    "spf_dom_policy_registry": "Policy not found",
-    "pepcatotal": 0,
-    "last10words": "0543 DIC CZ6309302010 Kontakt Objednavky 420 602 716 471 Technicke dotazy 420 604 288 282 Fakturace 420 724 922 841 ",
-    "extractedHrefUrls": [],
-    "spfstatus_hfrom": "SPF_NEUTRAL",
     "header_reply_to_count": 0,
-    "senders": {
-        "log_cnt_idf_detail": [],
-        "log_ecnt_idf_detail": [],
-        "tf_log_idf": "",
-        "log_cnt-pow4_w_duc": "",
-        "log_ecnt_idf_log_tidf_detail": [],
-        "cnt-pow_w_duc_detail": [],
-        "cnt-pow_w_duc": "",
-        "log_ecnt-w_duc_detail": [],
-        "idf": "",
-        "cnt-pow4_w_duc_detail": [],
-        "ttf_w_duc_detail": [],
-        "ettf_w_duc_detail": [],
-        "log_cnt-w_duc": "",
-        "src_revert": "",
-        "log_cnt_idf_log_tidf_detail": [],
-        "log_cnt_idf_log_tidf": "",
-        "log_cnt-pow4_w_duc_detail": [],
-        "log_cnt-pow_w_duc": "",
-        "cnt-pow4_w_duc": "",
-        "plain_domain": "kovonastroje",
-        "src_revert_detail": [],
-        "log_ecnt_log_idf_log_tidf": "",
-        "log_ecnt_idf_log_tidf": "",
-        "log_cnt-pow_w_duc_detail": [],
-        "ttf_w_duc": "",
-        "plain_domain_detail": [
-            {
-                "confidence": 3,
-                "domain": "kovonastroje"
-            }
-        ],
-        "log_ecnt_idf": "",
-        "tf_log_idf_detail": [],
-        "ettf_w_duc": "",
-        "idf_detail": [],
-        "log_ecnt_log_idf_log_tidf_detail": [],
-        "domain_keywords_detail": [
-            {
-                "confidence": 50982457.980352,
-                "domain": "masterinter"
-            }
-        ],
-        "domain_keywords": "masterinter",
-        "log_cnt-w_duc_detail": [],
-        "log_ecnt-w_duc": "",
-        "log_cnt_idf": ""
-    },
+    "date_difference": -75957825,
+    "extractedEmailsTotalCount": 2,
+    "subject_image_count": 0,
+    "extractedSrcUrlsCardinality": 7,
+    "dkim_signs_cnt": 1,
+    "pepca_style": "",
+    "html_script_tag_count": 0,
+    "extractedHrefUrls": [],
+    "adscore": 0,
+    "content": "CONTENT_DEFAULT",
+    "rfcid_length": 37,
+    "extractedTxtUrlsDomainCount": 1,
+    "pepca_inline_style_total": 0,
+    "dkim_count": 0,
+    "subject": "Re Vase objednavka 17388 ",
+    "pepcatotal": 0,
+    "mime_root_type": "multipart/mixed",
+    "ahref_camouflage_count": 0,
+    "dkStatusDetail": "NOT_SIGNED",
     "dk_statuses": [
         {
-            "statusDetail": "NOT_SIGNED",
-            "status": "NEUTRAL"
+            "status": "NEUTRAL",
+            "statusDetail": "NOT_SIGNED"
         }
     ],
-    "content": "CONTENT_DEFAULT",
+    "list_unsubscribe_mailto_count": 0,
+    "rfcid_is_foreign": 1,
+    "dkstatus": "NEUTRAL",
+    "mime_children_count": 8,
+    "first10words": " Dobry den pane Kvasnicka mikrometr na dutiny 25 50mm uz mame skladem Budete ho chtit poslat nebo k nemu jeste neco doobjednate ",
+    "word_count": 519,
+    "list_unsubscribe_invalid_count": 0,
+    "precedence": 3,
+    "extractedTxtUrls": [
+        "http://www.kovonastroje.cz/",
+        "http://www.kovonastroje.cz/out/pictures/wysiwigpro/NadnormativniZasoby.xls",
+        "http://KOVONASTROJE.CZ",
+        "http://www.kovonastroje.cz/Nadnormativn",
+        "http://www.kovonastroje.cz/out/pictures/wysiwigpro/NadnormativniZasoby.xlsObjedn"
+    ],
+    "spf_status_registry": "Status not found",
+    "extractedTxtUrlsTotalCount": 6,
+    "phishing": {
+        "is_html": true,
+        "num_subdomain_phish": 0,
+        "body_richness": 0.189970717423133,
+        "num_domain_phish": 0,
+        "num_https_urls": 0,
+        "text_link_with_path": 3,
+        "num_text_forms": 1,
+        "num_phish_keywords": 1,
+        "num_external_links": 0,
+        "num_non_80_port_urls": 0,
+        "subject_richness": 0.129032258064516,
+        "num_black_sheep_link": -1,
+        "num_freehost_urls": 0,
+        "num_sender_diff_url": 1,
+        "max_num_dots_urls": 3,
+        "fake_https": 0,
+        "suspicious_links": [],
+        "ner_domain_detected": false,
+        "num_black_sheep_link_global": -1,
+        "max_num_slashes_urls": 4,
+        "num_param_phish": 0,
+        "num_www_in_url_path": 0,
+        "text_and_href": 0,
+        "num_path_phish": 0,
+        "camouflage": 0,
+        "subject_phish_keywords": 0,
+        "num_html_script_tags": 0,
+        "num_black_sheep_link_phish": 0,
+        "num_shortened_urls": 0,
+        "num_of_chars": 2731,
+        "num_ip_urls": 0,
+        "html_form": 0,
+        "num_tld_in_url_path": 0
+    },
     "extractedSrcUrls": [
         "cid:509e941ea29dac9e4c932a1ef73ebbdc",
         "cid:509d7a099a3c5a3b229040f79a8ca047",
@@ -302,12 +160,154 @@
         "cid:509217c3a4c657bdd35ad9644df34281",
         "cid:5098b2267725aa083e02aff33ca46859"
     ],
-    "list_unsubscribe_http_count": 0,
-    "mime_children_count": 8,
-    "subject": "Re Vase objednavka 17388 ",
-    "list_unsubscribe_total_count": 0,
+    "from_match": 0,
+    "html_tr_tag_count": 46,
+    "senders": {
+        "log_cnt-w_duc_detail": [],
+        "idf_detail": [],
+        "log_ecnt_idf_detail": [],
+        "domain_keywords": "masterinter",
+        "log_cnt-pow_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "src_revert": "",
+        "ttf_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "domain": "masterinter",
+                "confidence": 50982457.980352
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_cnt_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-w_duc": "",
+        "log_ecnt-w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "tf_log_idf": "",
+        "log_cnt_idf": "",
+        "log_ecnt_idf": "",
+        "idf": "",
+        "src_revert_detail": [],
+        "plain_domain_detail": [
+            {
+                "domain": "kovonastroje",
+                "confidence": 3
+            }
+        ],
+        "cnt-pow_w_duc_detail": [],
+        "plain_domain": "kovonastroje",
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "tf_log_idf_detail": []
+    },
+    "pepca": "pf77f8e8ce724aed2",
+    "rfcid_is_invalid": false,
     "extractedSrcUrlsDomainCount": 0,
-    "ahref_camouflage_count": 0,
-    "list_unsubscribe_invalid_count": 0,
-    "header_from": "nastroje@seznam.cz"
+    "ahref_verbal_count": 0,
+    "now": 1494598256,
+    "spfstatus_hfrom": "SPF_NEUTRAL",
+    "pepca_inline_style": "p5570a3a790a4bed8",
+    "pepca_style_total": 0,
+    "spamscore": 1.1,
+    "dkim_efrom_match": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/46f16b7b1276dd54c53f94089a9e7dfb.eml",
+    "attachments": [
+        {
+            "pepca": "pc2e0310133595eb6",
+            "cte": "BASE64",
+            "name": "image",
+            "size": 5624,
+            "flags": 0,
+            "cid": "509f14bd9ba76f34ab83d89010ee5ad1",
+            "sumphash": "4468d5d37aed74e7f41f740c7f280571",
+            "mime_type": "image/gif"
+        },
+        {
+            "pepca": "pa790b99a20e3ea74",
+            "cte": "BASE64",
+            "name": "image",
+            "size": 2435,
+            "flags": 0,
+            "cid": "509a779d6811c539ba371e3810eb25eb",
+            "sumphash": "50572167102749dcfaef0281c99ba279",
+            "mime_type": "image/jpeg"
+        },
+        {
+            "pepca": "p2f71ec4d90f982dc",
+            "cte": "BASE64",
+            "name": "image",
+            "size": 2296,
+            "flags": 0,
+            "cid": "509e941ea29dac9e4c932a1ef73ebbdc",
+            "sumphash": "c79bf20fb0f915e7f9fe0a4e2f293e4b",
+            "mime_type": "image/jpeg"
+        },
+        {
+            "pepca": "p308a724ca3fff76c",
+            "cte": "BASE64",
+            "name": "image",
+            "size": 2229,
+            "flags": 0,
+            "cid": "509d7a099a3c5a3b229040f79a8ca047",
+            "sumphash": "d3c3997bed7fdc62c2ad317c84a70f01",
+            "mime_type": "image/jpeg"
+        },
+        {
+            "pepca": "p2f71ec4d90f982dc",
+            "cte": "BASE64",
+            "name": "image",
+            "size": 2296,
+            "flags": 0,
+            "cid": "5093d7e05e539c555f0e7fd9b6707e18",
+            "sumphash": "c79bf20fb0f915e7f9fe0a4e2f293e4b",
+            "mime_type": "image/jpeg"
+        },
+        {
+            "pepca": "p899c0bb28649d378",
+            "cte": "BASE64",
+            "name": "image",
+            "size": 1736,
+            "flags": 0,
+            "cid": "509217c3a4c657bdd35ad9644df34281",
+            "sumphash": "d1fca28620ef84a783398b30daf0b031",
+            "mime_type": "image/jpeg"
+        },
+        {
+            "pepca": "pd3647e60bf02f102",
+            "cte": "BASE64",
+            "name": "image",
+            "size": 2124,
+            "flags": 0,
+            "cid": "5098b2267725aa083e02aff33ca46859",
+            "sumphash": "dc67c62b9ef62bfd55e22cae32ecf40d",
+            "mime_type": "image/jpeg"
+        }
+    ],
+    "html_tag_total_count": 379,
+    "notches": [
+        {
+            "score": 1.1,
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "module": "ill"
+        }
+    ]
 }

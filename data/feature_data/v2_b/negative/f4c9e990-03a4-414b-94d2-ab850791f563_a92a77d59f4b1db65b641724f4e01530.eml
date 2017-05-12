@@ -1,215 +1,147 @@
 {
+    "spf_domain_policy": "UNKNOWN",
+    "subject_word_count": 4,
+    "last10words": "chodni reditel Laetitia Pateau be2 je registrovanou znackou spolecnosti OPG Online Personals Group AG v mnoha zemich sveta ",
+    "spfstatus": "NONE",
+    "header_from": "be2-czechia@email3.be2.com",
+    "dkim_passed_count": 1,
+    "header_total_count": 18,
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pfda0594307bfa3e9"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p17ebbf19c7192ba4"
+        }
+    ],
+    "self_send": 0,
+    "header_from_count": 1,
+    "phish_score": 0,
+    "html_in_text_plain_count": 0,
+    "extractedSrcUrlsTotalCount": 12,
+    "rcpts_count": 1,
+    "extractedEmails": [
+        "dlabca1@seznam.cz",
+        "zakaznickyservis@be2.cz.",
+        "zakaznickyservis@be2.cz"
+    ],
+    "precedence": 3,
+    "spf_dom_policy_registry": "Policy not found",
+    "list_unsubscribe_urls": [
+        "dummy"
+    ],
+    "dkim_hfrom_match": 1,
+    "list_unsubscribe_total_count": 1,
+    "ahref_total_count": 6,
+    "extractedEmailsDomainCount": 3,
+    "html_td_tag_count": 85,
+    "spamtrap_hit": false,
+    "dkselector": "emv",
+    "extractedTxtUrlsCardinality": 3,
+    "dk_statuses": [
+        {
+            "domain": "email3.be2.com",
+            "selector": "emv",
+            "status": "PASS"
+        }
+    ],
+    "first10words": " be2 seasonal offer Zmente sve heslo Tuto zpravu jste prijali jelikoz emailova adresa dlabca1 seznam cz byla zaregistrovan",
+    "extractedEmailsCardinality": 3,
     "notches": [
         {
+            "score": 1.2,
             "subscores": [
                 1,
                 0.0,
                 0.1,
                 0.1
             ],
-            "score": 1.2,
-            "module": "ill",
             "name": [
                 "date_in_past",
                 "from_missmatch",
                 "html_a_href_camouflaging",
                 "foreign_message_id"
-            ]
+            ],
+            "module": "ill"
         }
+    ],
+    "extractedEmailsTotalCount": 3,
+    "subject_image_count": 0,
+    "extractedSrcUrlsCardinality": 12,
+    "dkim_signs_cnt": 1,
+    "pepca_style": "",
+    "html_script_tag_count": 0,
+    "extractedHrefUrlsCardinality": 10,
+    "adscore": 0,
+    "list_unsubscribe_http_count": 0,
+    "extractedHrefUrlsTotalCount": 10,
+    "content": "CONTENT_DEFAULT",
+    "rfcid_length": 48,
+    "extractedTxtUrlsDomainCount": 2,
+    "pepca_inline_style_total": 1,
+    "dkim_count": 1,
+    "subject": "Vase heslo na be2",
+    "pepcatotal": 1,
+    "mime_root_type": "multipart/alternative",
+    "ahref_camouflage_count": 1,
+    "date_difference": -79733522,
+    "header_reply_to_count": 1,
+    "list_unsubscribe_mailto_count": 0,
+    "rfcid_is_foreign": 1,
+    "dkstatus": "PASS",
+    "mime_children_count": 2,
+    "extractedHrefUrlsDomainCount": 1,
+    "contains_list_header": true,
+    "list_unsubscribe_invalid_count": 1,
+    "mime_children_types": [
+        "text/plain",
+        "text/html"
     ],
     "extractedTxtUrls": [
         "http://be2.cz",
         "https://sec.be2.com/autoLogin/index?hashStr=passwordforgotten&i=1",
         "http://be2.cz."
     ],
-    "spfstatus": "NONE",
-    "mime_root_type": "multipart/alternative",
-    "header_from_count": 1,
-    "now": 1494598378,
-    "dkim_efrom_match": 0,
-    "pepca_inline_style_total": 1,
-    "rcpts_count": 1,
-    "extractedEmailsTotalCount": 3,
-    "pepca_inline_style": "p17ebbf19c7192ba4",
-    "pepca_style_total": 0,
-    "dkselector": "emv",
-    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/a92a77d59f4b1db65b641724f4e01530.eml",
-    "html_td_tag_count": 85,
-    "extractedHrefUrlsCardinality": 10,
-    "list_unsubscribe_mailto_count": 0,
-    "subject_word_count": 4,
-    "lang": "cs",
-    "precedence": 3,
-    "phishing": {
-        "num_html_script_tags": 0,
-        "num_text_forms": 49,
-        "fake_https": 0,
-        "is_html": true,
-        "num_non_80_port_urls": 0,
-        "num_https_urls": 11,
-        "num_of_chars": 1487,
-        "num_param_phish": 0,
-        "text_and_href": 0,
-        "body_richness": 0.23252688172043,
-        "text_link_with_path": 1,
-        "max_num_slashes_urls": 2,
-        "num_shortened_urls": 0,
-        "num_sender_diff_url": 0,
-        "num_ip_urls": 0,
-        "num_black_sheep_link": -1,
-        "subject_richness": 0.210526315789474,
-        "num_tld_in_url_path": 0,
-        "subject_phish_keywords": 1,
-        "num_black_sheep_link_global": -1,
-        "num_black_sheep_link_phish": 0,
-        "num_path_phish": 0,
-        "suspicious_links": [],
-        "html_form": 0,
-        "num_phish_keywords": 5,
-        "num_subdomain_phish": 0,
-        "num_domain_phish": 0,
-        "ner_domain_detected": false,
-        "camouflage": 1,
-        "num_freehost_urls": 0,
-        "num_external_links": 10,
-        "max_num_dots_urls": 2,
-        "num_www_in_url_path": 0
-    },
     "spf_status_registry": "Status not found",
-    "rfcid_is_foreign": 1,
-    "from_match": 0,
-    "first10words": " be2 seasonal offer Zmente sve heslo Tuto zpravu jste prijali jelikoz emailova adresa dlabca1 seznam cz byla zaregistrovan",
-    "extractedTxtUrlsDomainCount": 2,
-    "spf_domain_policy": "UNKNOWN",
-    "header_total_count": 18,
-    "dkim_passed_count": 1,
-    "extractedTxtUrlsCardinality": 3,
-    "dkim_signs_cnt": 1,
-    "list_unsubscribe_urls": [
-        "dummy"
-    ],
-    "mime_children_types": [
-        "text/plain",
-        "text/html"
-    ],
-    "ahref_verbal_count": 3,
-    "subject_image_count": 0,
-    "phish_score": 0,
-    "rfcid_is_invalid": false,
-    "dkstatus": "PASS",
-    "phashes": [
-        {
-            "value": "pfda0594307bfa3e9",
-            "name": "pepca"
-        },
-        {
-            "value": "p17ebbf19c7192ba4",
-            "name": "pepca_inline_style"
-        }
-    ],
-    "contains_list_header": true,
-    "self_send": 0,
-    "dkdomain": "email3.be2.com",
-    "html_tr_tag_count": 48,
-    "extractedEmails": [
-        "dlabca1@seznam.cz",
-        "zakaznickyservis@be2.cz.",
-        "zakaznickyservis@be2.cz"
-    ],
-    "html_tag_total_count": 261,
-    "mime_children_count": 2,
-    "spamtrap_hit": false,
-    "extractedEmailsDomainCount": 3,
+    "lang": "cs",
     "extractedTxtUrlsTotalCount": 3,
-    "dk_statuses": [
-        {
-            "selector": "emv",
-            "status": "PASS",
-            "domain": "email3.be2.com"
-        }
-    ],
-    "extractedSrcUrlsCardinality": 12,
-    "senders": {
-        "log_cnt_idf_detail": [],
-        "log_ecnt_idf_detail": [],
-        "tf_log_idf": "",
-        "log_cnt-pow4_w_duc": "",
-        "log_ecnt_idf_log_tidf_detail": [],
-        "cnt-pow_w_duc_detail": [],
-        "cnt-pow_w_duc": "",
-        "log_ecnt-w_duc_detail": [],
-        "idf": "",
-        "cnt-pow4_w_duc_detail": [],
-        "ttf_w_duc_detail": [],
-        "ettf_w_duc_detail": [],
-        "log_cnt-w_duc": "",
-        "src_revert": "be2",
-        "log_cnt_idf_log_tidf_detail": [],
-        "log_cnt_idf_log_tidf": "",
-        "log_cnt-pow4_w_duc_detail": [],
-        "log_cnt-pow_w_duc": "",
-        "cnt-pow4_w_duc": "",
-        "plain_domain": "be2",
-        "src_revert_detail": [
-            {
-                "confidence": 12,
-                "domain": "be2"
-            }
-        ],
-        "log_ecnt_log_idf_log_tidf": "",
-        "log_ecnt_idf_log_tidf": "",
-        "log_cnt-pow_w_duc_detail": [],
-        "ttf_w_duc": "",
-        "plain_domain_detail": [
-            {
-                "confidence": 2,
-                "domain": "be2"
-            }
-        ],
-        "log_ecnt_idf": "",
-        "tf_log_idf_detail": [],
-        "ettf_w_duc": "",
-        "idf_detail": [],
-        "log_ecnt_log_idf_log_tidf_detail": [],
-        "domain_keywords_detail": [
-            {
-                "confidence": 80091159.6356294,
-                "domain": "be2"
-            }
-        ],
-        "domain_keywords": "be2",
-        "log_cnt-w_duc_detail": [],
-        "log_ecnt-w_duc": "",
-        "log_cnt_idf": ""
+    "phishing": {
+        "is_html": true,
+        "num_subdomain_phish": 0,
+        "body_richness": 0.23252688172043,
+        "num_domain_phish": 0,
+        "num_https_urls": 11,
+        "text_link_with_path": 1,
+        "num_text_forms": 49,
+        "num_phish_keywords": 5,
+        "num_external_links": 10,
+        "num_non_80_port_urls": 0,
+        "subject_richness": 0.210526315789474,
+        "num_black_sheep_link": -1,
+        "num_freehost_urls": 0,
+        "num_sender_diff_url": 0,
+        "max_num_dots_urls": 2,
+        "fake_https": 0,
+        "suspicious_links": [],
+        "ner_domain_detected": false,
+        "num_black_sheep_link_global": -1,
+        "max_num_slashes_urls": 2,
+        "num_param_phish": 0,
+        "num_www_in_url_path": 0,
+        "text_and_href": 0,
+        "num_path_phish": 0,
+        "camouflage": 1,
+        "subject_phish_keywords": 1,
+        "num_html_script_tags": 0,
+        "num_black_sheep_link_phish": 0,
+        "num_shortened_urls": 0,
+        "num_of_chars": 1487,
+        "num_ip_urls": 0,
+        "html_form": 0,
+        "num_tld_in_url_path": 0
     },
-    "spamscore": 1.2,
-    "ahref_total_count": 6,
-    "extractedEmailsCardinality": 3,
-    "extractedSrcUrlsTotalCount": 12,
-    "dkim_count": 1,
-    "adscore": 0,
-    "pepca": "pfda0594307bfa3e9",
-    "html_script_tag_count": 0,
-    "date_difference": -79733522,
-    "html_in_text_plain_count": 0,
-    "pepca_style": "",
-    "word_count": 346,
-    "rfcid_length": 48,
-    "spf_dom_policy_registry": "Policy not found",
-    "pepcatotal": 1,
-    "last10words": "chodni reditel Laetitia Pateau be2 je registrovanou znackou spolecnosti OPG Online Personals Group AG v mnoha zemich sveta ",
-    "extractedHrefUrls": [
-        "http://email3.be2.com/H?a=C9X7DMY4GMGl8SA9MKJY8uPnGHxKLJ142gjtS5kGd41MKu8&encrypted_user_object_id=aDhZHH0DVDMHNYvCerTrHhc_Z2xNR",
-        "http://email3.be2.com/H?a=C9X7DMY4GMGl8SA9MKJY8uPnGHxKLJ142gjtS5kGd41PKu4&encrypted_user_object_id=aDhZHH0DVDMHNYvCerTrHhc_Z2xNR",
-        "http://email3.be2.com/H?a=C9X7DMY4GMGl8SA9MKJY8uPnGHxKLJ142gjtS5kGd41OKu0&encrypted_user_object_id=aDhZHH0DVDMHNYvCerTrHhc_Z2xNR",
-        "http://email3.be2.com/H?a=C9X7DMY4GMGl8SA9MKJY8uPnGHxKLJ142gjtS5kGd41BKuw&encrypted_user_object_id=aDhZHH0DVDMHNYvCerTrHhc_Z2xNR",
-        "http://email3.be2.com/H?a=C9X7DMY4GMGl8SA9MKJY8uPnGHxKLJ142gjtS5kGd41AKus&temp_str_2=OyFbQVBK"
-    ],
-    "spfstatus_hfrom": "SPF_FAIL",
-    "header_reply_to_count": 1,
-    "dkim_hfrom_match": 1,
-    "attachments": [],
-    "content": "CONTENT_DEFAULT",
     "extractedSrcUrls": [
         "https://img.be2.com/crm/template-button-green_left_end.jpg",
         "https://img.be2.com/crm/template-button-green_right_end.jpg",
@@ -217,13 +149,81 @@
         "http://www.be2.de/ectracker?user_id=6566365&send_date=20141101&email_campaign=cz_CZ:NF:00:00:PWF",
         "http://email3.be2.com/WBS?CtX7DMY4GMGl8SA9MKJY8uPnGHxKLJ142guz.gif"
     ],
-    "list_unsubscribe_http_count": 0,
-    "extractedHrefUrlsTotalCount": 10,
-    "extractedHrefUrlsDomainCount": 1,
-    "subject": "Vase heslo na be2",
-    "list_unsubscribe_total_count": 1,
+    "from_match": 0,
+    "html_tr_tag_count": 48,
+    "senders": {
+        "log_cnt-w_duc_detail": [],
+        "idf_detail": [],
+        "log_ecnt_idf_detail": [],
+        "domain_keywords": "be2",
+        "log_cnt-pow_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "src_revert": "be2",
+        "ttf_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "domain": "be2",
+                "confidence": 80091159.6356294
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_cnt_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-w_duc": "",
+        "log_ecnt-w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "tf_log_idf": "",
+        "log_cnt_idf": "",
+        "log_ecnt_idf": "",
+        "idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "be2",
+                "confidence": 12
+            }
+        ],
+        "plain_domain_detail": [
+            {
+                "domain": "be2",
+                "confidence": 2
+            }
+        ],
+        "cnt-pow_w_duc_detail": [],
+        "plain_domain": "be2",
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "tf_log_idf_detail": []
+    },
+    "pepca": "pfda0594307bfa3e9",
+    "rfcid_is_invalid": false,
     "extractedSrcUrlsDomainCount": 2,
-    "ahref_camouflage_count": 1,
-    "list_unsubscribe_invalid_count": 1,
-    "header_from": "be2-czechia@email3.be2.com"
+    "dkdomain": "email3.be2.com",
+    "ahref_verbal_count": 3,
+    "now": 1494598378,
+    "spfstatus_hfrom": "SPF_FAIL",
+    "pepca_inline_style": "p17ebbf19c7192ba4",
+    "pepca_style_total": 0,
+    "spamscore": 1.2,
+    "dkim_efrom_match": 0,
+    "word_count": 346,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/a92a77d59f4b1db65b641724f4e01530.eml",
+    "attachments": [],
+    "html_tag_total_count": 261,
+    "extractedHrefUrls": [
+        "http://email3.be2.com/H?a=C9X7DMY4GMGl8SA9MKJY8uPnGHxKLJ142gjtS5kGd41MKu8&encrypted_user_object_id=aDhZHH0DVDMHNYvCerTrHhc_Z2xNR",
+        "http://email3.be2.com/H?a=C9X7DMY4GMGl8SA9MKJY8uPnGHxKLJ142gjtS5kGd41PKu4&encrypted_user_object_id=aDhZHH0DVDMHNYvCerTrHhc_Z2xNR",
+        "http://email3.be2.com/H?a=C9X7DMY4GMGl8SA9MKJY8uPnGHxKLJ142gjtS5kGd41OKu0&encrypted_user_object_id=aDhZHH0DVDMHNYvCerTrHhc_Z2xNR",
+        "http://email3.be2.com/H?a=C9X7DMY4GMGl8SA9MKJY8uPnGHxKLJ142gjtS5kGd41BKuw&encrypted_user_object_id=aDhZHH0DVDMHNYvCerTrHhc_Z2xNR",
+        "http://email3.be2.com/H?a=C9X7DMY4GMGl8SA9MKJY8uPnGHxKLJ142gjtS5kGd41AKus&temp_str_2=OyFbQVBK"
+    ]
 }

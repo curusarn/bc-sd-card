@@ -1,236 +1,236 @@
 {
-    "notches": [
-        {
-            "subscores": [
-                1,
-                0.0
-            ],
-            "score": 1,
-            "module": "ill",
-            "name": [
-                "date_in_past",
-                "from_missmatch"
-            ]
-        }
-    ],
-    "extractedTxtUrls": [
-        "http://Periodik.cz",
-        "http://Periodik.cz."
-    ],
-    "spfstatus": "NONE",
-    "mime_root_type": "multipart/related",
-    "header_from_count": 1,
-    "now": 1494598253,
-    "dkim_efrom_match": 0,
-    "pepca_inline_style_total": 0,
-    "rcpts_count": 1,
-    "extractedEmailsTotalCount": 3,
-    "pepca_inline_style": "pb960afe71eff3baf",
-    "pepca_style_total": 0,
-    "dkim_hfrom_match": 0,
-    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/44d1aab053ced080c29b784f9a5a9f3f.eml",
-    "html_td_tag_count": 26,
-    "extractedHrefUrlsCardinality": 1,
-    "list_unsubscribe_mailto_count": 0,
-    "subject_word_count": 5,
-    "lang": "cs",
-    "precedence": 3,
-    "phishing": {
-        "num_html_script_tags": 0,
-        "num_text_forms": 2,
-        "fake_https": 0,
-        "is_html": true,
-        "num_non_80_port_urls": 0,
-        "num_https_urls": 0,
-        "num_of_chars": 4335,
-        "num_param_phish": 0,
-        "text_and_href": 0,
-        "body_richness": 0.165821033210332,
-        "text_link_with_path": 0,
-        "max_num_slashes_urls": 0,
-        "num_shortened_urls": 0,
-        "num_sender_diff_url": 1,
-        "num_ip_urls": 0,
-        "num_black_sheep_link": -1,
-        "subject_richness": 0.0961538461538462,
-        "num_tld_in_url_path": 0,
-        "subject_phish_keywords": 0,
-        "num_black_sheep_link_global": -1,
-        "num_black_sheep_link_phish": 0,
-        "num_path_phish": 0,
-        "suspicious_links": [],
-        "html_form": 0,
-        "num_phish_keywords": 1,
-        "num_subdomain_phish": 0,
-        "num_domain_phish": 0,
-        "ner_domain_detected": true,
-        "camouflage": 0,
-        "num_freehost_urls": 0,
-        "num_external_links": 1,
-        "max_num_dots_urls": 2,
-        "num_www_in_url_path": 0
-    },
-    "spf_status_registry": "Status not found",
-    "rfcid_is_foreign": 0,
-    "from_match": 0,
-    "first10words": " Dobre dopoledne omlouvam se za zdrzeni ale v oddeleni predplatneho odpovidaji na e maily postupne",
-    "extractedTxtUrlsDomainCount": 1,
     "spf_domain_policy": "UNKNOWN",
-    "header_total_count": 22,
+    "subject_word_count": 5,
+    "last10words": "e kontakty se prosim obracejte v pripade dotazu nebo reklamaci na platbu za predplatne a dorucovani objednanych vytisku ",
+    "spfstatus": "NONE",
+    "header_from": "Jirina.Peskova@astrosatmedia.cz",
     "dkim_passed_count": 0,
-    "extractedTxtUrlsCardinality": 2,
-    "dkim_signs_cnt": 1,
-    "mime_children_types": [
-        "multipart/alternative",
-        "image/png",
-        "image/gif"
-    ],
-    "ahref_verbal_count": 0,
-    "subject_image_count": 0,
-    "phish_score": 0,
-    "rfcid_is_invalid": false,
-    "dkstatus": "NEUTRAL",
+    "header_total_count": 22,
     "phashes": [
         {
-            "value": "p53d1de7557b0090f",
-            "name": "att-pepca"
+            "name": "att-pepca",
+            "value": "p53d1de7557b0090f"
         },
         {
-            "value": "p557936ce68fd82c4",
-            "name": "att-pepca"
+            "name": "att-pepca",
+            "value": "p557936ce68fd82c4"
         },
         {
-            "value": "peb24e70946f0903d",
-            "name": "pepca"
+            "name": "pepca",
+            "value": "peb24e70946f0903d"
         },
         {
-            "value": "pb960afe71eff3baf",
-            "name": "pepca_inline_style"
+            "name": "pepca_inline_style",
+            "value": "pb960afe71eff3baf"
         }
     ],
-    "extractedTxtUrlsTotalCount": 2,
     "self_send": 0,
-    "attachments": [
-        {
-            "mime_type": "image/png",
-            "cte": "BASE64",
-            "flags": 0,
-            "pepca": "p53d1de7557b0090f",
-            "cid": "image001.png@01D0185C.F26D1F80",
-            "sumphash": "d949f2cea925ede5f45f28bc591f4d0b",
-            "size": 55139,
-            "name": "image001.png"
-        },
-        {
-            "mime_type": "image/gif",
-            "cte": "BASE64",
-            "flags": 0,
-            "pepca": "p557936ce68fd82c4",
-            "cid": "image002.gif@01D0185C.F26D1F80",
-            "sumphash": "65ee424147d425d3ffcd45acf06ee42e",
-            "size": 9130,
-            "name": "image002.gif"
-        }
-    ],
-    "html_tr_tag_count": 14,
+    "header_from_count": 1,
+    "phish_score": 0,
+    "html_in_text_plain_count": 0,
+    "extractedSrcUrlsTotalCount": 2,
+    "rcpts_count": 1,
     "extractedEmails": [
         "zdendalinka@seznam.cz",
         "predplatne@astrosat.cz",
         "predplatne@periodik.cz"
     ],
-    "html_tag_total_count": 502,
-    "mime_children_count": 3,
-    "spamtrap_hit": false,
-    "extractedEmailsDomainCount": 3,
-    "extractedHrefUrlsTotalCount": 1,
-    "extractedSrcUrlsCardinality": 2,
-    "spamscore": 1,
-    "ahref_total_count": 7,
-    "extractedEmailsCardinality": 3,
-    "extractedSrcUrlsTotalCount": 2,
-    "dkim_count": 0,
-    "adscore": 0,
-    "pepca": "peb24e70946f0903d",
-    "dkStatusDetail": "NOT_SIGNED",
-    "html_script_tag_count": 0,
-    "date_difference": -75957785,
-    "html_in_text_plain_count": 0,
-    "pepca_style": "",
-    "word_count": 719,
-    "rfcid_length": 59,
     "spf_dom_policy_registry": "Policy not found",
-    "pepcatotal": 0,
-    "last10words": "e kontakty se prosim obracejte v pripade dotazu nebo reklamaci na platbu za predplatne a dorucovani objednanych vytisku ",
-    "extractedHrefUrls": [
-        "http://www.periodik.cz"
+    "dkim_hfrom_match": 0,
+    "list_unsubscribe_total_count": 0,
+    "ahref_total_count": 7,
+    "extractedEmailsDomainCount": 3,
+    "html_td_tag_count": 26,
+    "spamtrap_hit": false,
+    "mime_children_types": [
+        "multipart/alternative",
+        "image/png",
+        "image/gif"
     ],
-    "spfstatus_hfrom": "SPF_NEUTRAL",
-    "header_reply_to_count": 0,
-    "senders": {
-        "log_cnt_idf_detail": [],
-        "log_ecnt_idf_detail": [],
-        "tf_log_idf": "",
-        "log_cnt-pow4_w_duc": "",
-        "log_ecnt_idf_log_tidf_detail": [],
-        "cnt-pow_w_duc_detail": [],
-        "cnt-pow_w_duc": "",
-        "log_ecnt-w_duc_detail": [],
-        "idf": "",
-        "cnt-pow4_w_duc_detail": [],
-        "ttf_w_duc_detail": [],
-        "ettf_w_duc_detail": [],
-        "log_cnt-w_duc": "",
-        "src_revert": "",
-        "log_cnt_idf_log_tidf_detail": [],
-        "log_cnt_idf_log_tidf": "",
-        "log_cnt-pow4_w_duc_detail": [],
-        "log_cnt-pow_w_duc": "",
-        "cnt-pow4_w_duc": "",
-        "plain_domain": "periodik",
-        "src_revert_detail": [],
-        "log_ecnt_log_idf_log_tidf": "",
-        "log_ecnt_idf_log_tidf": "",
-        "log_cnt-pow_w_duc_detail": [],
-        "ttf_w_duc": "",
-        "plain_domain_detail": [
-            {
-                "confidence": 3,
-                "domain": "periodik"
-            }
-        ],
-        "log_ecnt_idf": "",
-        "tf_log_idf_detail": [],
-        "ettf_w_duc": "",
-        "idf_detail": [],
-        "log_ecnt_log_idf_log_tidf_detail": [],
-        "domain_keywords_detail": [
-            {
-                "confidence": 33277383.1647,
-                "domain": "predplatne"
-            }
-        ],
-        "domain_keywords": "predplatne",
-        "log_cnt-w_duc_detail": [],
-        "log_ecnt-w_duc": "",
-        "log_cnt_idf": ""
-    },
+    "extractedTxtUrlsCardinality": 2,
     "dk_statuses": [
         {
-            "statusDetail": "NOT_SIGNED",
-            "status": "NEUTRAL"
+            "status": "NEUTRAL",
+            "statusDetail": "NOT_SIGNED"
         }
     ],
+    "first10words": " Dobre dopoledne omlouvam se za zdrzeni ale v oddeleni predplatneho odpovidaji na e maily postupne",
+    "extractedEmailsCardinality": 3,
+    "notches": [
+        {
+            "score": 1,
+            "subscores": [
+                1,
+                0.0
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "module": "ill"
+        }
+    ],
+    "date_difference": -75957785,
+    "extractedEmailsTotalCount": 3,
+    "subject_image_count": 0,
+    "extractedSrcUrlsCardinality": 2,
+    "dkim_signs_cnt": 1,
+    "pepca_style": "",
+    "html_script_tag_count": 0,
+    "extractedHrefUrlsCardinality": 1,
+    "adscore": 0,
+    "list_unsubscribe_http_count": 0,
+    "extractedHrefUrlsTotalCount": 1,
     "content": "CONTENT_DEFAULT",
+    "rfcid_length": 59,
+    "extractedTxtUrlsDomainCount": 1,
+    "pepca_inline_style_total": 0,
+    "dkim_count": 0,
+    "subject": "RE Objednavka predplatneho National Geographic",
+    "pepcatotal": 0,
+    "mime_root_type": "multipart/related",
+    "ahref_camouflage_count": 0,
+    "dkStatusDetail": "NOT_SIGNED",
+    "header_reply_to_count": 0,
+    "list_unsubscribe_mailto_count": 0,
+    "rfcid_is_foreign": 0,
+    "dkstatus": "NEUTRAL",
+    "mime_children_count": 3,
+    "extractedHrefUrlsDomainCount": 1,
+    "word_count": 719,
+    "list_unsubscribe_invalid_count": 0,
+    "precedence": 3,
+    "extractedTxtUrls": [
+        "http://Periodik.cz",
+        "http://Periodik.cz."
+    ],
+    "spf_status_registry": "Status not found",
+    "lang": "cs",
+    "extractedTxtUrlsTotalCount": 2,
+    "phishing": {
+        "is_html": true,
+        "num_subdomain_phish": 0,
+        "body_richness": 0.165821033210332,
+        "num_domain_phish": 0,
+        "num_https_urls": 0,
+        "text_link_with_path": 0,
+        "num_text_forms": 2,
+        "num_phish_keywords": 1,
+        "num_external_links": 1,
+        "num_non_80_port_urls": 0,
+        "subject_richness": 0.0961538461538462,
+        "num_black_sheep_link": -1,
+        "num_freehost_urls": 0,
+        "num_sender_diff_url": 1,
+        "max_num_dots_urls": 2,
+        "fake_https": 0,
+        "suspicious_links": [],
+        "ner_domain_detected": true,
+        "num_black_sheep_link_global": -1,
+        "max_num_slashes_urls": 0,
+        "num_param_phish": 0,
+        "num_www_in_url_path": 0,
+        "text_and_href": 0,
+        "num_path_phish": 0,
+        "camouflage": 0,
+        "subject_phish_keywords": 0,
+        "num_html_script_tags": 0,
+        "num_black_sheep_link_phish": 0,
+        "num_shortened_urls": 0,
+        "num_of_chars": 4335,
+        "num_ip_urls": 0,
+        "html_form": 0,
+        "num_tld_in_url_path": 0
+    },
     "extractedSrcUrls": [
         "cid:image001.png@01D0185C.F26D1F80",
         "cid:image002.gif@01D0185C.F26D1F80"
     ],
-    "list_unsubscribe_http_count": 0,
-    "extractedHrefUrlsDomainCount": 1,
-    "subject": "RE Objednavka predplatneho National Geographic",
-    "list_unsubscribe_total_count": 0,
+    "from_match": 0,
+    "html_tr_tag_count": 14,
+    "senders": {
+        "log_cnt-w_duc_detail": [],
+        "idf_detail": [],
+        "log_ecnt_idf_detail": [],
+        "domain_keywords": "predplatne",
+        "log_cnt-pow_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "src_revert": "",
+        "ttf_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "domain": "predplatne",
+                "confidence": 33277383.1647
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_cnt_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-w_duc": "",
+        "log_ecnt-w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "tf_log_idf": "",
+        "log_cnt_idf": "",
+        "log_ecnt_idf": "",
+        "idf": "",
+        "src_revert_detail": [],
+        "plain_domain_detail": [
+            {
+                "domain": "periodik",
+                "confidence": 3
+            }
+        ],
+        "cnt-pow_w_duc_detail": [],
+        "plain_domain": "periodik",
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "tf_log_idf_detail": []
+    },
+    "pepca": "peb24e70946f0903d",
+    "rfcid_is_invalid": false,
     "extractedSrcUrlsDomainCount": 0,
-    "ahref_camouflage_count": 0,
-    "list_unsubscribe_invalid_count": 0,
-    "header_from": "Jirina.Peskova@astrosatmedia.cz"
+    "ahref_verbal_count": 0,
+    "now": 1494598253,
+    "spfstatus_hfrom": "SPF_NEUTRAL",
+    "pepca_inline_style": "pb960afe71eff3baf",
+    "pepca_style_total": 0,
+    "spamscore": 1,
+    "dkim_efrom_match": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/44d1aab053ced080c29b784f9a5a9f3f.eml",
+    "attachments": [
+        {
+            "pepca": "p53d1de7557b0090f",
+            "cte": "BASE64",
+            "name": "image001.png",
+            "size": 55139,
+            "flags": 0,
+            "cid": "image001.png@01D0185C.F26D1F80",
+            "sumphash": "d949f2cea925ede5f45f28bc591f4d0b",
+            "mime_type": "image/png"
+        },
+        {
+            "pepca": "p557936ce68fd82c4",
+            "cte": "BASE64",
+            "name": "image002.gif",
+            "size": 9130,
+            "flags": 0,
+            "cid": "image002.gif@01D0185C.F26D1F80",
+            "sumphash": "65ee424147d425d3ffcd45acf06ee42e",
+            "mime_type": "image/gif"
+        }
+    ],
+    "html_tag_total_count": 502,
+    "extractedHrefUrls": [
+        "http://www.periodik.cz"
+    ]
 }

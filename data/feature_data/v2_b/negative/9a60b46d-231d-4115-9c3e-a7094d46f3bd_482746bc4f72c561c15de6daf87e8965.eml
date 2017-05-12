@@ -1,226 +1,147 @@
 {
+    "spf_domain_policy": "UNKNOWN",
+    "subject_word_count": 6,
+    "last10words": "300 Praha 9 spolecnost je zaregistrovana u Mestskeho soudu v Praze oddil C vlozka 118080 IC 27600904 DIC CZ27600904 ",
+    "spfstatus": "NONE",
+    "header_from": "objednavky@prodejparfemu.cz",
+    "dkim_passed_count": 0,
+    "header_total_count": 13,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p3407b56942ece55a"
+        },
+        {
+            "name": "pepca",
+            "value": "pda345a5411fb8b18"
+        },
+        {
+            "name": "pepca_style",
+            "value": "pde5ce64a5ecb3223"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p7bb14725d34e2ea5"
+        }
+    ],
+    "self_send": 0,
+    "header_from_count": 1,
+    "phish_score": 0,
+    "html_in_text_plain_count": 0,
+    "extractedSrcUrlsTotalCount": 7,
+    "rcpts_count": 1,
+    "extractedEmails": [
+        "hankamartinkova@seznam.cz"
+    ],
+    "spf_dom_policy_registry": "Policy not found",
+    "dkim_hfrom_match": 0,
+    "list_unsubscribe_total_count": 0,
+    "ahref_total_count": 28,
+    "extractedEmailsDomainCount": 1,
+    "html_td_tag_count": 102,
+    "spamtrap_hit": false,
+    "mime_children_types": [
+        "multipart/alternative",
+        "application/pdf"
+    ],
+    "extractedTxtUrlsCardinality": 3,
+    "dk_statuses": [
+        {
+            "status": "NEUTRAL",
+            "statusDetail": "NOT_SIGNED"
+        }
+    ],
+    "first10words": " Objednavka doruceni na adresu ProdejParfemu cz Objednavka doruceni na adresu Dobry den dek",
+    "extractedEmailsCardinality": 1,
     "notches": [
         {
+            "score": 1.1,
             "subscores": [
                 1,
                 0.0,
                 0.1
             ],
-            "score": 1.1,
-            "module": "ill",
             "name": [
                 "date_in_past",
                 "from_missmatch",
                 "foreign_message_id"
-            ]
+            ],
+            "module": "ill"
         }
     ],
+    "date_difference": -75957737,
+    "extractedEmailsTotalCount": 1,
+    "subject_image_count": 0,
+    "extractedSrcUrlsCardinality": 7,
+    "dkim_signs_cnt": 1,
+    "pepca_style": "pde5ce64a5ecb3223",
+    "html_script_tag_count": 0,
+    "extractedHrefUrlsCardinality": 20,
+    "adscore": 0,
+    "list_unsubscribe_http_count": 0,
+    "extractedHrefUrlsTotalCount": 20,
+    "content": "CONTENT_DEFAULT",
+    "rfcid_length": 56,
+    "extractedTxtUrlsDomainCount": 1,
+    "pepca_inline_style_total": 0,
+    "dkim_count": 0,
+    "subject": "ProdejParfemu cz Objednavka doruceni na adresu",
+    "pepcatotal": 0,
+    "mime_root_type": "multipart/mixed",
+    "ahref_camouflage_count": 0,
+    "dkStatusDetail": "NOT_SIGNED",
+    "header_reply_to_count": 1,
+    "list_unsubscribe_mailto_count": 0,
+    "rfcid_is_foreign": 1,
+    "dkstatus": "NEUTRAL",
+    "mime_children_count": 2,
+    "extractedHrefUrlsDomainCount": 1,
+    "word_count": 739,
+    "list_unsubscribe_invalid_count": 0,
+    "precedence": 3,
     "extractedTxtUrls": [
         "http://www.prodejparfemu.cz",
         "http://ProdejParfemu.cz",
         "http://www.ProdejParfemu.cz"
     ],
-    "spfstatus": "NONE",
-    "mime_root_type": "multipart/mixed",
-    "header_from_count": 1,
-    "now": 1494598258,
-    "dkim_efrom_match": 0,
-    "pepca_inline_style_total": 0,
-    "rcpts_count": 1,
-    "extractedEmailsTotalCount": 1,
-    "pepca_inline_style": "p7bb14725d34e2ea5",
-    "pepca_style_total": 0,
-    "dkim_hfrom_match": 0,
-    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/482746bc4f72c561c15de6daf87e8965.eml",
-    "html_td_tag_count": 102,
-    "extractedHrefUrlsCardinality": 20,
-    "list_unsubscribe_mailto_count": 0,
-    "subject_word_count": 6,
-    "lang": "cs",
-    "precedence": 3,
-    "phishing": {
-        "num_html_script_tags": 0,
-        "num_text_forms": 1,
-        "fake_https": 0,
-        "is_html": true,
-        "num_non_80_port_urls": 0,
-        "num_https_urls": 0,
-        "num_of_chars": 3492,
-        "num_param_phish": 0,
-        "text_and_href": 1,
-        "body_richness": 0.211565989121099,
-        "text_link_with_path": 0,
-        "max_num_slashes_urls": 3,
-        "num_shortened_urls": 0,
-        "num_sender_diff_url": 0,
-        "num_ip_urls": 0,
-        "num_black_sheep_link": -1,
-        "subject_richness": 0.111111111111111,
-        "num_tld_in_url_path": 0,
-        "subject_phish_keywords": 0,
-        "num_black_sheep_link_global": -1,
-        "num_black_sheep_link_phish": 0,
-        "num_path_phish": 0,
-        "suspicious_links": [],
-        "html_form": 0,
-        "num_phish_keywords": 0,
-        "num_subdomain_phish": 0,
-        "num_domain_phish": 0,
-        "ner_domain_detected": false,
-        "camouflage": 0,
-        "num_freehost_urls": 0,
-        "num_external_links": 10,
-        "max_num_dots_urls": 2,
-        "num_www_in_url_path": 0
-    },
     "spf_status_registry": "Status not found",
-    "rfcid_is_foreign": 1,
-    "from_match": 0,
-    "first10words": " Objednavka doruceni na adresu ProdejParfemu cz Objednavka doruceni na adresu Dobry den dek",
-    "extractedTxtUrlsDomainCount": 1,
-    "spf_domain_policy": "UNKNOWN",
-    "header_total_count": 13,
-    "dkim_passed_count": 0,
-    "extractedTxtUrlsCardinality": 3,
-    "dkim_signs_cnt": 1,
-    "mime_children_types": [
-        "multipart/alternative",
-        "application/pdf"
-    ],
-    "ahref_verbal_count": 26,
-    "subject_image_count": 0,
-    "phish_score": 0,
-    "rfcid_is_invalid": false,
-    "dkstatus": "NEUTRAL",
-    "phashes": [
-        {
-            "value": "p3407b56942ece55a",
-            "name": "att-pepca"
-        },
-        {
-            "value": "pda345a5411fb8b18",
-            "name": "pepca"
-        },
-        {
-            "value": "pde5ce64a5ecb3223",
-            "name": "pepca_style"
-        },
-        {
-            "value": "p7bb14725d34e2ea5",
-            "name": "pepca_inline_style"
-        }
-    ],
+    "lang": "cs",
     "extractedTxtUrlsTotalCount": 3,
-    "self_send": 0,
-    "attachments": [
-        {
-            "sumphash": "417a76d36b01bf014bcfb66d2bb70622",
-            "first10words": "Tyto obchodni podminky plati pro nakup v internetovem obchode ProdejParfemu",
-            "cte": "BASE64",
-            "flags": 0,
-            "pepca": "p3407b56942ece55a",
-            "lang": "cs",
-            "mime_type": "application/pdf",
-            "size": 52534,
-            "name": "OP_20141215.pdf"
-        }
-    ],
-    "html_tr_tag_count": 42,
-    "extractedEmails": [
-        "hankamartinkova@seznam.cz"
-    ],
-    "html_tag_total_count": 476,
-    "mime_children_count": 2,
-    "spamtrap_hit": false,
-    "extractedEmailsDomainCount": 1,
-    "extractedHrefUrlsTotalCount": 20,
-    "extractedSrcUrlsCardinality": 7,
-    "spamscore": 1.1,
-    "ahref_total_count": 28,
-    "extractedEmailsCardinality": 1,
-    "extractedSrcUrlsTotalCount": 7,
-    "dkim_count": 0,
-    "adscore": 0,
-    "pepca": "pda345a5411fb8b18",
-    "dkStatusDetail": "NOT_SIGNED",
-    "html_script_tag_count": 0,
-    "date_difference": -75957737,
-    "html_in_text_plain_count": 0,
-    "pepca_style": "pde5ce64a5ecb3223",
-    "word_count": 739,
-    "rfcid_length": 56,
-    "spf_dom_policy_registry": "Policy not found",
-    "pepcatotal": 0,
-    "last10words": "300 Praha 9 spolecnost je zaregistrovana u Mestskeho soudu v Praze oddil C vlozka 118080 IC 27600904 DIC CZ27600904 ",
-    "extractedHrefUrls": [
-        "http://www.prodejparfemu.cz/product/get_offer/nP-gsbQFuloY0oLH9XumnbQVK85cq4-zCVKQECMpeo2qKdOxTiuGx-Gf8d8lLCf3FUR7zAIknQsj0GiDGH",
-        "http://www.prodejparfemu.cz/product/get_offer/bwqcWC-8mw_i2eQEU4c1l7BRAXSXq0xNGEn4LAKY_T55pZjKRf-PM4NhWHkWx6eLRkXM6lYQH76exjq8Wj",
-        "http://www.prodejparfemu.cz/product/get_offer/cpej_u2Me9d_mvmpGtPVPgc3dqHnIONkXQ_b9XyyUahKh5cxF30HRx6UzbQiuj3ESX0X8YH_ujHSQmHc96",
-        "http://www.prodejparfemu.cz/product/get_offer/gP-usbQFuloY0oLH9XumnbQVK85cq4-zCVKQECMpeo2qKdOxTiuGx-Gf8d8lLCf3FUR7zAIknQsj0GiDGH",
-        "http://www.prodejparfemu.cz/product/get_offer/rwqlWC-8mw_i2eQEU4c1l7BRAXSXq0xNGEn4LAKY_T55pZjKRf-PM4NhWHkWx6eLRkXM6lYQH76exjq8Wj"
-    ],
-    "spfstatus_hfrom": "SPF_SOFTFAIL",
-    "header_reply_to_count": 1,
-    "senders": {
-        "log_cnt_idf_detail": [],
-        "log_ecnt_idf_detail": [],
-        "tf_log_idf": "",
-        "log_cnt-pow4_w_duc": "",
-        "log_ecnt_idf_log_tidf_detail": [],
-        "cnt-pow_w_duc_detail": [],
-        "cnt-pow_w_duc": "",
-        "log_ecnt-w_duc_detail": [],
-        "idf": "",
-        "cnt-pow4_w_duc_detail": [],
-        "ttf_w_duc_detail": [],
-        "ettf_w_duc_detail": [],
-        "log_cnt-w_duc": "",
-        "src_revert": "prodejparfemu",
-        "log_cnt_idf_log_tidf_detail": [],
-        "log_cnt_idf_log_tidf": "",
-        "log_cnt-pow4_w_duc_detail": [],
-        "log_cnt-pow_w_duc": "",
-        "cnt-pow4_w_duc": "",
-        "plain_domain": "prodejparfemu",
-        "src_revert_detail": [
-            {
-                "confidence": 7,
-                "domain": "prodejparfemu"
-            }
-        ],
-        "log_ecnt_log_idf_log_tidf": "",
-        "log_ecnt_idf_log_tidf": "",
-        "log_cnt-pow_w_duc_detail": [],
-        "ttf_w_duc": "",
-        "plain_domain_detail": [
-            {
-                "confidence": 3,
-                "domain": "prodejparfemu"
-            }
-        ],
-        "log_ecnt_idf": "",
-        "tf_log_idf_detail": [],
-        "ettf_w_duc": "",
-        "idf_detail": [],
-        "log_ecnt_log_idf_log_tidf_detail": [],
-        "domain_keywords_detail": [
-            {
-                "confidence": 47918139.45209,
-                "domain": "superhosting"
-            }
-        ],
-        "domain_keywords": "superhosting",
-        "log_cnt-w_duc_detail": [],
-        "log_ecnt-w_duc": "",
-        "log_cnt_idf": ""
+    "phishing": {
+        "is_html": true,
+        "num_subdomain_phish": 0,
+        "body_richness": 0.211565989121099,
+        "num_domain_phish": 0,
+        "num_https_urls": 0,
+        "text_link_with_path": 0,
+        "num_text_forms": 1,
+        "num_phish_keywords": 0,
+        "num_external_links": 10,
+        "num_non_80_port_urls": 0,
+        "subject_richness": 0.111111111111111,
+        "num_black_sheep_link": -1,
+        "num_freehost_urls": 0,
+        "num_sender_diff_url": 0,
+        "max_num_dots_urls": 2,
+        "fake_https": 0,
+        "suspicious_links": [],
+        "ner_domain_detected": false,
+        "num_black_sheep_link_global": -1,
+        "max_num_slashes_urls": 3,
+        "num_param_phish": 0,
+        "num_www_in_url_path": 0,
+        "text_and_href": 1,
+        "num_path_phish": 0,
+        "camouflage": 0,
+        "subject_phish_keywords": 0,
+        "num_html_script_tags": 0,
+        "num_black_sheep_link_phish": 0,
+        "num_shortened_urls": 0,
+        "num_of_chars": 3492,
+        "num_ip_urls": 0,
+        "html_form": 0,
+        "num_tld_in_url_path": 0
     },
-    "dk_statuses": [
-        {
-            "statusDetail": "NOT_SIGNED",
-            "status": "NEUTRAL"
-        }
-    ],
-    "content": "CONTENT_DEFAULT",
     "extractedSrcUrls": [
         "http://www.prodejparfemu.cz/shopimg/23/after5th-d.jpg",
         "http://www.prodejparfemu.cz/shopimg/23/P34520_hero.jpg",
@@ -228,12 +149,91 @@
         "http://www.prodejparfemu.cz/shopimg/1/hugo%20boss-no6.jpg",
         "http://www.prodejparfemu.cz/shopimg/36/chopard-casmir2.jpg"
     ],
-    "list_unsubscribe_http_count": 0,
-    "extractedHrefUrlsDomainCount": 1,
-    "subject": "ProdejParfemu cz Objednavka doruceni na adresu",
-    "list_unsubscribe_total_count": 0,
+    "from_match": 0,
+    "html_tr_tag_count": 42,
+    "senders": {
+        "log_cnt-w_duc_detail": [],
+        "idf_detail": [],
+        "log_ecnt_idf_detail": [],
+        "domain_keywords": "superhosting",
+        "log_cnt-pow_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "src_revert": "prodejparfemu",
+        "ttf_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "domain": "superhosting",
+                "confidence": 47918139.45209
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_cnt_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-w_duc": "",
+        "log_ecnt-w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "tf_log_idf": "",
+        "log_cnt_idf": "",
+        "log_ecnt_idf": "",
+        "idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "prodejparfemu",
+                "confidence": 7
+            }
+        ],
+        "plain_domain_detail": [
+            {
+                "domain": "prodejparfemu",
+                "confidence": 3
+            }
+        ],
+        "cnt-pow_w_duc_detail": [],
+        "plain_domain": "prodejparfemu",
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "tf_log_idf_detail": []
+    },
+    "pepca": "pda345a5411fb8b18",
+    "rfcid_is_invalid": false,
     "extractedSrcUrlsDomainCount": 1,
-    "ahref_camouflage_count": 0,
-    "list_unsubscribe_invalid_count": 0,
-    "header_from": "objednavky@prodejparfemu.cz"
+    "ahref_verbal_count": 26,
+    "now": 1494598258,
+    "spfstatus_hfrom": "SPF_SOFTFAIL",
+    "pepca_inline_style": "p7bb14725d34e2ea5",
+    "pepca_style_total": 0,
+    "spamscore": 1.1,
+    "dkim_efrom_match": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/482746bc4f72c561c15de6daf87e8965.eml",
+    "attachments": [
+        {
+            "lang": "cs",
+            "first10words": "Tyto obchodni podminky plati pro nakup v internetovem obchode ProdejParfemu",
+            "cte": "BASE64",
+            "name": "OP_20141215.pdf",
+            "pepca": "p3407b56942ece55a",
+            "sumphash": "417a76d36b01bf014bcfb66d2bb70622",
+            "flags": 0,
+            "size": 52534,
+            "mime_type": "application/pdf"
+        }
+    ],
+    "html_tag_total_count": 476,
+    "extractedHrefUrls": [
+        "http://www.prodejparfemu.cz/product/get_offer/nP-gsbQFuloY0oLH9XumnbQVK85cq4-zCVKQECMpeo2qKdOxTiuGx-Gf8d8lLCf3FUR7zAIknQsj0GiDGH",
+        "http://www.prodejparfemu.cz/product/get_offer/bwqcWC-8mw_i2eQEU4c1l7BRAXSXq0xNGEn4LAKY_T55pZjKRf-PM4NhWHkWx6eLRkXM6lYQH76exjq8Wj",
+        "http://www.prodejparfemu.cz/product/get_offer/cpej_u2Me9d_mvmpGtPVPgc3dqHnIONkXQ_b9XyyUahKh5cxF30HRx6UzbQiuj3ESX0X8YH_ujHSQmHc96",
+        "http://www.prodejparfemu.cz/product/get_offer/gP-usbQFuloY0oLH9XumnbQVK85cq4-zCVKQECMpeo2qKdOxTiuGx-Gf8d8lLCf3FUR7zAIknQsj0GiDGH",
+        "http://www.prodejparfemu.cz/product/get_offer/rwqlWC-8mw_i2eQEU4c1l7BRAXSXq0xNGEn4LAKY_T55pZjKRf-PM4NhWHkWx6eLRkXM6lYQH76exjq8Wj"
+    ]
 }

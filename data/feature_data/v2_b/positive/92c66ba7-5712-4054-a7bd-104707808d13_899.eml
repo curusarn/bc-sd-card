@@ -1,209 +1,209 @@
 {
+    "spf_domain_policy": "UNKNOWN",
+    "subject_word_count": 5,
+    "last10words": "e charged a late payment finance charge of 1 5 of your past due ammount and all collections efforts will continue Thank you eBay Departament ",
+    "spfstatus": "NONE",
+    "header_from": "aw-inform@ebay.com",
+    "dkim_passed_count": 0,
+    "header_total_count": 23,
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p44c5311cf330f7fc"
+        },
+        {
+            "name": "pepca_style",
+            "value": "ped1a26a2e7bf0d6d"
+        }
+    ],
+    "self_send": 0,
+    "header_from_count": 1,
+    "phish_score": 0,
+    "html_in_text_plain_count": 0,
+    "extractedSrcUrlsTotalCount": 1,
+    "rcpts_count": 1,
+    "extractedEmails": [],
+    "spf_dom_policy_registry": "Policy not found",
+    "dkim_hfrom_match": 0,
+    "list_unsubscribe_total_count": 0,
+    "ahref_total_count": 1,
+    "extractedEmailsDomainCount": 0,
+    "html_td_tag_count": 6,
+    "spamtrap_hit": false,
+    "mime_children_types": [
+        "text/html"
+    ],
+    "extractedTxtUrlsCardinality": 1,
+    "dk_statuses": [
+        {
+            "status": "NEUTRAL",
+            "statusDetail": "NOT_SIGNED"
+        }
+    ],
+    "first10words": " Please Pay Your eBay Fees Dear eBay Member We are notifying you that we did not receive your last pay",
+    "extractedEmailsCardinality": 0,
     "notches": [
         {
+            "score": 1.2,
             "subscores": [
                 1,
                 0.0,
                 0.1,
                 0.1
             ],
-            "score": 1.2,
-            "module": "ill",
             "name": [
                 "date_in_past",
                 "from_missmatch",
                 "html_a_href_camouflaging",
                 "foreign_message_id"
-            ]
+            ],
+            "module": "ill"
         }
     ],
+    "date_difference": -337186531,
+    "extractedEmailsTotalCount": 0,
+    "subject_image_count": 0,
+    "extractedSrcUrlsCardinality": 1,
+    "dkim_signs_cnt": 1,
+    "pepca_style": "ped1a26a2e7bf0d6d",
+    "html_script_tag_count": 0,
+    "extractedHrefUrlsCardinality": 2,
+    "adscore": 0,
+    "list_unsubscribe_http_count": 0,
+    "extractedHrefUrlsTotalCount": 2,
+    "content": "CONTENT_DEFAULT",
+    "rfcid_length": 30,
+    "extractedTxtUrlsDomainCount": 1,
+    "pepca_inline_style_total": 0,
+    "dkim_count": 0,
+    "subject": "Please Pay Your eBay Fees",
+    "pepcatotal": 0,
+    "mime_root_type": "multipart/alternative",
+    "ahref_camouflage_count": 1,
+    "dkStatusDetail": "NOT_SIGNED",
+    "header_reply_to_count": 1,
+    "list_unsubscribe_mailto_count": 0,
+    "rfcid_is_foreign": 1,
+    "dkstatus": "NEUTRAL",
+    "mime_children_count": 1,
+    "extractedHrefUrlsDomainCount": 2,
+    "word_count": 192,
+    "list_unsubscribe_invalid_count": 0,
+    "precedence": 3,
     "extractedTxtUrls": [
         "https://www.ebay.com"
     ],
-    "spfstatus": "NONE",
-    "mime_root_type": "multipart/alternative",
-    "header_from_count": 1,
-    "now": 1494597927,
-    "dkim_efrom_match": 0,
-    "pepca_inline_style_total": 0,
-    "rcpts_count": 1,
-    "extractedEmailsTotalCount": 0,
-    "pepca_inline_style": "",
-    "pepca_style_total": 3,
-    "dkim_hfrom_match": 0,
-    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/899.eml",
-    "html_td_tag_count": 6,
-    "extractedHrefUrlsCardinality": 2,
-    "list_unsubscribe_mailto_count": 0,
-    "subject_word_count": 5,
-    "lang": "en",
-    "precedence": 3,
-    "phishing": {
-        "num_html_script_tags": 0,
-        "num_text_forms": 0,
-        "fake_https": 1,
-        "is_html": true,
-        "num_non_80_port_urls": 0,
-        "num_https_urls": 1,
-        "num_of_chars": 1000,
-        "num_param_phish": 0,
-        "text_and_href": 0,
-        "body_richness": 0.191808191808192,
-        "text_link_with_path": 0,
-        "max_num_slashes_urls": 6,
-        "num_shortened_urls": 0,
-        "num_sender_diff_url": 2,
-        "num_ip_urls": 0,
-        "num_black_sheep_link": -1,
-        "subject_richness": 0.192307692307692,
-        "num_tld_in_url_path": 0,
-        "subject_phish_keywords": 0,
-        "num_black_sheep_link_global": -1,
-        "num_black_sheep_link_phish": 0,
-        "num_path_phish": 0,
-        "suspicious_links": [],
-        "html_form": 0,
-        "num_phish_keywords": 7,
-        "num_subdomain_phish": 0,
-        "num_domain_phish": 0,
-        "ner_domain_detected": true,
-        "camouflage": 1,
-        "num_freehost_urls": 0,
-        "num_external_links": 3,
-        "max_num_dots_urls": 6,
-        "num_www_in_url_path": 0
-    },
     "spf_status_registry": "Status not found",
-    "rfcid_is_foreign": 1,
-    "from_match": 0,
-    "first10words": " Please Pay Your eBay Fees Dear eBay Member We are notifying you that we did not receive your last pay",
-    "extractedTxtUrlsDomainCount": 1,
-    "spf_domain_policy": "UNKNOWN",
-    "header_total_count": 23,
-    "dkim_passed_count": 0,
-    "extractedTxtUrlsCardinality": 1,
-    "dkim_signs_cnt": 1,
-    "mime_children_types": [
-        "text/html"
-    ],
-    "ahref_verbal_count": 0,
-    "subject_image_count": 0,
-    "phish_score": 0,
-    "rfcid_is_invalid": false,
-    "dkstatus": "NEUTRAL",
-    "phashes": [
-        {
-            "value": "p44c5311cf330f7fc",
-            "name": "pepca"
-        },
-        {
-            "value": "ped1a26a2e7bf0d6d",
-            "name": "pepca_style"
-        }
-    ],
+    "lang": "en",
     "extractedTxtUrlsTotalCount": 1,
-    "self_send": 0,
-    "attachments": [],
-    "html_tr_tag_count": 6,
-    "extractedEmails": [],
-    "html_tag_total_count": 81,
-    "mime_children_count": 1,
-    "spamtrap_hit": false,
-    "extractedEmailsDomainCount": 0,
-    "extractedHrefUrlsTotalCount": 2,
-    "extractedSrcUrlsCardinality": 1,
-    "spamscore": 1.2,
-    "ahref_total_count": 1,
-    "extractedEmailsCardinality": 0,
-    "extractedSrcUrlsTotalCount": 1,
-    "dkim_count": 0,
-    "adscore": 0,
-    "pepca": "p44c5311cf330f7fc",
-    "dkStatusDetail": "NOT_SIGNED",
-    "html_script_tag_count": 0,
-    "date_difference": -337186531,
-    "html_in_text_plain_count": 0,
-    "pepca_style": "ped1a26a2e7bf0d6d",
-    "word_count": 192,
-    "rfcid_length": 30,
-    "spf_dom_policy_registry": "Policy not found",
-    "pepcatotal": 0,
-    "last10words": "e charged a late payment finance charge of 1 5 of your past due ammount and all collections efforts will continue Thank you eBay Departament ",
-    "extractedHrefUrls": [
-        "http://member.ebay.com.issl.info/sign-in/eBay/restore-account/ws2/eBayISAPI.dll/Signin.html",
-        "http://0x42.0xc7.0xa2.0xf7/sign-in/eBay/restore-account/ws2/eBayISAPI.dll/index.html"
-    ],
-    "spfstatus_hfrom": "SPF_SOFTFAIL",
-    "header_reply_to_count": 1,
-    "senders": {
-        "log_cnt_idf_detail": [],
-        "log_ecnt_idf_detail": [],
-        "tf_log_idf": "",
-        "log_cnt-pow4_w_duc": "",
-        "log_ecnt_idf_log_tidf_detail": [],
-        "cnt-pow_w_duc_detail": [],
-        "cnt-pow_w_duc": "",
-        "log_ecnt-w_duc_detail": [],
-        "idf": "",
-        "cnt-pow4_w_duc_detail": [],
-        "ttf_w_duc_detail": [],
-        "ettf_w_duc_detail": [],
-        "log_cnt-w_duc": "",
-        "src_revert": "ebay",
-        "log_cnt_idf_log_tidf_detail": [],
-        "log_cnt_idf_log_tidf": "",
-        "log_cnt-pow4_w_duc_detail": [],
-        "log_cnt-pow_w_duc": "",
-        "cnt-pow4_w_duc": "",
-        "plain_domain": "ebay",
-        "src_revert_detail": [
-            {
-                "confidence": 1,
-                "domain": "ebay"
-            }
-        ],
-        "log_ecnt_log_idf_log_tidf": "",
-        "log_ecnt_idf_log_tidf": "",
-        "log_cnt-pow_w_duc_detail": [],
-        "ttf_w_duc": "",
-        "plain_domain_detail": [
-            {
-                "confidence": 1,
-                "domain": "ebay"
-            }
-        ],
-        "log_ecnt_idf": "",
-        "tf_log_idf_detail": [],
-        "ettf_w_duc": "",
-        "idf_detail": [],
-        "log_ecnt_log_idf_log_tidf_detail": [],
-        "domain_keywords_detail": [
-            {
-                "confidence": 3161946051.1953,
-                "domain": "ebay"
-            }
-        ],
-        "domain_keywords": "ebay",
-        "log_cnt-w_duc_detail": [],
-        "log_ecnt-w_duc": "",
-        "log_cnt_idf": ""
+    "phishing": {
+        "is_html": true,
+        "num_subdomain_phish": 0,
+        "body_richness": 0.191808191808192,
+        "num_domain_phish": 0,
+        "num_https_urls": 1,
+        "text_link_with_path": 0,
+        "num_text_forms": 0,
+        "num_phish_keywords": 7,
+        "num_external_links": 3,
+        "num_non_80_port_urls": 0,
+        "subject_richness": 0.192307692307692,
+        "num_black_sheep_link": -1,
+        "num_freehost_urls": 0,
+        "num_sender_diff_url": 2,
+        "max_num_dots_urls": 6,
+        "fake_https": 1,
+        "suspicious_links": [],
+        "ner_domain_detected": true,
+        "num_black_sheep_link_global": -1,
+        "max_num_slashes_urls": 6,
+        "num_param_phish": 0,
+        "num_www_in_url_path": 0,
+        "text_and_href": 0,
+        "num_path_phish": 0,
+        "camouflage": 1,
+        "subject_phish_keywords": 0,
+        "num_html_script_tags": 0,
+        "num_black_sheep_link_phish": 0,
+        "num_shortened_urls": 0,
+        "num_of_chars": 1000,
+        "num_ip_urls": 0,
+        "html_form": 0,
+        "num_tld_in_url_path": 0
     },
-    "dk_statuses": [
-        {
-            "statusDetail": "NOT_SIGNED",
-            "status": "NEUTRAL"
-        }
-    ],
-    "content": "CONTENT_DEFAULT",
     "extractedSrcUrls": [
         "http://pics.ebaystatic.com/aw/pics/email/eBayLogo.gif"
     ],
-    "list_unsubscribe_http_count": 0,
-    "extractedHrefUrlsDomainCount": 2,
-    "subject": "Please Pay Your eBay Fees",
-    "list_unsubscribe_total_count": 0,
+    "from_match": 0,
+    "html_tr_tag_count": 6,
+    "senders": {
+        "log_cnt-w_duc_detail": [],
+        "idf_detail": [],
+        "log_ecnt_idf_detail": [],
+        "domain_keywords": "ebay",
+        "log_cnt-pow_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "src_revert": "ebay",
+        "ttf_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "domain": "ebay",
+                "confidence": 3161946051.1953
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_cnt_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-w_duc": "",
+        "log_ecnt-w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "tf_log_idf": "",
+        "log_cnt_idf": "",
+        "log_ecnt_idf": "",
+        "idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "ebay",
+                "confidence": 1
+            }
+        ],
+        "plain_domain_detail": [
+            {
+                "domain": "ebay",
+                "confidence": 1
+            }
+        ],
+        "cnt-pow_w_duc_detail": [],
+        "plain_domain": "ebay",
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "tf_log_idf_detail": []
+    },
+    "pepca": "p44c5311cf330f7fc",
+    "rfcid_is_invalid": false,
     "extractedSrcUrlsDomainCount": 1,
-    "ahref_camouflage_count": 1,
-    "list_unsubscribe_invalid_count": 0,
-    "header_from": "aw-inform@ebay.com"
+    "ahref_verbal_count": 0,
+    "now": 1494597927,
+    "spfstatus_hfrom": "SPF_SOFTFAIL",
+    "pepca_inline_style": "",
+    "pepca_style_total": 3,
+    "spamscore": 1.2,
+    "dkim_efrom_match": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/899.eml",
+    "attachments": [],
+    "html_tag_total_count": 81,
+    "extractedHrefUrls": [
+        "http://member.ebay.com.issl.info/sign-in/eBay/restore-account/ws2/eBayISAPI.dll/Signin.html",
+        "http://0x42.0xc7.0xa2.0xf7/sign-in/eBay/restore-account/ws2/eBayISAPI.dll/index.html"
+    ]
 }

@@ -1,11 +1,74 @@
 {
-    "domainstat_themes": {},
-    "precedence": 3,
+    "dkim_hfrom_match": 1,
+    "phNotches": [
+        {
+            "module": "phish-score",
+            "name": [
+                "from_mismatch",
+                "unsub_link"
+            ],
+            "subscores": [
+                1,
+                -2
+            ],
+            "score": -1
+        }
+    ],
+    "list_unsubscribe_urls": [
+        "mailto:unsub-7310e0bf.0twg.twjkj1k@bnc.mailjet.com"
+    ],
+    "dkselector": "mailjet",
+    "header_total_count": 13,
+    "dk_statuses": [
+        {
+            "domain": "happystudio.com",
+            "status": "PASS",
+            "selector": "mailjet"
+        }
+    ],
+    "extractedEmails": [
+        "nr@id"
+    ],
+    "domainstat": {},
     "pepca_small": "p0bcedf77fd113405",
-    "spf_domain_policy": "UNKNOWN",
-    "extractedSrcUrlsDomainCount": 2,
-    "extractedTxtUrlsDomainCount": 4,
-    "html_tr_tag_count": 34,
+    "self_send": 0,
+    "dkstatus": "PASS",
+    "lang": "cs",
+    "extractedHrefUrls": [
+        "http://0twg.mj.is/link/0twg/twjkj1k/1/deKuq2BrvEldlV8E2uiSjA/aHR0cDovL3d3dy5oYXBweXN0dWRpby5jb20vUGFyZW50cy9Db25maXJtYXRpb24_dGc",
+        "http://0twg.mj.is/link/0twg/twjkj1k/2/L-DAGyl-dnC_Oz3BdsrNzA/aHR0cDovL3d3dy5oYXBweXN0dWRpby5jb20vUGFyZW50cy9Db25maXJtYXRpb24_dGc",
+        "http://0twg.mj.is/link/0twg/twjkj1k/3/SzRtlbkAB24VVDbDVvitCQ/aHR0cDovL3d3dy5oYXBweXN0dWRpby5jb20vUGFyZW50cy9Db25maXJtYXRpb24_dGc",
+        "http://0twg.mj.is/link/0twg/twjkj1k/4/czOroUAi5kdsrNaWAzy3lg/aHR0cDovL3d3dy5oYXBweXN0dWRpby5jb20vUGFyZW50L1BhbmVsL1Rlcm1zP2xhbmd",
+        "http://0twg.mj.is/link/0twg/twjkj1k/5/r0cG9WZryUOWYWNsbGJSWQ/aHR0cDovL3d3dy5oYXBweXN0dWRpby5jb20vUGFyZW50L1BhbmVsL1BvbGljeT9sYW5"
+    ],
+    "word_count": 155,
+    "extractedSrcUrls": [
+        "http://cdn01web05.happystudio.com/Images/parent/email/activatebutton-top.jpg?cb=1571298",
+        "http://cdn01web08.happystudio.com/Images/parent/email/activatebutton-arrow.jpg?cb=1571298",
+        "http://cdn01web02.happystudio.com/Images/parent/email/activatebutton-bottom.png?cb=1571298",
+        "http://cdn01web07.happystudio.com/Images/parent/email/footer.jpg?cb=1571298",
+        "http://0twg.mj.is/o/0twg/a7e1a693/twjkj1ke.gif"
+    ],
+    "list_unsubscribe_total_count": 1,
+    "header_reply_to_count": 0,
+    "html_tag_total_count": 186,
+    "subject": "Vitejte v Happy Studiu dokonceni registrace rodice",
+    "extractedTxtUrls": [
+        "http://NREUM.info",
+        "http://beacon-2.newrelic.com",
+        "http://bam.nr-data.net",
+        "http://js-agent.newrelic.com/nr-476.min.js",
+        "http://e.name"
+    ],
+    "theme": {},
+    "subject_word_count": 7,
+    "rfcid_length": 38,
+    "last10words": " ",
+    "mime_children_types": [
+        "text/plain",
+        "text/plain",
+        "text/html"
+    ],
     "universalprobes": [
         {
             "key": "ps-from_mismatch",
@@ -16,59 +79,41 @@
             "value": "1"
         }
     ],
-    "extractedEmailsCardinality": 1,
-    "pepca_style": "p468554068c149993",
-    "rcpts_count": 1,
-    "header_total_count": 13,
-    "dkstatus": "PASS",
-    "extractedSrcUrlsTotalCount": 7,
-    "html_tag_total_count": 186,
-    "ahref_total_count": 6,
-    "spfstatus_hfrom": "SPF_SOFTFAIL",
-    "ahref_camouflage_count": 0,
-    "extractedTxtUrlsCardinality": 5,
-    "content": "CONTENT_DEFAULT",
-    "extractedTxtUrls": [
-        "http://NREUM.info",
-        "http://beacon-2.newrelic.com",
-        "http://bam.nr-data.net",
-        "http://js-agent.newrelic.com/nr-476.min.js",
-        "http://e.name"
-    ],
-    "phNotches": [
-        {
-            "subscores": [
-                1,
-                -2
-            ],
-            "name": [
-                "from_mismatch",
-                "unsub_link"
-            ],
-            "score": -1,
-            "module": "phish-score"
-        }
-    ],
-    "spamscore": 5.2,
+    "dkim_efrom_match": 0,
     "extractedSrcUrlsCardinality": 7,
+    "extractedTxtUrlsDomainCount": 4,
+    "header_from_count": 1,
+    "mime_root_type": "multipart/alternative",
+    "extractedSrcUrlsDomainCount": 2,
+    "pepca_inline_style_total": 1,
+    "html_td_tag_count": 54,
+    "rfcid_is_invalid": false,
+    "dkdomain": "happystudio.com",
+    "dkim_count": 1,
+    "first10words": " ",
+    "now": 1494598271,
     "notches": [
         {
-            "subscores": [
-                1,
-                0.1,
-                0.0,
-                4.1
-            ],
+            "module": "ill",
             "name": [
                 "date_in_past",
                 "evil_script",
                 "from_missmatch",
                 "html_ent_text_plain"
             ],
-            "score": 5.2,
-            "module": "ill"
+            "subscores": [
+                1,
+                0.1,
+                0.0,
+                4.1
+            ],
+            "score": 5.2
         }
     ],
+    "extractedEmailsTotalCount": 1,
+    "precedence": 3,
+    "pepca": "",
+    "spfstatus_hfrom": "SPF_SOFTFAIL",
     "phashes": [
         {
             "name": "pepca_style",
@@ -79,193 +124,148 @@
             "value": "pc85f5df9a39356e4"
         }
     ],
-    "list_unsubscribe_urls": [
-        "mailto:unsub-7310e0bf.0twg.twjkj1k@bnc.mailjet.com"
-    ],
-    "now": 1494598271,
-    "html_in_text_plain_count": 29,
-    "last10words": " ",
+    "list_unsubscribe_invalid_count": 0,
+    "domainstat_themes": {},
+    "ahref_verbal_count": 6,
     "contains_list_header": true,
-    "dkim_count": 1,
+    "phish_score": -1,
+    "date_difference": -80074205,
+    "spamtrap_hit": false,
+    "dmarc_status": {},
+    "pepca_style": "p468554068c149993",
+    "header_from": "support@happystudio.com",
+    "spamscore": 5.2,
+    "unsub_link": "http://0twg.mj.is/link/0twg/twjkj1k/4/czOroUAi5kdsrNaWAzy3lg/aHR0cDovL3d3dy5oYXBweXN0dWRpby5jb20vUGFyZW50L1BhbmVsL1Rlcm1zP2xhbmdjb2RlPWNzJmNvdW50cnljb2RlPWN6",
+    "subject_image_count": 0,
+    "pepca_style_total": 1,
+    "from_match": 0,
+    "rfcid_is_foreign": 0,
+    "spf_dom_policy_registry": "Policy not found",
     "unsub_link_texts": [
         " obchodny podminka "
     ],
-    "rfcid_is_invalid": false,
-    "list_unsubscribe_mailto_count": 1,
-    "pepcatotal": 0,
-    "domainstat": {},
-    "word_count": 155,
-    "html_script_tag_count": 7,
-    "dkim_efrom_match": 0,
+    "attachments": [],
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/5591ebca878697db41a6f674c8007183.eml",
+    "ahref_camouflage_count": 0,
     "unsub_link_candidates": [
         "http://0twg.mj.is/link/0twg/twjkj1k/4/czOroUAi5kdsrNaWAzy3lg/aHR0cDovL3d3dy5oYXBweXN0dWRpby5jb20vUGFyZW50L1BhbmVsL1Rlcm1zP2xhbmdjb2RlPWNzJmNvdW50cnljb2RlPWN6"
     ],
-    "extractedEmails": [
-        "nr@id"
-    ],
-    "spf_dom_policy_registry": "Policy not found",
-    "spfstatus": "NONE",
-    "phish_score": -1,
-    "date_difference": -80074205,
-    "html_td_tag_count": 54,
-    "list_unsubscribe_total_count": 1,
-    "dkim_passed_count": 1,
     "extractedHrefUrlsDomainCount": 1,
-    "first10words": " ",
-    "pepca": "",
-    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/5591ebca878697db41a6f674c8007183.eml",
-    "pepca_style_total": 1,
-    "unsub_link": "http://0twg.mj.is/link/0twg/twjkj1k/4/czOroUAi5kdsrNaWAzy3lg/aHR0cDovL3d3dy5oYXBweXN0dWRpby5jb20vUGFyZW50L1BhbmVsL1Rlcm1zP2xhbmdjb2RlPWNzJmNvdW50cnljb2RlPWN6",
-    "extractedEmailsTotalCount": 1,
-    "rfcid_is_foreign": 0,
-    "attachments": [],
-    "pepca_inline_style_total": 1,
-    "header_from_count": 1,
-    "mime_children_types": [
-        "text/plain",
-        "text/plain",
-        "text/html"
-    ],
-    "dmarc_status": {},
-    "dkdomain": "happystudio.com",
-    "senders": {
-        "domain_keywords": "",
-        "log_ecnt_idf": "",
-        "log_cnt-w_duc_detail": [],
-        "log_cnt_idf_log_tidf_detail": [],
-        "log_ecnt-w_duc": "",
-        "idf_detail": [],
-        "log_cnt_idf_log_tidf": "",
-        "log_cnt-pow4_w_duc": "",
-        "plain_domain_detail": [
-            {
-                "domain": "nr-data",
-                "confidence": 1
-            },
-            {
-                "domain": "nreum",
-                "confidence": 1
-            },
-            {
-                "domain": "newrelic",
-                "confidence": 1
-            }
-        ],
-        "log_cnt-pow_w_duc": "",
-        "log_cnt_idf_detail": [],
-        "log_ecnt_log_idf_log_tidf_detail": [],
-        "tf_log_idf_detail": [],
-        "ttf_w_duc_detail": [],
-        "cnt-pow_w_duc_detail": [],
-        "log_cnt-pow4_w_duc_detail": [],
-        "ettf_w_duc": "",
-        "log_ecnt_idf_detail": [],
-        "ttf_w_duc": "",
-        "plain_domain": "nr-data",
-        "domain_keywords_detail": [],
-        "cnt-pow_w_duc": "",
-        "cnt-pow4_w_duc": "",
-        "log_cnt-pow_w_duc_detail": [],
-        "ettf_w_duc_detail": [],
-        "log_ecnt-w_duc_detail": [],
-        "log_cnt_idf": "",
-        "tf_log_idf": "",
-        "src_revert_detail": [
-            {
-                "domain": "happystudio",
-                "confidence": 6
-            }
-        ],
-        "log_ecnt_log_idf_log_tidf": "",
-        "log_cnt-w_duc": "",
-        "cnt-pow4_w_duc_detail": [],
-        "idf": "",
-        "log_ecnt_idf_log_tidf": "",
-        "log_ecnt_idf_log_tidf_detail": [],
-        "src_revert": "happystudio"
-    },
-    "dkim_hfrom_match": 1,
-    "header_reply_to_count": 0,
-    "list_unsubscribe_http_count": 0,
-    "extractedSrcUrls": [
-        "http://cdn01web05.happystudio.com/Images/parent/email/activatebutton-top.jpg?cb=1571298",
-        "http://cdn01web08.happystudio.com/Images/parent/email/activatebutton-arrow.jpg?cb=1571298",
-        "http://cdn01web02.happystudio.com/Images/parent/email/activatebutton-bottom.png?cb=1571298",
-        "http://cdn01web07.happystudio.com/Images/parent/email/footer.jpg?cb=1571298",
-        "http://0twg.mj.is/o/0twg/a7e1a693/twjkj1ke.gif"
-    ],
-    "lang": "cs",
+    "list_unsubscribe_mailto_count": 1,
+    "html_tr_tag_count": 34,
+    "pepcatotal": 0,
+    "html_script_tag_count": 7,
+    "dkim_passed_count": 1,
     "extractedHrefUrlsTotalCount": 5,
-    "dk_statuses": [
-        {
-            "status": "PASS",
-            "selector": "mailjet",
-            "domain": "happystudio.com"
-        }
-    ],
-    "from_match": 0,
-    "extractedHrefUrls": [
-        "http://0twg.mj.is/link/0twg/twjkj1k/1/deKuq2BrvEldlV8E2uiSjA/aHR0cDovL3d3dy5oYXBweXN0dWRpby5jb20vUGFyZW50cy9Db25maXJtYXRpb24_dGc",
-        "http://0twg.mj.is/link/0twg/twjkj1k/2/L-DAGyl-dnC_Oz3BdsrNzA/aHR0cDovL3d3dy5oYXBweXN0dWRpby5jb20vUGFyZW50cy9Db25maXJtYXRpb24_dGc",
-        "http://0twg.mj.is/link/0twg/twjkj1k/3/SzRtlbkAB24VVDbDVvitCQ/aHR0cDovL3d3dy5oYXBweXN0dWRpby5jb20vUGFyZW50cy9Db25maXJtYXRpb24_dGc",
-        "http://0twg.mj.is/link/0twg/twjkj1k/4/czOroUAi5kdsrNaWAzy3lg/aHR0cDovL3d3dy5oYXBweXN0dWRpby5jb20vUGFyZW50L1BhbmVsL1Rlcm1zP2xhbmd",
-        "http://0twg.mj.is/link/0twg/twjkj1k/5/r0cG9WZryUOWYWNsbGJSWQ/aHR0cDovL3d3dy5oYXBweXN0dWRpby5jb20vUGFyZW50L1BhbmVsL1BvbGljeT9sYW5"
-    ],
+    "ahref_total_count": 6,
     "pepca_inline_style": "pc85f5df9a39356e4",
-    "self_send": 0,
-    "subject_image_count": 0,
-    "ahref_verbal_count": 6,
-    "extractedTxtUrlsTotalCount": 5,
-    "subject_word_count": 7,
+    "rcpts_count": 1,
     "extractedEmailsDomainCount": 1,
-    "header_from": "support@happystudio.com",
-    "mime_root_type": "multipart/alternative",
-    "rfcid_length": 38,
-    "mime_children_count": 3,
-    "extractedHrefUrlsCardinality": 5,
-    "adscore": 0,
-    "dkim_signs_cnt": 1,
-    "spamtrap_hit": false,
-    "theme": {},
-    "spf_status_registry": "Status not found",
-    "dkselector": "mailjet",
     "phishing": {
-        "camouflage": 0,
+        "subject_phish_keywords": 0,
+        "html_form": 0,
         "num_black_sheep_link": -1,
-        "subject_richness": 0.11864406779661,
-        "max_num_slashes_urls": 6,
+        "num_domain_phish": 0,
+        "num_shortened_urls": 0,
+        "num_phish_keywords": 0,
+        "num_www_in_url_path": 0,
+        "num_attachments": 0,
+        "num_external_links": 10,
+        "num_black_sheep_link_global": -1,
+        "num_black_sheep_link_phish": 0,
+        "is_html": true,
+        "num_sender_diff_url": 5,
+        "num_subject_phish_keywords": 0,
+        "num_tld_in_url_path": 0,
+        "text_and_href": 0,
+        "ner_domain_detected": false,
+        "max_num_dots_urls": 4,
+        "camouflage": 0,
+        "num_text_forms": 11,
         "num_https_urls": 0,
         "body_richness": 0.717592592592593,
-        "ner_domain_detected": false,
-        "num_domain_phish": 0,
-        "num_subdomain_phish": 0,
-        "num_sender_diff_url": 5,
-        "num_external_links": 10,
-        "fake_https": 0,
-        "num_html_script_tags": 0,
-        "num_freehost_urls": 0,
-        "num_phish_keywords": 0,
-        "suspicious_links": [],
-        "num_attachments": 0,
-        "text_and_href": 0,
-        "num_subject_phish_keywords": 0,
-        "subject_phish_keywords": 0,
-        "num_www_in_url_path": 0,
-        "html_form": 0,
-        "num_of_chars": 215,
         "num_ip_urls": 0,
-        "num_path_phish": 0,
-        "num_param_phish": 0,
-        "max_num_dots_urls": 4,
-        "num_tld_in_url_path": 0,
-        "is_html": true,
-        "num_black_sheep_link_phish": 0,
-        "num_non_80_port_urls": 0,
-        "num_text_forms": 11,
-        "num_black_sheep_link_global": -1,
+        "num_html_script_tags": 0,
+        "subject_richness": 0.11864406779661,
+        "fake_https": 0,
+        "suspicious_links": [],
+        "num_of_chars": 215,
         "text_link_with_path": 1,
-        "num_shortened_urls": 0
+        "num_path_phish": 0,
+        "num_subdomain_phish": 0,
+        "max_num_slashes_urls": 6,
+        "num_param_phish": 0,
+        "num_non_80_port_urls": 0,
+        "num_freehost_urls": 0
     },
-    "subject": "Vitejte v Happy Studiu dokonceni registrace rodice",
-    "list_unsubscribe_invalid_count": 0
+    "spf_domain_policy": "UNKNOWN",
+    "extractedSrcUrlsTotalCount": 7,
+    "dkim_signs_cnt": 1,
+    "adscore": 0,
+    "spf_status_registry": "Status not found",
+    "extractedEmailsCardinality": 1,
+    "content": "CONTENT_DEFAULT",
+    "extractedTxtUrlsCardinality": 5,
+    "list_unsubscribe_http_count": 0,
+    "spfstatus": "NONE",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf": "",
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "idf": "",
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "src_revert_detail": [
+            {
+                "confidence": 6,
+                "domain": "happystudio"
+            }
+        ],
+        "log_cnt-w_duc": "",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "nr-data"
+            },
+            {
+                "confidence": 1,
+                "domain": "nreum"
+            },
+            {
+                "confidence": 1,
+                "domain": "newrelic"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "cnt-pow_w_duc": "",
+        "src_revert": "happystudio",
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "nr-data",
+        "domain_keywords_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "domain_keywords": "",
+        "log_cnt_idf": "",
+        "log_ecnt_idf_log_tidf_detail": []
+    },
+    "html_in_text_plain_count": 29,
+    "extractedHrefUrlsCardinality": 5,
+    "extractedTxtUrlsTotalCount": 5,
+    "mime_children_count": 3
 }

@@ -1,42 +1,116 @@
 {
-    "extractedHrefUrlsTotalCount": 11,
-    "dkim_efrom_match": 0,
-    "rcpts_count": 1,
-    "extractedEmailsTotalCount": 4,
-    "pepca_inline_style": "p86d402b23f35de9b",
-    "subject": "Petra710 Vase heslo na Osameli s detmi",
-    "header_reply_to_count": 0,
-    "precedence": 3,
-    "subject_word_count": 7,
-    "extractedHrefUrlsDomainCount": 1,
-    "from_match": 0,
-    "first10words": " Petra710 Vase heslo na Osameli s detmi Chcete li mit vsechny zpravy dorucene do Vasi e mailove schranky pridejte p",
-    "extractedTxtUrlsDomainCount": 1,
-    "header_total_count": 18,
-    "unsub_link_texts": [
-        "pokud byt si nezalozit tento ucet odhlasit se zde "
-    ],
-    "dkim_signs_cnt": 1,
-    "subject_image_count": 0,
+    "spf_domain_policy": "UNKNOWN",
+    "last10words": "o email muze obsahovat inzerci Dating Factory s r o 3 patro 207 Regent Street Londyn W1B 3HH Velka Britanie ",
+    "header_from": "dontreply@mass.datingfactory.com",
+    "list_unsubscribe_invalid_count": 0,
+    "rfcid_is_invalid": false,
+    "self_send": 0,
     "html_in_text_plain_count": 1,
-    "attachments": [],
+    "rcpts_count": 1,
+    "extractedSrcUrls": [
+        "http://osamelisdetmi.cz/images/logo.png",
+        "http://osamelisdetmi.cz/images/mailing/bottom.gif?messageId=1363052709.45107972.26439501.1"
+    ],
+    "list_unsubscribe_total_count": 2,
+    "extractedEmailsDomainCount": 3,
+    "html_td_tag_count": 44,
+    "extractedTxtUrlsCardinality": 1,
+    "header_reply_to_count": 0,
+    "first10words": " Petra710 Vase heslo na Osameli s detmi Chcete li mit vsechny zpravy dorucene do Vasi e mailove schranky pridejte p",
+    "dkim_signs_cnt": 1,
+    "extractedHrefUrlsCardinality": 11,
+    "extractedHrefUrlsTotalCount": 11,
+    "ahref_camouflage_count": 0,
+    "rfcid_length": 83,
+    "subject": "Petra710 Vase heslo na Osameli s detmi",
+    "content": "CONTENT_DEFAULT",
+    "extractedSrcUrlsDomainCount": 1,
+    "list_unsubscribe_mailto_count": 1,
+    "dkstatus": "PASS",
+    "mime_children_count": 2,
     "contains_list_header": true,
-    "dkdomain": "mass.datingfactory.com",
-    "html_tr_tag_count": 24,
-    "pepca_style": "",
-    "extractedTxtUrlsTotalCount": 1,
     "spamscore": 1.1,
-    "word_count": 274,
-    "extractedEmailsCardinality": 4,
-    "extractedSrcUrlsTotalCount": 2,
-    "dkim_count": 1,
+    "spf_status_registry": "Status not found",
+    "rfcid_is_foreign": 1,
+    "dkim_hfrom_match": 1,
+    "mime_root_type": "multipart/alternative",
+    "from_match": 0,
+    "html_tr_tag_count": 24,
     "pepca": "p55f6eed0b5380052",
-    "date_difference": -80189339,
+    "ahref_verbal_count": 9,
+    "spfstatus_hfrom": "SPF_FAIL",
+    "pepca_inline_style": "p86d402b23f35de9b",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/6707148a612485d86aa059f2eaf949ed.eml",
+    "attachments": [],
+    "senders": {
+        "log_cnt-w_duc_detail": [],
+        "idf_detail": [],
+        "log_ecnt_idf_detail": [],
+        "domain_keywords": "datingfactory",
+        "log_cnt-pow_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "src_revert": "",
+        "ttf_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "domain": "datingfactory",
+                "confidence": 197454508.303946
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_cnt_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-w_duc": "",
+        "log_ecnt-w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "tf_log_idf": "",
+        "log_cnt_idf": "",
+        "log_ecnt_idf": "",
+        "idf": "",
+        "src_revert_detail": [],
+        "plain_domain_detail": [
+            {
+                "domain": "osamelisdetmi",
+                "confidence": 1
+            }
+        ],
+        "cnt-pow_w_duc_detail": [],
+        "plain_domain": "osamelisdetmi",
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "tf_log_idf_detail": []
+    },
     "unsub_link_candidates": [
         "http://osamelisdetmi.cz/support/unsubscribe/0045107972002lnp83c7dd3936660ca31a1b41efd4ddb179/1363052709.45107972.26439501.18?linkId=2"
     ],
-    "phish_score": 0,
-    "dkim_hfrom_match": 1,
+    "unsub_link": "http://osamelisdetmi.cz/support/unsubscribe/0045107972002lnp83c7dd3936660ca31a1b41efd4ddb179/1363052709.45107972.26439501.18?linkId=2",
+    "subject_word_count": 7,
+    "spfstatus": "NONE",
+    "dkim_passed_count": 1,
+    "header_total_count": 18,
+    "header_from_count": 1,
+    "extractedSrcUrlsTotalCount": 2,
+    "extractedEmails": [
+        "unsubscribe+1363052709.45107972.26439501.28@datingfactory.com",
+        "petrahlavackovacs@seznam.cz",
+        "1363052709.45107972.26439501.28@datingfactory.com",
+        "1363052709.45107972.26439501.28@datingfactory.com.Na"
+    ],
+    "spf_dom_policy_registry": "Policy not found",
+    "list_unsubscribe_urls": [
+        "mailto:unsubscribe+1363052709.45107972.26439501.18@mass.datingfactory.com",
+        "http://osamelisdetmi.cz/support/unsubscribe/0045107972002lnp83c7dd3936660ca31a1b41efd4ddb179/1363052709.45107972.26439501.18?linkId=77"
+    ],
     "extractedHrefUrls": [
         "http://osamelisdetmi.cz/contacts/?linkId=7&authId=0045107972002lnp83c7dd3936660ca31a1b41efd4ddb179&refMailId=1363052709",
         "http://osamelisdetmi.cz/home/?linkId=8&authId=0045107972002lnp83c7dd3936660ca31a1b41efd4ddb179&refMailId=1363052709",
@@ -44,183 +118,109 @@
         "http://osamelisdetmi.cz/privacy/?linkId=10&authId=0045107972002lnp83c7dd3936660ca31a1b41efd4ddb179&refMailId=1363052709",
         "http://osamelisdetmi.cz/contacts/?linkId=11&authId=0045107972002lnp83c7dd3936660ca31a1b41efd4ddb179&refMailId=1363052709"
     ],
-    "senders": {
-        "log_cnt_idf_detail": [],
-        "log_ecnt_idf_detail": [],
-        "tf_log_idf": "",
-        "log_cnt-pow4_w_duc": "",
-        "log_ecnt_idf_log_tidf_detail": [],
-        "cnt-pow_w_duc_detail": [],
-        "cnt-pow_w_duc": "",
-        "log_ecnt-w_duc_detail": [],
-        "idf": "",
-        "cnt-pow4_w_duc_detail": [],
-        "ttf_w_duc_detail": [],
-        "ettf_w_duc_detail": [],
-        "log_cnt-w_duc": "",
-        "src_revert": "",
-        "log_cnt_idf_log_tidf_detail": [],
-        "log_cnt_idf_log_tidf": "",
-        "log_cnt-pow4_w_duc_detail": [],
-        "log_cnt-pow_w_duc": "",
-        "cnt-pow4_w_duc": "",
-        "plain_domain": "osamelisdetmi",
-        "src_revert_detail": [],
-        "log_ecnt_log_idf_log_tidf": "",
-        "log_ecnt_idf_log_tidf": "",
-        "log_cnt-pow_w_duc_detail": [],
-        "ttf_w_duc": "",
-        "plain_domain_detail": [
-            {
-                "confidence": 1,
-                "domain": "osamelisdetmi"
-            }
-        ],
-        "log_ecnt_idf": "",
-        "tf_log_idf_detail": [],
-        "ettf_w_duc": "",
-        "idf_detail": [],
-        "log_ecnt_log_idf_log_tidf_detail": [],
-        "domain_keywords_detail": [
-            {
-                "confidence": 197454508.303946,
-                "domain": "datingfactory"
-            }
-        ],
-        "domain_keywords": "datingfactory",
-        "log_cnt-w_duc_detail": [],
-        "log_ecnt-w_duc": "",
-        "log_cnt_idf": ""
-    },
-    "content": "CONTENT_DEFAULT",
-    "last10words": "o email muze obsahovat inzerci Dating Factory s r o 3 patro 207 Regent Street Londyn W1B 3HH Velka Britanie ",
+    "ahref_total_count": 11,
+    "dkselector": "k1",
+    "spamtrap_hit": false,
+    "mime_children_types": [
+        "text/plain",
+        "text/html"
+    ],
+    "dk_statuses": [
+        {
+            "domain": "mass.datingfactory.com",
+            "selector": "k1",
+            "status": "PASS"
+        }
+    ],
+    "extractedEmailsCardinality": 4,
+    "phish_score": 0,
+    "extractedSrcUrlsCardinality": 2,
+    "dkim_efrom_match": 0,
+    "extractedTxtUrls": [
+        "http://osamelisdetmi.cz"
+    ],
+    "html_script_tag_count": 0,
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p55f6eed0b5380052"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p86d402b23f35de9b"
+        }
+    ],
+    "extractedTxtUrlsDomainCount": 1,
+    "dkim_count": 1,
     "pepcatotal": 1,
-    "header_from": "dontreply@mass.datingfactory.com",
+    "date_difference": -80189339,
+    "lang": "cs",
+    "list_unsubscribe_http_count": 1,
+    "word_count": 274,
+    "extractedHrefUrlsDomainCount": 1,
+    "precedence": 3,
     "notches": [
         {
+            "score": 1.1,
             "subscores": [
                 1,
                 0.0,
                 0.1
             ],
-            "score": 1.1,
-            "module": "ill",
             "name": [
                 "date_in_past",
                 "from_missmatch",
                 "foreign_message_id"
-            ]
+            ],
+            "module": "ill"
         }
     ],
-    "extractedTxtUrls": [
-        "http://osamelisdetmi.cz"
-    ],
-    "mime_root_type": "multipart/alternative",
-    "header_from_count": 1,
-    "now": 1494598298,
-    "pepca_inline_style_total": 0,
-    "extractedHrefUrlsCardinality": 11,
-    "dkselector": "k1",
-    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/6707148a612485d86aa059f2eaf949ed.eml",
-    "html_td_tag_count": 44,
-    "pepca_style_total": 0,
-    "list_unsubscribe_mailto_count": 1,
-    "lang": "cs",
+    "extractedTxtUrlsTotalCount": 1,
     "phishing": {
-        "num_html_script_tags": 0,
-        "num_text_forms": 2,
-        "fake_https": 0,
         "is_html": true,
-        "num_non_80_port_urls": 0,
-        "num_https_urls": 0,
-        "num_of_chars": 1673,
-        "num_param_phish": 0,
-        "text_and_href": 0,
-        "body_richness": 0.163679808841099,
-        "text_link_with_path": 0,
-        "max_num_slashes_urls": 4,
-        "num_shortened_urls": 0,
-        "num_sender_diff_url": 1,
-        "num_ip_urls": 0,
-        "num_black_sheep_link": -1,
-        "subject_richness": 0.170731707317073,
-        "num_tld_in_url_path": 0,
-        "subject_phish_keywords": 1,
-        "num_black_sheep_link_global": -1,
-        "num_black_sheep_link_phish": 0,
-        "num_path_phish": 0,
-        "suspicious_links": [],
-        "html_form": 0,
-        "num_phish_keywords": 9,
         "num_subdomain_phish": 0,
+        "body_richness": 0.163679808841099,
         "num_domain_phish": 0,
-        "ner_domain_detected": false,
-        "camouflage": 0,
-        "num_freehost_urls": 0,
+        "num_https_urls": 0,
+        "text_link_with_path": 0,
+        "num_text_forms": 2,
+        "num_phish_keywords": 9,
         "num_external_links": 7,
+        "num_non_80_port_urls": 0,
+        "subject_richness": 0.170731707317073,
+        "num_black_sheep_link": -1,
+        "num_freehost_urls": 0,
+        "num_sender_diff_url": 1,
         "max_num_dots_urls": 4,
-        "num_www_in_url_path": 0
+        "fake_https": 0,
+        "suspicious_links": [],
+        "ner_domain_detected": false,
+        "num_black_sheep_link_global": -1,
+        "max_num_slashes_urls": 4,
+        "num_param_phish": 0,
+        "num_www_in_url_path": 0,
+        "text_and_href": 0,
+        "num_path_phish": 0,
+        "camouflage": 0,
+        "subject_phish_keywords": 1,
+        "num_html_script_tags": 0,
+        "num_black_sheep_link_phish": 0,
+        "num_shortened_urls": 0,
+        "num_of_chars": 1673,
+        "num_ip_urls": 0,
+        "html_form": 0,
+        "num_tld_in_url_path": 0
     },
-    "spf_status_registry": "Status not found",
-    "rfcid_is_foreign": 1,
-    "spf_domain_policy": "UNKNOWN",
-    "spfstatus_hfrom": "SPF_FAIL",
-    "dkim_passed_count": 1,
-    "extractedTxtUrlsCardinality": 1,
-    "spfstatus": "NONE",
-    "list_unsubscribe_urls": [
-        "mailto:unsubscribe+1363052709.45107972.26439501.18@mass.datingfactory.com",
-        "http://osamelisdetmi.cz/support/unsubscribe/0045107972002lnp83c7dd3936660ca31a1b41efd4ddb179/1363052709.45107972.26439501.18?linkId=77"
+    "pepca_inline_style_total": 0,
+    "unsub_link_texts": [
+        "pokud byt si nezalozit tento ucet odhlasit se zde "
     ],
-    "ahref_verbal_count": 9,
-    "self_send": 0,
-    "dkstatus": "PASS",
-    "extractedEmails": [
-        "unsubscribe+1363052709.45107972.26439501.28@datingfactory.com",
-        "petrahlavackovacs@seznam.cz",
-        "1363052709.45107972.26439501.28@datingfactory.com",
-        "1363052709.45107972.26439501.28@datingfactory.com.Na"
-    ],
-    "html_tag_total_count": 153,
-    "extractedEmailsDomainCount": 3,
-    "spamtrap_hit": false,
-    "extractedSrcUrlsCardinality": 2,
-    "ahref_total_count": 11,
-    "adscore": 0,
-    "html_script_tag_count": 0,
-    "list_unsubscribe_total_count": 2,
-    "mime_children_types": [
-        "text/plain",
-        "text/html"
-    ],
-    "unsub_link": "http://osamelisdetmi.cz/support/unsubscribe/0045107972002lnp83c7dd3936660ca31a1b41efd4ddb179/1363052709.45107972.26439501.18?linkId=2",
-    "rfcid_length": 83,
-    "phashes": [
-        {
-            "value": "p55f6eed0b5380052",
-            "name": "pepca"
-        },
-        {
-            "value": "p86d402b23f35de9b",
-            "name": "pepca_inline_style"
-        }
-    ],
-    "spf_dom_policy_registry": "Policy not found",
-    "extractedSrcUrls": [
-        "http://osamelisdetmi.cz/images/logo.png",
-        "http://osamelisdetmi.cz/images/mailing/bottom.gif?messageId=1363052709.45107972.26439501.1"
-    ],
-    "list_unsubscribe_http_count": 1,
-    "mime_children_count": 2,
-    "rfcid_is_invalid": false,
-    "extractedSrcUrlsDomainCount": 1,
-    "ahref_camouflage_count": 0,
-    "list_unsubscribe_invalid_count": 0,
-    "dk_statuses": [
-        {
-            "selector": "k1",
-            "status": "PASS",
-            "domain": "mass.datingfactory.com"
-        }
-    ]
+    "dkdomain": "mass.datingfactory.com",
+    "extractedEmailsTotalCount": 4,
+    "now": 1494598298,
+    "pepca_style_total": 0,
+    "subject_image_count": 0,
+    "pepca_style": "",
+    "html_tag_total_count": 153
 }

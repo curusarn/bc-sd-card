@@ -1,218 +1,218 @@
 {
+    "spf_domain_policy": "UNKNOWN",
+    "subject_word_count": 2,
+    "last10words": "datum doruceni Vas Slevomat cz Zijte bohatsi zivot Mate dotaz Radi vam pomuzeme Prosim kontaktujte nas ",
+    "spfstatus": "NONE",
+    "header_from": "neodpovidejte@slevomat.cz",
+    "dkim_passed_count": 1,
+    "header_total_count": 16,
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p3f52fc3fb99e137d"
+        },
+        {
+            "name": "pepca_style",
+            "value": "pf6729eb342bdc4bf"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p0253cb9ba192d7a2"
+        }
+    ],
+    "self_send": 0,
+    "header_from_count": 1,
+    "phish_score": 0,
+    "html_in_text_plain_count": 0,
+    "extractedSrcUrlsTotalCount": 3,
+    "rcpts_count": 1,
+    "extractedEmails": [],
+    "precedence": 3,
+    "spf_dom_policy_registry": "Policy not found",
+    "dkim_hfrom_match": 1,
+    "list_unsubscribe_total_count": 0,
+    "ahref_total_count": 5,
+    "extractedEmailsDomainCount": 0,
+    "html_td_tag_count": 6,
+    "spamtrap_hit": false,
+    "dkselector": "dkim",
+    "extractedTxtUrlsCardinality": 1,
+    "dk_statuses": [
+        {
+            "domain": "slevomat.cz",
+            "selector": "dkim",
+            "status": "PASS"
+        }
+    ],
+    "first10words": " Vase objednavka Hezky den Romano Dekujeme za vas nakup Nize vam posilame shrnuti objednavky Vouch",
+    "extractedEmailsCardinality": 0,
     "notches": [
         {
+            "score": 1.1,
             "subscores": [
                 1,
                 0.0,
                 0.1
             ],
-            "score": 1.1,
-            "module": "ill",
             "name": [
                 "date_in_past",
                 "from_missmatch",
                 "foreign_message_id"
-            ]
+            ],
+            "module": "ill"
         }
     ],
-    "extractedTxtUrls": [
-        "http://Slevomat.cz"
-    ],
-    "spfstatus": "NONE",
-    "mime_root_type": "multipart/alternative",
-    "header_from_count": 1,
-    "now": 1494598287,
-    "dkim_efrom_match": 0,
-    "pepca_inline_style_total": 2,
-    "rcpts_count": 1,
     "extractedEmailsTotalCount": 0,
-    "pepca_inline_style": "p0253cb9ba192d7a2",
-    "pepca_style_total": 5,
-    "dkselector": "dkim",
-    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/5f3caf1ce5d03a91a6e4b40c66ec81c4.eml.eml",
-    "html_td_tag_count": 6,
-    "extractedHrefUrlsCardinality": 4,
-    "list_unsubscribe_mailto_count": 0,
-    "subject_word_count": 2,
-    "lang": "cs",
-    "precedence": 3,
-    "phishing": {
-        "num_html_script_tags": 0,
-        "num_text_forms": 3,
-        "fake_https": 0,
-        "is_html": true,
-        "num_non_80_port_urls": 0,
-        "num_https_urls": 6,
-        "num_of_chars": 644,
-        "num_param_phish": 0,
-        "text_and_href": 0,
-        "body_richness": 0.168992248062016,
-        "text_link_with_path": 0,
-        "max_num_slashes_urls": 2,
-        "num_shortened_urls": 0,
-        "num_sender_diff_url": 0,
-        "num_ip_urls": 0,
-        "num_black_sheep_link": -1,
-        "subject_richness": 0.111111111111111,
-        "num_tld_in_url_path": 0,
-        "subject_phish_keywords": 0,
-        "num_black_sheep_link_global": -1,
-        "num_black_sheep_link_phish": 0,
-        "num_path_phish": 0,
-        "suspicious_links": [],
-        "html_form": 0,
-        "num_phish_keywords": 0,
-        "num_subdomain_phish": 0,
-        "num_domain_phish": 0,
-        "ner_domain_detected": false,
-        "camouflage": 0,
-        "num_freehost_urls": 0,
-        "num_external_links": 7,
-        "max_num_dots_urls": 2,
-        "num_www_in_url_path": 0
-    },
-    "spf_status_registry": "Status not found",
-    "rfcid_is_foreign": 1,
-    "from_match": 0,
-    "first10words": " Vase objednavka Hezky den Romano Dekujeme za vas nakup Nize vam posilame shrnuti objednavky Vouch",
-    "extractedTxtUrlsDomainCount": 1,
-    "spf_domain_policy": "UNKNOWN",
-    "header_total_count": 16,
-    "dkim_passed_count": 1,
-    "extractedTxtUrlsCardinality": 1,
+    "subject_image_count": 0,
+    "extractedSrcUrlsCardinality": 3,
     "dkim_signs_cnt": 1,
+    "pepca_style": "pf6729eb342bdc4bf",
+    "html_script_tag_count": 0,
+    "extractedHrefUrlsCardinality": 4,
+    "adscore": 0,
+    "list_unsubscribe_http_count": 0,
+    "extractedHrefUrlsTotalCount": 4,
+    "content": "CONTENT_DEFAULT",
+    "rfcid_length": 26,
+    "extractedTxtUrlsDomainCount": 1,
+    "pepca_inline_style_total": 2,
+    "dkim_count": 1,
+    "subject": "Vase objednavka",
+    "pepcatotal": 0,
+    "mime_root_type": "multipart/alternative",
+    "ahref_camouflage_count": 0,
+    "date_difference": -73527746,
+    "header_reply_to_count": 0,
+    "list_unsubscribe_mailto_count": 0,
+    "rfcid_is_foreign": 1,
+    "dkstatus": "PASS",
+    "mime_children_count": 2,
+    "extractedHrefUrlsDomainCount": 1,
+    "word_count": 109,
+    "list_unsubscribe_invalid_count": 0,
     "mime_children_types": [
         "text/plain",
         "text/html"
     ],
-    "ahref_verbal_count": 4,
-    "subject_image_count": 0,
-    "phish_score": 0,
-    "rfcid_is_invalid": false,
-    "dkstatus": "PASS",
-    "phashes": [
-        {
-            "value": "p3f52fc3fb99e137d",
-            "name": "pepca"
-        },
-        {
-            "value": "pf6729eb342bdc4bf",
-            "name": "pepca_style"
-        },
-        {
-            "value": "p0253cb9ba192d7a2",
-            "name": "pepca_inline_style"
-        }
+    "extractedTxtUrls": [
+        "http://Slevomat.cz"
     ],
+    "spf_status_registry": "Status not found",
+    "lang": "cs",
     "extractedTxtUrlsTotalCount": 1,
-    "self_send": 0,
-    "dkdomain": "slevomat.cz",
-    "html_tr_tag_count": 4,
-    "extractedEmails": [],
-    "html_tag_total_count": 73,
-    "mime_children_count": 2,
-    "spamtrap_hit": false,
-    "extractedEmailsDomainCount": 0,
-    "extractedHrefUrlsTotalCount": 4,
-    "dk_statuses": [
-        {
-            "selector": "dkim",
-            "status": "PASS",
-            "domain": "slevomat.cz"
-        }
-    ],
-    "extractedSrcUrlsCardinality": 3,
-    "senders": {
-        "log_cnt_idf_detail": [],
-        "log_ecnt_idf_detail": [],
-        "tf_log_idf": "",
-        "log_cnt-pow4_w_duc": "",
-        "log_ecnt_idf_log_tidf_detail": [],
-        "cnt-pow_w_duc_detail": [],
-        "cnt-pow_w_duc": "",
-        "log_ecnt-w_duc_detail": [],
-        "idf": "",
-        "cnt-pow4_w_duc_detail": [],
-        "ttf_w_duc_detail": [],
-        "ettf_w_duc_detail": [],
-        "log_cnt-w_duc": "",
-        "src_revert": "slevomat",
-        "log_cnt_idf_log_tidf_detail": [],
-        "log_cnt_idf_log_tidf": "",
-        "log_cnt-pow4_w_duc_detail": [],
-        "log_cnt-pow_w_duc": "",
-        "cnt-pow4_w_duc": "",
-        "plain_domain": "slevomat",
-        "src_revert_detail": [
-            {
-                "confidence": 3,
-                "domain": "slevomat"
-            }
-        ],
-        "log_ecnt_log_idf_log_tidf": "",
-        "log_ecnt_idf_log_tidf": "",
-        "log_cnt-pow_w_duc_detail": [],
-        "ttf_w_duc": "",
-        "plain_domain_detail": [
-            {
-                "confidence": 1,
-                "domain": "slevomat"
-            }
-        ],
-        "log_ecnt_idf": "",
-        "tf_log_idf_detail": [],
-        "ettf_w_duc": "",
-        "idf_detail": [],
-        "log_ecnt_log_idf_log_tidf_detail": [],
-        "domain_keywords_detail": [
-            {
-                "confidence": 16708215.5535,
-                "domain": "skrz"
-            }
-        ],
-        "domain_keywords": "skrz",
-        "log_cnt-w_duc_detail": [],
-        "log_ecnt-w_duc": "",
-        "log_cnt_idf": ""
+    "phishing": {
+        "is_html": true,
+        "num_subdomain_phish": 0,
+        "body_richness": 0.168992248062016,
+        "num_domain_phish": 0,
+        "num_https_urls": 6,
+        "text_link_with_path": 0,
+        "num_text_forms": 3,
+        "num_phish_keywords": 0,
+        "num_external_links": 7,
+        "num_non_80_port_urls": 0,
+        "subject_richness": 0.111111111111111,
+        "num_black_sheep_link": -1,
+        "num_freehost_urls": 0,
+        "num_sender_diff_url": 0,
+        "max_num_dots_urls": 2,
+        "fake_https": 0,
+        "suspicious_links": [],
+        "ner_domain_detected": false,
+        "num_black_sheep_link_global": -1,
+        "max_num_slashes_urls": 2,
+        "num_param_phish": 0,
+        "num_www_in_url_path": 0,
+        "text_and_href": 0,
+        "num_path_phish": 0,
+        "camouflage": 0,
+        "subject_phish_keywords": 0,
+        "num_html_script_tags": 0,
+        "num_black_sheep_link_phish": 0,
+        "num_shortened_urls": 0,
+        "num_of_chars": 644,
+        "num_ip_urls": 0,
+        "html_form": 0,
+        "num_tld_in_url_path": 0
     },
-    "spamscore": 1.1,
-    "ahref_total_count": 5,
-    "extractedEmailsCardinality": 0,
-    "extractedSrcUrlsTotalCount": 3,
-    "dkim_count": 1,
-    "adscore": 0,
-    "pepca": "p3f52fc3fb99e137d",
-    "html_script_tag_count": 0,
-    "date_difference": -73527746,
-    "html_in_text_plain_count": 0,
-    "pepca_style": "pf6729eb342bdc4bf",
-    "word_count": 109,
-    "rfcid_length": 26,
-    "spf_dom_policy_registry": "Policy not found",
-    "pepcatotal": 0,
-    "last10words": "datum doruceni Vas Slevomat cz Zijte bohatsi zivot Mate dotaz Radi vam pomuzeme Prosim kontaktujte nas ",
-    "extractedHrefUrls": [
-        "https://www.slevomat.cz/?utm_medium=email&utm_source=vouchers&utm_campaign=vouchers&nt_id=1690353095&nt_h=7ca8c21a121833508376c9",
-        "https://www.slevomat.cz/voucher/c759ea39e04ca7a412b05b5505c317a2?nt_id=1690353095&nt_h=7ca8c21a121833508376c939eceff37b2ed87e15&",
-        "https://www.slevomat.cz/ucet?utm_medium=email&utm_source=vouchers&utm_campaign=vouchers&nt_id=1690353095&nt_h=7ca8c21a1218335083",
-        "http://www.slevomat.cz/kontakt?utm_medium=email&utm_source=vouchers&utm_campaign=vouchers&nt_id=1690353095&nt_h=7ca8c21a12183350"
-    ],
-    "spfstatus_hfrom": "SPF_NEUTRAL",
-    "header_reply_to_count": 0,
-    "dkim_hfrom_match": 1,
-    "attachments": [],
-    "content": "CONTENT_DEFAULT",
     "extractedSrcUrls": [
         "https://slevomat.sgcdn.cz/static/images/logo-email-s.png",
         "https://www.slevomat.cz/notification/read/1690353095?hash=7ca8c21a121833508376c939eceff37b2ed87e15",
         "https://slevomat.sgcdn.cz/images/t/240/34/90/3490561-54f2bb.jpg"
     ],
-    "list_unsubscribe_http_count": 0,
-    "extractedHrefUrlsDomainCount": 1,
-    "subject": "Vase objednavka",
-    "list_unsubscribe_total_count": 0,
+    "from_match": 0,
+    "html_tr_tag_count": 4,
+    "senders": {
+        "log_cnt-w_duc_detail": [],
+        "idf_detail": [],
+        "log_ecnt_idf_detail": [],
+        "domain_keywords": "skrz",
+        "log_cnt-pow_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "src_revert": "slevomat",
+        "ttf_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "domain": "skrz",
+                "confidence": 16708215.5535
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_cnt_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-w_duc": "",
+        "log_ecnt-w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "tf_log_idf": "",
+        "log_cnt_idf": "",
+        "log_ecnt_idf": "",
+        "idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "slevomat",
+                "confidence": 3
+            }
+        ],
+        "plain_domain_detail": [
+            {
+                "domain": "slevomat",
+                "confidence": 1
+            }
+        ],
+        "cnt-pow_w_duc_detail": [],
+        "plain_domain": "slevomat",
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "tf_log_idf_detail": []
+    },
+    "pepca": "p3f52fc3fb99e137d",
+    "rfcid_is_invalid": false,
     "extractedSrcUrlsDomainCount": 2,
-    "ahref_camouflage_count": 0,
-    "list_unsubscribe_invalid_count": 0,
-    "header_from": "neodpovidejte@slevomat.cz"
+    "dkdomain": "slevomat.cz",
+    "ahref_verbal_count": 4,
+    "now": 1494598287,
+    "spfstatus_hfrom": "SPF_NEUTRAL",
+    "pepca_inline_style": "p0253cb9ba192d7a2",
+    "pepca_style_total": 5,
+    "spamscore": 1.1,
+    "dkim_efrom_match": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/5f3caf1ce5d03a91a6e4b40c66ec81c4.eml.eml",
+    "attachments": [],
+    "html_tag_total_count": 73,
+    "extractedHrefUrls": [
+        "https://www.slevomat.cz/?utm_medium=email&utm_source=vouchers&utm_campaign=vouchers&nt_id=1690353095&nt_h=7ca8c21a121833508376c9",
+        "https://www.slevomat.cz/voucher/c759ea39e04ca7a412b05b5505c317a2?nt_id=1690353095&nt_h=7ca8c21a121833508376c939eceff37b2ed87e15&",
+        "https://www.slevomat.cz/ucet?utm_medium=email&utm_source=vouchers&utm_campaign=vouchers&nt_id=1690353095&nt_h=7ca8c21a1218335083",
+        "http://www.slevomat.cz/kontakt?utm_medium=email&utm_source=vouchers&utm_campaign=vouchers&nt_id=1690353095&nt_h=7ca8c21a12183350"
+    ]
 }

@@ -1,128 +1,45 @@
 {
-    "notches": [
-        {
-            "subscores": [
-                1,
-                0.0
-            ],
-            "score": 1,
-            "module": "ill",
-            "name": [
-                "date_in_past",
-                "from_missmatch"
-            ]
-        }
-    ],
-    "rfcid_is_invalid": false,
-    "spfstatus": "NONE",
-    "mime_root_type": "multipart/mixed",
-    "header_from_count": 1,
-    "now": 1494597927,
-    "dkim_efrom_match": 0,
-    "pepca_inline_style_total": 0,
-    "rcpts_count": 1,
-    "pepca_small": "p6538663cf9b1b5fb",
-    "extractedEmailsTotalCount": 0,
-    "pepca_inline_style": "",
     "spf_domain_policy": "UNKNOWN",
-    "domainstat": {},
-    "theme": {},
-    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/891.eml",
-    "html_td_tag_count": 0,
-    "pepca_style_total": 0,
-    "list_unsubscribe_mailto_count": 0,
     "subject_word_count": 3,
-    "lang": "en",
-    "precedence": 3,
-    "phishing": {
-        "num_html_script_tags": 0,
-        "num_text_forms": 0,
-        "fake_https": 0,
-        "is_html": true,
-        "num_non_80_port_urls": 0,
-        "num_https_urls": 0,
-        "num_of_chars": 188,
-        "num_param_phish": 0,
-        "text_and_href": 0,
-        "body_richness": 0.100529100529101,
-        "text_link_with_path": 0,
-        "num_subject_phish_keywords": 0,
-        "max_num_slashes_urls": 0,
-        "num_shortened_urls": 0,
-        "num_sender_diff_url": 0,
-        "num_ip_urls": 0,
-        "num_black_sheep_link": -1,
-        "subject_richness": 0.2,
-        "num_tld_in_url_path": 0,
-        "subject_phish_keywords": 0,
-        "num_black_sheep_link_global": -1,
-        "num_black_sheep_link_phish": 0,
-        "num_path_phish": 0,
-        "num_attachments": 1,
-        "suspicious_links": [],
-        "html_form": 0,
-        "num_phish_keywords": 0,
-        "num_subdomain_phish": 0,
-        "num_domain_phish": 0,
-        "ner_domain_detected": false,
-        "camouflage": 0,
-        "num_freehost_urls": 0,
-        "num_external_links": 3,
-        "max_num_dots_urls": 0,
-        "num_www_in_url_path": 0
-    },
-    "spf_status_registry": "Status not found",
-    "rfcid_is_foreign": 0,
-    "from_match": 0,
-    "first10words": " photo photo2 ",
-    "phNotches": [
+    "last10words": " photo photo2 photo3 ",
+    "domainstat": {},
+    "spfstatus": "NONE",
+    "header_from": "alokvijayant@bol.net.in",
+    "dkim_passed_count": 0,
+    "header_total_count": 18,
+    "phashes": [
         {
-            "subscores": [
-                1,
-                1
-            ],
-            "score": 2,
-            "module": "phish-score",
-            "name": [
-                "from_mismatch",
-                "attachments"
-            ]
+            "name": "att-pepca",
+            "value": "p007a586439650dcd"
         }
     ],
-    "header_total_count": 18,
-    "dkim_passed_count": 0,
-    "dkim_signs_cnt": 1,
+    "self_send": 0,
+    "header_from_count": 1,
+    "phish_score": 2,
+    "html_in_text_plain_count": 2,
+    "extractedSrcUrlsTotalCount": 3,
+    "rcpts_count": 1,
+    "extractedEmails": [],
+    "spf_dom_policy_registry": "Policy not found",
+    "dmarc_status": {},
+    "dkim_hfrom_match": 0,
+    "list_unsubscribe_total_count": 0,
+    "ahref_total_count": 0,
+    "extractedEmailsDomainCount": 0,
+    "html_td_tag_count": 0,
+    "spamtrap_hit": false,
     "mime_children_types": [
         "text/html",
         "text/plain"
     ],
-    "ahref_verbal_count": 0,
+    "lang": "en",
+    "list_unsubscribe_http_count": 0,
+    "extractedEmailsCardinality": 0,
+    "header_reply_to_count": 0,
+    "date_difference": -337319863,
+    "extractedEmailsTotalCount": 0,
     "subject_image_count": 0,
-    "domainstat_themes": {},
-    "self_send": 0,
-    "dkstatus": "NEUTRAL",
-    "phashes": [
-        {
-            "value": "p007a586439650dcd",
-            "name": "att-pepca"
-        }
-    ],
-    "extractedEmails": [],
-    "attachments": [
-        {
-            "mime_type": "text/plain",
-            "cte": "BASE64",
-            "flags": 0,
-            "pepca": "p007a586439650dcd",
-            "sumphash": "489f555d29dfda9d3b7db31d54c94e6d",
-            "size": 134042,
-            "name": "Attachments001.BHX"
-        }
-    ],
-    "html_tr_tag_count": 0,
-    "html_tag_total_count": 17,
-    "content": "CONTENT_DEFAULT",
-    "extractedEmailsDomainCount": 0,
+    "extractedSrcUrlsCardinality": 3,
     "universalprobes": [
         {
             "key": "ps-from_mismatch",
@@ -137,92 +54,175 @@
             "value": "[]"
         }
     ],
-    "spamtrap_hit": false,
-    "extractedSrcUrlsCardinality": 3,
-    "senders": {
-        "log_cnt_idf_detail": [],
-        "log_ecnt_idf_detail": [],
-        "tf_log_idf": "",
-        "log_cnt-pow4_w_duc": "",
-        "log_ecnt_idf_log_tidf_detail": [],
-        "cnt-pow_w_duc_detail": [],
-        "cnt-pow_w_duc": "",
-        "log_ecnt-w_duc_detail": [],
-        "idf": "",
-        "cnt-pow4_w_duc_detail": [],
-        "ttf_w_duc_detail": [],
-        "ettf_w_duc_detail": [],
-        "log_cnt-w_duc": "",
-        "src_revert": "",
-        "log_cnt_idf_log_tidf_detail": [],
-        "log_cnt_idf_log_tidf": "",
-        "log_cnt-pow4_w_duc_detail": [],
-        "log_cnt-pow_w_duc": "",
-        "cnt-pow4_w_duc": "",
-        "plain_domain": "",
-        "src_revert_detail": [],
-        "log_ecnt_log_idf_log_tidf": "",
-        "log_ecnt_idf_log_tidf": "",
-        "log_cnt-pow_w_duc_detail": [],
-        "ttf_w_duc": "",
-        "plain_domain_detail": [],
-        "log_ecnt_idf": "",
-        "tf_log_idf_detail": [],
-        "ettf_w_duc": "",
-        "idf_detail": [],
-        "log_ecnt_log_idf_log_tidf_detail": [],
-        "domain_keywords_detail": [
-            {
-                "confidence": 1594040.0275,
-                "domain": "worldsingles"
-            }
-        ],
-        "domain_keywords": "worldsingles",
-        "log_cnt-w_duc_detail": [],
-        "log_ecnt-w_duc": "",
-        "log_cnt_idf": ""
-    },
-    "spamscore": 1,
-    "ahref_total_count": 0,
-    "extractedEmailsCardinality": 0,
-    "extractedSrcUrlsTotalCount": 3,
-    "dkim_count": 0,
-    "adscore": 0,
-    "pepca": "",
-    "phish_score": 2,
-    "dkStatusDetail": "NOT_SIGNED",
-    "html_script_tag_count": 0,
-    "date_difference": -337319863,
-    "html_in_text_plain_count": 2,
+    "dkim_signs_cnt": 1,
+    "unsub_link": {},
     "pepca_style": "",
-    "word_count": 19,
-    "rfcid_length": 43,
-    "spf_dom_policy_registry": "Policy not found",
-    "pepcatotal": 0,
-    "last10words": " photo photo2 photo3 ",
+    "html_script_tag_count": 0,
     "extractedHrefUrls": [],
-    "spfstatus_hfrom": "SPF_SOFTFAIL",
-    "header_reply_to_count": 0,
-    "dkim_hfrom_match": 0,
-    "dk_statuses": [
+    "phNotches": [
         {
-            "statusDetail": "NOT_SIGNED",
-            "status": "NEUTRAL"
+            "score": 2,
+            "subscores": [
+                1,
+                1
+            ],
+            "name": [
+                "from_mismatch",
+                "attachments"
+            ],
+            "module": "phish-score"
         }
     ],
-    "dmarc_status": {},
+    "adscore": 0,
+    "pepca_small": "p6538663cf9b1b5fb",
+    "content": "CONTENT_DEFAULT",
+    "rfcid_length": 43,
+    "first10words": " photo photo2 ",
+    "pepca_inline_style_total": 0,
+    "dkim_count": 0,
+    "subject": "Fwd image jpg",
+    "pepcatotal": 0,
+    "mime_root_type": "multipart/mixed",
+    "ahref_camouflage_count": 0,
+    "dkStatusDetail": "NOT_SIGNED",
+    "dk_statuses": [
+        {
+            "status": "NEUTRAL",
+            "statusDetail": "NOT_SIGNED"
+        }
+    ],
+    "list_unsubscribe_mailto_count": 0,
+    "rfcid_is_foreign": 0,
+    "dkstatus": "NEUTRAL",
+    "mime_children_count": 2,
+    "list_unsubscribe_invalid_count": 0,
+    "word_count": 19,
+    "extractedSrcUrlsDomainCount": 0,
+    "precedence": 3,
+    "notches": [
+        {
+            "score": 1,
+            "subscores": [
+                1,
+                0.0
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "module": "ill"
+        }
+    ],
+    "spf_status_registry": "Status not found",
+    "phishing": {
+        "is_html": true,
+        "num_subdomain_phish": 0,
+        "body_richness": 0.100529100529101,
+        "num_domain_phish": 0,
+        "num_https_urls": 0,
+        "text_link_with_path": 0,
+        "num_text_forms": 0,
+        "num_non_80_port_urls": 0,
+        "num_external_links": 3,
+        "num_attachments": 1,
+        "subject_richness": 0.2,
+        "num_black_sheep_link": -1,
+        "num_freehost_urls": 0,
+        "num_sender_diff_url": 0,
+        "max_num_dots_urls": 0,
+        "fake_https": 0,
+        "suspicious_links": [],
+        "ner_domain_detected": false,
+        "num_subject_phish_keywords": 0,
+        "num_black_sheep_link_global": -1,
+        "max_num_slashes_urls": 0,
+        "num_phish_keywords": 0,
+        "num_param_phish": 0,
+        "num_www_in_url_path": 0,
+        "text_and_href": 0,
+        "num_path_phish": 0,
+        "camouflage": 0,
+        "subject_phish_keywords": 0,
+        "num_html_script_tags": 0,
+        "num_black_sheep_link_phish": 0,
+        "num_shortened_urls": 0,
+        "num_of_chars": 188,
+        "num_ip_urls": 0,
+        "html_form": 0,
+        "num_tld_in_url_path": 0
+    },
     "extractedSrcUrls": [
         "photo",
         "photo2",
         "photo3"
     ],
-    "list_unsubscribe_http_count": 0,
-    "unsub_link": {},
-    "mime_children_count": 2,
-    "subject": "Fwd image jpg",
-    "list_unsubscribe_total_count": 0,
-    "extractedSrcUrlsDomainCount": 0,
-    "ahref_camouflage_count": 0,
-    "list_unsubscribe_invalid_count": 0,
-    "header_from": "alokvijayant@bol.net.in"
+    "from_match": 0,
+    "html_tr_tag_count": 0,
+    "senders": {
+        "log_cnt-w_duc_detail": [],
+        "idf_detail": [],
+        "log_ecnt_idf_detail": [],
+        "domain_keywords": "worldsingles",
+        "log_cnt-pow_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "src_revert": "",
+        "ttf_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "domain": "worldsingles",
+                "confidence": 1594040.0275
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_cnt_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-w_duc": "",
+        "log_ecnt-w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "tf_log_idf": "",
+        "log_cnt_idf": "",
+        "log_ecnt_idf": "",
+        "idf": "",
+        "src_revert_detail": [],
+        "plain_domain_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "plain_domain": "",
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "tf_log_idf_detail": []
+    },
+    "pepca": "",
+    "rfcid_is_invalid": false,
+    "domainstat_themes": {},
+    "theme": {},
+    "ahref_verbal_count": 0,
+    "now": 1494597927,
+    "spfstatus_hfrom": "SPF_SOFTFAIL",
+    "pepca_inline_style": "",
+    "pepca_style_total": 0,
+    "spamscore": 1,
+    "dkim_efrom_match": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/891.eml",
+    "attachments": [
+        {
+            "pepca": "p007a586439650dcd",
+            "cte": "BASE64",
+            "name": "Attachments001.BHX",
+            "sumphash": "489f555d29dfda9d3b7db31d54c94e6d",
+            "flags": 0,
+            "size": 134042,
+            "mime_type": "text/plain"
+        }
+    ],
+    "html_tag_total_count": 17
 }

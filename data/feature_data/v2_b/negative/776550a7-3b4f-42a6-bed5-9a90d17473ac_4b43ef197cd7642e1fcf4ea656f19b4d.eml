@@ -1,31 +1,22 @@
 {
-    "extractedHrefUrlsTotalCount": 7,
-    "dkim_efrom_match": 0,
-    "rcpts_count": 1,
-    "extractedEmailsTotalCount": 2,
-    "pepca_inline_style": "pe35cd67e066a925a",
-    "domainstat": {},
-    "theme": {},
-    "subject": "Happy Studio Potvrzeni Registrace Rodice",
-    "header_reply_to_count": 0,
-    "precedence": 3,
-    "subject_word_count": 5,
-    "extractedHrefUrlsDomainCount": 1,
-    "from_match": 0,
-    "first10words": " ",
-    "extractedTxtUrlsDomainCount": 5,
-    "header_total_count": 13,
-    "unsub_link_texts": [
-        " obchodny podminka "
-    ],
-    "dkim_signs_cnt": 1,
-    "subject_image_count": 0,
+    "spf_domain_policy": "UNKNOWN",
+    "last10words": " ",
+    "header_from": "support@happystudio.com",
+    "list_unsubscribe_invalid_count": 0,
+    "rfcid_is_invalid": false,
+    "self_send": 0,
     "html_in_text_plain_count": 62,
-    "attachments": [],
-    "contains_list_header": true,
-    "dkdomain": "happystudio.com",
-    "html_tr_tag_count": 68,
-    "pepca_style": "p468554068c149993",
+    "rcpts_count": 1,
+    "extractedSrcUrls": [
+        "http://cdn01web08.happystudio.com/Images/parent/email/activate-child-1.jpg?cb=1571298",
+        "http://cdn01web08.happystudio.com/Images/parent/email/activate-child-2.jpg?cb=1571298",
+        "http://cdn01web03.happystudio.com/Images/parent/email/activate-child-3.jpg?cb=1571298",
+        "http://cdn01web07.happystudio.com/Images/parent/email/footer.jpg?cb=1571298",
+        "http://0twg.mj.is/o/0twg/c98198eb/tl62p68e.gif"
+    ],
+    "list_unsubscribe_total_count": 1,
+    "extractedEmailsDomainCount": 2,
+    "html_td_tag_count": 120,
     "universalprobes": [
         {
             "key": "ps-from_mismatch",
@@ -52,19 +43,115 @@
             "value": "[]"
         }
     ],
-    "extractedTxtUrlsTotalCount": 8,
-    "spamscore": 5.3,
-    "word_count": 342,
-    "extractedEmailsCardinality": 2,
-    "extractedSrcUrlsTotalCount": 10,
-    "dkim_count": 1,
-    "pepca": "",
-    "date_difference": -79578799,
+    "extractedTxtUrlsCardinality": 8,
+    "header_reply_to_count": 0,
+    "first10words": " ",
+    "dkim_signs_cnt": 1,
+    "extractedHrefUrlsCardinality": 7,
+    "extractedHrefUrlsTotalCount": 7,
+    "ahref_camouflage_count": 2,
+    "rfcid_length": 38,
+    "pepca_small": "p7c1b69119a3bda39",
+    "subject": "Happy Studio Potvrzeni Registrace Rodice",
+    "mime_root_type": "multipart/alternative",
+    "content": "CONTENT_DEFAULT",
+    "extractedSrcUrlsDomainCount": 2,
+    "list_unsubscribe_mailto_count": 1,
+    "dkstatus": "PASS",
+    "mime_children_count": 3,
+    "contains_list_header": true,
+    "spf_status_registry": "Status not found",
+    "rfcid_is_foreign": 0,
+    "dkim_hfrom_match": 1,
+    "from_match": 0,
+    "html_tr_tag_count": 68,
+    "dmarc_status": {},
+    "theme": {},
+    "ahref_verbal_count": 8,
+    "spfstatus_hfrom": "SPF_SOFTFAIL",
+    "pepca_inline_style": "pe35cd67e066a925a",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/4b43ef197cd7642e1fcf4ea656f19b4d.eml",
+    "attachments": [],
+    "senders": {
+        "log_cnt-w_duc_detail": [],
+        "idf_detail": [],
+        "log_ecnt_idf_detail": [],
+        "domain_keywords": "",
+        "log_cnt-pow_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "src_revert": "happystudio",
+        "ttf_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "domain_keywords_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_cnt_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-w_duc": "",
+        "log_ecnt-w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "tf_log_idf": "",
+        "log_cnt_idf": "",
+        "log_ecnt_idf": "",
+        "idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "happystudio",
+                "confidence": 9
+            }
+        ],
+        "plain_domain_detail": [
+            {
+                "domain": "nr-data",
+                "confidence": 1
+            },
+            {
+                "domain": "newrelic",
+                "confidence": 1
+            },
+            {
+                "domain": "nreum",
+                "confidence": 1
+            },
+            {
+                "domain": "happystudio",
+                "confidence": 3
+            }
+        ],
+        "cnt-pow_w_duc_detail": [],
+        "plain_domain": "nr-data",
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "tf_log_idf_detail": []
+    },
     "unsub_link_candidates": [
         "http://0twg.mj.is/link/0twg/tl62p68/6/1OYiKKz2eKfHEzx9K98Ybg/aHR0cDovL3d3dy5oYXBweXN0dWRpby5jb20vUGFyZW50L1BhbmVsL1Rlcm1zP2xhbmdjb2RlPWNzJmNvdW50cnljb2RlPWN6"
     ],
-    "phish_score": 2,
-    "dkim_hfrom_match": 1,
+    "unsub_link": "http://0twg.mj.is/link/0twg/tl62p68/6/1OYiKKz2eKfHEzx9K98Ybg/aHR0cDovL3d3dy5oYXBweXN0dWRpby5jb20vUGFyZW50L1BhbmVsL1Rlcm1zP2xhbmdjb2RlPWNzJmNvdW50cnljb2RlPWN6",
+    "subject_word_count": 5,
+    "domainstat": {},
+    "spfstatus": "NONE",
+    "dkim_passed_count": 1,
+    "header_total_count": 13,
+    "header_from_count": 1,
+    "domainstat_themes": {},
+    "extractedSrcUrlsTotalCount": 10,
+    "extractedEmails": [
+        "nr@id",
+        "alessandramrvova@seznam.cz"
+    ],
+    "spf_dom_policy_registry": "Policy not found",
+    "list_unsubscribe_urls": [
+        "mailto:unsub-22274d57.0twg.tl62p68@bnc.mailjet.com"
+    ],
     "extractedHrefUrls": [
         "http://0twg.mj.is/link/0twg/tl62p68/3/S-4wXzUhy5SboqYd9s-PnA/aHR0cDovL3d3dy5oYXBweXN0dWRpby5jb20vUGFyZW50L0Rhc2hib2FyZC9BY3RpdmF",
         "http://0twg.mj.is/link/0twg/tl62p68/4/oOi3b16vQKdJb7goXYzgew/aHR0cDovL3d3dy5IYXBweVN0dWRpby5jb20vP2xhbmdjb2RlPWNzJmNvdW50cnljb2R",
@@ -72,90 +159,26 @@
         "http://0twg.mj.is/link/0twg/tl62p68/6/1OYiKKz2eKfHEzx9K98Ybg/aHR0cDovL3d3dy5oYXBweXN0dWRpby5jb20vUGFyZW50L1BhbmVsL1Rlcm1zP2xhbmd",
         "http://0twg.mj.is/link/0twg/tl62p68/7/aG3mG1yirm_iOEZy7a6EOQ/aHR0cDovL3d3dy5oYXBweXN0dWRpby5jb20vUGFyZW50L1BhbmVsL1BvbGljeT9sYW5"
     ],
-    "senders": {
-        "log_cnt_idf_detail": [],
-        "log_ecnt_idf_detail": [],
-        "tf_log_idf": "",
-        "log_cnt-pow4_w_duc": "",
-        "log_ecnt_idf_log_tidf_detail": [],
-        "cnt-pow_w_duc_detail": [],
-        "cnt-pow_w_duc": "",
-        "log_ecnt-w_duc_detail": [],
-        "idf": "",
-        "cnt-pow4_w_duc_detail": [],
-        "ttf_w_duc_detail": [],
-        "ettf_w_duc_detail": [],
-        "log_cnt-w_duc": "",
-        "src_revert": "happystudio",
-        "log_cnt_idf_log_tidf_detail": [],
-        "log_cnt_idf_log_tidf": "",
-        "log_cnt-pow4_w_duc_detail": [],
-        "log_cnt-pow_w_duc": "",
-        "cnt-pow4_w_duc": "",
-        "plain_domain": "nr-data",
-        "src_revert_detail": [
-            {
-                "confidence": 9,
-                "domain": "happystudio"
-            }
-        ],
-        "log_ecnt_log_idf_log_tidf": "",
-        "log_ecnt_idf_log_tidf": "",
-        "log_cnt-pow_w_duc_detail": [],
-        "ttf_w_duc": "",
-        "plain_domain_detail": [
-            {
-                "confidence": 1,
-                "domain": "nr-data"
-            },
-            {
-                "confidence": 1,
-                "domain": "newrelic"
-            },
-            {
-                "confidence": 1,
-                "domain": "nreum"
-            },
-            {
-                "confidence": 3,
-                "domain": "happystudio"
-            }
-        ],
-        "log_ecnt_idf": "",
-        "tf_log_idf_detail": [],
-        "ettf_w_duc": "",
-        "idf_detail": [],
-        "log_ecnt_log_idf_log_tidf_detail": [],
-        "domain_keywords_detail": [],
-        "domain_keywords": "",
-        "log_cnt-w_duc_detail": [],
-        "log_ecnt-w_duc": "",
-        "log_cnt_idf": ""
-    },
-    "content": "CONTENT_DEFAULT",
-    "rfcid_length": 38,
-    "pepcatotal": 0,
-    "header_from": "support@happystudio.com",
-    "notches": [
+    "ahref_total_count": 12,
+    "dkselector": "mailjet",
+    "spamtrap_hit": false,
+    "mime_children_types": [
+        "text/plain",
+        "text/plain",
+        "text/html"
+    ],
+    "dk_statuses": [
         {
-            "subscores": [
-                1,
-                0.1,
-                0.0,
-                0.1,
-                4.1
-            ],
-            "score": 5.3,
-            "module": "ill",
-            "name": [
-                "date_in_past",
-                "evil_script",
-                "from_missmatch",
-                "html_a_href_camouflaging",
-                "html_ent_text_plain"
-            ]
+            "domain": "happystudio.com",
+            "selector": "mailjet",
+            "status": "PASS"
         }
     ],
+    "extractedEmailsCardinality": 2,
+    "phish_score": 2,
+    "subject_image_count": 0,
+    "extractedSrcUrlsCardinality": 10,
+    "dkim_efrom_match": 0,
     "extractedTxtUrls": [
         "http://js-agent.newrelic.com/nr-476.min.js",
         "http://e.name",
@@ -163,137 +186,114 @@
         "http://happystudio.com",
         "http://www.HappyStudio.com"
     ],
-    "mime_root_type": "multipart/alternative",
-    "header_from_count": 1,
-    "now": 1494598260,
-    "pepca_small": "p7c1b69119a3bda39",
-    "pepca_inline_style_total": 1,
-    "extractedHrefUrlsCardinality": 7,
-    "dkselector": "mailjet",
-    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/4b43ef197cd7642e1fcf4ea656f19b4d.eml",
-    "ahref_camouflage_count": 2,
-    "html_td_tag_count": 120,
-    "pepca_style_total": 1,
-    "list_unsubscribe_mailto_count": 1,
-    "lang": "cs",
-    "phishing": {
-        "href_camouflaging": true,
-        "num_html_script_tags": 0,
-        "num_text_forms": 8,
-        "fake_https": 0,
-        "is_html": true,
-        "num_non_80_port_urls": 0,
-        "num_https_urls": 0,
-        "num_of_chars": 554,
-        "num_param_phish": 0,
-        "text_and_href": 0,
-        "body_richness": 0.616216216216216,
-        "text_link_with_path": 1,
-        "num_subject_phish_keywords": 1,
-        "max_num_slashes_urls": 6,
-        "num_shortened_urls": 0,
-        "num_sender_diff_url": 5,
-        "num_ip_urls": 0,
-        "num_black_sheep_link": -1,
-        "subject_richness": 0.106382978723404,
-        "num_tld_in_url_path": 0,
-        "subject_phish_keywords": 1,
-        "num_black_sheep_link_global": -1,
-        "num_black_sheep_link_phish": 0,
-        "num_path_phish": 0,
-        "num_attachments": 0,
-        "suspicious_links": [],
-        "html_form": 0,
-        "num_phish_keywords": 0,
-        "num_subdomain_phish": 0,
-        "num_domain_phish": 0,
-        "ner_domain_detected": false,
-        "camouflage": 1,
-        "num_freehost_urls": 0,
-        "num_external_links": 10,
-        "max_num_dots_urls": 4,
-        "num_www_in_url_path": 0
-    },
-    "spf_status_registry": "Status not found",
-    "rfcid_is_foreign": 0,
-    "dmarc_status": {},
-    "spf_domain_policy": "UNKNOWN",
-    "spfstatus_hfrom": "SPF_SOFTFAIL",
-    "dkim_passed_count": 1,
-    "extractedTxtUrlsCardinality": 8,
-    "spfstatus": "NONE",
-    "list_unsubscribe_urls": [
-        "mailto:unsub-22274d57.0twg.tl62p68@bnc.mailjet.com"
-    ],
-    "ahref_verbal_count": 8,
-    "self_send": 0,
-    "dkstatus": "PASS",
-    "extractedEmails": [
-        "nr@id",
-        "alessandramrvova@seznam.cz"
-    ],
-    "html_tag_total_count": 409,
-    "extractedEmailsDomainCount": 2,
-    "spamtrap_hit": false,
-    "extractedSrcUrlsCardinality": 10,
-    "ahref_total_count": 12,
-    "adscore": 0,
     "html_script_tag_count": 7,
-    "list_unsubscribe_total_count": 1,
-    "mime_children_types": [
-        "text/plain",
-        "text/plain",
-        "text/html"
-    ],
     "phNotches": [
         {
+            "score": 0.0,
             "subscores": [
                 1,
                 0.0,
                 -2,
                 1
             ],
-            "score": 0.0,
-            "module": "phish-score",
             "name": [
                 "from_mismatch",
                 "subject_phish_keyword",
                 "unsub_link",
                 "html_a_href_camouflaging"
-            ]
+            ],
+            "module": "phish-score"
         }
     ],
-    "unsub_link": "http://0twg.mj.is/link/0twg/tl62p68/6/1OYiKKz2eKfHEzx9K98Ybg/aHR0cDovL3d3dy5oYXBweXN0dWRpby5jb20vUGFyZW50L1BhbmVsL1Rlcm1zP2xhbmdjb2RlPWNzJmNvdW50cnljb2RlPWN6",
-    "last10words": " ",
+    "adscore": 0,
     "phashes": [
         {
-            "value": "p468554068c149993",
-            "name": "pepca_style"
+            "name": "pepca_style",
+            "value": "p468554068c149993"
         },
         {
-            "value": "pe35cd67e066a925a",
-            "name": "pepca_inline_style"
+            "name": "pepca_inline_style",
+            "value": "pe35cd67e066a925a"
         }
     ],
-    "spf_dom_policy_registry": "Policy not found",
-    "extractedSrcUrls": [
-        "http://cdn01web08.happystudio.com/Images/parent/email/activate-child-1.jpg?cb=1571298",
-        "http://cdn01web08.happystudio.com/Images/parent/email/activate-child-2.jpg?cb=1571298",
-        "http://cdn01web03.happystudio.com/Images/parent/email/activate-child-3.jpg?cb=1571298",
-        "http://cdn01web07.happystudio.com/Images/parent/email/footer.jpg?cb=1571298",
-        "http://0twg.mj.is/o/0twg/c98198eb/tl62p68e.gif"
-    ],
+    "extractedTxtUrlsDomainCount": 5,
+    "dkim_count": 1,
+    "pepcatotal": 0,
+    "date_difference": -79578799,
+    "lang": "cs",
     "list_unsubscribe_http_count": 0,
-    "mime_children_count": 3,
-    "rfcid_is_invalid": false,
-    "extractedSrcUrlsDomainCount": 2,
-    "domainstat_themes": {},
-    "list_unsubscribe_invalid_count": 0,
-    "dk_statuses": [
+    "word_count": 342,
+    "extractedHrefUrlsDomainCount": 1,
+    "precedence": 3,
+    "notches": [
         {
-            "selector": "mailjet",
-            "status": "PASS",
-            "domain": "happystudio.com"
+            "score": 5.3,
+            "subscores": [
+                1,
+                0.1,
+                0.0,
+                0.1,
+                4.1
+            ],
+            "name": [
+                "date_in_past",
+                "evil_script",
+                "from_missmatch",
+                "html_a_href_camouflaging",
+                "html_ent_text_plain"
+            ],
+            "module": "ill"
         }
-    ]
+    ],
+    "extractedTxtUrlsTotalCount": 8,
+    "phishing": {
+        "is_html": true,
+        "num_subdomain_phish": 0,
+        "body_richness": 0.616216216216216,
+        "num_domain_phish": 0,
+        "num_https_urls": 0,
+        "text_link_with_path": 1,
+        "num_text_forms": 8,
+        "num_non_80_port_urls": 0,
+        "num_attachments": 0,
+        "num_path_phish": 0,
+        "num_black_sheep_link": -1,
+        "num_freehost_urls": 0,
+        "num_sender_diff_url": 5,
+        "max_num_dots_urls": 4,
+        "fake_https": 0,
+        "href_camouflaging": true,
+        "suspicious_links": [],
+        "ner_domain_detected": false,
+        "num_subject_phish_keywords": 1,
+        "num_black_sheep_link_global": -1,
+        "max_num_slashes_urls": 6,
+        "num_phish_keywords": 0,
+        "num_param_phish": 0,
+        "num_www_in_url_path": 0,
+        "text_and_href": 0,
+        "num_external_links": 10,
+        "camouflage": 1,
+        "subject_phish_keywords": 1,
+        "num_html_script_tags": 0,
+        "num_black_sheep_link_phish": 0,
+        "num_shortened_urls": 0,
+        "num_of_chars": 554,
+        "subject_richness": 0.106382978723404,
+        "num_ip_urls": 0,
+        "html_form": 0,
+        "num_tld_in_url_path": 0
+    },
+    "pepca_inline_style_total": 1,
+    "unsub_link_texts": [
+        " obchodny podminka "
+    ],
+    "dkdomain": "happystudio.com",
+    "extractedEmailsTotalCount": 2,
+    "now": 1494598260,
+    "pepca_style_total": 1,
+    "spamscore": 5.3,
+    "pepca_style": "p468554068c149993",
+    "html_tag_total_count": 409,
+    "pepca": ""
 }

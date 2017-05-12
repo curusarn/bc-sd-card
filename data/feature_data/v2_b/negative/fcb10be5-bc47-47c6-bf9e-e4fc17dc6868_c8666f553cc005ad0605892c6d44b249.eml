@@ -1,115 +1,26 @@
 {
-    "notches": [
-        {
-            "subscores": [
-                1,
-                0.0,
-                0.1,
-                0.5
-            ],
-            "score": 1.6,
-            "module": "ill",
-            "name": [
-                "date_in_past",
-                "from_missmatch",
-                "foreign_message_id",
-                "long_subject"
-            ]
-        }
-    ],
-    "extractedTxtUrls": [
-        "http://www.cienciasecreta.com",
-        "http://www.tajnevedy.cz/product/koloidni-zlato-platina-100-ml-100-ppm-100-ppm-14063/http://www.tajnevedy.cz/product/koloidni-zin",
-        "https://www.facebook.com/kouzlaFacebook:",
-        "https://www.facebook.com/novarealita.newrealityFacebook:",
-        "http://www.tajnevedy.czwww.skola-magie.czwww.secret-science-online.com"
-    ],
-    "spfstatus": "NONE",
-    "mime_root_type": "multipart/alternative",
-    "header_from_count": 1,
-    "now": 1494598414,
-    "dkim_efrom_match": 0,
-    "pepca_inline_style_total": 0,
-    "rcpts_count": 1,
-    "extractedEmailsTotalCount": 5,
-    "pepca_inline_style": "p706e9150176cf911",
-    "pepca_style_total": 0,
-    "dkim_hfrom_match": 0,
-    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/c8666f553cc005ad0605892c6d44b249.eml",
-    "html_td_tag_count": 118,
-    "extractedHrefUrlsCardinality": 1,
-    "list_unsubscribe_mailto_count": 0,
-    "subject_word_count": 21,
-    "lang": "cs",
-    "precedence": 3,
-    "phishing": {
-        "num_html_script_tags": 0,
-        "num_text_forms": 26,
-        "fake_https": 0,
-        "is_html": true,
-        "num_non_80_port_urls": 0,
-        "num_https_urls": 8,
-        "num_of_chars": 3841,
-        "num_param_phish": 0,
-        "text_and_href": 0,
-        "body_richness": 0.148099947943779,
-        "text_link_with_path": 14,
-        "max_num_slashes_urls": 15,
-        "num_shortened_urls": 0,
-        "num_sender_diff_url": 7,
-        "num_ip_urls": 0,
-        "num_black_sheep_link": -1,
-        "subject_richness": 0.153284671532847,
-        "num_tld_in_url_path": 0,
-        "subject_phish_keywords": 0,
-        "num_black_sheep_link_global": -1,
-        "num_black_sheep_link_phish": 0,
-        "num_path_phish": 0,
-        "suspicious_links": [],
-        "html_form": 0,
-        "num_phish_keywords": 0,
-        "num_subdomain_phish": 0,
-        "num_domain_phish": 0,
-        "ner_domain_detected": true,
-        "camouflage": 0,
-        "num_freehost_urls": 0,
-        "num_external_links": 1,
-        "max_num_dots_urls": 10,
-        "num_www_in_url_path": 0
-    },
-    "spf_status_registry": "Status not found",
-    "rfcid_is_foreign": 1,
-    "from_match": 0,
-    "first10words": " Dobry den vase objednavka je prijata Behem zitrka vam bude zasilka odeslana Dekujeme za vasi objednavku Vanocni slevy ",
-    "extractedTxtUrlsDomainCount": 7,
     "spf_domain_policy": "UNKNOWN",
-    "header_total_count": 11,
+    "subject_word_count": 21,
+    "last10words": "nd conditions Ich stimme mit den Bedingungen und Konditionen Sono d accordo con i termini e le condizioni Ano yes ja si ",
+    "spfstatus": "NONE",
+    "header_from": "tajnevedy@email.cz",
     "dkim_passed_count": 0,
-    "extractedTxtUrlsCardinality": 21,
-    "dkim_signs_cnt": 1,
-    "mime_children_types": [
-        "text/plain",
-        "text/html"
-    ],
-    "ahref_verbal_count": 1,
-    "subject_image_count": 0,
-    "phish_score": 0,
-    "rfcid_is_invalid": false,
-    "dkstatus": "NEUTRAL",
+    "header_total_count": 11,
     "phashes": [
         {
-            "value": "pd8c389f0e3f381fb",
-            "name": "pepca"
+            "name": "pepca",
+            "value": "pd8c389f0e3f381fb"
         },
         {
-            "value": "p706e9150176cf911",
-            "name": "pepca_inline_style"
+            "name": "pepca_inline_style",
+            "value": "p706e9150176cf911"
         }
     ],
-    "extractedTxtUrlsTotalCount": 21,
     "self_send": 0,
-    "attachments": [],
-    "html_tr_tag_count": 76,
+    "header_from_count": 1,
+    "phish_score": 0,
+    "html_in_text_plain_count": 0,
+    "rcpts_count": 1,
     "extractedEmails": [
         "tajnevedy@email.cz",
         "secret.science@yahoo.com",
@@ -117,113 +28,202 @@
         "magia.lerxied@gmail.com",
         "stania.natale@gmail.com"
     ],
-    "html_tag_total_count": 313,
-    "mime_children_count": 2,
-    "spamtrap_hit": false,
-    "extractedEmailsDomainCount": 3,
-    "extractedHrefUrlsTotalCount": 1,
-    "spamscore": 1.6,
-    "ahref_total_count": 1,
-    "extractedEmailsCardinality": 5,
-    "list_unsubscribe_http_count": 0,
-    "dkim_count": 0,
-    "adscore": 0,
-    "pepca": "pd8c389f0e3f381fb",
-    "dkStatusDetail": "NOT_SIGNED",
-    "html_script_tag_count": 0,
-    "date_difference": -75957947,
-    "html_in_text_plain_count": 0,
-    "pepca_style": "",
-    "word_count": 569,
-    "rfcid_length": 38,
     "spf_dom_policy_registry": "Policy not found",
-    "last10words": "nd conditions Ich stimme mit den Bedingungen und Konditionen Sono d accordo con i termini e le condizioni Ano yes ja si ",
+    "dkim_hfrom_match": 0,
+    "list_unsubscribe_total_count": 0,
+    "ahref_total_count": 1,
+    "extractedEmailsDomainCount": 3,
+    "html_td_tag_count": 118,
+    "spamtrap_hit": false,
+    "mime_children_types": [
+        "text/plain",
+        "text/html"
+    ],
+    "extractedTxtUrlsCardinality": 21,
+    "lang": "cs",
+    "first10words": " Dobry den vase objednavka je prijata Behem zitrka vam bude zasilka odeslana Dekujeme za vasi objednavku Vanocni slevy ",
+    "extractedEmailsCardinality": 5,
+    "header_reply_to_count": 0,
+    "date_difference": -75957947,
+    "extractedEmailsTotalCount": 5,
+    "spamscore": 1.6,
+    "dkim_signs_cnt": 1,
+    "pepca_style": "",
+    "html_script_tag_count": 0,
+    "extractedHrefUrlsCardinality": 1,
+    "adscore": 0,
+    "list_unsubscribe_http_count": 0,
+    "extractedHrefUrlsTotalCount": 1,
+    "content": "CONTENT_DEFAULT",
+    "rfcid_length": 38,
+    "extractedTxtUrlsDomainCount": 7,
+    "dkim_count": 0,
+    "subject": "Re INTERNATIONAL MAGIC ONLINE SERVICES Objednavka Order by e mail Bestellen Sie per E Mail Ordina per e mail Orden 1412417 ",
+    "pepcatotal": 0,
+    "mime_root_type": "multipart/alternative",
+    "ahref_camouflage_count": 0,
+    "dkStatusDetail": "NOT_SIGNED",
+    "dk_statuses": [
+        {
+            "status": "NEUTRAL",
+            "statusDetail": "NOT_SIGNED"
+        }
+    ],
+    "list_unsubscribe_mailto_count": 0,
+    "rfcid_is_foreign": 1,
+    "dkstatus": "NEUTRAL",
+    "mime_children_count": 2,
+    "extractedHrefUrlsDomainCount": 1,
+    "word_count": 569,
+    "list_unsubscribe_invalid_count": 0,
+    "precedence": 3,
+    "extractedTxtUrls": [
+        "http://www.cienciasecreta.com",
+        "http://www.tajnevedy.cz/product/koloidni-zlato-platina-100-ml-100-ppm-100-ppm-14063/http://www.tajnevedy.cz/product/koloidni-zin",
+        "https://www.facebook.com/kouzlaFacebook:",
+        "https://www.facebook.com/novarealita.newrealityFacebook:",
+        "http://www.tajnevedy.czwww.skola-magie.czwww.secret-science-online.com"
+    ],
+    "spf_status_registry": "Status not found",
+    "extractedTxtUrlsTotalCount": 21,
+    "phishing": {
+        "is_html": true,
+        "num_subdomain_phish": 0,
+        "body_richness": 0.148099947943779,
+        "num_domain_phish": 0,
+        "num_https_urls": 8,
+        "text_link_with_path": 14,
+        "num_text_forms": 26,
+        "num_phish_keywords": 0,
+        "num_external_links": 1,
+        "num_non_80_port_urls": 0,
+        "subject_richness": 0.153284671532847,
+        "num_black_sheep_link": -1,
+        "num_freehost_urls": 0,
+        "num_sender_diff_url": 7,
+        "max_num_dots_urls": 10,
+        "fake_https": 0,
+        "suspicious_links": [],
+        "ner_domain_detected": true,
+        "num_black_sheep_link_global": -1,
+        "max_num_slashes_urls": 15,
+        "num_param_phish": 0,
+        "num_www_in_url_path": 0,
+        "text_and_href": 0,
+        "num_path_phish": 0,
+        "camouflage": 0,
+        "subject_phish_keywords": 0,
+        "num_html_script_tags": 0,
+        "num_black_sheep_link_phish": 0,
+        "num_shortened_urls": 0,
+        "num_of_chars": 3841,
+        "num_ip_urls": 0,
+        "html_form": 0,
+        "num_tld_in_url_path": 0
+    },
+    "extractedSrcUrls": [],
+    "from_match": 0,
+    "html_tr_tag_count": 76,
+    "senders": {
+        "log_cnt-w_duc_detail": [],
+        "idf_detail": [],
+        "log_ecnt_idf_detail": [],
+        "domain_keywords": "paypal",
+        "log_cnt-pow_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "src_revert": "",
+        "ttf_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "domain": "paypal",
+                "confidence": 112099397.387931
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_cnt_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-w_duc": "",
+        "log_ecnt-w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "tf_log_idf": "",
+        "log_cnt_idf": "",
+        "log_ecnt_idf": "",
+        "idf": "",
+        "src_revert_detail": [],
+        "plain_domain_detail": [
+            {
+                "domain": "oracularberatung",
+                "confidence": 1
+            },
+            {
+                "domain": "tajnevedy",
+                "confidence": 1
+            },
+            {
+                "domain": "cienciasecreta",
+                "confidence": 1
+            },
+            {
+                "domain": "secret-science-online",
+                "confidence": 2
+            },
+            {
+                "domain": "magiadellamore",
+                "confidence": 1
+            },
+            {
+                "domain": "skola-magie",
+                "confidence": 1
+            }
+        ],
+        "cnt-pow_w_duc_detail": [],
+        "plain_domain": "oracularberatung",
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "tf_log_idf_detail": []
+    },
+    "pepca_inline_style_total": 0,
+    "rfcid_is_invalid": false,
+    "pepca": "pd8c389f0e3f381fb",
+    "ahref_verbal_count": 1,
+    "now": 1494598414,
+    "spfstatus_hfrom": "SPF_NEUTRAL",
+    "pepca_inline_style": "p706e9150176cf911",
+    "pepca_style_total": 0,
+    "subject_image_count": 0,
+    "dkim_efrom_match": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/c8666f553cc005ad0605892c6d44b249.eml",
+    "attachments": [],
+    "html_tag_total_count": 313,
     "extractedHrefUrls": [
         "http://www.tajnevedy.cz/product/koloidni-zlato-platina-25-ml-100-ppm-100-ppm-s-rozprasovacem-14076"
     ],
-    "spfstatus_hfrom": "SPF_NEUTRAL",
-    "header_reply_to_count": 0,
-    "senders": {
-        "log_cnt_idf_detail": [],
-        "log_ecnt_idf_detail": [],
-        "tf_log_idf": "",
-        "log_cnt-pow4_w_duc": "",
-        "log_ecnt_idf_log_tidf_detail": [],
-        "cnt-pow_w_duc_detail": [],
-        "cnt-pow_w_duc": "",
-        "log_ecnt-w_duc_detail": [],
-        "idf": "",
-        "cnt-pow4_w_duc_detail": [],
-        "ttf_w_duc_detail": [],
-        "ettf_w_duc_detail": [],
-        "log_cnt-w_duc": "",
-        "src_revert": "",
-        "log_cnt_idf_log_tidf_detail": [],
-        "log_cnt_idf_log_tidf": "",
-        "log_cnt-pow4_w_duc_detail": [],
-        "log_cnt-pow_w_duc": "",
-        "cnt-pow4_w_duc": "",
-        "plain_domain": "oracularberatung",
-        "src_revert_detail": [],
-        "log_ecnt_log_idf_log_tidf": "",
-        "log_ecnt_idf_log_tidf": "",
-        "log_cnt-pow_w_duc_detail": [],
-        "ttf_w_duc": "",
-        "plain_domain_detail": [
-            {
-                "confidence": 1,
-                "domain": "oracularberatung"
-            },
-            {
-                "confidence": 1,
-                "domain": "tajnevedy"
-            },
-            {
-                "confidence": 1,
-                "domain": "cienciasecreta"
-            },
-            {
-                "confidence": 2,
-                "domain": "secret-science-online"
-            },
-            {
-                "confidence": 1,
-                "domain": "magiadellamore"
-            },
-            {
-                "confidence": 1,
-                "domain": "skola-magie"
-            }
-        ],
-        "log_ecnt_idf": "",
-        "tf_log_idf_detail": [],
-        "ettf_w_duc": "",
-        "idf_detail": [],
-        "log_ecnt_log_idf_log_tidf_detail": [],
-        "domain_keywords_detail": [
-            {
-                "confidence": 112099397.387931,
-                "domain": "paypal"
-            }
-        ],
-        "domain_keywords": "paypal",
-        "log_cnt-w_duc_detail": [],
-        "log_ecnt-w_duc": "",
-        "log_cnt_idf": ""
-    },
-    "pepcatotal": 0,
-    "content": "CONTENT_DEFAULT",
-    "extractedSrcUrls": [],
-    "extractedHrefUrlsDomainCount": 1,
-    "subject": "Re INTERNATIONAL MAGIC ONLINE SERVICES Objednavka Order by e mail Bestellen Sie per E Mail Ordina per e mail Orden 1412417 ",
-    "list_unsubscribe_total_count": 0,
-    "dk_statuses": [
+    "notches": [
         {
-            "statusDetail": "NOT_SIGNED",
-            "status": "NEUTRAL"
+            "score": 1.6,
+            "subscores": [
+                1,
+                0.0,
+                0.1,
+                0.5
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id",
+                "long_subject"
+            ],
+            "module": "ill"
         }
-    ],
-    "ahref_camouflage_count": 0,
-    "list_unsubscribe_invalid_count": 0,
-    "header_from": "tajnevedy@email.cz"
+    ]
 }

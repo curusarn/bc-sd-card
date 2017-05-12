@@ -1,76 +1,5 @@
 {
-    "date_difference": -80152017,
-    "html_td_tag_count": 6,
-    "list_unsubscribe_total_count": 0,
-    "precedence": 3,
-    "spfstatus_hfrom": "SPF_SOFTFAIL",
-    "dkim_passed_count": 0,
-    "notches": [
-        {
-            "subscores": [
-                1,
-                0.0
-            ],
-            "name": [
-                "date_in_past",
-                "from_missmatch"
-            ],
-            "score": 1,
-            "module": "ill"
-        }
-    ],
-    "extractedHrefUrlsDomainCount": 1,
-    "first10words": " HappyFoto HTML Email Vazena pani vazeny pane Vase registrace byla prave dokoncena Na www happyfoto cz se ",
-    "word_count": 123,
-    "pepca": "p8ecb4629462b897b",
-    "extractedSrcUrlsDomainCount": 1,
-    "last10words": " s r o Omlenicka 780 382 41 Kaplice IC 25165291 DIC CZ25165291 Zapsana v OR u KS v C Budejovicich v oddile C vlozka 7213 ",
-    "extractedTxtUrlsDomainCount": 1,
-    "pepcatotal": 0,
-    "pepca_style_total": 0,
-    "extractedEmails": [
-        " info@happyfoto.cz",
-        "info@happyfoto.cz"
-    ],
-    "mime_root_type": "multipart/related",
-    "extractedEmailsCardinality": 2,
-    "extractedHrefUrlsTotalCount": 2,
-    "html_tr_tag_count": 6,
-    "pepca_style": "p0433f64ecb43770a",
-    "dkStatusDetail": "NOT_SIGNED",
-    "header_from_count": 1,
-    "header_total_count": 12,
-    "dk_statuses": [
-        {
-            "status": "NEUTRAL",
-            "statusDetail": "NOT_SIGNED"
-        }
-    ],
-    "ahref_camouflage_count": 0,
-    "extractedSrcUrlsTotalCount": 1,
-    "html_tag_total_count": 66,
-    "header_reply_to_count": 0,
-    "extractedEmailsDomainCount": 1,
     "dkim_hfrom_match": 0,
-    "dkstatus": "NEUTRAL",
-    "ahref_total_count": 4,
-    "subject_image_count": 0,
-    "extractedTxtUrlsCardinality": 1,
-    "spf_domain_policy": "UNKNOWN",
-    "spf_status_registry": "Status not found",
-    "rfcid_is_foreign": 0,
-    "content": "CONTENT_DEFAULT",
-    "extractedSrcUrls": [
-        "http://www.happyfoto.cz/images/resources/velocity/mailtemplates/hcz/images/header.jpg"
-    ],
-    "lang": "cs",
-    "extractedTxtUrls": [
-        "http://www.happyfoto.cz"
-    ],
-    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/8c56b61579eded6c38b6145ee9ef6c3f.eml",
-    "spamscore": 1,
-    "attachments": [],
-    "extractedSrcUrlsCardinality": 1,
     "from_match": 0,
     "phashes": [
         {
@@ -86,127 +15,198 @@
             "value": "p57c4eadc2898c883"
         }
     ],
+    "list_unsubscribe_invalid_count": 0,
+    "extractedSrcUrls": [
+        "http://www.happyfoto.cz/images/resources/velocity/mailtemplates/hcz/images/header.jpg"
+    ],
+    "ahref_verbal_count": 0,
+    "subject_image_count": 0,
+    "phish_score": 0,
+    "date_difference": -80152017,
+    "header_total_count": 12,
+    "dk_statuses": [
+        {
+            "statusDetail": "NOT_SIGNED",
+            "status": "NEUTRAL"
+        }
+    ],
+    "extractedEmails": [
+        " info@happyfoto.cz",
+        "info@happyfoto.cz"
+    ],
+    "precedence": 3,
+    "spamtrap_hit": false,
+    "pepca_style": "p0433f64ecb43770a",
+    "subject": "Registrace byla dokoncena",
+    "header_from": "info@happyfoto.cz",
+    "spamscore": 1,
+    "self_send": 0,
+    "dkstatus": "NEUTRAL",
+    "pepca_style_total": 0,
+    "lang": "cs",
     "extractedHrefUrls": [
         "http://www.happyfoto.cz/",
         "http://www.happyfoto.cz"
     ],
-    "pepca_inline_style": "p57c4eadc2898c883",
-    "pepca_inline_style_total": 0,
-    "self_send": 0,
-    "now": 1494598347,
-    "mime_children_count": 1,
-    "ahref_verbal_count": 0,
-    "extractedTxtUrlsTotalCount": 1,
-    "subject_word_count": 3,
-    "rcpts_count": 1,
+    "rfcid_is_foreign": 0,
+    "spf_status_registry": "Status not found",
+    "spf_dom_policy_registry": "Policy not found",
     "dkim_count": 0,
-    "rfcid_is_invalid": false,
-    "header_from": "info@happyfoto.cz",
-    "list_unsubscribe_mailto_count": 0,
+    "list_unsubscribe_total_count": 0,
+    "now": 1494598347,
+    "header_reply_to_count": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/8c56b61579eded6c38b6145ee9ef6c3f.eml",
+    "ahref_camouflage_count": 0,
+    "html_tag_total_count": 66,
     "rfcid_length": 61,
-    "html_in_text_plain_count": 0,
-    "extractedHrefUrlsCardinality": 2,
+    "extractedHrefUrlsDomainCount": 1,
+    "extractedTxtUrls": [
+        "http://www.happyfoto.cz"
+    ],
+    "pepca_inline_style": "p57c4eadc2898c883",
+    "html_tr_tag_count": 6,
+    "pepcatotal": 0,
     "html_script_tag_count": 0,
-    "dkim_efrom_match": 0,
-    "adscore": 0,
+    "last10words": " s r o Omlenicka 780 382 41 Kaplice IC 25165291 DIC CZ25165291 Zapsana v OR u KS v C Budejovicich v oddile C vlozka 7213 ",
+    "dkim_passed_count": 0,
+    "extractedHrefUrlsTotalCount": 2,
     "mime_children_types": [
         "text/html"
     ],
-    "dkim_signs_cnt": 1,
-    "spfstatus": "NONE",
+    "ahref_total_count": 4,
+    "list_unsubscribe_mailto_count": 0,
     "extractedEmailsTotalCount": 2,
-    "spamtrap_hit": false,
-    "spf_dom_policy_registry": "Policy not found",
-    "list_unsubscribe_http_count": 0,
+    "dkStatusDetail": "NOT_SIGNED",
+    "rcpts_count": 1,
+    "extractedEmailsDomainCount": 1,
     "phishing": {
-        "body_richness": 0.150920245398773,
-        "num_black_sheep_link": -1,
-        "subject_richness": 0.111111111111111,
-        "max_num_slashes_urls": 1,
-        "num_https_urls": 0,
-        "camouflage": 0,
-        "ner_domain_detected": false,
-        "html_form": 0,
-        "num_subdomain_phish": 0,
-        "num_external_links": 3,
-        "fake_https": 0,
-        "num_html_script_tags": 0,
-        "num_freehost_urls": 0,
-        "num_phish_keywords": 4,
-        "suspicious_links": [],
-        "num_sender_diff_url": 0,
-        "text_and_href": 1,
         "subject_phish_keywords": 0,
-        "num_www_in_url_path": 0,
+        "html_form": 0,
+        "num_black_sheep_link": -1,
         "num_domain_phish": 0,
-        "num_of_chars": 814,
-        "num_ip_urls": 0,
-        "num_path_phish": 0,
-        "num_param_phish": 0,
-        "max_num_dots_urls": 2,
-        "num_tld_in_url_path": 0,
-        "is_html": true,
-        "num_black_sheep_link_phish": 0,
-        "num_non_80_port_urls": 0,
-        "num_text_forms": 3,
+        "num_shortened_urls": 0,
+        "num_phish_keywords": 4,
+        "num_www_in_url_path": 0,
+        "num_external_links": 3,
         "num_black_sheep_link_global": -1,
+        "num_black_sheep_link_phish": 0,
+        "is_html": true,
+        "num_sender_diff_url": 0,
+        "num_tld_in_url_path": 0,
+        "text_and_href": 1,
+        "ner_domain_detected": false,
+        "max_num_dots_urls": 2,
+        "camouflage": 0,
+        "num_text_forms": 3,
+        "num_https_urls": 0,
+        "body_richness": 0.150920245398773,
+        "num_ip_urls": 0,
+        "num_html_script_tags": 0,
+        "subject_richness": 0.111111111111111,
+        "fake_https": 0,
+        "suspicious_links": [],
+        "num_of_chars": 814,
         "text_link_with_path": 0,
-        "num_shortened_urls": 0
+        "num_path_phish": 0,
+        "num_subdomain_phish": 0,
+        "max_num_slashes_urls": 1,
+        "num_param_phish": 0,
+        "num_non_80_port_urls": 0,
+        "num_freehost_urls": 0
     },
+    "dkim_efrom_match": 0,
+    "extractedSrcUrlsCardinality": 1,
+    "extractedTxtUrlsDomainCount": 1,
+    "header_from_count": 1,
+    "extractedSrcUrlsTotalCount": 1,
+    "spf_domain_policy": "UNKNOWN",
+    "dkim_signs_cnt": 1,
+    "extractedSrcUrlsDomainCount": 1,
+    "adscore": 0,
+    "pepca_inline_style_total": 0,
+    "extractedEmailsCardinality": 2,
     "senders": {
-        "domain_keywords": "happyfoto",
-        "log_ecnt_idf": "",
-        "log_cnt-w_duc_detail": [],
-        "log_cnt_idf_log_tidf_detail": [],
-        "log_ecnt-w_duc": "",
-        "idf_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
         "log_cnt_idf_log_tidf": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf": "",
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_ecnt-w_duc_detail": [],
         "log_cnt-pow4_w_duc": "",
-        "plain_domain_detail": [
+        "log_ecnt_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "idf": "",
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "src_revert_detail": [
             {
-                "domain": "happyfoto",
-                "confidence": 2
+                "confidence": 1,
+                "domain": "happyfoto"
             }
         ],
+        "log_cnt-w_duc": "",
+        "plain_domain_detail": [
+            {
+                "confidence": 2,
+                "domain": "happyfoto"
+            }
+        ],
+        "log_ecnt-w_duc": "",
         "log_cnt-pow_w_duc": "",
-        "log_cnt_idf_detail": [],
-        "log_ecnt_log_idf_log_tidf_detail": [],
-        "tf_log_idf_detail": [],
+        "cnt-pow_w_duc": "",
+        "src_revert": "happyfoto",
         "ttf_w_duc_detail": [],
-        "cnt-pow_w_duc_detail": [],
-        "log_cnt-pow4_w_duc_detail": [],
-        "ettf_w_duc": "",
-        "log_ecnt_idf_detail": [],
-        "ttf_w_duc": "",
+        "log_cnt_idf_log_tidf_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt_idf_detail": [],
         "plain_domain": "happyfoto",
         "domain_keywords_detail": [
             {
-                "domain": "happyfoto",
-                "confidence": 101123634.508162
+                "confidence": 101123634.508162,
+                "domain": "happyfoto"
             }
         ],
-        "cnt-pow_w_duc": "",
-        "cnt-pow4_w_duc": "",
         "log_cnt-pow_w_duc_detail": [],
-        "ettf_w_duc_detail": [],
-        "log_ecnt-w_duc_detail": [],
+        "domain_keywords": "happyfoto",
         "log_cnt_idf": "",
-        "tf_log_idf": "",
-        "src_revert_detail": [
-            {
-                "domain": "happyfoto",
-                "confidence": 1
-            }
-        ],
-        "log_ecnt_log_idf_log_tidf": "",
-        "log_cnt-w_duc": "",
-        "cnt-pow4_w_duc_detail": [],
-        "idf": "",
-        "log_ecnt_idf_log_tidf": "",
-        "log_ecnt_idf_log_tidf_detail": [],
-        "src_revert": "happyfoto"
+        "log_ecnt_idf_log_tidf_detail": []
     },
-    "phish_score": 0,
-    "subject": "Registrace byla dokoncena",
-    "list_unsubscribe_invalid_count": 0
+    "word_count": 123,
+    "html_td_tag_count": 6,
+    "rfcid_is_invalid": false,
+    "mime_root_type": "multipart/related",
+    "content": "CONTENT_DEFAULT",
+    "subject_word_count": 3,
+    "extractedTxtUrlsCardinality": 1,
+    "list_unsubscribe_http_count": 0,
+    "spfstatus": "NONE",
+    "first10words": " HappyFoto HTML Email Vazena pani vazeny pane Vase registrace byla prave dokoncena Na www happyfoto cz se ",
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "html_in_text_plain_count": 0,
+    "extractedHrefUrlsCardinality": 2,
+    "extractedTxtUrlsTotalCount": 1,
+    "pepca": "p8ecb4629462b897b",
+    "mime_children_count": 1,
+    "spfstatus_hfrom": "SPF_SOFTFAIL"
 }

@@ -1,229 +1,229 @@
 {
-    "notches": [
+    "spf_domain_policy": "UNKNOWN",
+    "subject_word_count": 6,
+    "last10words": " Email flyluk seznam cz Obchodni podminky Formular pro odstoupeni od kupni smlouvy Cas odeslani 15 12 2014 11 48 10 ",
+    "spfstatus": "NONE",
+    "header_from": "profimodel@domansky.cz",
+    "dkim_passed_count": 0,
+    "header_total_count": 12,
+    "phashes": [
         {
-            "subscores": [
-                1,
-                0.0,
-                0.1
-            ],
-            "score": 1.1,
-            "module": "ill",
-            "name": [
-                "date_in_past",
-                "from_missmatch",
-                "foreign_message_id"
-            ]
+            "name": "att-pepca",
+            "value": "p0a2dcc564a2c598b"
+        },
+        {
+            "name": "att-pepca",
+            "value": "pa2c1206f621ababd"
+        },
+        {
+            "name": "pepca",
+            "value": "pe7ca6f2bce195e1b"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p3eeb2ae687fd9d1d"
         }
     ],
-    "rfcid_is_invalid": false,
-    "spfstatus": "NONE",
-    "mime_root_type": "multipart/mixed",
+    "self_send": 0,
     "header_from_count": 1,
-    "now": 1494598219,
-    "dkim_efrom_match": 0,
-    "pepca_inline_style_total": 0,
+    "phish_score": 0,
+    "html_in_text_plain_count": 0,
     "rcpts_count": 1,
-    "extractedEmailsTotalCount": 1,
-    "pepca_inline_style": "p3eeb2ae687fd9d1d",
-    "pepca_style_total": 0,
+    "extractedEmails": [
+        "flyluk@seznam.cz"
+    ],
+    "spf_dom_policy_registry": "Policy not found",
     "dkim_hfrom_match": 0,
-    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/2b14d702e82475cec6ec3cf5abd6d2a3.eml",
+    "list_unsubscribe_total_count": 0,
+    "ahref_total_count": 4,
+    "extractedEmailsDomainCount": 1,
     "html_td_tag_count": 68,
-    "extractedHrefUrlsCardinality": 3,
-    "list_unsubscribe_mailto_count": 0,
-    "subject_word_count": 6,
-    "lang": "cs",
-    "precedence": 3,
-    "phishing": {
-        "num_html_script_tags": 0,
-        "num_text_forms": 0,
-        "fake_https": 0,
-        "is_html": true,
-        "num_non_80_port_urls": 0,
-        "num_https_urls": 0,
-        "num_of_chars": 885,
-        "num_param_phish": 0,
-        "text_and_href": 0,
-        "body_richness": 0.190744920993228,
-        "text_link_with_path": 0,
-        "max_num_slashes_urls": 2,
-        "num_shortened_urls": 0,
-        "num_sender_diff_url": 1,
-        "num_ip_urls": 0,
-        "num_black_sheep_link": -1,
-        "subject_richness": 0.133333333333333,
-        "num_tld_in_url_path": 0,
-        "subject_phish_keywords": 0,
-        "num_black_sheep_link_global": -1,
-        "num_black_sheep_link_phish": 0,
-        "num_path_phish": 0,
-        "suspicious_links": [],
-        "html_form": 0,
-        "num_phish_keywords": 0,
-        "num_subdomain_phish": 0,
-        "num_domain_phish": 0,
-        "ner_domain_detected": false,
-        "camouflage": 0,
-        "num_freehost_urls": 0,
-        "num_external_links": 3,
-        "max_num_dots_urls": 3,
-        "num_www_in_url_path": 0
-    },
-    "spf_status_registry": "Status not found",
-    "rfcid_is_foreign": 1,
-    "from_match": 0,
-    "first10words": " Cislo objednavky 3591 14 ID 7657 vystaveni 15 12 2014 Kod Nazev mnozstvi cena za j DPH cena celkem p 3EA1140 5 RAY",
-    "spf_domain_policy": "UNKNOWN",
-    "header_total_count": 12,
-    "mime_children_count": 3,
-    "dkim_signs_cnt": 1,
+    "spamtrap_hit": false,
     "mime_children_types": [
         "multipart/alternative",
         "application/pdf",
         "application/pdf"
     ],
-    "ahref_verbal_count": 3,
-    "subject_image_count": 0,
-    "self_send": 0,
-    "dkstatus": "NEUTRAL",
+    "lang": "cs",
+    "first10words": " Cislo objednavky 3591 14 ID 7657 vystaveni 15 12 2014 Kod Nazev mnozstvi cena za j DPH cena celkem p 3EA1140 5 RAY",
+    "extractedEmailsCardinality": 1,
+    "header_reply_to_count": 0,
+    "date_difference": -75957729,
+    "extractedEmailsTotalCount": 1,
+    "spamscore": 1.1,
+    "dkim_signs_cnt": 1,
+    "unsub_link": "http://www.profimodel.cz/dokumenty/obchodni-podminky-profimodel.pdf",
+    "pepca_style": "",
+    "html_script_tag_count": 0,
+    "extractedHrefUrlsCardinality": 3,
+    "adscore": 0,
+    "list_unsubscribe_http_count": 0,
+    "extractedHrefUrlsTotalCount": 3,
+    "content": "CONTENT_DEFAULT",
+    "rfcid_length": 50,
+    "dkim_count": 0,
+    "subject": "Nova objednavka ze serveru profimodel 3591",
     "unsub_link_texts": [
         " obchodny podminka "
     ],
-    "phashes": [
+    "pepcatotal": 0,
+    "mime_root_type": "multipart/mixed",
+    "ahref_camouflage_count": 0,
+    "dkStatusDetail": "NOT_SIGNED",
+    "dk_statuses": [
         {
-            "value": "p0a2dcc564a2c598b",
-            "name": "att-pepca"
-        },
-        {
-            "value": "pa2c1206f621ababd",
-            "name": "att-pepca"
-        },
-        {
-            "value": "pe7ca6f2bce195e1b",
-            "name": "pepca"
-        },
-        {
-            "value": "p3eeb2ae687fd9d1d",
-            "name": "pepca_inline_style"
+            "status": "NEUTRAL",
+            "statusDetail": "NOT_SIGNED"
         }
     ],
-    "extractedHrefUrlsTotalCount": 3,
+    "list_unsubscribe_mailto_count": 0,
+    "rfcid_is_foreign": 1,
+    "dkstatus": "NEUTRAL",
+    "mime_children_count": 3,
+    "extractedHrefUrlsDomainCount": 1,
+    "word_count": 169,
+    "list_unsubscribe_invalid_count": 0,
+    "precedence": 3,
+    "notches": [
+        {
+            "score": 1.1,
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "module": "ill"
+        }
+    ],
+    "spf_status_registry": "Status not found",
+    "phishing": {
+        "is_html": true,
+        "num_subdomain_phish": 0,
+        "body_richness": 0.190744920993228,
+        "num_domain_phish": 0,
+        "num_https_urls": 0,
+        "text_link_with_path": 0,
+        "num_text_forms": 0,
+        "num_phish_keywords": 0,
+        "num_external_links": 3,
+        "num_non_80_port_urls": 0,
+        "subject_richness": 0.133333333333333,
+        "num_black_sheep_link": -1,
+        "num_freehost_urls": 0,
+        "num_sender_diff_url": 1,
+        "max_num_dots_urls": 3,
+        "fake_https": 0,
+        "suspicious_links": [],
+        "ner_domain_detected": false,
+        "num_black_sheep_link_global": -1,
+        "max_num_slashes_urls": 2,
+        "num_param_phish": 0,
+        "num_www_in_url_path": 0,
+        "text_and_href": 0,
+        "num_path_phish": 0,
+        "camouflage": 0,
+        "subject_phish_keywords": 0,
+        "num_html_script_tags": 0,
+        "num_black_sheep_link_phish": 0,
+        "num_shortened_urls": 0,
+        "num_of_chars": 885,
+        "num_ip_urls": 0,
+        "html_form": 0,
+        "num_tld_in_url_path": 0
+    },
+    "extractedSrcUrls": [],
+    "from_match": 0,
+    "html_tr_tag_count": 14,
+    "senders": {
+        "log_cnt-w_duc_detail": [],
+        "idf_detail": [],
+        "log_ecnt_idf_detail": [],
+        "domain_keywords": "booking",
+        "log_cnt-pow_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "src_revert": "",
+        "ttf_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "domain": "booking",
+                "confidence": 17689404.30334
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_cnt_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-w_duc": "",
+        "log_ecnt-w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "tf_log_idf": "",
+        "log_cnt_idf": "",
+        "log_ecnt_idf": "",
+        "idf": "",
+        "src_revert_detail": [],
+        "plain_domain_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "plain_domain": "",
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "tf_log_idf_detail": []
+    },
+    "pepca_inline_style_total": 0,
+    "rfcid_is_invalid": false,
+    "pepca": "pe7ca6f2bce195e1b",
+    "ahref_verbal_count": 3,
+    "now": 1494598219,
+    "spfstatus_hfrom": "SPF_SOFTFAIL",
+    "pepca_inline_style": "p3eeb2ae687fd9d1d",
+    "pepca_style_total": 0,
+    "subject_image_count": 0,
+    "dkim_efrom_match": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/2b14d702e82475cec6ec3cf5abd6d2a3.eml",
     "attachments": [
         {
-            "sumphash": "fc0844c5209c02441fd215f18501769b",
+            "lang": "cs",
             "first10words": "OBCHODNI PODMINKY obchodni spolecnosti Domansky s r o se sidlem",
             "cte": "BASE64",
-            "flags": 0,
+            "name": "obchodni-podminky-profimodel.pdf",
             "pepca": "p0a2dcc564a2c598b",
-            "lang": "cs",
-            "mime_type": "application/pdf",
+            "sumphash": "fc0844c5209c02441fd215f18501769b",
+            "flags": 0,
             "size": 343696,
-            "name": "obchodni-podminky-profimodel.pdf"
+            "mime_type": "application/pdf"
         },
         {
-            "sumphash": "8a90869b7b57bebcac4470c07d0c1b32",
+            "lang": "cs",
             "first10words": "Formular pro odstoupeni od kupni smlouvy Adresat prodavajici Domansky s",
             "cte": "BASE64",
-            "flags": 0,
+            "name": "formular-pro-odstoupeni-od-kupni-smlouvy-profimodel.pdf",
             "pepca": "pa2c1206f621ababd",
-            "lang": "cs",
-            "mime_type": "application/pdf",
+            "sumphash": "8a90869b7b57bebcac4470c07d0c1b32",
+            "flags": 0,
             "size": 239846,
-            "name": "formular-pro-odstoupeni-od-kupni-smlouvy-profimodel.pdf"
+            "mime_type": "application/pdf"
         }
     ],
-    "subject": "Nova objednavka ze serveru profimodel 3591",
-    "html_tr_tag_count": 14,
     "html_tag_total_count": 152,
-    "phish_score": 0,
-    "spamtrap_hit": false,
-    "extractedEmailsDomainCount": 1,
-    "extractedEmails": [
-        "flyluk@seznam.cz"
-    ],
-    "spamscore": 1.1,
-    "ahref_total_count": 4,
-    "extractedEmailsCardinality": 1,
-    "list_unsubscribe_http_count": 0,
-    "dkim_count": 0,
-    "adscore": 0,
-    "pepca": "pe7ca6f2bce195e1b",
-    "dkStatusDetail": "NOT_SIGNED",
-    "unsub_link_candidates": [
-        "http://www.profimodel.cz/dokumenty/obchodni-podminky-profimodel.pdf"
-    ],
-    "html_script_tag_count": 0,
-    "date_difference": -75957729,
-    "html_in_text_plain_count": 0,
-    "pepca_style": "",
-    "word_count": 169,
-    "rfcid_length": 50,
-    "spf_dom_policy_registry": "Policy not found",
-    "unsub_link": "http://www.profimodel.cz/dokumenty/obchodni-podminky-profimodel.pdf",
-    "last10words": " Email flyluk seznam cz Obchodni podminky Formular pro odstoupeni od kupni smlouvy Cas odeslani 15 12 2014 11 48 10 ",
     "extractedHrefUrls": [
         "http://www.profimodel.cz/cz-detail-47756-.html",
         "http://www.profimodel.cz/dokumenty/obchodni-podminky-profimodel.pdf",
         "http://www.profimodel.cz/dokumenty/formular-pro-odstoupeni-od-kupni-smlouvy-profimodel.pdf"
     ],
-    "spfstatus_hfrom": "SPF_SOFTFAIL",
-    "header_reply_to_count": 0,
-    "senders": {
-        "log_cnt_idf_detail": [],
-        "log_ecnt_idf_detail": [],
-        "tf_log_idf": "",
-        "log_cnt-pow4_w_duc": "",
-        "log_ecnt_idf_log_tidf_detail": [],
-        "cnt-pow_w_duc_detail": [],
-        "cnt-pow_w_duc": "",
-        "log_ecnt-w_duc_detail": [],
-        "idf": "",
-        "cnt-pow4_w_duc_detail": [],
-        "ttf_w_duc_detail": [],
-        "ettf_w_duc_detail": [],
-        "log_cnt-w_duc": "",
-        "src_revert": "",
-        "log_cnt_idf_log_tidf_detail": [],
-        "log_cnt_idf_log_tidf": "",
-        "log_cnt-pow4_w_duc_detail": [],
-        "log_cnt-pow_w_duc": "",
-        "cnt-pow4_w_duc": "",
-        "plain_domain": "",
-        "src_revert_detail": [],
-        "log_ecnt_log_idf_log_tidf": "",
-        "log_ecnt_idf_log_tidf": "",
-        "log_cnt-pow_w_duc_detail": [],
-        "ttf_w_duc": "",
-        "plain_domain_detail": [],
-        "log_ecnt_idf": "",
-        "tf_log_idf_detail": [],
-        "ettf_w_duc": "",
-        "idf_detail": [],
-        "log_ecnt_log_idf_log_tidf_detail": [],
-        "domain_keywords_detail": [
-            {
-                "confidence": 17689404.30334,
-                "domain": "booking"
-            }
-        ],
-        "domain_keywords": "booking",
-        "log_cnt-w_duc_detail": [],
-        "log_ecnt-w_duc": "",
-        "log_cnt_idf": ""
-    },
-    "pepcatotal": 0,
-    "content": "CONTENT_DEFAULT",
-    "extractedSrcUrls": [],
-    "extractedHrefUrlsDomainCount": 1,
-    "dkim_passed_count": 0,
-    "list_unsubscribe_total_count": 0,
-    "dk_statuses": [
-        {
-            "statusDetail": "NOT_SIGNED",
-            "status": "NEUTRAL"
-        }
-    ],
-    "ahref_camouflage_count": 0,
-    "list_unsubscribe_invalid_count": 0,
-    "header_from": "profimodel@domansky.cz"
+    "unsub_link_candidates": [
+        "http://www.profimodel.cz/dokumenty/obchodni-podminky-profimodel.pdf"
+    ]
 }

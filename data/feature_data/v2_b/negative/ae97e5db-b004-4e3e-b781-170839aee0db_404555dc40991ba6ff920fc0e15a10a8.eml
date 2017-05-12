@@ -1,210 +1,143 @@
 {
+    "spf_domain_policy": "UNKNOWN",
+    "subject_word_count": 5,
+    "last10words": "jak funguje Vice informaci Tym Sluzbomat cz infolinka 841 100 300 e mail info sluzbomat cz ",
+    "spfstatus": "NONE",
+    "header_from": "info@sluzbomat.cz",
+    "dkim_passed_count": 2,
+    "header_total_count": 19,
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p79046dc5485e7330"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p3d3cd6e6d079670c"
+        }
+    ],
+    "self_send": 0,
+    "header_from_count": 1,
+    "phish_score": 0,
+    "html_in_text_plain_count": 0,
+    "extractedSrcUrlsTotalCount": 5,
+    "rcpts_count": 1,
+    "extractedEmails": [
+        "info@sluzbomat.cz"
+    ],
+    "precedence": 3,
+    "spf_dom_policy_registry": "Policy not found",
+    "dkim_hfrom_match": 0,
+    "list_unsubscribe_total_count": 0,
+    "ahref_total_count": 4,
+    "extractedEmailsDomainCount": 1,
+    "html_td_tag_count": 26,
+    "spamtrap_hit": false,
+    "dkselector": "mandrill",
+    "extractedTxtUrlsCardinality": 1,
+    "dk_statuses": [
+        {
+            "domain": "mail135.wdc04.mandrillapp.com",
+            "selector": "mandrill",
+            "status": "PASS"
+        },
+        {
+            "domain": "mandrillapp.com",
+            "selector": "mandrill",
+            "status": "PASS"
+        }
+    ],
+    "first10words": " Dobry den Dobry den Vite ze diky Sluzbomat cz ziskate nov",
+    "extractedEmailsCardinality": 1,
     "notches": [
         {
+            "score": 1.1,
             "subscores": [
                 1,
                 0.0,
                 0.1
             ],
-            "score": 1.1,
-            "module": "ill",
             "name": [
                 "date_in_past",
                 "from_missmatch",
                 "foreign_message_id"
-            ]
+            ],
+            "module": "ill"
         }
     ],
-    "extractedTxtUrls": [
-        "http://Sluzbomat.cz"
-    ],
-    "spfstatus": "NONE",
-    "mime_root_type": "multipart/alternative",
-    "header_from_count": 1,
-    "now": 1494598245,
-    "dkim_efrom_match": 0,
-    "pepca_inline_style_total": 0,
-    "rcpts_count": 1,
     "extractedEmailsTotalCount": 1,
-    "pepca_inline_style": "p3d3cd6e6d079670c",
-    "pepca_style_total": 0,
-    "dkselector": "mandrill",
-    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/404555dc40991ba6ff920fc0e15a10a8.eml",
-    "html_td_tag_count": 26,
-    "extractedHrefUrlsCardinality": 4,
-    "list_unsubscribe_mailto_count": 0,
-    "subject_word_count": 5,
-    "lang": "cs",
-    "precedence": 3,
-    "phishing": {
-        "num_html_script_tags": 0,
-        "num_text_forms": 1,
-        "fake_https": 0,
-        "is_html": true,
-        "num_non_80_port_urls": 0,
-        "num_https_urls": 0,
-        "num_of_chars": 964,
-        "num_param_phish": 0,
-        "text_and_href": 0,
-        "body_richness": 0.278756476683938,
-        "text_link_with_path": 0,
-        "max_num_slashes_urls": 4,
-        "num_shortened_urls": 0,
-        "num_sender_diff_url": 1,
-        "num_ip_urls": 0,
-        "num_black_sheep_link": -1,
-        "subject_richness": 0.131578947368421,
-        "num_tld_in_url_path": 0,
-        "subject_phish_keywords": 0,
-        "num_black_sheep_link_global": -1,
-        "num_black_sheep_link_phish": 0,
-        "num_path_phish": 0,
-        "suspicious_links": [],
-        "html_form": 0,
-        "num_phish_keywords": 4,
-        "num_subdomain_phish": 0,
-        "num_domain_phish": 0,
-        "ner_domain_detected": false,
-        "camouflage": 0,
-        "num_freehost_urls": 0,
-        "num_external_links": 9,
-        "max_num_dots_urls": 3,
-        "num_www_in_url_path": 0
-    },
-    "spf_status_registry": "Status not found",
-    "rfcid_is_foreign": 1,
-    "from_match": 0,
-    "first10words": " Dobry den Dobry den Vite ze diky Sluzbomat cz ziskate nov",
-    "extractedTxtUrlsDomainCount": 1,
-    "spf_domain_policy": "UNKNOWN",
-    "header_total_count": 19,
-    "dkim_passed_count": 2,
-    "extractedTxtUrlsCardinality": 1,
+    "subject_image_count": 0,
+    "extractedSrcUrlsCardinality": 5,
     "dkim_signs_cnt": 2,
+    "pepca_style": "",
+    "html_script_tag_count": 0,
+    "extractedHrefUrlsCardinality": 4,
+    "adscore": 0,
+    "list_unsubscribe_http_count": 0,
+    "extractedHrefUrlsTotalCount": 4,
+    "content": "CONTENT_DEFAULT",
+    "rfcid_length": 59,
+    "extractedTxtUrlsDomainCount": 1,
+    "pepca_inline_style_total": 0,
+    "dkim_count": 2,
+    "subject": "Dokoncit registraci na SLUZBOMAT cz",
+    "pepcatotal": 0,
+    "mime_root_type": "multipart/alternative",
+    "ahref_camouflage_count": 0,
+    "date_difference": -80201559,
+    "header_reply_to_count": 0,
+    "list_unsubscribe_mailto_count": 0,
+    "rfcid_is_foreign": 1,
+    "dkstatus": "PASS",
+    "mime_children_count": 2,
+    "extractedHrefUrlsDomainCount": 1,
+    "word_count": 269,
+    "list_unsubscribe_invalid_count": 0,
     "mime_children_types": [
         "text/plain",
         "text/html"
     ],
-    "ahref_verbal_count": 3,
-    "subject_image_count": 0,
-    "phish_score": 0,
-    "rfcid_is_invalid": false,
-    "dkstatus": "PASS",
-    "phashes": [
-        {
-            "value": "p79046dc5485e7330",
-            "name": "pepca"
-        },
-        {
-            "value": "p3d3cd6e6d079670c",
-            "name": "pepca_inline_style"
-        }
+    "extractedTxtUrls": [
+        "http://Sluzbomat.cz"
     ],
+    "spf_status_registry": "Status not found",
+    "lang": "cs",
     "extractedTxtUrlsTotalCount": 1,
-    "self_send": 0,
-    "dkdomain": "mail135.wdc04.mandrillapp.com",
-    "html_tr_tag_count": 24,
-    "extractedEmails": [
-        "info@sluzbomat.cz"
-    ],
-    "html_tag_total_count": 188,
-    "mime_children_count": 2,
-    "spamtrap_hit": false,
-    "extractedEmailsDomainCount": 1,
-    "extractedHrefUrlsTotalCount": 4,
-    "dk_statuses": [
-        {
-            "selector": "mandrill",
-            "status": "PASS",
-            "domain": "mail135.wdc04.mandrillapp.com"
-        },
-        {
-            "selector": "mandrill",
-            "status": "PASS",
-            "domain": "mandrillapp.com"
-        }
-    ],
-    "extractedSrcUrlsCardinality": 5,
-    "senders": {
-        "log_cnt_idf_detail": [],
-        "log_ecnt_idf_detail": [],
-        "tf_log_idf": "",
-        "log_cnt-pow4_w_duc": "",
-        "log_ecnt_idf_log_tidf_detail": [],
-        "cnt-pow_w_duc_detail": [],
-        "cnt-pow_w_duc": "",
-        "log_ecnt-w_duc_detail": [],
-        "idf": "",
-        "cnt-pow4_w_duc_detail": [],
-        "ttf_w_duc_detail": [],
-        "ettf_w_duc_detail": [],
-        "log_cnt-w_duc": "",
-        "src_revert": "sluzbomat",
-        "log_cnt_idf_log_tidf_detail": [],
-        "log_cnt_idf_log_tidf": "",
-        "log_cnt-pow4_w_duc_detail": [],
-        "log_cnt-pow_w_duc": "",
-        "cnt-pow4_w_duc": "",
-        "plain_domain": "sluzbomat",
-        "src_revert_detail": [
-            {
-                "confidence": 4,
-                "domain": "sluzbomat"
-            }
-        ],
-        "log_ecnt_log_idf_log_tidf": "",
-        "log_ecnt_idf_log_tidf": "",
-        "log_cnt-pow_w_duc_detail": [],
-        "ttf_w_duc": "",
-        "plain_domain_detail": [
-            {
-                "confidence": 1,
-                "domain": "sluzbomat"
-            }
-        ],
-        "log_ecnt_idf": "",
-        "tf_log_idf_detail": [],
-        "ettf_w_duc": "",
-        "idf_detail": [],
-        "log_ecnt_log_idf_log_tidf_detail": [],
-        "domain_keywords_detail": [
-            {
-                "confidence": 12947904.2613,
-                "domain": "masterinter"
-            }
-        ],
-        "domain_keywords": "masterinter",
-        "log_cnt-w_duc_detail": [],
-        "log_ecnt-w_duc": "",
-        "log_cnt_idf": ""
+    "phishing": {
+        "is_html": true,
+        "num_subdomain_phish": 0,
+        "body_richness": 0.278756476683938,
+        "num_domain_phish": 0,
+        "num_https_urls": 0,
+        "text_link_with_path": 0,
+        "num_text_forms": 1,
+        "num_phish_keywords": 4,
+        "num_external_links": 9,
+        "num_non_80_port_urls": 0,
+        "subject_richness": 0.131578947368421,
+        "num_black_sheep_link": -1,
+        "num_freehost_urls": 0,
+        "num_sender_diff_url": 1,
+        "max_num_dots_urls": 3,
+        "fake_https": 0,
+        "suspicious_links": [],
+        "ner_domain_detected": false,
+        "num_black_sheep_link_global": -1,
+        "max_num_slashes_urls": 4,
+        "num_param_phish": 0,
+        "num_www_in_url_path": 0,
+        "text_and_href": 0,
+        "num_path_phish": 0,
+        "camouflage": 0,
+        "subject_phish_keywords": 0,
+        "num_html_script_tags": 0,
+        "num_black_sheep_link_phish": 0,
+        "num_shortened_urls": 0,
+        "num_of_chars": 964,
+        "num_ip_urls": 0,
+        "html_form": 0,
+        "num_tld_in_url_path": 0
     },
-    "spamscore": 1.1,
-    "ahref_total_count": 4,
-    "extractedEmailsCardinality": 1,
-    "extractedSrcUrlsTotalCount": 5,
-    "dkim_count": 2,
-    "adscore": 0,
-    "pepca": "p79046dc5485e7330",
-    "html_script_tag_count": 0,
-    "date_difference": -80201559,
-    "html_in_text_plain_count": 0,
-    "pepca_style": "",
-    "word_count": 269,
-    "rfcid_length": 59,
-    "spf_dom_policy_registry": "Policy not found",
-    "pepcatotal": 0,
-    "last10words": "jak funguje Vice informaci Tym Sluzbomat cz infolinka 841 100 300 e mail info sluzbomat cz ",
-    "extractedHrefUrls": [
-        "http://mandrillapp.com/track/click/30009320/www.sluzbomat.cz?p=eyJzIjoib0xjRGNlRXR4bjdZSnEtMm5UbTl1ZVhwT2NzIiwidiI6MSwicCI6IntcI",
-        "http://mandrillapp.com/track/click/30009320/sluzbomat.cz?p=eyJzIjoiWnhELUVLbzNEblBZZ20zSURpMWxfbW5jTXg0IiwidiI6MSwicCI6IntcInVcI",
-        "http://mandrillapp.com/track/click/30009320/youtu.be?p=eyJzIjoiRldFTTZoUTZkRU9jY0lPWXgyYk9nY0JKY0JRIiwidiI6MSwicCI6IntcInVcIjozM",
-        "http://mandrillapp.com/track/click/30009320/sluzbomat.cz?p=eyJzIjoiT0R6VWFHNGlheEFrb1Awb1FsQUlaUDZtZzNZIiwidiI6MSwicCI6IntcInVcI"
-    ],
-    "spfstatus_hfrom": "SPF_ERR",
-    "header_reply_to_count": 0,
-    "dkim_hfrom_match": 0,
-    "attachments": [],
-    "content": "CONTENT_DEFAULT",
     "extractedSrcUrls": [
         "http://www.sluzbomat.cz/assets/logo_top.png",
         "http://www.sluzbomat.cz/assets/tran.gif",
@@ -212,12 +145,79 @@
         "http://www.sluzbomat.cz/assets/logo_bottom.jpg",
         "http://mandrillapp.com/track/open.php?u=30009320&id=9cb97fd34ae147c9afe27d3b916e9aea"
     ],
-    "list_unsubscribe_http_count": 0,
-    "extractedHrefUrlsDomainCount": 1,
-    "subject": "Dokoncit registraci na SLUZBOMAT cz",
-    "list_unsubscribe_total_count": 0,
+    "from_match": 0,
+    "html_tr_tag_count": 24,
+    "senders": {
+        "log_cnt-w_duc_detail": [],
+        "idf_detail": [],
+        "log_ecnt_idf_detail": [],
+        "domain_keywords": "masterinter",
+        "log_cnt-pow_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "src_revert": "sluzbomat",
+        "ttf_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "domain": "masterinter",
+                "confidence": 12947904.2613
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_cnt_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-w_duc": "",
+        "log_ecnt-w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "tf_log_idf": "",
+        "log_cnt_idf": "",
+        "log_ecnt_idf": "",
+        "idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "sluzbomat",
+                "confidence": 4
+            }
+        ],
+        "plain_domain_detail": [
+            {
+                "domain": "sluzbomat",
+                "confidence": 1
+            }
+        ],
+        "cnt-pow_w_duc_detail": [],
+        "plain_domain": "sluzbomat",
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "tf_log_idf_detail": []
+    },
+    "pepca": "p79046dc5485e7330",
+    "rfcid_is_invalid": false,
     "extractedSrcUrlsDomainCount": 2,
-    "ahref_camouflage_count": 0,
-    "list_unsubscribe_invalid_count": 0,
-    "header_from": "info@sluzbomat.cz"
+    "dkdomain": "mail135.wdc04.mandrillapp.com",
+    "ahref_verbal_count": 3,
+    "now": 1494598245,
+    "spfstatus_hfrom": "SPF_ERR",
+    "pepca_inline_style": "p3d3cd6e6d079670c",
+    "pepca_style_total": 0,
+    "spamscore": 1.1,
+    "dkim_efrom_match": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/404555dc40991ba6ff920fc0e15a10a8.eml",
+    "attachments": [],
+    "html_tag_total_count": 188,
+    "extractedHrefUrls": [
+        "http://mandrillapp.com/track/click/30009320/www.sluzbomat.cz?p=eyJzIjoib0xjRGNlRXR4bjdZSnEtMm5UbTl1ZVhwT2NzIiwidiI6MSwicCI6IntcI",
+        "http://mandrillapp.com/track/click/30009320/sluzbomat.cz?p=eyJzIjoiWnhELUVLbzNEblBZZ20zSURpMWxfbW5jTXg0IiwidiI6MSwicCI6IntcInVcI",
+        "http://mandrillapp.com/track/click/30009320/youtu.be?p=eyJzIjoiRldFTTZoUTZkRU9jY0lPWXgyYk9nY0JKY0JRIiwidiI6MSwicCI6IntcInVcIjozM",
+        "http://mandrillapp.com/track/click/30009320/sluzbomat.cz?p=eyJzIjoiT0R6VWFHNGlheEFrb1Awb1FsQUlaUDZtZzNZIiwidiI6MSwicCI6IntcInVcI"
+    ]
 }

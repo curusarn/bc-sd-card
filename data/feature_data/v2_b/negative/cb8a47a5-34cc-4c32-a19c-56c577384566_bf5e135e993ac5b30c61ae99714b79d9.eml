@@ -1,209 +1,142 @@
 {
-    "notches": [
+    "spf_domain_policy": "UNKNOWN",
+    "subject_word_count": 2,
+    "last10words": " 1374 Vincenti Buildings 28 19 Strait Street Valletta VLT 1432 Malta 44 3444824945 vase uzivatelske id 4038217169 ",
+    "spfstatus": "NONE",
+    "header_from": "admin@loveaholics.com",
+    "dkim_passed_count": 1,
+    "header_total_count": 20,
+    "phashes": [
         {
-            "subscores": [
-                1,
-                0.0,
-                0.1
-            ],
-            "score": 1.1,
-            "module": "ill",
-            "name": [
-                "date_in_past",
-                "from_missmatch",
-                "foreign_message_id"
-            ]
+            "name": "pepca",
+            "value": "p307509f3187b8b67"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p625552adbbe8f8fe"
         }
     ],
-    "rfcid_is_invalid": false,
-    "spfstatus": "NONE",
-    "mime_root_type": "multipart/alternative",
+    "self_send": 0,
     "header_from_count": 1,
-    "now": 1494598406,
-    "dkim_efrom_match": 0,
-    "pepca_inline_style_total": 0,
+    "phish_score": 0,
+    "html_in_text_plain_count": 3,
+    "extractedSrcUrlsTotalCount": 6,
     "rcpts_count": 1,
-    "extractedEmailsTotalCount": 1,
-    "pepca_inline_style": "p625552adbbe8f8fe",
-    "pepca_style_total": 0,
-    "dkselector": "to",
-    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/bf5e135e993ac5b30c61ae99714b79d9.eml",
-    "html_td_tag_count": 96,
-    "extractedHrefUrlsCardinality": 10,
-    "list_unsubscribe_mailto_count": 1,
-    "subject_word_count": 2,
-    "lang": "cs",
+    "extractedEmails": [
+        "Fabia20088@seznam.cz"
+    ],
     "precedence": 3,
-    "phishing": {
-        "num_html_script_tags": 0,
-        "num_text_forms": 12,
-        "fake_https": 0,
-        "is_html": true,
-        "num_non_80_port_urls": 0,
-        "num_https_urls": 6,
-        "num_of_chars": 927,
-        "num_param_phish": 0,
-        "text_and_href": 0,
-        "body_richness": 0.372844827586207,
-        "text_link_with_path": 0,
-        "max_num_slashes_urls": 4,
-        "num_shortened_urls": 0,
-        "num_sender_diff_url": 4,
-        "num_ip_urls": 0,
-        "num_black_sheep_link": -1,
-        "subject_richness": 0.1,
-        "num_tld_in_url_path": 0,
-        "subject_phish_keywords": 1,
-        "num_black_sheep_link_global": -1,
-        "num_black_sheep_link_phish": 0,
-        "num_path_phish": 0,
-        "suspicious_links": [],
-        "html_form": 0,
-        "num_phish_keywords": 7,
-        "num_subdomain_phish": 0,
-        "num_domain_phish": 0,
-        "ner_domain_detected": false,
-        "camouflage": 0,
-        "num_freehost_urls": 0,
-        "num_external_links": 10,
-        "max_num_dots_urls": 2,
-        "num_www_in_url_path": 0
-    },
-    "spf_status_registry": "Status not found",
-    "rfcid_is_foreign": 1,
-    "from_match": 0,
-    "first10words": " Loveaholics Upgrade svuj ucet a kontaktuj vsechny uzivatele Odhlas zmenou nast",
-    "spf_domain_policy": "UNKNOWN",
-    "header_total_count": 20,
-    "dkim_passed_count": 1,
-    "dkim_signs_cnt": 1,
+    "spf_dom_policy_registry": "Policy not found",
     "list_unsubscribe_urls": [
         "mailto:lu-ph@to.ropot.net?subject=f0b40323619f11e49ef5441ea14ed80c&body=30bdd4202d6a055ec87ca7abb5d854f2RmFiaWEyMDA4OEBzZXpuYW0uY3osOTcyZjAyODk5ZWYyNGYwYWI3NGRkMGQ5MmEyMmZkOTA="
     ],
-    "mime_children_types": [
-        "text/plain",
-        "text/html"
+    "dkim_hfrom_match": 1,
+    "list_unsubscribe_total_count": 1,
+    "ahref_total_count": 11,
+    "extractedEmailsDomainCount": 1,
+    "html_td_tag_count": 96,
+    "spamtrap_hit": false,
+    "dkselector": "to",
+    "dk_statuses": [
+        {
+            "domain": "loveaholics.com",
+            "selector": "to",
+            "status": "PASS"
+        }
     ],
-    "ahref_verbal_count": 8,
+    "first10words": " Loveaholics Upgrade svuj ucet a kontaktuj vsechny uzivatele Odhlas zmenou nast",
+    "extractedEmailsCardinality": 1,
+    "extractedEmailsTotalCount": 1,
     "subject_image_count": 0,
-    "phish_score": 0,
-    "self_send": 0,
-    "dkstatus": "PASS",
+    "extractedSrcUrlsCardinality": 6,
+    "dkim_signs_cnt": 1,
+    "unsub_link": "http://www.loveaholics.com/staticPage/privacypolicy",
+    "pepca_style": "",
+    "html_script_tag_count": 0,
+    "extractedHrefUrlsCardinality": 10,
+    "adscore": 0,
+    "list_unsubscribe_http_count": 0,
+    "extractedHrefUrlsTotalCount": 10,
+    "content": "CONTENT_DEFAULT",
+    "rfcid_length": 62,
+    "word_count": 346,
+    "pepca_inline_style_total": 0,
+    "dkim_count": 1,
+    "subject": "Pripomenuti hesla",
     "unsub_link_texts": [
         "svuj ucet a kontaktovat vsechen uzivatel odhlasit zmena nastaveni mail dobry den pepa zde byt vasi prihlasovaci udaj",
         " odhlasit se zmena vas emailovy predplatne",
         "zmena vas emailovy predplatne ochrana soukromy "
     ],
-    "phashes": [
-        {
-            "value": "p307509f3187b8b67",
-            "name": "pepca"
-        },
-        {
-            "value": "p625552adbbe8f8fe",
-            "name": "pepca_inline_style"
-        }
-    ],
-    "contains_list_header": true,
-    "dkdomain": "loveaholics.com",
-    "html_tr_tag_count": 74,
-    "extractedEmails": [
-        "Fabia20088@seznam.cz"
-    ],
-    "html_tag_total_count": 287,
-    "mime_children_count": 2,
-    "spamtrap_hit": false,
-    "extractedEmailsDomainCount": 1,
-    "extractedHrefUrlsTotalCount": 10,
-    "dk_statuses": [
-        {
-            "selector": "to",
-            "status": "PASS",
-            "domain": "loveaholics.com"
-        }
-    ],
-    "extractedSrcUrlsCardinality": 6,
-    "senders": {
-        "log_cnt_idf_detail": [],
-        "log_ecnt_idf_detail": [],
-        "tf_log_idf": "",
-        "log_cnt-pow4_w_duc": "",
-        "log_ecnt_idf_log_tidf_detail": [],
-        "cnt-pow_w_duc_detail": [],
-        "cnt-pow_w_duc": "",
-        "log_ecnt-w_duc_detail": [],
-        "idf": "",
-        "cnt-pow4_w_duc_detail": [],
-        "ttf_w_duc_detail": [],
-        "ettf_w_duc_detail": [],
-        "log_cnt-w_duc": "",
-        "src_revert": "centrum",
-        "log_cnt_idf_log_tidf_detail": [],
-        "log_cnt_idf_log_tidf": "",
-        "log_cnt-pow4_w_duc_detail": [],
-        "log_cnt-pow_w_duc": "",
-        "cnt-pow4_w_duc": "",
-        "plain_domain": "",
-        "src_revert_detail": [
-            {
-                "confidence": 6,
-                "domain": "centrum"
-            }
-        ],
-        "log_ecnt_log_idf_log_tidf": "",
-        "log_ecnt_idf_log_tidf": "",
-        "log_cnt-pow_w_duc_detail": [],
-        "ttf_w_duc": "",
-        "plain_domain_detail": [],
-        "log_ecnt_idf": "",
-        "tf_log_idf_detail": [],
-        "ettf_w_duc": "",
-        "idf_detail": [],
-        "log_ecnt_log_idf_log_tidf_detail": [],
-        "domain_keywords_detail": [
-            {
-                "confidence": 116836967.27924,
-                "domain": "loveaholics"
-            }
-        ],
-        "domain_keywords": "loveaholics",
-        "log_cnt-w_duc_detail": [],
-        "log_ecnt-w_duc": "",
-        "log_cnt_idf": ""
-    },
-    "spamscore": 1.1,
-    "ahref_total_count": 11,
-    "extractedEmailsCardinality": 1,
-    "extractedSrcUrlsTotalCount": 6,
-    "dkim_count": 1,
-    "adscore": 0,
-    "pepca": "p307509f3187b8b67",
-    "unsub_link_candidates": [
-        "https://www.loveaholics.com/site/autologin?emlTrack=1414831712-591b18f9bef511e38e3e68b599be7074-UGFzc3dvcmRSZW1pbmRlclRndGg%3D-ZUVtYWls-UGFzc3dvcmQgUmVtaW5kZXI%3D&key=78753126e33c90df2d0c1ff598853ee4&uniqmessageId=972f02899ef24f0ab74dd0d92a22fd90&open=unsubscribe",
-        "https://www.loveaholics.com/site/autologin?emlTrack=1414831712-591b18f9bef511e38e3e68b599be7074-UGFzc3dvcmRSZW1pbmRlclRndGg%3D-ZUVtYWls-UGFzc3dvcmQgUmVtaW5kZXI%3D&key=78753126e33c90df2d0c1ff598853ee4&uniqmessageId=972f02899ef24f0ab74dd0d92a22fd90&open=unsubscribe",
-        "http://www.loveaholics.com/staticPage/privacypolicy"
-    ],
-    "html_script_tag_count": 0,
-    "date_difference": -79766693,
-    "html_in_text_plain_count": 3,
-    "pepca_style": "",
-    "word_count": 346,
-    "rfcid_length": 62,
-    "spf_dom_policy_registry": "Policy not found",
     "pepcatotal": 0,
-    "last10words": " 1374 Vincenti Buildings 28 19 Strait Street Valletta VLT 1432 Malta 44 3444824945 vase uzivatelske id 4038217169 ",
-    "extractedHrefUrls": [
-        "https://www.facebook.com/pages/Loveaholics/1430806357137107",
-        "https://twitter.com/loveaholicscom",
-        "https://plus.google.com/b/109173658027774387997/109173658027774387997/posts",
-        "http://www.pinterest.com/loveaholics/",
-        ""
-    ],
-    "spfstatus_hfrom": "SPF_FAIL",
+    "mime_root_type": "multipart/alternative",
+    "ahref_camouflage_count": 0,
+    "date_difference": -79766693,
     "header_reply_to_count": 1,
-    "dkim_hfrom_match": 1,
-    "attachments": [],
-    "content": "CONTENT_DEFAULT",
+    "list_unsubscribe_mailto_count": 1,
+    "rfcid_is_foreign": 1,
+    "dkstatus": "PASS",
+    "mime_children_count": 2,
+    "extractedHrefUrlsDomainCount": 5,
+    "contains_list_header": true,
+    "list_unsubscribe_invalid_count": 0,
+    "mime_children_types": [
+        "text/plain",
+        "text/html"
+    ],
+    "notches": [
+        {
+            "score": 1.1,
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "module": "ill"
+        }
+    ],
+    "spf_status_registry": "Status not found",
+    "lang": "cs",
+    "phishing": {
+        "is_html": true,
+        "num_subdomain_phish": 0,
+        "body_richness": 0.372844827586207,
+        "num_domain_phish": 0,
+        "num_https_urls": 6,
+        "text_link_with_path": 0,
+        "num_text_forms": 12,
+        "num_phish_keywords": 7,
+        "num_external_links": 10,
+        "num_non_80_port_urls": 0,
+        "subject_richness": 0.1,
+        "num_black_sheep_link": -1,
+        "num_freehost_urls": 0,
+        "num_sender_diff_url": 4,
+        "max_num_dots_urls": 2,
+        "fake_https": 0,
+        "suspicious_links": [],
+        "ner_domain_detected": false,
+        "num_black_sheep_link_global": -1,
+        "max_num_slashes_urls": 4,
+        "num_param_phish": 0,
+        "num_www_in_url_path": 0,
+        "text_and_href": 0,
+        "num_path_phish": 0,
+        "camouflage": 0,
+        "subject_phish_keywords": 1,
+        "num_html_script_tags": 0,
+        "num_black_sheep_link_phish": 0,
+        "num_shortened_urls": 0,
+        "num_of_chars": 927,
+        "num_ip_urls": 0,
+        "html_form": 0,
+        "num_tld_in_url_path": 0
+    },
     "extractedSrcUrls": [
         "http://www.loveaholics.com/crm/resource/index/id/a47a2090727b49c0b08e33c37f13c835.jpg",
         "http://www.loveaholics.com/crm/resource/index/id/b81a8bbd6ccd6521996ec2c58f84fc77.jpg",
@@ -211,13 +144,80 @@
         "http://www.loveaholics.com/crm/resource/index/id/756b65fbb91b848ea8c3373db75ebd55.jpg",
         "http://www.loveaholics.com/site/emailOpen?uniqmessageId=972f02899ef24f0ab74dd0d92a22fd90&uid=f0b24dd1619f11e49ef5441ea14ed80c&em"
     ],
-    "list_unsubscribe_http_count": 0,
-    "unsub_link": "http://www.loveaholics.com/staticPage/privacypolicy",
-    "extractedHrefUrlsDomainCount": 5,
-    "subject": "Pripomenuti hesla",
-    "list_unsubscribe_total_count": 1,
+    "from_match": 0,
+    "html_tr_tag_count": 74,
+    "senders": {
+        "log_cnt-w_duc_detail": [],
+        "idf_detail": [],
+        "log_ecnt_idf_detail": [],
+        "domain_keywords": "loveaholics",
+        "log_cnt-pow_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "src_revert": "centrum",
+        "ttf_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "domain": "loveaholics",
+                "confidence": 116836967.27924
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_cnt_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-w_duc": "",
+        "log_ecnt-w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "tf_log_idf": "",
+        "log_cnt_idf": "",
+        "log_ecnt_idf": "",
+        "idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "centrum",
+                "confidence": 6
+            }
+        ],
+        "plain_domain_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "plain_domain": "",
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "tf_log_idf_detail": []
+    },
+    "pepca": "p307509f3187b8b67",
+    "rfcid_is_invalid": false,
     "extractedSrcUrlsDomainCount": 1,
-    "ahref_camouflage_count": 0,
-    "list_unsubscribe_invalid_count": 0,
-    "header_from": "admin@loveaholics.com"
+    "dkdomain": "loveaholics.com",
+    "ahref_verbal_count": 8,
+    "now": 1494598406,
+    "spfstatus_hfrom": "SPF_FAIL",
+    "pepca_inline_style": "p625552adbbe8f8fe",
+    "pepca_style_total": 0,
+    "spamscore": 1.1,
+    "dkim_efrom_match": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/bf5e135e993ac5b30c61ae99714b79d9.eml",
+    "attachments": [],
+    "html_tag_total_count": 287,
+    "extractedHrefUrls": [
+        "https://www.facebook.com/pages/Loveaholics/1430806357137107",
+        "https://twitter.com/loveaholicscom",
+        "https://plus.google.com/b/109173658027774387997/109173658027774387997/posts",
+        "http://www.pinterest.com/loveaholics/",
+        ""
+    ],
+    "unsub_link_candidates": [
+        "https://www.loveaholics.com/site/autologin?emlTrack=1414831712-591b18f9bef511e38e3e68b599be7074-UGFzc3dvcmRSZW1pbmRlclRndGg%3D-ZUVtYWls-UGFzc3dvcmQgUmVtaW5kZXI%3D&key=78753126e33c90df2d0c1ff598853ee4&uniqmessageId=972f02899ef24f0ab74dd0d92a22fd90&open=unsubscribe",
+        "https://www.loveaholics.com/site/autologin?emlTrack=1414831712-591b18f9bef511e38e3e68b599be7074-UGFzc3dvcmRSZW1pbmRlclRndGg%3D-ZUVtYWls-UGFzc3dvcmQgUmVtaW5kZXI%3D&key=78753126e33c90df2d0c1ff598853ee4&uniqmessageId=972f02899ef24f0ab74dd0d92a22fd90&open=unsubscribe",
+        "http://www.loveaholics.com/staticPage/privacypolicy"
+    ]
 }

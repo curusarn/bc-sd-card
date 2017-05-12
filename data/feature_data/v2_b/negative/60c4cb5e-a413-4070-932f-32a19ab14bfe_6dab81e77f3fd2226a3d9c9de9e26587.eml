@@ -1,222 +1,222 @@
 {
+    "spf_domain_policy": "UNKNOWN",
+    "subject_word_count": 4,
+    "last10words": "trovana v Anglii a Walesu pod cislem CRN 7540255 se sidlem na adrese Media Village 131 151 Great Titchfield Street Londyn W1W 5BB ",
+    "spfstatus": "NONE",
+    "header_from": "noreply@badoo.com",
+    "dkim_passed_count": 0,
+    "header_total_count": 18,
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p31281658ec03c2ce"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pc7ad7d0d0a5d2bff"
+        }
+    ],
+    "self_send": 0,
+    "header_from_count": 1,
+    "phish_score": 0,
+    "html_in_text_plain_count": 0,
+    "extractedSrcUrlsTotalCount": 1,
+    "rcpts_count": 1,
+    "extractedEmails": [],
+    "spf_dom_policy_registry": "Policy not found",
+    "list_unsubscribe_urls": [
+        "mailto:unsubscribe+8_2540910027327541248_16_0ff0e0@badoo.com?subject=QB2qOJnZicCHUHzDVd45I0eemZHwldSje4XX/k64Gl0"
+    ],
+    "dkim_hfrom_match": 0,
+    "list_unsubscribe_total_count": 1,
+    "ahref_total_count": 2,
+    "extractedEmailsDomainCount": 0,
+    "html_td_tag_count": 6,
+    "spamtrap_hit": false,
+    "mime_children_types": [
+        "text/plain",
+        "text/html"
+    ],
+    "dk_statuses": [
+        {
+            "domain": "",
+            "status": "FAIL",
+            "statusDetail": "DKIM_STAT_CANTVRFY"
+        }
+    ],
+    "first10words": " Dokoncete vasi Badoo registraci Jste skoro tam Chcete li dokoncit vasi registraci a poznavat super lidi na Badoo pak kl",
+    "extractedEmailsCardinality": 0,
+    "dkStatusDetail": "DKIM_STAT_CANTVRFY",
+    "extractedEmailsTotalCount": 0,
+    "subject_image_count": 1,
+    "extractedSrcUrlsCardinality": 1,
+    "dkim_signs_cnt": 1,
+    "unsub_link": "https://eu1.badoo.com/impersonation.phtml?lang_id=16&email=zewlinka.zco%40seznam.cz&block_code=b94514&m=8&mid=5457f7060000003c001000460468640602908b080000&g=0-0-1",
+    "pepca_style": "",
+    "html_script_tag_count": 0,
+    "extractedHrefUrlsCardinality": 2,
+    "adscore": 5,
+    "list_unsubscribe_http_count": 0,
+    "extractedHrefUrlsTotalCount": 2,
+    "content": "CONTENT_DEFAULT",
+    "rfcid_length": 39,
+    "word_count": 139,
+    "pepca_inline_style_total": 0,
+    "dkim_count": 1,
+    "subject": " Dokoncete vasi Badoo registraci ",
+    "unsub_link_texts": [
+        "pokud si neprat dostavat zadny dalsi zprava od badoo paka kliknout zde a odhlasit se"
+    ],
+    "pepcatotal": 0,
+    "mime_root_type": "multipart/alternative",
+    "ahref_camouflage_count": 0,
+    "date_difference": -79547295,
+    "header_reply_to_count": 1,
+    "list_unsubscribe_mailto_count": 1,
+    "adNotches": [
+        {
+            "score": 5,
+            "subscores": [
+                5
+            ],
+            "name": [
+                "images_in_subject"
+            ],
+            "module": "ill"
+        }
+    ],
+    "dkstatus": "FAIL",
+    "mime_children_count": 2,
+    "extractedHrefUrlsDomainCount": 1,
+    "contains_list_header": true,
+    "list_unsubscribe_invalid_count": 0,
+    "precedence": 3,
     "notches": [
         {
+            "score": 2,
             "subscores": [
                 1,
                 0.0,
                 1
             ],
-            "score": 2,
-            "module": "ill",
             "name": [
                 "date_in_past",
                 "from_missmatch",
                 "images_in_subject"
-            ]
+            ],
+            "module": "ill"
         }
     ],
+    "spf_status_registry": "Status not found",
+    "lang": "cs",
+    "phishing": {
+        "is_html": true,
+        "num_subdomain_phish": 0,
+        "body_richness": 0.16868932038835,
+        "num_domain_phish": 0,
+        "num_https_urls": 2,
+        "text_link_with_path": 0,
+        "num_text_forms": 0,
+        "num_phish_keywords": 0,
+        "num_external_links": 3,
+        "num_non_80_port_urls": 0,
+        "subject_richness": 0.102564102564103,
+        "num_black_sheep_link": -1,
+        "num_freehost_urls": 0,
+        "num_sender_diff_url": 0,
+        "max_num_dots_urls": 5,
+        "fake_https": 0,
+        "suspicious_links": [],
+        "ner_domain_detected": false,
+        "num_black_sheep_link_global": -1,
+        "max_num_slashes_urls": 1,
+        "num_param_phish": 0,
+        "num_www_in_url_path": 0,
+        "text_and_href": 0,
+        "num_path_phish": 0,
+        "camouflage": 0,
+        "subject_phish_keywords": 0,
+        "num_html_script_tags": 0,
+        "num_black_sheep_link_phish": 0,
+        "num_shortened_urls": 0,
+        "num_of_chars": 823,
+        "num_ip_urls": 0,
+        "html_form": 0,
+        "num_tld_in_url_path": 0
+    },
+    "extractedSrcUrls": [
+        "http://badoocdn.com/5457f7060000003c001000460000000000000008195b296b-2540910027327541248/v2/-/-/i/badoo.16.gif"
+    ],
+    "from_match": 0,
+    "html_tr_tag_count": 4,
+    "senders": {
+        "log_cnt-w_duc_detail": [],
+        "idf_detail": [],
+        "log_ecnt_idf_detail": [],
+        "domain_keywords": "badoo",
+        "log_cnt-pow_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "src_revert": "badoo",
+        "ttf_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "domain": "badoo",
+                "confidence": 200579670.83895
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_cnt_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-w_duc": "",
+        "log_ecnt-w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "tf_log_idf": "",
+        "log_cnt_idf": "",
+        "log_ecnt_idf": "",
+        "idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "badoo",
+                "confidence": 1
+            }
+        ],
+        "plain_domain_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "plain_domain": "",
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "tf_log_idf_detail": []
+    },
+    "pepca": "p31281658ec03c2ce",
     "rfcid_is_invalid": false,
-    "spfstatus": "NONE",
-    "mime_root_type": "multipart/alternative",
-    "header_from_count": 1,
+    "extractedSrcUrlsDomainCount": 1,
+    "dkdomain": "",
+    "ahref_verbal_count": 2,
     "now": 1494598309,
-    "dkim_efrom_match": 0,
-    "pepca_inline_style_total": 0,
-    "rcpts_count": 1,
-    "extractedEmailsTotalCount": 0,
+    "spfstatus_hfrom": "SPF_FAIL",
     "pepca_inline_style": "pc7ad7d0d0a5d2bff",
     "pepca_style_total": 0,
-    "dkim_hfrom_match": 0,
-    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/6dab81e77f3fd2226a3d9c9de9e26587.eml",
-    "html_td_tag_count": 6,
-    "extractedHrefUrlsCardinality": 2,
-    "list_unsubscribe_mailto_count": 1,
-    "subject_word_count": 4,
-    "lang": "cs",
-    "precedence": 3,
-    "phishing": {
-        "num_html_script_tags": 0,
-        "num_text_forms": 0,
-        "fake_https": 0,
-        "is_html": true,
-        "num_non_80_port_urls": 0,
-        "num_https_urls": 2,
-        "num_of_chars": 823,
-        "num_param_phish": 0,
-        "text_and_href": 0,
-        "body_richness": 0.16868932038835,
-        "text_link_with_path": 0,
-        "max_num_slashes_urls": 1,
-        "num_shortened_urls": 0,
-        "num_sender_diff_url": 0,
-        "num_ip_urls": 0,
-        "num_black_sheep_link": -1,
-        "subject_richness": 0.102564102564103,
-        "num_tld_in_url_path": 0,
-        "subject_phish_keywords": 0,
-        "num_black_sheep_link_global": -1,
-        "num_black_sheep_link_phish": 0,
-        "num_path_phish": 0,
-        "suspicious_links": [],
-        "html_form": 0,
-        "num_phish_keywords": 0,
-        "num_subdomain_phish": 0,
-        "num_domain_phish": 0,
-        "ner_domain_detected": false,
-        "camouflage": 0,
-        "num_freehost_urls": 0,
-        "num_external_links": 3,
-        "max_num_dots_urls": 5,
-        "num_www_in_url_path": 0
-    },
-    "spf_status_registry": "Status not found",
-    "rfcid_is_foreign": 0,
-    "from_match": 0,
-    "first10words": " Dokoncete vasi Badoo registraci Jste skoro tam Chcete li dokoncit vasi registraci a poznavat super lidi na Badoo pak kl",
-    "spf_domain_policy": "UNKNOWN",
-    "header_total_count": 18,
-    "contains_list_header": true,
-    "dkim_passed_count": 0,
-    "dkim_signs_cnt": 1,
-    "list_unsubscribe_urls": [
-        "mailto:unsubscribe+8_2540910027327541248_16_0ff0e0@badoo.com?subject=QB2qOJnZicCHUHzDVd45I0eemZHwldSje4XX/k64Gl0"
-    ],
-    "pepca": "p31281658ec03c2ce",
-    "mime_children_types": [
-        "text/plain",
-        "text/html"
-    ],
-    "ahref_verbal_count": 2,
-    "subject_image_count": 1,
-    "phish_score": 0,
-    "self_send": 0,
-    "attachments": [],
-    "unsub_link_texts": [
-        "pokud si neprat dostavat zadny dalsi zprava od badoo paka kliknout zde a odhlasit se"
-    ],
-    "phashes": [
-        {
-            "value": "p31281658ec03c2ce",
-            "name": "pepca"
-        },
-        {
-            "value": "pc7ad7d0d0a5d2bff",
-            "name": "pepca_inline_style"
-        }
-    ],
-    "extractedEmails": [],
-    "dkstatus": "FAIL",
-    "html_tr_tag_count": 4,
-    "html_tag_total_count": 50,
-    "mime_children_count": 2,
-    "spamtrap_hit": false,
-    "extractedEmailsDomainCount": 0,
-    "adNotches": [
-        {
-            "subscores": [
-                5
-            ],
-            "score": 5,
-            "module": "ill",
-            "name": [
-                "images_in_subject"
-            ]
-        }
-    ],
-    "extractedHrefUrlsTotalCount": 2,
-    "extractedSrcUrlsCardinality": 1,
     "spamscore": 2,
-    "ahref_total_count": 2,
-    "extractedEmailsCardinality": 0,
-    "extractedSrcUrlsTotalCount": 1,
-    "dkim_count": 1,
-    "adscore": 5,
-    "dkdomain": "",
-    "dkStatusDetail": "DKIM_STAT_CANTVRFY",
-    "unsub_link_candidates": [
-        "https://eu1.badoo.com/impersonation.phtml?lang_id=16&email=zewlinka.zco%40seznam.cz&block_code=b94514&m=8&mid=5457f7060000003c001000460468640602908b080000&g=0-0-1"
-    ],
-    "html_script_tag_count": 0,
-    "date_difference": -79547295,
-    "html_in_text_plain_count": 0,
-    "pepca_style": "",
-    "word_count": 139,
-    "rfcid_length": 39,
-    "spf_dom_policy_registry": "Policy not found",
-    "pepcatotal": 0,
-    "last10words": "trovana v Anglii a Walesu pod cislem CRN 7540255 se sidlem na adrese Media Village 131 151 Great Titchfield Street Londyn W1W 5BB ",
+    "dkim_efrom_match": 0,
+    "rfcid_is_foreign": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/6dab81e77f3fd2226a3d9c9de9e26587.eml",
+    "attachments": [],
+    "html_tag_total_count": 50,
     "extractedHrefUrls": [
         "https://eu1.badoo.com/access.phtml?UID=425404779&secret=6471823950&m=8&g=5-0-1&login=0425404779&pref_lang=16&mid=5457f7060000003",
         "https://eu1.badoo.com/impersonation.phtml?lang_id=16&email=zewlinka.zco%40seznam.cz&block_code=b94514&m=8&mid=5457f7060000003c00"
     ],
-    "spfstatus_hfrom": "SPF_FAIL",
-    "header_reply_to_count": 1,
-    "senders": {
-        "log_cnt_idf_detail": [],
-        "log_ecnt_idf_detail": [],
-        "tf_log_idf": "",
-        "log_cnt-pow4_w_duc": "",
-        "log_ecnt_idf_log_tidf_detail": [],
-        "cnt-pow_w_duc_detail": [],
-        "cnt-pow_w_duc": "",
-        "log_ecnt-w_duc_detail": [],
-        "idf": "",
-        "cnt-pow4_w_duc_detail": [],
-        "ttf_w_duc_detail": [],
-        "ettf_w_duc_detail": [],
-        "log_cnt-w_duc": "",
-        "src_revert": "badoo",
-        "log_cnt_idf_log_tidf_detail": [],
-        "log_cnt_idf_log_tidf": "",
-        "log_cnt-pow4_w_duc_detail": [],
-        "log_cnt-pow_w_duc": "",
-        "cnt-pow4_w_duc": "",
-        "plain_domain": "",
-        "src_revert_detail": [
-            {
-                "confidence": 1,
-                "domain": "badoo"
-            }
-        ],
-        "log_ecnt_log_idf_log_tidf": "",
-        "log_ecnt_idf_log_tidf": "",
-        "log_cnt-pow_w_duc_detail": [],
-        "ttf_w_duc": "",
-        "plain_domain_detail": [],
-        "log_ecnt_idf": "",
-        "tf_log_idf_detail": [],
-        "ettf_w_duc": "",
-        "idf_detail": [],
-        "log_ecnt_log_idf_log_tidf_detail": [],
-        "domain_keywords_detail": [
-            {
-                "confidence": 200579670.83895,
-                "domain": "badoo"
-            }
-        ],
-        "domain_keywords": "badoo",
-        "log_cnt-w_duc_detail": [],
-        "log_ecnt-w_duc": "",
-        "log_cnt_idf": ""
-    },
-    "dk_statuses": [
-        {
-            "status": "FAIL",
-            "domain": "",
-            "statusDetail": "DKIM_STAT_CANTVRFY"
-        }
-    ],
-    "content": "CONTENT_DEFAULT",
-    "extractedSrcUrls": [
-        "http://badoocdn.com/5457f7060000003c001000460000000000000008195b296b-2540910027327541248/v2/-/-/i/badoo.16.gif"
-    ],
-    "list_unsubscribe_http_count": 0,
-    "unsub_link": "https://eu1.badoo.com/impersonation.phtml?lang_id=16&email=zewlinka.zco%40seznam.cz&block_code=b94514&m=8&mid=5457f7060000003c001000460468640602908b080000&g=0-0-1",
-    "extractedHrefUrlsDomainCount": 1,
-    "subject": " Dokoncete vasi Badoo registraci ",
-    "list_unsubscribe_total_count": 1,
-    "extractedSrcUrlsDomainCount": 1,
-    "ahref_camouflage_count": 0,
-    "list_unsubscribe_invalid_count": 0,
-    "header_from": "noreply@badoo.com"
+    "unsub_link_candidates": [
+        "https://eu1.badoo.com/impersonation.phtml?lang_id=16&email=zewlinka.zco%40seznam.cz&block_code=b94514&m=8&mid=5457f7060000003c001000460468640602908b080000&g=0-0-1"
+    ]
 }

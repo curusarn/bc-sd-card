@@ -1,266 +1,266 @@
 {
-    "notches": [
+    "spf_domain_policy": "UNKNOWN",
+    "subject_word_count": 6,
+    "last10words": "nikomu nesdelujte vase Hlavni heslo ani nam Osoba ktera si vyzadala poslani tohoto emailu mela IP adresu 88 101 249 213 ",
+    "spfstatus": "NONE",
+    "header_from": "support@lastpass.com",
+    "dkim_passed_count": 1,
+    "header_total_count": 19,
+    "phashes": [
         {
-            "subscores": [
-                1,
-                0.0
-            ],
-            "score": 1,
-            "module": "ill",
-            "name": [
-                "date_in_past",
-                "from_missmatch"
-            ]
+            "name": "att-pepca",
+            "value": "p871cda04b6dc9549"
+        },
+        {
+            "name": "att-pepca",
+            "value": "pa8b885fa3e26935b"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p27ac34c631571dc8"
+        },
+        {
+            "name": "pepca",
+            "value": "p65dfba9284eb34bd"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p28dcca82b30e4439"
         }
     ],
-    "extractedTxtUrls": [
-        "http://www.servis24.cz",
-        "http://oskar.ol.29@email.cz."
-    ],
-    "spfstatus": "NONE",
-    "mime_root_type": "multipart/related",
+    "self_send": 0,
     "header_from_count": 1,
-    "now": 1494598336,
-    "dkim_efrom_match": 0,
-    "pepca_inline_style_total": 0,
+    "phish_score": 0,
+    "html_in_text_plain_count": 0,
+    "extractedSrcUrlsTotalCount": 3,
     "rcpts_count": 1,
-    "extractedEmailsTotalCount": 0,
-    "pepca_inline_style": "p28dcca82b30e4439",
-    "pepca_style_total": 0,
-    "dkselector": "opendkim",
-    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/84c829ab3b501e78118e95fb0bd27d79.eml",
-    "html_td_tag_count": 30,
-    "extractedHrefUrlsCardinality": 4,
-    "list_unsubscribe_mailto_count": 1,
-    "subject_word_count": 6,
-    "lang": "cs",
+    "extractedEmails": [],
     "precedence": 2,
-    "phishing": {
-        "num_html_script_tags": 0,
-        "num_text_forms": 9,
-        "fake_https": 0,
-        "is_html": true,
-        "num_non_80_port_urls": 0,
-        "num_https_urls": 2,
-        "num_of_chars": 969,
-        "num_param_phish": 0,
-        "text_and_href": 0,
-        "body_richness": 0.189690721649485,
-        "text_link_with_path": 0,
-        "max_num_slashes_urls": 1,
-        "num_shortened_urls": 0,
-        "num_sender_diff_url": 2,
-        "num_ip_urls": 0,
-        "num_black_sheep_link": -1,
-        "subject_richness": 0.1,
-        "num_tld_in_url_path": 0,
-        "subject_phish_keywords": 2,
-        "num_black_sheep_link_global": -1,
-        "num_black_sheep_link_phish": 0,
-        "num_path_phish": 0,
-        "suspicious_links": [],
-        "html_form": 0,
-        "num_phish_keywords": 6,
-        "num_subdomain_phish": 0,
-        "num_domain_phish": 0,
-        "ner_domain_detected": false,
-        "camouflage": 0,
-        "num_freehost_urls": 0,
-        "num_external_links": 4,
-        "max_num_dots_urls": 4,
-        "num_www_in_url_path": 0
-    },
-    "spf_status_registry": "Status not found",
-    "rfcid_is_foreign": 0,
-    "from_match": 0,
-    "first10words": " LastPass Bezpecnostni upozorneni LastPass Zmena hesla stranky Ahoj This is an advisory notice letting you",
-    "extractedTxtUrlsDomainCount": 2,
-    "spf_domain_policy": "UNKNOWN",
-    "header_total_count": 19,
-    "dkim_passed_count": 1,
-    "extractedTxtUrlsCardinality": 2,
-    "dkim_signs_cnt": 1,
+    "spf_dom_policy_registry": "Policy not found",
     "list_unsubscribe_urls": [
         "mailto:feedbackloopuser@lastpass.com?subject=listunsubscribe",
         "https://lastpass.com/misc_nospamlist.php?data=6%2FOyRfJglxUCdFh6Ond9J6%2BbdP4dsPvce88UOpWFHe8wIkZlmxmKk%2Bq2rLqgAiMBbKYK2l4XEZAgE9QyLi4JEtlqEY8A0sH1nGqg1eN7s3aU691oLmB%2FrTHNEP8FJIgY7dvlvdmR98EnnOV7IMRWBVleNX3aFaP1AXkaQOTYAxhlRrNCqlTAVs%2FS9hb1UEvmpllDSIAAaGamKduRpjDgLnt5wyS7Uh4ixgI7EqPKjJpSb6d11zgo5jbg8tlXbIQhwG5oNGF5JmpCtXCyHgo%2BY1oBI3AzNCDf5DCOrhzj83QDZd2iEQOC2uy2p%2Fxl%2F9G8WJaqwA8Eb2cp8I%2F%2Fcg8Qww%3D%3D&auto=1"
     ],
+    "dkim_hfrom_match": 1,
+    "list_unsubscribe_total_count": 2,
+    "ahref_total_count": 3,
+    "extractedEmailsDomainCount": 0,
+    "html_td_tag_count": 30,
+    "spamtrap_hit": false,
+    "dkselector": "opendkim",
+    "extractedTxtUrlsCardinality": 2,
+    "dk_statuses": [
+        {
+            "domain": "lastpass.com",
+            "selector": "opendkim",
+            "status": "PASS"
+        }
+    ],
+    "first10words": " LastPass Bezpecnostni upozorneni LastPass Zmena hesla stranky Ahoj This is an advisory notice letting you",
+    "extractedEmailsCardinality": 0,
+    "notches": [
+        {
+            "score": 1,
+            "subscores": [
+                1,
+                0.0
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "module": "ill"
+        }
+    ],
+    "extractedEmailsTotalCount": 0,
+    "subject_image_count": 0,
+    "extractedSrcUrlsCardinality": 3,
+    "dkim_signs_cnt": 1,
+    "pepca_style": "",
+    "html_script_tag_count": 0,
+    "extractedHrefUrlsCardinality": 4,
+    "adscore": 0,
+    "list_unsubscribe_http_count": 0,
+    "extractedHrefUrlsTotalCount": 4,
+    "content": "CONTENT_DEFAULT",
+    "rfcid_length": 45,
+    "extractedTxtUrlsDomainCount": 2,
+    "pepca_inline_style_total": 0,
+    "dkim_count": 1,
+    "subject": "Bezpecnostni upozorneni LastPass Zmena hesla stranky",
+    "pepcatotal": 0,
+    "mime_root_type": "multipart/related",
+    "ahref_camouflage_count": 0,
+    "date_difference": -79993232,
+    "header_reply_to_count": 0,
+    "list_unsubscribe_mailto_count": 1,
+    "rfcid_is_foreign": 0,
+    "dkstatus": "PASS",
+    "mime_children_count": 4,
+    "extractedHrefUrlsDomainCount": 1,
+    "contains_list_header": true,
+    "list_unsubscribe_invalid_count": 1,
     "mime_children_types": [
         "multipart/alternative",
         "image/png",
         "image/gif",
         "image/png"
     ],
-    "ahref_verbal_count": 3,
-    "subject_image_count": 0,
-    "phish_score": 0,
-    "rfcid_is_invalid": false,
-    "dkstatus": "PASS",
-    "phashes": [
-        {
-            "value": "p871cda04b6dc9549",
-            "name": "att-pepca"
-        },
-        {
-            "value": "pa8b885fa3e26935b",
-            "name": "att-pepca"
-        },
-        {
-            "value": "p27ac34c631571dc8",
-            "name": "att-pepca"
-        },
-        {
-            "value": "p65dfba9284eb34bd",
-            "name": "pepca"
-        },
-        {
-            "value": "p28dcca82b30e4439",
-            "name": "pepca_inline_style"
-        }
+    "extractedTxtUrls": [
+        "http://www.servis24.cz",
+        "http://oskar.ol.29@email.cz."
     ],
-    "contains_list_header": true,
-    "self_send": 0,
-    "dkdomain": "lastpass.com",
-    "html_tr_tag_count": 18,
-    "extractedEmails": [],
-    "html_tag_total_count": 119,
-    "mime_children_count": 4,
-    "spamtrap_hit": false,
-    "extractedEmailsDomainCount": 0,
+    "spf_status_registry": "Status not found",
+    "lang": "cs",
     "extractedTxtUrlsTotalCount": 2,
-    "dk_statuses": [
-        {
-            "selector": "opendkim",
-            "status": "PASS",
-            "domain": "lastpass.com"
-        }
-    ],
-    "extractedSrcUrlsCardinality": 3,
-    "senders": {
-        "log_cnt_idf_detail": [],
-        "log_ecnt_idf_detail": [],
-        "tf_log_idf": "",
-        "log_cnt-pow4_w_duc": "",
-        "log_ecnt_idf_log_tidf_detail": [],
-        "cnt-pow_w_duc_detail": [],
-        "cnt-pow_w_duc": "",
-        "log_ecnt-w_duc_detail": [],
-        "idf": "",
-        "cnt-pow4_w_duc_detail": [],
-        "ttf_w_duc_detail": [],
-        "ettf_w_duc_detail": [],
-        "log_cnt-w_duc": "",
-        "src_revert": "",
-        "log_cnt_idf_log_tidf_detail": [],
-        "log_cnt_idf_log_tidf": "",
-        "log_cnt-pow4_w_duc_detail": [],
-        "log_cnt-pow_w_duc": "",
-        "cnt-pow4_w_duc": "",
-        "plain_domain": "lastpass",
-        "src_revert_detail": [],
-        "log_ecnt_log_idf_log_tidf": "",
-        "log_ecnt_idf_log_tidf": "",
-        "log_cnt-pow_w_duc_detail": [],
-        "ttf_w_duc": "",
-        "plain_domain_detail": [
-            {
-                "confidence": 1,
-                "domain": "lastpass"
-            },
-            {
-                "confidence": 1,
-                "domain": "email"
-            },
-            {
-                "confidence": 1,
-                "domain": "servis24"
-            }
-        ],
-        "log_ecnt_idf": "",
-        "tf_log_idf_detail": [],
-        "ettf_w_duc": "",
-        "idf_detail": [],
-        "log_ecnt_log_idf_log_tidf_detail": [],
-        "domain_keywords_detail": [
-            {
-                "confidence": 95237010.2572346,
-                "domain": "aweber"
-            }
-        ],
-        "domain_keywords": "aweber",
-        "log_cnt-w_duc_detail": [],
-        "log_ecnt-w_duc": "",
-        "log_cnt_idf": ""
+    "phishing": {
+        "is_html": true,
+        "num_subdomain_phish": 0,
+        "body_richness": 0.189690721649485,
+        "num_domain_phish": 0,
+        "num_https_urls": 2,
+        "text_link_with_path": 0,
+        "num_text_forms": 9,
+        "num_phish_keywords": 6,
+        "num_external_links": 4,
+        "num_non_80_port_urls": 0,
+        "subject_richness": 0.1,
+        "num_black_sheep_link": -1,
+        "num_freehost_urls": 0,
+        "num_sender_diff_url": 2,
+        "max_num_dots_urls": 4,
+        "fake_https": 0,
+        "suspicious_links": [],
+        "ner_domain_detected": false,
+        "num_black_sheep_link_global": -1,
+        "max_num_slashes_urls": 1,
+        "num_param_phish": 0,
+        "num_www_in_url_path": 0,
+        "text_and_href": 0,
+        "num_path_phish": 0,
+        "camouflage": 0,
+        "subject_phish_keywords": 2,
+        "num_html_script_tags": 0,
+        "num_black_sheep_link_phish": 0,
+        "num_shortened_urls": 0,
+        "num_of_chars": 969,
+        "num_ip_urls": 0,
+        "html_form": 0,
+        "num_tld_in_url_path": 0
     },
-    "spamscore": 1,
-    "ahref_total_count": 3,
-    "extractedEmailsCardinality": 0,
-    "extractedSrcUrlsTotalCount": 3,
-    "dkim_count": 1,
-    "adscore": 0,
-    "pepca": "p65dfba9284eb34bd",
-    "html_script_tag_count": 0,
-    "date_difference": -79993232,
-    "html_in_text_plain_count": 0,
-    "pepca_style": "",
-    "word_count": 184,
-    "rfcid_length": 45,
-    "spf_dom_policy_registry": "Policy not found",
-    "pepcatotal": 0,
-    "last10words": "nikomu nesdelujte vase Hlavni heslo ani nam Osoba ktera si vyzadala poslani tohoto emailu mela IP adresu 88 101 249 213 ",
-    "extractedHrefUrls": [
-        "https://lastpass.com/",
-        "http://lastpass.com/help.php?fromwebsite=1",
-        "http://lastpass.com/support_helpcenter.php",
-        "https://lastpass.com/misc_nospamlist.php?data=6%2FOyRfJglxUCdFh6Ond9J6%2BbdP4dsPvce88UOpWFHe8wIkZlmxmKk%2Bq2rLqgAiMBbKYK2l4XEZAg"
-    ],
-    "spfstatus_hfrom": "SPF_FAIL",
-    "header_reply_to_count": 0,
-    "dkim_hfrom_match": 1,
-    "attachments": [
-        {
-            "mime_type": "image/png",
-            "cte": "BASE64",
-            "flags": 0,
-            "pepca": "p871cda04b6dc9549",
-            "cid": "6c58cd5a21a13f4d6116ad25c4c778ba",
-            "sumphash": "704b6a8fa6a125e493652a56ead494c7",
-            "size": 42090,
-            "name": "emailheader.png"
-        },
-        {
-            "mime_type": "image/gif",
-            "cte": "BASE64",
-            "flags": 0,
-            "pepca": "pa8b885fa3e26935b",
-            "cid": "a49f52d30a40853a993c5073ba53405a",
-            "sumphash": "b11200467dcd51bd542099a2538499b6",
-            "size": 7457,
-            "name": "help.gif"
-        },
-        {
-            "mime_type": "image/png",
-            "cte": "BASE64",
-            "flags": 0,
-            "pepca": "p27ac34c631571dc8",
-            "cid": "f602c81c3246e75220e41a7f1bb9f191",
-            "sumphash": "e14b79ee1c6dd49fd132de018b216e7b",
-            "size": 1046,
-            "name": "emailfooter.png"
-        }
-    ],
-    "content": "CONTENT_DEFAULT",
     "extractedSrcUrls": [
         "cid:6c58cd5a21a13f4d6116ad25c4c778ba",
         "cid:a49f52d30a40853a993c5073ba53405a",
         "cid:f602c81c3246e75220e41a7f1bb9f191"
     ],
-    "list_unsubscribe_http_count": 0,
-    "extractedHrefUrlsTotalCount": 4,
-    "extractedHrefUrlsDomainCount": 1,
-    "subject": "Bezpecnostni upozorneni LastPass Zmena hesla stranky",
-    "list_unsubscribe_total_count": 2,
+    "from_match": 0,
+    "html_tr_tag_count": 18,
+    "senders": {
+        "log_cnt-w_duc_detail": [],
+        "idf_detail": [],
+        "log_ecnt_idf_detail": [],
+        "domain_keywords": "aweber",
+        "log_cnt-pow_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "src_revert": "",
+        "ttf_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "domain": "aweber",
+                "confidence": 95237010.2572346
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_cnt_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-w_duc": "",
+        "log_ecnt-w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "tf_log_idf": "",
+        "log_cnt_idf": "",
+        "log_ecnt_idf": "",
+        "idf": "",
+        "src_revert_detail": [],
+        "plain_domain_detail": [
+            {
+                "domain": "lastpass",
+                "confidence": 1
+            },
+            {
+                "domain": "email",
+                "confidence": 1
+            },
+            {
+                "domain": "servis24",
+                "confidence": 1
+            }
+        ],
+        "cnt-pow_w_duc_detail": [],
+        "plain_domain": "lastpass",
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "tf_log_idf_detail": []
+    },
+    "pepca": "p65dfba9284eb34bd",
+    "rfcid_is_invalid": false,
     "extractedSrcUrlsDomainCount": 0,
-    "ahref_camouflage_count": 0,
-    "list_unsubscribe_invalid_count": 1,
-    "header_from": "support@lastpass.com"
+    "dkdomain": "lastpass.com",
+    "ahref_verbal_count": 3,
+    "now": 1494598336,
+    "spfstatus_hfrom": "SPF_FAIL",
+    "pepca_inline_style": "p28dcca82b30e4439",
+    "pepca_style_total": 0,
+    "spamscore": 1,
+    "dkim_efrom_match": 0,
+    "word_count": 184,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/84c829ab3b501e78118e95fb0bd27d79.eml",
+    "attachments": [
+        {
+            "pepca": "p871cda04b6dc9549",
+            "cte": "BASE64",
+            "name": "emailheader.png",
+            "size": 42090,
+            "flags": 0,
+            "cid": "6c58cd5a21a13f4d6116ad25c4c778ba",
+            "sumphash": "704b6a8fa6a125e493652a56ead494c7",
+            "mime_type": "image/png"
+        },
+        {
+            "pepca": "pa8b885fa3e26935b",
+            "cte": "BASE64",
+            "name": "help.gif",
+            "size": 7457,
+            "flags": 0,
+            "cid": "a49f52d30a40853a993c5073ba53405a",
+            "sumphash": "b11200467dcd51bd542099a2538499b6",
+            "mime_type": "image/gif"
+        },
+        {
+            "pepca": "p27ac34c631571dc8",
+            "cte": "BASE64",
+            "name": "emailfooter.png",
+            "size": 1046,
+            "flags": 0,
+            "cid": "f602c81c3246e75220e41a7f1bb9f191",
+            "sumphash": "e14b79ee1c6dd49fd132de018b216e7b",
+            "mime_type": "image/png"
+        }
+    ],
+    "html_tag_total_count": 119,
+    "extractedHrefUrls": [
+        "https://lastpass.com/",
+        "http://lastpass.com/help.php?fromwebsite=1",
+        "http://lastpass.com/support_helpcenter.php",
+        "https://lastpass.com/misc_nospamlist.php?data=6%2FOyRfJglxUCdFh6Ond9J6%2BbdP4dsPvce88UOpWFHe8wIkZlmxmKk%2Bq2rLqgAiMBbKYK2l4XEZAg"
+    ]
 }

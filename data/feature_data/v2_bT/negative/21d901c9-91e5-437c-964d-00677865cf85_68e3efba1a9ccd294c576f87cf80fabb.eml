@@ -1,89 +1,6 @@
 {
-    "date_difference": -79579495,
-    "html_td_tag_count": 22,
-    "extractedEmails": [],
-    "list_unsubscribe_total_count": 0,
-    "from_match": 0,
-    "spf_dom_policy_registry": "Policy not found",
-    "dkim_passed_count": 2,
-    "notches": [
-        {
-            "subscores": [
-                1,
-                0.0,
-                0.1,
-                0.1
-            ],
-            "name": [
-                "date_in_past",
-                "from_missmatch",
-                "html_a_href_camouflaging",
-                "foreign_message_id"
-            ],
-            "score": 1.2,
-            "module": "ill"
-        }
-    ],
-    "extractedHrefUrlsDomainCount": 1,
-    "first10words": " Hlidacky cz Dobry den Staci kliknout na nasledujici odkaz https www hlidacky cz pa",
-    "word_count": 112,
-    "pepca": "p5cabf2cc2e5f1c99",
-    "extractedSrcUrlsDomainCount": 2,
-    "last10words": "li kontaktujte nas prosim take Tym Hlidacky cz Web Hlidacky cz Hlidacky cz na Facebooku ",
-    "extractedTxtUrlsDomainCount": 3,
-    "pepcatotal": 0,
-    "pepca_style_total": 0,
-    "extractedEmailsTotalCount": 0,
-    "mime_root_type": "multipart/alternative",
-    "extractedEmailsCardinality": 0,
-    "extractedHrefUrlsTotalCount": 4,
-    "html_tr_tag_count": 22,
-    "pepca_style": "p69aa48d43b379470",
-    "pepca_inline_style_total": 0,
-    "header_from_count": 1,
-    "header_total_count": 19,
-    "extractedSrcUrlsCardinality": 2,
-    "ahref_camouflage_count": 4,
-    "extractedSrcUrlsTotalCount": 2,
-    "html_tag_total_count": 99,
-    "ahref_total_count": 5,
-    "extractedEmailsDomainCount": 0,
     "dkim_hfrom_match": 0,
-    "dkstatus": "PASS",
-    "header_reply_to_count": 0,
-    "spfstatus_hfrom": "SPF_SOFTFAIL",
-    "subject_image_count": 0,
-    "extractedTxtUrlsCardinality": 4,
-    "spf_status_registry": "Status not found",
-    "rfcid_is_foreign": 1,
-    "content": "CONTENT_DEFAULT",
-    "extractedSrcUrls": [
-        "http://www.hlidacky.cz/assets/mail/logo-small-5edd22e3b9225e7b07e9e5f762419385.png",
-        "http://mandrillapp.com/track/open.php?u=30010212&id=e10c7a8fd08348a3a66c83dea0c460df"
-    ],
-    "lang": "cs",
-    "extractedTxtUrls": [
-        "http://Hlidacky.cz",
-        "http://gallery.mailchimp.com/27aac8a65e64c994c4416d6b8/images/diagborder.png')",
-        "https://www.hlidacky.cz/password_resets/ce06f8d1a9d7a231b6facf7c971e0914504232bb/edit",
-        "http://ky.cz"
-    ],
-    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/68e3efba1a9ccd294c576f87cf80fabb.eml",
-    "spamscore": 1.2,
-    "attachments": [],
-    "dk_statuses": [
-        {
-            "status": "PASS",
-            "selector": "mandrill",
-            "domain": "mail112.us4.mandrillapp.com"
-        },
-        {
-            "status": "PASS",
-            "selector": "mandrill",
-            "domain": "mandrillapp.com"
-        }
-    ],
-    "dkdomain": "mail112.us4.mandrillapp.com",
+    "from_match": 0,
     "phashes": [
         {
             "name": "pepca",
@@ -98,142 +15,225 @@
             "value": "p7f7e020500dded54"
         }
     ],
-    "pepca_inline_style": "p7f7e020500dded54",
-    "rcpts_count": 1,
-    "self_send": 0,
-    "now": 1494598301,
-    "mime_children_count": 2,
-    "ahref_verbal_count": 1,
-    "extractedTxtUrlsTotalCount": 4,
-    "subject_word_count": 5,
-    "spf_domain_policy": "UNKNOWN",
-    "dkim_count": 2,
-    "rfcid_is_invalid": false,
-    "header_from": "info@hlidacky.cz",
-    "list_unsubscribe_mailto_count": 0,
-    "rfcid_length": 42,
-    "html_in_text_plain_count": 0,
-    "extractedHrefUrlsCardinality": 4,
-    "html_script_tag_count": 0,
-    "dkim_efrom_match": 0,
-    "adscore": 0,
-    "mime_children_types": [
-        "text/plain",
-        "text/html"
+    "list_unsubscribe_invalid_count": 0,
+    "extractedSrcUrls": [
+        "http://www.hlidacky.cz/assets/mail/logo-small-5edd22e3b9225e7b07e9e5f762419385.png",
+        "http://mandrillapp.com/track/open.php?u=30010212&id=e10c7a8fd08348a3a66c83dea0c460df"
     ],
-    "dkim_signs_cnt": 2,
-    "spfstatus": "NONE",
+    "ahref_verbal_count": 1,
+    "subject_image_count": 0,
+    "dkselector": "mandrill",
+    "date_difference": -79579495,
+    "header_total_count": 19,
+    "dk_statuses": [
+        {
+            "domain": "mail112.us4.mandrillapp.com",
+            "status": "PASS",
+            "selector": "mandrill"
+        },
+        {
+            "domain": "mandrillapp.com",
+            "status": "PASS",
+            "selector": "mandrill"
+        }
+    ],
+    "extractedEmails": [],
+    "precedence": 3,
+    "spamtrap_hit": false,
+    "pepca_style": "p69aa48d43b379470",
+    "subject": "Reset hesla na Hlidacky cz",
+    "header_from": "info@hlidacky.cz",
+    "spamscore": 1.2,
+    "self_send": 0,
+    "dkstatus": "PASS",
+    "pepca_style_total": 0,
+    "lang": "cs",
     "extractedHrefUrls": [
         "http://mandrillapp.com/track/click/30010212/www.hlidacky.cz?p=eyJzIjoiUTBfUFVDUWdZNWtXb3NWcVcybGhwRndvWDVZIiwidiI6MSwicCI6IntcIn",
         "http://mandrillapp.com/track/click/30010212/www.hlidacky.cz?p=eyJzIjoieHM1U0JkeWxOcUZnMXgwaXBWenRWU2FoaFI0IiwidiI6MSwicCI6IntcIn",
         "http://mandrillapp.com/track/click/30010212/www.hlidacky.cz?p=eyJzIjoiM0dtWmxsSXpQLW9DS0dFNDVoZmJsbnhicWhrIiwidiI6MSwicCI6IntcIn",
         "http://mandrillapp.com/track/click/30010212/www.facebook.com?p=eyJzIjoiLXRxd09yT29ySFZOMnZsRjZwbVRpWTZYYktBIiwidiI6MSwicCI6IntcI"
     ],
-    "spamtrap_hit": false,
-    "precedence": 3,
-    "list_unsubscribe_http_count": 0,
-    "dkselector": "mandrill",
+    "rfcid_is_foreign": 1,
+    "spf_status_registry": "Status not found",
+    "spf_dom_policy_registry": "Policy not found",
+    "dkim_count": 2,
+    "list_unsubscribe_total_count": 0,
+    "now": 1494598301,
+    "header_reply_to_count": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/68e3efba1a9ccd294c576f87cf80fabb.eml",
+    "ahref_camouflage_count": 4,
+    "html_tag_total_count": 99,
+    "rfcid_length": 42,
+    "extractedHrefUrlsDomainCount": 1,
+    "extractedTxtUrls": [
+        "http://Hlidacky.cz",
+        "http://gallery.mailchimp.com/27aac8a65e64c994c4416d6b8/images/diagborder.png')",
+        "https://www.hlidacky.cz/password_resets/ce06f8d1a9d7a231b6facf7c971e0914504232bb/edit",
+        "http://ky.cz"
+    ],
+    "pepca_inline_style": "p7f7e020500dded54",
+    "subject_word_count": 5,
+    "html_tr_tag_count": 22,
+    "pepcatotal": 0,
+    "html_script_tag_count": 0,
+    "last10words": "li kontaktujte nas prosim take Tym Hlidacky cz Web Hlidacky cz Hlidacky cz na Facebooku ",
+    "dkim_passed_count": 2,
+    "extractedHrefUrlsTotalCount": 4,
+    "mime_children_types": [
+        "text/plain",
+        "text/html"
+    ],
+    "ahref_total_count": 5,
+    "list_unsubscribe_mailto_count": 0,
+    "extractedEmailsTotalCount": 0,
+    "rcpts_count": 1,
+    "extractedEmailsDomainCount": 0,
+    "phish_score": 0,
     "phishing": {
-        "body_richness": 0.24295010845987,
-        "num_black_sheep_link": -1,
-        "subject_richness": 0.172413793103448,
-        "max_num_slashes_urls": 4,
-        "num_https_urls": 1,
-        "camouflage": 1,
-        "ner_domain_detected": false,
-        "html_form": 0,
-        "num_subdomain_phish": 0,
-        "num_external_links": 6,
-        "fake_https": 1,
-        "num_html_script_tags": 0,
-        "num_freehost_urls": 0,
-        "num_phish_keywords": 1,
-        "suspicious_links": [],
-        "num_sender_diff_url": 3,
-        "text_and_href": 0,
         "subject_phish_keywords": 1,
-        "num_www_in_url_path": 0,
+        "html_form": 0,
+        "num_black_sheep_link": -1,
         "num_domain_phish": 0,
-        "num_of_chars": 460,
-        "num_ip_urls": 0,
-        "num_path_phish": 0,
-        "num_param_phish": 0,
-        "max_num_dots_urls": 3,
-        "num_tld_in_url_path": 0,
-        "is_html": true,
-        "num_black_sheep_link_phish": 0,
-        "num_non_80_port_urls": 0,
-        "num_text_forms": 23,
+        "num_shortened_urls": 0,
+        "num_phish_keywords": 1,
+        "num_www_in_url_path": 0,
+        "num_external_links": 6,
         "num_black_sheep_link_global": -1,
+        "num_black_sheep_link_phish": 0,
+        "is_html": true,
+        "num_sender_diff_url": 3,
+        "num_tld_in_url_path": 0,
+        "text_and_href": 0,
+        "ner_domain_detected": false,
+        "max_num_dots_urls": 3,
+        "camouflage": 1,
+        "num_text_forms": 23,
+        "num_https_urls": 1,
+        "body_richness": 0.24295010845987,
+        "num_ip_urls": 0,
+        "num_html_script_tags": 0,
+        "subject_richness": 0.172413793103448,
+        "fake_https": 1,
+        "suspicious_links": [],
+        "num_of_chars": 460,
         "text_link_with_path": 2,
-        "num_shortened_urls": 0
+        "num_path_phish": 0,
+        "num_subdomain_phish": 0,
+        "max_num_slashes_urls": 4,
+        "num_param_phish": 0,
+        "num_non_80_port_urls": 0,
+        "num_freehost_urls": 0
     },
+    "dkim_efrom_match": 0,
+    "extractedSrcUrlsCardinality": 2,
+    "extractedTxtUrlsDomainCount": 3,
+    "header_from_count": 1,
+    "extractedSrcUrlsTotalCount": 2,
+    "spf_domain_policy": "UNKNOWN",
+    "dkim_signs_cnt": 2,
+    "extractedSrcUrlsDomainCount": 2,
+    "adscore": 0,
+    "pepca_inline_style_total": 0,
+    "extractedEmailsCardinality": 0,
     "senders": {
-        "domain_keywords": "upjers",
-        "log_ecnt_idf": "",
-        "log_cnt-w_duc_detail": [],
-        "log_cnt_idf_log_tidf_detail": [],
-        "log_ecnt-w_duc": "",
-        "idf_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
         "log_cnt_idf_log_tidf": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf": "",
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_ecnt-w_duc_detail": [],
         "log_cnt-pow4_w_duc": "",
-        "plain_domain_detail": [
+        "log_ecnt_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "idf": "",
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "src_revert_detail": [
             {
-                "domain": "ky",
-                "confidence": 1
+                "confidence": 1,
+                "domain": "hlidacky"
             },
             {
-                "domain": "hlidacky",
-                "confidence": 1
+                "confidence": 1,
+                "domain": "topsrovnani"
+            },
+            {
+                "confidence": 1,
+                "domain": "sanofi"
             }
         ],
+        "log_cnt-w_duc": "",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "ky"
+            },
+            {
+                "confidence": 1,
+                "domain": "hlidacky"
+            }
+        ],
+        "log_ecnt-w_duc": "",
         "log_cnt-pow_w_duc": "",
-        "log_cnt_idf_detail": [],
-        "log_ecnt_log_idf_log_tidf_detail": [],
-        "tf_log_idf_detail": [],
+        "cnt-pow_w_duc": "",
+        "src_revert": "hlidacky",
         "ttf_w_duc_detail": [],
-        "cnt-pow_w_duc_detail": [],
-        "log_cnt-pow4_w_duc_detail": [],
-        "ettf_w_duc": "",
-        "log_ecnt_idf_detail": [],
-        "ttf_w_duc": "",
+        "log_cnt_idf_log_tidf_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt_idf_detail": [],
         "plain_domain": "ky",
         "domain_keywords_detail": [
             {
-                "domain": "upjers",
-                "confidence": 1836652.817464
+                "confidence": 1836652.817464,
+                "domain": "upjers"
             }
         ],
-        "cnt-pow_w_duc": "",
-        "cnt-pow4_w_duc": "",
         "log_cnt-pow_w_duc_detail": [],
-        "ettf_w_duc_detail": [],
-        "log_ecnt-w_duc_detail": [],
+        "domain_keywords": "upjers",
         "log_cnt_idf": "",
-        "tf_log_idf": "",
-        "src_revert_detail": [
-            {
-                "domain": "hlidacky",
-                "confidence": 1
-            },
-            {
-                "domain": "topsrovnani",
-                "confidence": 1
-            },
-            {
-                "domain": "sanofi",
-                "confidence": 1
-            }
-        ],
-        "log_ecnt_log_idf_log_tidf": "",
-        "log_cnt-w_duc": "",
-        "cnt-pow4_w_duc_detail": [],
-        "idf": "",
-        "log_ecnt_idf_log_tidf": "",
-        "log_ecnt_idf_log_tidf_detail": [],
-        "src_revert": "hlidacky"
+        "log_ecnt_idf_log_tidf_detail": []
     },
-    "phish_score": 0,
-    "subject": "Reset hesla na Hlidacky cz",
-    "list_unsubscribe_invalid_count": 0
+    "word_count": 112,
+    "html_td_tag_count": 22,
+    "rfcid_is_invalid": false,
+    "mime_root_type": "multipart/alternative",
+    "content": "CONTENT_DEFAULT",
+    "dkdomain": "mail112.us4.mandrillapp.com",
+    "extractedTxtUrlsCardinality": 4,
+    "list_unsubscribe_http_count": 0,
+    "spfstatus": "NONE",
+    "first10words": " Hlidacky cz Dobry den Staci kliknout na nasledujici odkaz https www hlidacky cz pa",
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1,
+                0.1
+            ],
+            "score": 1.2
+        }
+    ],
+    "html_in_text_plain_count": 0,
+    "extractedHrefUrlsCardinality": 4,
+    "extractedTxtUrlsTotalCount": 4,
+    "pepca": "p5cabf2cc2e5f1c99",
+    "mime_children_count": 2,
+    "spfstatus_hfrom": "SPF_SOFTFAIL"
 }

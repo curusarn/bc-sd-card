@@ -1,204 +1,135 @@
 {
-    "notches": [
-        {
-            "subscores": [
-                1,
-                0.0
-            ],
-            "score": 1,
-            "module": "ill",
-            "name": [
-                "date_in_past",
-                "from_missmatch"
-            ]
-        }
-    ],
-    "rfcid_is_invalid": false,
-    "spfstatus": "NONE",
-    "mime_root_type": "multipart/alternative",
-    "header_from_count": 1,
-    "now": 1494598328,
-    "dkim_efrom_match": 0,
-    "pepca_inline_style_total": 0,
-    "rcpts_count": 1,
-    "extractedEmailsTotalCount": 3,
-    "pepca_inline_style": "p7c69cec2a9fb13da",
-    "pepca_style_total": 0,
-    "dkim_hfrom_match": 0,
-    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/7e075933b5ca73648632105e6f12a807.eml.eml",
-    "html_td_tag_count": 138,
-    "extractedHrefUrlsCardinality": 3,
-    "list_unsubscribe_mailto_count": 0,
-    "subject_word_count": 3,
-    "lang": "cs",
-    "precedence": 3,
-    "phishing": {
-        "num_html_script_tags": 0,
-        "num_text_forms": 23,
-        "fake_https": 0,
-        "is_html": true,
-        "num_non_80_port_urls": 0,
-        "num_https_urls": 5,
-        "num_of_chars": 1575,
-        "num_param_phish": 0,
-        "text_and_href": 0,
-        "body_richness": 0.29505076142132,
-        "text_link_with_path": 0,
-        "max_num_slashes_urls": 1,
-        "num_shortened_urls": 0,
-        "num_sender_diff_url": 1,
-        "num_ip_urls": 0,
-        "num_black_sheep_link": -1,
-        "subject_richness": 0.103448275862069,
-        "num_tld_in_url_path": 0,
-        "subject_phish_keywords": 0,
-        "num_black_sheep_link_global": -1,
-        "num_black_sheep_link_phish": 0,
-        "num_path_phish": 0,
-        "suspicious_links": [],
-        "html_form": 0,
-        "num_phish_keywords": 1,
-        "num_subdomain_phish": 0,
-        "num_domain_phish": 0,
-        "ner_domain_detected": true,
-        "camouflage": 0,
-        "num_freehost_urls": 0,
-        "num_external_links": 8,
-        "max_num_dots_urls": 3,
-        "num_www_in_url_path": 0
-    },
-    "spf_status_registry": "Status not found",
-    "rfcid_is_foreign": 0,
-    "from_match": 0,
-    "first10words": " Halens Zakaznicky servis zakaznicky servis halens cz 498 508 555 Dekujeme za Vasi",
     "spf_domain_policy": "UNKNOWN",
-    "header_total_count": 13,
+    "subject_word_count": 3,
+    "last10words": "5680 DIC CZ45315680 Spolecnost je zapsana v obchodnim rejstriku vedenem u Mestskeho soudu v Praze spisova znacka C 209716 ",
+    "spfstatus": "NONE",
+    "header_from": "mailer@halens.cz",
     "dkim_passed_count": 0,
-    "dkim_signs_cnt": 1,
-    "mime_children_types": [
-        "text/plain",
-        "text/html"
-    ],
-    "ahref_verbal_count": 2,
-    "subject_image_count": 0,
-    "phish_score": 0,
-    "self_send": 0,
-    "dkstatus": "NEUTRAL",
+    "header_total_count": 13,
     "phashes": [
         {
-            "value": "pfbb3232f1a9d0626",
-            "name": "pepca"
+            "name": "pepca",
+            "value": "pfbb3232f1a9d0626"
         },
         {
-            "value": "pcae6c754d5b1f60b",
-            "name": "pepca_style"
+            "name": "pepca_style",
+            "value": "pcae6c754d5b1f60b"
         },
         {
-            "value": "p7c69cec2a9fb13da",
-            "name": "pepca_inline_style"
+            "name": "pepca_inline_style",
+            "value": "p7c69cec2a9fb13da"
         }
     ],
-    "extractedHrefUrlsTotalCount": 3,
-    "attachments": [],
-    "html_tr_tag_count": 95,
-    "html_tag_total_count": 346,
-    "mime_children_count": 2,
-    "spamtrap_hit": false,
-    "extractedEmailsDomainCount": 2,
+    "self_send": 0,
+    "header_from_count": 1,
+    "phish_score": 0,
+    "html_in_text_plain_count": 0,
+    "extractedSrcUrlsTotalCount": 10,
+    "rcpts_count": 1,
     "extractedEmails": [
         "zakaznicky.servis@halens.cz",
         "zakaznicky.servis@halens.cz.",
         "info@halens.cz"
     ],
-    "extractedSrcUrlsCardinality": 10,
-    "spamscore": 1,
-    "ahref_total_count": 6,
-    "extractedEmailsCardinality": 3,
-    "extractedSrcUrlsTotalCount": 10,
-    "dkim_count": 0,
-    "adscore": 0,
-    "pepca": "pfbb3232f1a9d0626",
-    "dkStatusDetail": "NOT_SIGNED",
-    "html_script_tag_count": 0,
-    "date_difference": -73698088,
-    "html_in_text_plain_count": 0,
-    "pepca_style": "pcae6c754d5b1f60b",
-    "word_count": 465,
-    "rfcid_length": 23,
     "spf_dom_policy_registry": "Policy not found",
-    "pepcatotal": 0,
-    "last10words": "5680 DIC CZ45315680 Spolecnost je zapsana v obchodnim rejstriku vedenem u Mestskeho soudu v Praze spisova znacka C 209716 ",
-    "extractedHrefUrls": [
-        "http://www.halens.cz",
-        "www.halens.cz/zakaznicky-servis-kontaktujte-nas-6312",
-        "http://www.facebook.com/Halens.cz"
+    "dkim_hfrom_match": 0,
+    "list_unsubscribe_total_count": 0,
+    "ahref_total_count": 6,
+    "extractedEmailsDomainCount": 2,
+    "html_td_tag_count": 138,
+    "spamtrap_hit": false,
+    "mime_children_types": [
+        "text/plain",
+        "text/html"
     ],
-    "spfstatus_hfrom": "SPF_ERR",
+    "lang": "cs",
+    "first10words": " Halens Zakaznicky servis zakaznicky servis halens cz 498 508 555 Dekujeme za Vasi",
+    "extractedEmailsCardinality": 3,
     "header_reply_to_count": 0,
-    "senders": {
-        "log_cnt_idf_detail": [],
-        "log_ecnt_idf_detail": [],
-        "tf_log_idf": "",
-        "log_cnt-pow4_w_duc": "",
-        "log_ecnt_idf_log_tidf_detail": [],
-        "cnt-pow_w_duc_detail": [],
-        "cnt-pow_w_duc": "",
-        "log_ecnt-w_duc_detail": [],
-        "idf": "",
-        "cnt-pow4_w_duc_detail": [],
-        "ttf_w_duc_detail": [],
-        "ettf_w_duc_detail": [],
-        "log_cnt-w_duc": "",
-        "src_revert": "care2",
-        "log_cnt_idf_log_tidf_detail": [],
-        "log_cnt_idf_log_tidf": "",
-        "log_cnt-pow4_w_duc_detail": [],
-        "log_cnt-pow_w_duc": "",
-        "cnt-pow4_w_duc": "",
-        "plain_domain": "halens",
-        "src_revert_detail": [
-            {
-                "confidence": 5,
-                "domain": "care2"
-            },
-            {
-                "confidence": 5,
-                "domain": "halens"
-            }
-        ],
-        "log_ecnt_log_idf_log_tidf": "",
-        "log_ecnt_idf_log_tidf": "",
-        "log_cnt-pow_w_duc_detail": [],
-        "ttf_w_duc": "",
-        "plain_domain_detail": [
-            {
-                "confidence": 1,
-                "domain": "halens"
-            }
-        ],
-        "log_ecnt_idf": "",
-        "tf_log_idf_detail": [],
-        "ettf_w_duc": "",
-        "idf_detail": [],
-        "log_ecnt_log_idf_log_tidf_detail": [],
-        "domain_keywords_detail": [
-            {
-                "confidence": 22218118.415262,
-                "domain": "pulsen"
-            }
-        ],
-        "domain_keywords": "pulsen",
-        "log_cnt-w_duc_detail": [],
-        "log_ecnt-w_duc": "",
-        "log_cnt_idf": ""
-    },
+    "date_difference": -73698088,
+    "extractedEmailsTotalCount": 3,
+    "subject_image_count": 0,
+    "extractedSrcUrlsCardinality": 10,
+    "dkim_signs_cnt": 1,
+    "pepca_style": "pcae6c754d5b1f60b",
+    "html_script_tag_count": 0,
+    "extractedHrefUrlsCardinality": 3,
+    "adscore": 0,
+    "list_unsubscribe_http_count": 0,
+    "extractedHrefUrlsTotalCount": 3,
+    "content": "CONTENT_DEFAULT",
+    "rfcid_length": 23,
+    "pepca_inline_style_total": 0,
+    "dkim_count": 0,
+    "subject": "Halens Objednavka prijata",
+    "pepcatotal": 0,
+    "mime_root_type": "multipart/alternative",
+    "ahref_camouflage_count": 0,
+    "dkStatusDetail": "NOT_SIGNED",
     "dk_statuses": [
         {
-            "statusDetail": "NOT_SIGNED",
-            "status": "NEUTRAL"
+            "status": "NEUTRAL",
+            "statusDetail": "NOT_SIGNED"
         }
     ],
-    "content": "CONTENT_DEFAULT",
+    "list_unsubscribe_mailto_count": 0,
+    "rfcid_is_foreign": 0,
+    "dkstatus": "NEUTRAL",
+    "mime_children_count": 2,
+    "extractedHrefUrlsDomainCount": 2,
+    "word_count": 465,
+    "list_unsubscribe_invalid_count": 0,
+    "precedence": 3,
+    "notches": [
+        {
+            "score": 1,
+            "subscores": [
+                1,
+                0.0
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "module": "ill"
+        }
+    ],
+    "spf_status_registry": "Status not found",
+    "phishing": {
+        "is_html": true,
+        "num_subdomain_phish": 0,
+        "body_richness": 0.29505076142132,
+        "num_domain_phish": 0,
+        "num_https_urls": 5,
+        "text_link_with_path": 0,
+        "num_text_forms": 23,
+        "num_phish_keywords": 1,
+        "num_external_links": 8,
+        "num_non_80_port_urls": 0,
+        "subject_richness": 0.103448275862069,
+        "num_black_sheep_link": -1,
+        "num_freehost_urls": 0,
+        "num_sender_diff_url": 1,
+        "max_num_dots_urls": 3,
+        "fake_https": 0,
+        "suspicious_links": [],
+        "ner_domain_detected": true,
+        "num_black_sheep_link_global": -1,
+        "max_num_slashes_urls": 1,
+        "num_param_phish": 0,
+        "num_www_in_url_path": 0,
+        "text_and_href": 0,
+        "num_path_phish": 0,
+        "camouflage": 0,
+        "subject_phish_keywords": 0,
+        "num_html_script_tags": 0,
+        "num_black_sheep_link_phish": 0,
+        "num_shortened_urls": 0,
+        "num_of_chars": 1575,
+        "num_ip_urls": 0,
+        "html_form": 0,
+        "num_tld_in_url_path": 0
+    },
     "extractedSrcUrls": [
         "https://az392967.vo.msecnd.net/product-image/139512904630050363-halens-product-tiny.jpg",
         "https://az392967.vo.msecnd.net/product-image/139461530556091312-halens-product-tiny.jpg",
@@ -206,12 +137,81 @@
         "https://az392967.vo.msecnd.net/product-image/137846815647181167-halens-product-tiny.jpg",
         "http://www.halens.cz/Assets/Default/Images/Email/Master/OrderMail.Facebook.png"
     ],
-    "list_unsubscribe_http_count": 0,
-    "extractedHrefUrlsDomainCount": 2,
-    "subject": "Halens Objednavka prijata",
-    "list_unsubscribe_total_count": 0,
+    "from_match": 0,
+    "html_tr_tag_count": 95,
+    "senders": {
+        "log_cnt-w_duc_detail": [],
+        "idf_detail": [],
+        "log_ecnt_idf_detail": [],
+        "domain_keywords": "pulsen",
+        "log_cnt-pow_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "src_revert": "care2",
+        "ttf_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "domain": "pulsen",
+                "confidence": 22218118.415262
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_cnt_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-w_duc": "",
+        "log_ecnt-w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "tf_log_idf": "",
+        "log_cnt_idf": "",
+        "log_ecnt_idf": "",
+        "idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "care2",
+                "confidence": 5
+            },
+            {
+                "domain": "halens",
+                "confidence": 5
+            }
+        ],
+        "plain_domain_detail": [
+            {
+                "domain": "halens",
+                "confidence": 1
+            }
+        ],
+        "cnt-pow_w_duc_detail": [],
+        "plain_domain": "halens",
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "tf_log_idf_detail": []
+    },
+    "pepca": "pfbb3232f1a9d0626",
+    "rfcid_is_invalid": false,
     "extractedSrcUrlsDomainCount": 2,
-    "ahref_camouflage_count": 0,
-    "list_unsubscribe_invalid_count": 0,
-    "header_from": "mailer@halens.cz"
+    "ahref_verbal_count": 2,
+    "now": 1494598328,
+    "spfstatus_hfrom": "SPF_ERR",
+    "pepca_inline_style": "p7c69cec2a9fb13da",
+    "pepca_style_total": 0,
+    "spamscore": 1,
+    "dkim_efrom_match": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/7e075933b5ca73648632105e6f12a807.eml.eml",
+    "attachments": [],
+    "html_tag_total_count": 346,
+    "extractedHrefUrls": [
+        "http://www.halens.cz",
+        "www.halens.cz/zakaznicky-servis-kontaktujte-nas-6312",
+        "http://www.facebook.com/Halens.cz"
+    ]
 }

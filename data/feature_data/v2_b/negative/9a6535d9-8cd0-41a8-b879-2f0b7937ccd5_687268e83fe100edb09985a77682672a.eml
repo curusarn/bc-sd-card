@@ -1,229 +1,229 @@
 {
+    "spf_domain_policy": "UNKNOWN",
+    "subject_word_count": 3,
+    "last10words": " Heslo k vasemu uctu na www sam73 cz prihlasit se email petra matejkova 1 seznam cz heslo 265sB3 ",
+    "spfstatus": "NONE",
+    "header_from": "eshop@sam73.cz",
+    "dkim_passed_count": 2,
+    "header_total_count": 20,
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p2f8c3e15765ba984"
+        }
+    ],
+    "self_send": 0,
+    "header_from_count": 1,
+    "phish_score": 0,
+    "html_in_text_plain_count": 0,
+    "extractedSrcUrlsTotalCount": 1,
+    "rcpts_count": 1,
+    "extractedEmails": [],
+    "precedence": 3,
+    "spf_dom_policy_registry": "Policy not found",
+    "dkim_hfrom_match": 0,
+    "list_unsubscribe_total_count": 0,
+    "ahref_total_count": 1,
+    "extractedEmailsDomainCount": 0,
+    "html_td_tag_count": 0,
+    "spamtrap_hit": false,
+    "dkselector": "mandrill",
+    "extractedTxtUrlsCardinality": 2,
+    "dk_statuses": [
+        {
+            "domain": "mail135.wdc04.mandrillapp.com",
+            "selector": "mandrill",
+            "status": "PASS"
+        },
+        {
+            "domain": "mandrillapp.com",
+            "selector": "mandrill",
+            "status": "PASS"
+        }
+    ],
+    "first10words": " Heslo k vasemu uctu na www sam73 cz prihlasit se email petra matejkova 1 seznam cz heslo 265sB3 ",
+    "extractedEmailsCardinality": 0,
     "notches": [
         {
+            "score": 2.1,
             "subscores": [
                 1,
                 0.0,
                 0.1,
                 1
             ],
-            "score": 2.1,
-            "module": "ill",
             "name": [
                 "date_in_past",
                 "from_missmatch",
                 "foreign_message_id",
                 "images_in_subject"
-            ]
+            ],
+            "module": "ill"
         }
+    ],
+    "extractedEmailsTotalCount": 0,
+    "subject_image_count": 1,
+    "extractedSrcUrlsCardinality": 1,
+    "dkim_signs_cnt": 2,
+    "pepca_style": "",
+    "html_script_tag_count": 0,
+    "extractedHrefUrlsCardinality": 1,
+    "adscore": 5,
+    "list_unsubscribe_http_count": 0,
+    "extractedHrefUrlsTotalCount": 1,
+    "content": "CONTENT_DEFAULT",
+    "rfcid_length": 23,
+    "extractedTxtUrlsDomainCount": 2,
+    "pepca_inline_style_total": 0,
+    "dkim_count": 2,
+    "subject": " Heslo k uctu",
+    "pepcatotal": 2,
+    "mime_root_type": "multipart/alternative",
+    "ahref_camouflage_count": 0,
+    "date_difference": -79567776,
+    "header_reply_to_count": 0,
+    "list_unsubscribe_mailto_count": 0,
+    "adNotches": [
+        {
+            "score": 5,
+            "subscores": [
+                5
+            ],
+            "name": [
+                "images_in_subject"
+            ],
+            "module": "ill"
+        }
+    ],
+    "dkstatus": "PASS",
+    "mime_children_count": 2,
+    "extractedHrefUrlsDomainCount": 1,
+    "word_count": 17,
+    "list_unsubscribe_invalid_count": 0,
+    "mime_children_types": [
+        "text/plain",
+        "text/html"
     ],
     "extractedTxtUrls": [
         "http://www.sam73.cz",
         "http://petra.matejkova.1@seznam.cz"
     ],
-    "spfstatus": "NONE",
-    "mime_root_type": "multipart/alternative",
-    "header_from_count": 1,
-    "now": 1494598300,
-    "dkim_efrom_match": 0,
-    "pepca_inline_style_total": 0,
-    "rcpts_count": 1,
-    "extractedEmailsTotalCount": 0,
-    "pepca_inline_style": "",
-    "pepca_style_total": 0,
-    "dkselector": "mandrill",
-    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/687268e83fe100edb09985a77682672a.eml",
-    "html_td_tag_count": 0,
-    "extractedHrefUrlsCardinality": 1,
-    "list_unsubscribe_mailto_count": 0,
-    "subject_word_count": 3,
-    "lang": "cs",
-    "precedence": 3,
-    "phishing": {
-        "num_html_script_tags": 0,
-        "num_text_forms": 2,
-        "fake_https": 0,
-        "is_html": true,
-        "num_non_80_port_urls": 0,
-        "num_https_urls": 0,
-        "num_of_chars": 142,
-        "num_param_phish": 0,
-        "text_and_href": 0,
-        "body_richness": 0.118881118881119,
-        "text_link_with_path": 0,
-        "max_num_slashes_urls": 4,
-        "num_shortened_urls": 0,
-        "num_sender_diff_url": 2,
-        "num_ip_urls": 0,
-        "num_black_sheep_link": -1,
-        "subject_richness": 0.157894736842105,
-        "num_tld_in_url_path": 0,
-        "subject_phish_keywords": 2,
-        "num_black_sheep_link_global": -1,
-        "num_black_sheep_link_phish": 0,
-        "num_path_phish": 0,
-        "suspicious_links": [],
-        "html_form": 0,
-        "num_phish_keywords": 3,
-        "num_subdomain_phish": 0,
-        "num_domain_phish": 0,
-        "ner_domain_detected": false,
-        "camouflage": 0,
-        "num_freehost_urls": 0,
-        "num_external_links": 2,
-        "max_num_dots_urls": 3,
-        "num_www_in_url_path": 0
-    },
     "spf_status_registry": "Status not found",
-    "rfcid_is_foreign": 1,
-    "from_match": 0,
-    "first10words": " Heslo k vasemu uctu na www sam73 cz prihlasit se email petra matejkova 1 seznam cz heslo 265sB3 ",
-    "extractedTxtUrlsDomainCount": 2,
-    "spf_domain_policy": "UNKNOWN",
-    "header_total_count": 20,
-    "dkim_passed_count": 2,
-    "extractedTxtUrlsCardinality": 2,
-    "dkim_signs_cnt": 2,
-    "mime_children_types": [
-        "text/plain",
-        "text/html"
-    ],
-    "ahref_verbal_count": 1,
-    "subject_image_count": 1,
-    "phish_score": 0,
-    "rfcid_is_invalid": false,
-    "dkstatus": "PASS",
-    "phashes": [
-        {
-            "value": "p2f8c3e15765ba984",
-            "name": "pepca"
-        }
-    ],
+    "lang": "cs",
     "extractedTxtUrlsTotalCount": 2,
-    "self_send": 0,
-    "dkdomain": "mail135.wdc04.mandrillapp.com",
-    "html_tr_tag_count": 0,
-    "extractedEmails": [],
-    "html_tag_total_count": 19,
-    "mime_children_count": 2,
-    "spamtrap_hit": false,
-    "extractedEmailsDomainCount": 0,
-    "adNotches": [
-        {
-            "subscores": [
-                5
-            ],
-            "score": 5,
-            "module": "ill",
-            "name": [
-                "images_in_subject"
-            ]
-        }
-    ],
-    "extractedHrefUrlsTotalCount": 1,
-    "dk_statuses": [
-        {
-            "selector": "mandrill",
-            "status": "PASS",
-            "domain": "mail135.wdc04.mandrillapp.com"
-        },
-        {
-            "selector": "mandrill",
-            "status": "PASS",
-            "domain": "mandrillapp.com"
-        }
-    ],
-    "extractedSrcUrlsCardinality": 1,
-    "senders": {
-        "log_cnt_idf_detail": [],
-        "log_ecnt_idf_detail": [],
-        "tf_log_idf": "",
-        "log_cnt-pow4_w_duc": "",
-        "log_ecnt_idf_log_tidf_detail": [],
-        "cnt-pow_w_duc_detail": [],
-        "cnt-pow_w_duc": "",
-        "log_ecnt-w_duc_detail": [],
-        "idf": "",
-        "cnt-pow4_w_duc_detail": [],
-        "ttf_w_duc_detail": [],
-        "ettf_w_duc_detail": [],
-        "log_cnt-w_duc": "",
-        "src_revert": "topsrovnani",
-        "log_cnt_idf_log_tidf_detail": [],
-        "log_cnt_idf_log_tidf": "",
-        "log_cnt-pow4_w_duc_detail": [],
-        "log_cnt-pow_w_duc": "",
-        "cnt-pow4_w_duc": "",
-        "plain_domain": "seznam",
-        "src_revert_detail": [
-            {
-                "confidence": 1,
-                "domain": "topsrovnani"
-            }
-        ],
-        "log_ecnt_log_idf_log_tidf": "",
-        "log_ecnt_idf_log_tidf": "",
-        "log_cnt-pow_w_duc_detail": [],
-        "ttf_w_duc": "",
-        "plain_domain_detail": [
-            {
-                "confidence": 1,
-                "domain": "seznam"
-            },
-            {
-                "confidence": 1,
-                "domain": "sam73"
-            }
-        ],
-        "log_ecnt_idf": "",
-        "tf_log_idf_detail": [],
-        "ettf_w_duc": "",
-        "idf_detail": [],
-        "log_ecnt_log_idf_log_tidf_detail": [],
-        "domain_keywords_detail": [
-            {
-                "confidence": 4276998.86726,
-                "domain": "skype"
-            }
-        ],
-        "domain_keywords": "skype",
-        "log_cnt-w_duc_detail": [],
-        "log_ecnt-w_duc": "",
-        "log_cnt_idf": ""
+    "phishing": {
+        "is_html": true,
+        "num_subdomain_phish": 0,
+        "body_richness": 0.118881118881119,
+        "num_domain_phish": 0,
+        "num_https_urls": 0,
+        "text_link_with_path": 0,
+        "num_text_forms": 2,
+        "num_phish_keywords": 3,
+        "num_external_links": 2,
+        "num_non_80_port_urls": 0,
+        "subject_richness": 0.157894736842105,
+        "num_black_sheep_link": -1,
+        "num_freehost_urls": 0,
+        "num_sender_diff_url": 2,
+        "max_num_dots_urls": 3,
+        "fake_https": 0,
+        "suspicious_links": [],
+        "ner_domain_detected": false,
+        "num_black_sheep_link_global": -1,
+        "max_num_slashes_urls": 4,
+        "num_param_phish": 0,
+        "num_www_in_url_path": 0,
+        "text_and_href": 0,
+        "num_path_phish": 0,
+        "camouflage": 0,
+        "subject_phish_keywords": 2,
+        "num_html_script_tags": 0,
+        "num_black_sheep_link_phish": 0,
+        "num_shortened_urls": 0,
+        "num_of_chars": 142,
+        "num_ip_urls": 0,
+        "html_form": 0,
+        "num_tld_in_url_path": 0
     },
-    "spamscore": 2.1,
-    "ahref_total_count": 1,
-    "extractedEmailsCardinality": 0,
-    "extractedSrcUrlsTotalCount": 1,
-    "dkim_count": 2,
-    "adscore": 5,
-    "pepca": "p2f8c3e15765ba984",
-    "html_script_tag_count": 0,
-    "date_difference": -79567776,
-    "html_in_text_plain_count": 0,
-    "pepca_style": "",
-    "word_count": 17,
-    "rfcid_length": 23,
-    "spf_dom_policy_registry": "Policy not found",
-    "pepcatotal": 2,
-    "last10words": " Heslo k vasemu uctu na www sam73 cz prihlasit se email petra matejkova 1 seznam cz heslo 265sB3 ",
-    "extractedHrefUrls": [
-        "http://mandrillapp.com/track/click/30133133/www.sam73.cz?p=eyJzIjoiRHFGUVhrcldKWDRJQmIwVzI1RUxmSG9zMElVIiwidiI6MSwicCI6IntcInVcI"
-    ],
-    "spfstatus_hfrom": "SPF_SOFTFAIL",
-    "header_reply_to_count": 0,
-    "dkim_hfrom_match": 0,
-    "attachments": [],
-    "content": "CONTENT_DEFAULT",
     "extractedSrcUrls": [
         "http://mandrillapp.com/track/open.php?u=30133133&id=45c5b9affaae4f149e7d10cec91ee656"
     ],
-    "list_unsubscribe_http_count": 0,
-    "extractedHrefUrlsDomainCount": 1,
-    "subject": " Heslo k uctu",
-    "list_unsubscribe_total_count": 0,
+    "from_match": 0,
+    "html_tr_tag_count": 0,
+    "senders": {
+        "log_cnt-w_duc_detail": [],
+        "idf_detail": [],
+        "log_ecnt_idf_detail": [],
+        "domain_keywords": "skype",
+        "log_cnt-pow_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "src_revert": "topsrovnani",
+        "ttf_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "domain": "skype",
+                "confidence": 4276998.86726
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_cnt_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-w_duc": "",
+        "log_ecnt-w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "tf_log_idf": "",
+        "log_cnt_idf": "",
+        "log_ecnt_idf": "",
+        "idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "topsrovnani",
+                "confidence": 1
+            }
+        ],
+        "plain_domain_detail": [
+            {
+                "domain": "seznam",
+                "confidence": 1
+            },
+            {
+                "domain": "sam73",
+                "confidence": 1
+            }
+        ],
+        "cnt-pow_w_duc_detail": [],
+        "plain_domain": "seznam",
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "tf_log_idf_detail": []
+    },
+    "pepca": "p2f8c3e15765ba984",
+    "rfcid_is_invalid": false,
     "extractedSrcUrlsDomainCount": 1,
-    "ahref_camouflage_count": 0,
-    "list_unsubscribe_invalid_count": 0,
-    "header_from": "eshop@sam73.cz"
+    "dkdomain": "mail135.wdc04.mandrillapp.com",
+    "ahref_verbal_count": 1,
+    "now": 1494598300,
+    "spfstatus_hfrom": "SPF_SOFTFAIL",
+    "pepca_inline_style": "",
+    "pepca_style_total": 0,
+    "spamscore": 2.1,
+    "dkim_efrom_match": 0,
+    "rfcid_is_foreign": 1,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/687268e83fe100edb09985a77682672a.eml",
+    "attachments": [],
+    "html_tag_total_count": 19,
+    "extractedHrefUrls": [
+        "http://mandrillapp.com/track/click/30133133/www.sam73.cz?p=eyJzIjoiRHFGUVhrcldKWDRJQmIwVzI1RUxmSG9zMElVIiwidiI6MSwicCI6IntcInVcI"
+    ]
 }

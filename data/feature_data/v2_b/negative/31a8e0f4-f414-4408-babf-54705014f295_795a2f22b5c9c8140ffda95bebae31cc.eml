@@ -1,214 +1,146 @@
 {
+    "spf_domain_policy": "UNKNOWN",
+    "subject_word_count": 6,
+    "last10words": " Volejte na 800 143 713 nebo piste na pomoc westwing cz 2014 Westwing Home Living GmbH ",
+    "spfstatus": "NONE",
+    "header_from": "service@n.westwing.cz",
+    "dkim_passed_count": 1,
+    "header_total_count": 27,
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p1235511e1f4699ec"
+        },
+        {
+            "name": "pepca_style",
+            "value": "p930ea14f6fc5437e"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p3cd045d4e0961c2a"
+        }
+    ],
+    "self_send": 0,
+    "header_from_count": 1,
+    "phish_score": 0,
+    "html_in_text_plain_count": 0,
+    "extractedSrcUrlsTotalCount": 9,
+    "rcpts_count": 1,
+    "extractedEmails": [
+        "pomoc@westwing.cz"
+    ],
+    "precedence": 3,
+    "spf_dom_policy_registry": "Policy not found",
+    "list_unsubscribe_urls": [
+        "http://n.westwing.cz/public/list_unsubscribe.jsp?action=listUnsubscribe&gid=1900034096&uid=19080199574&mid=1900092415&siglistunsub=HODEEJNBEHOBDEKC&errorPage=/public/list_unsubscribe.jsp",
+        "mailto:listunsubscribe-1900034096-1900092415-19080199574@n.westwing.cz"
+    ],
+    "dkim_hfrom_match": 1,
+    "list_unsubscribe_total_count": 2,
+    "ahref_total_count": 5,
+    "extractedEmailsDomainCount": 1,
+    "html_td_tag_count": 124,
+    "spamtrap_hit": false,
+    "dkselector": "ecm1",
+    "extractedTxtUrlsCardinality": 1,
+    "dk_statuses": [
+        {
+            "domain": "n.westwing.cz",
+            "selector": "ecm1",
+            "status": "PASS"
+        }
+    ],
+    "first10words": " Vase heslo na www westwing cz VITEJTE NA WESTWING ",
+    "extractedEmailsCardinality": 1,
     "notches": [
         {
+            "score": 1.1,
             "subscores": [
                 1,
                 0.0,
                 0.1
             ],
-            "score": 1.1,
-            "module": "ill",
             "name": [
                 "date_in_past",
                 "from_missmatch",
                 "foreign_message_id"
-            ]
+            ],
+            "module": "ill"
         }
     ],
-    "extractedTxtUrls": [
-        "http://www.westwing.cz"
-    ],
-    "spfstatus": "NONE",
-    "mime_root_type": "multipart/alternative",
-    "header_from_count": 1,
-    "now": 1494598322,
-    "dkim_efrom_match": 0,
-    "pepca_inline_style_total": 0,
-    "rcpts_count": 1,
     "extractedEmailsTotalCount": 1,
-    "pepca_inline_style": "p3cd045d4e0961c2a",
-    "pepca_style_total": 0,
-    "dkselector": "ecm1",
-    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/795a2f22b5c9c8140ffda95bebae31cc.eml",
-    "html_td_tag_count": 124,
-    "extractedHrefUrlsCardinality": 5,
-    "list_unsubscribe_mailto_count": 1,
-    "subject_word_count": 6,
-    "lang": "cs",
-    "precedence": 3,
-    "phishing": {
-        "num_html_script_tags": 0,
-        "num_text_forms": 16,
-        "fake_https": 0,
-        "is_html": true,
-        "num_non_80_port_urls": 0,
-        "num_https_urls": 0,
-        "num_of_chars": 954,
-        "num_param_phish": 0,
-        "text_and_href": 0,
-        "body_richness": 0.491099476439791,
-        "text_link_with_path": 0,
-        "max_num_slashes_urls": 1,
-        "num_shortened_urls": 0,
-        "num_sender_diff_url": 0,
-        "num_ip_urls": 0,
-        "num_black_sheep_link": -1,
-        "subject_richness": 0.193548387096774,
-        "num_tld_in_url_path": 0,
-        "subject_phish_keywords": 1,
-        "num_black_sheep_link_global": -1,
-        "num_black_sheep_link_phish": 0,
-        "num_path_phish": 0,
-        "suspicious_links": [],
-        "html_form": 0,
-        "num_phish_keywords": 4,
-        "num_subdomain_phish": 0,
-        "num_domain_phish": 0,
-        "ner_domain_detected": false,
-        "camouflage": 0,
-        "num_freehost_urls": 0,
-        "num_external_links": 10,
-        "max_num_dots_urls": 2,
-        "num_www_in_url_path": 0
-    },
-    "spf_status_registry": "Status not found",
-    "rfcid_is_foreign": 1,
-    "from_match": 0,
-    "first10words": " Vase heslo na www westwing cz VITEJTE NA WESTWING ",
-    "extractedTxtUrlsDomainCount": 1,
-    "spf_domain_policy": "UNKNOWN",
-    "header_total_count": 27,
-    "dkim_passed_count": 1,
-    "extractedTxtUrlsCardinality": 1,
+    "subject_image_count": 0,
+    "extractedSrcUrlsCardinality": 9,
     "dkim_signs_cnt": 1,
-    "list_unsubscribe_urls": [
-        "http://n.westwing.cz/public/list_unsubscribe.jsp?action=listUnsubscribe&gid=1900034096&uid=19080199574&mid=1900092415&siglistunsub=HODEEJNBEHOBDEKC&errorPage=/public/list_unsubscribe.jsp",
-        "mailto:listunsubscribe-1900034096-1900092415-19080199574@n.westwing.cz"
-    ],
+    "pepca_style": "p930ea14f6fc5437e",
+    "html_script_tag_count": 0,
+    "extractedHrefUrlsCardinality": 5,
+    "adscore": 0,
+    "list_unsubscribe_http_count": 1,
+    "extractedHrefUrlsTotalCount": 5,
+    "content": "CONTENT_DEFAULT",
+    "rfcid_length": 38,
+    "extractedTxtUrlsDomainCount": 1,
+    "pepca_inline_style_total": 0,
+    "dkim_count": 1,
+    "subject": "Vase heslo na www westwing cz",
+    "pepcatotal": 0,
+    "mime_root_type": "multipart/alternative",
+    "ahref_camouflage_count": 0,
+    "date_difference": -79987856,
+    "header_reply_to_count": 1,
+    "list_unsubscribe_mailto_count": 1,
+    "rfcid_is_foreign": 1,
+    "dkstatus": "PASS",
+    "mime_children_count": 2,
+    "extractedHrefUrlsDomainCount": 1,
+    "contains_list_header": true,
+    "list_unsubscribe_invalid_count": 0,
     "mime_children_types": [
         "text/plain",
         "text/html"
     ],
-    "ahref_verbal_count": 4,
-    "subject_image_count": 0,
-    "phish_score": 0,
-    "rfcid_is_invalid": false,
-    "dkstatus": "PASS",
-    "phashes": [
-        {
-            "value": "p1235511e1f4699ec",
-            "name": "pepca"
-        },
-        {
-            "value": "p930ea14f6fc5437e",
-            "name": "pepca_style"
-        },
-        {
-            "value": "p3cd045d4e0961c2a",
-            "name": "pepca_inline_style"
-        }
+    "extractedTxtUrls": [
+        "http://www.westwing.cz"
     ],
-    "contains_list_header": true,
-    "self_send": 0,
-    "dkdomain": "n.westwing.cz",
-    "html_tr_tag_count": 107,
-    "extractedEmails": [
-        "pomoc@westwing.cz"
-    ],
-    "html_tag_total_count": 403,
-    "mime_children_count": 2,
-    "spamtrap_hit": false,
-    "extractedEmailsDomainCount": 1,
+    "spf_status_registry": "Status not found",
+    "lang": "cs",
     "extractedTxtUrlsTotalCount": 1,
-    "dk_statuses": [
-        {
-            "selector": "ecm1",
-            "status": "PASS",
-            "domain": "n.westwing.cz"
-        }
-    ],
-    "extractedSrcUrlsCardinality": 9,
-    "senders": {
-        "log_cnt_idf_detail": [],
-        "log_ecnt_idf_detail": [],
-        "tf_log_idf": "",
-        "log_cnt-pow4_w_duc": "",
-        "log_ecnt_idf_log_tidf_detail": [],
-        "cnt-pow_w_duc_detail": [],
-        "cnt-pow_w_duc": "",
-        "log_ecnt-w_duc_detail": [],
-        "idf": "",
-        "cnt-pow4_w_duc_detail": [],
-        "ttf_w_duc_detail": [],
-        "ettf_w_duc_detail": [],
-        "log_cnt-w_duc": "",
-        "src_revert": "westwing",
-        "log_cnt_idf_log_tidf_detail": [],
-        "log_cnt_idf_log_tidf": "",
-        "log_cnt-pow4_w_duc_detail": [],
-        "log_cnt-pow_w_duc": "",
-        "cnt-pow4_w_duc": "",
-        "plain_domain": "westwing",
-        "src_revert_detail": [
-            {
-                "confidence": 9,
-                "domain": "westwing"
-            }
-        ],
-        "log_ecnt_log_idf_log_tidf": "",
-        "log_ecnt_idf_log_tidf": "",
-        "log_cnt-pow_w_duc_detail": [],
-        "ttf_w_duc": "",
-        "plain_domain_detail": [
-            {
-                "confidence": 1,
-                "domain": "westwing"
-            }
-        ],
-        "log_ecnt_idf": "",
-        "tf_log_idf_detail": [],
-        "ettf_w_duc": "",
-        "idf_detail": [],
-        "log_ecnt_log_idf_log_tidf_detail": [],
-        "domain_keywords_detail": [
-            {
-                "confidence": 48484155.8044,
-                "domain": "stepstone"
-            }
-        ],
-        "domain_keywords": "stepstone",
-        "log_cnt-w_duc_detail": [],
-        "log_ecnt-w_duc": "",
-        "log_cnt_idf": ""
+    "phishing": {
+        "is_html": true,
+        "num_subdomain_phish": 0,
+        "body_richness": 0.491099476439791,
+        "num_domain_phish": 0,
+        "num_https_urls": 0,
+        "text_link_with_path": 0,
+        "num_text_forms": 16,
+        "num_phish_keywords": 4,
+        "num_external_links": 10,
+        "num_non_80_port_urls": 0,
+        "subject_richness": 0.193548387096774,
+        "num_black_sheep_link": -1,
+        "num_freehost_urls": 0,
+        "num_sender_diff_url": 0,
+        "max_num_dots_urls": 2,
+        "fake_https": 0,
+        "suspicious_links": [],
+        "ner_domain_detected": false,
+        "num_black_sheep_link_global": -1,
+        "max_num_slashes_urls": 1,
+        "num_param_phish": 0,
+        "num_www_in_url_path": 0,
+        "text_and_href": 0,
+        "num_path_phish": 0,
+        "camouflage": 0,
+        "subject_phish_keywords": 1,
+        "num_html_script_tags": 0,
+        "num_black_sheep_link_phish": 0,
+        "num_shortened_urls": 0,
+        "num_of_chars": 954,
+        "num_ip_urls": 0,
+        "html_form": 0,
+        "num_tld_in_url_path": 0
     },
-    "spamscore": 1.1,
-    "ahref_total_count": 5,
-    "extractedEmailsCardinality": 1,
-    "extractedSrcUrlsTotalCount": 9,
-    "dkim_count": 1,
-    "adscore": 0,
-    "pepca": "p1235511e1f4699ec",
-    "html_script_tag_count": 0,
-    "date_difference": -79987856,
-    "html_in_text_plain_count": 0,
-    "pepca_style": "p930ea14f6fc5437e",
-    "word_count": 469,
-    "rfcid_length": 38,
-    "spf_dom_policy_registry": "Policy not found",
-    "pepcatotal": 0,
-    "last10words": " Volejte na 800 143 713 nebo piste na pomoc westwing cz 2014 Westwing Home Living GmbH ",
-    "extractedHrefUrls": [
-        "http://n.westwing.cz/re?l=D4Ivf9kovI8rjuw7qI0ITi1v2jpfo&req=loginHash%3Dccdc945af81748439d4d712bc250dd87",
-        "http://n.westwing.cz/re?l=D4Ivf9kovI8rjuw7qI1ITi1v2jpfo&req=loginHash%3Dccdc945af81748439d4d712bc250dd87",
-        "http://n.westwing.cz/re?l=D4Ivf9kovI8rjuw7qI4ITi1v2jpfo&req=loginHash%3Dccdc945af81748439d4d712bc250dd87",
-        "http://n.westwing.cz/re?l=D4Ivf9kovI8rjuw7qI5ITi1v2jpfo&req=loginHash%3Dccdc945af81748439d4d712bc250dd87",
-        "http://n.westwing.cz/re?l=D4Ivf9kovI8rjuw7qI6ITi1v2jpfo"
-    ],
-    "spfstatus_hfrom": "SPF_FAIL",
-    "header_reply_to_count": 1,
-    "dkim_hfrom_match": 1,
-    "attachments": [],
-    "content": "CONTENT_DEFAULT",
     "extractedSrcUrls": [
         "http://n.westwing.cz/imgproxy/img/660718402/WelcomeDelia.jpg",
         "http://n.westwing.cz/imgproxy/img/663869872/mood_pic3.jpg",
@@ -216,13 +148,81 @@
         "http://n.westwing.cz/imgproxy/img/663869874/arrow_welcome.jpg",
         "http://n.westwing.cz/imgproxy/img/663869875/CZ_pegasus_white.jpg"
     ],
-    "list_unsubscribe_http_count": 1,
-    "extractedHrefUrlsTotalCount": 5,
-    "extractedHrefUrlsDomainCount": 1,
-    "subject": "Vase heslo na www westwing cz",
-    "list_unsubscribe_total_count": 2,
+    "from_match": 0,
+    "html_tr_tag_count": 107,
+    "senders": {
+        "log_cnt-w_duc_detail": [],
+        "idf_detail": [],
+        "log_ecnt_idf_detail": [],
+        "domain_keywords": "stepstone",
+        "log_cnt-pow_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "src_revert": "westwing",
+        "ttf_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "domain": "stepstone",
+                "confidence": 48484155.8044
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_cnt_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-w_duc": "",
+        "log_ecnt-w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "tf_log_idf": "",
+        "log_cnt_idf": "",
+        "log_ecnt_idf": "",
+        "idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "westwing",
+                "confidence": 9
+            }
+        ],
+        "plain_domain_detail": [
+            {
+                "domain": "westwing",
+                "confidence": 1
+            }
+        ],
+        "cnt-pow_w_duc_detail": [],
+        "plain_domain": "westwing",
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "tf_log_idf_detail": []
+    },
+    "pepca": "p1235511e1f4699ec",
+    "rfcid_is_invalid": false,
     "extractedSrcUrlsDomainCount": 1,
-    "ahref_camouflage_count": 0,
-    "list_unsubscribe_invalid_count": 0,
-    "header_from": "service@n.westwing.cz"
+    "dkdomain": "n.westwing.cz",
+    "ahref_verbal_count": 4,
+    "now": 1494598322,
+    "spfstatus_hfrom": "SPF_FAIL",
+    "pepca_inline_style": "p3cd045d4e0961c2a",
+    "pepca_style_total": 0,
+    "spamscore": 1.1,
+    "dkim_efrom_match": 0,
+    "word_count": 469,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/795a2f22b5c9c8140ffda95bebae31cc.eml",
+    "attachments": [],
+    "html_tag_total_count": 403,
+    "extractedHrefUrls": [
+        "http://n.westwing.cz/re?l=D4Ivf9kovI8rjuw7qI0ITi1v2jpfo&req=loginHash%3Dccdc945af81748439d4d712bc250dd87",
+        "http://n.westwing.cz/re?l=D4Ivf9kovI8rjuw7qI1ITi1v2jpfo&req=loginHash%3Dccdc945af81748439d4d712bc250dd87",
+        "http://n.westwing.cz/re?l=D4Ivf9kovI8rjuw7qI4ITi1v2jpfo&req=loginHash%3Dccdc945af81748439d4d712bc250dd87",
+        "http://n.westwing.cz/re?l=D4Ivf9kovI8rjuw7qI5ITi1v2jpfo&req=loginHash%3Dccdc945af81748439d4d712bc250dd87",
+        "http://n.westwing.cz/re?l=D4Ivf9kovI8rjuw7qI6ITi1v2jpfo"
+    ]
 }

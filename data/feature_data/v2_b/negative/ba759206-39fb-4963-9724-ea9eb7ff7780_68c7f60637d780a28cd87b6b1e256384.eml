@@ -1,252 +1,252 @@
 {
-    "notches": [
+    "spf_domain_policy": "UNKNOWN",
+    "subject_word_count": 3,
+    "last10words": "e spokojeni Ohodnotte nas prosim na zbozi cz na tomto odkazu Navstivte nas partnersky e shop Fashionstore cz ",
+    "spfstatus": "NONE",
+    "header_from": "zdenek.kadlec@leco.cz",
+    "dkim_passed_count": 0,
+    "header_total_count": 20,
+    "phashes": [
         {
-            "subscores": [
-                1,
-                0.0,
-                0.1
-            ],
-            "score": 1.1,
-            "module": "ill",
-            "name": [
-                "date_in_past",
-                "from_missmatch",
-                "html_a_href_camouflaging"
-            ]
+            "name": "att-pepca",
+            "value": "pa2559d9c90f61344"
+        },
+        {
+            "name": "att-pepca",
+            "value": "pa85fb84e90376f0b"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p4ab5d3666fc436c9"
+        },
+        {
+            "name": "pepca",
+            "value": "pdeabf5c7d9c41b36"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pf5b4bd2d99ec5214"
         }
     ],
-    "extractedTxtUrls": [
-        "http://Fashionstore.cz"
-    ],
-    "spfstatus": "NONE",
-    "mime_root_type": "multipart/related",
+    "self_send": 0,
     "header_from_count": 1,
-    "now": 1494598300,
-    "dkim_efrom_match": 0,
-    "pepca_inline_style_total": 0,
+    "phish_score": 0,
+    "html_in_text_plain_count": 0,
+    "extractedSrcUrlsTotalCount": 3,
     "rcpts_count": 1,
-    "extractedEmailsTotalCount": 1,
-    "pepca_inline_style": "pf5b4bd2d99ec5214",
-    "pepca_style_total": 0,
+    "extractedEmails": [
+        "zdenek.kadlec@leco.cz"
+    ],
+    "spf_dom_policy_registry": "Policy not found",
     "dkim_hfrom_match": 0,
-    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/68c7f60637d780a28cd87b6b1e256384.eml",
+    "list_unsubscribe_total_count": 0,
+    "ahref_total_count": 2,
+    "extractedEmailsDomainCount": 1,
     "html_td_tag_count": 72,
-    "extractedHrefUrlsCardinality": 2,
-    "list_unsubscribe_mailto_count": 0,
-    "subject_word_count": 3,
-    "lang": "cs",
-    "precedence": 3,
-    "phishing": {
-        "num_html_script_tags": 0,
-        "num_text_forms": 2,
-        "fake_https": 0,
-        "is_html": true,
-        "num_non_80_port_urls": 0,
-        "num_https_urls": 0,
-        "num_of_chars": 899,
-        "num_param_phish": 0,
-        "text_and_href": 0,
-        "body_richness": 0.231111111111111,
-        "text_link_with_path": 0,
-        "max_num_slashes_urls": 3,
-        "num_shortened_urls": 0,
-        "num_sender_diff_url": 2,
-        "num_ip_urls": 0,
-        "num_black_sheep_link": -1,
-        "subject_richness": 0.115384615384615,
-        "num_tld_in_url_path": 0,
-        "subject_phish_keywords": 0,
-        "num_black_sheep_link_global": -1,
-        "num_black_sheep_link_phish": 0,
-        "num_path_phish": 0,
-        "suspicious_links": [],
-        "html_form": 0,
-        "num_phish_keywords": 0,
-        "num_subdomain_phish": 0,
-        "num_domain_phish": 0,
-        "ner_domain_detected": false,
-        "camouflage": 1,
-        "num_freehost_urls": 0,
-        "num_external_links": 2,
-        "max_num_dots_urls": 2,
-        "num_www_in_url_path": 0
-    },
-    "spf_status_registry": "Status not found",
-    "rfcid_is_foreign": 0,
-    "from_match": 0,
-    "first10words": " Vase objednavka Nasledujici produkt Teamstore byl prave objednan Cislo objednavky 3414 Zbozi Cena za k",
-    "extractedTxtUrlsDomainCount": 1,
-    "spf_domain_policy": "UNKNOWN",
-    "header_total_count": 20,
-    "dkim_passed_count": 0,
-    "extractedTxtUrlsCardinality": 1,
-    "dkim_signs_cnt": 1,
+    "spamtrap_hit": false,
     "mime_children_types": [
         "multipart/alternative",
         "image/gif",
         "image/jpeg",
         "image/png"
     ],
-    "ahref_verbal_count": 0,
-    "subject_image_count": 0,
-    "phish_score": 0,
-    "rfcid_is_invalid": false,
-    "dkstatus": "NEUTRAL",
-    "phashes": [
-        {
-            "value": "pa2559d9c90f61344",
-            "name": "att-pepca"
-        },
-        {
-            "value": "pa85fb84e90376f0b",
-            "name": "att-pepca"
-        },
-        {
-            "value": "p4ab5d3666fc436c9",
-            "name": "att-pepca"
-        },
-        {
-            "value": "pdeabf5c7d9c41b36",
-            "name": "pepca"
-        },
-        {
-            "value": "pf5b4bd2d99ec5214",
-            "name": "pepca_inline_style"
-        }
-    ],
-    "extractedTxtUrlsTotalCount": 1,
-    "self_send": 0,
-    "attachments": [
-        {
-            "mime_type": "image/gif",
-            "cte": "BASE64",
-            "flags": 0,
-            "pepca": "pa2559d9c90f61344",
-            "cid": "b3a4c8df1991191644a94893f13fb0f8",
-            "sumphash": "937a8d81aa7411d07e8fc075d4363d3a",
-            "size": 1608,
-            "name": "image"
-        },
-        {
-            "mime_type": "image/jpeg",
-            "cte": "BASE64",
-            "flags": 0,
-            "pepca": "pa85fb84e90376f0b",
-            "cid": "b3a4d00e42ca5259e71623fbf7761b42",
-            "sumphash": "8c429d41edb8a709a7b0ada146eff2cb",
-            "size": 1176,
-            "name": "image"
-        },
-        {
-            "mime_type": "image/png",
-            "cte": "BASE64",
-            "flags": 0,
-            "pepca": "p4ab5d3666fc436c9",
-            "cid": "b3a9b53b83b491b8b56c430dbf2410ac",
-            "sumphash": "59958c70997ff9c863207d7258cf6615",
-            "size": 2997,
-            "name": "image"
-        }
-    ],
-    "html_tr_tag_count": 24,
-    "extractedEmails": [
-        "zdenek.kadlec@leco.cz"
-    ],
-    "html_tag_total_count": 188,
-    "mime_children_count": 4,
-    "spamtrap_hit": false,
-    "extractedEmailsDomainCount": 1,
-    "extractedHrefUrlsTotalCount": 2,
-    "extractedSrcUrlsCardinality": 3,
-    "spamscore": 1.1,
-    "ahref_total_count": 2,
-    "extractedEmailsCardinality": 1,
-    "extractedSrcUrlsTotalCount": 3,
-    "dkim_count": 0,
-    "adscore": 0,
-    "pepca": "pdeabf5c7d9c41b36",
-    "dkStatusDetail": "NOT_SIGNED",
-    "html_script_tag_count": 0,
-    "date_difference": -75957827,
-    "html_in_text_plain_count": 0,
-    "pepca_style": "",
-    "word_count": 208,
-    "rfcid_length": 49,
-    "spf_dom_policy_registry": "Policy not found",
-    "pepcatotal": 0,
-    "last10words": "e spokojeni Ohodnotte nas prosim na zbozi cz na tomto odkazu Navstivte nas partnersky e shop Fashionstore cz ",
-    "extractedHrefUrls": [
-        "http://www.zbozi.cz/hodnoceni-obchodu/30843/#pridat-hodnoceni",
-        "http://www.fashionstore.cz/?utm_source=pati\u010dka_email\u016f&utm_medium=e-mail&utm_campaign=partnersk\u00fd eshop fashionstore"
-    ],
-    "spfstatus_hfrom": "SPF_NONE",
-    "header_reply_to_count": 1,
-    "senders": {
-        "log_cnt_idf_detail": [],
-        "log_ecnt_idf_detail": [],
-        "tf_log_idf": "",
-        "log_cnt-pow4_w_duc": "",
-        "log_ecnt_idf_log_tidf_detail": [],
-        "cnt-pow_w_duc_detail": [],
-        "cnt-pow_w_duc": "",
-        "log_ecnt-w_duc_detail": [],
-        "idf": "",
-        "cnt-pow4_w_duc_detail": [],
-        "ttf_w_duc_detail": [],
-        "ettf_w_duc_detail": [],
-        "log_cnt-w_duc": "",
-        "src_revert": "",
-        "log_cnt_idf_log_tidf_detail": [],
-        "log_cnt_idf_log_tidf": "",
-        "log_cnt-pow4_w_duc_detail": [],
-        "log_cnt-pow_w_duc": "",
-        "cnt-pow4_w_duc": "",
-        "plain_domain": "fashionstore",
-        "src_revert_detail": [],
-        "log_ecnt_log_idf_log_tidf": "",
-        "log_ecnt_idf_log_tidf": "",
-        "log_cnt-pow_w_duc_detail": [],
-        "ttf_w_duc": "",
-        "plain_domain_detail": [
-            {
-                "confidence": 1,
-                "domain": "fashionstore"
-            }
-        ],
-        "log_ecnt_idf": "",
-        "tf_log_idf_detail": [],
-        "ettf_w_duc": "",
-        "idf_detail": [],
-        "log_ecnt_log_idf_log_tidf_detail": [],
-        "domain_keywords_detail": [
-            {
-                "confidence": 38236843.485264,
-                "domain": "masterinter"
-            }
-        ],
-        "domain_keywords": "masterinter",
-        "log_cnt-w_duc_detail": [],
-        "log_ecnt-w_duc": "",
-        "log_cnt_idf": ""
-    },
+    "extractedTxtUrlsCardinality": 1,
     "dk_statuses": [
         {
-            "statusDetail": "NOT_SIGNED",
-            "status": "NEUTRAL"
+            "status": "NEUTRAL",
+            "statusDetail": "NOT_SIGNED"
         }
     ],
+    "first10words": " Vase objednavka Nasledujici produkt Teamstore byl prave objednan Cislo objednavky 3414 Zbozi Cena za k",
+    "extractedEmailsCardinality": 1,
+    "notches": [
+        {
+            "score": 1.1,
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging"
+            ],
+            "module": "ill"
+        }
+    ],
+    "date_difference": -75957827,
+    "extractedEmailsTotalCount": 1,
+    "subject_image_count": 0,
+    "extractedSrcUrlsCardinality": 3,
+    "dkim_signs_cnt": 1,
+    "pepca_style": "",
+    "html_script_tag_count": 0,
+    "extractedHrefUrlsCardinality": 2,
+    "adscore": 0,
+    "list_unsubscribe_http_count": 0,
+    "extractedHrefUrlsTotalCount": 2,
     "content": "CONTENT_DEFAULT",
+    "rfcid_length": 49,
+    "extractedTxtUrlsDomainCount": 1,
+    "pepca_inline_style_total": 0,
+    "dkim_count": 0,
+    "subject": "Vase objednavka 3414 ",
+    "pepcatotal": 0,
+    "mime_root_type": "multipart/related",
+    "ahref_camouflage_count": 1,
+    "dkStatusDetail": "NOT_SIGNED",
+    "header_reply_to_count": 1,
+    "list_unsubscribe_mailto_count": 0,
+    "rfcid_is_foreign": 0,
+    "dkstatus": "NEUTRAL",
+    "mime_children_count": 4,
+    "extractedHrefUrlsDomainCount": 2,
+    "word_count": 208,
+    "list_unsubscribe_invalid_count": 0,
+    "precedence": 3,
+    "extractedTxtUrls": [
+        "http://Fashionstore.cz"
+    ],
+    "spf_status_registry": "Status not found",
+    "lang": "cs",
+    "extractedTxtUrlsTotalCount": 1,
+    "phishing": {
+        "is_html": true,
+        "num_subdomain_phish": 0,
+        "body_richness": 0.231111111111111,
+        "num_domain_phish": 0,
+        "num_https_urls": 0,
+        "text_link_with_path": 0,
+        "num_text_forms": 2,
+        "num_phish_keywords": 0,
+        "num_external_links": 2,
+        "num_non_80_port_urls": 0,
+        "subject_richness": 0.115384615384615,
+        "num_black_sheep_link": -1,
+        "num_freehost_urls": 0,
+        "num_sender_diff_url": 2,
+        "max_num_dots_urls": 2,
+        "fake_https": 0,
+        "suspicious_links": [],
+        "ner_domain_detected": false,
+        "num_black_sheep_link_global": -1,
+        "max_num_slashes_urls": 3,
+        "num_param_phish": 0,
+        "num_www_in_url_path": 0,
+        "text_and_href": 0,
+        "num_path_phish": 0,
+        "camouflage": 1,
+        "subject_phish_keywords": 0,
+        "num_html_script_tags": 0,
+        "num_black_sheep_link_phish": 0,
+        "num_shortened_urls": 0,
+        "num_of_chars": 899,
+        "num_ip_urls": 0,
+        "html_form": 0,
+        "num_tld_in_url_path": 0
+    },
     "extractedSrcUrls": [
         "cid:b3a4c8df1991191644a94893f13fb0f8",
         "cid:b3a4d00e42ca5259e71623fbf7761b42",
         "cid:b3a9b53b83b491b8b56c430dbf2410ac"
     ],
-    "list_unsubscribe_http_count": 0,
-    "extractedHrefUrlsDomainCount": 2,
-    "subject": "Vase objednavka 3414 ",
-    "list_unsubscribe_total_count": 0,
+    "from_match": 0,
+    "html_tr_tag_count": 24,
+    "senders": {
+        "log_cnt-w_duc_detail": [],
+        "idf_detail": [],
+        "log_ecnt_idf_detail": [],
+        "domain_keywords": "masterinter",
+        "log_cnt-pow_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "src_revert": "",
+        "ttf_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "domain": "masterinter",
+                "confidence": 38236843.485264
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_cnt_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-w_duc": "",
+        "log_ecnt-w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "tf_log_idf": "",
+        "log_cnt_idf": "",
+        "log_ecnt_idf": "",
+        "idf": "",
+        "src_revert_detail": [],
+        "plain_domain_detail": [
+            {
+                "domain": "fashionstore",
+                "confidence": 1
+            }
+        ],
+        "cnt-pow_w_duc_detail": [],
+        "plain_domain": "fashionstore",
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "tf_log_idf_detail": []
+    },
+    "pepca": "pdeabf5c7d9c41b36",
+    "rfcid_is_invalid": false,
     "extractedSrcUrlsDomainCount": 0,
-    "ahref_camouflage_count": 1,
-    "list_unsubscribe_invalid_count": 0,
-    "header_from": "zdenek.kadlec@leco.cz"
+    "ahref_verbal_count": 0,
+    "now": 1494598300,
+    "spfstatus_hfrom": "SPF_NONE",
+    "pepca_inline_style": "pf5b4bd2d99ec5214",
+    "pepca_style_total": 0,
+    "spamscore": 1.1,
+    "dkim_efrom_match": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/68c7f60637d780a28cd87b6b1e256384.eml",
+    "attachments": [
+        {
+            "pepca": "pa2559d9c90f61344",
+            "cte": "BASE64",
+            "name": "image",
+            "size": 1608,
+            "flags": 0,
+            "cid": "b3a4c8df1991191644a94893f13fb0f8",
+            "sumphash": "937a8d81aa7411d07e8fc075d4363d3a",
+            "mime_type": "image/gif"
+        },
+        {
+            "pepca": "pa85fb84e90376f0b",
+            "cte": "BASE64",
+            "name": "image",
+            "size": 1176,
+            "flags": 0,
+            "cid": "b3a4d00e42ca5259e71623fbf7761b42",
+            "sumphash": "8c429d41edb8a709a7b0ada146eff2cb",
+            "mime_type": "image/jpeg"
+        },
+        {
+            "pepca": "p4ab5d3666fc436c9",
+            "cte": "BASE64",
+            "name": "image",
+            "size": 2997,
+            "flags": 0,
+            "cid": "b3a9b53b83b491b8b56c430dbf2410ac",
+            "sumphash": "59958c70997ff9c863207d7258cf6615",
+            "mime_type": "image/png"
+        }
+    ],
+    "html_tag_total_count": 188,
+    "extractedHrefUrls": [
+        "http://www.zbozi.cz/hodnoceni-obchodu/30843/#pridat-hodnoceni",
+        "http://www.fashionstore.cz/?utm_source=pati\u010dka_email\u016f&utm_medium=e-mail&utm_campaign=partnersk\u00fd eshop fashionstore"
+    ]
 }

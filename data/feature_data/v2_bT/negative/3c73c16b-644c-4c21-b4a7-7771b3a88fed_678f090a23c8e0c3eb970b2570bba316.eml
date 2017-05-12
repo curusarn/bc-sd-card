@@ -1,81 +1,5 @@
 {
-    "date_difference": -80184445,
-    "html_td_tag_count": 12,
-    "list_unsubscribe_total_count": 0,
-    "precedence": 3,
-    "spfstatus_hfrom": "SPF_FAIL",
-    "dkim_passed_count": 0,
-    "unsub_link_candidates": [
-        "http://www.facebook.com/iFortuna.cz",
-        "http://www.ifortuna.cz/cz/home/index.html"
-    ],
-    "notches": [
-        {
-            "subscores": [
-                1,
-                0.0
-            ],
-            "name": [
-                "date_in_past",
-                "from_missmatch"
-            ],
-            "score": 1,
-            "module": "ill"
-        }
-    ],
-    "extractedHrefUrlsDomainCount": 3,
-    "first10words": " Potvrzeni registrace Prihlasovaci jmeno lucoo Klientske cislo 5065000125028 Zapomneli jste heslo D",
-    "word_count": 112,
-    "pepca": "pc269db9680c2e701",
-    "extractedSrcUrlsDomainCount": 1,
-    "last10words": " 267 218 218 e mail helpdesk ifortuna cz Online podpora Facebook Pokud od nas nechcete dostavat dalsi zpravy kliknete ZDE ",
-    "extractedTxtUrlsDomainCount": 1,
-    "pepcatotal": 0,
-    "pepca_style_total": 0,
-    "unsub_link": "http://www.ifortuna.cz/cz/home/index.html",
-    "extractedEmails": [
-        "helpdesk@ifortuna.cz?subject=Registrace",
-        "helpdesk@ifortuna.cz"
-    ],
-    "mime_root_type": "text/html",
-    "extractedEmailsCardinality": 2,
-    "extractedHrefUrlsTotalCount": 5,
-    "html_tr_tag_count": 10,
-    "pepca_style": "",
-    "dkStatusDetail": "NOT_SIGNED",
-    "header_from_count": 1,
-    "header_total_count": 15,
-    "dk_statuses": [
-        {
-            "status": "NEUTRAL",
-            "statusDetail": "NOT_SIGNED"
-        }
-    ],
-    "ahref_camouflage_count": 0,
-    "extractedSrcUrlsTotalCount": 1,
-    "html_tag_total_count": 76,
-    "header_reply_to_count": 0,
-    "extractedEmailsDomainCount": 2,
     "dkim_hfrom_match": 0,
-    "dkstatus": "NEUTRAL",
-    "ahref_total_count": 7,
-    "subject_image_count": 0,
-    "extractedTxtUrlsCardinality": 1,
-    "spf_domain_policy": "UNKNOWN",
-    "spf_status_registry": "Status not found",
-    "rfcid_is_foreign": 0,
-    "content": "CONTENT_DEFAULT",
-    "extractedSrcUrls": [
-        "http://www.ifortuna.cz/public/25/e2/73/534589_722037_email_logo_new.jpg"
-    ],
-    "lang": "cs",
-    "extractedTxtUrls": [
-        "http://www.ifortuna.cz"
-    ],
-    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/678f090a23c8e0c3eb970b2570bba316.eml",
-    "spamscore": 1,
-    "attachments": [],
-    "extractedSrcUrlsCardinality": 1,
     "from_match": 0,
     "phashes": [
         {
@@ -87,6 +11,40 @@
             "value": "p9d7e09692a9fb78f"
         }
     ],
+    "list_unsubscribe_invalid_count": 0,
+    "extractedSrcUrls": [
+        "http://www.ifortuna.cz/public/25/e2/73/534589_722037_email_logo_new.jpg"
+    ],
+    "ahref_verbal_count": 4,
+    "subject_image_count": 0,
+    "phish_score": 0,
+    "date_difference": -80184445,
+    "header_total_count": 15,
+    "dk_statuses": [
+        {
+            "statusDetail": "NOT_SIGNED",
+            "status": "NEUTRAL"
+        }
+    ],
+    "extractedEmails": [
+        "helpdesk@ifortuna.cz?subject=Registrace",
+        "helpdesk@ifortuna.cz"
+    ],
+    "precedence": 3,
+    "spamtrap_hit": false,
+    "pepca_style": "",
+    "unsub_link": "http://www.ifortuna.cz/cz/home/index.html",
+    "subject": "Zapomenute heslo",
+    "header_from": "noreply@ifortuna.cz",
+    "spamscore": 1,
+    "self_send": 0,
+    "dkstatus": "NEUTRAL",
+    "pepca_style_total": 0,
+    "unsub_link_candidates": [
+        "http://www.facebook.com/iFortuna.cz",
+        "http://www.ifortuna.cz/cz/home/index.html"
+    ],
+    "lang": "cs",
     "extractedHrefUrls": [
         "http://www.ifortuna.cz/cz/zapomenute_heslo/index.html",
         "www.ifortuna.cz",
@@ -94,127 +52,169 @@
         "http://www.livehelpnow.net/lhn/lc_custom.aspx?d=7417&zzwindow=7396&lhnid=7531",
         "http://www.facebook.com/iFortuna.cz"
     ],
-    "pepca_inline_style": "p9d7e09692a9fb78f",
-    "pepca_inline_style_total": 0,
-    "self_send": 0,
-    "now": 1494598299,
-    "mime_children_count": 0,
-    "ahref_verbal_count": 4,
-    "extractedTxtUrlsTotalCount": 1,
-    "subject_word_count": 2,
-    "rcpts_count": 1,
-    "dkim_count": 0,
+    "rfcid_is_foreign": 0,
+    "spf_status_registry": "Status not found",
+    "spf_dom_policy_registry": "Policy not found",
     "unsub_link_texts": [
         " facebook pokud od my nechtit dostavat dalsi zprava kliknout",
         "pokud od my nechtit dostavat dalsi zprava kliknout zde "
     ],
-    "rfcid_is_invalid": false,
-    "header_from": "noreply@ifortuna.cz",
-    "list_unsubscribe_mailto_count": 0,
+    "dkim_count": 0,
+    "list_unsubscribe_total_count": 0,
+    "now": 1494598299,
+    "header_reply_to_count": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/678f090a23c8e0c3eb970b2570bba316.eml",
+    "ahref_camouflage_count": 0,
+    "html_tag_total_count": 76,
     "rfcid_length": 57,
-    "html_in_text_plain_count": 0,
-    "extractedHrefUrlsCardinality": 5,
+    "extractedHrefUrlsDomainCount": 3,
+    "extractedTxtUrls": [
+        "http://www.ifortuna.cz"
+    ],
+    "pepca_inline_style": "p9d7e09692a9fb78f",
+    "html_tr_tag_count": 10,
+    "pepcatotal": 0,
     "html_script_tag_count": 0,
-    "dkim_efrom_match": 0,
-    "adscore": 0,
+    "last10words": " 267 218 218 e mail helpdesk ifortuna cz Online podpora Facebook Pokud od nas nechcete dostavat dalsi zpravy kliknete ZDE ",
+    "dkim_passed_count": 0,
+    "extractedHrefUrlsTotalCount": 5,
     "mime_children_types": [],
-    "dkim_signs_cnt": 1,
-    "spfstatus": "NONE",
+    "ahref_total_count": 7,
+    "list_unsubscribe_mailto_count": 0,
     "extractedEmailsTotalCount": 2,
-    "spamtrap_hit": false,
-    "spf_dom_policy_registry": "Policy not found",
-    "list_unsubscribe_http_count": 0,
+    "dkStatusDetail": "NOT_SIGNED",
+    "rcpts_count": 1,
+    "extractedEmailsDomainCount": 2,
     "phishing": {
-        "body_richness": 0.195462478184991,
-        "num_black_sheep_link": -1,
-        "subject_richness": 0.111111111111111,
-        "max_num_slashes_urls": 3,
-        "num_https_urls": 0,
-        "camouflage": 0,
-        "ner_domain_detected": true,
-        "html_form": 0,
-        "num_subdomain_phish": 0,
-        "num_external_links": 6,
-        "fake_https": 0,
-        "5_top_domains_id_0": 0,
-        "num_html_script_tags": 0,
-        "num_freehost_urls": 0,
-        "num_phish_keywords": 8,
-        "suspicious_links": [],
-        "num_sender_diff_url": 2,
-        "text_and_href": 0,
         "subject_phish_keywords": 1,
-        "num_www_in_url_path": 0,
+        "html_form": 0,
+        "num_black_sheep_link": -1,
         "num_domain_phish": 0,
-        "5_top_domains_percent_0": 1.0,
-        "num_of_chars": 572,
-        "num_ip_urls": 0,
-        "num_path_phish": 0,
-        "num_param_phish": 0,
-        "max_num_dots_urls": 3,
-        "num_tld_in_url_path": 0,
-        "is_html": true,
-        "num_black_sheep_link_phish": 0,
-        "num_non_80_port_urls": 0,
-        "num_text_forms": 1,
+        "num_shortened_urls": 0,
+        "num_phish_keywords": 8,
+        "5_top_domains_id_0": 0,
+        "num_www_in_url_path": 0,
+        "num_external_links": 6,
         "num_black_sheep_link_global": -1,
+        "num_black_sheep_link_phish": 0,
+        "is_html": true,
+        "num_sender_diff_url": 2,
+        "num_tld_in_url_path": 0,
+        "text_and_href": 0,
+        "ner_domain_detected": true,
+        "max_num_dots_urls": 3,
+        "camouflage": 0,
+        "num_text_forms": 1,
+        "num_https_urls": 0,
+        "body_richness": 0.195462478184991,
+        "num_ip_urls": 0,
+        "num_html_script_tags": 0,
+        "subject_richness": 0.111111111111111,
+        "fake_https": 0,
+        "suspicious_links": [],
+        "num_of_chars": 572,
         "text_link_with_path": 0,
-        "num_shortened_urls": 0
+        "num_path_phish": 0,
+        "num_subdomain_phish": 0,
+        "max_num_slashes_urls": 3,
+        "num_param_phish": 0,
+        "5_top_domains_percent_0": 1.0,
+        "num_non_80_port_urls": 0,
+        "num_freehost_urls": 0
     },
+    "dkim_efrom_match": 0,
+    "extractedSrcUrlsCardinality": 1,
+    "extractedTxtUrlsDomainCount": 1,
+    "header_from_count": 1,
+    "extractedSrcUrlsTotalCount": 1,
+    "spf_domain_policy": "UNKNOWN",
+    "dkim_signs_cnt": 1,
+    "extractedSrcUrlsDomainCount": 1,
+    "adscore": 0,
+    "pepca_inline_style_total": 0,
+    "extractedEmailsCardinality": 2,
     "senders": {
-        "domain_keywords": "ifortuna",
-        "log_ecnt_idf": "",
-        "log_cnt-w_duc_detail": [],
-        "log_cnt_idf_log_tidf_detail": [],
-        "log_ecnt-w_duc": "",
-        "idf_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
         "log_cnt_idf_log_tidf": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf": "",
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_ecnt-w_duc_detail": [],
         "log_cnt-pow4_w_duc": "",
-        "plain_domain_detail": [
+        "log_ecnt_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "idf": "",
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "src_revert_detail": [
             {
-                "domain": "ifortuna",
-                "confidence": 1
+                "confidence": 1,
+                "domain": "fortunamail"
             }
         ],
+        "log_cnt-w_duc": "",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "ifortuna"
+            }
+        ],
+        "log_ecnt-w_duc": "",
         "log_cnt-pow_w_duc": "",
-        "log_cnt_idf_detail": [],
-        "log_ecnt_log_idf_log_tidf_detail": [],
-        "tf_log_idf_detail": [],
+        "cnt-pow_w_duc": "",
+        "src_revert": "fortunamail",
         "ttf_w_duc_detail": [],
-        "cnt-pow_w_duc_detail": [],
-        "log_cnt-pow4_w_duc_detail": [],
-        "ettf_w_duc": "",
-        "log_ecnt_idf_detail": [],
-        "ttf_w_duc": "",
+        "log_cnt_idf_log_tidf_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt_idf_detail": [],
         "plain_domain": "ifortuna",
         "domain_keywords_detail": [
             {
-                "domain": "ifortuna",
-                "confidence": 18838242.96917
+                "confidence": 18838242.96917,
+                "domain": "ifortuna"
             }
         ],
-        "cnt-pow_w_duc": "",
-        "cnt-pow4_w_duc": "",
         "log_cnt-pow_w_duc_detail": [],
-        "ettf_w_duc_detail": [],
-        "log_ecnt-w_duc_detail": [],
+        "domain_keywords": "ifortuna",
         "log_cnt_idf": "",
-        "tf_log_idf": "",
-        "src_revert_detail": [
-            {
-                "domain": "fortunamail",
-                "confidence": 1
-            }
-        ],
-        "log_ecnt_log_idf_log_tidf": "",
-        "log_cnt-w_duc": "",
-        "cnt-pow4_w_duc_detail": [],
-        "idf": "",
-        "log_ecnt_idf_log_tidf": "",
-        "log_ecnt_idf_log_tidf_detail": [],
-        "src_revert": "fortunamail"
+        "log_ecnt_idf_log_tidf_detail": []
     },
-    "phish_score": 0,
-    "subject": "Zapomenute heslo",
-    "list_unsubscribe_invalid_count": 0
+    "word_count": 112,
+    "html_td_tag_count": 12,
+    "rfcid_is_invalid": false,
+    "mime_root_type": "text/html",
+    "content": "CONTENT_DEFAULT",
+    "subject_word_count": 2,
+    "extractedTxtUrlsCardinality": 1,
+    "list_unsubscribe_http_count": 0,
+    "spfstatus": "NONE",
+    "first10words": " Potvrzeni registrace Prihlasovaci jmeno lucoo Klientske cislo 5065000125028 Zapomneli jste heslo D",
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "html_in_text_plain_count": 0,
+    "extractedHrefUrlsCardinality": 5,
+    "extractedTxtUrlsTotalCount": 1,
+    "pepca": "pc269db9680c2e701",
+    "mime_children_count": 0,
+    "spfstatus_hfrom": "SPF_FAIL"
 }

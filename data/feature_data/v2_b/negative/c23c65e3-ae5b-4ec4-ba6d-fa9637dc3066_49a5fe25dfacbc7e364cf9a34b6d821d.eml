@@ -1,223 +1,223 @@
 {
-    "notches": [
-        {
-            "subscores": [
-                1,
-                0.0
-            ],
-            "score": 1,
-            "module": "ill",
-            "name": [
-                "date_in_past",
-                "from_missmatch"
-            ]
-        }
-    ],
-    "extractedTxtUrls": [
-        "http://www.pepa.cz/overeni-voucheru/",
-        "http://www.pepa.cz",
-        "http://www.pepa.cz/overeni-voucheru/P"
-    ],
-    "spfstatus": "NONE",
-    "mime_root_type": "multipart/related",
-    "header_from_count": 1,
-    "now": 1494598259,
-    "dkim_efrom_match": 0,
-    "pepca_inline_style_total": 0,
-    "rcpts_count": 1,
-    "extractedEmailsTotalCount": 4,
-    "pepca_inline_style": "p41aea5bdc3b6116c",
-    "pepca_style_total": 0,
-    "dkim_hfrom_match": 0,
-    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/49a5fe25dfacbc7e364cf9a34b6d821d.eml",
-    "html_td_tag_count": 102,
-    "extractedHrefUrlsCardinality": 2,
-    "list_unsubscribe_mailto_count": 0,
-    "subject_word_count": 9,
-    "lang": "cs",
-    "precedence": 3,
-    "phishing": {
-        "num_html_script_tags": 0,
-        "num_text_forms": 0,
-        "fake_https": 0,
-        "is_html": true,
-        "num_non_80_port_urls": 0,
-        "num_https_urls": 0,
-        "num_of_chars": 1493,
-        "num_param_phish": 0,
-        "text_and_href": 0,
-        "body_richness": 0.190763052208835,
-        "text_link_with_path": 2,
-        "max_num_slashes_urls": 2,
-        "num_shortened_urls": 0,
-        "num_sender_diff_url": 0,
-        "num_ip_urls": 0,
-        "num_black_sheep_link": -1,
-        "subject_richness": 0.272727272727273,
-        "num_tld_in_url_path": 0,
-        "subject_phish_keywords": 1,
-        "num_black_sheep_link_global": -1,
-        "num_black_sheep_link_phish": 0,
-        "num_path_phish": 0,
-        "suspicious_links": [],
-        "html_form": 0,
-        "num_phish_keywords": 4,
-        "num_subdomain_phish": 0,
-        "num_domain_phish": 0,
-        "ner_domain_detected": false,
-        "camouflage": 0,
-        "num_freehost_urls": 0,
-        "num_external_links": 2,
-        "max_num_dots_urls": 2,
-        "num_www_in_url_path": 0
-    },
-    "spf_status_registry": "Status not found",
-    "rfcid_is_foreign": 0,
-    "from_match": 0,
-    "first10words": " Vazeny obchodni partnere pro kontrolu voucheru prosim vyuzivejte rozhrani http www pepa cz overeni voucheru Prihlasovaci ",
-    "extractedTxtUrlsDomainCount": 1,
     "spf_domain_policy": "UNKNOWN",
-    "header_total_count": 16,
+    "subject_word_count": 9,
+    "last10words": "ska 6 110 00 Praha 1 Mobil 420 608 115 570 Tel 420 226 210 530 Fax 420 226 210 532 E novy pepa cz www pepa cz ",
+    "spfstatus": "NONE",
+    "header_from": "info@pepa.cz",
     "dkim_passed_count": 0,
-    "extractedTxtUrlsCardinality": 3,
-    "dkim_signs_cnt": 1,
-    "mime_children_types": [
-        "text/html",
-        "image/png"
-    ],
-    "ahref_verbal_count": 2,
-    "subject_image_count": 0,
-    "phish_score": 0,
-    "rfcid_is_invalid": false,
-    "dkstatus": "NEUTRAL",
+    "header_total_count": 16,
     "phashes": [
         {
-            "value": "p2c182435185385ed",
-            "name": "att-pepca"
+            "name": "att-pepca",
+            "value": "p2c182435185385ed"
         },
         {
-            "value": "p5b829dfb42308cdb",
-            "name": "pepca"
+            "name": "pepca",
+            "value": "p5b829dfb42308cdb"
         },
         {
-            "value": "p41aea5bdc3b6116c",
-            "name": "pepca_inline_style"
+            "name": "pepca_inline_style",
+            "value": "p41aea5bdc3b6116c"
         }
     ],
-    "extractedTxtUrlsTotalCount": 3,
     "self_send": 0,
-    "attachments": [
-        {
-            "mime_type": "image/png",
-            "cte": "BASE64",
-            "flags": 0,
-            "pepca": "p2c182435185385ed",
-            "cid": "footerlogo",
-            "sumphash": "c90aba031329a066e665b527a9db662c",
-            "size": 33426,
-            "name": "pepa-email.png"
-        }
-    ],
-    "html_tr_tag_count": 34,
+    "header_from_count": 1,
+    "phish_score": 0,
+    "html_in_text_plain_count": 0,
+    "extractedSrcUrlsTotalCount": 1,
+    "rcpts_count": 1,
     "extractedEmails": [
         "novy@pepa.cz",
         "jitty11@seznam.cz",
         "Emailjitty11@seznam.cz",
         "novy@pepa.czwww.pepa.cz"
     ],
-    "html_tag_total_count": 193,
-    "mime_children_count": 2,
-    "spamtrap_hit": false,
-    "extractedEmailsDomainCount": 3,
-    "extractedHrefUrlsTotalCount": 2,
-    "extractedSrcUrlsCardinality": 1,
-    "spamscore": 1,
-    "ahref_total_count": 3,
-    "extractedEmailsCardinality": 4,
-    "extractedSrcUrlsTotalCount": 1,
-    "dkim_count": 0,
-    "adscore": 0,
-    "pepca": "p5b829dfb42308cdb",
-    "dkStatusDetail": "NOT_SIGNED",
-    "html_script_tag_count": 0,
-    "date_difference": -80233852,
-    "html_in_text_plain_count": 0,
-    "pepca_style": "",
-    "word_count": 285,
-    "rfcid_length": 54,
     "spf_dom_policy_registry": "Policy not found",
-    "pepcatotal": 0,
-    "last10words": "ska 6 110 00 Praha 1 Mobil 420 608 115 570 Tel 420 226 210 530 Fax 420 226 210 532 E novy pepa cz www pepa cz ",
-    "extractedHrefUrls": [
-        "http://www.pepa.cz/obchodni-partner-potvrzeni?merchant=96e1df70cbbdab5a066a50c865896b161bbdeb07",
-        "http://www.pepa.cz/overeni-voucheru/?action=account"
+    "dkim_hfrom_match": 0,
+    "list_unsubscribe_total_count": 0,
+    "ahref_total_count": 3,
+    "extractedEmailsDomainCount": 3,
+    "html_td_tag_count": 102,
+    "spamtrap_hit": false,
+    "mime_children_types": [
+        "text/html",
+        "image/png"
     ],
-    "spfstatus_hfrom": "SPF_SOFTFAIL",
-    "header_reply_to_count": 1,
-    "senders": {
-        "log_cnt_idf_detail": [],
-        "log_ecnt_idf_detail": [],
-        "tf_log_idf": "",
-        "log_cnt-pow4_w_duc": "",
-        "log_ecnt_idf_log_tidf_detail": [],
-        "cnt-pow_w_duc_detail": [],
-        "cnt-pow_w_duc": "",
-        "log_ecnt-w_duc_detail": [],
-        "idf": "",
-        "cnt-pow4_w_duc_detail": [],
-        "ttf_w_duc_detail": [],
-        "ettf_w_duc_detail": [],
-        "log_cnt-w_duc": "",
-        "src_revert": "",
-        "log_cnt_idf_log_tidf_detail": [],
-        "log_cnt_idf_log_tidf": "",
-        "log_cnt-pow4_w_duc_detail": [],
-        "log_cnt-pow_w_duc": "",
-        "cnt-pow4_w_duc": "",
-        "plain_domain": "pepa",
-        "src_revert_detail": [],
-        "log_ecnt_log_idf_log_tidf": "",
-        "log_ecnt_idf_log_tidf": "",
-        "log_cnt-pow_w_duc_detail": [],
-        "ttf_w_duc": "",
-        "plain_domain_detail": [
-            {
-                "confidence": 1,
-                "domain": "pepa"
-            }
-        ],
-        "log_ecnt_idf": "",
-        "tf_log_idf_detail": [],
-        "ettf_w_duc": "",
-        "idf_detail": [],
-        "log_ecnt_log_idf_log_tidf_detail": [],
-        "domain_keywords_detail": [
-            {
-                "confidence": 12238488.73206,
-                "domain": "zendesk"
-            }
-        ],
-        "domain_keywords": "zendesk",
-        "log_cnt-w_duc_detail": [],
-        "log_ecnt-w_duc": "",
-        "log_cnt_idf": ""
-    },
+    "extractedTxtUrlsCardinality": 3,
     "dk_statuses": [
         {
-            "statusDetail": "NOT_SIGNED",
-            "status": "NEUTRAL"
+            "status": "NEUTRAL",
+            "statusDetail": "NOT_SIGNED"
         }
     ],
+    "first10words": " Vazeny obchodni partnere pro kontrolu voucheru prosim vyuzivejte rozhrani http www pepa cz overeni voucheru Prihlasovaci ",
+    "extractedEmailsCardinality": 4,
+    "notches": [
+        {
+            "score": 1,
+            "subscores": [
+                1,
+                0.0
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "module": "ill"
+        }
+    ],
+    "date_difference": -80233852,
+    "extractedEmailsTotalCount": 4,
+    "subject_image_count": 0,
+    "extractedSrcUrlsCardinality": 1,
+    "dkim_signs_cnt": 1,
+    "pepca_style": "",
+    "html_script_tag_count": 0,
+    "extractedHrefUrlsCardinality": 2,
+    "adscore": 0,
+    "list_unsubscribe_http_count": 0,
+    "extractedHrefUrlsTotalCount": 2,
     "content": "CONTENT_DEFAULT",
+    "rfcid_length": 54,
+    "extractedTxtUrlsDomainCount": 1,
+    "pepca_inline_style_total": 0,
+    "dkim_count": 0,
+    "subject": "Nove heslo Pepa cz 27 10 14 0 00",
+    "pepcatotal": 0,
+    "mime_root_type": "multipart/related",
+    "ahref_camouflage_count": 0,
+    "dkStatusDetail": "NOT_SIGNED",
+    "header_reply_to_count": 1,
+    "list_unsubscribe_mailto_count": 0,
+    "rfcid_is_foreign": 0,
+    "dkstatus": "NEUTRAL",
+    "mime_children_count": 2,
+    "extractedHrefUrlsDomainCount": 1,
+    "word_count": 285,
+    "list_unsubscribe_invalid_count": 0,
+    "precedence": 3,
+    "extractedTxtUrls": [
+        "http://www.pepa.cz/overeni-voucheru/",
+        "http://www.pepa.cz",
+        "http://www.pepa.cz/overeni-voucheru/P"
+    ],
+    "spf_status_registry": "Status not found",
+    "lang": "cs",
+    "extractedTxtUrlsTotalCount": 3,
+    "phishing": {
+        "is_html": true,
+        "num_subdomain_phish": 0,
+        "body_richness": 0.190763052208835,
+        "num_domain_phish": 0,
+        "num_https_urls": 0,
+        "text_link_with_path": 2,
+        "num_text_forms": 0,
+        "num_phish_keywords": 4,
+        "num_external_links": 2,
+        "num_non_80_port_urls": 0,
+        "subject_richness": 0.272727272727273,
+        "num_black_sheep_link": -1,
+        "num_freehost_urls": 0,
+        "num_sender_diff_url": 0,
+        "max_num_dots_urls": 2,
+        "fake_https": 0,
+        "suspicious_links": [],
+        "ner_domain_detected": false,
+        "num_black_sheep_link_global": -1,
+        "max_num_slashes_urls": 2,
+        "num_param_phish": 0,
+        "num_www_in_url_path": 0,
+        "text_and_href": 0,
+        "num_path_phish": 0,
+        "camouflage": 0,
+        "subject_phish_keywords": 1,
+        "num_html_script_tags": 0,
+        "num_black_sheep_link_phish": 0,
+        "num_shortened_urls": 0,
+        "num_of_chars": 1493,
+        "num_ip_urls": 0,
+        "html_form": 0,
+        "num_tld_in_url_path": 0
+    },
     "extractedSrcUrls": [
         "cid:footerlogo"
     ],
-    "list_unsubscribe_http_count": 0,
-    "extractedHrefUrlsDomainCount": 1,
-    "subject": "Nove heslo Pepa cz 27 10 14 0 00",
-    "list_unsubscribe_total_count": 0,
+    "from_match": 0,
+    "html_tr_tag_count": 34,
+    "senders": {
+        "log_cnt-w_duc_detail": [],
+        "idf_detail": [],
+        "log_ecnt_idf_detail": [],
+        "domain_keywords": "zendesk",
+        "log_cnt-pow_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "src_revert": "",
+        "ttf_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "domain": "zendesk",
+                "confidence": 12238488.73206
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_cnt_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-w_duc": "",
+        "log_ecnt-w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "tf_log_idf": "",
+        "log_cnt_idf": "",
+        "log_ecnt_idf": "",
+        "idf": "",
+        "src_revert_detail": [],
+        "plain_domain_detail": [
+            {
+                "domain": "pepa",
+                "confidence": 1
+            }
+        ],
+        "cnt-pow_w_duc_detail": [],
+        "plain_domain": "pepa",
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "tf_log_idf_detail": []
+    },
+    "pepca": "p5b829dfb42308cdb",
+    "rfcid_is_invalid": false,
     "extractedSrcUrlsDomainCount": 0,
-    "ahref_camouflage_count": 0,
-    "list_unsubscribe_invalid_count": 0,
-    "header_from": "info@pepa.cz"
+    "ahref_verbal_count": 2,
+    "now": 1494598259,
+    "spfstatus_hfrom": "SPF_SOFTFAIL",
+    "pepca_inline_style": "p41aea5bdc3b6116c",
+    "pepca_style_total": 0,
+    "spamscore": 1,
+    "dkim_efrom_match": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/49a5fe25dfacbc7e364cf9a34b6d821d.eml",
+    "attachments": [
+        {
+            "pepca": "p2c182435185385ed",
+            "cte": "BASE64",
+            "name": "pepa-email.png",
+            "size": 33426,
+            "flags": 0,
+            "cid": "footerlogo",
+            "sumphash": "c90aba031329a066e665b527a9db662c",
+            "mime_type": "image/png"
+        }
+    ],
+    "html_tag_total_count": 193,
+    "extractedHrefUrls": [
+        "http://www.pepa.cz/obchodni-partner-potvrzeni?merchant=96e1df70cbbdab5a066a50c865896b161bbdeb07",
+        "http://www.pepa.cz/overeni-voucheru/?action=account"
+    ]
 }

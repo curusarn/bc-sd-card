@@ -1,202 +1,136 @@
 {
-    "notches": [
+    "spf_domain_policy": "UNKNOWN",
+    "subject_word_count": 7,
+    "last10words": "fts 0 534a18a 35a3 domain com username mx1930 aa04 com Great Free Gifts 999 Skyway Landing Drive Suite 200 San Carlos CA 94070 ",
+    "spfstatus": "NONE",
+    "header_from": "RewardGifts@mx1930.aa04.com",
+    "dkim_passed_count": 0,
+    "header_total_count": 19,
+    "phashes": [
         {
-            "subscores": [
-                1,
-                0.0
-            ],
-            "score": 1,
-            "module": "ill",
-            "name": [
-                "date_in_past",
-                "from_missmatch"
-            ]
+            "name": "pepca",
+            "value": "pe61175f7baa1752f"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p70b0e80394f75385"
         }
     ],
-    "extractedTxtUrls": [
-        "http://Great-Free-Gifts.com.",
-        "http://r.RewardGifts.0-534a18a-35a3.domain.com.-username@mx1930.aa04.com"
-    ],
-    "spfstatus": "NONE",
-    "mime_root_type": "multipart/alternative",
+    "self_send": 0,
     "header_from_count": 1,
-    "now": 1494597826,
-    "dkim_efrom_match": 0,
-    "pepca_inline_style_total": 0,
+    "phish_score": 0,
+    "html_in_text_plain_count": 2,
+    "extractedSrcUrlsTotalCount": 12,
     "rcpts_count": 1,
-    "extractedEmailsTotalCount": 1,
-    "pepca_inline_style": "p70b0e80394f75385",
-    "pepca_style_total": 0,
+    "extractedEmails": [
+        "r.RewardGifts.0-534a18a-35a3.domain.com.-username@mx1930.aa04.com?subject=remove"
+    ],
+    "spf_dom_policy_registry": "Policy not found",
     "dkim_hfrom_match": 0,
-    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing0/310.eml",
+    "list_unsubscribe_total_count": 0,
+    "ahref_total_count": 11,
+    "extractedEmailsDomainCount": 1,
     "html_td_tag_count": 24,
-    "extractedHrefUrlsCardinality": 11,
-    "list_unsubscribe_mailto_count": 0,
-    "subject_word_count": 7,
-    "lang": "en",
-    "precedence": 3,
-    "phishing": {
-        "num_html_script_tags": 0,
-        "num_text_forms": 2,
-        "fake_https": 0,
-        "is_html": true,
-        "num_non_80_port_urls": 0,
-        "num_https_urls": 0,
-        "num_of_chars": 991,
-        "num_param_phish": 0,
-        "text_and_href": 0,
-        "body_richness": 0.225806451612903,
-        "text_link_with_path": 0,
-        "max_num_slashes_urls": 2,
-        "num_shortened_urls": 0,
-        "num_sender_diff_url": 1,
-        "num_ip_urls": 0,
-        "num_black_sheep_link": -1,
-        "subject_richness": 0.12962962962963,
-        "num_tld_in_url_path": 0,
-        "subject_phish_keywords": 0,
-        "num_black_sheep_link_global": -1,
-        "num_black_sheep_link_phish": 0,
-        "num_path_phish": 0,
-        "suspicious_links": [],
-        "html_form": 0,
-        "num_phish_keywords": 0,
-        "num_subdomain_phish": 0,
-        "num_domain_phish": 0,
-        "ner_domain_detected": true,
-        "camouflage": 0,
-        "num_freehost_urls": 0,
-        "num_external_links": 10,
-        "max_num_dots_urls": 7,
-        "num_www_in_url_path": 0
-    },
-    "spf_status_registry": "Status not found",
-    "rfcid_is_foreign": 0,
-    "from_match": 0,
-    "first10words": " visa300 emc d21 If you can t read or see this email click here This advertisement is brought to you as a valued member of Great Free Gif",
-    "extractedTxtUrlsDomainCount": 2,
-    "spf_domain_policy": "UNKNOWN",
-    "header_total_count": 19,
-    "dkim_passed_count": 0,
-    "extractedTxtUrlsCardinality": 2,
-    "dkim_signs_cnt": 1,
+    "spamtrap_hit": false,
     "mime_children_types": [
         "text/plain",
         "text/html"
     ],
-    "ahref_verbal_count": 10,
-    "subject_image_count": 0,
-    "phish_score": 0,
-    "rfcid_is_invalid": false,
-    "dkstatus": "NEUTRAL",
-    "phashes": [
-        {
-            "value": "pe61175f7baa1752f",
-            "name": "pepca"
-        },
-        {
-            "value": "p70b0e80394f75385",
-            "name": "pepca_inline_style"
-        }
-    ],
-    "extractedTxtUrlsTotalCount": 2,
-    "self_send": 0,
-    "attachments": [],
-    "html_tr_tag_count": 14,
-    "extractedEmails": [
-        "r.RewardGifts.0-534a18a-35a3.domain.com.-username@mx1930.aa04.com?subject=remove"
-    ],
-    "html_tag_total_count": 135,
-    "mime_children_count": 2,
-    "spamtrap_hit": false,
-    "extractedEmailsDomainCount": 1,
-    "extractedHrefUrlsTotalCount": 11,
-    "extractedSrcUrlsCardinality": 12,
-    "spamscore": 1,
-    "ahref_total_count": 11,
-    "extractedEmailsCardinality": 1,
-    "extractedSrcUrlsTotalCount": 12,
-    "dkim_count": 0,
-    "adscore": 0,
-    "pepca": "pe61175f7baa1752f",
-    "dkStatusDetail": "NOT_SIGNED",
-    "html_script_tag_count": 0,
-    "date_difference": -379093264,
-    "html_in_text_plain_count": 2,
-    "pepca_style": "",
-    "word_count": 224,
-    "rfcid_length": 37,
-    "spf_dom_policy_registry": "Policy not found",
-    "pepcatotal": 0,
-    "last10words": "fts 0 534a18a 35a3 domain com username mx1930 aa04 com Great Free Gifts 999 Skyway Landing Drive Suite 200 San Carlos CA 94070 ",
-    "extractedHrefUrls": [
-        "http://mx1930.aa04.com/m/l?3ki-cxjk-7-9eal-wgrcq",
-        "http://mx1930.aa04.com/m/l?3ki-cxjk-8-9eal-wgrcq",
-        "http://mx1930.aa04.com/m/l?3ki-cxjk-9-9eal-wgrcq",
-        "http://mx1930.aa04.com/m/l?3ki-cxjk-10-9eal-wgrcq",
-        "http://mx1930.aa04.com/delete?l=RewardGifts.0-534a18a-35a3&e=username%40domain.com"
-    ],
-    "spfstatus_hfrom": "SPF_ERR",
-    "header_reply_to_count": 0,
-    "senders": {
-        "log_cnt_idf_detail": [],
-        "log_ecnt_idf_detail": [],
-        "tf_log_idf": "",
-        "log_cnt-pow4_w_duc": "",
-        "log_ecnt_idf_log_tidf_detail": [],
-        "cnt-pow_w_duc_detail": [],
-        "cnt-pow_w_duc": "",
-        "log_ecnt-w_duc_detail": [],
-        "idf": "",
-        "cnt-pow4_w_duc_detail": [],
-        "ttf_w_duc_detail": [],
-        "ettf_w_duc_detail": [],
-        "log_cnt-w_duc": "",
-        "src_revert": "",
-        "log_cnt_idf_log_tidf_detail": [],
-        "log_cnt_idf_log_tidf": "",
-        "log_cnt-pow4_w_duc_detail": [],
-        "log_cnt-pow_w_duc": "",
-        "cnt-pow4_w_duc": "",
-        "plain_domain": "great-free-gifts",
-        "src_revert_detail": [],
-        "log_ecnt_log_idf_log_tidf": "",
-        "log_ecnt_idf_log_tidf": "",
-        "log_cnt-pow_w_duc_detail": [],
-        "ttf_w_duc": "",
-        "plain_domain_detail": [
-            {
-                "confidence": 1,
-                "domain": "great-free-gifts"
-            },
-            {
-                "confidence": 1,
-                "domain": "aa04"
-            }
-        ],
-        "log_ecnt_idf": "",
-        "tf_log_idf_detail": [],
-        "ettf_w_duc": "",
-        "idf_detail": [],
-        "log_ecnt_log_idf_log_tidf_detail": [],
-        "domain_keywords_detail": [
-            {
-                "confidence": 277156178.519739,
-                "domain": "aweber"
-            }
-        ],
-        "domain_keywords": "aweber",
-        "log_cnt-w_duc_detail": [],
-        "log_ecnt-w_duc": "",
-        "log_cnt_idf": ""
-    },
+    "extractedTxtUrlsCardinality": 2,
     "dk_statuses": [
         {
-            "statusDetail": "NOT_SIGNED",
-            "status": "NEUTRAL"
+            "status": "NEUTRAL",
+            "statusDetail": "NOT_SIGNED"
         }
     ],
+    "first10words": " visa300 emc d21 If you can t read or see this email click here This advertisement is brought to you as a valued member of Great Free Gif",
+    "extractedEmailsCardinality": 1,
+    "notches": [
+        {
+            "score": 1,
+            "subscores": [
+                1,
+                0.0
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "module": "ill"
+        }
+    ],
+    "date_difference": -379093264,
+    "extractedEmailsTotalCount": 1,
+    "subject_image_count": 0,
+    "extractedSrcUrlsCardinality": 12,
+    "dkim_signs_cnt": 1,
+    "pepca_style": "",
+    "html_script_tag_count": 0,
+    "extractedHrefUrlsCardinality": 11,
+    "adscore": 0,
+    "list_unsubscribe_http_count": 0,
+    "extractedHrefUrlsTotalCount": 11,
     "content": "CONTENT_DEFAULT",
+    "rfcid_length": 37,
+    "extractedTxtUrlsDomainCount": 2,
+    "pepca_inline_style_total": 0,
+    "dkim_count": 0,
+    "subject": "Complimentary 300 Visa Gift Card with participation",
+    "pepcatotal": 0,
+    "mime_root_type": "multipart/alternative",
+    "ahref_camouflage_count": 0,
+    "dkStatusDetail": "NOT_SIGNED",
+    "header_reply_to_count": 0,
+    "list_unsubscribe_mailto_count": 0,
+    "rfcid_is_foreign": 0,
+    "dkstatus": "NEUTRAL",
+    "mime_children_count": 2,
+    "extractedHrefUrlsDomainCount": 1,
+    "word_count": 224,
+    "list_unsubscribe_invalid_count": 0,
+    "precedence": 3,
+    "extractedTxtUrls": [
+        "http://Great-Free-Gifts.com.",
+        "http://r.RewardGifts.0-534a18a-35a3.domain.com.-username@mx1930.aa04.com"
+    ],
+    "spf_status_registry": "Status not found",
+    "lang": "en",
+    "extractedTxtUrlsTotalCount": 2,
+    "phishing": {
+        "is_html": true,
+        "num_subdomain_phish": 0,
+        "body_richness": 0.225806451612903,
+        "num_domain_phish": 0,
+        "num_https_urls": 0,
+        "text_link_with_path": 0,
+        "num_text_forms": 2,
+        "num_phish_keywords": 0,
+        "num_external_links": 10,
+        "num_non_80_port_urls": 0,
+        "subject_richness": 0.12962962962963,
+        "num_black_sheep_link": -1,
+        "num_freehost_urls": 0,
+        "num_sender_diff_url": 1,
+        "max_num_dots_urls": 7,
+        "fake_https": 0,
+        "suspicious_links": [],
+        "ner_domain_detected": true,
+        "num_black_sheep_link_global": -1,
+        "max_num_slashes_urls": 2,
+        "num_param_phish": 0,
+        "num_www_in_url_path": 0,
+        "text_and_href": 0,
+        "num_path_phish": 0,
+        "camouflage": 0,
+        "subject_phish_keywords": 0,
+        "num_html_script_tags": 0,
+        "num_black_sheep_link_phish": 0,
+        "num_shortened_urls": 0,
+        "num_of_chars": 991,
+        "num_ip_urls": 0,
+        "html_form": 0,
+        "num_tld_in_url_path": 0
+    },
     "extractedSrcUrls": [
         "http://www.metareward.com/mr/Img/?id=39530",
         "http://www.metareward.com/mr/Img/?id=39531",
@@ -204,12 +138,78 @@
         "http://site.images.metareward.com/www.metareward.com/sites/NFN/ExclusiveRewards/images/ez/no_spam.gif",
         "http://mx1930.aa04.com/m/r?3ki-cxjk-0-wgrcq"
     ],
-    "list_unsubscribe_http_count": 0,
-    "extractedHrefUrlsDomainCount": 1,
-    "subject": "Complimentary 300 Visa Gift Card with participation",
-    "list_unsubscribe_total_count": 0,
+    "from_match": 0,
+    "html_tr_tag_count": 14,
+    "senders": {
+        "log_cnt-w_duc_detail": [],
+        "idf_detail": [],
+        "log_ecnt_idf_detail": [],
+        "domain_keywords": "aweber",
+        "log_cnt-pow_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "src_revert": "",
+        "ttf_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "domain": "aweber",
+                "confidence": 277156178.519739
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_cnt_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-w_duc": "",
+        "log_ecnt-w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "tf_log_idf": "",
+        "log_cnt_idf": "",
+        "log_ecnt_idf": "",
+        "idf": "",
+        "src_revert_detail": [],
+        "plain_domain_detail": [
+            {
+                "domain": "great-free-gifts",
+                "confidence": 1
+            },
+            {
+                "domain": "aa04",
+                "confidence": 1
+            }
+        ],
+        "cnt-pow_w_duc_detail": [],
+        "plain_domain": "great-free-gifts",
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "tf_log_idf_detail": []
+    },
+    "pepca": "pe61175f7baa1752f",
+    "rfcid_is_invalid": false,
     "extractedSrcUrlsDomainCount": 2,
-    "ahref_camouflage_count": 0,
-    "list_unsubscribe_invalid_count": 0,
-    "header_from": "RewardGifts@mx1930.aa04.com"
+    "ahref_verbal_count": 10,
+    "now": 1494597826,
+    "spfstatus_hfrom": "SPF_ERR",
+    "pepca_inline_style": "p70b0e80394f75385",
+    "pepca_style_total": 0,
+    "spamscore": 1,
+    "dkim_efrom_match": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing0/310.eml",
+    "attachments": [],
+    "html_tag_total_count": 135,
+    "extractedHrefUrls": [
+        "http://mx1930.aa04.com/m/l?3ki-cxjk-7-9eal-wgrcq",
+        "http://mx1930.aa04.com/m/l?3ki-cxjk-8-9eal-wgrcq",
+        "http://mx1930.aa04.com/m/l?3ki-cxjk-9-9eal-wgrcq",
+        "http://mx1930.aa04.com/m/l?3ki-cxjk-10-9eal-wgrcq",
+        "http://mx1930.aa04.com/delete?l=RewardGifts.0-534a18a-35a3&e=username%40domain.com"
+    ]
 }

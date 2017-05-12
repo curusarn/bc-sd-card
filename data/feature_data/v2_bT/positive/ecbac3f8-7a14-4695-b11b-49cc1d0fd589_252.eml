@@ -1,88 +1,5 @@
 {
-    "date_difference": -367202822,
-    "html_td_tag_count": 56,
-    "list_unsubscribe_total_count": 0,
-    "precedence": 3,
-    "spfstatus_hfrom": "SPF_SOFTFAIL",
-    "dkim_passed_count": 0,
-    "notches": [
-        {
-            "subscores": [
-                1,
-                0.1,
-                0.0,
-                0.1,
-                0.1,
-                0.5
-            ],
-            "name": [
-                "date_in_past",
-                "evil_script",
-                "from_missmatch",
-                "html_a_href_camouflaging",
-                "foreign_message_id",
-                "long_subject"
-            ],
-            "score": 1.8,
-            "module": "ill"
-        }
-    ],
-    "extractedHrefUrlsDomainCount": 30,
-    "first10words": " eBay New used electronics cars apparel collectibles sporting goods more at low prices A Frau",
-    "word_count": 557,
-    "pepca": "pd920cf464f2534e8",
-    "extractedSrcUrlsDomainCount": 1,
-    "last10words": "rs Use of this Web site constitutes acceptance of the eBay User Agreement and Privacy Policy eBay official time ",
-    "extractedTxtUrlsDomainCount": 2,
-    "pepcatotal": 0,
-    "pepca_style_total": 0,
-    "extractedEmails": [],
-    "mime_root_type": "multipart/alternative",
-    "extractedEmailsCardinality": 0,
-    "extractedHrefUrlsTotalCount": 50,
-    "html_tr_tag_count": 50,
-    "pepca_style": "pbd97ed7e5caaf7e8",
-    "dkStatusDetail": "NOT_SIGNED",
-    "header_from_count": 1,
-    "header_total_count": 30,
-    "dk_statuses": [
-        {
-            "status": "NEUTRAL",
-            "statusDetail": "NOT_SIGNED"
-        }
-    ],
-    "ahref_camouflage_count": 1,
-    "extractedSrcUrlsTotalCount": 8,
-    "html_tag_total_count": 334,
-    "header_reply_to_count": 1,
-    "extractedEmailsDomainCount": 0,
     "dkim_hfrom_match": 0,
-    "dkstatus": "NEUTRAL",
-    "ahref_total_count": 47,
-    "subject_image_count": 0,
-    "extractedTxtUrlsCardinality": 4,
-    "spf_domain_policy": "UNKNOWN",
-    "spf_status_registry": "Status not found",
-    "rfcid_is_foreign": 1,
-    "content": "CONTENT_DEFAULT",
-    "extractedSrcUrls": [
-        "eBay - New & used electronics, cars, apparel, collectibles, sporting goods & more at low prices_fichiers/s.gif",
-        "eBay - New & used electronics, cars, apparel, collectibles, sporting goods & more at low prices_fichiers/set2_eBay_234x60_still_",
-        "eBay - New & used electronics, cars, apparel, collectibles, sporting goods & more at low prices_fichiers/eBayKeywords234x60.gif",
-        "eBay - New & used electronics, cars, apparel, collectibles, sporting goods & more at low prices_fichiers/Rethink_234_60v3.gif",
-        "http://pics.ebaystatic.com/aw/pics/truste_button.gif"
-    ],
-    "lang": "en",
-    "extractedTxtUrls": [
-        "http://pics.ebaystatic.com/aw/pics/userSitePrefs/bottomDropShadow_20x20.gif)",
-        "http://pics.ebaystatic.com/aw/pics/userSitePrefs/sideDropShadow_20x20.gif)",
-        "http://pics.ebaystatic.com/aw/pics/userSitePrefs/dropshadow2_20x10.gif)",
-        "http://cgi1.ebay.com/aw-cgi/ebayISAPI.dll?UPdate"
-    ],
-    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/20051114/252.eml",
-    "spamscore": 1.8,
-    "attachments": [],
-    "extractedSrcUrlsCardinality": 8,
     "from_match": 0,
     "phashes": [
         {
@@ -94,6 +11,36 @@
             "value": "pbd97ed7e5caaf7e8"
         }
     ],
+    "list_unsubscribe_invalid_count": 0,
+    "extractedSrcUrls": [
+        "eBay - New & used electronics, cars, apparel, collectibles, sporting goods & more at low prices_fichiers/s.gif",
+        "eBay - New & used electronics, cars, apparel, collectibles, sporting goods & more at low prices_fichiers/set2_eBay_234x60_still_",
+        "eBay - New & used electronics, cars, apparel, collectibles, sporting goods & more at low prices_fichiers/eBayKeywords234x60.gif",
+        "eBay - New & used electronics, cars, apparel, collectibles, sporting goods & more at low prices_fichiers/Rethink_234_60v3.gif",
+        "http://pics.ebaystatic.com/aw/pics/truste_button.gif"
+    ],
+    "ahref_verbal_count": 46,
+    "subject_image_count": 0,
+    "phish_score": 0,
+    "date_difference": -367202822,
+    "header_total_count": 30,
+    "dk_statuses": [
+        {
+            "statusDetail": "NOT_SIGNED",
+            "status": "NEUTRAL"
+        }
+    ],
+    "extractedEmails": [],
+    "precedence": 3,
+    "spamtrap_hit": false,
+    "pepca_style": "pbd97ed7e5caaf7e8",
+    "subject": "FPA NOTICE eBay Account Suspension Please review your account immediately ",
+    "header_from": "SecurityCenter@ebay.com",
+    "spamscore": 1.8,
+    "self_send": 0,
+    "dkstatus": "NEUTRAL",
+    "pepca_style_total": 0,
+    "lang": "en",
     "extractedHrefUrls": [
         "http://pages.ebay.com/sitemap.html",
         "http://pages.ebay.com/help/?ssPageName=home:f:f:US",
@@ -101,147 +48,200 @@
         "http://pages.ebay.com/help/community/png-priv.html",
         "http://cgi1.ebay.com/aw-cgi/eBayISAPI.dll?TimeShow&ssPageName=home:f:f:US"
     ],
-    "pepca_inline_style": "",
-    "pepca_inline_style_total": 0,
-    "self_send": 0,
-    "now": 1494597816,
-    "mime_children_count": 1,
-    "ahref_verbal_count": 46,
-    "extractedTxtUrlsTotalCount": 4,
-    "subject_word_count": 10,
-    "rcpts_count": 1,
+    "rfcid_is_foreign": 1,
+    "spf_status_registry": "Status not found",
+    "spf_dom_policy_registry": "Policy not found",
     "dkim_count": 0,
-    "rfcid_is_invalid": false,
-    "header_from": "SecurityCenter@ebay.com",
-    "list_unsubscribe_mailto_count": 0,
+    "list_unsubscribe_total_count": 0,
+    "now": 1494597816,
+    "header_reply_to_count": 1,
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/20051114/252.eml",
+    "ahref_camouflage_count": 1,
+    "html_tag_total_count": 334,
     "rfcid_length": 33,
-    "html_in_text_plain_count": 0,
-    "extractedHrefUrlsCardinality": 50,
+    "extractedHrefUrlsDomainCount": 30,
+    "extractedTxtUrls": [
+        "http://pics.ebaystatic.com/aw/pics/userSitePrefs/bottomDropShadow_20x20.gif)",
+        "http://pics.ebaystatic.com/aw/pics/userSitePrefs/sideDropShadow_20x20.gif)",
+        "http://pics.ebaystatic.com/aw/pics/userSitePrefs/dropshadow2_20x10.gif)",
+        "http://cgi1.ebay.com/aw-cgi/ebayISAPI.dll?UPdate"
+    ],
+    "pepca_inline_style": "",
+    "html_tr_tag_count": 50,
+    "pepcatotal": 0,
     "html_script_tag_count": 8,
-    "dkim_efrom_match": 0,
-    "adscore": 0,
+    "last10words": "rs Use of this Web site constitutes acceptance of the eBay User Agreement and Privacy Policy eBay official time ",
+    "dkim_passed_count": 0,
+    "extractedHrefUrlsTotalCount": 50,
     "mime_children_types": [
         "text/html"
     ],
-    "dkim_signs_cnt": 1,
-    "spfstatus": "NONE",
+    "ahref_total_count": 47,
+    "list_unsubscribe_mailto_count": 0,
     "extractedEmailsTotalCount": 0,
-    "spamtrap_hit": false,
-    "spf_dom_policy_registry": "Policy not found",
-    "list_unsubscribe_http_count": 0,
+    "dkStatusDetail": "NOT_SIGNED",
+    "rcpts_count": 1,
+    "extractedEmailsDomainCount": 0,
     "phishing": {
-        "5_top_domains_id_1": 0,
-        "body_richness": 0.210506424792139,
-        "num_black_sheep_link": -1,
-        "subject_richness": 0.126582278481013,
-        "max_num_slashes_urls": 4,
-        "num_https_urls": 3,
-        "camouflage": 1,
-        "ner_domain_detected": true,
-        "html_form": 0,
-        "num_subdomain_phish": 0,
-        "num_external_links": 10,
-        "fake_https": 0,
-        "5_top_domains_id_0": 0,
-        "num_html_script_tags": 0,
-        "num_freehost_urls": 0,
-        "num_phish_keywords": 23,
-        "suspicious_links": [],
-        "num_sender_diff_url": 9,
-        "text_and_href": 0,
         "subject_phish_keywords": 2,
-        "num_www_in_url_path": 0,
+        "html_form": 0,
+        "num_black_sheep_link": -1,
         "num_domain_phish": 0,
-        "5_top_domains_percent_0": 0.9333333333333333,
-        "num_of_chars": 2645,
-        "num_ip_urls": 0,
-        "num_path_phish": 0,
-        "num_param_phish": 0,
-        "max_num_dots_urls": 5,
-        "num_tld_in_url_path": 0,
-        "is_html": true,
-        "num_black_sheep_link_phish": 0,
-        "num_non_80_port_urls": 0,
-        "num_text_forms": 4,
+        "num_shortened_urls": 0,
+        "num_phish_keywords": 23,
+        "5_top_domains_id_0": 0,
+        "num_www_in_url_path": 0,
+        "num_external_links": 10,
         "num_black_sheep_link_global": -1,
+        "num_black_sheep_link_phish": 0,
+        "is_html": true,
+        "num_sender_diff_url": 9,
+        "num_tld_in_url_path": 0,
+        "text_and_href": 0,
+        "ner_domain_detected": true,
+        "max_num_dots_urls": 5,
+        "5_top_domains_id_1": 0,
+        "camouflage": 1,
+        "num_text_forms": 4,
+        "num_https_urls": 3,
+        "body_richness": 0.210506424792139,
+        "num_ip_urls": 0,
+        "num_html_script_tags": 0,
+        "subject_richness": 0.126582278481013,
+        "fake_https": 0,
+        "suspicious_links": [],
+        "num_of_chars": 2645,
         "text_link_with_path": 4,
         "5_top_domains_percent_1": 0.06666666666666667,
-        "num_shortened_urls": 0
+        "num_path_phish": 0,
+        "num_subdomain_phish": 0,
+        "max_num_slashes_urls": 4,
+        "num_param_phish": 0,
+        "5_top_domains_percent_0": 0.9333333333333333,
+        "num_non_80_port_urls": 0,
+        "num_freehost_urls": 0
     },
+    "dkim_efrom_match": 0,
+    "extractedSrcUrlsCardinality": 8,
+    "extractedTxtUrlsDomainCount": 2,
+    "header_from_count": 1,
+    "extractedSrcUrlsTotalCount": 8,
+    "spf_domain_policy": "UNKNOWN",
+    "dkim_signs_cnt": 1,
+    "extractedSrcUrlsDomainCount": 1,
+    "adscore": 0,
+    "pepca_inline_style_total": 0,
+    "extractedEmailsCardinality": 0,
     "senders": {
-        "domain_keywords": "ebay",
-        "log_ecnt_idf": "",
-        "log_cnt-w_duc_detail": [],
-        "log_cnt_idf_log_tidf_detail": [],
-        "log_ecnt-w_duc": "",
-        "idf_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
         "log_cnt_idf_log_tidf": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf": "",
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_ecnt-w_duc_detail": [],
         "log_cnt-pow4_w_duc": "",
-        "plain_domain_detail": [
+        "log_ecnt_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "idf": "",
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "src_revert_detail": [
             {
-                "domain": "paypal",
-                "confidence": 1
-            },
-            {
-                "domain": "theebayshop",
-                "confidence": 1
-            },
-            {
-                "domain": "ebaycareers",
-                "confidence": 1
-            },
-            {
-                "domain": "mercadolivre",
-                "confidence": 1
-            },
-            {
-                "domain": "mercadolibre",
-                "confidence": 2
-            },
-            {
-                "domain": "ebay",
-                "confidence": 23
+                "confidence": 3,
+                "domain": "ebay"
             }
         ],
+        "log_cnt-w_duc": "",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "paypal"
+            },
+            {
+                "confidence": 1,
+                "domain": "theebayshop"
+            },
+            {
+                "confidence": 1,
+                "domain": "ebaycareers"
+            },
+            {
+                "confidence": 1,
+                "domain": "mercadolivre"
+            },
+            {
+                "confidence": 2,
+                "domain": "mercadolibre"
+            },
+            {
+                "confidence": 23,
+                "domain": "ebay"
+            }
+        ],
+        "log_ecnt-w_duc": "",
         "log_cnt-pow_w_duc": "",
-        "log_cnt_idf_detail": [],
-        "log_ecnt_log_idf_log_tidf_detail": [],
-        "tf_log_idf_detail": [],
+        "cnt-pow_w_duc": "",
+        "src_revert": "ebay",
         "ttf_w_duc_detail": [],
-        "cnt-pow_w_duc_detail": [],
-        "log_cnt-pow4_w_duc_detail": [],
-        "ettf_w_duc": "",
-        "log_ecnt_idf_detail": [],
-        "ttf_w_duc": "",
+        "log_cnt_idf_log_tidf_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt_idf_detail": [],
         "plain_domain": "paypal",
         "domain_keywords_detail": [
             {
-                "domain": "ebay",
-                "confidence": 6028097231.09502
+                "confidence": 6028097231.09502,
+                "domain": "ebay"
             }
         ],
-        "cnt-pow_w_duc": "",
-        "cnt-pow4_w_duc": "",
         "log_cnt-pow_w_duc_detail": [],
-        "ettf_w_duc_detail": [],
-        "log_ecnt-w_duc_detail": [],
+        "domain_keywords": "ebay",
         "log_cnt_idf": "",
-        "tf_log_idf": "",
-        "src_revert_detail": [
-            {
-                "domain": "ebay",
-                "confidence": 3
-            }
-        ],
-        "log_ecnt_log_idf_log_tidf": "",
-        "log_cnt-w_duc": "",
-        "cnt-pow4_w_duc_detail": [],
-        "idf": "",
-        "log_ecnt_idf_log_tidf": "",
-        "log_ecnt_idf_log_tidf_detail": [],
-        "src_revert": "ebay"
+        "log_ecnt_idf_log_tidf_detail": []
     },
-    "phish_score": 0,
-    "subject": "FPA NOTICE eBay Account Suspension Please review your account immediately ",
-    "list_unsubscribe_invalid_count": 0
+    "word_count": 557,
+    "html_td_tag_count": 56,
+    "rfcid_is_invalid": false,
+    "mime_root_type": "multipart/alternative",
+    "content": "CONTENT_DEFAULT",
+    "subject_word_count": 10,
+    "extractedTxtUrlsCardinality": 4,
+    "list_unsubscribe_http_count": 0,
+    "spfstatus": "NONE",
+    "first10words": " eBay New used electronics cars apparel collectibles sporting goods more at low prices A Frau",
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "evil_script",
+                "from_missmatch",
+                "html_a_href_camouflaging",
+                "foreign_message_id",
+                "long_subject"
+            ],
+            "subscores": [
+                1,
+                0.1,
+                0.0,
+                0.1,
+                0.1,
+                0.5
+            ],
+            "score": 1.8
+        }
+    ],
+    "html_in_text_plain_count": 0,
+    "extractedHrefUrlsCardinality": 50,
+    "extractedTxtUrlsTotalCount": 4,
+    "pepca": "pd920cf464f2534e8",
+    "mime_children_count": 1,
+    "spfstatus_hfrom": "SPF_SOFTFAIL"
 }

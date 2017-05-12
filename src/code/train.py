@@ -25,9 +25,13 @@ RES_PATH = os.path.join(SRC_PATH,"../../results")
 parser = ShowHelpOnErrorParser()
 parser.add_argument("data", type=str,
                     help="data to use, from directory: <{0}>".format(DATA_PATH))
+parser.add_argument("-x", "--dontAddUrlFeatures", action="count", default=0,
+                    help="data to use, from directory: <{0}>".format(DATA_PATH))
 opt = parser.parse_args()
 
 SUFFIX = "_" + opt.data 
+if opt.dontAddUrlFeatures:
+    SUFFIX += "X"
 DATA_VERSION = opt.data
 PATH = os.path.join(DATA_PATH, DATA_VERSION)
 if not os.path.exists(PATH):
@@ -43,17 +47,18 @@ def load_data():
                 phish = d.get("phishing", {})
                 if "suspicious_links" in phish:
                     phish.pop("suspicious_links")
-                phish.update({
-                    "extractedHrefUrlsDomainCount":
-                        d.get("extractedHrefUrlsDomainCount", 0),
-                    "extractedHrefUrlsTotalCount":
-                        d.get("extractedHrefUrlsTotalCount", 0),
-                    "extractedSrcUrlsDomainCount":
-                        d.get("extractedSrcUrlsDomainCount", 0),
-                    "extractedSrcUrlsTotalCount":
-                        d.get("extractedSrcUrlsTotalCount", 0),
-                    "word_count": d.get("word_count", 0),
-                })
+                if not opt.dontAddUrlFeatures:
+                    phish.update({
+                        "extractedHrefUrlsDomainCount":
+                            d.get("extractedHrefUrlsDomainCount", 0),
+                        "extractedHrefUrlsTotalCount":
+                            d.get("extractedHrefUrlsTotalCount", 0),
+                        "extractedSrcUrlsDomainCount":
+                            d.get("extractedSrcUrlsDomainCount", 0),
+                        "extractedSrcUrlsTotalCount":
+                            d.get("extractedSrcUrlsTotalCount", 0),
+                        "word_count": d.get("word_count", 0),
+                    })
                 data.append((phish, cls))
             except Exception as e:
                 print(e, file=sys.stderr)

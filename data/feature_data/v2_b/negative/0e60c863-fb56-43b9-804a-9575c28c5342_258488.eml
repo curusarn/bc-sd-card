@@ -1,262 +1,150 @@
 {
+    "spf_domain_policy": "UNKNOWN",
+    "subject_word_count": 4,
+    "last10words": "m o Vasi maximalni spokojenost S pozdravem Vase DEDRA Copyright 2011 Dedra Vsechna prava vyhrazena ",
+    "spfstatus": "NONE",
+    "header_from": "objednavky@dedra.cz",
+    "dkim_passed_count": 1,
+    "header_total_count": 14,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "pef797b6099e8996b"
+        },
+        {
+            "name": "att-pepca",
+            "value": "pc7530c26e7173a5b"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p5e93045d6378dbe0"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p0ce4103e95bda609"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p6f923148f63382b2"
+        },
+        {
+            "name": "pepca",
+            "value": "p60df095ec8e3dc8a"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pade9040b1e1c5c5f"
+        }
+    ],
+    "self_send": 0,
+    "header_from_count": 1,
+    "phish_score": 0,
+    "html_in_text_plain_count": 0,
+    "extractedSrcUrlsTotalCount": 5,
+    "rcpts_count": 1,
+    "extractedEmails": [],
+    "precedence": 3,
+    "spf_dom_policy_registry": "Policy not found",
+    "dkim_hfrom_match": 1,
+    "list_unsubscribe_total_count": 0,
+    "ahref_total_count": 0,
+    "extractedEmailsDomainCount": 0,
+    "html_td_tag_count": 166,
+    "spamtrap_hit": false,
+    "dkselector": "mail",
+    "lang": "cs",
+    "list_unsubscribe_http_count": 0,
+    "extractedEmailsCardinality": 0,
+    "header_reply_to_count": 0,
+    "extractedEmailsTotalCount": 0,
+    "subject_image_count": 0,
+    "extractedSrcUrlsCardinality": 5,
+    "dkim_signs_cnt": 1,
+    "pepca_style": "",
+    "html_script_tag_count": 0,
+    "extractedHrefUrlsCardinality": 3,
+    "adscore": 0,
+    "extractedHrefUrlsTotalCount": 3,
+    "content": "CONTENT_DEFAULT",
+    "rfcid_length": 23,
+    "first10words": " Najdete nas na techto socialnich sitich Dobry den dekujeme Vam za Vasi objednavk",
+    "pepca_inline_style_total": 0,
+    "dkim_count": 1,
+    "subject": "DEDRA INNOVATIONS prijeti objednavky",
+    "pepcatotal": 0,
+    "mime_root_type": "multipart/alternative",
+    "ahref_camouflage_count": 0,
+    "date_difference": -82874237,
+    "dk_statuses": [
+        {
+            "domain": "dedra.cz",
+            "selector": "mail",
+            "status": "PASS"
+        }
+    ],
+    "list_unsubscribe_mailto_count": 0,
+    "rfcid_is_foreign": 1,
+    "dkstatus": "PASS",
+    "mime_children_count": 2,
+    "extractedHrefUrlsDomainCount": 3,
+    "word_count": 569,
+    "list_unsubscribe_invalid_count": 0,
+    "mime_children_types": [
+        "text/plain",
+        "multipart/related"
+    ],
     "notches": [
         {
+            "score": 1.1,
             "subscores": [
                 1,
                 0.0,
                 0.1
             ],
-            "score": 1.1,
-            "module": "ill",
             "name": [
                 "date_in_past",
                 "from_missmatch",
                 "foreign_message_id"
-            ]
+            ],
+            "module": "ill"
         }
     ],
-    "rfcid_is_invalid": false,
-    "spfstatus": "NONE",
-    "mime_root_type": "multipart/alternative",
-    "header_from_count": 1,
-    "now": 1494598208,
-    "dkim_efrom_match": 0,
-    "pepca_inline_style_total": 0,
-    "rcpts_count": 1,
-    "extractedEmailsTotalCount": 0,
-    "pepca_inline_style": "pade9040b1e1c5c5f",
-    "pepca_style_total": 0,
-    "dkselector": "mail",
-    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/258488.eml",
-    "html_td_tag_count": 166,
-    "extractedHrefUrlsCardinality": 3,
-    "list_unsubscribe_mailto_count": 0,
-    "subject_word_count": 4,
-    "lang": "cs",
-    "precedence": 3,
-    "phishing": {
-        "num_html_script_tags": 0,
-        "num_text_forms": 7,
-        "fake_https": 0,
-        "is_html": true,
-        "num_non_80_port_urls": 0,
-        "num_https_urls": 0,
-        "num_of_chars": 2826,
-        "num_param_phish": 0,
-        "text_and_href": 0,
-        "body_richness": 0.20127343473647,
-        "text_link_with_path": 0,
-        "max_num_slashes_urls": 2,
-        "num_shortened_urls": 0,
-        "num_sender_diff_url": 2,
-        "num_ip_urls": 0,
-        "num_black_sheep_link": -1,
-        "subject_richness": 0.0909090909090909,
-        "num_tld_in_url_path": 0,
-        "subject_phish_keywords": 0,
-        "num_black_sheep_link_global": -1,
-        "num_black_sheep_link_phish": 0,
-        "num_path_phish": 0,
-        "suspicious_links": [],
-        "html_form": 0,
-        "num_phish_keywords": 0,
-        "num_subdomain_phish": 0,
-        "num_domain_phish": 0,
-        "ner_domain_detected": false,
-        "camouflage": 0,
-        "num_freehost_urls": 0,
-        "num_external_links": 3,
-        "max_num_dots_urls": 3,
-        "num_www_in_url_path": 0
-    },
     "spf_status_registry": "Status not found",
-    "rfcid_is_foreign": 1,
-    "from_match": 0,
-    "first10words": " Najdete nas na techto socialnich sitich Dobry den dekujeme Vam za Vasi objednavk",
-    "spf_domain_policy": "UNKNOWN",
-    "header_total_count": 14,
-    "dkim_passed_count": 1,
-    "dkim_signs_cnt": 1,
-    "mime_children_types": [
-        "text/plain",
-        "multipart/related"
-    ],
-    "ahref_verbal_count": 0,
-    "subject_image_count": 0,
-    "phish_score": 0,
-    "self_send": 0,
-    "dkstatus": "PASS",
-    "phashes": [
-        {
-            "value": "pef797b6099e8996b",
-            "name": "att-pepca"
-        },
-        {
-            "value": "pc7530c26e7173a5b",
-            "name": "att-pepca"
-        },
-        {
-            "value": "p5e93045d6378dbe0",
-            "name": "att-pepca"
-        },
-        {
-            "value": "p0ce4103e95bda609",
-            "name": "att-pepca"
-        },
-        {
-            "value": "p6f923148f63382b2",
-            "name": "att-pepca"
-        },
-        {
-            "value": "p60df095ec8e3dc8a",
-            "name": "pepca"
-        },
-        {
-            "value": "pade9040b1e1c5c5f",
-            "name": "pepca_inline_style"
-        }
-    ],
-    "extractedHrefUrlsTotalCount": 3,
-    "dkdomain": "dedra.cz",
-    "html_tr_tag_count": 50,
-    "html_tag_total_count": 283,
-    "mime_children_count": 2,
-    "spamtrap_hit": false,
-    "extractedEmailsDomainCount": 0,
-    "extractedEmails": [],
-    "dk_statuses": [
-        {
-            "selector": "mail",
-            "status": "PASS",
-            "domain": "dedra.cz"
-        }
-    ],
-    "extractedSrcUrlsCardinality": 5,
-    "senders": {
-        "log_cnt_idf_detail": [],
-        "log_ecnt_idf_detail": [],
-        "tf_log_idf": "",
-        "log_cnt-pow4_w_duc": "",
-        "log_ecnt_idf_log_tidf_detail": [],
-        "cnt-pow_w_duc_detail": [],
-        "cnt-pow_w_duc": "",
-        "log_ecnt-w_duc_detail": [],
-        "idf": "",
-        "cnt-pow4_w_duc_detail": [],
-        "ttf_w_duc_detail": [],
-        "ettf_w_duc_detail": [],
-        "log_cnt-w_duc": "",
-        "src_revert": "",
-        "log_cnt_idf_log_tidf_detail": [],
-        "log_cnt_idf_log_tidf": "",
-        "log_cnt-pow4_w_duc_detail": [],
-        "log_cnt-pow_w_duc": "",
-        "cnt-pow4_w_duc": "",
-        "plain_domain": "dedra",
-        "src_revert_detail": [],
-        "log_ecnt_log_idf_log_tidf": "",
-        "log_ecnt_idf_log_tidf": "",
-        "log_cnt-pow_w_duc_detail": [],
-        "ttf_w_duc": "",
-        "plain_domain_detail": [
-            {
-                "confidence": 1,
-                "domain": "dedra"
-            }
-        ],
-        "log_ecnt_idf": "",
-        "tf_log_idf_detail": [],
-        "ettf_w_duc": "",
-        "idf_detail": [],
-        "log_ecnt_log_idf_log_tidf_detail": [],
-        "domain_keywords_detail": [
-            {
-                "confidence": 25491228.990176,
-                "domain": "masterinter"
-            }
-        ],
-        "domain_keywords": "masterinter",
-        "log_cnt-w_duc_detail": [],
-        "log_ecnt-w_duc": "",
-        "log_cnt_idf": ""
+    "phishing": {
+        "is_html": true,
+        "num_subdomain_phish": 0,
+        "body_richness": 0.20127343473647,
+        "num_domain_phish": 0,
+        "num_https_urls": 0,
+        "text_link_with_path": 0,
+        "num_text_forms": 7,
+        "num_phish_keywords": 0,
+        "num_external_links": 3,
+        "num_non_80_port_urls": 0,
+        "subject_richness": 0.0909090909090909,
+        "num_black_sheep_link": -1,
+        "num_freehost_urls": 0,
+        "num_sender_diff_url": 2,
+        "max_num_dots_urls": 3,
+        "fake_https": 0,
+        "suspicious_links": [],
+        "ner_domain_detected": false,
+        "num_black_sheep_link_global": -1,
+        "max_num_slashes_urls": 2,
+        "num_param_phish": 0,
+        "num_www_in_url_path": 0,
+        "text_and_href": 0,
+        "num_path_phish": 0,
+        "camouflage": 0,
+        "subject_phish_keywords": 0,
+        "num_html_script_tags": 0,
+        "num_black_sheep_link_phish": 0,
+        "num_shortened_urls": 0,
+        "num_of_chars": 2826,
+        "num_ip_urls": 0,
+        "html_form": 0,
+        "num_tld_in_url_path": 0
     },
-    "spamscore": 1.1,
-    "ahref_total_count": 0,
-    "extractedEmailsCardinality": 0,
-    "extractedSrcUrlsTotalCount": 5,
-    "dkim_count": 1,
-    "adscore": 0,
-    "pepca": "p60df095ec8e3dc8a",
-    "html_script_tag_count": 0,
-    "date_difference": -82874237,
-    "html_in_text_plain_count": 0,
-    "pepca_style": "",
-    "word_count": 569,
-    "rfcid_length": 23,
-    "spf_dom_policy_registry": "Policy not found",
-    "pepcatotal": 0,
-    "last10words": "m o Vasi maximalni spokojenost S pozdravem Vase DEDRA Copyright 2011 Dedra Vsechna prava vyhrazena ",
-    "extractedHrefUrls": [
-        "http://www.dedra.cz/",
-        "http://twitter.com/#!/VaseDEDRA",
-        "http://www.facebook.com/vase.dedra"
-    ],
-    "spfstatus_hfrom": "SPF_NEUTRAL",
-    "header_reply_to_count": 0,
-    "dkim_hfrom_match": 1,
-    "attachments": [
-        {
-            "mime_type": "image/png",
-            "cte": "BASE64",
-            "flags": 0,
-            "pepca": "pef797b6099e8996b",
-            "cid": "b8mfznf9av@www.dedra.cz",
-            "sumphash": "42a0759840a0975f8ecbbe9f9ada6cac",
-            "size": 287,
-            "name": "mainbody-bottom.png"
-        },
-        {
-            "mime_type": "image/png",
-            "cte": "BASE64",
-            "flags": 0,
-            "pepca": "pc7530c26e7173a5b",
-            "cid": "ca9ef88dr6@www.dedra.cz",
-            "sumphash": "a24632d8dc693ab1f2d21b2a81365ee3",
-            "size": 2061,
-            "name": "facebook.png"
-        },
-        {
-            "mime_type": "image/png",
-            "cte": "BASE64",
-            "flags": 0,
-            "pepca": "p5e93045d6378dbe0",
-            "cid": "58mlenr4qd@www.dedra.cz",
-            "sumphash": "39e903b43adf49d902ea1a768b9b41e7",
-            "size": 2049,
-            "name": "twitter.png"
-        },
-        {
-            "mime_type": "image/png",
-            "cte": "BASE64",
-            "flags": 0,
-            "pepca": "p0ce4103e95bda609",
-            "cid": "2fmyc7009g@www.dedra.cz",
-            "sumphash": "0dabe0a7e113482013e780c6eeedbdc3",
-            "size": 5774,
-            "name": "main-logo.png"
-        },
-        {
-            "mime_type": "image/png",
-            "cte": "BASE64",
-            "flags": 0,
-            "pepca": "p6f923148f63382b2",
-            "cid": "ixgq1jy8wk@www.dedra.cz",
-            "sumphash": "5f58ebd90ec63b45c6708f697482f931",
-            "size": 282,
-            "name": "mainbody-top.png"
-        }
-    ],
-    "content": "CONTENT_DEFAULT",
     "extractedSrcUrls": [
         "cid:ixgq1jy8wk@www.dedra.cz",
         "cid:2fmyc7009g@www.dedra.cz",
@@ -264,12 +152,124 @@
         "cid:ca9ef88dr6@www.dedra.cz",
         "cid:b8mfznf9av@www.dedra.cz"
     ],
-    "list_unsubscribe_http_count": 0,
-    "extractedHrefUrlsDomainCount": 3,
-    "subject": "DEDRA INNOVATIONS prijeti objednavky",
-    "list_unsubscribe_total_count": 0,
+    "from_match": 0,
+    "html_tr_tag_count": 50,
+    "senders": {
+        "log_cnt-w_duc_detail": [],
+        "idf_detail": [],
+        "log_ecnt_idf_detail": [],
+        "domain_keywords": "masterinter",
+        "log_cnt-pow_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "src_revert": "",
+        "ttf_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "domain": "masterinter",
+                "confidence": 25491228.990176
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_cnt_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-w_duc": "",
+        "log_ecnt-w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "tf_log_idf": "",
+        "log_cnt_idf": "",
+        "log_ecnt_idf": "",
+        "idf": "",
+        "src_revert_detail": [],
+        "plain_domain_detail": [
+            {
+                "domain": "dedra",
+                "confidence": 1
+            }
+        ],
+        "cnt-pow_w_duc_detail": [],
+        "plain_domain": "dedra",
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "tf_log_idf_detail": []
+    },
+    "pepca": "p60df095ec8e3dc8a",
+    "rfcid_is_invalid": false,
     "extractedSrcUrlsDomainCount": 0,
-    "ahref_camouflage_count": 0,
-    "list_unsubscribe_invalid_count": 0,
-    "header_from": "objednavky@dedra.cz"
+    "dkdomain": "dedra.cz",
+    "ahref_verbal_count": 0,
+    "now": 1494598208,
+    "spfstatus_hfrom": "SPF_NEUTRAL",
+    "pepca_inline_style": "pade9040b1e1c5c5f",
+    "pepca_style_total": 0,
+    "spamscore": 1.1,
+    "dkim_efrom_match": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/258488.eml",
+    "attachments": [
+        {
+            "pepca": "pef797b6099e8996b",
+            "cte": "BASE64",
+            "name": "mainbody-bottom.png",
+            "size": 287,
+            "flags": 0,
+            "cid": "b8mfznf9av@www.dedra.cz",
+            "sumphash": "42a0759840a0975f8ecbbe9f9ada6cac",
+            "mime_type": "image/png"
+        },
+        {
+            "pepca": "pc7530c26e7173a5b",
+            "cte": "BASE64",
+            "name": "facebook.png",
+            "size": 2061,
+            "flags": 0,
+            "cid": "ca9ef88dr6@www.dedra.cz",
+            "sumphash": "a24632d8dc693ab1f2d21b2a81365ee3",
+            "mime_type": "image/png"
+        },
+        {
+            "pepca": "p5e93045d6378dbe0",
+            "cte": "BASE64",
+            "name": "twitter.png",
+            "size": 2049,
+            "flags": 0,
+            "cid": "58mlenr4qd@www.dedra.cz",
+            "sumphash": "39e903b43adf49d902ea1a768b9b41e7",
+            "mime_type": "image/png"
+        },
+        {
+            "pepca": "p0ce4103e95bda609",
+            "cte": "BASE64",
+            "name": "main-logo.png",
+            "size": 5774,
+            "flags": 0,
+            "cid": "2fmyc7009g@www.dedra.cz",
+            "sumphash": "0dabe0a7e113482013e780c6eeedbdc3",
+            "mime_type": "image/png"
+        },
+        {
+            "pepca": "p6f923148f63382b2",
+            "cte": "BASE64",
+            "name": "mainbody-top.png",
+            "size": 282,
+            "flags": 0,
+            "cid": "ixgq1jy8wk@www.dedra.cz",
+            "sumphash": "5f58ebd90ec63b45c6708f697482f931",
+            "mime_type": "image/png"
+        }
+    ],
+    "html_tag_total_count": 283,
+    "extractedHrefUrls": [
+        "http://www.dedra.cz/",
+        "http://twitter.com/#!/VaseDEDRA",
+        "http://www.facebook.com/vase.dedra"
+    ]
 }

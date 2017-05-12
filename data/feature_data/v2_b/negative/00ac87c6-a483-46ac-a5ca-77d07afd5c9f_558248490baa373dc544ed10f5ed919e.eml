@@ -1,215 +1,215 @@
 {
-    "notches": [
+    "spf_domain_policy": "UNKNOWN",
+    "subject_word_count": 4,
+    "last10words": "rzovaci odkaz nize V pripade dotazu prosim kontaktujte marianka mackova clovekvtisni cz ",
+    "spfstatus": "NONE",
+    "header_from": "marianka.mackova@clovekvtisni.cz",
+    "dkim_passed_count": 2,
+    "header_total_count": 22,
+    "phashes": [
         {
-            "subscores": [
-                1,
-                0.0
-            ],
-            "score": 1,
-            "module": "ill",
-            "name": [
-                "date_in_past",
-                "from_missmatch"
-            ]
+            "name": "pepca",
+            "value": "pd23133fbffba7ba3"
+        },
+        {
+            "name": "pepca_style",
+            "value": "p25dfe2e5dd31555e"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p53096da2e912d87d"
         }
     ],
-    "rfcid_is_invalid": false,
-    "spfstatus": "NONE",
-    "mime_root_type": "multipart/alternative",
+    "self_send": 0,
     "header_from_count": 1,
-    "now": 1494598270,
-    "dkim_efrom_match": 0,
-    "pepca_inline_style_total": 0,
+    "phish_score": 0,
+    "html_in_text_plain_count": 0,
+    "extractedSrcUrlsTotalCount": 1,
     "rcpts_count": 1,
-    "extractedEmailsTotalCount": 1,
-    "pepca_inline_style": "p53096da2e912d87d",
-    "pepca_style_total": 0,
-    "dkselector": "mandrill",
-    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/558248490baa373dc544ed10f5ed919e.eml",
-    "html_td_tag_count": 14,
-    "extractedHrefUrlsCardinality": 2,
-    "list_unsubscribe_mailto_count": 0,
-    "subject_word_count": 4,
-    "lang": "cs",
+    "extractedEmails": [
+        "marianka.mackova@clovekvtisni.cz"
+    ],
     "precedence": 3,
-    "phishing": {
-        "num_html_script_tags": 0,
-        "num_text_forms": 7,
-        "fake_https": 0,
-        "is_html": true,
-        "num_non_80_port_urls": 0,
-        "num_https_urls": 0,
-        "num_of_chars": 408,
-        "num_param_phish": 0,
-        "text_and_href": 0,
-        "body_richness": 0.268948655256724,
-        "text_link_with_path": 0,
-        "max_num_slashes_urls": 2,
-        "num_shortened_urls": 0,
-        "num_sender_diff_url": 2,
-        "num_ip_urls": 0,
-        "num_black_sheep_link": -1,
-        "subject_richness": 0.111111111111111,
-        "num_tld_in_url_path": 0,
-        "subject_phish_keywords": 1,
-        "num_black_sheep_link_global": -1,
-        "num_black_sheep_link_phish": 0,
-        "num_path_phish": 0,
-        "suspicious_links": [],
-        "html_form": 0,
-        "num_phish_keywords": 2,
-        "num_subdomain_phish": 0,
-        "num_domain_phish": 0,
-        "ner_domain_detected": false,
-        "camouflage": 0,
-        "num_freehost_urls": 0,
-        "num_external_links": 3,
-        "max_num_dots_urls": 3,
-        "num_www_in_url_path": 0
-    },
-    "spf_status_registry": "Status not found",
-    "rfcid_is_foreign": 0,
-    "from_match": 0,
-    "first10words": " Registrace CZ Registrace CZ Potvrdte registraci Kliknete zde pro potvrzeni Vasi registrace Pokud",
-    "spf_domain_policy": "UNKNOWN",
-    "header_total_count": 22,
-    "dkim_passed_count": 2,
+    "spf_dom_policy_registry": "Policy not found",
+    "dkim_hfrom_match": 0,
+    "list_unsubscribe_total_count": 0,
+    "ahref_total_count": 2,
+    "extractedEmailsDomainCount": 1,
+    "html_td_tag_count": 14,
+    "spamtrap_hit": false,
+    "dkselector": "mandrill",
+    "lang": "cs",
+    "list_unsubscribe_http_count": 0,
+    "extractedEmailsCardinality": 1,
+    "header_reply_to_count": 0,
+    "extractedEmailsTotalCount": 1,
+    "subject_image_count": 0,
+    "extractedSrcUrlsCardinality": 1,
     "dkim_signs_cnt": 2,
+    "unsub_link": "http://www.mailchimp.com/monkey-rewards/?utm_source=freemium_newsletter&utm_medium=email&utm_campaign=monkey_rewards&aid=e58391945e1bb4db103b7b59f&afl=1",
+    "pepca_style": "p25dfe2e5dd31555e",
+    "html_script_tag_count": 0,
+    "extractedHrefUrlsCardinality": 2,
+    "adscore": 0,
+    "extractedHrefUrlsTotalCount": 2,
+    "content": "CONTENT_DEFAULT",
+    "rfcid_length": 65,
+    "first10words": " Registrace CZ Registrace CZ Potvrdte registraci Kliknete zde pro potvrzeni Vasi registrace Pokud",
+    "pepca_inline_style_total": 0,
+    "dkim_count": 2,
+    "subject": "Registrace CZ Potvrdte registraci",
+    "unsub_link_texts": [
+        " email marketing powered by mailchimp mailchimp email marketing "
+    ],
+    "pepcatotal": 0,
+    "mime_root_type": "multipart/alternative",
+    "ahref_camouflage_count": 0,
+    "date_difference": -79818550,
+    "dk_statuses": [
+        {
+            "domain": "mail5.mcsignup.com",
+            "selector": "mandrill",
+            "status": "PASS"
+        },
+        {
+            "domain": "mandrillapp.com",
+            "selector": "mandrill",
+            "status": "PASS"
+        }
+    ],
+    "list_unsubscribe_mailto_count": 0,
+    "rfcid_is_foreign": 0,
+    "dkstatus": "PASS",
+    "mime_children_count": 2,
+    "extractedHrefUrlsDomainCount": 2,
+    "word_count": 110,
+    "list_unsubscribe_invalid_count": 0,
     "mime_children_types": [
         "text/plain",
         "text/html"
     ],
-    "ahref_verbal_count": 1,
-    "subject_image_count": 0,
-    "phish_score": 0,
-    "self_send": 0,
-    "dkstatus": "PASS",
-    "unsub_link_texts": [
-        " email marketing powered by mailchimp mailchimp email marketing "
-    ],
-    "phashes": [
+    "notches": [
         {
-            "value": "pd23133fbffba7ba3",
-            "name": "pepca"
-        },
-        {
-            "value": "p25dfe2e5dd31555e",
-            "name": "pepca_style"
-        },
-        {
-            "value": "p53096da2e912d87d",
-            "name": "pepca_inline_style"
+            "score": 1,
+            "subscores": [
+                1,
+                0.0
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "module": "ill"
         }
     ],
-    "extractedHrefUrlsTotalCount": 2,
-    "dkdomain": "mail5.mcsignup.com",
+    "spf_status_registry": "Status not found",
+    "phishing": {
+        "is_html": true,
+        "num_subdomain_phish": 0,
+        "body_richness": 0.268948655256724,
+        "num_domain_phish": 0,
+        "num_https_urls": 0,
+        "text_link_with_path": 0,
+        "num_text_forms": 7,
+        "num_phish_keywords": 2,
+        "num_external_links": 3,
+        "num_non_80_port_urls": 0,
+        "subject_richness": 0.111111111111111,
+        "num_black_sheep_link": -1,
+        "num_freehost_urls": 0,
+        "num_sender_diff_url": 2,
+        "max_num_dots_urls": 3,
+        "fake_https": 0,
+        "suspicious_links": [],
+        "ner_domain_detected": false,
+        "num_black_sheep_link_global": -1,
+        "max_num_slashes_urls": 2,
+        "num_param_phish": 0,
+        "num_www_in_url_path": 0,
+        "text_and_href": 0,
+        "num_path_phish": 0,
+        "camouflage": 0,
+        "subject_phish_keywords": 1,
+        "num_html_script_tags": 0,
+        "num_black_sheep_link_phish": 0,
+        "num_shortened_urls": 0,
+        "num_of_chars": 408,
+        "num_ip_urls": 0,
+        "html_form": 0,
+        "num_tld_in_url_path": 0
+    },
+    "extractedSrcUrls": [
+        "http://cdn-images.mailchimp.com/monkey_rewards/MC_MonkeyReward_15.png"
+    ],
+    "from_match": 0,
     "html_tr_tag_count": 14,
-    "html_tag_total_count": 90,
-    "mime_children_count": 2,
-    "spamtrap_hit": false,
-    "extractedEmailsDomainCount": 1,
-    "extractedEmails": [
-        "marianka.mackova@clovekvtisni.cz"
-    ],
-    "dk_statuses": [
-        {
-            "selector": "mandrill",
-            "status": "PASS",
-            "domain": "mail5.mcsignup.com"
-        },
-        {
-            "selector": "mandrill",
-            "status": "PASS",
-            "domain": "mandrillapp.com"
-        }
-    ],
-    "extractedSrcUrlsCardinality": 1,
     "senders": {
-        "log_cnt_idf_detail": [],
+        "log_cnt-w_duc_detail": [],
+        "idf_detail": [],
         "log_ecnt_idf_detail": [],
-        "tf_log_idf": "",
-        "log_cnt-pow4_w_duc": "",
-        "log_ecnt_idf_log_tidf_detail": [],
-        "cnt-pow_w_duc_detail": [],
-        "cnt-pow_w_duc": "",
-        "log_ecnt-w_duc_detail": [],
-        "idf": "",
-        "cnt-pow4_w_duc_detail": [],
-        "ttf_w_duc_detail": [],
-        "ettf_w_duc_detail": [],
-        "log_cnt-w_duc": "",
-        "src_revert": "sam73",
-        "log_cnt_idf_log_tidf_detail": [],
-        "log_cnt_idf_log_tidf": "",
-        "log_cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "cbre",
         "log_cnt-pow_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "src_revert": "sam73",
+        "ttf_w_duc_detail": [],
         "cnt-pow4_w_duc": "",
-        "plain_domain": "",
-        "src_revert_detail": [
+        "domain_keywords_detail": [
             {
-                "confidence": 1,
-                "domain": "sam73"
+                "domain": "cbre",
+                "confidence": 4528769.10128
             }
         ],
         "log_ecnt_log_idf_log_tidf": "",
-        "log_ecnt_idf_log_tidf": "",
-        "log_cnt-pow_w_duc_detail": [],
-        "ttf_w_duc": "",
-        "plain_domain_detail": [],
-        "log_ecnt_idf": "",
-        "tf_log_idf_detail": [],
+        "log_cnt_idf_log_tidf": "",
         "ettf_w_duc": "",
-        "idf_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt-w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
         "log_ecnt_log_idf_log_tidf_detail": [],
-        "domain_keywords_detail": [
+        "tf_log_idf": "",
+        "log_cnt_idf": "",
+        "log_ecnt_idf": "",
+        "idf": "",
+        "src_revert_detail": [
             {
-                "confidence": 4528769.10128,
-                "domain": "cbre"
+                "domain": "sam73",
+                "confidence": 1
             }
         ],
-        "domain_keywords": "cbre",
-        "log_cnt-w_duc_detail": [],
-        "log_ecnt-w_duc": "",
-        "log_cnt_idf": ""
+        "plain_domain_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "plain_domain": "",
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "tf_log_idf_detail": []
     },
-    "spamscore": 1,
-    "ahref_total_count": 2,
-    "extractedEmailsCardinality": 1,
-    "extractedSrcUrlsTotalCount": 1,
-    "dkim_count": 2,
-    "adscore": 0,
     "pepca": "pd23133fbffba7ba3",
-    "unsub_link_candidates": [
-        "http://www.mailchimp.com/monkey-rewards/?utm_source=freemium_newsletter&utm_medium=email&utm_campaign=monkey_rewards&aid=e58391945e1bb4db103b7b59f&afl=1"
-    ],
-    "html_script_tag_count": 0,
-    "date_difference": -79818550,
-    "html_in_text_plain_count": 0,
-    "pepca_style": "p25dfe2e5dd31555e",
-    "word_count": 110,
-    "rfcid_length": 65,
-    "spf_dom_policy_registry": "Policy not found",
-    "pepcatotal": 0,
-    "last10words": "rzovaci odkaz nize V pripade dotazu prosim kontaktujte marianka mackova clovekvtisni cz ",
+    "rfcid_is_invalid": false,
+    "extractedSrcUrlsDomainCount": 1,
+    "dkdomain": "mail5.mcsignup.com",
+    "ahref_verbal_count": 1,
+    "now": 1494598270,
+    "spfstatus_hfrom": "SPF_FAIL",
+    "pepca_inline_style": "p53096da2e912d87d",
+    "pepca_style_total": 0,
+    "spamscore": 1,
+    "dkim_efrom_match": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/558248490baa373dc544ed10f5ed919e.eml",
+    "attachments": [],
+    "html_tag_total_count": 90,
     "extractedHrefUrls": [
         "http://zavasizanasi.us9.list-manage2.com/subscribe/confirm?u=e58391945e1bb4db103b7b59f&id=1bf34f56a2&e=48538c08ce",
         "http://www.mailchimp.com/monkey-rewards/?utm_source=freemium_newsletter&utm_medium=email&utm_campaign=monkey_rewards&aid=e583919"
     ],
-    "spfstatus_hfrom": "SPF_FAIL",
-    "header_reply_to_count": 0,
-    "dkim_hfrom_match": 0,
-    "attachments": [],
-    "content": "CONTENT_DEFAULT",
-    "extractedSrcUrls": [
-        "http://cdn-images.mailchimp.com/monkey_rewards/MC_MonkeyReward_15.png"
-    ],
-    "list_unsubscribe_http_count": 0,
-    "unsub_link": "http://www.mailchimp.com/monkey-rewards/?utm_source=freemium_newsletter&utm_medium=email&utm_campaign=monkey_rewards&aid=e58391945e1bb4db103b7b59f&afl=1",
-    "extractedHrefUrlsDomainCount": 2,
-    "subject": "Registrace CZ Potvrdte registraci",
-    "list_unsubscribe_total_count": 0,
-    "extractedSrcUrlsDomainCount": 1,
-    "ahref_camouflage_count": 0,
-    "list_unsubscribe_invalid_count": 0,
-    "header_from": "marianka.mackova@clovekvtisni.cz"
+    "unsub_link_candidates": [
+        "http://www.mailchimp.com/monkey-rewards/?utm_source=freemium_newsletter&utm_medium=email&utm_campaign=monkey_rewards&aid=e58391945e1bb4db103b7b59f&afl=1"
+    ]
 }

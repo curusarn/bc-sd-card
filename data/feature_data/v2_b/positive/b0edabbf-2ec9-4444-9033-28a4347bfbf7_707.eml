@@ -1,6 +1,54 @@
 {
+    "spf_domain_policy": "UNKNOWN",
+    "subject_word_count": 5,
+    "last10words": "A A A Security A A Terms of Use 2006 JPMorgan Chase Co ",
+    "spfstatus": "NONE",
+    "header_from": "survey@chase.com",
+    "dkim_passed_count": 0,
+    "header_total_count": 24,
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p73e49499a3ad415e"
+        },
+        {
+            "name": "pepca_style",
+            "value": "pa75b8292383240fb"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pf176d55d3fbc92ea"
+        }
+    ],
+    "self_send": 0,
+    "header_from_count": 1,
+    "phish_score": 0,
+    "html_in_text_plain_count": 0,
+    "extractedSrcUrlsTotalCount": 4,
+    "rcpts_count": 1,
+    "extractedEmails": [],
+    "spf_dom_policy_registry": "Policy not found",
+    "dkim_hfrom_match": 0,
+    "list_unsubscribe_total_count": 0,
+    "ahref_total_count": 5,
+    "extractedEmailsDomainCount": 0,
+    "html_td_tag_count": 38,
+    "spamtrap_hit": false,
+    "mime_children_types": [
+        "text/html"
+    ],
+    "extractedTxtUrlsCardinality": 2,
+    "dk_statuses": [
+        {
+            "status": "NEUTRAL",
+            "statusDetail": "NOT_SIGNED"
+        }
+    ],
+    "first10words": " Chase OnlineSM Survey Chase com A A Privacy Policy A Thursday March 30 2006 ",
+    "extractedEmailsCardinality": 0,
     "notches": [
         {
+            "score": 1.3,
             "subscores": [
                 1,
                 0.1,
@@ -8,215 +56,167 @@
                 0.1,
                 0.1
             ],
-            "score": 1.3,
-            "module": "ill",
             "name": [
                 "date_in_past",
                 "evil_script",
                 "from_missmatch",
                 "html_a_href_camouflaging",
                 "foreign_message_id"
-            ]
+            ],
+            "module": "ill"
         }
     ],
+    "date_difference": -350825965,
+    "extractedEmailsTotalCount": 0,
+    "subject_image_count": 0,
+    "extractedSrcUrlsCardinality": 4,
+    "dkim_signs_cnt": 1,
+    "pepca_style": "pa75b8292383240fb",
+    "html_script_tag_count": 2,
+    "extractedHrefUrlsCardinality": 6,
+    "adscore": 0,
+    "list_unsubscribe_http_count": 0,
+    "extractedHrefUrlsTotalCount": 6,
+    "content": "CONTENT_DEFAULT",
+    "rfcid_length": 32,
+    "extractedTxtUrlsDomainCount": 1,
+    "pepca_inline_style_total": 0,
+    "dkim_count": 0,
+    "subject": "Chase Online 25 Bonus Survey ",
+    "pepcatotal": 0,
+    "mime_root_type": "multipart/alternative",
+    "ahref_camouflage_count": 1,
+    "dkStatusDetail": "NOT_SIGNED",
+    "header_reply_to_count": 1,
+    "list_unsubscribe_mailto_count": 0,
+    "rfcid_is_foreign": 1,
+    "dkstatus": "NEUTRAL",
+    "mime_children_count": 1,
+    "extractedHrefUrlsDomainCount": 2,
+    "word_count": 296,
+    "list_unsubscribe_invalid_count": 0,
+    "precedence": 3,
     "extractedTxtUrls": [
         "http://Chase.com",
         "https://www.chase.com/cm/cs?pagename=Chase/Href&urlname=survey/cc/privacysecurity/"
     ],
-    "spfstatus": "NONE",
-    "mime_root_type": "multipart/alternative",
-    "header_from_count": 1,
-    "now": 1494597865,
-    "dkim_efrom_match": 0,
-    "pepca_inline_style_total": 0,
-    "rcpts_count": 1,
-    "extractedEmailsTotalCount": 0,
-    "pepca_inline_style": "pf176d55d3fbc92ea",
-    "pepca_style_total": 0,
-    "dkim_hfrom_match": 0,
-    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing2/707.eml",
-    "html_td_tag_count": 38,
-    "extractedHrefUrlsCardinality": 6,
-    "list_unsubscribe_mailto_count": 0,
-    "subject_word_count": 5,
-    "lang": "en",
-    "precedence": 3,
-    "phishing": {
-        "num_html_script_tags": 0,
-        "num_text_forms": 0,
-        "fake_https": 1,
-        "is_html": true,
-        "num_non_80_port_urls": 0,
-        "num_https_urls": 2,
-        "num_of_chars": 1229,
-        "num_param_phish": 0,
-        "text_and_href": 0,
-        "body_richness": 0.240650406504065,
-        "text_link_with_path": 1,
-        "max_num_slashes_urls": 6,
-        "num_shortened_urls": 0,
-        "num_sender_diff_url": 1,
-        "num_ip_urls": 0,
-        "num_black_sheep_link": -1,
-        "subject_richness": 0.161290322580645,
-        "num_tld_in_url_path": 0,
-        "subject_phish_keywords": 0,
-        "num_black_sheep_link_global": -1,
-        "num_black_sheep_link_phish": 0,
-        "num_path_phish": 0,
-        "suspicious_links": [],
-        "html_form": 0,
-        "num_phish_keywords": 6,
-        "num_subdomain_phish": 0,
-        "num_domain_phish": 0,
-        "ner_domain_detected": true,
-        "camouflage": 1,
-        "num_freehost_urls": 0,
-        "num_external_links": 9,
-        "max_num_dots_urls": 8,
-        "num_www_in_url_path": 0
-    },
     "spf_status_registry": "Status not found",
-    "rfcid_is_foreign": 1,
-    "from_match": 0,
-    "first10words": " Chase OnlineSM Survey Chase com A A Privacy Policy A Thursday March 30 2006 ",
-    "extractedTxtUrlsDomainCount": 1,
-    "spf_domain_policy": "UNKNOWN",
-    "header_total_count": 24,
-    "dkim_passed_count": 0,
-    "extractedTxtUrlsCardinality": 2,
-    "dkim_signs_cnt": 1,
-    "mime_children_types": [
-        "text/html"
-    ],
-    "ahref_verbal_count": 3,
-    "subject_image_count": 0,
-    "phish_score": 0,
-    "rfcid_is_invalid": false,
-    "dkstatus": "NEUTRAL",
-    "phashes": [
-        {
-            "value": "p73e49499a3ad415e",
-            "name": "pepca"
-        },
-        {
-            "value": "pa75b8292383240fb",
-            "name": "pepca_style"
-        },
-        {
-            "value": "pf176d55d3fbc92ea",
-            "name": "pepca_inline_style"
-        }
-    ],
+    "lang": "en",
     "extractedTxtUrlsTotalCount": 2,
-    "self_send": 0,
-    "attachments": [],
-    "html_tr_tag_count": 24,
-    "extractedEmails": [],
-    "html_tag_total_count": 179,
-    "mime_children_count": 1,
-    "spamtrap_hit": false,
-    "extractedEmailsDomainCount": 0,
-    "extractedHrefUrlsTotalCount": 6,
-    "extractedSrcUrlsCardinality": 4,
-    "spamscore": 1.3,
-    "ahref_total_count": 5,
-    "extractedEmailsCardinality": 0,
-    "extractedSrcUrlsTotalCount": 4,
-    "dkim_count": 0,
-    "adscore": 0,
-    "pepca": "p73e49499a3ad415e",
-    "dkStatusDetail": "NOT_SIGNED",
-    "html_script_tag_count": 2,
-    "date_difference": -350825965,
-    "html_in_text_plain_count": 0,
-    "pepca_style": "pa75b8292383240fb",
-    "word_count": 296,
-    "rfcid_length": 32,
-    "spf_dom_policy_registry": "Policy not found",
-    "pepcatotal": 0,
-    "last10words": "A A A Security A A Terms of Use 2006 JPMorgan Chase Co ",
-    "extractedHrefUrls": [
-        "javascript: void(0);",
-        "http://www.chase.com/",
-        "http://www.chase.com/pages/privacy",
-        "http://www.marketchallenge.aol.ca/ams/clickThruRedirect.adp?0,0x0,http://211.216.162.123/mc/cs/index.php",
-        "http://www.chase.com/cm/cs?pagename=Chase/Href&urlname=chase/cc/terms"
-    ],
-    "spfstatus_hfrom": "SPF_FAIL",
-    "header_reply_to_count": 1,
-    "senders": {
-        "log_cnt_idf_detail": [],
-        "log_ecnt_idf_detail": [],
-        "tf_log_idf": "",
-        "log_cnt-pow4_w_duc": "",
-        "log_ecnt_idf_log_tidf_detail": [],
-        "cnt-pow_w_duc_detail": [],
-        "cnt-pow_w_duc": "",
-        "log_ecnt-w_duc_detail": [],
-        "idf": "",
-        "cnt-pow4_w_duc_detail": [],
-        "ttf_w_duc_detail": [],
-        "ettf_w_duc_detail": [],
-        "log_cnt-w_duc": "",
-        "src_revert": "chase",
-        "log_cnt_idf_log_tidf_detail": [],
-        "log_cnt_idf_log_tidf": "",
-        "log_cnt-pow4_w_duc_detail": [],
-        "log_cnt-pow_w_duc": "",
-        "cnt-pow4_w_duc": "",
-        "plain_domain": "chase",
-        "src_revert_detail": [
-            {
-                "confidence": 2,
-                "domain": "chase"
-            }
-        ],
-        "log_ecnt_log_idf_log_tidf": "",
-        "log_ecnt_idf_log_tidf": "",
-        "log_cnt-pow_w_duc_detail": [],
-        "ttf_w_duc": "",
-        "plain_domain_detail": [
-            {
-                "confidence": 2,
-                "domain": "chase"
-            }
-        ],
-        "log_ecnt_idf": "",
-        "tf_log_idf_detail": [],
-        "ettf_w_duc": "",
-        "idf_detail": [],
-        "log_ecnt_log_idf_log_tidf_detail": [],
-        "domain_keywords_detail": [
-            {
-                "confidence": 160761425.647,
-                "domain": "clamav"
-            }
-        ],
-        "domain_keywords": "clamav",
-        "log_cnt-w_duc_detail": [],
-        "log_ecnt-w_duc": "",
-        "log_cnt_idf": ""
+    "phishing": {
+        "is_html": true,
+        "num_subdomain_phish": 0,
+        "body_richness": 0.240650406504065,
+        "num_domain_phish": 0,
+        "num_https_urls": 2,
+        "text_link_with_path": 1,
+        "num_text_forms": 0,
+        "num_phish_keywords": 6,
+        "num_external_links": 9,
+        "num_non_80_port_urls": 0,
+        "subject_richness": 0.161290322580645,
+        "num_black_sheep_link": -1,
+        "num_freehost_urls": 0,
+        "num_sender_diff_url": 1,
+        "max_num_dots_urls": 8,
+        "fake_https": 1,
+        "suspicious_links": [],
+        "ner_domain_detected": true,
+        "num_black_sheep_link_global": -1,
+        "max_num_slashes_urls": 6,
+        "num_param_phish": 0,
+        "num_www_in_url_path": 0,
+        "text_and_href": 0,
+        "num_path_phish": 0,
+        "camouflage": 1,
+        "subject_phish_keywords": 0,
+        "num_html_script_tags": 0,
+        "num_black_sheep_link_phish": 0,
+        "num_shortened_urls": 0,
+        "num_of_chars": 1229,
+        "num_ip_urls": 0,
+        "html_form": 0,
+        "num_tld_in_url_path": 0
     },
-    "dk_statuses": [
-        {
-            "statusDetail": "NOT_SIGNED",
-            "status": "NEUTRAL"
-        }
-    ],
-    "content": "CONTENT_DEFAULT",
     "extractedSrcUrls": [
         "http://www.chase.com/ccpmweb/shared/image/chaseNewlogo.gif",
         "sso_logoff_conf.jsp_files/spacer_002.gif",
         "https://chaseonline.chase.com/echaseweb/common/images/chase_online.gif",
         "sso_logoff_conf.jsp_files/spacer.gif"
     ],
-    "list_unsubscribe_http_count": 0,
-    "extractedHrefUrlsDomainCount": 2,
-    "subject": "Chase Online 25 Bonus Survey ",
-    "list_unsubscribe_total_count": 0,
+    "from_match": 0,
+    "html_tr_tag_count": 24,
+    "senders": {
+        "log_cnt-w_duc_detail": [],
+        "idf_detail": [],
+        "log_ecnt_idf_detail": [],
+        "domain_keywords": "clamav",
+        "log_cnt-pow_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "src_revert": "chase",
+        "ttf_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "domain": "clamav",
+                "confidence": 160761425.647
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_cnt_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-w_duc": "",
+        "log_ecnt-w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "tf_log_idf": "",
+        "log_cnt_idf": "",
+        "log_ecnt_idf": "",
+        "idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "chase",
+                "confidence": 2
+            }
+        ],
+        "plain_domain_detail": [
+            {
+                "domain": "chase",
+                "confidence": 2
+            }
+        ],
+        "cnt-pow_w_duc_detail": [],
+        "plain_domain": "chase",
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "tf_log_idf_detail": []
+    },
+    "pepca": "p73e49499a3ad415e",
+    "rfcid_is_invalid": false,
     "extractedSrcUrlsDomainCount": 1,
-    "ahref_camouflage_count": 1,
-    "list_unsubscribe_invalid_count": 0,
-    "header_from": "survey@chase.com"
+    "ahref_verbal_count": 3,
+    "now": 1494597865,
+    "spfstatus_hfrom": "SPF_FAIL",
+    "pepca_inline_style": "pf176d55d3fbc92ea",
+    "pepca_style_total": 0,
+    "spamscore": 1.3,
+    "dkim_efrom_match": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing2/707.eml",
+    "attachments": [],
+    "html_tag_total_count": 179,
+    "extractedHrefUrls": [
+        "javascript: void(0);",
+        "http://www.chase.com/",
+        "http://www.chase.com/pages/privacy",
+        "http://www.marketchallenge.aol.ca/ams/clickThruRedirect.adp?0,0x0,http://211.216.162.123/mc/cs/index.php",
+        "http://www.chase.com/cm/cs?pagename=Chase/Href&urlname=chase/cc/terms"
+    ]
 }

@@ -1,212 +1,147 @@
 {
+    "spf_domain_policy": "UNKNOWN",
+    "subject_word_count": 3,
+    "last10words": "or seznam cz Zrusit zasilani Massive Media Match NV Emile Braunplein 18 9000 Ghent Belgium BE0537240636 info cs twoo com ",
+    "spfstatus": "NONE",
+    "header_from": "noreply@twoomail.com",
+    "dkim_passed_count": 1,
+    "header_total_count": 19,
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p03b298eb695d156c"
+        },
+        {
+            "name": "pepca_style",
+            "value": "pd09a58d4276f5da0"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p4d0d16d657da3ba1"
+        }
+    ],
+    "self_send": 0,
+    "header_from_count": 1,
+    "phish_score": 0,
+    "html_in_text_plain_count": 0,
+    "extractedSrcUrlsTotalCount": 5,
+    "rcpts_count": 1,
+    "extractedEmails": [
+        "info-cs@twoo.com",
+        "marcela.jor@seznam.cz"
+    ],
+    "precedence": 3,
+    "spf_dom_policy_registry": "Policy not found",
+    "list_unsubscribe_urls": [
+        "http://mail.twoo.com/mailurl/aT1zZi01NjkyZWstOHRobmhmZGItYzQ2Jmw9MSZ1PSUyRnNldHRpbmdzJTJGZW1haWxzJTJGJTNGdmlldyUzRHVuc3Vic2NyaWJlJTI2YWN0aW9uJTNEdW5zdWJzY3JpYmVGcm9tVHlwZSUyNnZhbHVlJTNETk8lMjZ0eXBlaWQlM0QlMjZza2lwU3BsYXNoJTNEbWFpbCZ0PTQmYT1tbTlybXFfZDRkMmM5ZjlhNQ"
+    ],
+    "dkim_hfrom_match": 1,
+    "list_unsubscribe_total_count": 1,
+    "ahref_total_count": 8,
+    "extractedEmailsDomainCount": 2,
+    "html_td_tag_count": 74,
+    "spamtrap_hit": false,
+    "dkselector": "twoo",
+    "dk_statuses": [
+        {
+            "domain": "twoomail.com",
+            "selector": "twoo",
+            "status": "PASS"
+        }
+    ],
+    "first10words": " Vitej na Twoo Dobra prace od ted jsi plnohodnotnym clenem Twoo Tady je nekolik tipu Vitej Marcela Nyni jsi clen",
+    "extractedEmailsCardinality": 2,
+    "extractedEmailsTotalCount": 2,
+    "subject_image_count": 0,
+    "extractedSrcUrlsCardinality": 5,
+    "dkim_signs_cnt": 1,
+    "unsub_link": "http://mail.twoo.com/mailurl/aT1zZi01NjkyZWstOHRobmhmZGItYzQ2Jmw9OCZ1PSUyRnNldHRpbmdzJTJGZW1haWxzJTJGJTNGdmlldyUzRHVuc3Vic2NyaWJlJTI2YWN0aW9uJTNEdW5zdWJzY3JpYmVGcm9tVHlwZSUyNnZhbHVlJTNETk8lMjZ0eXBlaWQlM0QlMjZza2lwU3BsYXNoJTNEbWFpbCZ0PTQmYT1tbTlybXFfZDRkMmM5ZjlhNQ",
+    "pepca_style": "pd09a58d4276f5da0",
+    "html_script_tag_count": 0,
+    "extractedHrefUrlsCardinality": 5,
+    "adscore": 0,
+    "list_unsubscribe_http_count": 1,
+    "extractedHrefUrlsTotalCount": 5,
+    "content": "CONTENT_DEFAULT",
+    "rfcid_length": 27,
+    "word_count": 303,
+    "pepca_inline_style_total": 0,
+    "dkim_count": 1,
+    "subject": "Vitej na Twoo ",
+    "unsub_link_texts": [
+        " zrusit zasilani "
+    ],
+    "pepcatotal": 0,
+    "mime_root_type": "multipart/alternative",
+    "ahref_camouflage_count": 1,
+    "date_difference": -83617097,
+    "header_reply_to_count": 1,
+    "list_unsubscribe_mailto_count": 0,
+    "rfcid_is_foreign": 1,
+    "dkstatus": "PASS",
+    "mime_children_count": 2,
+    "extractedHrefUrlsDomainCount": 1,
+    "contains_list_header": true,
+    "list_unsubscribe_invalid_count": 0,
+    "mime_children_types": [
+        "text/plain",
+        "text/html"
+    ],
     "notches": [
         {
+            "score": 1.2,
             "subscores": [
                 1,
                 0.0,
                 0.1,
                 0.1
             ],
-            "score": 1.2,
-            "module": "ill",
             "name": [
                 "date_in_past",
                 "from_missmatch",
                 "html_a_href_camouflaging",
                 "foreign_message_id"
-            ]
+            ],
+            "module": "ill"
         }
     ],
-    "rfcid_is_invalid": false,
-    "spfstatus": "NONE",
-    "mime_root_type": "multipart/alternative",
-    "header_from_count": 1,
-    "now": 1494598207,
-    "dkim_efrom_match": 0,
-    "pepca_inline_style_total": 0,
-    "rcpts_count": 1,
-    "extractedEmailsTotalCount": 2,
-    "pepca_inline_style": "p4d0d16d657da3ba1",
-    "pepca_style_total": 0,
-    "dkselector": "twoo",
-    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/254464.eml",
-    "html_td_tag_count": 74,
-    "extractedHrefUrlsCardinality": 5,
-    "list_unsubscribe_mailto_count": 0,
-    "subject_word_count": 3,
-    "lang": "cs",
-    "precedence": 3,
-    "phishing": {
-        "num_html_script_tags": 0,
-        "num_text_forms": 16,
-        "fake_https": 0,
-        "is_html": true,
-        "num_non_80_port_urls": 0,
-        "num_https_urls": 0,
-        "num_of_chars": 1098,
-        "num_param_phish": 0,
-        "text_and_href": 0,
-        "body_richness": 0.275705186533212,
-        "text_link_with_path": 0,
-        "max_num_slashes_urls": 2,
-        "num_shortened_urls": 0,
-        "num_sender_diff_url": 1,
-        "num_ip_urls": 0,
-        "num_black_sheep_link": -1,
-        "subject_richness": 0.1875,
-        "num_tld_in_url_path": 0,
-        "subject_phish_keywords": 0,
-        "num_black_sheep_link_global": -1,
-        "num_black_sheep_link_phish": 0,
-        "num_path_phish": 0,
-        "suspicious_links": [],
-        "html_form": 0,
-        "num_phish_keywords": 0,
-        "num_subdomain_phish": 0,
-        "num_domain_phish": 0,
-        "ner_domain_detected": false,
-        "camouflage": 1,
-        "num_freehost_urls": 0,
-        "num_external_links": 10,
-        "max_num_dots_urls": 2,
-        "num_www_in_url_path": 0
-    },
     "spf_status_registry": "Status not found",
-    "rfcid_is_foreign": 1,
-    "from_match": 0,
-    "first10words": " Vitej na Twoo Dobra prace od ted jsi plnohodnotnym clenem Twoo Tady je nekolik tipu Vitej Marcela Nyni jsi clen",
-    "spf_domain_policy": "UNKNOWN",
-    "header_total_count": 19,
-    "dkim_passed_count": 1,
-    "dkim_signs_cnt": 1,
-    "list_unsubscribe_urls": [
-        "http://mail.twoo.com/mailurl/aT1zZi01NjkyZWstOHRobmhmZGItYzQ2Jmw9MSZ1PSUyRnNldHRpbmdzJTJGZW1haWxzJTJGJTNGdmlldyUzRHVuc3Vic2NyaWJlJTI2YWN0aW9uJTNEdW5zdWJzY3JpYmVGcm9tVHlwZSUyNnZhbHVlJTNETk8lMjZ0eXBlaWQlM0QlMjZza2lwU3BsYXNoJTNEbWFpbCZ0PTQmYT1tbTlybXFfZDRkMmM5ZjlhNQ"
-    ],
-    "mime_children_types": [
-        "text/plain",
-        "text/html"
-    ],
-    "ahref_verbal_count": 6,
-    "subject_image_count": 0,
-    "phish_score": 0,
-    "self_send": 0,
-    "dkstatus": "PASS",
-    "unsub_link_texts": [
-        " zrusit zasilani "
-    ],
-    "phashes": [
-        {
-            "value": "p03b298eb695d156c",
-            "name": "pepca"
-        },
-        {
-            "value": "pd09a58d4276f5da0",
-            "name": "pepca_style"
-        },
-        {
-            "value": "p4d0d16d657da3ba1",
-            "name": "pepca_inline_style"
-        }
-    ],
-    "contains_list_header": true,
-    "dkdomain": "twoomail.com",
-    "html_tr_tag_count": 64,
-    "extractedEmails": [
-        "info-cs@twoo.com",
-        "marcela.jor@seznam.cz"
-    ],
-    "html_tag_total_count": 201,
-    "mime_children_count": 2,
-    "spamtrap_hit": false,
-    "extractedEmailsDomainCount": 2,
-    "extractedHrefUrlsTotalCount": 5,
-    "dk_statuses": [
-        {
-            "selector": "twoo",
-            "status": "PASS",
-            "domain": "twoomail.com"
-        }
-    ],
-    "extractedSrcUrlsCardinality": 5,
-    "senders": {
-        "log_cnt_idf_detail": [],
-        "log_ecnt_idf_detail": [],
-        "tf_log_idf": "",
-        "log_cnt-pow4_w_duc": "",
-        "log_ecnt_idf_log_tidf_detail": [],
-        "cnt-pow_w_duc_detail": [],
-        "cnt-pow_w_duc": "",
-        "log_ecnt-w_duc_detail": [],
-        "idf": "",
-        "cnt-pow4_w_duc_detail": [],
-        "ttf_w_duc_detail": [],
-        "ettf_w_duc_detail": [],
-        "log_cnt-w_duc": "",
-        "src_revert": "twoomail",
-        "log_cnt_idf_log_tidf_detail": [],
-        "log_cnt_idf_log_tidf": "",
-        "log_cnt-pow4_w_duc_detail": [],
-        "log_cnt-pow_w_duc": "",
-        "cnt-pow4_w_duc": "",
-        "plain_domain": "",
-        "src_revert_detail": [
-            {
-                "confidence": 5,
-                "domain": "twoomail"
-            }
-        ],
-        "log_ecnt_log_idf_log_tidf": "",
-        "log_ecnt_idf_log_tidf": "",
-        "log_cnt-pow_w_duc_detail": [],
-        "ttf_w_duc": "",
-        "plain_domain_detail": [],
-        "log_ecnt_idf": "",
-        "tf_log_idf_detail": [],
-        "ettf_w_duc": "",
-        "idf_detail": [],
-        "log_ecnt_log_idf_log_tidf_detail": [],
-        "domain_keywords_detail": [
-            {
-                "confidence": 173945247.570052,
-                "domain": "twoomail"
-            }
-        ],
-        "domain_keywords": "twoomail",
-        "log_cnt-w_duc_detail": [],
-        "log_ecnt-w_duc": "",
-        "log_cnt_idf": ""
+    "lang": "cs",
+    "phishing": {
+        "is_html": true,
+        "num_subdomain_phish": 0,
+        "body_richness": 0.275705186533212,
+        "num_domain_phish": 0,
+        "num_https_urls": 0,
+        "text_link_with_path": 0,
+        "num_text_forms": 16,
+        "num_phish_keywords": 0,
+        "num_external_links": 10,
+        "num_non_80_port_urls": 0,
+        "subject_richness": 0.1875,
+        "num_black_sheep_link": -1,
+        "num_freehost_urls": 0,
+        "num_sender_diff_url": 1,
+        "max_num_dots_urls": 2,
+        "fake_https": 0,
+        "suspicious_links": [],
+        "ner_domain_detected": false,
+        "num_black_sheep_link_global": -1,
+        "max_num_slashes_urls": 2,
+        "num_param_phish": 0,
+        "num_www_in_url_path": 0,
+        "text_and_href": 0,
+        "num_path_phish": 0,
+        "camouflage": 1,
+        "subject_phish_keywords": 0,
+        "num_html_script_tags": 0,
+        "num_black_sheep_link_phish": 0,
+        "num_shortened_urls": 0,
+        "num_of_chars": 1098,
+        "num_ip_urls": 0,
+        "html_form": 0,
+        "num_tld_in_url_path": 0
     },
-    "spamscore": 1.2,
-    "ahref_total_count": 8,
-    "extractedEmailsCardinality": 2,
-    "extractedSrcUrlsTotalCount": 5,
-    "dkim_count": 1,
-    "adscore": 0,
-    "pepca": "p03b298eb695d156c",
-    "unsub_link_candidates": [
-        "http://mail.twoo.com/mailurl/aT1zZi01NjkyZWstOHRobmhmZGItYzQ2Jmw9OCZ1PSUyRnNldHRpbmdzJTJGZW1haWxzJTJGJTNGdmlldyUzRHVuc3Vic2NyaWJlJTI2YWN0aW9uJTNEdW5zdWJzY3JpYmVGcm9tVHlwZSUyNnZhbHVlJTNETk8lMjZ0eXBlaWQlM0QlMjZza2lwU3BsYXNoJTNEbWFpbCZ0PTQmYT1tbTlybXFfZDRkMmM5ZjlhNQ"
-    ],
-    "html_script_tag_count": 0,
-    "date_difference": -83617097,
-    "html_in_text_plain_count": 0,
-    "pepca_style": "pd09a58d4276f5da0",
-    "word_count": 303,
-    "rfcid_length": 27,
-    "spf_dom_policy_registry": "Policy not found",
-    "pepcatotal": 0,
-    "last10words": "or seznam cz Zrusit zasilani Massive Media Match NV Emile Braunplein 18 9000 Ghent Belgium BE0537240636 info cs twoo com ",
-    "extractedHrefUrls": [
-        "http://mail.twoo.com/mailurl/aT1zZi01NjkyZWstOHRobmhmZGItYzQ2Jmw9MiZ1PSUyRiZ0PTQmYT1tbTlybXFfZDRkMmM5ZjlhNQ",
-        "http://mail.twoo.com/mailurl/aT1zZi01NjkyZWstOHRobmhmZGItYzQ2Jmw9MyZ1PSUyRmdhbWUmdD00JmE9bW05cm1xX2Q0ZDJjOWY5YTU",
-        "http://mail.twoo.com/mailurl/aT1zZi01NjkyZWstOHRobmhmZGItYzQ2Jmw9NCZ1PSUyRjEzNjc2NjMxMzglMkYlM0Z1cGxvYWRQaG90byZ0PTQmYT1tbTlybXF",
-        "http://mail.twoo.com/mailurl/aT1zZi01NjkyZWstOHRobmhmZGItYzQ2Jmw9NSZ1PSUyRmZyaWVuZGludml0ZSZ0PTQmYT1tbTlybXFfZDRkMmM5ZjlhNQ",
-        "http://mail.twoo.com/mailurl/aT1zZi01NjkyZWstOHRobmhmZGItYzQ2Jmw9OCZ1PSUyRnNldHRpbmdzJTJGZW1haWxzJTJGJTNGdmlldyUzRHVuc3Vic2NyaWJ"
-    ],
-    "spfstatus_hfrom": "SPF_SOFTFAIL",
-    "header_reply_to_count": 1,
-    "dkim_hfrom_match": 1,
-    "attachments": [],
-    "content": "CONTENT_DEFAULT",
     "extractedSrcUrls": [
         "http://twoo-a.akamaihd.net/static/877631079510097472931/images/mails/welcome/icon-search.jpg",
         "http://twoo-a.akamaihd.net/static/10676208767142049/images/mails/welcome/icon-camera.jpg",
@@ -214,13 +149,78 @@
         "http://twoo-a.akamaihd.net/static/9259406894141207729/images/logos/logo-twoo-cobrandend-footer.png",
         "http://mail.twoo.com/mailimage/aT1zZi01NjkyZWstOHRobmhmZGItYzQ2JnQ9NCZhPW1tOXJtcV9kNGQyYzlmOWE1.gif"
     ],
-    "list_unsubscribe_http_count": 1,
-    "unsub_link": "http://mail.twoo.com/mailurl/aT1zZi01NjkyZWstOHRobmhmZGItYzQ2Jmw9OCZ1PSUyRnNldHRpbmdzJTJGZW1haWxzJTJGJTNGdmlldyUzRHVuc3Vic2NyaWJlJTI2YWN0aW9uJTNEdW5zdWJzY3JpYmVGcm9tVHlwZSUyNnZhbHVlJTNETk8lMjZ0eXBlaWQlM0QlMjZza2lwU3BsYXNoJTNEbWFpbCZ0PTQmYT1tbTlybXFfZDRkMmM5ZjlhNQ",
-    "extractedHrefUrlsDomainCount": 1,
-    "subject": "Vitej na Twoo ",
-    "list_unsubscribe_total_count": 1,
+    "from_match": 0,
+    "html_tr_tag_count": 64,
+    "senders": {
+        "log_cnt-w_duc_detail": [],
+        "idf_detail": [],
+        "log_ecnt_idf_detail": [],
+        "domain_keywords": "twoomail",
+        "log_cnt-pow_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "src_revert": "twoomail",
+        "ttf_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "domain": "twoomail",
+                "confidence": 173945247.570052
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_cnt_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-w_duc": "",
+        "log_ecnt-w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "tf_log_idf": "",
+        "log_cnt_idf": "",
+        "log_ecnt_idf": "",
+        "idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "twoomail",
+                "confidence": 5
+            }
+        ],
+        "plain_domain_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "plain_domain": "",
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "tf_log_idf_detail": []
+    },
+    "pepca": "p03b298eb695d156c",
+    "rfcid_is_invalid": false,
     "extractedSrcUrlsDomainCount": 2,
-    "ahref_camouflage_count": 1,
-    "list_unsubscribe_invalid_count": 0,
-    "header_from": "noreply@twoomail.com"
+    "dkdomain": "twoomail.com",
+    "ahref_verbal_count": 6,
+    "now": 1494598207,
+    "spfstatus_hfrom": "SPF_SOFTFAIL",
+    "pepca_inline_style": "p4d0d16d657da3ba1",
+    "pepca_style_total": 0,
+    "spamscore": 1.2,
+    "dkim_efrom_match": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/254464.eml",
+    "attachments": [],
+    "html_tag_total_count": 201,
+    "extractedHrefUrls": [
+        "http://mail.twoo.com/mailurl/aT1zZi01NjkyZWstOHRobmhmZGItYzQ2Jmw9MiZ1PSUyRiZ0PTQmYT1tbTlybXFfZDRkMmM5ZjlhNQ",
+        "http://mail.twoo.com/mailurl/aT1zZi01NjkyZWstOHRobmhmZGItYzQ2Jmw9MyZ1PSUyRmdhbWUmdD00JmE9bW05cm1xX2Q0ZDJjOWY5YTU",
+        "http://mail.twoo.com/mailurl/aT1zZi01NjkyZWstOHRobmhmZGItYzQ2Jmw9NCZ1PSUyRjEzNjc2NjMxMzglMkYlM0Z1cGxvYWRQaG90byZ0PTQmYT1tbTlybXF",
+        "http://mail.twoo.com/mailurl/aT1zZi01NjkyZWstOHRobmhmZGItYzQ2Jmw9NSZ1PSUyRmZyaWVuZGludml0ZSZ0PTQmYT1tbTlybXFfZDRkMmM5ZjlhNQ",
+        "http://mail.twoo.com/mailurl/aT1zZi01NjkyZWstOHRobmhmZGItYzQ2Jmw9OCZ1PSUyRnNldHRpbmdzJTJGZW1haWxzJTJGJTNGdmlldyUzRHVuc3Vic2NyaWJ"
+    ],
+    "unsub_link_candidates": [
+        "http://mail.twoo.com/mailurl/aT1zZi01NjkyZWstOHRobmhmZGItYzQ2Jmw9OCZ1PSUyRnNldHRpbmdzJTJGZW1haWxzJTJGJTNGdmlldyUzRHVuc3Vic2NyaWJlJTI2YWN0aW9uJTNEdW5zdWJzY3JpYmVGcm9tVHlwZSUyNnZhbHVlJTNETk8lMjZ0eXBlaWQlM0QlMjZza2lwU3BsYXNoJTNEbWFpbCZ0PTQmYT1tbTlybXFfZDRkMmM5ZjlhNQ"
+    ]
 }

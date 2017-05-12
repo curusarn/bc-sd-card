@@ -1,26 +1,18 @@
 {
-    "extractedHrefUrlsTotalCount": 1,
-    "dkim_efrom_match": 0,
-    "rcpts_count": 1,
-    "extractedEmailsTotalCount": 0,
-    "pepca_inline_style": "",
-    "domainstat": {},
-    "subject": "Please restore your account ",
-    "header_reply_to_count": 1,
-    "precedence": 3,
-    "subject_word_count": 4,
-    "extractedHrefUrlsDomainCount": 1,
-    "from_match": 0,
-    "first10words": " Dear Chase valued customer We recently noticed one or more attempts to log in your Chase account from a foreign IP addre",
-    "extractedTxtUrlsDomainCount": 1,
-    "header_total_count": 27,
-    "dkim_signs_cnt": 1,
-    "subject_image_count": 0,
+    "spf_domain_policy": "UNKNOWN",
+    "last10words": "or your patience as we work together to protect your account Copyright 1999 2007 JPMorgan Chase All rights reserved ",
+    "header_from": "service@chaseonline.com",
+    "list_unsubscribe_invalid_count": 0,
+    "rfcid_is_invalid": false,
+    "self_send": 0,
     "html_in_text_plain_count": 0,
-    "attachments": [],
-    "dkstatus": "NEUTRAL",
-    "html_tr_tag_count": 4,
-    "pepca_style": "",
+    "rcpts_count": 1,
+    "extractedSrcUrls": [
+        "http://www.chase.com/ccpmweb/shared/image/chaseNewlogo.gif"
+    ],
+    "list_unsubscribe_total_count": 0,
+    "extractedEmailsDomainCount": 0,
+    "html_td_tag_count": 4,
     "universalprobes": [
         {
             "key": "ps-from_mismatch",
@@ -51,168 +43,122 @@
             "value": "1"
         }
     ],
-    "extractedEmails": [],
-    "spamscore": 1.1,
-    "word_count": 201,
-    "extractedEmailsCardinality": 0,
-    "extractedSrcUrlsTotalCount": 1,
-    "dkim_count": 0,
-    "pepca": "p43300806a67c842c",
-    "date_difference": -320623774,
-    "phish_score": 14,
-    "extractedHrefUrls": [
-        "http://201.24.72.251/~daniel/index.html"
-    ],
-    "dkim_hfrom_match": 0,
-    "content": "CONTENT_DEFAULT",
-    "rfcid_length": 44,
-    "pepcatotal": 3,
-    "header_from": "service@chaseonline.com",
-    "notches": [
-        {
-            "subscores": [
-                1,
-                0.0,
-                0.1
-            ],
-            "score": 1.1,
-            "module": "ill",
-            "name": [
-                "date_in_past",
-                "from_missmatch",
-                "html_a_href_camouflaging"
-            ]
-        }
-    ],
-    "extractedTxtUrls": [
-        "https://chaseonline.chase.com/"
-    ],
-    "mime_root_type": "text/html",
-    "header_from_count": 1,
-    "now": 1494597890,
-    "pepca_inline_style_total": 0,
+    "extractedTxtUrlsCardinality": 1,
+    "header_reply_to_count": 1,
+    "first10words": " Dear Chase valued customer We recently noticed one or more attempts to log in your Chase account from a foreign IP addre",
+    "dkim_signs_cnt": 1,
     "extractedHrefUrlsCardinality": 1,
+    "extractedHrefUrlsTotalCount": 1,
+    "ahref_camouflage_count": 1,
+    "rfcid_length": 44,
+    "subject": "Please restore your account ",
+    "content": "CONTENT_DEFAULT",
+    "extractedSrcUrlsDomainCount": 1,
+    "list_unsubscribe_mailto_count": 0,
+    "dkstatus": "NEUTRAL",
+    "mime_children_count": 0,
+    "spamscore": 1.1,
+    "spf_status_registry": "Status not found",
+    "rfcid_is_foreign": 0,
+    "dkim_hfrom_match": 0,
+    "mime_root_type": "text/html",
+    "from_match": 0,
+    "html_tr_tag_count": 4,
+    "dmarc_status": {},
+    "ahref_verbal_count": 0,
+    "spfstatus_hfrom": "SPF_SOFTFAIL",
+    "pepca_inline_style": "",
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/1677.eml",
+    "attachments": [],
     "senders": {
-        "log_cnt_idf_detail": [],
+        "log_cnt-w_duc_detail": [],
+        "idf_detail": [],
         "log_ecnt_idf_detail": [],
-        "tf_log_idf": "",
-        "log_cnt-pow4_w_duc": "",
-        "log_ecnt_idf_log_tidf_detail": [],
-        "cnt-pow_w_duc_detail": [],
-        "cnt-pow_w_duc": "",
-        "log_ecnt-w_duc_detail": [],
-        "idf": "",
-        "cnt-pow4_w_duc_detail": [],
-        "ttf_w_duc_detail": [],
-        "ettf_w_duc_detail": [],
-        "log_cnt-w_duc": "",
-        "src_revert": "chase",
-        "log_cnt_idf_log_tidf_detail": [],
-        "log_cnt_idf_log_tidf": "",
-        "log_cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "paypal",
         "log_cnt-pow_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "src_revert": "chase",
+        "ttf_w_duc_detail": [],
         "cnt-pow4_w_duc": "",
-        "plain_domain": "chase",
-        "src_revert_detail": [
+        "domain_keywords_detail": [
             {
-                "confidence": 1,
-                "domain": "chase"
+                "domain": "paypal",
+                "confidence": 137608613.626848
             }
         ],
         "log_ecnt_log_idf_log_tidf": "",
-        "log_ecnt_idf_log_tidf": "",
-        "log_cnt-pow_w_duc_detail": [],
-        "ttf_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-w_duc": "",
+        "log_ecnt-w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "tf_log_idf": "",
+        "log_cnt_idf": "",
+        "log_ecnt_idf": "",
+        "idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "chase",
+                "confidence": 1
+            }
+        ],
         "plain_domain_detail": [
             {
-                "confidence": 1,
-                "domain": "chase"
+                "domain": "chase",
+                "confidence": 1
             }
         ],
-        "log_ecnt_idf": "",
-        "tf_log_idf_detail": [],
-        "ettf_w_duc": "",
-        "idf_detail": [],
-        "log_ecnt_log_idf_log_tidf_detail": [],
-        "domain_keywords_detail": [
-            {
-                "confidence": 137608613.626848,
-                "domain": "paypal"
-            }
-        ],
-        "domain_keywords": "paypal",
-        "log_cnt-w_duc_detail": [],
-        "log_ecnt-w_duc": "",
-        "log_cnt_idf": ""
+        "cnt-pow_w_duc_detail": [],
+        "plain_domain": "chase",
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "tf_log_idf_detail": []
     },
-    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/1677.eml",
-    "ahref_camouflage_count": 1,
-    "html_td_tag_count": 4,
-    "pepca_style_total": 0,
-    "list_unsubscribe_mailto_count": 0,
-    "lang": "en",
-    "phishing": {
-        "href_camouflaging": true,
-        "num_html_script_tags": 0,
-        "num_text_forms": 0,
-        "fake_https": 1,
-        "is_html": true,
-        "num_non_80_port_urls": 0,
-        "num_https_urls": 1,
-        "num_of_chars": 1118,
-        "num_param_phish": 0,
-        "text_and_href": 0,
-        "body_richness": 0.179624664879357,
-        "text_link_with_path": 0,
-        "num_subject_phish_keywords": 1,
-        "max_num_slashes_urls": 2,
-        "num_shortened_urls": 0,
-        "num_sender_diff_url": 2,
-        "num_ip_urls": 0,
-        "num_black_sheep_link": -1,
-        "subject_richness": 0.137931034482759,
-        "num_tld_in_url_path": 0,
-        "subject_phish_keywords": 1,
-        "num_black_sheep_link_global": -1,
-        "num_black_sheep_link_phish": 0,
-        "num_path_phish": 0,
-        "num_attachments": 0,
-        "suspicious_links": [],
-        "html_form": 0,
-        "num_phish_keywords": 10,
-        "num_subdomain_phish": 0,
-        "num_domain_phish": 0,
-        "ner_domain_detected": false,
-        "camouflage": 1,
-        "num_freehost_urls": 0,
-        "num_external_links": 2,
-        "max_num_dots_urls": 4,
-        "num_www_in_url_path": 0
-    },
-    "spf_status_registry": "Status not found",
-    "rfcid_is_foreign": 0,
-    "dmarc_status": {},
-    "spf_domain_policy": "UNKNOWN",
-    "spfstatus_hfrom": "SPF_SOFTFAIL",
-    "dkim_passed_count": 0,
-    "extractedTxtUrlsCardinality": 1,
+    "extractedHrefUrls": [
+        "http://201.24.72.251/~daniel/index.html"
+    ],
+    "unsub_link": {},
+    "subject_word_count": 4,
+    "domainstat": {},
     "spfstatus": "NONE",
-    "ahref_verbal_count": 0,
-    "self_send": 0,
+    "dkim_passed_count": 0,
+    "header_total_count": 27,
+    "header_from_count": 1,
+    "domainstat_themes": {},
+    "extractedSrcUrlsTotalCount": 1,
+    "extractedEmails": [],
+    "spf_dom_policy_registry": "Policy not found",
     "theme": {},
-    "extractedTxtUrlsTotalCount": 1,
-    "html_tag_total_count": 58,
-    "extractedEmailsDomainCount": 0,
-    "spamtrap_hit": false,
-    "extractedSrcUrlsCardinality": 1,
     "ahref_total_count": 1,
-    "adscore": 0,
-    "dkStatusDetail": "NOT_SIGNED",
-    "html_script_tag_count": 0,
-    "list_unsubscribe_total_count": 0,
+    "spamtrap_hit": false,
     "mime_children_types": [],
+    "dk_statuses": [
+        {
+            "status": "NEUTRAL",
+            "statusDetail": "NOT_SIGNED"
+        }
+    ],
+    "extractedEmailsCardinality": 0,
+    "dkStatusDetail": "NOT_SIGNED",
+    "phish_score": 14,
+    "extractedSrcUrlsCardinality": 1,
+    "dkim_efrom_match": 0,
+    "extractedTxtUrls": [
+        "https://chaseonline.chase.com/"
+    ],
+    "html_script_tag_count": 0,
     "phNotches": [
         {
+            "score": 10,
             "subscores": [
                 1,
                 0.0,
@@ -220,39 +166,93 @@
                 1,
                 8
             ],
-            "score": 10,
-            "module": "phish-score",
             "name": [
                 "from_mismatch",
                 "phish_keyword",
                 "subject_phish_keyword",
                 "html_a_href_camouflaging",
                 "phishing"
-            ]
+            ],
+            "module": "phish-score"
         }
     ],
-    "unsub_link": {},
-    "last10words": "or your patience as we work together to protect your account Copyright 1999 2007 JPMorgan Chase All rights reserved ",
+    "adscore": 0,
     "phashes": [
         {
-            "value": "p43300806a67c842c",
-            "name": "pepca"
+            "name": "pepca",
+            "value": "p43300806a67c842c"
         }
     ],
-    "spf_dom_policy_registry": "Policy not found",
-    "extractedSrcUrls": [
-        "http://www.chase.com/ccpmweb/shared/image/chaseNewlogo.gif"
-    ],
+    "extractedTxtUrlsDomainCount": 1,
+    "dkim_count": 0,
+    "pepcatotal": 3,
+    "date_difference": -320623774,
+    "lang": "en",
     "list_unsubscribe_http_count": 0,
-    "mime_children_count": 0,
-    "rfcid_is_invalid": false,
-    "extractedSrcUrlsDomainCount": 1,
-    "domainstat_themes": {},
-    "list_unsubscribe_invalid_count": 0,
-    "dk_statuses": [
+    "word_count": 201,
+    "extractedHrefUrlsDomainCount": 1,
+    "precedence": 3,
+    "notches": [
         {
-            "statusDetail": "NOT_SIGNED",
-            "status": "NEUTRAL"
+            "score": 1.1,
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging"
+            ],
+            "module": "ill"
         }
-    ]
+    ],
+    "extractedTxtUrlsTotalCount": 1,
+    "phishing": {
+        "is_html": true,
+        "num_subdomain_phish": 0,
+        "body_richness": 0.179624664879357,
+        "num_domain_phish": 0,
+        "num_https_urls": 1,
+        "text_link_with_path": 0,
+        "num_text_forms": 0,
+        "num_non_80_port_urls": 0,
+        "num_attachments": 0,
+        "num_path_phish": 0,
+        "num_black_sheep_link": -1,
+        "num_freehost_urls": 0,
+        "num_sender_diff_url": 2,
+        "max_num_dots_urls": 4,
+        "fake_https": 1,
+        "href_camouflaging": true,
+        "suspicious_links": [],
+        "ner_domain_detected": false,
+        "num_subject_phish_keywords": 1,
+        "num_black_sheep_link_global": -1,
+        "max_num_slashes_urls": 2,
+        "num_phish_keywords": 10,
+        "num_param_phish": 0,
+        "num_www_in_url_path": 0,
+        "text_and_href": 0,
+        "num_external_links": 2,
+        "camouflage": 1,
+        "subject_phish_keywords": 1,
+        "num_html_script_tags": 0,
+        "num_black_sheep_link_phish": 0,
+        "num_shortened_urls": 0,
+        "num_of_chars": 1118,
+        "subject_richness": 0.137931034482759,
+        "num_ip_urls": 0,
+        "html_form": 0,
+        "num_tld_in_url_path": 0
+    },
+    "pepca_inline_style_total": 0,
+    "extractedEmailsTotalCount": 0,
+    "now": 1494597890,
+    "pepca_style_total": 0,
+    "subject_image_count": 0,
+    "pepca_style": "",
+    "html_tag_total_count": 58,
+    "pepca": "p43300806a67c842c"
 }

@@ -1,83 +1,6 @@
 {
-    "date_difference": -80016404,
-    "spf_dom_policy_registry": "Policy not found",
-    "extractedEmails": [
-        "info@czbim.org"
-    ],
-    "list_unsubscribe_total_count": 0,
-    "from_match": 0,
-    "spfstatus_hfrom": "SPF_NONE",
-    "dkim_passed_count": 2,
-    "unsub_link_candidates": [
-        "http://www.mailchimp.com/monkey-rewards/?utm_source=freemium_newsletter&utm_medium=email&utm_campaign=monkey_rewards&aid=742fa690bba251b266da02ba0&afl=1"
-    ],
-    "notches": [
-        {
-            "subscores": [
-                1,
-                0.0
-            ],
-            "name": [
-                "date_in_past",
-                "from_missmatch"
-            ],
-            "score": 1,
-            "module": "ill"
-        }
-    ],
-    "extractedHrefUrlsDomainCount": 2,
-    "first10words": " BIM Day 2014 Registrace Prosim potvrdte registraci Kliknete zde pro potvrzeni Vaseho prihlaseni ",
-    "word_count": 119,
-    "pepca": "pe8d1d4b5313c6ef4",
-    "extractedSrcUrlsDomainCount": 1,
-    "rfcid_length": 65,
-    "pepcatotal": 1,
-    "pepca_style_total": 1,
-    "unsub_link": "http://www.mailchimp.com/monkey-rewards/?utm_source=freemium_newsletter&utm_medium=email&utm_campaign=monkey_rewards&aid=742fa690bba251b266da02ba0&afl=1",
-    "extractedEmailsTotalCount": 1,
-    "mime_root_type": "multipart/alternative",
-    "extractedEmailsCardinality": 1,
-    "extractedHrefUrlsTotalCount": 2,
-    "html_tr_tag_count": 14,
-    "pepca_style": "pc502829c1f2b7e64",
-    "pepca_inline_style_total": 1,
-    "header_from_count": 1,
-    "header_total_count": 26,
-    "extractedSrcUrlsCardinality": 2,
-    "ahref_camouflage_count": 0,
-    "extractedSrcUrlsTotalCount": 2,
-    "html_tag_total_count": 91,
-    "ahref_total_count": 2,
-    "extractedEmailsDomainCount": 1,
     "dkim_hfrom_match": 0,
-    "dkstatus": "PASS",
-    "header_reply_to_count": 0,
-    "subject_image_count": 0,
-    "spf_status_registry": "Status not found",
-    "rfcid_is_foreign": 0,
-    "content": "CONTENT_DEFAULT",
-    "extractedSrcUrls": [
-        "https://gallery.mailchimp.com/742fa690bba251b266da02ba0/images/223f8624-2c73-4056-8291-12bd6e7f1537.png",
-        "http://gallery.mailchimp.com/089443193dd93823f3fed78b4/images/postmark_mailchimp_red.gif"
-    ],
-    "lang": "cs",
-    "html_td_tag_count": 14,
-    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/a912e85df3c13f5a6cd171f71eccc897.eml",
-    "spamscore": 1,
-    "attachments": [],
-    "dk_statuses": [
-        {
-            "status": "PASS",
-            "selector": "mandrill",
-            "domain": "mail1.mcsignup.com"
-        },
-        {
-            "status": "PASS",
-            "selector": "mandrill",
-            "domain": "mandrillapp.com"
-        }
-    ],
-    "dkdomain": "mail1.mcsignup.com",
+    "from_match": 0,
     "phashes": [
         {
             "name": "pepca",
@@ -92,125 +15,202 @@
             "value": "pbc5ab90ec0f9a092"
         }
     ],
-    "pepca_inline_style": "pbc5ab90ec0f9a092",
-    "rcpts_count": 1,
-    "self_send": 0,
-    "now": 1494598378,
-    "mime_children_count": 2,
+    "list_unsubscribe_invalid_count": 0,
+    "extractedSrcUrls": [
+        "https://gallery.mailchimp.com/742fa690bba251b266da02ba0/images/223f8624-2c73-4056-8291-12bd6e7f1537.png",
+        "http://gallery.mailchimp.com/089443193dd93823f3fed78b4/images/postmark_mailchimp_red.gif"
+    ],
     "ahref_verbal_count": 1,
-    "last10words": "abaze Pokud mate otazky tykajici se teto databaze kontaktujte prosim info czbim org ",
-    "subject_word_count": 7,
-    "spf_domain_policy": "UNKNOWN",
-    "dkim_count": 2,
-    "unsub_link_texts": [
-        " email marketing powered by mailchimp mailchimp email marketing "
+    "subject_image_count": 0,
+    "dkselector": "mandrill",
+    "date_difference": -80016404,
+    "header_total_count": 26,
+    "dk_statuses": [
+        {
+            "domain": "mail1.mcsignup.com",
+            "status": "PASS",
+            "selector": "mandrill"
+        },
+        {
+            "domain": "mandrillapp.com",
+            "status": "PASS",
+            "selector": "mandrill"
+        }
     ],
-    "rfcid_is_invalid": false,
+    "extractedEmails": [
+        "info@czbim.org"
+    ],
+    "precedence": 3,
+    "spamtrap_hit": false,
+    "pepca_style": "pc502829c1f2b7e64",
+    "unsub_link": "http://www.mailchimp.com/monkey-rewards/?utm_source=freemium_newsletter&utm_medium=email&utm_campaign=monkey_rewards&aid=742fa690bba251b266da02ba0&afl=1",
     "header_from": "info@czbim.org",
-    "list_unsubscribe_mailto_count": 0,
-    "html_in_text_plain_count": 0,
-    "extractedHrefUrlsCardinality": 2,
-    "html_script_tag_count": 0,
-    "dkim_efrom_match": 0,
-    "adscore": 0,
-    "mime_children_types": [
-        "text/plain",
-        "text/html"
+    "spamscore": 1,
+    "self_send": 0,
+    "dkstatus": "PASS",
+    "pepca_style_total": 1,
+    "unsub_link_candidates": [
+        "http://www.mailchimp.com/monkey-rewards/?utm_source=freemium_newsletter&utm_medium=email&utm_campaign=monkey_rewards&aid=742fa690bba251b266da02ba0&afl=1"
     ],
-    "dkim_signs_cnt": 2,
-    "spfstatus": "NONE",
+    "lang": "cs",
     "extractedHrefUrls": [
         "http://CzBIM.us2.list-manage.com/subscribe/confirm?u=742fa690bba251b266da02ba0&id=dbc8893b37&e=c973846c81",
         "http://www.mailchimp.com/monkey-rewards/?utm_source=freemium_newsletter&utm_medium=email&utm_campaign=monkey_rewards&aid=742fa69"
     ],
-    "spamtrap_hit": false,
-    "precedence": 3,
-    "list_unsubscribe_http_count": 0,
-    "dkselector": "mandrill",
+    "rfcid_is_foreign": 0,
+    "spf_status_registry": "Status not found",
+    "spf_dom_policy_registry": "Policy not found",
+    "unsub_link_texts": [
+        " email marketing powered by mailchimp mailchimp email marketing "
+    ],
+    "pepca": "pe8d1d4b5313c6ef4",
+    "list_unsubscribe_total_count": 0,
+    "now": 1494598378,
+    "header_reply_to_count": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/a912e85df3c13f5a6cd171f71eccc897.eml",
+    "ahref_camouflage_count": 0,
+    "html_tag_total_count": 91,
+    "rfcid_length": 65,
+    "extractedHrefUrlsDomainCount": 2,
+    "rfcid_is_invalid": false,
+    "pepca_inline_style": "pbc5ab90ec0f9a092",
+    "subject_word_count": 7,
+    "html_tr_tag_count": 14,
+    "pepcatotal": 1,
+    "html_script_tag_count": 0,
+    "last10words": "abaze Pokud mate otazky tykajici se teto databaze kontaktujte prosim info czbim org ",
+    "dkim_passed_count": 2,
+    "extractedHrefUrlsTotalCount": 2,
+    "mime_children_types": [
+        "text/plain",
+        "text/html"
+    ],
+    "ahref_total_count": 2,
+    "list_unsubscribe_mailto_count": 0,
+    "extractedEmailsTotalCount": 1,
+    "rcpts_count": 1,
+    "extractedEmailsDomainCount": 1,
+    "phish_score": 0,
     "phishing": {
-        "body_richness": 0.275462962962963,
-        "num_black_sheep_link": -1,
-        "subject_richness": 0.127272727272727,
-        "max_num_slashes_urls": 2,
-        "num_https_urls": 1,
-        "camouflage": 0,
-        "ner_domain_detected": false,
-        "html_form": 0,
-        "num_subdomain_phish": 0,
-        "num_external_links": 4,
-        "fake_https": 0,
-        "num_html_script_tags": 0,
-        "num_freehost_urls": 0,
-        "num_phish_keywords": 2,
-        "suspicious_links": [],
-        "num_sender_diff_url": 2,
-        "text_and_href": 0,
         "subject_phish_keywords": 1,
-        "num_www_in_url_path": 0,
+        "html_form": 0,
+        "num_black_sheep_link": -1,
         "num_domain_phish": 0,
-        "num_of_chars": 431,
-        "num_ip_urls": 0,
-        "num_path_phish": 0,
-        "num_param_phish": 0,
-        "max_num_dots_urls": 3,
-        "num_tld_in_url_path": 0,
-        "is_html": true,
-        "num_black_sheep_link_phish": 0,
-        "num_non_80_port_urls": 0,
-        "num_text_forms": 9,
+        "num_shortened_urls": 0,
+        "num_phish_keywords": 2,
+        "num_www_in_url_path": 0,
+        "num_external_links": 4,
         "num_black_sheep_link_global": -1,
+        "num_black_sheep_link_phish": 0,
+        "is_html": true,
+        "num_sender_diff_url": 2,
+        "num_tld_in_url_path": 0,
+        "text_and_href": 0,
+        "ner_domain_detected": false,
+        "max_num_dots_urls": 3,
+        "camouflage": 0,
+        "num_text_forms": 9,
+        "num_https_urls": 1,
+        "body_richness": 0.275462962962963,
+        "num_ip_urls": 0,
+        "num_html_script_tags": 0,
+        "subject_richness": 0.127272727272727,
+        "fake_https": 0,
+        "suspicious_links": [],
+        "num_of_chars": 431,
         "text_link_with_path": 0,
-        "num_shortened_urls": 0
+        "num_path_phish": 0,
+        "num_subdomain_phish": 0,
+        "max_num_slashes_urls": 2,
+        "num_param_phish": 0,
+        "num_non_80_port_urls": 0,
+        "num_freehost_urls": 0
     },
+    "dkim_efrom_match": 0,
+    "extractedSrcUrlsCardinality": 2,
+    "spf_domain_policy": "UNKNOWN",
+    "header_from_count": 1,
+    "subject": "BIM Day 2014 Registrace Prosim potvrdte registraci",
+    "dkim_signs_cnt": 2,
+    "extractedSrcUrlsDomainCount": 1,
+    "adscore": 0,
+    "pepca_inline_style_total": 1,
+    "extractedEmailsCardinality": 1,
     "senders": {
-        "domain_keywords": "craigslist",
-        "log_ecnt_idf": "",
-        "log_cnt-w_duc_detail": [],
-        "log_cnt_idf_log_tidf_detail": [],
-        "log_ecnt-w_duc": "",
-        "idf_detail": [],
-        "log_cnt_idf_log_tidf": "",
-        "log_cnt-pow4_w_duc": "",
-        "plain_domain_detail": [],
-        "log_cnt-pow_w_duc": "",
-        "log_cnt_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
         "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
         "tf_log_idf_detail": [],
-        "ttf_w_duc_detail": [],
         "cnt-pow_w_duc_detail": [],
-        "log_cnt-pow4_w_duc_detail": [],
-        "ettf_w_duc": "",
+        "log_ecnt_idf": "",
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_ecnt_idf_log_tidf": "",
         "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
         "ttf_w_duc": "",
+        "idf": "",
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "src_revert_detail": [
+            {
+                "confidence": 2,
+                "domain": "sam73"
+            }
+        ],
+        "log_cnt-w_duc": "",
+        "plain_domain_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "cnt-pow_w_duc": "",
+        "src_revert": "sam73",
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt_idf_detail": [],
         "plain_domain": "",
         "domain_keywords_detail": [
             {
-                "domain": "craigslist",
-                "confidence": 5195870.59215
+                "confidence": 5195870.59215,
+                "domain": "craigslist"
             }
         ],
-        "cnt-pow_w_duc": "",
-        "cnt-pow4_w_duc": "",
         "log_cnt-pow_w_duc_detail": [],
-        "ettf_w_duc_detail": [],
-        "log_ecnt-w_duc_detail": [],
+        "domain_keywords": "craigslist",
         "log_cnt_idf": "",
-        "tf_log_idf": "",
-        "src_revert_detail": [
-            {
-                "domain": "sam73",
-                "confidence": 2
-            }
-        ],
-        "log_ecnt_log_idf_log_tidf": "",
-        "log_cnt-w_duc": "",
-        "cnt-pow4_w_duc_detail": [],
-        "idf": "",
-        "log_ecnt_idf_log_tidf": "",
-        "log_ecnt_idf_log_tidf_detail": [],
-        "src_revert": "sam73"
+        "log_ecnt_idf_log_tidf_detail": []
     },
-    "phish_score": 0,
-    "subject": "BIM Day 2014 Registrace Prosim potvrdte registraci",
-    "list_unsubscribe_invalid_count": 0
+    "html_td_tag_count": 14,
+    "word_count": 119,
+    "mime_root_type": "multipart/alternative",
+    "content": "CONTENT_DEFAULT",
+    "dkdomain": "mail1.mcsignup.com",
+    "dkim_count": 2,
+    "list_unsubscribe_http_count": 0,
+    "spfstatus": "NONE",
+    "first10words": " BIM Day 2014 Registrace Prosim potvrdte registraci Kliknete zde pro potvrzeni Vaseho prihlaseni ",
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "html_in_text_plain_count": 0,
+    "extractedHrefUrlsCardinality": 2,
+    "extractedSrcUrlsTotalCount": 2,
+    "mime_children_count": 2,
+    "spfstatus_hfrom": "SPF_NONE"
 }

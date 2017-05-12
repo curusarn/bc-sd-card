@@ -1,226 +1,226 @@
 {
-    "notches": [
-        {
-            "subscores": [
-                1,
-                0.0
-            ],
-            "score": 1,
-            "module": "ill",
-            "name": [
-                "date_in_past",
-                "from_missmatch"
-            ]
-        }
-    ],
-    "extractedTxtUrls": [
-        "http://www.pravasolnajeskyne.cz",
-        "http://www.avast.com",
-        "http://s.r.o.tel.:"
-    ],
-    "spfstatus": "NONE",
-    "mime_root_type": "multipart/alternative",
-    "header_from_count": 1,
-    "now": 1494598171,
-    "dkim_efrom_match": 0,
-    "pepca_inline_style_total": 0,
-    "rcpts_count": 1,
-    "extractedEmailsTotalCount": 3,
-    "pepca_inline_style": "p83d9268a0a0596a5",
-    "pepca_style_total": 0,
-    "dkim_hfrom_match": 0,
-    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/0213334016e38cc65e31f90e904520f4.eml",
-    "html_td_tag_count": 8,
-    "extractedHrefUrlsCardinality": 1,
-    "list_unsubscribe_mailto_count": 0,
-    "subject_word_count": 2,
-    "lang": "cs",
-    "precedence": 3,
-    "phishing": {
-        "num_html_script_tags": 0,
-        "num_text_forms": 2,
-        "fake_https": 0,
-        "is_html": true,
-        "num_non_80_port_urls": 0,
-        "num_https_urls": 0,
-        "num_of_chars": 2555,
-        "num_param_phish": 0,
-        "text_and_href": 0,
-        "body_richness": 0.234741784037559,
-        "text_link_with_path": 0,
-        "max_num_slashes_urls": 1,
-        "num_shortened_urls": 0,
-        "num_sender_diff_url": 2,
-        "num_ip_urls": 0,
-        "num_black_sheep_link": -1,
-        "subject_richness": 0.125,
-        "num_tld_in_url_path": 0,
-        "subject_phish_keywords": 0,
-        "num_black_sheep_link_global": -1,
-        "num_black_sheep_link_phish": 0,
-        "num_path_phish": 0,
-        "suspicious_links": [],
-        "html_form": 0,
-        "num_phish_keywords": 0,
-        "num_subdomain_phish": 0,
-        "num_domain_phish": 0,
-        "ner_domain_detected": false,
-        "camouflage": 0,
-        "num_freehost_urls": 0,
-        "num_external_links": 2,
-        "max_num_dots_urls": 4,
-        "num_www_in_url_path": 0
-    },
-    "spf_status_registry": "Status not found",
-    "rfcid_is_foreign": 0,
-    "from_match": 0,
-    "first10words": " Dobry den platba na miste v hotovosti dekujeme a tesime se na Vasi navstevu s pozdravem BEST SOL s r o tel 220 571 353 mobi",
-    "extractedTxtUrlsDomainCount": 3,
     "spf_domain_policy": "UNKNOWN",
-    "header_total_count": 15,
+    "subject_word_count": 2,
+    "last10words": " Tato zprava byla zkontrolovana na viry programem Avast Antivirus www avast com ",
+    "spfstatus": "NONE",
+    "header_from": "info@pravasolnajeskyne.cz",
     "dkim_passed_count": 0,
-    "extractedTxtUrlsCardinality": 3,
-    "dkim_signs_cnt": 1,
-    "mime_children_types": [
-        "text/plain",
-        "multipart/related"
-    ],
-    "ahref_verbal_count": 1,
-    "subject_image_count": 0,
-    "phish_score": 0,
-    "rfcid_is_invalid": false,
-    "dkstatus": "NEUTRAL",
+    "header_total_count": 15,
     "phashes": [
         {
-            "value": "p80fa388cd4fcd4be",
-            "name": "pepca"
+            "name": "pepca",
+            "value": "p80fa388cd4fcd4be"
         },
         {
-            "value": "p83d9268a0a0596a5",
-            "name": "pepca_inline_style"
+            "name": "pepca_inline_style",
+            "value": "p83d9268a0a0596a5"
         }
     ],
-    "extractedTxtUrlsTotalCount": 3,
     "self_send": 0,
-    "attachments": [
-        {
-            "mime_type": "image/jpeg",
-            "cte": "BASE64",
-            "flags": 0,
-            "cid": "1090817003",
-            "sumphash": "f3c3e3bccbec84e477c5d475b5553680",
-            "size": 823,
-            "name": "~WRD000.jpg"
-        }
-    ],
-    "html_tr_tag_count": 4,
+    "header_from_count": 1,
+    "phish_score": 0,
+    "html_in_text_plain_count": 0,
+    "extractedSrcUrlsTotalCount": 2,
+    "rcpts_count": 1,
     "extractedEmails": [
         "info@pravasolnajeskyne.cz",
         "m.krebs@seznam.cz",
         "964info@pravasolnajeskyne.czwww.pravasolnajeskyne.cz"
     ],
-    "html_tag_total_count": 465,
-    "mime_children_count": 2,
-    "spamtrap_hit": false,
-    "extractedEmailsDomainCount": 3,
-    "extractedHrefUrlsTotalCount": 1,
-    "extractedSrcUrlsCardinality": 2,
-    "spamscore": 1,
-    "ahref_total_count": 3,
-    "extractedEmailsCardinality": 3,
-    "extractedSrcUrlsTotalCount": 2,
-    "dkim_count": 0,
-    "adscore": 0,
-    "pepca": "p80fa388cd4fcd4be",
-    "dkStatusDetail": "NOT_SIGNED",
-    "html_script_tag_count": 0,
-    "date_difference": -75957696,
-    "html_in_text_plain_count": 0,
-    "pepca_style": "",
-    "word_count": 600,
-    "rfcid_length": 60,
     "spf_dom_policy_registry": "Policy not found",
-    "pepcatotal": 0,
-    "last10words": " Tato zprava byla zkontrolovana na viry programem Avast Antivirus www avast com ",
-    "extractedHrefUrls": [
-        "http://www.avast.com/"
+    "dkim_hfrom_match": 0,
+    "list_unsubscribe_total_count": 0,
+    "ahref_total_count": 3,
+    "extractedEmailsDomainCount": 3,
+    "html_td_tag_count": 8,
+    "spamtrap_hit": false,
+    "mime_children_types": [
+        "text/plain",
+        "multipart/related"
     ],
-    "spfstatus_hfrom": "SPF_NONE",
-    "header_reply_to_count": 0,
-    "senders": {
-        "log_cnt_idf_detail": [],
-        "log_ecnt_idf_detail": [],
-        "tf_log_idf": "",
-        "log_cnt-pow4_w_duc": "",
-        "log_ecnt_idf_log_tidf_detail": [],
-        "cnt-pow_w_duc_detail": [],
-        "cnt-pow_w_duc": "",
-        "log_ecnt-w_duc_detail": [],
-        "idf": "",
-        "cnt-pow4_w_duc_detail": [],
-        "ttf_w_duc_detail": [],
-        "ettf_w_duc_detail": [],
-        "log_cnt-w_duc": "",
-        "src_revert": "volny",
-        "log_cnt_idf_log_tidf_detail": [],
-        "log_cnt_idf_log_tidf": "",
-        "log_cnt-pow4_w_duc_detail": [],
-        "log_cnt-pow_w_duc": "",
-        "cnt-pow4_w_duc": "",
-        "plain_domain": "avast",
-        "src_revert_detail": [
-            {
-                "confidence": 1,
-                "domain": "volny"
-            }
-        ],
-        "log_ecnt_log_idf_log_tidf": "",
-        "log_ecnt_idf_log_tidf": "",
-        "log_cnt-pow_w_duc_detail": [],
-        "ttf_w_duc": "",
-        "plain_domain_detail": [
-            {
-                "confidence": 2,
-                "domain": "avast"
-            },
-            {
-                "confidence": 1,
-                "domain": "pravasolnajeskyne"
-            }
-        ],
-        "log_ecnt_idf": "",
-        "tf_log_idf_detail": [],
-        "ettf_w_duc": "",
-        "idf_detail": [],
-        "log_ecnt_log_idf_log_tidf_detail": [],
-        "domain_keywords_detail": [
-            {
-                "confidence": 18885273.5382,
-                "domain": "firotour"
-            }
-        ],
-        "domain_keywords": "firotour",
-        "log_cnt-w_duc_detail": [],
-        "log_ecnt-w_duc": "",
-        "log_cnt_idf": ""
-    },
+    "extractedTxtUrlsCardinality": 3,
     "dk_statuses": [
         {
-            "statusDetail": "NOT_SIGNED",
-            "status": "NEUTRAL"
+            "status": "NEUTRAL",
+            "statusDetail": "NOT_SIGNED"
         }
     ],
+    "first10words": " Dobry den platba na miste v hotovosti dekujeme a tesime se na Vasi navstevu s pozdravem BEST SOL s r o tel 220 571 353 mobi",
+    "extractedEmailsCardinality": 3,
+    "notches": [
+        {
+            "score": 1,
+            "subscores": [
+                1,
+                0.0
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "module": "ill"
+        }
+    ],
+    "date_difference": -75957696,
+    "extractedEmailsTotalCount": 3,
+    "subject_image_count": 0,
+    "extractedSrcUrlsCardinality": 2,
+    "dkim_signs_cnt": 1,
+    "pepca_style": "",
+    "html_script_tag_count": 0,
+    "extractedHrefUrlsCardinality": 1,
+    "adscore": 0,
+    "list_unsubscribe_http_count": 0,
+    "extractedHrefUrlsTotalCount": 1,
     "content": "CONTENT_DEFAULT",
+    "rfcid_length": 60,
+    "extractedTxtUrlsDomainCount": 3,
+    "pepca_inline_style_total": 0,
+    "dkim_count": 0,
+    "subject": "RE objednavka",
+    "pepcatotal": 0,
+    "mime_root_type": "multipart/alternative",
+    "ahref_camouflage_count": 0,
+    "dkStatusDetail": "NOT_SIGNED",
+    "header_reply_to_count": 0,
+    "list_unsubscribe_mailto_count": 0,
+    "rfcid_is_foreign": 0,
+    "dkstatus": "NEUTRAL",
+    "mime_children_count": 2,
+    "extractedHrefUrlsDomainCount": 1,
+    "word_count": 600,
+    "list_unsubscribe_invalid_count": 0,
+    "precedence": 3,
+    "extractedTxtUrls": [
+        "http://www.pravasolnajeskyne.cz",
+        "http://www.avast.com",
+        "http://s.r.o.tel.:"
+    ],
+    "spf_status_registry": "Status not found",
+    "lang": "cs",
+    "extractedTxtUrlsTotalCount": 3,
+    "phishing": {
+        "is_html": true,
+        "num_subdomain_phish": 0,
+        "body_richness": 0.234741784037559,
+        "num_domain_phish": 0,
+        "num_https_urls": 0,
+        "text_link_with_path": 0,
+        "num_text_forms": 2,
+        "num_phish_keywords": 0,
+        "num_external_links": 2,
+        "num_non_80_port_urls": 0,
+        "subject_richness": 0.125,
+        "num_black_sheep_link": -1,
+        "num_freehost_urls": 0,
+        "num_sender_diff_url": 2,
+        "max_num_dots_urls": 4,
+        "fake_https": 0,
+        "suspicious_links": [],
+        "ner_domain_detected": false,
+        "num_black_sheep_link_global": -1,
+        "max_num_slashes_urls": 1,
+        "num_param_phish": 0,
+        "num_www_in_url_path": 0,
+        "text_and_href": 0,
+        "num_path_phish": 0,
+        "camouflage": 0,
+        "subject_phish_keywords": 0,
+        "num_html_script_tags": 0,
+        "num_black_sheep_link_phish": 0,
+        "num_shortened_urls": 0,
+        "num_of_chars": 2555,
+        "num_ip_urls": 0,
+        "html_form": 0,
+        "num_tld_in_url_path": 0
+    },
     "extractedSrcUrls": [
         "cid:1090817003",
         "http://static.avast.com/emails/avast-mail-stamp.png"
     ],
-    "list_unsubscribe_http_count": 0,
-    "extractedHrefUrlsDomainCount": 1,
-    "subject": "RE objednavka",
-    "list_unsubscribe_total_count": 0,
+    "from_match": 0,
+    "html_tr_tag_count": 4,
+    "senders": {
+        "log_cnt-w_duc_detail": [],
+        "idf_detail": [],
+        "log_ecnt_idf_detail": [],
+        "domain_keywords": "firotour",
+        "log_cnt-pow_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "src_revert": "volny",
+        "ttf_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "domain": "firotour",
+                "confidence": 18885273.5382
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_cnt_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-w_duc": "",
+        "log_ecnt-w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "tf_log_idf": "",
+        "log_cnt_idf": "",
+        "log_ecnt_idf": "",
+        "idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "volny",
+                "confidence": 1
+            }
+        ],
+        "plain_domain_detail": [
+            {
+                "domain": "avast",
+                "confidence": 2
+            },
+            {
+                "domain": "pravasolnajeskyne",
+                "confidence": 1
+            }
+        ],
+        "cnt-pow_w_duc_detail": [],
+        "plain_domain": "avast",
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "tf_log_idf_detail": []
+    },
+    "pepca": "p80fa388cd4fcd4be",
+    "rfcid_is_invalid": false,
     "extractedSrcUrlsDomainCount": 1,
-    "ahref_camouflage_count": 0,
-    "list_unsubscribe_invalid_count": 0,
-    "header_from": "info@pravasolnajeskyne.cz"
+    "ahref_verbal_count": 1,
+    "now": 1494598171,
+    "spfstatus_hfrom": "SPF_NONE",
+    "pepca_inline_style": "p83d9268a0a0596a5",
+    "pepca_style_total": 0,
+    "spamscore": 1,
+    "dkim_efrom_match": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/0213334016e38cc65e31f90e904520f4.eml",
+    "attachments": [
+        {
+            "cte": "BASE64",
+            "name": "~WRD000.jpg",
+            "size": 823,
+            "flags": 0,
+            "cid": "1090817003",
+            "sumphash": "f3c3e3bccbec84e477c5d475b5553680",
+            "mime_type": "image/jpeg"
+        }
+    ],
+    "html_tag_total_count": 465,
+    "extractedHrefUrls": [
+        "http://www.avast.com/"
+    ]
 }
