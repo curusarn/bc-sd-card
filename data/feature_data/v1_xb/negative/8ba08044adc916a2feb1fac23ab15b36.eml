@@ -1,0 +1,106 @@
+{
+    "phashes": [
+        {
+            "value": "p9c4972fb158b1900",
+            "name": "pepca"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "info@solidni-obchod.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/8ba08044adc916a2feb1fac23ab15b36.eml",
+    "unsub_link_candidates": [
+        "http://www.solidni-obchod.cz"
+    ],
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "pepca": "p9c4972fb158b1900",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": "m jako jste se prihlasili Staci zadat svou e mailovou adresu a my Vas po potvrzeni odhlasime Prejeme Vam hezky den Solidni obchod cz",
+    "subject": "Solidni obchod cz potvrzeni zadosti o registraci pro infomaily",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 9611780.18588951,
+                "domain": "mcsv"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "mcsv",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "-obchod",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "-obchod"
+            },
+            {
+                "confidence": 2,
+                "domain": "solidni-obchod"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "unsub_link_texts": [
+        "  odhlaseni je mozny stejny zpusob jako byt se prihlasit"
+    ],
+    "unsub_link": "http://www.solidni-obchod.cz",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Solidni obchod cz Dobry den Vas e mail ellenhaskow seznam cz byl uspesne zaregistr",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 46,
+    "adscore": 0,
+    "spamscore": 1.1
+}

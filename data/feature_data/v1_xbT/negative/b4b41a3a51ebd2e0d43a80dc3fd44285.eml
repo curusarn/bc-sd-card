@@ -1,0 +1,107 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p652096b6f33a9c31",
+    "last10words": "ne postovneho a balneho 3 868 00 4 658 00 Zpusob platby dobirka",
+    "pepca_style_total": 0,
+    "header_from": "orfadmin@litex.cz",
+    "first10words": " Objednavka c 049400532 viz pripojeny soubor odeslana z www aplikace Zoner inShop Litex dealer na adrese dealer litex cz Potvrzeni objednav",
+    "attachments": [
+        {
+            "name": "Kopie obj-049400532.txt",
+            "pepca": "p830717b17c9f3ccc",
+            "cte": "BASE64",
+            "mime_type": "text/plain",
+            "size": 2600,
+            "flags": 0,
+            "sumphash": "1f843df36bf7b265deac86c95c3daa51"
+        }
+    ],
+    "word_count": 174,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/b4b41a3a51ebd2e0d43a80dc3fd44285.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p830717b17c9f3ccc"
+        },
+        {
+            "name": "pepca",
+            "value": "p652096b6f33a9c31"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "zoner",
+                "confidence": 13452429.647616
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "zoner",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "litex",
+        "plain_domain_detail": [
+            {
+                "domain": "litex",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "sk",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Vase objednavka c 049400532",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

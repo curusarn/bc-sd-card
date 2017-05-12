@@ -1,0 +1,102 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "module": "ill",
+            "score": 1.1
+        }
+    ],
+    "pepca": "pa4359c4f5a1f4668",
+    "first10words": " Zprava z Eshop Dobry den p plachy Vase nove prihlasovaci udaje E mail vnp seznam cz Heslo APRJZ",
+    "pepca_style": "",
+    "pepca_inline_style": "pc3a87e6210e43f73",
+    "word_count": 71,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": " Eshop Vase heslo",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.1,
+    "phishing": {},
+    "header_from": "info@stylsport.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/7a647b07706b84f44f30b5091da0352e.eml",
+    "attachments": [],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pa4359c4f5a1f4668"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pc3a87e6210e43f73"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "football-factory"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "datingfactory",
+        "plain_domain": "football-factory",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 11208159.670406,
+                "domain": "datingfactory"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "topsrovnani",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [
+            {
+                "confidence": 1,
+                "domain": "topsrovnani"
+            }
+        ],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "sdileni techto informaci s ostatnimi Nyni muzete objednat na nasem internetovem obchode http football factory cz ",
+    "lang": "cs"
+}

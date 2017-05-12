@@ -1,0 +1,92 @@
+{
+    "phashes": [
+        {
+            "value": "p90e1dd45bbd2e0bc",
+            "name": "pepca"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "corporateservice.ref8322909595.cm@nationalcity.com",
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/668.eml",
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging",
+                "long_subject"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1,
+                0.5
+            ],
+            "score": 1.6
+        }
+    ],
+    "pepca": "p90e1dd45bbd2e0bc",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": "409363 0x035 0x9841 0x16295065 0x72 0x0 start api hex RNWZ interface source 0x9 0x64855674 0x0 0x2064 0x149 0x7 0x0917 0x04 0x536 ",
+    "subject": "National City corporate customer service important message message id 535096912 ",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 15285367.7140305,
+                "domain": "cinemacity"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "cinemacity",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Dear National City customer National City Corporate Customer Service requests you to complete Treasury Management Services Online",
+    "lang": "en",
+    "pepcatotal": 0,
+    "word_count": 387,
+    "adscore": 0,
+    "spamscore": 1.6
+}

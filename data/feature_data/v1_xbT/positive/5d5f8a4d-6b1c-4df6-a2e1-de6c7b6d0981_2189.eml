@@ -1,0 +1,92 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p8ee4e57246d51df9",
+    "last10words": " 0x91 0x59095663 common 0x04308721 0x97201393 0x23095246 0x0 0x7 0x228 0x5293 0x9 0x58 0x70 rcs 0x93 0x953 PI3Z root R1QU 0x980 ",
+    "pepca_style_total": 0,
+    "header_from": "csteam.refcm02202656208.tn@capitalonebank.com",
+    "first10words": " Dear Capital One Bank customer Capital One Customer Service requests you to complete TowerNET Client Form This procedur",
+    "attachments": [],
+    "word_count": 323,
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/2189.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p8ee4e57246d51df9"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "aweber",
+                "confidence": 15641081.6767393
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "aweber",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "en",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Secure Details Confirmation message id bv0701818848 ",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": true,
+        "5_top_domains_id_0": 0,
+        "5_top_domains_percent_0": 1.0
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

@@ -1,0 +1,96 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pd7df51bcd7fabc0e",
+    "last10words": " zbozi 2 Celkem polozek 1 Cena za zbozi 258 Kc Celkova sleva 0 Kc Cena za postovne 89 Kc Cena objednavky celkem 347 Kc ",
+    "pepca_style_total": 0,
+    "header_from": "objednavka@vivaco.cz",
+    "first10words": " Objednavka c 14421 z e shopu na Vasich strankach Informace o zakaznikovi Jmeno Karla Prijmeni Drabinova Ulice ",
+    "attachments": [],
+    "word_count": 191,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/23239cfb1e5ef114307bf1317743a241.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pd7df51bcd7fabc0e"
+        },
+        {
+            "name": "pepca_style",
+            "value": "pade7d9d1bdb2899c"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "masterinter",
+                "confidence": 25491228.990176
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "masterinter",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Objednavka z e shopu na Vasich strankach",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": true,
+        "5_top_domains_id_0": 0,
+        "5_top_domains_percent_0": 1.0
+    },
+    "pepca_style": "pade7d9d1bdb2899c",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

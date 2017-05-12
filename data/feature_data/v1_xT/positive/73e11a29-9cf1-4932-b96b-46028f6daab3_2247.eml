@@ -1,0 +1,95 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging"
+            ],
+            "module": "ill",
+            "score": 1.1
+        }
+    ],
+    "pepca": "p981ccb1acf4d9375",
+    "first10words": " Dear Citizens Bank and Charter One Bank customer Citizens Bank Charter One Bank Customer Service requests you to complete Money",
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "word_count": 306,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Citizens Bank and Charter One Bank Customer Details Confirmation ",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.1,
+    "phishing": {
+        "5_top_domains_percent_2": 0.3333333333333333,
+        "5_top_domains_id_0": 0,
+        "5_top_domains_percent_1": 0.3333333333333333,
+        "5_top_domains_percent_0": 0.3333333333333333,
+        "5_top_domains_id_1": 0,
+        "5_top_domains_id_2": 1
+    },
+    "header_from": "serviceteam.refX5376975.gps@citizensbank.com",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/2247.eml",
+    "attachments": [],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p981ccb1acf4d9375"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "mcsv",
+        "plain_domain": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 46246179.3209225,
+                "domain": "mcsv"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "65496917 0x7325 0x1 0x8804 0x0409 root E61 SGVJ 6NI7 update serv stack end 1B0 0x3567 0x3941 0x53 0x74 0x0 0x7256 0x65 0x53 ",
+    "lang": "en"
+}

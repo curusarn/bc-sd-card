@@ -1,0 +1,118 @@
+{
+    "phashes": [
+        {
+            "value": "p141f082e9bf1dbbd",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p931ee18610ce38b0",
+            "name": "pepca"
+        },
+        {
+            "value": "pe3a57f1d02672134",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "objednavky@fler.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/fd612a28e3767b1556f5626050b7d193.eml.eml",
+    "attachments": [
+        {
+            "first10words": "?y Tyto obchodni podminky jsou platne pro nakup v obchode",
+            "size": 17396,
+            "mime_type": "application/pdf",
+            "cte": "BASE64",
+            "flags": 0,
+            "lang": "cs",
+            "name": "obchodni_podminky_elvice.pdf",
+            "pepca": "p141f082e9bf1dbbd",
+            "sumphash": "36266ab9125a23de7b8a27912d091f7e"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "pepca": "p931ee18610ce38b0",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": " V pripade jakychokoliv problemu nas kontaktujte http www fler cz kontakt Dekujeme za vyuziti nasich sluzeb Fler cz team ",
+    "subject": "Objednavka zbozi na Fler cz c 2046878",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 1,
+                "domain": "fler"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 261764456.027368,
+                "domain": "masterinter"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "fler",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "masterinter",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "fler",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "fler"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "pe3a57f1d02672134",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Vase objednavka ceka na potvrzeni Vazeny uzivateli dekujeme vam za objednavku c 2046878 kterou jste ucinil na s",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 418,
+    "adscore": 0,
+    "spamscore": 1
+}

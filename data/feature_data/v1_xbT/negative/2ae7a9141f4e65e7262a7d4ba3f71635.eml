@@ -1,0 +1,104 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p24540f860ad30786",
+    "last10words": " Dekujeme Vam za duveru v nase sluzby a verime ze Vam budou ku prospechu a plne spokojenosti www scio cz s r o ",
+    "pepca_style_total": 0,
+    "header_from": "scio@scio.cz",
+    "first10words": " Internetovy obchod Scio zmena registracnich udaju Vazeny zakazniku dovolujeme si Vas informovat o Vami provedene zmen",
+    "attachments": [],
+    "word_count": 113,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/2ae7a9141f4e65e7262a7d4ba3f71635.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p24540f860ad30786"
+        },
+        {
+            "name": "pepca_style",
+            "value": "pbddfcf07f20273f9"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "scio",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "scio",
+                "confidence": 66275271.7344465
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "scio",
+                "confidence": 1
+            }
+        ],
+        "domain_keywords": "scio",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "scio",
+        "plain_domain_detail": [
+            {
+                "domain": "scio",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Internetovy obchod Scio zmena registracnich udaju",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": true,
+        "5_top_domains_id_0": 0,
+        "5_top_domains_percent_0": 1.0
+    },
+    "pepca_style": "pbddfcf07f20273f9",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

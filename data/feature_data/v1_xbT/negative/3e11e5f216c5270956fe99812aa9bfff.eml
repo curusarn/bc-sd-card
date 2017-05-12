@@ -1,0 +1,156 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p9bc88f03e8399262",
+    "last10words": "CZ 67167 Hrusovany nad Jevisovkou E Mail michal kucera haba sro cz E Mail info haba sro cz Internet www haba sro cz ",
+    "pepca_style_total": 0,
+    "header_from": "Michal.Kucera@haba-sro.cz",
+    "first10words": " Dobry den V priloze posilam objednavku 5 2014 V pripade jak bude hotovo me prosim kontaktujte aby",
+    "attachments": [
+        {
+            "name": "image002.png",
+            "pepca": "p2fe656795a0c6472",
+            "cte": "BASE64",
+            "mime_type": "image/png",
+            "cid": "image002.png@01D0185C.E1468F20",
+            "size": 191,
+            "flags": 0,
+            "sumphash": "bf358561d77bb0d469cd1c596e6429a5"
+        },
+        {
+            "name": "image003.png",
+            "pepca": "p2fe656795a0c6472",
+            "cte": "BASE64",
+            "mime_type": "image/png",
+            "cid": "image003.png@01D0185C.E1468F20",
+            "size": 191,
+            "flags": 0,
+            "sumphash": "bf358561d77bb0d469cd1c596e6429a5"
+        },
+        {
+            "mime_type": "application/msword",
+            "name": "Kovo \u0161merda s.r.o. objedn\u00e1vka 5-2014.doc",
+            "first10words": "Objednavka c Dodavatel KOVO Smerda s r o Rousinov Vitovice",
+            "pepca": "p9f78c33a2d4da198",
+            "lang": "cs",
+            "cte": "BASE64",
+            "size": 59392,
+            "flags": 0,
+            "sumphash": "72134cd58ff7269045d52e285571a214"
+        },
+        {
+            "mime_type": "application/msword",
+            "name": "Kovo \u0161merda s.r.o. dodac\u00ed list 5-2014.doc",
+            "first10words": "Dodaci list c Dodavatel KOVO Smerda s r o Rousinov",
+            "pepca": "p29f30c200b43d60d",
+            "lang": "cs",
+            "cte": "BASE64",
+            "size": 54784,
+            "flags": 0,
+            "sumphash": "a39fe1cb354dc20c0ad93c907b40f01a"
+        }
+    ],
+    "word_count": 744,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/3e11e5f216c5270956fe99812aa9bfff.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p2fe656795a0c6472"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p2fe656795a0c6472"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p9f78c33a2d4da198"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p29f30c200b43d60d"
+        },
+        {
+            "name": "pepca",
+            "value": "p9bc88f03e8399262"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pdda9d840ce0cc217"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "jobdnes",
+                "confidence": 47452194.62784
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "jobdnes",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "haba-sro",
+        "plain_domain_detail": [
+            {
+                "domain": "haba-sro",
+                "confidence": 2
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "objednavka 5 2014",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "pdda9d840ce0cc217",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

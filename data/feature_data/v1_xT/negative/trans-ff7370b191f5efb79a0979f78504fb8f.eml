@@ -1,0 +1,108 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "module": "ill",
+            "score": 1
+        }
+    ],
+    "pepca": "p24102350071aab6a",
+    "first10words": " 13 1 2015 17 14 stav vasi objednavky PRIPRAVENA K ODESLANI Dobry den pani Bernardova mrzi nas ze Vam ani ta 2 tunika neni ",
+    "pepca_style": "",
+    "pepca_inline_style": "p4b26054bf1447235",
+    "word_count": 540,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Re Objednavka Anna Bernardova",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1,
+    "phishing": {
+        "5_top_domains_percent_0": 1.0,
+        "5_top_domains_id_0": 0
+    },
+    "header_from": "objednavky@velikostixxl.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/trans-ff7370b191f5efb79a0979f78504fb8f.eml",
+    "attachments": [
+        {
+            "sumphash": "dc5b5ace27d0916fed08dfee55dd0748",
+            "mime_type": "image/jpeg",
+            "flags": 0,
+            "size": 0,
+            "cid": "1749199839",
+            "cte": "BASE64",
+            "name": "5281185.jpg"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p24102350071aab6a"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p4b26054bf1447235"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 2,
+                "domain": "velikostixxl"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "masterinter",
+        "plain_domain": "velikostixxl",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 38236843.485264,
+                "domain": "masterinter"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "i od smlouvy najdete zde http www velikostixxl cz files Pouceni pdf Za eshop www velikostiXXL cz Marketa Brezinova IP 37 48 36 130 ",
+    "lang": "cs"
+}

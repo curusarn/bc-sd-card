@@ -1,0 +1,103 @@
+{
+    "phashes": [
+        {
+            "value": "p2833f758abc26526",
+            "name": "pepca"
+        },
+        {
+            "value": "p109d7cc9c4f31e14",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "vase@info.nutriklub.sk",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/a8b18298eefe817aa54d71feaa172cdb.eml",
+    "attachments": [],
+    "contains_list_header": true,
+    "last10words": "ho vek alebo sa spojte s nasimi odbornikmi na live chatu Odhlasit sa z odoberania newslettera ",
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca": "p2833f758abc26526",
+    "subject": "Dokoncete registraci a ziskejte vyhody Nutriklubu ZDARMA ",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 8,
+                "domain": "nutriklub"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 13416305.45048,
+                "domain": "silesnet"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "nutriklub",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "silesnet",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p109d7cc9c4f31e14",
+    "list_unsubscribe_urls": [
+        "mailto:v-cnbkkdh_bjomhbdjjl_cagjmdgo_cagjmdgo_a@bounce.danone.mkt6092.com?subject=Unsubscribe"
+    ],
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 1,
+    "first10words": " E mail sa nezobrazuje spravne Mila mamicka Jana dakuje",
+    "lang": "sk",
+    "pepcatotal": 1,
+    "word_count": 216,
+    "adscore": 0,
+    "spamscore": 1.1
+}

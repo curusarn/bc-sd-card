@@ -1,0 +1,115 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "module": "ill",
+            "score": 1.1
+        }
+    ],
+    "pepca": "p54210cf5141e4c33",
+    "first10words": " Toto je potvrzeni o precteni ke zprave kterou jste poslali pro ms urbankova ouzleby cz Poznamka Potvrzeni o prijeti znamena pouze to ze se zpr",
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "word_count": 36,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Potvrzeni o precteni zobrazeno faktura didaktika SOWA",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.1,
+    "phishing": {},
+    "header_from": "ms.urbankova@ouzleby.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/bb1a3ba9c922b56447065955f39da8d1.eml",
+    "attachments": [
+        {
+            "size": 256,
+            "mime_type": "message/disposition-notification",
+            "flags": 0,
+            "pepca": "p387f22b8db25e711",
+            "cte": "PLAIN",
+            "sumphash": "aafb1c98892e8dafb815e7c17a2d9843",
+            "name": "MDNPart2.txt"
+        },
+        {
+            "size": 1694,
+            "mime_type": "text/rfc822-headers",
+            "flags": 0,
+            "pepca": "pa82a0567a1ab0d14",
+            "cte": "PLAIN",
+            "sumphash": "d489b5effaf60b3bb7633c887284bf96",
+            "name": "MDNPart3.txt"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p387f22b8db25e711"
+        },
+        {
+            "name": "att-pepca",
+            "value": "pa82a0567a1ab0d14"
+        },
+        {
+            "name": "pepca",
+            "value": "p54210cf5141e4c33"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "t-email",
+        "plain_domain": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 1220574.93495,
+                "domain": "t-email"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "otvrzeni o prijeti znamena pouze to ze se zprava zobrazila na pocitaci adresata Neni ale zaruceno ze adresat zpravu cetl a porozumel jejimu obsahu ",
+    "lang": "cs"
+}

@@ -1,0 +1,109 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p36d7d253e3884463",
+    "last10words": "ch prodavajiciho S ohledem na uvedene kupujici potvrzuje ze je s komplexni upravou vseobecnych obchodnich podminek radne seznamen ",
+    "pepca_style_total": 0,
+    "header_from": "callcentrum@mironet.cz",
+    "first10words": " Vazeny zakazniku vazena zakaznice velice dekujeme za Vasi objednavku kopie v priloze Prosime ctete pozorne nasledujici",
+    "attachments": [
+        {
+            "mime_type": "application/pdf",
+            "name": "objednavka.pdf",
+            "first10words": "Mironet internetovy obchod Objednavka Dodavatel Mironet cz a s V",
+            "pepca": "p3fc3e6535d4279e6",
+            "lang": "cs",
+            "cte": "BASE64",
+            "size": 53239,
+            "flags": 0,
+            "sumphash": "9181f0a7544fadb3c75bcf98cf87450e"
+        }
+    ],
+    "word_count": 266,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/19cfca41eb180b1d1e55720760b6e548.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p3fc3e6535d4279e6"
+        },
+        {
+            "name": "pepca",
+            "value": "p36d7d253e3884463"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "masterinter",
+                "confidence": 127456144.95088
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "masterinter",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "mironet",
+        "plain_domain_detail": [
+            {
+                "domain": "mironet",
+                "confidence": 2
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Objednavka byla prijata pod cislem 20147862",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

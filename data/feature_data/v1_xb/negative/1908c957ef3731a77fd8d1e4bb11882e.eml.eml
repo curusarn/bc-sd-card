@@ -1,0 +1,103 @@
+{
+    "phashes": [
+        {
+            "value": "p74de87f368143edf",
+            "name": "pepca"
+        },
+        {
+            "value": "p6739216edea46481",
+            "name": "pepca_style"
+        },
+        {
+            "value": "p4cd3e66d3dc4cadf",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "avast@digitalriver.com",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/1908c957ef3731a77fd8d1e4bb11882e.eml.eml",
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "invalid_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.5
+            ],
+            "score": 1.5
+        }
+    ],
+    "pepca": "p74de87f368143edf",
+    "phishing": {
+        "ner_domain_detected": true
+    },
+    "pepca_style": "p6739216edea46481",
+    "last10words": "ail AVAST Software s r o Trianon Office Building Budejovicka 1518 13a 140 00 Praha 4 Ceska republika ",
+    "subject": "Avast Pokyny pro platbu objednavka c 11969893860 ",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 2,
+                "domain": "digitalriver"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 56010561.256666,
+                "domain": "digitalriver"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "digitalriver",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "digitalriver",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p4cd3e66d3dc4cadf",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Dekujeme ze jste si vybrali Avast antivirus Dekujeme ze jste si objednali produkt y od spolecnosti Avas",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 531,
+    "adscore": 0,
+    "spamscore": 1.5
+}

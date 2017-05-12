@@ -1,0 +1,124 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "module": "ill",
+            "score": 1
+        }
+    ],
+    "pepca": "p7c3b11f134a5e5bf",
+    "first10words": " Vase objednavka Dekujeme mnohokrat za Vasi objednavku Objednavku jsme prijali a probiha jeji zpracovani Po",
+    "pepca_style": "",
+    "pepca_inline_style": "peb20989953582ac8",
+    "word_count": 307,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Vase objednavka 15782 ",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1,
+    "phishing": {},
+    "header_from": "daria@atexkom.com",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/3b702debf840983729c13142c986e18f.eml",
+    "attachments": [
+        {
+            "size": 7278,
+            "mime_type": "image/gif",
+            "flags": 0,
+            "pepca": "p450bbddaaef3184d",
+            "cid": "e946f296a747d3dcd3a272c940e35231",
+            "cte": "BASE64",
+            "sumphash": "bf7097751e98092538ed8ef4c33beb07",
+            "name": "image"
+        },
+        {
+            "size": 1150,
+            "mime_type": "image/jpeg",
+            "flags": 0,
+            "pepca": "pa45bcc63fcda0cd0",
+            "cid": "e94a49f44568393c4c108aba0e9ef355",
+            "cte": "BASE64",
+            "sumphash": "68e8e38eefc485b38bc978564470130e",
+            "name": "image"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p450bbddaaef3184d"
+        },
+        {
+            "name": "att-pepca",
+            "value": "pa45bcc63fcda0cd0"
+        },
+        {
+            "name": "pepca",
+            "value": "p7c3b11f134a5e5bf"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "peb20989953582ac8"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "enka"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "masterinter",
+        "plain_domain": "enka",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 38236843.485264,
+                "domain": "masterinter"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "ka Zde je Vase pouceni o odvolani provozovatel ATEXKOM s r o Celakovskeho 3 4 77900 Olomouc IC 27855635 DIC CZ27855635 ",
+    "lang": "cs"
+}

@@ -1,0 +1,102 @@
+{
+    "phashes": [
+        {
+            "value": "p1707c1bbafaa4d6e",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pd57489efe4a068f9",
+            "name": "pepca"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "noreply@kraken4.ruk.cuni.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/7dbc09c52eda1c65a565a92d277d8cae.eml",
+    "attachments": [
+        {
+            "size": 1017,
+            "name": "invite.ics",
+            "cte": "BASE64",
+            "flags": 0,
+            "sumphash": "196c0cd78fa66fec654132f322f75d71",
+            "pepca": "p1707c1bbafaa4d6e",
+            "mime_type": "text/calendar"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "pepca": "pd57489efe4a068f9",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": "ihlaseni je nutne nejprve zrusit prihlaseni puvodni a nasledne rezervovat novou lekci Registraci je nutne ukoncit do daneho terminu ",
+    "subject": "Potvrzeni registrace Prakticky nacvik prvni pomoci 4 vseobecne lekarstvi ",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 8712411.1639575,
+                "domain": "amazon"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "amazon",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Jste prihlasen a pro prakticky nacvik prvni pomoci 4 Ucastnik Karolina Landova Trvani Datum 21 listopad 2014 08 15 to 09 15 U",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 66,
+    "adscore": 0,
+    "spamscore": 1
+}

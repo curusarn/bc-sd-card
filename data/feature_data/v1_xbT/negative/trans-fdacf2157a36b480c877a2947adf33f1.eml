@@ -1,0 +1,96 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p1967163140edfe46",
+    "last10words": "a 180x70 6 040 00 2 12 080 00 Zakladni cena dopravy 350 00 Dobirkou PPL 45 00 Celkem doprava 395 00 Celkem 12 475 00 ",
+    "pepca_style_total": 0,
+    "header_from": "jenda.pecka@tiscali.cz",
+    "first10words": " Dobry den mate novou objednavku pres Vas e shop Objednavka Cislo objednavky 1999 Cas objednavky 13 01 20",
+    "attachments": [],
+    "word_count": 189,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/trans-fdacf2157a36b480c877a2947adf33f1.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p1967163140edfe46"
+        },
+        {
+            "name": "pepca_style",
+            "value": "p1a972e87c6f08968"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p13adce730d310e7e"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "masterinter",
+                "confidence": 12745614.495088
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "masterinter",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Objednavka",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "p1a972e87c6f08968",
+    "pepca_inline_style": "p13adce730d310e7e",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

@@ -1,0 +1,108 @@
+{
+    "phashes": [
+        {
+            "value": "pff1d1ca904c670d4",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pf09e7dfd1c96213c",
+            "name": "pepca"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "klub@nolimits.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/bb892658e913327022f653931d1ba35b.eml",
+    "attachments": [
+        {
+            "size": 26876,
+            "name": "obrazek1.jpg",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "90.jpg",
+            "sumphash": "09a56fe2835c4cd314dc231bb9441e4f",
+            "pepca": "pff1d1ca904c670d4",
+            "mime_type": "image/jpeg"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "pepca": "pf09e7dfd1c96213c",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": "nutim na tento odkaz POTVRDIT REGISTRACI Tvuj tym NoLim ts www nolimits cz Pokud jeste nemas aplikaci NoLim ts klikni sem ",
+    "subject": "NoLimits potvrdte svoji registraci",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 4741264.61212,
+                "domain": "er0tickykontakt5"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "er0tickykontakt5",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "nolimits",
+        "plain_domain_detail": [
+            {
+                "confidence": 2,
+                "domain": "nolimits"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Ahoj pro uspesne dokonceni Tvoji registrace na NoLimits cz uz chybi posledni krok potvrd svoji registraci kliknutim na tento odkaz ",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 36,
+    "adscore": 0,
+    "spamscore": 1
+}

@@ -1,0 +1,99 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p828c4d2d11c675ce",
+    "last10words": "ts Visit our Privacy Policy and User Agreement if you have any questions https www epassporte com secure epassporte cgi req login ",
+    "pepca_style_total": 0,
+    "header_from": "account@epassporte.com",
+    "first10words": " paypal update account Dear valued EpassPorte member It has come to our attention that your Ep",
+    "attachments": [],
+    "word_count": 190,
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/1116.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p828c4d2d11c675ce"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p317412b651ee07b3"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "yahoogroups",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "paypal",
+                "confidence": 163189801.072785
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "yahoogroups",
+                "confidence": 2
+            }
+        ],
+        "domain_keywords": "paypal",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "en",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "SUSPECT Account information needs to be updated",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "p317412b651ee07b3",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

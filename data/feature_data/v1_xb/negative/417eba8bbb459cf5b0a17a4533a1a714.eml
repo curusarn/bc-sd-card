@@ -1,0 +1,117 @@
+{
+    "phashes": [
+        {
+            "value": "p20d0e45f1bd820e3",
+            "name": "pepca"
+        },
+        {
+            "value": "p1c678915570613c1",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "michal@dietologickyporadce.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/417eba8bbb459cf5b0a17a4533a1a714.eml",
+    "unsub_link_candidates": [
+        "http://app.smartk5k7.cz/unsubscribe.php?id=PU1UTTVVVE05RWtKMklqTTl3a0ppbHpNMVVXTXdRVE8wTVdOMk1ETzBJV1kxSUdaNGtUWndFbVkxVVROMk1XUERaaU14QVROMmN6TngwVFQ%3D"
+    ],
+    "attachments": [],
+    "contains_list_header": true,
+    "last10words": " den preje Tym DietologickyPoradce CZ Odhlasit se z odberu 2012 Michal Osina Vsechna prava vyhrazena ",
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1,
+                0.1
+            ],
+            "score": 1.2
+        }
+    ],
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca": "p20d0e45f1bd820e3",
+    "subject": "dekujeme za registraci",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 1,
+                "domain": "skolanavyku"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 3719511.75224,
+                "domain": "skrz"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "skolanavyku",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "skrz",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "dietologickyporadce",
+        "plain_domain_detail": [
+            {
+                "confidence": 3,
+                "domain": "dietologickyporadce"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p1c678915570613c1",
+    "unsub_link_texts": [
+        "cz odhlasit se z odber michal osina vsechen prav vyhrazen"
+    ],
+    "list_unsubscribe_urls": [
+        "http://app.smartk5k7.cz/unsubscribe.php?id=PU1UTTVVVE05RWtKMklqTTl3a0ppbHpNMVVXTXdRVE8wTVdOMk1ETzBJV1kxSUdaNGtUWndFbVkxVVROMk1XUERaaU14QVROMmN6TngwVFQ%3D"
+    ],
+    "unsub_link": "http://app.smartk5k7.cz/unsubscribe.php?id=PU1UTTVVVE05RWtKMklqTTl3a0ppbHpNMVVXTXdRVE8wTVdOMk1ETzBJV1kxSUdaNGtUWndFbVkxVVROMk1XUERaaU14QVROMmN6TngwVFQ%3D",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Facebook www dietologickyporadce cz Nezobrazuje se Vam e mail spravne Zobrazte jej v prohlizeci ",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 135,
+    "adscore": 0,
+    "spamscore": 1.2
+}

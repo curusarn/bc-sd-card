@@ -1,0 +1,103 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pd0967a9b478ef05d",
+    "last10words": "ved Designated trademarks and brands are the property of their respective owners PayPal is located at 2211 N First St San Jose CA 95131 ",
+    "pepca_style_total": 0,
+    "header_from": "service@paypal.com",
+    "first10words": " PayPal May 2006 Dear users of PayPal services Due to upcoming year 2006 ",
+    "attachments": [],
+    "word_count": 651,
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing2/859.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pd0967a9b478ef05d"
+        },
+        {
+            "name": "pepca_style",
+            "value": "pa32bb61bfb628280"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "paypal",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "paypal",
+                "confidence": 1712081058.10833
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "paypal",
+                "confidence": 15
+            }
+        ],
+        "domain_keywords": "paypal",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "en",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "May 2006 Update and Verify",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": true,
+        "5_top_domains_id_2": 0,
+        "5_top_domains_id_1": 0,
+        "5_top_domains_percent_1": 0.058823529411764705,
+        "5_top_domains_percent_2": 0.058823529411764705,
+        "5_top_domains_id_0": 0,
+        "5_top_domains_percent_0": 0.8823529411764706
+    },
+    "pepca_style": "pa32bb61bfb628280",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

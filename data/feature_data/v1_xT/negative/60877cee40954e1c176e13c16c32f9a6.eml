@@ -1,0 +1,103 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "module": "ill",
+            "score": 1.1
+        }
+    ],
+    "pepca": "pd2537c09f92548a3",
+    "first10words": " Ucet Microsoft Akce pozadovana pro dvoustupnove overeni Ted kdyz jste zapnuli dvoustupnove overovani pro ucet st ",
+    "pepca_style": "p5fe05c7d4078b5d0",
+    "pepca_inline_style": "p7b70f1c4a12de0b1",
+    "word_count": 141,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Akce pozadovana pro dvoustupnove overeni",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.1,
+    "phishing": {
+        "5_top_domains_percent_2": 0.3333333333333333,
+        "5_top_domains_id_0": 0,
+        "5_top_domains_percent_1": 0.3333333333333333,
+        "5_top_domains_percent_0": 0.3333333333333333,
+        "5_top_domains_id_1": 1,
+        "5_top_domains_id_2": 2
+    },
+    "header_from": "account-security-noreply@account.microsoft.com",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/60877cee40954e1c176e13c16c32f9a6.eml",
+    "attachments": [],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pd2537c09f92548a3"
+        },
+        {
+            "name": "pepca_style",
+            "value": "p5fe05c7d4078b5d0"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p7b70f1c4a12de0b1"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "microsoft",
+        "plain_domain": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 18492016.615621,
+                "domain": "microsoft"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "aplikace Zune Xbox 360 Windows Phone 8 nebo starsi verze Nastavit moje aplikace a zarizeni Diky Tym uctu Microsoft ",
+    "lang": "cs"
+}

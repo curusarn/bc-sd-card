@@ -1,0 +1,108 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "module": "ill",
+            "score": 1
+        }
+    ],
+    "pepca": "p5f939b23f031ae2e",
+    "first10words": " Vazeny kliente Vase heslo na www SpravceFinanci cz jsme uspesne zmenili Prejeme prijemn",
+    "pepca_style": "",
+    "pepca_inline_style": "p862461ce906f56f5",
+    "word_count": 131,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Uspesna zmena hesla",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1,
+    "phishing": {
+        "5_top_domains_percent_0": 1.0,
+        "5_top_domains_id_0": 0
+    },
+    "header_from": "info@spravcefinanci.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/8dadc7bcd37ffe3b68bf3136f25f2e26.eml",
+    "attachments": [
+        {
+            "sumphash": "dc5b5ace27d0916fed08dfee55dd0748",
+            "mime_type": "image/jpeg",
+            "flags": 0,
+            "size": 0,
+            "cid": "01.jpg",
+            "cte": "BASE64",
+            "name": "01.jpg"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p5f939b23f031ae2e"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p862461ce906f56f5"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 2,
+                "domain": "spravcefinanci"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "tesco-europe",
+        "plain_domain": "spravcefinanci",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 31510189.0243,
+                "domain": "tesco-europe"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "555 Tesco Financni sluzby 840 022 111 Linka Premia 840 022 444 2014 Home Credit a s ",
+    "lang": "cs"
+}

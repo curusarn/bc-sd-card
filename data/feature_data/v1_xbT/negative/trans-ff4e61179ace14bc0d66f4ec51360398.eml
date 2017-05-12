@@ -1,0 +1,102 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pc3307a10ddc67476",
+    "last10words": " emailem V pripade jakychkoliv dotazu nas nevahejte kontaktovat S pozdravem Tym obchodu Top4Fitness www top4fitness cz ",
+    "pepca_style_total": 0,
+    "header_from": "info@t4s.cz",
+    "first10words": " Rekapitulace objednavky v internetovem obchode Top4Fitness Dobry den dekujeme za objednani zbozi v Top4Fitness ",
+    "attachments": [],
+    "word_count": 345,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/trans-ff4e61179ace14bc0d66f4ec51360398.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pc3307a10ddc67476"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "t4s",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "masterinter",
+                "confidence": 50982457.980352
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "t4s",
+                "confidence": 1
+            }
+        ],
+        "domain_keywords": "masterinter",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "intime",
+        "plain_domain_detail": [
+            {
+                "domain": "intime",
+                "confidence": 1
+            },
+            {
+                "domain": "top4fitness",
+                "confidence": 2
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Rekapitulace objednavky c 201500404",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

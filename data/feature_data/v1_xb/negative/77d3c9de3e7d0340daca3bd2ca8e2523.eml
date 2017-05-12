@@ -1,0 +1,210 @@
+{
+    "phashes": [
+        {
+            "value": "p7c863853e0beee73",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p6068060737b71301",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p8f2120d4beb8a0a7",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pb8448f0d9a6cd3ce",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p32141abb02ac0271",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pd8a925e6fa8cdfbd",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p0afc9150822be923",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pf41f93c2453df881",
+            "name": "pepca"
+        },
+        {
+            "value": "pb4f708db328f5b7f",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "office@jumping-fitness.com",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/77d3c9de3e7d0340daca3bd2ca8e2523.eml",
+    "attachments": [
+        {
+            "size": 30188,
+            "name": "image001.jpg",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "image001.jpg@01D0185D.2D556260",
+            "sumphash": "7555a046b3276500b955dc39010616bf",
+            "pepca": "p7c863853e0beee73",
+            "mime_type": "image/jpeg"
+        },
+        {
+            "size": 3697,
+            "name": "image002.png",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "image002.png@01D0185D.2D556260",
+            "sumphash": "a2fcf54f7e68ca666e8fc8e1cb52290b",
+            "pepca": "p6068060737b71301",
+            "mime_type": "image/png"
+        },
+        {
+            "size": 3389,
+            "name": "image003.png",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "image003.png@01D0185D.2D556260",
+            "sumphash": "f5f0c0378a29c2e4d1198b4edf53455a",
+            "pepca": "p8f2120d4beb8a0a7",
+            "mime_type": "image/png"
+        },
+        {
+            "size": 180452,
+            "name": "image006.jpg",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "image006.jpg@01D0185D.2D556260",
+            "sumphash": "8b2e0f00277439e948502eb5551ce525",
+            "pepca": "pb8448f0d9a6cd3ce",
+            "mime_type": "image/jpeg"
+        },
+        {
+            "size": 882,
+            "name": "image007.jpg",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "image007.jpg@01D0185D.2D5EFF50",
+            "sumphash": "8a2db61b50ae42cf189bfc7903ac9de2",
+            "mime_type": "image/jpeg"
+        },
+        {
+            "first10words": "Zalohova faktura JSTB International s r o PROFORMA FAKTURA c",
+            "size": 80734,
+            "mime_type": "application/pdf",
+            "cte": "BASE64",
+            "flags": 0,
+            "lang": "cs",
+            "name": "Z\u00e1lohov\u00e1_faktura_148800034.pdf",
+            "pepca": "p32141abb02ac0271",
+            "sumphash": "f0f85a95db00453b7a60725d39e347d3"
+        },
+        {
+            "first10words": "Ahoj budouci kolegove Ahoj budouci kolegove Basic Jumping skoleni probehne",
+            "size": 40960,
+            "mime_type": "application/msword",
+            "cte": "BASE64",
+            "flags": 0,
+            "lang": "cs",
+            "name": "Info BASIC diplom_BRNO.doc",
+            "pepca": "pd8a925e6fa8cdfbd",
+            "sumphash": "94be7f9c4476c08b4ea959cde03db538"
+        },
+        {
+            "first10words": "Microsoft Word fratelli hlavickovy papir docx OBEDOVE MENU JUMPING Sobota",
+            "size": 310472,
+            "mime_type": "application/pdf",
+            "cte": "BASE64",
+            "flags": 0,
+            "lang": "cs",
+            "name": "Obe\u030cdove\u0301 menu Jumping.pdf",
+            "pepca": "p0afc9150822be923",
+            "sumphash": "b6d994b6339039b9eaba2e5ac6f50595"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "pepca": "pf41f93c2453df881",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": " Czech Republic ",
+    "subject": "Faktura a informace o skoleni",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 16914713.408028,
+                "domain": "magnetpro"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "magnetpro",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "jumping-fitness",
+        "plain_domain_detail": [
+            {
+                "confidence": 2,
+                "domain": "jumping-fitness"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "pb4f708db328f5b7f",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Dobry den dekujeme za prihlasku na skoleni Jumping BASIC diplom ktere se bude konat v Brne ",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 217,
+    "adscore": 0,
+    "spamscore": 1.1
+}

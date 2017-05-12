@@ -1,0 +1,105 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "module": "ill",
+            "score": 1
+        }
+    ],
+    "pepca": "pff4abf366c59cd8a",
+    "first10words": " From Martin Hais mailto Martin Hais seznam cz Sent Thursday December 11 2014 3 05 PM To Jana Vrbova Subject objedn",
+    "pepca_style": "",
+    "pepca_inline_style": "pe6c8527d1de01fd8",
+    "word_count": 133,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "RE objednavka",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1,
+    "phishing": {},
+    "header_from": "jvrbov@prf.jcu.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/5793ad5f9f97c2ba2048232f3dc2b1e7.eml",
+    "attachments": [
+        {
+            "size": 126040,
+            "mime_type": "image/png",
+            "flags": 0,
+            "pepca": "p656f7de431432495",
+            "cid": "image001.png@01D0185C.D9D558C0",
+            "cte": "BASE64",
+            "sumphash": "86c903f67bd9b200937816f392f94fd3",
+            "name": "image001.png"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p656f7de431432495"
+        },
+        {
+            "name": "pepca",
+            "value": "pff4abf366c59cd8a"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pe6c8527d1de01fd8"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "pravednes",
+        "plain_domain": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 5449970.05066,
+                "domain": "pravednes"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": " zdroj platby 41 P504 10 0843 Predem diky moc Martin ",
+    "lang": "cs"
+}

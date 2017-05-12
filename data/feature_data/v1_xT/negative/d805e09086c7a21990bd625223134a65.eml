@@ -1,0 +1,106 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging",
+                "foreign_message_id"
+            ],
+            "module": "ill",
+            "score": 1.2
+        }
+    ],
+    "pepca": "p53bad249a40e99ca",
+    "first10words": " Vazena pani Cajthamlova kod se musi vepsat pri objednavani dodatecne nelze zadat Je mi lito Preji Vam prijemny den ",
+    "pepca_style": "",
+    "pepca_inline_style": "pad091fba8cb1350c",
+    "unsub_link": "http://www.youtube.com/bonprix",
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Re Fwd Objednavka prijata",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.2,
+    "word_count": 1327,
+    "phishing": {},
+    "header_from": "posta@bonprix.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/d805e09086c7a21990bd625223134a65.eml",
+    "attachments": [],
+    "adscore": 0,
+    "unsub_link_texts": [
+        " youtube nakupujici zakaznik obdrzet bezplatny katalog s nova obchodny nabidka"
+    ],
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p53bad249a40e99ca"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pad091fba8cb1350c"
+        }
+    ],
+    "unsub_link_candidates": [
+        "http://www.youtube.com/bonprix"
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "bonprix"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "bonprix",
+        "plain_domain": "bonprix",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 1514115866.02173,
+                "domain": "bonprix"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": " Pro kontakt se zakaznickym centrem piste na posta bonprix cz bonprix posta Ostrava 2 P O BOX 12 70212 Ostrava ",
+    "lang": "cs"
+}

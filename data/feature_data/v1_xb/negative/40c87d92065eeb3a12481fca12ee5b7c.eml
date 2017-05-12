@@ -1,0 +1,165 @@
+{
+    "phashes": [
+        {
+            "value": "pf119d8b26cf1aa6e",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p32084878a028bd80",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p44ca32b703679ef8",
+            "name": "att-pepca"
+        },
+        {
+            "value": "paaa22065cd241fb3",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p10a901a2591b973c",
+            "name": "pepca"
+        },
+        {
+            "value": "pa080ac8f76cd3a3b",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "podpora@pujckomat.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/40c87d92065eeb3a12481fca12ee5b7c.eml",
+    "attachments": [
+        {
+            "first10words": "R O Z H O D C I S M",
+            "size": 101147,
+            "mime_type": "application/pdf",
+            "cte": "BASE64",
+            "flags": 0,
+            "lang": "cs",
+            "name": "20141103095600 Rozhod\u010d\u00ed smlouva.pdf",
+            "pepca": "pf119d8b26cf1aa6e",
+            "sumphash": "943ec94a96b5abc085020aebc184dd6f"
+        },
+        {
+            "first10words": "?y Priloha c FORMULAR PRO STANDARDNI INFORMACE O SPOTREBITELSKEM UVERU",
+            "size": 42720,
+            "mime_type": "application/pdf",
+            "cte": "BASE64",
+            "flags": 0,
+            "lang": "cs",
+            "name": "20141103095601 Ro\u010dn\u00ed procentn\u00ed sazba n\u00e1klad\u016f.pdf",
+            "pepca": "p32084878a028bd80",
+            "sumphash": "2c3056681811823720ea0b62cbf2d3b9"
+        },
+        {
+            "first10words": "?y SMLOUVA O UVERU cislo Nize uvedeneho dne mesice a",
+            "size": 56385,
+            "mime_type": "application/pdf",
+            "cte": "BASE64",
+            "flags": 0,
+            "lang": "cs",
+            "name": "smlouva_o_\u00fav\u011bru.pdf",
+            "pepca": "p44ca32b703679ef8",
+            "sumphash": "a4e71b32e15715f4fa739c23ec92f3bc"
+        },
+        {
+            "first10words": "SMLOUVA O VSEOBECNYCH PODMINKACH POSKYTNUTI UVERU je uzavrena mezi Friendly",
+            "size": 308777,
+            "mime_type": "application/pdf",
+            "cte": "BASE64",
+            "flags": 0,
+            "lang": "cs",
+            "name": "20141103095558 Smlouva o V\u0161eobecn\u00fdch podm\u00ednk\u00e1ch.pdf",
+            "pepca": "paaa22065cd241fb3",
+            "sumphash": "091d8a7d33a850d5bc8d3ba732eb4242"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "pepca": "p10a901a2591b973c",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": "eobecnych podminkach poskytovani uveru 1x Smlouva o uveru 1x Rozhodci smlouva 1x Rocni procentni sazba nakladu ",
+    "subject": "Potvrzeni registrace a zaslani navrhu smluv",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 1,
+                "domain": "topsrovnani"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 18483702.7907427,
+                "domain": "zendesk"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "topsrovnani",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "zendesk",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "pujckomat",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "pujckomat"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "pa080ac8f76cd3a3b",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 1,
+    "first10words": " Vazena pani Jelinkova Vitejte na strankach Pujckomat cz a dekujeme za Vasi registraci V priloze tohoto e mailu Vam posil",
+    "lang": "cs",
+    "pepcatotal": 1,
+    "word_count": 267,
+    "adscore": 0,
+    "spamscore": 1.1
+}

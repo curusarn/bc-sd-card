@@ -1,0 +1,99 @@
+{
+    "phashes": [
+        {
+            "value": "p396fbf6f8d2f702d",
+            "name": "pepca"
+        },
+        {
+            "value": "p1174e8b9d9d7f676",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "global.zdar@seznam.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/2012f915a94b8d32b27fac164bcd3a7f.eml",
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "pepca": "p396fbf6f8d2f702d",
+    "phishing": {
+        "ner_domain_detected": true
+    },
+    "pepca_style": "",
+    "last10words": "0 www medin cz chirurgie traumatologie ortopedie stomatologie ",
+    "subject": "Re Objednavka p Barton Samsung Galaxy Note 3",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 49846442.07675,
+                "domain": "globalsources"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "globalsources",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "medin",
+        "plain_domain_detail": [
+            {
+                "confidence": 2,
+                "domain": "medin"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p1174e8b9d9d7f676",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Objednano dorazi cca streda ctvrtek S diky a pozdravem Barton Global elektro s r o Dvorakova 2459 6 591 01 Zdar nad Sazav",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 460,
+    "adscore": 0,
+    "spamscore": 1.1
+}

@@ -1,0 +1,102 @@
+{
+    "phashes": [
+        {
+            "value": "pd81b9920800a3720",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p383d834ff55a6e90",
+            "name": "pepca"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "dm@ec-group.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/trans-e2b067479371efedc3aac57261b18a2d.eml",
+    "attachments": [
+        {
+            "size": 8283,
+            "name": "objednavka.html",
+            "cte": "QPRINT",
+            "flags": 0,
+            "sumphash": "46d182fa72c8d6bbca4d6e8661e10811",
+            "pepca": "pd81b9920800a3720",
+            "mime_type": "text/html"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "pepca": "p383d834ff55a6e90",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": " Dekujeme za Vasi objednavku Tato zprava byla odeslana na vyzadani odesilatele emailu ",
+    "subject": "Objednavka",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 186244.24131,
+                "domain": "cerd"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "cerd",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Dekujeme za Vasi objednavku Tato zprava byla odeslana na vyzadani odesilatele emailu ",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 11,
+    "adscore": 0,
+    "spamscore": 1
+}

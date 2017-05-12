@@ -1,0 +1,111 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1,
+                0.1,
+                0.5
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging",
+                "foreign_message_id",
+                "long_subject"
+            ],
+            "module": "ill",
+            "score": 1.7
+        }
+    ],
+    "pepca": "p34dcab1c0fa661a6",
+    "first10words": " U S Bank Connections Web and bus E Internet Banking Login Update Procedure Dear U S Bank Commercial and Business I",
+    "pepca_style": "",
+    "pepca_inline_style": "p0b7a91d0689750ee",
+    "word_count": 209,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Customer Service Your Connections Web and e Bus service In U S Bank Connections Web and bus E Ebanking Services",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.7,
+    "phishing": {},
+    "header_from": "technical_department-id_671iqm@usbank.com",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/1775.eml",
+    "attachments": [
+        {
+            "size": 1328,
+            "mime_type": "image/gif",
+            "flags": 0,
+            "pepca": "p667eb44f81d6a6cf",
+            "cid": "001e01c77616$2fd4e32c$6401a8c0@Shop_laptop1MS",
+            "cte": "BASE64",
+            "sumphash": "788cb121ffd9a0fd2e985996d8387e50",
+            "name": "mjs565.gif"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p667eb44f81d6a6cf"
+        },
+        {
+            "name": "pepca",
+            "value": "p34dcab1c0fa661a6"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p0b7a91d0689750ee"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "mcsv",
+        "plain_domain": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 98854417.4667788,
+                "domain": "mcsv"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "e ignore this letter Copyright 2007 US Bank Connections Web and bus E Internet Banking All Rights Reserved ",
+    "lang": "en"
+}

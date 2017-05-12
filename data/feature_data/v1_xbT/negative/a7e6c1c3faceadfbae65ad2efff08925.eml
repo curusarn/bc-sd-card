@@ -1,0 +1,113 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p96cfc5ef0e2a81e0",
+    "last10words": "joy card U Elektry 974 1c 190 00 Praha 9 Tel 420 296 779 700 info njoycard cz www njoycard cz odhlaste se zde ",
+    "list_unsubscribe_urls": [
+        "info@njoycard.cz"
+    ],
+    "unsub_link_texts": [
+        "cz odhlasit se zde "
+    ],
+    "header_from": "info@njoycard.cz",
+    "contains_list_header": true,
+    "pepcatotal": 0,
+    "attachments": [],
+    "word_count": 168,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/a7e6c1c3faceadfbae65ad2efff08925.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p96cfc5ef0e2a81e0"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p38ab3d042795918f"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "reserved",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "google",
+                "confidence": 16046806.6511757
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "reserved",
+                "confidence": 1
+            }
+        ],
+        "domain_keywords": "google",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "njoycard",
+        "plain_domain_detail": [
+            {
+                "domain": "njoycard",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Potvrzeni registrace n joy card",
+    "adscore": 0,
+    "first10words": " Potvrzeni registrace n joy card webova verze zde Potvrdte prosim Vasi registraci do vernos",
+    "unsub_link": "http://klub.fokusoptik.cz/email/l/81db37837aae0a5c7b592afac2/8cc33845d66/?u=jirka.sulc19%40seznam.cz",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "unsub_link_candidates": [
+        "http://klub.fokusoptik.cz/email/l/81db37837aae0a5c7b592afac2/8cc33845d66/?u=jirka.sulc19%40seznam.cz"
+    ],
+    "pepca_inline_style": "p38ab3d042795918f",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1,
+    "pepca_style_total": 0
+}

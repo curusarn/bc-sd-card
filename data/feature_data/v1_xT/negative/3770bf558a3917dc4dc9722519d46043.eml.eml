@@ -1,0 +1,117 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "module": "ill",
+            "score": 1
+        }
+    ],
+    "pepca": "pdba606e8095a7c12",
+    "first10words": " Text v tele zpravy ",
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "word_count": 17,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Objednavka prepravy 2101447119 RASTRANS Objednavka",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1,
+    "phishing": {},
+    "header_from": "Jana.Behalkova@ceroz.com",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/3770bf558a3917dc4dc9722519d46043.eml.eml",
+    "attachments": [
+        {
+            "size": 21675,
+            "mime_type": "application/pdf",
+            "flags": 0,
+            "pepca": "pc71b2709292ad621",
+            "first10words": "Strana Objednavka prepravy Celk pocet stran Objednavka prepravy CEROZFRUCHT s",
+            "cte": "BASE64",
+            "sumphash": "2318f312440cf9ff732fc92f6e07cedb",
+            "name": "2101447119-RASTRANS-Objednavka.PDF",
+            "lang": "cs"
+        },
+        {
+            "size": 84459,
+            "mime_type": "application/pdf",
+            "flags": 0,
+            "pepca": "pba6da17905f92ead",
+            "first10words": "Priloha k objednavce Firma CEROZFRUCHT s r o Na vysluni",
+            "cte": "BASE64",
+            "sumphash": "e074b6fc7f07f2e045c4e4b087858e8c",
+            "name": "Priloha_C.pdf",
+            "lang": "cs"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "pc71b2709292ad621"
+        },
+        {
+            "name": "att-pepca",
+            "value": "pba6da17905f92ead"
+        },
+        {
+            "name": "pepca",
+            "value": "pdba606e8095a7c12"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "teletrade-dj",
+        "plain_domain": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 26185.5602101,
+                "domain": "teletrade-dj"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": " Text v tele zpravy ",
+    "lang": "un"
+}

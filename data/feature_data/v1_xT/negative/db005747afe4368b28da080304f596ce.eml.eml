@@ -1,0 +1,161 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging",
+                "foreign_message_id"
+            ],
+            "module": "ill",
+            "score": 1.2
+        }
+    ],
+    "pepca": "p1346c4fb664a2969",
+    "first10words": " Vazena pani Smolikova Vase objednavka c 1501000615 byla vyexpedovana a predana spolecnosti k doruceni na ad",
+    "pepca_style": "",
+    "pepca_inline_style": "p35133ebbed37018c",
+    "unsub_link": "http://email.vasecocky.cz/c/ZD1iMGNlJmk9MjAxNTAxMTIxMzQ5NDguMTE1NzkuMjA5MDElNDB2YXNlY29ja3kuY3omaD1lZjBlOTZiZmUxMDZkZmY3NWUzZTljNTVlMWQzZDhjMyZsPWh0dHAlM0ElMkYlMkZ3d3cudmFzZWNvY2t5LmN6JTJGb2JjaG9kbmktcG9kbWlua3kuaHRtbCZyPWxlbmNhLmdhYnpkeWxvdmElNDBzZXpuYW0uY3o",
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "VaseCocky cz objednavka c 1501000615 byla vyexpedovana",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.2,
+    "word_count": 285,
+    "phishing": {},
+    "header_from": "objednavky@vasecocky.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/db005747afe4368b28da080304f596ce.eml.eml",
+    "attachments": [
+        {
+            "size": 351077,
+            "mime_type": "application/pdf",
+            "flags": 0,
+            "pepca": "p56947e402ee68256",
+            "first10words": "TEIIToLETIIOESAHUJEDI LEITiIFORI IACE PICLIVESIJTJPREITETEAUCHOVEJTTPROBUDOUCfPOU fl Bausch Lomb Blotruerimulti purpose solution",
+            "cte": "BASE64",
+            "sumphash": "495086fe26fb7662c32e83e3d68d15ab",
+            "name": "leaflet-2510-cs.pdf",
+            "lang": "un"
+        },
+        {
+            "size": 234901,
+            "mime_type": "application/pdf",
+            "flags": 0,
+            "pepca": "pc165104abc4263ee",
+            "first10words": "Jak snadno aplikovat kontaktni cocky Umyjte oplachnete a osuste si",
+            "cte": "BASE64",
+            "sumphash": "b1f9aa46ead97e27b6c0cdc7ffd138b4",
+            "name": "leaflet-2240-cs.pdf",
+            "lang": "cs"
+        },
+        {
+            "size": 1078883,
+            "mime_type": "application/pdf",
+            "flags": 0,
+            "pepca": "pf4b82a4795832817",
+            "first10words": "Danovy doklad faktura c Maternia s r o Videnska Nova",
+            "cte": "BASE64",
+            "sumphash": "300fcb27f96d25b905b5a5c5fba62838",
+            "name": "vasecocky-faktura-6501002122.pdf",
+            "lang": "cs"
+        }
+    ],
+    "adscore": 0,
+    "unsub_link_texts": [
+        " obchodny podminka "
+    ],
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p56947e402ee68256"
+        },
+        {
+            "name": "att-pepca",
+            "value": "pc165104abc4263ee"
+        },
+        {
+            "name": "att-pepca",
+            "value": "pf4b82a4795832817"
+        },
+        {
+            "name": "pepca",
+            "value": "p1346c4fb664a2969"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p35133ebbed37018c"
+        }
+    ],
+    "unsub_link_candidates": [
+        "http://email.vasecocky.cz/c/ZD1iMGNlJmk9MjAxNTAxMTIxMzQ5NDguMTE1NzkuMjA5MDElNDB2YXNlY29ja3kuY3omaD1lZjBlOTZiZmUxMDZkZmY3NWUzZTljNTVlMWQzZDhjMyZsPWh0dHAlM0ElMkYlMkZ3d3cudmFzZWNvY2t5LmN6JTJGb2JjaG9kbmktcG9kbWlua3kuaHRtbCZyPWxlbmNhLmdhYnpkeWxvdmElNDBzZXpuYW0uY3o"
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "vasecocky"
+            },
+            {
+                "confidence": 1,
+                "domain": "ky"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "vasecocky",
+        "plain_domain": "vasecocky",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 43605667.339271,
+                "domain": "vasecocky"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "vasecocky",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [
+            {
+                "confidence": 4,
+                "domain": "vasecocky"
+            }
+        ],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "jte posledni objednavku Zelena linka 800 800 170 Po Pa 8 16 hod www VaseCocky cz Obchodni podminky Facebook Twitter ",
+    "lang": "cs"
+}

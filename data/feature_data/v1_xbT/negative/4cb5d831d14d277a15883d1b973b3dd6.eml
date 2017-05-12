@@ -1,0 +1,98 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p06a311a3d9adf796",
+    "last10words": "zstvi Cena bez DPH Cena celkem 452m Skoda 110R grass green 83 L 273 1 273 330 Doprava posta 74 90 Celkem 420 ",
+    "pepca_style_total": 0,
+    "header_from": "objednavky@designtricka.cz",
+    "first10words": " Dobry den Informujeme ze dnes expedujeme Vasi zasilku Dorazit by mela nejpozdeji do 2 pracovnich dnu Preji hezky den a poh",
+    "attachments": [],
+    "word_count": 192,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/4cb5d831d14d277a15883d1b973b3dd6.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p06a311a3d9adf796"
+        },
+        {
+            "name": "pepca_style",
+            "value": "p1a972e87c6f08968"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p21125bb927185ea9"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "masterinter",
+                "confidence": 12745614.495088
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "masterinter",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Re Objednavka designtricka cislo 140699",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "p1a972e87c6f08968",
+    "pepca_inline_style": "p21125bb927185ea9",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

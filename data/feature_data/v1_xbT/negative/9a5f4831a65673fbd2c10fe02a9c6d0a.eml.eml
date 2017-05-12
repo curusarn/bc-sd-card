@@ -1,0 +1,106 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pf76e708da58568f4",
+    "last10words": "prodlene nas o tom prosim informujte emailem na is profitpraha cz Dekujeme Profit o s Strakonicka 876 Praha 5 Velka Chuchle PSC 15900",
+    "pepca_style_total": 0,
+    "header_from": "profitpraha@tpnet.cz",
+    "first10words": " Dobry den V pripade ze tato faktura obsahuje jine nez Vami objednane zbozi kontaktujte nas e mailem na is profitpraha cz radi Va",
+    "attachments": [
+        {
+            "mime_type": "application/pdf",
+            "name": "_Faktura vydan\u00e1 - PROFIT-FV215100156.pdf",
+            "first10words": "FV Odeslano elektronicky Mob Dodavatel Profit sdruzeni Michal Maly Lustenicka",
+            "pepca": "p9e4947a146873996",
+            "lang": "cs",
+            "cte": "BASE64",
+            "size": 177891,
+            "flags": 0,
+            "sumphash": "b049bfeca88abc6535a400fd540ae49b"
+        }
+    ],
+    "word_count": 55,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/9a5f4831a65673fbd2c10fe02a9c6d0a.eml.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p9e4947a146873996"
+        },
+        {
+            "name": "pepca",
+            "value": "pf76e708da58568f4"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "masterinter",
+                "confidence": 12745614.495088
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "masterinter",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "faktura vydana FV215100156",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

@@ -1,0 +1,104 @@
+{
+    "phashes": [
+        {
+            "value": "p7612d947e244fd05",
+            "name": "pepca"
+        },
+        {
+            "value": "p8cb3b13f0e14f5a2",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "krasnenoze@gmail.com",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/49af59a1771eb28673427495218d3644.eml",
+    "unsub_link_candidates": [
+        "http://eshop.krasnenoze.cz/"
+    ],
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "pepca": "p7612d947e244fd05",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": "ebitele spotrebitelu Datum A a a a a a NehodAcA se L krtnete nebo Asdaje doplnte ",
+    "subject": "krasne noze Objednavka",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 66414779.7446,
+                "domain": "ricardo"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "ricardo",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "krasnenoze",
+        "plain_domain_detail": [
+            {
+                "confidence": 3,
+                "domain": "krasnenoze"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p8cb3b13f0e14f5a2",
+    "unsub_link_texts": [
+        "prostrednictvim internetovy obchod na eshop krasnenoze cz dale jen e shop elektronicky posta na adresa"
+    ],
+    "unsub_link": "http://eshop.krasnenoze.cz/",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " e mail Objednavka Krasne noze Vazeny zakazniku dekujeme za Vas nakup na Krasne noze Timto e mailem pot",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 2476,
+    "adscore": 0,
+    "spamscore": 1
+}

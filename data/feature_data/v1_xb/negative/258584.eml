@@ -1,0 +1,117 @@
+{
+    "phashes": [
+        {
+            "value": "p07bf800c73631fbd",
+            "name": "pepca"
+        },
+        {
+            "value": "pb78591944d7fea95",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "mojeo2@o2.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/258584.eml",
+    "unsub_link_candidates": [
+        "http://www.mojeo2.cz"
+    ],
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "pepca": "p07bf800c73631fbd",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": "2 140 22 Praha 4 Michle zapsana v Obchodnim rejstriku vedenem Mestskym soudem v Praze oddil B vlozka 2322 ",
+    "subject": "Moje O2 informace o aktivaci e uctu",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 6,
+                "domain": "o2"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 5581187.27106,
+                "domain": "viwefix"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "o2",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "viwefix",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "o2",
+        "plain_domain_detail": [
+            {
+                "confidence": 2,
+                "domain": "o2"
+            },
+            {
+                "confidence": 2,
+                "domain": "mojeo2"
+            },
+            {
+                "confidence": 1,
+                "domain": "o2shop"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "pb78591944d7fea95",
+    "unsub_link_texts": [
+        " prihlasit do muj o tento e mail byt vygenerovan automaticky"
+    ],
+    "unsub_link": "http://www.mojeo2.cz",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Dobry den dekujeme ze vyuzivate sluzeb O2 ",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 477,
+    "adscore": 0,
+    "spamscore": 1
+}

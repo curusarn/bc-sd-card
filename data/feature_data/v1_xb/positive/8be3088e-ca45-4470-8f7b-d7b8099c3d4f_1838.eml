@@ -1,0 +1,128 @@
+{
+    "phashes": [
+        {
+            "value": "p076abb41eab62272",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p123183e81febf3f0",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pd82a4561ae50c836",
+            "name": "pepca"
+        },
+        {
+            "value": "paf995683f67fcb14",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "servicio@banesto.es",
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/1838.eml",
+    "attachments": [
+        {
+            "size": 1501,
+            "name": "k148.gif",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "001701c73e52$3e92d8c0$7a00001a@54788",
+            "sumphash": "d91c8405373f847da2f35c91cd44f118",
+            "pepca": "p076abb41eab62272",
+            "mime_type": "image/gif"
+        },
+        {
+            "size": 1426,
+            "name": "kk179.gif",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "001801c73e52$3e9549c0$7a00000a@71578",
+            "sumphash": "297693089dec6df60b35650c333fd75f",
+            "pepca": "p123183e81febf3f0",
+            "mime_type": "image/gif"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "pepca": "pd82a4561ae50c836",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": " Con respeto El servicio del mantenimiento tecnico del Banco Banco Espanol de Credito S A Todos los derechos reservados ",
+    "subject": "Banesto Es muy importante y obligatorio a leer ",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 41128026.609924,
+                "domain": "flirtlide"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "flirtlide",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "banesto",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "banesto"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "paf995683f67fcb14",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Estimado cliente Es muy importante y obligatorio a leer Posiblemente Usted noto que la semana pasada nuestro sitio www",
+    "lang": "es",
+    "pepcatotal": 0,
+    "word_count": 225,
+    "adscore": 0,
+    "spamscore": 1.1
+}

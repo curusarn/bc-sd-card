@@ -1,0 +1,91 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "module": "ill",
+            "score": 1
+        }
+    ],
+    "pepca": "p7dd25421946943d0",
+    "first10words": " Dobry den na nize uvedene adrese si muzete zadat nove heslo k uctu hadrabova zskrenova cz Nove heslo zadejte zd",
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "word_count": 68,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Tvoriva skola Zapomenute heslo",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1,
+    "phishing": {},
+    "header_from": "info@tvorivaskola.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/0c748999095737cc78b34de2bc5a4a66.eml",
+    "attachments": [],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p7dd25421946943d0"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "tvorivaskola"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "justice",
+        "plain_domain": "tvorivaskola",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 10394251.1958,
+                "domain": "justice"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": " 664 91 Neslovice tel 548 220 002 mob 774 19 18 13 e mail info tvorivaskola cz www tvorivaskola cz ",
+    "lang": "cs"
+}

@@ -1,0 +1,97 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "module": "ill",
+            "score": 1.1
+        }
+    ],
+    "pepca": "pb1a34342ba392e40",
+    "first10words": " Dobry den J Sice uz mate objednavku vyfakturovanou a zabalenou ale samozrejme vse sto",
+    "pepca_style": "",
+    "pepca_inline_style": "pe1eddbcd58e13833",
+    "word_count": 584,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "RE Vase objednavka cislo 1418584218 byla prijata",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.1,
+    "phishing": {},
+    "header_from": "obchod@levne-povleceni.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/539cc490f7bd95a9aa203c7289cba0ac.eml",
+    "attachments": [],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pb1a34342ba392e40"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pe1eddbcd58e13833"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "levne-povleceni"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "masterinter",
+        "plain_domain": "levne-povleceni",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 12745614.495088,
+                "domain": "masterinter"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": " Prejeme Vam pekny a uspesny den WWW LEVNE POVLECENI CZ ",
+    "lang": "cs"
+}

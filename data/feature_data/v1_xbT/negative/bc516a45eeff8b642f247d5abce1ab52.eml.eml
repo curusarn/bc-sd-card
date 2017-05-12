@@ -1,0 +1,118 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p1e196a8c6488921e",
+    "last10words": " www mall cz Zakaznicka linka 840 625 529 Po Pa 8 00 22 00 facebook twitter ",
+    "pepca_style_total": 0,
+    "header_from": "zakaznicky.servis@mall.cz",
+    "first10words": " Vazeny zakazniku v priloze Vam zasilame danovy doklad k Vasi objednavce ci",
+    "attachments": [
+        {
+            "mime_type": "application/pdf",
+            "name": "priloha1.PDF",
+            "first10words": "Dodavatel Internet Mall a s Delnicka Praha ICO DIC CZ",
+            "pepca": "pce8e43b90dafee80",
+            "lang": "cs",
+            "cte": "BASE64",
+            "size": 14614,
+            "flags": 0,
+            "sumphash": "ce4e22bd786e8d4f00b0becee5a9b5cf"
+        }
+    ],
+    "word_count": 162,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/bc516a45eeff8b642f247d5abce1ab52.eml.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "pce8e43b90dafee80"
+        },
+        {
+            "name": "pepca",
+            "value": "p1e196a8c6488921e"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pc013119e4bc73ea5"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "mall",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "mall",
+                "confidence": 64610646.8948594
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "mall",
+                "confidence": 3
+            }
+        ],
+        "domain_keywords": "mall",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "mall",
+        "plain_domain_detail": [
+            {
+                "domain": "mall",
+                "confidence": 2
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Faktura k Vasi objednavce",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "pc013119e4bc73ea5",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

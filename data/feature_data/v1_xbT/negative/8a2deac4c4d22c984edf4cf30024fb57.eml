@@ -1,0 +1,110 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p445fb81b9d796ecf",
+    "last10words": " 182 00 Praha 8 zapsana v obchodnim rejstriku MS v Praze oddil B vlozka 5161 IC 25639854 ",
+    "list_unsubscribe_urls": [
+        "klub@fokusoptik.cz"
+    ],
+    "unsub_link_texts": [
+        "cz neprat li si aby vy byt obchodny sdeleni odesilatel nadale zasilan kliknout zde "
+    ],
+    "header_from": "klub@fokusoptik.cz",
+    "contains_list_header": true,
+    "pepcatotal": 0,
+    "attachments": [],
+    "word_count": 239,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/8a2deac4c4d22c984edf4cf30024fb57.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p445fb81b9d796ecf"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p13716930631eada8"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "fokusoptik",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "fokusoptik",
+                "confidence": 11357414.001124
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "fokusoptik",
+                "confidence": 14
+            }
+        ],
+        "domain_keywords": "fokusoptik",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Aktualizace hesla",
+    "adscore": 0,
+    "first10words": " Aktualizace hesla Vazena pani Kaliciakova pokud chcete ziskat nebo aktuali",
+    "unsub_link": "http://klub.fokusoptik.cz/email/l/85902c5269b4a34c66e3665326/86db62a4e9d/?u=http%3A%2F%2Fklub.fokusoptik.cz%2Femail%2Fu%2F85902c5269b4a34c66e3665326",
+    "phishing": {
+        "ner_domain_detected": true,
+        "5_top_domains_id_0": 0,
+        "5_top_domains_percent_0": 1.0
+    },
+    "pepca_style": "",
+    "unsub_link_candidates": [
+        "http://klub.fokusoptik.cz/email/l/85902c5269b4a34c66e3665326/86db62a4e9d/?u=http%3A%2F%2Fklub.fokusoptik.cz%2Femail%2Fu%2F85902c5269b4a34c66e3665326"
+    ],
+    "pepca_inline_style": "p13716930631eada8",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1,
+    "pepca_style_total": 0
+}

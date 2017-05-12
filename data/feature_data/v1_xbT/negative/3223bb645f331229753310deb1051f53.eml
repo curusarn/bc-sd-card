@@ -1,0 +1,112 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p1daf2b2804cd9fff",
+    "last10words": "is prohibited If you have received this message in error please immediately notify the sender and delete the original message and attachments ",
+    "pepca_style_total": 0,
+    "header_from": "Katrin.BenMohamedCerna@irco.com",
+    "first10words": " Dobry den pane Dvoraku A Prosim Vas na zaklade nasi domluvy o castku kterou budete fakturovat za jizdy v minu",
+    "attachments": [
+        {
+            "name": "image001.jpg",
+            "pepca": "p00b8e535a55f61f7",
+            "cte": "BASE64",
+            "mime_type": "image/jpeg",
+            "cid": "image001.jpg@01D0185D.2DDEB6A0",
+            "size": 2187,
+            "flags": 0,
+            "sumphash": "136f7a96b7efdf8c178cc786346fbe90"
+        }
+    ],
+    "word_count": 261,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/3223bb645f331229753310deb1051f53.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p00b8e535a55f61f7"
+        },
+        {
+            "name": "pepca",
+            "value": "p1daf2b2804cd9fff"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p4eccb994fcdfb60c"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "clamav",
+                "confidence": 114565814.992
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "clamav",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "thermoking",
+        "plain_domain_detail": [
+            {
+                "domain": "thermoking",
+                "confidence": 2
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "en",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "faktura za obdobi 8 12 14 12 14",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "p4eccb994fcdfb60c",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

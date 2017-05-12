@@ -1,0 +1,99 @@
+{
+    "phashes": [
+        {
+            "value": "pbbd8dc39d2ede6cf",
+            "name": "pepca"
+        },
+        {
+            "value": "p5e4a6b9b70382c64",
+            "name": "pepca_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "service@chase.com",
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing2/211.eml",
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "pepca": "pbbd8dc39d2ede6cf",
+    "phishing": {
+        "ner_domain_detected": true
+    },
+    "pepca_style": "p5e4a6b9b70382c64",
+    "last10words": "mail as this is only a notification Mail sent to this address cannot be answered 2005 JPMorgan Chase Co All Rights Reserved ",
+    "subject": " Chase OnlineSM and Bank One OnlineZ are coming together ",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 1,
+                "domain": "chase"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 5686163546.34481,
+                "domain": "kuponator"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "chase",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "kuponator",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Chase Online SM and Bank One Online are coming together ",
+    "lang": "en",
+    "pepcatotal": 0,
+    "word_count": 364,
+    "adscore": 0,
+    "spamscore": 1.1
+}

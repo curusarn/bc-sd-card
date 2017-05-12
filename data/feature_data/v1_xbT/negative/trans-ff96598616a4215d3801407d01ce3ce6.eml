@@ -1,0 +1,99 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pcb7aec505d552099",
+    "last10words": "59405 V PRIPADE POTREBY PRIPOJTE K OBJEDNAVCE POZNAMKU Prejeme Vam hezky a uspesny den AMESA s r o Mikulov ",
+    "pepca_style_total": 0,
+    "header_from": "amesa-obchod@email.cz",
+    "first10words": " Dekujeme za Vasi objednavku ktera byla prijata ke zpracovani a naslednemu odeslani Objednavka bude odeslana na adresu uvedenou v",
+    "attachments": [
+        {
+            "name": "2-5.jpg",
+            "cte": "BASE64",
+            "mime_type": "text/plain",
+            "size": 0,
+            "flags": 0,
+            "sumphash": "dc5b5ace27d0916fed08dfee55dd0748"
+        }
+    ],
+    "word_count": 426,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/trans-ff96598616a4215d3801407d01ce3ce6.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pcb7aec505d552099"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "vshosting",
+                "confidence": 16049496.1587768
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "vshosting",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Prijata objednavka",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

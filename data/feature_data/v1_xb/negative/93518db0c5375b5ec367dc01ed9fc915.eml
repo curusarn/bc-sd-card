@@ -1,0 +1,145 @@
+{
+    "phashes": [
+        {
+            "value": "p9e8c891f2240edd1",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p3c4e3428ac6222f5",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pb4ae6b15583c31ac",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pc561bc252d44a978",
+            "name": "pepca"
+        },
+        {
+            "value": "pae511c8ce337b245",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "P.Kubistova@m2c.eu",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/93518db0c5375b5ec367dc01ed9fc915.eml",
+    "attachments": [
+        {
+            "size": 4632,
+            "name": "image002.png",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "image002.png@01D0185C.CEAC98A0",
+            "sumphash": "5ea1deba94bf441ea16cd22a609d5748",
+            "pepca": "p9e8c891f2240edd1",
+            "mime_type": "image/png"
+        },
+        {
+            "size": 5424,
+            "name": "image003.png",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "image003.png@01D0185C.CEAC98A0",
+            "sumphash": "8446e68f4466e108b73abf1ed20a3eec",
+            "pepca": "p3c4e3428ac6222f5",
+            "mime_type": "image/png"
+        },
+        {
+            "first10words": "Objedn vka Objednavka NOBJ Strana zapsana dne prosince v OR",
+            "size": 30654,
+            "mime_type": "application/pdf",
+            "cte": "BASE64",
+            "flags": 0,
+            "lang": "cs",
+            "name": "NOBJ146097.pdf",
+            "pepca": "pb4ae6b15583c31ac",
+            "sumphash": "ae099dc815d5a848e241876b2afcfa0d"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "pepca": "pc561bc252d44a978",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": "aravany 9x136 1224 dph S pozdravem Radim Puchyr 774 254 707 ",
+    "subject": "objednavka",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 2877921.84285,
+                "domain": "continental-corporation"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "continental-corporation",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "m2chelp",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "m2chelp"
+            },
+            {
+                "confidence": 3,
+                "domain": "m2c"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "pae511c8ce337b245",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Dobry den Dle dohody s p Cabradkem posilam objednavku Prosim o zaslani faktury na tent",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 257,
+    "adscore": 0,
+    "spamscore": 1
+}

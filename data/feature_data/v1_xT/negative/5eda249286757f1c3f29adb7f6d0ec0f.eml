@@ -1,0 +1,93 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "module": "ill",
+            "score": 1.1
+        }
+    ],
+    "pepca": "pf899059aacecdc37",
+    "first10words": " OFFROAD Auto Jase Vas e mail marak tom seznam cz byl uspesne zaregistrovan v intern",
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "word_count": 30,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "OFFROAD Auto Jase potvrzeni o registraci pro infomaily",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.1,
+    "phishing": {},
+    "header_from": "info@auto-jase.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/5eda249286757f1c3f29adb7f6d0ec0f.eml",
+    "attachments": [],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pf899059aacecdc37"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "offroad-auto-jase"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "mcsv",
+        "plain_domain": "offroad-auto-jase",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 9611780.18588951,
+                "domain": "mcsv"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "o stranku http www offroad auto jase cz registrace emailu id 225 address marak tom seznam cz Prejeme Vam hezky den www offroad auto jase cz",
+    "lang": "cs"
+}

@@ -1,0 +1,104 @@
+{
+    "phashes": [
+        {
+            "value": "pe9d2be6f17ddf3c4",
+            "name": "pepca"
+        },
+        {
+            "value": "pbb0f56671bffb8cb",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "Managment@bankofamerica.com",
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/1659.eml",
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "evil_script",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.1,
+                0.0
+            ],
+            "score": 1.1
+        }
+    ],
+    "pepca": "pe9d2be6f17ddf3c4",
+    "phishing": {
+        "ner_domain_detected": true
+    },
+    "pepca_style": "",
+    "last10words": "a N A Member FDIC Equal Housing Lender 2007 Bank of America Corporation All rights reserved ",
+    "subject": "Account Suspension Case 00302173813",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 4,
+                "domain": "bankofamerica"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 79181838.4615342,
+                "domain": "aweber"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "bankofamerica",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "aweber",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "bankofamerica",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "bankofamerica"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "pbb0f56671bffb8cb",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Bank of America Online Banking Online Banking Guarantee Security Update Notification ",
+    "lang": "en",
+    "pepcatotal": 0,
+    "word_count": 384,
+    "adscore": 0,
+    "spamscore": 1.1
+}

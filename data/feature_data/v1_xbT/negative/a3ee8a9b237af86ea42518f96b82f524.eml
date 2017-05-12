@@ -1,0 +1,105 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pe6d863007b446dcf",
+    "last10words": "n a tesime se na dalsi spolupraci Muzete si ji zobrazit kliknutim na odkaz Mate dotazy Problemy e mail info badeko cz ",
+    "pepca_style_total": 0,
+    "header_from": "info@badeko.cz",
+    "first10words": " Objednavka Badeko Kuklenska 1 Brno 61500 Dekujeme za vas nakup Nasleduje rekapitulace vasi objednavky Objednavka ",
+    "attachments": [
+        {
+            "name": "Badeko_4fbc9809cb9a2.png",
+            "pepca": "pd4668a7ffa7f6208",
+            "cte": "BASE64",
+            "mime_type": "image/jpeg",
+            "cid": "vendor_image",
+            "size": 3705,
+            "flags": 0,
+            "sumphash": "f9f6f09a79360ab2328282d1cc639510"
+        }
+    ],
+    "word_count": 593,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/a3ee8a9b237af86ea42518f96b82f524.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "pd4668a7ffa7f6208"
+        },
+        {
+            "name": "pepca",
+            "value": "pe6d863007b446dcf"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "booking",
+                "confidence": 194583447.33674
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "booking",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Badeko Objednavka 5422",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

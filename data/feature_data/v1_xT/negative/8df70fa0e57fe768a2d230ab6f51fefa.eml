@@ -1,0 +1,121 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "module": "ill",
+            "score": 1.1
+        }
+    ],
+    "pepca": "p65f6546db358c57b",
+    "first10words": " Vase objednavka byla prijata ke zpracovani zbozi Vam odesleme v nejblizsim moznem terminu V pripade nejasnosti Vas budeme ko",
+    "pepca_style": "",
+    "pepca_inline_style": "p0b0a3628d8bf90c5",
+    "word_count": 243,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Nova objednavka ze serveru www kuchynskepotreby cz 8093",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.1,
+    "phishing": {},
+    "header_from": "eshop@kuchynskepotreby.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/8df70fa0e57fe768a2d230ab6f51fefa.eml",
+    "attachments": [
+        {
+            "size": 106589,
+            "mime_type": "application/pdf",
+            "flags": 0,
+            "pepca": "p05270146751623bb",
+            "first10words": "Obchodni podminky Vazeni zakaznici veskere podminky a ustanoveni tykajici se",
+            "cte": "BASE64",
+            "sumphash": "1dd02cb60005156bfe693e1e1aa514c7",
+            "name": "Obchodn\u00ed podm\u00ednky.pdf",
+            "lang": "cs"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p05270146751623bb"
+        },
+        {
+            "name": "pepca",
+            "value": "p65f6546db358c57b"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p0b0a3628d8bf90c5"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "rautis"
+            },
+            {
+                "confidence": 1,
+                "domain": "kuchynskepotreby"
+            },
+            {
+                "confidence": 1,
+                "domain": "eby"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "masterinter",
+        "plain_domain": "rautis",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 25491228.990176,
+                "domain": "masterinter"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "rahomira Jancakova Rautis as Ponikla 153 51242 Ponikla cr Drahomira Jancakova Telefon 739914530 Email mamina po seznam cz ",
+    "lang": "cs"
+}

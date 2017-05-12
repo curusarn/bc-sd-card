@@ -1,0 +1,99 @@
+{
+    "phashes": [
+        {
+            "value": "p47c96013dd92a8d1",
+            "name": "pepca"
+        },
+        {
+            "value": "p68a10f36c09396a1",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "info@kadernicke-potreby.com",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/62d9aacc747655acebdce08e755feaf0.eml",
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "pepca": "p47c96013dd92a8d1",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": " Za zakaznicky servis Kadernicke potreby com Alena Hablova Necy s r o Tel 420 774722995 ",
+    "subject": "Re www kadernicke potreby com objednavka cislo 149874 potvrzeni",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 25491228.990176,
+                "domain": "masterinter"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "masterinter",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "kadernicke-potreby",
+        "plain_domain_detail": [
+            {
+                "confidence": 2,
+                "domain": "kadernicke-potreby"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p68a10f36c09396a1",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Dobry den zbozi jsem pridala ale nedojde do Vanoc Az zacatkem ledna Mejte hezky den 2014 12 14 14 56 GMT 01 00 radka we",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 319,
+    "adscore": 0,
+    "spamscore": 1.1
+}

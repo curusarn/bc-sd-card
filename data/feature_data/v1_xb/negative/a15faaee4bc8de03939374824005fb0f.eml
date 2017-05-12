@@ -1,0 +1,172 @@
+{
+    "phashes": [
+        {
+            "value": "p8db58fe8766b8fe5",
+            "name": "pepca"
+        },
+        {
+            "value": "p956ca09b448d7ce8",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "phNotches": [
+        {
+            "module": "phish-score",
+            "name": [
+                "from_mismatch",
+                "phisheable",
+                "phish_keyword",
+                "unsub_link",
+                "many_emails"
+            ],
+            "subscores": [
+                1,
+                0.5,
+                0.0,
+                -2,
+                -2
+            ],
+            "score": -2.5
+        }
+    ],
+    "header_from": "reply@email1.garmin.com",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/a15faaee4bc8de03939374824005fb0f.eml",
+    "extractedEmailsTotalCount": {},
+    "theme": {},
+    "unsub_link_candidates": [
+        "http://info.garmin.com/u/un.php?par=cXxqqScaVS_97324_70849_1"
+    ],
+    "attachments": [],
+    "contains_list_header": true,
+    "last10words": "Kansas 66062 913 397 8200 Garmin com Ochrana osobnich udaju ",
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "images_in_subject"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                1
+            ],
+            "score": 2
+        }
+    ],
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "subject": "Dekujeme za registraci vaseho zarizeni nuvi 2589LMT",
+    "pepca_style": "",
+    "pepca": "p8db58fe8766b8fe5",
+    "dkstatus": {},
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 2.03494956313046,
+                "domain": "garmin"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 26352129.6394898,
+                "domain": "ebay"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "garmin",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "ebay",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "garmin",
+        "plain_domain_detail": [
+            {
+                "confidence": 3,
+                "domain": "garmin"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "domainstat_themes": {},
+    "domainstat": {},
+    "pepca_inline_style": "p956ca09b448d7ce8",
+    "unsub_link_texts": [
+        "nechtit li dostavat e mail z ucta mygarmin kliknout prosit sem "
+    ],
+    "list_unsubscribe_urls": [
+        "http://info.garmin.com/u/lu.php?lu=n7dL$:,6D:BqY:cXxqqScaVS"
+    ],
+    "spfstatus": {},
+    "unsub_link": "http://info.garmin.com/u/un.php?par=cXxqqScaVS_97324_70849_1",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": -0.75,
+    "adNotches": [
+        {
+            "module": "ill",
+            "name": [
+                "images_in_subject"
+            ],
+            "subscores": [
+                5
+            ],
+            "score": 5
+        }
+    ],
+    "pepca_inline_style_total": 6,
+    "first10words": " Registrace nuvi 2589LMT probehla uspesne Nezobrazuje se vam tento e mail Zobrazit jako webovou stranku ",
+    "universalprobes": [
+        {
+            "key": "ps-from_mismatch",
+            "value": "1"
+        },
+        {
+            "key": "ps-phish_keyword",
+            "value": "['z\\xc3\\xadskat', 'p\\xc5\\x99\\xc3\\xadstup', 'schr\\xc3\\xa1nka', 'privacy', '\\xc3\\xba\\xc4\\x8det']"
+        },
+        {
+            "key": "ps-unsub_link",
+            "value": "1"
+        },
+        {
+            "key": "ps-many_emails",
+            "value": "1"
+        }
+    ],
+    "pepca_style_total": 0,
+    "lang": "cs",
+    "pepcatotal": 5,
+    "word_count": 292,
+    "adscore": 5,
+    "dmarc_status": {},
+    "spamscore": 2
+}

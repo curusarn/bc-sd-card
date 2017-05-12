@@ -1,0 +1,110 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "module": "ill",
+            "score": 1.1
+        }
+    ],
+    "pepca": "peb4a9e6e41fdb9d6",
+    "first10words": " Pokud mate problemy se zobrazenim tohoto e mailu kliknete zde Dobry den s ohledem na zakon c 480 2004 S",
+    "pepca_style": "p06b598b579c67886",
+    "pepca_inline_style": "",
+    "unsub_link": "http://89.187.130.144/user/mailings.php?mail_id=65&email=abuse@email.cz&code=1e148b7ea077b6fb942cc39af9bd58b5",
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Zadost o souhlas",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.1,
+    "word_count": 97,
+    "phishing": {},
+    "header_from": "marketing@itcomplet.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/datasets/deduplicated_cz_phish_merged/c2c3420d2b6d227428f84fc653ad68d5.eml",
+    "attachments": [],
+    "adscore": 0,
+    "unsub_link_texts": [
+        "si vy dovolovat pozadat o souhlas se zasilani nasi informace z oblast prodej vonny svice ",
+        "s pozdrav itcomplet marketing chtit li odhlasit nebo aktualizovat sve zaznam kliknout zde "
+    ],
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "peb4a9e6e41fdb9d6"
+        },
+        {
+            "name": "pepca_style",
+            "value": "p06b598b579c67886"
+        }
+    ],
+    "unsub_link_candidates": [
+        "http://obchod.pksvice.cz",
+        "http://89.187.130.144/user/mailings.php?mail_id=65&email=abuse@email.cz&code=1e148b7ea077b6fb942cc39af9bd58b5"
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "itcomplet"
+            },
+            {
+                "confidence": 1,
+                "domain": "pksvice"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "amateri",
+        "plain_domain": "itcomplet",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 3350919.34086,
+                "domain": "amateri"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "m ITComplet marketing Chcete li odhlasit nebo aktualizovat sve zaznamy kliknete zde Zprava byla odeslana ITC ",
+    "lang": "cs"
+}

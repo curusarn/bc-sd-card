@@ -1,0 +1,104 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "module": "ill",
+            "score": 1.1
+        }
+    ],
+    "pepca": "p7e797e7ef9340607",
+    "first10words": " Potvrzeni registrace pro zasilani novinek z www vslechovice cz Potvrzeni registrace pro zasilani novinek z www vslechovice cz ",
+    "pepca_style": "",
+    "pepca_inline_style": "pa6b9bcda692ab203",
+    "unsub_link": "http://www.vslechovice.cz/newsletter-nastaveni?hash=c084089c078f2e378ddb2587088fa4c1",
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Potvrzeni registrace pro zasilani novinek z www vslechovice cz",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.1,
+    "word_count": 42,
+    "phishing": {},
+    "header_from": "info@vslechovice.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/14010ba4627aeb5e8a26ccd7a1ba22e5.eml",
+    "attachments": [],
+    "adscore": 0,
+    "unsub_link_texts": [
+        "cz pro potvrzeni registrace pro zasilani novinka kliknout prosit na tento odkaz "
+    ],
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p7e797e7ef9340607"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pa6b9bcda692ab203"
+        }
+    ],
+    "unsub_link_candidates": [
+        "http://www.vslechovice.cz/newsletter-nastaveni?hash=c084089c078f2e378ddb2587088fa4c1"
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "vslechovice"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "gamepark",
+        "plain_domain": "vslechovice",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 6924736.1508,
+                "domain": "gamepark"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "tento odkaz Formular byl odeslan z adresy http www vslechovice cz privlastkova vina veltlinske cervene rane 075 pozdni sber 2011 ",
+    "lang": "cs"
+}

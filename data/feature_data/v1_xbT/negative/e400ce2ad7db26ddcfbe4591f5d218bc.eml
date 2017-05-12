@@ -1,0 +1,151 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pa14972fe8183fef0",
+    "last10words": "dminky platne ke dni 15 12 2014 11 47 si stahnete ve formatu PDF zde http www ukocicek cz podminky php pdf 1 verze 1418640464 jazyk cs ",
+    "pepca_style_total": 0,
+    "header_from": "tothovasona@seznam.cz",
+    "first10words": " Datum objednavky 15 12 2014 11 47 Cislo objednavky 141118 Zpusob odberu ceska posta dobirka Zpusob uhrady Ceska posta d",
+    "attachments": [
+        {
+            "name": "4145542.jpg",
+            "pepca": "pc2246c4e6cc11d54",
+            "cte": "BASE64",
+            "mime_type": "image/jpeg",
+            "cid": "4145542.jpg",
+            "size": 4264,
+            "flags": 0,
+            "sumphash": "3c2e50057dc601a277eead9a10a68ccb"
+        },
+        {
+            "name": "4147728.jpg",
+            "pepca": "p36f26697226c76a6",
+            "cte": "BASE64",
+            "mime_type": "image/jpeg",
+            "cid": "4147728.jpg",
+            "size": 3596,
+            "flags": 0,
+            "sumphash": "939374b7e82bd50875b105a137006bb5"
+        },
+        {
+            "name": "5367625.jpg",
+            "pepca": "p292bcb8755a82a15",
+            "cte": "BASE64",
+            "mime_type": "image/jpeg",
+            "cid": "5367625.jpg",
+            "size": 4855,
+            "flags": 0,
+            "sumphash": "ffd9348af62f5c04368ce1e6d3339672"
+        },
+        {
+            "name": "5368908.jpg",
+            "pepca": "p9c6837cff8408852",
+            "cte": "BASE64",
+            "mime_type": "image/jpeg",
+            "cid": "5368908.jpg",
+            "size": 4241,
+            "flags": 0,
+            "sumphash": "2b9b0bf3ed956df69da2249771971611"
+        }
+    ],
+    "word_count": 302,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/e400ce2ad7db26ddcfbe4591f5d218bc.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "pc2246c4e6cc11d54"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p36f26697226c76a6"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p292bcb8755a82a15"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p9c6837cff8408852"
+        },
+        {
+            "name": "pepca",
+            "value": "pa14972fe8183fef0"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p540e55acac9d0d35"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "superhosting",
+                "confidence": 20646382.4884113
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "superhosting",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Objednavka z E shopu U kocicek",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "p540e55acac9d0d35",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

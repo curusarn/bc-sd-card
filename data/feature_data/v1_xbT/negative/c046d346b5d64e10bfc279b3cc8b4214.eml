@@ -1,0 +1,109 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p64983506ec49d175",
+    "last10words": "otazy nevahejte mne kontaktovat zpet Krejcova Veronika tel 724 750 158 ",
+    "pepca_style_total": 0,
+    "header_from": "BednarovaVeronika1@seznam.cz",
+    "first10words": " Jen male upresneni roku samozrejme tento rok 2014 prepisovala jsem pouze drivejsi mail Puvodni zprava ",
+    "attachments": [
+        {
+            "name": "dort ko\u010dka.jpg",
+            "pepca": "pb5f3bebcdc3d947f",
+            "cte": "BASE64",
+            "mime_type": "image/jpeg",
+            "cid": "m14a4d8c9642m61b",
+            "size": 22223,
+            "flags": 0,
+            "sumphash": "6bf14f43d9cb2a63b1f81a97bcdfa921"
+        }
+    ],
+    "word_count": 147,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/c046d346b5d64e10bfc279b3cc8b4214.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "pb5f3bebcdc3d947f"
+        },
+        {
+            "name": "pepca",
+            "value": "p64983506ec49d175"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p917067ce59f52a6a"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "elektro-obojky",
+                "confidence": 2926154.69879
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "elektro-obojky",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Fwd Objednavka dortu",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "p917067ce59f52a6a",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

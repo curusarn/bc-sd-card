@@ -1,0 +1,114 @@
+{
+    "phashes": [
+        {
+            "value": "p394664deb5110dc2",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pcdf14845e8c84257",
+            "name": "pepca"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "info@pomposo.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/9998bd7cef091c0c93150a732fa6d57f.eml.eml",
+    "attachments": [
+        {
+            "first10words": "Obchodni podminky Provozovatel tohoto e shopu je firma POMPOSO s",
+            "size": 35602,
+            "mime_type": "application/pdf",
+            "cte": "BASE64",
+            "flags": 0,
+            "lang": "cs",
+            "name": "Obchodni_Podminky.pdf",
+            "pepca": "p394664deb5110dc2",
+            "sumphash": "b1933a3bc8a4020e39a6dc6f7ff91c64"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "pepca": "pcdf14845e8c84257",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": "te s objednavkou plne spokojeni S pozdravem Kamila Jelinkova CUKRARSKE POTREBY Odeslano z IP 88 101 98 179 14 43 12 01 2015 ",
+    "subject": "Vase objednavka 120135294 byla prijata ",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 1,
+                "domain": "pomposo"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 25491228.990176,
+                "domain": "masterinter"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "pomposo",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "masterinter",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "cukrarske-pomucky",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "cukrarske-pomucky"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Dobry den dekujeme za vasi objednavku v eshopu CUKRARSKE POTREBY Vasi objednavce bylo prideleno cislo 120135294 a byla prijata k",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 222,
+    "adscore": 0,
+    "spamscore": 1
+}

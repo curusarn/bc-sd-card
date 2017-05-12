@@ -1,0 +1,115 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pf82a11c156a7514c",
+    "last10words": "Nadrazi 1765 688 01 Uhersky Brod e shop ski sport cz 420 572 630 259 420 725 777 966 Generovano systemem FastCentrik ",
+    "pepca_style_total": 0,
+    "header_from": "info@ski-sport.cz",
+    "first10words": " Dobry den Vase objednavka c 296088 byla odeslana Zasilku muzete sledovat na strankach dopravce http www ppl cz main2 as",
+    "attachments": [
+        {
+            "name": "objednavka.html",
+            "pepca": "p396571acb8fc775d",
+            "cte": "BASE64",
+            "mime_type": "text/html",
+            "size": 9841,
+            "flags": 0,
+            "sumphash": "970cd8c76f352d72b42ad8b29fa6f8cc"
+        }
+    ],
+    "word_count": 111,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/trans-ffbc332cf670701819f3d0e8b8e31fd4.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p396571acb8fc775d"
+        },
+        {
+            "name": "pepca",
+            "value": "pf82a11c156a7514c"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p19a93dbb071ff949"
+        }
+    ],
+    "spamscore": 2,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "justice",
+                "confidence": 7382724.32963527
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "justice",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "hope-lyze",
+        "plain_domain_detail": [
+            {
+                "domain": "hope-lyze",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "HOPE SPORT objednavka c 296088",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": true,
+        "5_top_domains_id_0": 0,
+        "5_top_domains_percent_0": 1.0
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "p19a93dbb071ff949",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "missing_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                1
+            ],
+            "score": 2,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

@@ -1,0 +1,101 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "module": "ill",
+            "score": 1
+        }
+    ],
+    "pepca": "pa175e661520cf674",
+    "first10words": " 0x170 0x5347 0x89 0x8669 0x599 0x9097 0x693 0x7 0x88 0x6431 0x2 0x66 0x85039260 engine 0x15 hex 0x58 0x639 0x669 ",
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "word_count": 48,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Customer Notice Details Confirmation message id LH38947335383 ",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1,
+    "phishing": {},
+    "header_from": "clientservice.refR174270907910HI.cm@bbt.com",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/538.eml",
+    "attachments": [
+        {
+            "size": 9525,
+            "mime_type": "image/gif",
+            "flags": 0,
+            "pepca": "p965afc05125dd658",
+            "cid": "MZQUZOO4F2",
+            "cte": "BASE64",
+            "sumphash": "0b4181f0b996cab58425ea3b759a2266",
+            "name": "burmese.gif"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p965afc05125dd658"
+        },
+        {
+            "name": "pepca",
+            "value": "pa175e661520cf674"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "nongnu",
+        "plain_domain": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 5799598.36893,
+                "domain": "nongnu"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": " media include cvs ZG9C api F6N define close T97I 0x138 0x31986737 0x4 0x17717650 0x21 0x9 0x5 0x50516592 0x36 0x50117213 ",
+    "lang": "en"
+}

@@ -1,0 +1,104 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p82a5ecab8be7c979",
+    "last10words": "vetle 13 110 00 Praha 1 Telefon Fax 224 237 784 Infolinka 733 577 139 email obchod drstanek cz info drstanek cz www DrStanek cz ",
+    "pepca_style_total": 0,
+    "header_from": "obchod@drstanek.cz",
+    "first10words": " Objednavka 201501 291 Vazeny zakazniku dekujeme za Vas nakup objednavka byla v poradku prijata O jejim",
+    "attachments": [],
+    "word_count": 362,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/470967f8efa99af3e98445c458159d54.eml.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p82a5ecab8be7c979"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p683c077695d1ca47"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "drstanek",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "masterinter",
+                "confidence": 38236843.485264
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "drstanek",
+                "confidence": 2
+            }
+        ],
+        "domain_keywords": "masterinter",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "drstanek",
+        "plain_domain_detail": [
+            {
+                "domain": "drstanek",
+                "confidence": 2
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Vase objednavka c 201501 291",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "p683c077695d1ca47",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

@@ -1,0 +1,148 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "module": "ill",
+            "score": 1.1
+        }
+    ],
+    "pepca": "p71faf776ab5bcceb",
+    "first10words": " A A Guten Tag hier ist eine Zusammenfassung der Kontoaktivitaeten seit Ihrer letzten Rechnung In der",
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "word_count": 263,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "EBAY",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.1,
+    "phishing": {},
+    "header_from": "endofitem@ebay.de",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/759.eml",
+    "attachments": [
+        {
+            "size": 1556,
+            "mime_type": "image/gif",
+            "flags": 0,
+            "pepca": "p9464ada248fe0bab",
+            "cid": "003c01c68a5d$f4a47cd0$bd0111ac@ebay.de",
+            "cte": "BASE64",
+            "sumphash": "a4980353f18db5d2dd28625da79a481c",
+            "name": "logoEbay.gif"
+        },
+        {
+            "size": 7211,
+            "mime_type": "application/zip",
+            "flags": 0,
+            "pepca": "pcf5125e1ae287af0",
+            "cte": "BASE64",
+            "sumphash": "d827a219c6e29b1491c0f7acbebc44d8",
+            "name": "Ebay-Rechnung.pdf.zip"
+        },
+        {
+            "exe_pepcas": [
+                ".text:p3b42a6a463e96e69",
+                ".rsrc:p05716a5d6a0fb602"
+            ],
+            "mime_type": "application/octet-stream",
+            "flags": 3,
+            "pepca": "p78d84b8903b46626",
+            "first10words": "MZ yy ?? I LI This program cannot be run",
+            "size": 13824,
+            "cte": "PLAIN",
+            "sumphash": "0b96794221dd304f425d05a80493c9d1",
+            "name": "Ebay-Rechnung.pdf.exe",
+            "lang": "un"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca:exe-sec",
+            "value": ".text:p3b42a6a463e96e69"
+        },
+        {
+            "name": "att-pepca:exe-sec",
+            "value": ".rsrc:p05716a5d6a0fb602"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p9464ada248fe0bab"
+        },
+        {
+            "name": "att-pepca-risky",
+            "value": "pcf5125e1ae287af0"
+        },
+        {
+            "name": "att-pepca-risky",
+            "value": "p78d84b8903b46626"
+        },
+        {
+            "name": "pepca",
+            "value": "p71faf776ab5bcceb"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "ebay"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "ebay",
+        "plain_domain": "ebay",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 5851621621.23832,
+                "domain": "ebay"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": " Zusaetzliche Mitteilungen Die oben aufgefA hrten Leistungen beziehen sich ausschlieAlich auf Ihre Anmeldung unter www ebay de ",
+    "lang": "de"
+}

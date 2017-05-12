@@ -1,0 +1,95 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p4e6ab6d9a1d931d9",
+    "last10words": "sa muller zdenka seznam cz byla pridana do naseho seznamu Srdecne Vas vitame Genealogie cz http www genealogie cz genealogie centrum cz",
+    "pepca_style_total": 0,
+    "header_from": "genealogie@centrum.cz",
+    "first10words": " Vazeny vazena Dekujeme vam za registraci Vas ucet zmullerova byl potvrzen Vase e mailova adresa muller zdenka seznam cz byla p",
+    "attachments": [],
+    "word_count": 21,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/09a4f8f600f7ecc80bdfed37e749320d.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p4e6ab6d9a1d931d9"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "taby",
+                "confidence": 2938589.824269
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "taby",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "genealogie",
+        "plain_domain_detail": [
+            {
+                "domain": "genealogie",
+                "confidence": 2
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Dekujeme vam za registraci ",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

@@ -1,0 +1,101 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "module": "ill",
+            "score": 1.1
+        }
+    ],
+    "pepca": "p2833f758abc26526",
+    "first10words": " E mail sa nezobrazuje spravne Mila mamicka Jana dakuje",
+    "pepca_style": "",
+    "pepca_inline_style": "p109d7cc9c4f31e14",
+    "word_count": 216,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Dokoncete registraci a ziskejte vyhody Nutriklubu ZDARMA ",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.1,
+    "list_unsubscribe_urls": [
+        "mailto:v-cnbkkdh_bheomepkck_cagjmdgo_cagjmdgo_a@bounce.danone.mkt6092.com?subject=Unsubscribe"
+    ],
+    "phishing": {},
+    "header_from": "vase@info.nutriklub.sk",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/9d756c5aa6159f365fc4cfccbafe50e8.eml",
+    "attachments": [],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p2833f758abc26526"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p109d7cc9c4f31e14"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "silesnet",
+        "plain_domain": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 13416305.45048,
+                "domain": "silesnet"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "nutriklub",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [
+            {
+                "confidence": 8,
+                "domain": "nutriklub"
+            }
+        ],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "contains_list_header": true,
+    "precedence": 3,
+    "last10words": "ho vek alebo sa spojte s nasimi odbornikmi na live chatu Odhlasit sa z odoberania newslettera ",
+    "lang": "sk"
+}

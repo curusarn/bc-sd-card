@@ -1,0 +1,94 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p09bf4845a832138a",
+    "last10words": "j vosk prosim na klubovou slevu Dik Alberto Objednavka bude vyrizena v nejkratsim moznem terminu Lissport ",
+    "pepca_style_total": 0,
+    "header_from": "info@lissport.cz",
+    "first10words": " Dobry den dekujeme za Vasi objednavku v nasem internetovem velkoobchode Vybrali jste si nasledujici polozky ",
+    "attachments": [],
+    "word_count": 276,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/trans-ffd4c6ff2ac578c4e9617458607a9bd9.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p09bf4845a832138a"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p6f297377618bb3af"
+        }
+    ],
+    "spamscore": 1.5,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "masterinter",
+                "confidence": 12947904.2613
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "masterinter",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Vase objednavka v e shopu Lissport z 13 01 2015",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "p6f297377618bb3af",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "long_subject"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.5
+            ],
+            "score": 1.5,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

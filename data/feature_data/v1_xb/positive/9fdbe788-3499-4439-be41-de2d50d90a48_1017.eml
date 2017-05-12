@@ -1,0 +1,104 @@
+{
+    "phashes": [
+        {
+            "value": "p77b0a578bebc9462",
+            "name": "pepca"
+        },
+        {
+            "value": "p9e126d515c67fcbd",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "member@eBay.com",
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/1017.eml",
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "pepca": "p77b0a578bebc9462",
+    "phishing": {
+        "ner_domain_detected": true
+    },
+    "pepca_style": "",
+    "last10words": "s and brands are the property of their respective owners eBay and the eBay logo are registered trademarks or trademarks of eBay Inc ",
+    "subject": "Question from eBay Member Respond Now",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 8,
+                "domain": "ebay"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 9131502466.29904,
+                "domain": "ebay"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "ebay",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "ebay",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "ebay",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "ebay"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p9e126d515c67fcbd",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " eBay sent this message to you from 3truck Your registered name is included to show this message originated from eBay Learn more ",
+    "lang": "en",
+    "pepcatotal": 0,
+    "word_count": 813,
+    "adscore": 0,
+    "spamscore": 1.1
+}

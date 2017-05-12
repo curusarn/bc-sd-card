@@ -1,0 +1,94 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "module": "ill",
+            "score": 1
+        }
+    ],
+    "pepca": "p59c94ed0808d56b9",
+    "first10words": " Zde je email ktery jste zaslal a uzivateli adriana353 19 Email odeslan Mon Feb 16 07 48 52 2015 Strana nabidky asus x201 ",
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "word_count": 99,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Dotaz na zbozi asus x201 nabidka c 5092077793 ",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1,
+    "phishing": {
+        "5_top_domains_percent_0": 1.0,
+        "5_top_domains_id_0": 0
+    },
+    "header_from": "oznameni@aukro.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/ab109fc9f810ca760402e7a0431fcc98.eml",
+    "attachments": [],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p59c94ed0808d56b9"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 2,
+                "domain": "aukro"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "allegro",
+        "plain_domain": "aukro",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 28348814.7912185,
+                "domain": "allegro"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": " 186 00 Praha 8 IC 24725382 DIC CZ24725382 zapsana v obchodnim rejstriku vedenem Mestskym soudem v Praze v oddile C vlozka 169090 ",
+    "lang": "cs"
+}

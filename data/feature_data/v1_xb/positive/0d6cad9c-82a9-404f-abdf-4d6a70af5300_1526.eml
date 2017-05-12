@@ -1,0 +1,95 @@
+{
+    "phashes": [
+        {
+            "value": "p0174d7eb72f7b462",
+            "name": "pepca"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "onlineservice@capitalone.com",
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/1526.eml",
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "from_missmatch"
+            ],
+            "subscores": [
+                0.0
+            ],
+            "score": 0.0
+        }
+    ],
+    "pepca": "p0174d7eb72f7b462",
+    "phishing": {
+        "ner_domain_detected": true
+    },
+    "pepca_style": "",
+    "last10words": "al One is a federally registered service mark All rights reserved Capital One N A is located PO Box 60024 City of Industry CA 91716 0024 ",
+    "subject": "Last notification from Capital One Read it carefully ",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 1,
+                "domain": "capitalone"
+            },
+            {
+                "confidence": 1,
+                "domain": "pcmag"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 164524738.882485,
+                "domain": "ebay"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "capitalone",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "ebay",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Dear Capital One Client This email is to inform that we had to block your Capital On",
+    "lang": "en",
+    "pepcatotal": 0,
+    "word_count": 464,
+    "adscore": 0,
+    "spamscore": 0.0
+}

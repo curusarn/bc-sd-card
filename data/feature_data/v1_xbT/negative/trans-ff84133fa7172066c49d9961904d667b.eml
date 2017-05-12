@@ -1,0 +1,108 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pf75de86fe570f65a",
+    "last10words": " Firma IC u firmy DIC u firmy Adresa Krehlikova 68 Mesto Brno Slatina PSC 62700 ",
+    "pepca_style_total": 0,
+    "header_from": "info@unuodesign.cz",
+    "first10words": " Cislo objednavky 12175185 Tento mail zaslal automat Vase objednavka byla ZMENENA Dle dohody jsme ve vasi objednavce ",
+    "attachments": [],
+    "word_count": 605,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/trans-ff84133fa7172066c49d9961904d667b.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pf75de86fe570f65a"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pceba41b32822bdcb"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "unuo",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "masterinter",
+                "confidence": 50982457.980352
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "unuo",
+                "confidence": 1
+            }
+        ],
+        "domain_keywords": "masterinter",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "unuo",
+        "plain_domain_detail": [
+            {
+                "domain": "unuo",
+                "confidence": 1
+            },
+            {
+                "domain": "unuodesign",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Konecna castka Vasi objednavky Cislo objednavky 12175185",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "pceba41b32822bdcb",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

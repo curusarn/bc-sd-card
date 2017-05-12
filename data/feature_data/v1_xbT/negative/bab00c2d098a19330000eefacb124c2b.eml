@@ -1,0 +1,116 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pde71febd3650f1d9",
+    "last10words": " heslo bude zmeneno i na ostatnich ucty Hra Uzivatelske jmeno chanove cz Herni svet 30 pejda57 ",
+    "list_unsubscribe_urls": [
+        "http://xs-software.net/crm/unsubscribe.php?mail=pks57@seznam.cz&hash=a69e9485e239c6cb88302b64c51da7a0"
+    ],
+    "header_from": "noreply@xssoftgames.com",
+    "contains_list_header": true,
+    "pepcatotal": 1,
+    "attachments": [],
+    "word_count": 159,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/bab00c2d098a19330000eefacb124c2b.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pde71febd3650f1d9"
+        },
+        {
+            "name": "pepca_style",
+            "value": "p612550eb8aa0614a"
+        }
+    ],
+    "spamscore": 2,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "xssoftgames",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "retel",
+                "confidence": 9148135.99836
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "xssoftgames",
+                "confidence": 1
+            }
+        ],
+        "domain_keywords": "retel",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "chanove",
+        "plain_domain_detail": [
+            {
+                "domain": "chanove",
+                "confidence": 1
+            },
+            {
+                "domain": "span",
+                "confidence": 1
+            },
+            {
+                "domain": "img",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Zapomenute heslo v Chanove ",
+    "adscore": 0,
+    "first10words": " Zapomenute heslo v Chanove Pozadali jste o resetovani hesla v Chanove Pokud si uz nech",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "p612550eb8aa0614a",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "missing_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                1
+            ],
+            "score": 2,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1,
+    "pepca_style_total": 1
+}

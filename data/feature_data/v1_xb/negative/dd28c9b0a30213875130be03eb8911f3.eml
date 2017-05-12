@@ -1,0 +1,102 @@
+{
+    "phashes": [
+        {
+            "value": "p7aad41005a8353c3",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pa9f8b57e348f0dbe",
+            "name": "pepca"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "necas@abner.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/dd28c9b0a30213875130be03eb8911f3.eml",
+    "attachments": [
+        {
+            "size": 211,
+            "name": "",
+            "cte": "PLAIN",
+            "flags": 0,
+            "sumphash": "8a7e90e25e7711b100ed9bcee6b665bb",
+            "pepca": "p7aad41005a8353c3",
+            "mime_type": "message/disposition-notification"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "pepca": "pa9f8b57e348f0dbe",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": " Zprava byla prectena dne 15 prosince 2014 11 48 04 GMT 01 00 Praha Bratislava Budapest Belehrad Ljubljana ",
+    "subject": "Precteno objednavka vypalku",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 1640920.64573,
+                "domain": "zlavydnes"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "zlavydnes",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Zprava byla prectena dne 15 prosince 2014 11 48 04 GMT 01 00 Praha Bratislava Budapest Belehrad Ljubljana ",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 23,
+    "adscore": 0,
+    "spamscore": 1
+}

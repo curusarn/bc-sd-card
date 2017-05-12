@@ -1,0 +1,114 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p8612dee29837d902",
+    "last10words": "kontaktujte zakaznickou linku Osobni odber Praha 420234264401 Osobni odber Brno 420234264512 Osobni odber Bratislava 421255645189 A ",
+    "pepca_style_total": 0,
+    "unsub_link_texts": [
+        "celkovy cena za objednavka kc postovne kc balne kc cena celkem vcetne postovne a balne kc upozorneni jakmile byt vasi objednavka pripraven obdrzet od my email s upozorneni ohledne pripravovany nebo dotiskovany titul ktery nemit momentalne sklad vy byt kontaktovat v pripad jakykoliv dotaz kontaktovat zakaznicky link osobni odber praha osobni odber brno osobni odber bratislava "
+    ],
+    "header_from": "info@gradapublishing.cz",
+    "unsub_link_candidates": [
+        ""
+    ],
+    "first10words": " Knihy od Grada Publishing a s Dobry den dekujeme za Vasi objednavku v nasem internetovem obchode Objednavka c 240869 odeslana",
+    "attachments": [],
+    "word_count": 405,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/trans-ffbf159c937222a3f64617e8453e85e0.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p8612dee29837d902"
+        },
+        {
+            "name": "pepca_style",
+            "value": "pf05cea18fc42970c"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "google",
+                "confidence": 14545282.8592328
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "google",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "span",
+        "plain_domain_detail": [
+            {
+                "domain": "span",
+                "confidence": 1
+            },
+            {
+                "domain": "td",
+                "confidence": 1
+            },
+            {
+                "domain": "grada",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Grada cz potvrzeni objednavky",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "unsub_link": "",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "pf05cea18fc42970c",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

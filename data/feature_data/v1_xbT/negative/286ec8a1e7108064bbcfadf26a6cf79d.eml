@@ -1,0 +1,140 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p0a291b75fde1036f",
+    "last10words": "ztracene heslo login code Lt4r7imAGcGyvNMEGo4bLvTGX Vase Baby on line Tento email Vam automaticky zaslala aplikace www babyonline cz ",
+    "pepca_style_total": 0,
+    "header_from": "info@babyonline.cz",
+    "first10words": " Baby on line nastaveni hesla k Vasemu uctu Baby on line nastaveni hesla k Vasemu uctu Dobry den Vase prihlasov",
+    "attachments": [
+        {
+            "name": "Baby on Line",
+            "pepca": "p285a974c3af6a82d",
+            "cte": "BASE64",
+            "mime_type": "image/gif",
+            "cid": "logo",
+            "size": 27262,
+            "flags": 0,
+            "sumphash": "9d3b9f4c237773059ebeeca49f2a56fc"
+        },
+        {
+            "name": "Baby on Line",
+            "pepca": "p0190e6ec3b56907f",
+            "cte": "BASE64",
+            "mime_type": "image/gif",
+            "cid": "top",
+            "size": 2363,
+            "flags": 0,
+            "sumphash": "75ff48d6eaae41f73c07643a1cddc104"
+        },
+        {
+            "name": "Baby on Line",
+            "pepca": "pbf71a3e0605264cf",
+            "cte": "BASE64",
+            "mime_type": "image/gif",
+            "cid": "bottom",
+            "size": 1650,
+            "flags": 0,
+            "sumphash": "5da76533f602ece024ba529addb69618"
+        }
+    ],
+    "word_count": 85,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/286ec8a1e7108064bbcfadf26a6cf79d.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p285a974c3af6a82d"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p0190e6ec3b56907f"
+        },
+        {
+            "name": "att-pepca",
+            "value": "pbf71a3e0605264cf"
+        },
+        {
+            "name": "pepca",
+            "value": "p0a291b75fde1036f"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p3bf4a47437f782c4"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "baby-cafe",
+                "confidence": 26599078.68621
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "baby-cafe",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "babyonline",
+        "plain_domain_detail": [
+            {
+                "domain": "babyonline",
+                "confidence": 3
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Baby on line nastaveni hesla k Vasemu uctu",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "p3bf4a47437f782c4",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

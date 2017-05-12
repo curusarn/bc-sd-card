@@ -1,0 +1,104 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p9e8f45652f5073a2",
+    "last10words": " contact Customer Service A A A Document Reference 87051203 A A Copyright A 2006 Washington Mutual Bank N A Member FDIC ",
+    "pepca_style_total": 0,
+    "header_from": "Survey@wamu.com",
+    "first10words": " A A A Dear Washington Mutual Customer A A A A CONGRATULATIONS A A A A You have been chosen by the Washington Mutual ",
+    "attachments": [],
+    "word_count": 208,
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing2/885.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p9e8f45652f5073a2"
+        }
+    ],
+    "spamscore": 2.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "clamav",
+                "confidence": 160761425.647
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "clamav",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "adNotches": [
+        {
+            "name": [
+                "images_in_subject"
+            ],
+            "subscores": [
+                5
+            ],
+            "score": 5,
+            "module": "ill"
+        }
+    ],
+    "lang": "en",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Washington Mutual Reward Survey",
+    "adscore": 5,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id",
+                "images_in_subject"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1,
+                1
+            ],
+            "score": 2.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

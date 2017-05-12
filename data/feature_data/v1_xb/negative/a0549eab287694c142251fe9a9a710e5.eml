@@ -1,0 +1,106 @@
+{
+    "phashes": [
+        {
+            "value": "p2ea44a97dd281803",
+            "name": "pepca"
+        },
+        {
+            "value": "p0433f64ecb43770a",
+            "name": "pepca_style"
+        },
+        {
+            "value": "p57c4eadc2898c883",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "info@happyfoto.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/a0549eab287694c142251fe9a9a710e5.eml",
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "pepca": "p2ea44a97dd281803",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "p0433f64ecb43770a",
+    "last10words": " s r o Omlenicka 780 382 41 Kaplice IC 25165291 DIC CZ25165291 Zapsana v OR u KS v C Budejovicich v oddile C vlozka 7213 ",
+    "subject": "Registrace byla dokoncena",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 1,
+                "domain": "happyfoto"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 102129326.033302,
+                "domain": "happyfoto"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "happyfoto",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "happyfoto",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "happyfoto",
+        "plain_domain_detail": [
+            {
+                "confidence": 2,
+                "domain": "happyfoto"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 1,
+    "pepca_inline_style": "p57c4eadc2898c883",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 1,
+    "first10words": " HappyFoto HTML Email Vazena pani vazeny pane Vase registrace byla prave dokoncena Na www happyfoto cz se ",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 128,
+    "adscore": 0,
+    "spamscore": 1
+}

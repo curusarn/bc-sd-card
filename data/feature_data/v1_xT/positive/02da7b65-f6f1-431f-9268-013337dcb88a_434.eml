@@ -1,0 +1,110 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "module": "ill",
+            "score": 1
+        }
+    ],
+    "pepca": "p603370bc12711063",
+    "first10words": " MasterCard Confirmation Dear Valued Customer Our new security system will help you to avoid frequently fraud transactions a",
+    "pepca_style": "",
+    "pepca_inline_style": "p599d2392aaf79142",
+    "word_count": 104,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": " POSIBLE SPAM MasterCard urgent security notice Ref 217 ",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1,
+    "phishing": {},
+    "header_from": "customerservice7@mastercardconfirm.com",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing2/434.eml",
+    "attachments": [
+        {
+            "size": 1396,
+            "mime_type": "image/gif",
+            "flags": 0,
+            "pepca": "p5e97e01ca65cac95",
+            "cid": "000801c6366a$354aa81a$030aa8c0@boso",
+            "cte": "BASE64",
+            "sumphash": "cfb6b8766012c79fe16228d4cb80e532",
+            "name": "ysx538.gif"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p5e97e01ca65cac95"
+        },
+        {
+            "name": "pepca",
+            "value": "p603370bc12711063"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p599d2392aaf79142"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "mastercard"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "mcsv",
+        "plain_domain": "mastercard",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 65619738.8449727,
+                "domain": "mcsv"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": " for notification purposes only msg id 90895468 obrallztvraryqgud Copyright A 2006A A MasterCard A All rights reserved ",
+    "lang": "en"
+}

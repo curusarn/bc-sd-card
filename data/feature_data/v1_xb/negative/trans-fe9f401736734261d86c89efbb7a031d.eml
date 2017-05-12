@@ -1,0 +1,99 @@
+{
+    "phashes": [
+        {
+            "value": "p17ce44fd0abc8b1e",
+            "name": "pepca"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "info@max-shop.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/trans-fe9f401736734261d86c89efbb7a031d.eml",
+    "attachments": [
+        {
+            "size": 0,
+            "name": "obchodni_podminky.pdf",
+            "cte": "BASE64",
+            "flags": 0,
+            "sumphash": "dc5b5ace27d0916fed08dfee55dd0748",
+            "mime_type": "text/plain"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "pepca": "p17ce44fd0abc8b1e",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": "41108 Mesto Steti Telefon 724276920 Email formankovama seznam cz IC DIC Dodaci adresa Poznamka ",
+    "subject": "Objednavka c 0110151",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 7185225.54392,
+                "domain": "viwefix"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "viwefix",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Shop Pokud se Vam tento e mail nezobrazuje spravne pouzijte tento odkaz http www max shop cz objednavky php cislo cgasmcaigx objednavk",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 209,
+    "adscore": 0,
+    "spamscore": 1.1
+}

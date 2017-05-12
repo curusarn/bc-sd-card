@@ -1,0 +1,90 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p4a610ddae26ba5c7",
+    "last10words": "semu uctu laskave kontaktujte podporu Diasend na cisle 1 888 DIASEND nebo poslete e mail na adresu usa diasend com S pozdravem Tym Diasend",
+    "pepca_style_total": 0,
+    "header_from": "noreply@diasend.com",
+    "first10words": " Vazeny uzivateli Byla nam zaslana zadost o vynulovani hesla k Vasemu uctu diasend Pro pokracovani postupu vynulovani pouzij",
+    "attachments": [],
+    "word_count": 72,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/596f413a7489d7731da7d81e31aeed22.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p4a610ddae26ba5c7"
+        }
+    ],
+    "spamscore": 2,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "aweber",
+                "confidence": 11978837.0149002
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "aweber",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 2,
+    "subject": "Zadost o obnovu hesla",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "missing_date",
+                "from_missmatch",
+                "missing_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                1
+            ],
+            "score": 2,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

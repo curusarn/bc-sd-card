@@ -1,0 +1,103 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.5
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "long_subject"
+            ],
+            "module": "ill",
+            "score": 1.5
+        }
+    ],
+    "pepca": "pd164b6cf5f0df91b",
+    "first10words": " very good of today you many no hi why well of how no why are no and best do you of best out and out many ",
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "word_count": 456,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "TCF Bank Please VaIidate Your Account Sat 29 Jul 2006 13 35 07 0180 ",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.5,
+    "phishing": {},
+    "header_from": "custsupport-5853sp@tcfbank.com",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing2/1297.eml",
+    "attachments": [
+        {
+            "size": 9200,
+            "mime_type": "image/png",
+            "flags": 0,
+            "pepca": "p7ee2897c274e7afd",
+            "cid": "006901c6b313$ce92de40$6c822ecf@P9A96B",
+            "cte": "BASE64",
+            "sumphash": "e463d82f74b9093f98fd183df87d0ff4",
+            "name": "BDX3UI09.PNG"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p7ee2897c274e7afd"
+        },
+        {
+            "name": "pepca",
+            "value": "pd164b6cf5f0df91b"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "aweber",
+        "plain_domain": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 477524045.142815,
+                "domain": "aweber"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": " why hi you from and today from hi and go and go are go how today hi do you many many why and no you from and ",
+    "lang": "en"
+}

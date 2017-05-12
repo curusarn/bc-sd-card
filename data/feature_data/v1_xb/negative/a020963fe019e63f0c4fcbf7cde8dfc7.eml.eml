@@ -1,0 +1,149 @@
+{
+    "phashes": [
+        {
+            "value": "p5025719739266d74",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p239a850a8bd32ad1",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p84e211ddfd70cefa",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p6b7eabf0d336e984",
+            "name": "pepca"
+        },
+        {
+            "value": "p7457a33ab3ef659a",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "jan.prochazka@olfincar.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/a020963fe019e63f0c4fcbf7cde8dfc7.eml.eml",
+    "attachments": [
+        {
+            "size": 164894,
+            "name": "image001.png",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "image001.png@01D02E76.D6D2C420",
+            "sumphash": "3b2401646b05f0d46ae99d6cb7d52547",
+            "pepca": "p5025719739266d74",
+            "mime_type": "image/png"
+        },
+        {
+            "size": 13901,
+            "name": "image002.png",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "image002.png@01D02E76.D6D2C420",
+            "sumphash": "ccf776e0d2f422f90f3d6b5be4c7d9e0",
+            "pepca": "p239a850a8bd32ad1",
+            "mime_type": "image/png"
+        },
+        {
+            "size": 177139,
+            "name": "Skenov\u00e1n\u00ed.pdf",
+            "cte": "BASE64",
+            "flags": 0,
+            "lang": "un",
+            "sumphash": "f8ffe5c909e9ae6c17adac3237c0e2c0",
+            "pepca": "p84e211ddfd70cefa",
+            "mime_type": "application/pdf"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "pepca": "p6b7eabf0d336e984",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": " A A Tato zprava neobsahuje viry ani jiny skodlivy kod avast Antivirus je aktivni ",
+    "subject": "faktura",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 1,
+                "domain": "volny"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 16120963.009312,
+                "domain": "olfincar"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "volny",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "olfincar",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "avast",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "avast"
+            },
+            {
+                "confidence": 1,
+                "domain": "olfincar"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p7457a33ab3ef659a",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " A A Dobry den jeste jednou A Prosim vA priloze zasilam doplatkovou zalohovou faktu",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 166,
+    "adscore": 0,
+    "spamscore": 1
+}

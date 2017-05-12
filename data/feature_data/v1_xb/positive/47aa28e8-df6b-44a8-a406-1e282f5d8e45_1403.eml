@@ -1,0 +1,105 @@
+{
+    "phashes": [
+        {
+            "value": "p8243520f3297378e",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pfed46079253a0292",
+            "name": "pepca"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "reference-id_2576739id@wellsfargo.com",
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing2/1403.eml",
+    "attachments": [
+        {
+            "size": 8534,
+            "name": "V35XZ67.PNG",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "006901c6b79a$d127a240$6c822ecf@X8WS0E",
+            "sumphash": "3898a9ae35806fc7b8e0f0c26c6e3b9f",
+            "pepca": "p8243520f3297378e",
+            "mime_type": "image/png"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "long_subject"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.5
+            ],
+            "score": 1.5
+        }
+    ],
+    "pepca": "pfed46079253a0292",
+    "phishing": {
+        "ner_domain_detected": true
+    },
+    "pepca_style": "",
+    "last10words": "hide away airy dene name jail oxen barn our diet hit prim quantity limp ulna vale fell crab inky over kerf nap jib next poll his seal ally rag ",
+    "subject": "0fficiaI Information For Wells Fargo CIients Fri 4 Aug 2006 07 51 38 0540 ",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 23945363.7602,
+                "domain": "abc"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "abc",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " mom lewd sod kale I ve soak wand snob pit use jug dew mean wick dale your hoy rush card honk duly keen peer bout kerf boot chat ",
+    "lang": "un",
+    "pepcatotal": 0,
+    "word_count": 440,
+    "adscore": 0,
+    "spamscore": 1.5
+}

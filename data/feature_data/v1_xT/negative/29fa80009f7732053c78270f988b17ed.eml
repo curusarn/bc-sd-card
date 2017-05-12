@@ -1,0 +1,108 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.5
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "long_subject"
+            ],
+            "module": "ill",
+            "score": 1.5
+        }
+    ],
+    "pepca": "p2c930026c8f4a8fd",
+    "first10words": " Dobry den Kristyna Sudikova Vase heslo 737860829 Vazeny pane Vazena pani Dekujeme za Vas zajem o nase sluzby Us",
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "word_count": 134,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Uspesne jste se zaregistroval a na portalu www viasms cz",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.5,
+    "phishing": {},
+    "header_from": "info@viasms.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/29fa80009f7732053c78270f988b17ed.eml",
+    "attachments": [
+        {
+            "sumphash": "ac9b86c2aed9b40b0ab5079d72429b24",
+            "mime_type": "application/pdf",
+            "flags": 0,
+            "size": 73585,
+            "first10words": "mPDF",
+            "cte": "BASE64",
+            "name": "prikaz_727311000.pdf",
+            "lang": "un"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p2c930026c8f4a8fd"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "viasms"
+            },
+            {
+                "confidence": 1,
+                "domain": "sms"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "viasms",
+        "plain_domain": "viasms",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 21163576.308111,
+                "domain": "viasms"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 1,
+    "precedence": 3,
+    "last10words": "na nas Telefon 420 225 991 500 e mail info viasms cz skype via sms cz Via SMS Rychla pujcka www viasms cz ",
+    "lang": "cs"
+}

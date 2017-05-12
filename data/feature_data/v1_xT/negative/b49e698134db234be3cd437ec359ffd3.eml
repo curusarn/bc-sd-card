@@ -1,0 +1,102 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "module": "ill",
+            "score": 1.1
+        }
+    ],
+    "pepca": "p375599d634a2a93e",
+    "first10words": " lexi Vase heslo na Sukat sk Ak chcete mat vsetky spravy dorucene do Vasej e mailovej schranky pridajte prosim Sukat ",
+    "pepca_style": "",
+    "pepca_inline_style": "pf22c454365e6cbb8",
+    "word_count": 263,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "lexi Vase heslo na Sukat sk",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.1,
+    "list_unsubscribe_urls": [
+        "mailto:unsubscribe+1365017564.45518270.26462635.18@mass.datingfactory.com",
+        "http://sukat.sk/support/unsubscribe/0045518270002srz4ef82c6dd40bc245f970d974690b66de/1365017564.45518270.26462635.18?linkId=77"
+    ],
+    "phishing": {},
+    "header_from": "noreply@mass.datingfactory.com",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/b49e698134db234be3cd437ec359ffd3.eml",
+    "attachments": [],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p375599d634a2a93e"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pf22c454365e6cbb8"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 2,
+                "domain": "sukat"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "datingfactory",
+        "plain_domain": "sukat",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 127080126.890619,
+                "domain": "datingfactory"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "contains_list_header": true,
+    "precedence": 3,
+    "last10words": "l moze obsahovat reklamu Dating Factory s r o 3 poschodie 207 Regent Street Londyn W1B 3HH Velka Britania ",
+    "lang": "sk"
+}

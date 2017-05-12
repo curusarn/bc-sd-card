@@ -1,0 +1,119 @@
+{
+    "phashes": [
+        {
+            "value": "pb0623e29f767fa36",
+            "name": "pepca"
+        },
+        {
+            "value": "pb855ca29897d588e",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "info@cocky-optika.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/ae3a4d85669b7bee48b5d3a492bbfe2c.eml",
+    "unsub_link_candidates": [
+        "http://www.cocky-optika.cz/zakaznik/prehled-objednavek/?iid=4&uid=fph3tn47lzcveuxjiy8r&hcl=plwikub4ha&utm_source=informative&utm_medium=email&utm_campaign=Potvrzen%25C3%25AD%2Bregistrace&utm_content=Zobrazit+p%C5%99ehed+objedn%C3%A1vek",
+        "http://www.cocky-optika.cz?iid=4&uid=fph3tn47lzcveuxjiy8r&hcl=plwikub4ha&utm_source=informative&utm_medium=email&utm_campaign=Potvrzen%25C3%25AD%2Bregistrace&utm_content=%C4%8Co%C4%8Dky-optika.cz"
+    ],
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1,
+                0.1
+            ],
+            "score": 1.2
+        }
+    ],
+    "pepca": "pb0623e29f767fa36",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": "9 Kc Zobrazit prehed objednavek Toto je obchodni sdeleni internetoveho obchodu Cocky optika cz ",
+    "subject": "Byli jste uspesne zaregistrovani na www cocky optika cz",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 9,
+                "domain": "cocky-optika"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 16164338.8117,
+                "domain": "topsleva"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "cocky-optika",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "topsleva",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "cocky-optika",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "cocky-optika"
+            },
+            {
+                "confidence": 1,
+                "domain": "ky-optika"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "pb855ca29897d588e",
+    "unsub_link_texts": [
+        " zobrazit prehed objednavka toto je obchodny sdeleni internetovy obchod",
+        "toto je obchodny sdeleni internetovy obchod cocka optika cz "
+    ],
+    "unsub_link": "http://www.cocky-optika.cz?iid=4&uid=fph3tn47lzcveuxjiy8r&hcl=plwikub4ha&utm_source=informative&utm_medium=email&utm_campaign=Potvrzen%25C3%25AD%2Bregistrace&utm_content=%C4%8Co%C4%8Dky-optika.cz",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Dobry den byli jste uspesne zaregistrovani na www cocky optika cz Dobry den byli jste uspesne zaregistrovani na",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 374,
+    "adscore": 0,
+    "spamscore": 1.2
+}

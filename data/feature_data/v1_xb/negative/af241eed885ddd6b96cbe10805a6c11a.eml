@@ -1,0 +1,90 @@
+{
+    "phashes": [
+        {
+            "value": "p0cc08ce14fced6ba",
+            "name": "pepca"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "info@ucenionline.com",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/af241eed885ddd6b96cbe10805a6c11a.eml",
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "long_subject"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.5
+            ],
+            "score": 1.5
+        }
+    ],
+    "pepca": "p0cc08ce14fced6ba",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": "menu provedet na teto strance http www ucenionline com nakup zapomenute heslo 1 hash zapomenute heslo 7b5a0d51535d9951db151ec95621dab9753767fc ",
+    "subject": "Uceni online zmena hesla pro e mail klarona seznam cz do portalu UCENI ONLINE",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 2742106.00908,
+                "domain": "slevydnes"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "slevydnes",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Dobry den na portalu Uceni online jste si pro e mail klarona seznam cz vyzadal zmenu hesla Zmenu provedet na teto strance http www ",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 19,
+    "adscore": 0,
+    "spamscore": 1.5
+}

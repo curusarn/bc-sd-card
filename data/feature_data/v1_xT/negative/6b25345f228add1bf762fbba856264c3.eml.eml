@@ -1,0 +1,102 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "module": "ill",
+            "score": 1
+        }
+    ],
+    "pepca": "p4753b35a442db1c1",
+    "first10words": " Vazeny zakazniku dekujeme Vam za objednavku kterou jste ucinili v nasem internetovem obchode www andelprerov cz Shrnuti v",
+    "pepca_style": "",
+    "pepca_inline_style": "pa04c9aaf507b24d5",
+    "unsub_link": "http://www.andelprerov.cz",
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Vase objednavka na e shopu AndelPrerov cz byla prijata",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1,
+    "word_count": 232,
+    "phishing": {},
+    "header_from": "obchod@andelprerov.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/6b25345f228add1bf762fbba856264c3.eml.eml",
+    "attachments": [],
+    "adscore": 0,
+    "unsub_link_texts": [
+        " www andelprerov cz tento e mail je generovan automaticky a nemuset na on odpovidat"
+    ],
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p4753b35a442db1c1"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pa04c9aaf507b24d5"
+        }
+    ],
+    "unsub_link_candidates": [
+        "http://www.andelprerov.cz"
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 2,
+                "domain": "andelprerov"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "vshosting",
+        "plain_domain": "andelprerov",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 13940964.7877896,
+                "domain": "vshosting"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": " e mail podpora andelprerov cz www andelprerov cz Tento e mail je generovan automaticky a nemusite na nej odpovidat ",
+    "lang": "cs"
+}

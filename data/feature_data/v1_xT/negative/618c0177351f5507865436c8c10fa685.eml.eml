@@ -1,0 +1,145 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.5
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "long_subject"
+            ],
+            "module": "ill",
+            "score": 1.5
+        }
+    ],
+    "pepca": "p7d7dc1713ca8dc37",
+    "first10words": " Vazeny zakazniku objednavka c 7540398525 nebyla dosud dokoncena Pokracovat v objednavce muzete jejim nactenim na adrese ",
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "unsub_link": "http://www.idsys.cz/link-211488200-6382965/",
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Objednavka c 7540398525 na eshopu www idsys cz dosud nebyla dokoncena",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.5,
+    "word_count": 49,
+    "phishing": {},
+    "header_from": "eshop@idsys.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/618c0177351f5507865436c8c10fa685.eml.eml",
+    "attachments": [
+        {
+            "size": 3020,
+            "mime_type": "text/css",
+            "flags": 0,
+            "pepca": "pe005409f4b14792d",
+            "cid": "b4dd98224bb08138d4f1a1dbb77e56de",
+            "cte": "BASE64",
+            "sumphash": "df161f8ae61b39362d972e935a34f46c",
+            "name": "webedit.css"
+        },
+        {
+            "size": 5381,
+            "mime_type": "text/html",
+            "flags": 0,
+            "pepca": "pf55435c5c15f130c",
+            "cte": "BASE64",
+            "sumphash": "ad7712867c87408f5413c5464a4c48bd",
+            "name": "7540398525.html"
+        },
+        {
+            "size": 78644,
+            "mime_type": "application/pdf",
+            "flags": 0,
+            "pepca": "pfb8f276092a1c2da",
+            "first10words": "Identifikacni systemy s r o BANKA Cislo uctu Kod banky",
+            "cte": "BASE64",
+            "sumphash": "64e64b424bb6599c2781b3bdbc812873",
+            "name": "7540398525.pdf",
+            "lang": "cs"
+        }
+    ],
+    "adscore": 0,
+    "unsub_link_texts": [
+        "pokracovat v objednavka moct jeji nacteni na adresa http www idsys cz link nebo on moct zrusit na adresa",
+        "nebo on moct zrusit na adresa http www idsys cz link "
+    ],
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "pe005409f4b14792d"
+        },
+        {
+            "name": "att-pepca",
+            "value": "pf55435c5c15f130c"
+        },
+        {
+            "name": "att-pepca",
+            "value": "pfb8f276092a1c2da"
+        },
+        {
+            "name": "pepca",
+            "value": "p7d7dc1713ca8dc37"
+        }
+    ],
+    "unsub_link_candidates": [
+        "http://www.idsys.cz/link-211488199-4343891/",
+        "http://www.idsys.cz/link-211488200-6382965/"
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "idsys"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "cemail",
+        "plain_domain": "idsys",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 2807013.0048,
+                "domain": "cemail"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "mailem nebo telefonicky Dekujeme za vas zajem Identifikacni systemy s r o www idsys cz tel 420 226 216 500 info idsys cz ",
+    "lang": "cs"
+}

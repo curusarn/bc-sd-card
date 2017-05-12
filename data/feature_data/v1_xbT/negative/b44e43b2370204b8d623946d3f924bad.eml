@@ -1,0 +1,164 @@
+{
+    "pepca_inline_style_total": 3,
+    "pepca": "p39460b9e9a4cff62",
+    "last10words": " 2014 Westwing Home Living vsechna prava vyhrazena Westwing Home Living GmbH ",
+    "universalprobes": [
+        {
+            "key": "ps-from_mismatch",
+            "value": "1"
+        },
+        {
+            "key": "ps-phish_keyword",
+            "value": "['password', 'heslo', 'u\\xc5\\xbeivatel', 'heslo', 'heslo']"
+        },
+        {
+            "key": "ps-subject_phish_keyword",
+            "value": "['heslo']"
+        },
+        {
+            "key": "ps-many_emails",
+            "value": "1"
+        },
+        {
+            "key": "ps-most-suspicious-links",
+            "value": "[]"
+        },
+        {
+            "key": "ps-not-phishing",
+            "value": "1"
+        }
+    ],
+    "list_unsubscribe_urls": [
+        "http://n.westwing.cz/public/list_unsubscribe.jsp?action=listUnsubscribe&gid=1900034096&uid=19073674433&mid=1900083175&siglistunsub=PGOMHPJOHDBBEFEB&errorPage=/public/list_unsubscribe.jsp",
+        "mailto:listunsubscribe-1900034096-1900083175-19073674433@n.westwing.cz"
+    ],
+    "dkstatus": {},
+    "header_from": "service@n.westwing.cz",
+    "spfstatus": {},
+    "contains_list_header": true,
+    "lang": "cs",
+    "attachments": [],
+    "word_count": 267,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/b44e43b2370204b8d623946d3f924bad.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p39460b9e9a4cff62"
+        },
+        {
+            "name": "pepca_style",
+            "value": "p0aefde3472a08319"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pc69900b53fde1ea2"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "westwing",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "westwing",
+                "confidence": 52143279.1372848
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "westwing",
+                "confidence": 8
+            }
+        ],
+        "domain_keywords": "westwing",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "pepcatotal": 3,
+    "dmarc_status": {},
+    "phish_score": 2.25,
+    "domainstat": {},
+    "precedence": 3,
+    "extractedEmailsTotalCount": {},
+    "subject": "Westwing cz Zmena hesla",
+    "adscore": 0,
+    "first10words": " Westwing Password reset ZMENA HESLA Vitejte Uzivatel Chcete zm",
+    "unsub_link": {},
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "p0aefde3472a08319",
+    "domainstat_themes": {},
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1,
+    "theme": {},
+    "pepca_style_total": 3,
+    "phNotches": [
+        {
+            "name": [
+                "from_mismatch",
+                "phisheable",
+                "phish_keyword",
+                "subject_phish_keyword",
+                "many_emails",
+                "not-phishing"
+            ],
+            "subscores": [
+                1,
+                0.5,
+                0.0,
+                0.0,
+                -2,
+                -1
+            ],
+            "score": -1.5,
+            "module": "phish-score"
+        }
+    ],
+    "pepca_inline_style": "pc69900b53fde1ea2"
+}

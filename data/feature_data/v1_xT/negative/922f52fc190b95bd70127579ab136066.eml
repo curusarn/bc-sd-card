@@ -1,0 +1,102 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "module": "ill",
+            "score": 1
+        }
+    ],
+    "pepca": "p2ea17e61a8160e69",
+    "first10words": " Koleta Dobry den Vase objednavka c 319 byla prijata Typ platby Dobirkou Dodaci adresa Jmeno Simona Prijmen",
+    "pepca_style": "",
+    "pepca_inline_style": "p5db3a999b3d9e1ca",
+    "unsub_link": "http://www.koleta.cz",
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Potvrzeni objednavka prijata",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1,
+    "word_count": 246,
+    "phishing": {},
+    "header_from": "info@koleta.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/922f52fc190b95bd70127579ab136066.eml",
+    "attachments": [],
+    "adscore": 0,
+    "unsub_link_texts": [
+        "copyright koleta "
+    ],
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p2ea17e61a8160e69"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p5db3a999b3d9e1ca"
+        }
+    ],
+    "unsub_link_candidates": [
+        "http://www.koleta.cz"
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "koleta"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "masterinter",
+        "plain_domain": "koleta",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 12745614.495088,
+                "domain": "masterinter"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "il jste obdrzel jako zakaznik naseho obchodu Odber novinek muzete zapnout v nastaveni Vaseho zakaznickeho uctu 2014 Copyright Koleta ",
+    "lang": "cs"
+}

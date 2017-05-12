@@ -1,0 +1,88 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p7286fbb509c54c61",
+    "last10words": "ms cz process t ve vh bb7bd0bdc85ace697dcff0082c614624 Po overeni e mailu bude vase registrace dokoncena S pozdravem Tym Stahovani za SMS",
+    "pepca_style_total": 0,
+    "header_from": "info@stahovanizasms.cz",
+    "first10words": " Dobry den dekujeme za vasi registraci do Stahovani za SMS Nyni je nutne overit vasi e mailovou adresu kliknutim na nize uvedeny o",
+    "attachments": [],
+    "word_count": 31,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/c2cd11d4b56b53e79de8ccc91d5e211c.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p7286fbb509c54c61"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "inkapi",
+                "confidence": 2324176.60174
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "inkapi",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Stahovani za SMS dokonceni registrace",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

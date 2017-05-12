@@ -1,0 +1,121 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pf1026936ae5eef84",
+    "last10words": "anik vedouci obchodniho oddeleni SmartShop s r o Mobil 777 918 774 E mail info nejlevnejsinabytek cz URL www nejlevnejsinabytek cz ",
+    "pepca_style_total": 0,
+    "header_from": "info@nejlevnejsinabytek.cz",
+    "first10words": " Dobry den Vase objednavka cislo 102213 se vyrizuje a o dalsim prubehu Vas budeme informovat Fakturacni adresa Dodac",
+    "attachments": [
+        {
+            "name": "hlavicka_nabytek_small.jpg",
+            "cte": "BASE64",
+            "mime_type": "image/jpeg",
+            "cid": "ad76e5dc18d4ce053adc129a51d1f590@phpmailer.0",
+            "size": 0,
+            "flags": 0,
+            "sumphash": "dc5b5ace27d0916fed08dfee55dd0748"
+        },
+        {
+            "name": "obchodni_podminky.pdf",
+            "cte": "BASE64",
+            "mime_type": "application/pdf",
+            "size": 0,
+            "flags": 0,
+            "sumphash": "dc5b5ace27d0916fed08dfee55dd0748"
+        }
+    ],
+    "word_count": 309,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/trans-ffd4d2caeefd373226fe4fc176971188.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pf1026936ae5eef84"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "peea7d8f16b8575bb"
+        }
+    ],
+    "spamscore": 1.6,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "masterinter",
+                "confidence": 63728072.47544
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "masterinter",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "nejlevnejsinabytek",
+        "plain_domain_detail": [
+            {
+                "domain": "nejlevnejsinabytek",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Potvrzeni o nakupu zbozi na eshopu www nejlevnejsinabytek cz c obj 102213 ",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": true,
+        "5_top_domains_id_0": 0,
+        "5_top_domains_percent_0": 1.0
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "peea7d8f16b8575bb",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id",
+                "long_subject"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1,
+                0.5
+            ],
+            "score": 1.6,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

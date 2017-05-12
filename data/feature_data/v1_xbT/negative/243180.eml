@@ -1,0 +1,115 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p2d6d9dcab5e6e674",
+    "last10words": "ntakt Mobilni verze Podminky Pravidla oznameni DMCA Ochrana soukromi Zasady uzivatelskeho obsahu ",
+    "pepca_style_total": 0,
+    "unsub_link_texts": [
+        " podminka ",
+        " ochrana soukromy "
+    ],
+    "header_from": "podpora@ulozto.cz",
+    "unsub_link_candidates": [
+        "http://www.uloz.to/podminky/vseobecne-smluvni-podminky",
+        "http://www.uloz.to/podminky/zasady-ochrany-osobnich-udaju"
+    ],
+    "first10words": " Uloz to Uloz to Uloz to LIVE Daruj kredit Uspesna registrace Dekujeme za Vasi registraci na serveru ",
+    "attachments": [],
+    "word_count": 147,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/243180.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p2d6d9dcab5e6e674"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pbe0882308f7b4611"
+        }
+    ],
+    "spamscore": 1.2,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "synottip",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "ulozto",
+                "confidence": 216175049.429722
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "synottip",
+                "confidence": 1
+            }
+        ],
+        "domain_keywords": "ulozto",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "uloz",
+        "plain_domain_detail": [
+            {
+                "domain": "uloz",
+                "confidence": 5
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Uloz to registrace",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "unsub_link": "http://www.uloz.to/podminky/zasady-ochrany-osobnich-udaju",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "pbe0882308f7b4611",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1,
+                0.1
+            ],
+            "score": 1.2,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

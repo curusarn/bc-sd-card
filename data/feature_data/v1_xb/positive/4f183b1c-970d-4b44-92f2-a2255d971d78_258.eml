@@ -1,0 +1,169 @@
+{
+    "phashes": [
+        {
+            "value": ".text:p79a33d96e52a1d71",
+            "name": "att-pepca:exe-sec"
+        },
+        {
+            "value": ".bss:p096657538b500e08",
+            "name": "att-pepca:exe-sec"
+        },
+        {
+            "value": ".data:p9c9c50945e245d15",
+            "name": "att-pepca:exe-sec"
+        },
+        {
+            "value": ".idata:pde54f5f44847f0ac",
+            "name": "att-pepca:exe-sec"
+        },
+        {
+            "value": "pd9fe645c8de40b10",
+            "name": "att-pepca-risky"
+        },
+        {
+            "value": "p873da8ef3cb95c10",
+            "name": "att-pepca"
+        }
+    ],
+    "precedence": 3,
+    "phNotches": [
+        {
+            "module": "phish-score",
+            "name": [
+                "from_mismatch",
+                "attachments",
+                "many_emails"
+            ],
+            "subscores": [
+                1,
+                1,
+                -2
+            ],
+            "score": 0.0
+        }
+    ],
+    "header_from": "tom@empal.com",
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/20051114/258.eml",
+    "extractedEmailsTotalCount": {},
+    "theme": {},
+    "pepca_small": "p57d3e8a331dc0477",
+    "attachments": [
+        {
+            "size": 435352,
+            "name": "youdata.zip",
+            "cte": "BASE64",
+            "flags": 0,
+            "sumphash": "54c5faf80463f9379ef49b3082c14f23",
+            "pepca": "pd9fe645c8de40b10",
+            "mime_type": "application/zip"
+        },
+        {
+            "first10words": "MZ? ? L This program cannot be run in DOS",
+            "size": 435232,
+            "mime_type": "application/octet-stream",
+            "cte": "PLAIN",
+            "exe_pepcas": [
+                ".text:p79a33d96e52a1d71",
+                ".bss:p096657538b500e08",
+                ".data:p9c9c50945e245d15",
+                ".idata:pde54f5f44847f0ac"
+            ],
+            "lang": "un",
+            "name": "youdata.pif",
+            "sumphash": "950fb256af9e1cd205fa5b989aece520",
+            "pepca": "p873da8ef3cb95c10",
+            "flags": 3
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "last10words": " ",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "subject": "please give me a kiss",
+    "pepca_style": "",
+    "pepca": "",
+    "dkstatus": {},
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "domainstat_themes": {},
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "spfstatus": {},
+    "unsub_link": {},
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0.0,
+    "pepca_inline_style_total": 0,
+    "first10words": " ",
+    "universalprobes": [
+        {
+            "key": "ps-from_mismatch",
+            "value": "1"
+        },
+        {
+            "key": "ps-attachments",
+            "value": "2"
+        },
+        {
+            "key": "ps-many_emails",
+            "value": "1"
+        }
+    ],
+    "domainstat": {},
+    "lang": "en",
+    "pepcatotal": 0,
+    "word_count": 1,
+    "adscore": 0,
+    "dmarc_status": {},
+    "spamscore": 1
+}

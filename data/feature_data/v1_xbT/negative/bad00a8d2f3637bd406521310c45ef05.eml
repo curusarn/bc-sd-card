@@ -1,0 +1,113 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pacf9cbe43c8adbf2",
+    "last10words": "me Kontakt support armyduel com Pokud si jiz neprejes dostavat informacni e maily od Army Duel klikni na tento odkaz Unsubscribe ",
+    "pepca_style_total": 0,
+    "unsub_link_texts": [
+        " support armyduel com pokud si jiz neprat dostavat informacni e mail od army duel kliknout na tento odkaz",
+        " unsubscribe "
+    ],
+    "header_from": "noreply@armyduel.com",
+    "unsub_link_candidates": [
+        "mailto:support@armyduel.com",
+        "http://s1.armyduel.cz/action/unsubscribe/?id_user=11776&key=1a7dc06cf859700db1462957d38e18b6"
+    ],
+    "first10words": " Na strankach online hry Army Duel byl pouzit formular na vygenerovani noveho hesla z IP adresy 78 111 1",
+    "attachments": [],
+    "word_count": 137,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/bad00a8d2f3637bd406521310c45ef05.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pacf9cbe43c8adbf2"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pb2467cf421354336"
+        }
+    ],
+    "spamscore": 1.5,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "emailkampan",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "aweber",
+                "confidence": 95237010.2572346
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "emailkampan",
+                "confidence": 3
+            }
+        ],
+        "domain_keywords": "aweber",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "armyduel",
+        "plain_domain_detail": [
+            {
+                "domain": "armyduel",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Zadost o vygenerovani noveho hesla do online hry Army Duel",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "unsub_link": "http://s1.armyduel.cz/action/unsubscribe/?id_user=11776&key=1a7dc06cf859700db1462957d38e18b6",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "pb2467cf421354336",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "long_subject"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.5
+            ],
+            "score": 1.5,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

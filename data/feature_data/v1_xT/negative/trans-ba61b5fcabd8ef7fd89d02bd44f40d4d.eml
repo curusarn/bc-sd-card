@@ -1,0 +1,115 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.1,
+                0.0,
+                1
+            ],
+            "name": [
+                "date_in_past",
+                "evil_script",
+                "from_missmatch",
+                "missing_message_id"
+            ],
+            "module": "ill",
+            "score": 2.1
+        }
+    ],
+    "pepca": "p04d39cd77f05cdd8",
+    "first10words": " Dekujeme Vam za uskutecnenou objednavku a verime ze budete s nasimi sluzbami spokojeni Dalsi informace pro Vas Kazdy",
+    "pepca_style": "",
+    "pepca_inline_style": "pf57c056c885cc8dc",
+    "unsub_link": "http://www.profi-pedikura.cz/Files/file/OBCHODNI_PODMINKY, platn\u00e9 od 1.1.2014.pdf",
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Objednavka",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 2.1,
+    "word_count": 186,
+    "phishing": {},
+    "header_from": "info@profipedikura.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/trans-ba61b5fcabd8ef7fd89d02bd44f40d4d.eml",
+    "attachments": [
+        {
+            "size": 10247,
+            "mime_type": "text/html",
+            "flags": 0,
+            "pepca": "p3df8b32f1b70cbd9",
+            "cte": "BASE64",
+            "sumphash": "a7cacba480ebfb297aff822c1ff7249c",
+            "name": "objednavka.html"
+        }
+    ],
+    "adscore": 0,
+    "unsub_link_texts": [
+        "obchodny podminka odkaz s pozdrav odet laboratories s"
+    ],
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p3df8b32f1b70cbd9"
+        },
+        {
+            "name": "pepca",
+            "value": "p04d39cd77f05cdd8"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pf57c056c885cc8dc"
+        }
+    ],
+    "unsub_link_candidates": [
+        "http://www.profi-pedikura.cz/Files/file/OBCHODNI_PODMINKY, platn\u00e9 od 1.1.2014.pdf"
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "masterinter",
+        "plain_domain": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 63728072.47544,
+                "domain": "masterinter"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "novat znovu vsechny potrebne udaje jmeno PL1QMSW9IO heslo 3ST5XKRNI2 Tato zprava byla automaticky vygenerovana systemem ShopCentrik",
+    "lang": "cs"
+}

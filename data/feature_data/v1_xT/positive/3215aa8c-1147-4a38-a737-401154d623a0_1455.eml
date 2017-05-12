@@ -1,0 +1,96 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.5
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "long_subject"
+            ],
+            "module": "ill",
+            "score": 1.5
+        }
+    ],
+    "pepca": "p093c7d510af20dc2",
+    "first10words": " By now you have heard about SiteKey our new free award winning security feature we launched as part of our ongoing commitme",
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "word_count": 412,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Please verify your information within 48 hrs to avoid account suspension ",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.5,
+    "phishing": {
+        "5_top_domains_percent_0": 1.0,
+        "5_top_domains_id_0": 0
+    },
+    "header_from": "service@bankofamerica.com",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/1455.eml",
+    "attachments": [],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p093c7d510af20dc2"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "paypal",
+        "plain_domain": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 79194851.4301542,
+                "domain": "paypal"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "bankofamerica",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [
+            {
+                "confidence": 1,
+                "domain": "bankofamerica"
+            }
+        ],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "t all products and services are offered at all locations Copyright 2007 Bank of America Member FDIC Equal Housing Lender ",
+    "lang": "en"
+}

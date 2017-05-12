@@ -1,0 +1,98 @@
+{
+    "phashes": [
+        {
+            "value": "p5224421df9610d98",
+            "name": "pepca"
+        },
+        {
+            "value": "p63ebcd693453ff86",
+            "name": "pepca_style"
+        },
+        {
+            "value": "pbef87195b0ca6768",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "info@kralovnasperku.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/80a451230ca919dc421f6e12e686220c.eml",
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "pepca": "p5224421df9610d98",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "p63ebcd693453ff86",
+    "last10words": " Ulice Varsavska 2742 Mesto Tabor PSC 39005 Zeme Ceska republika Mobil 602155838 Souhlasim s obchodnimi podminkami 1 ",
+    "subject": "Vase registrace stanislava12 post cz na Kralovna sperku",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 3521786.05574522,
+                "domain": "vshosting"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "vshosting",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 1,
+    "pepca_inline_style": "pbef87195b0ca6768",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 1,
+    "first10words": " Vitejte Stanislava Prosim kliknete na tento odkaz pro aktivaci uctu Vase udaje Prihlasovaci jmeno stanislava1",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 65,
+    "adscore": 0,
+    "spamscore": 1.1
+}

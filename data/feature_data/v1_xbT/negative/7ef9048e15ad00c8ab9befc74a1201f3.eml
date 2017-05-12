@@ -1,0 +1,112 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pd97622bd0c4d4aac",
+    "last10words": "kaz http www gamepark cz activation asp key 1D813D57640944B8AE17F24991BE14 S pozdravem GamePark cz http www gamepark cz ",
+    "pepca_style_total": 0,
+    "header_from": "web@gamepark.cz",
+    "first10words": " GamePark cz Dobry den Pro overeni Vasi emailove adresy kliknete prosim na nasledujici odkaz http www gamepark ",
+    "attachments": [
+        {
+            "name": "gp_mail_logo.png",
+            "pepca": "p025cee6dd2d4fa0f",
+            "cte": "BASE64",
+            "mime_type": "image/png",
+            "cid": "e-logo",
+            "size": 712,
+            "flags": 0,
+            "sumphash": "02c76410b1e7ca106767e4607b600839"
+        }
+    ],
+    "word_count": 32,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/7ef9048e15ad00c8ab9befc74a1201f3.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p025cee6dd2d4fa0f"
+        },
+        {
+            "name": "pepca",
+            "value": "pd97622bd0c4d4aac"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p8abeb37ba6e29dac"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "gamepark",
+                "confidence": 106338699.6204
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "gamepark",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "gamepark",
+        "plain_domain_detail": [
+            {
+                "domain": "gamepark",
+                "confidence": 2
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Overeni emailove adresy na GamePark cz",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "p8abeb37ba6e29dac",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

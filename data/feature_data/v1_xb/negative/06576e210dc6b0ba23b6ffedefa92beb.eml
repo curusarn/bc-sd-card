@@ -1,0 +1,108 @@
+{
+    "phashes": [
+        {
+            "value": "p841d0df8a8b9271c",
+            "name": "pepca"
+        },
+        {
+            "value": "pd56c0b091c883783",
+            "name": "pepca_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "noreply@xssoftgames.com",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/06576e210dc6b0ba23b6ffedefa92beb.eml",
+    "attachments": [],
+    "contains_list_header": true,
+    "last10words": " Hra Uzivatelske jmeno v3 ladypopular cz Sadyka v3 ladypopular com Sadyka ",
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "missing_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                1
+            ],
+            "score": 2
+        }
+    ],
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "pd56c0b091c883783",
+    "pepca": "p841d0df8a8b9271c",
+    "subject": "Zapomneli jste heslo Lady Popular Modni Arenu ",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 3,
+                "domain": "xssoftgames"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 9424739.108814,
+                "domain": "xssoftgames"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "xssoftgames",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "xssoftgames",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "ladypopular",
+        "plain_domain_detail": [
+            {
+                "confidence": 3,
+                "domain": "ladypopular"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "list_unsubscribe_urls": [
+        "http://xs-software.net/crm/unsubscribe.php?mail=www.violetta@seznam.cz&hash=e0963c7dc2a1fc0461a0305b23bad5a5"
+    ],
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Forgotten password in Ladypopular Ahoj Sadyka Tento e mail jste obdrzela protoze jst",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 212,
+    "adscore": 0,
+    "spamscore": 2
+}

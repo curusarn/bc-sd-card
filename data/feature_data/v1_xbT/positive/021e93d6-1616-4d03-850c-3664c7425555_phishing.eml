@@ -1,0 +1,97 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p7e0b53609c4d64a7",
+    "last10words": "A j pro zobrazeni zpravy Pohled S pAanim hezkeho zbytku dne Va Seznam cz www napoveda seznam cz www seznam cz ",
+    "pepca_style_total": 0,
+    "header_from": "helpdesk@firma.seznam.cz",
+    "first10words": " Dobry den kliknutim na tlaAitko nie odsouhlasite tento svA j pro zobrazeni zpravy Pohled S pAanim hezkeho zbytk",
+    "attachments": [],
+    "word_count": 26,
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/actual/data/03_2016/phishing.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p7e0b53609c4d64a7"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p3c9e279cc7e73917"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "ukazslevy",
+                "confidence": 1117084.00068
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "ukazslevy",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "seznam",
+        "plain_domain_detail": [
+            {
+                "domain": "seznam",
+                "confidence": 5
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Dulezite upozorneni na vasem uctu Seznam cz",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "p3c9e279cc7e73917",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

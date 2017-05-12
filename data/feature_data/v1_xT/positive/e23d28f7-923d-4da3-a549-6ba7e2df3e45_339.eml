@@ -1,0 +1,106 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.5
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "long_subject"
+            ],
+            "module": "ill",
+            "score": 1.5
+        }
+    ],
+    "pepca": "p168c7deedaa54206",
+    "first10words": " sate seat core flue gait soft zool firm nail chad jam bull fled game Mr rest mell put pear moot gym meg GI today ABC lore mag p",
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "word_count": 440,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "0fficiaI Information For Fifth Third Bank CIients Mon 28 Aug 2006 04 24 46 0540 ",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.5,
+    "phishing": {
+        "5_top_domains_percent_0": 1.0,
+        "5_top_domains_id_0": 0
+    },
+    "header_from": "customercare_524.cust@53.com",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/339.eml",
+    "attachments": [
+        {
+            "size": 7709,
+            "mime_type": "image/png",
+            "flags": 0,
+            "pepca": "p145ffb998b365e14",
+            "cid": "006901c6ca59$e4c47c20$6c822ecf@PEBR1J",
+            "cte": "BASE64",
+            "sumphash": "a7c0e2e5d938465c994249fe65bb17eb",
+            "name": "KU77PM.PNG"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p145ffb998b365e14"
+        },
+        {
+            "name": "pepca",
+            "value": "p168c7deedaa54206"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "aweber",
+        "plain_domain": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 58709436.8763964,
+                "domain": "aweber"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": " cry rake sky bled helm urn dog yea hurl loge eye cud rap tosh go gum hum slob plum Finn dish clay hire slipup dude come how is suds sky craw ",
+    "lang": "un"
+}

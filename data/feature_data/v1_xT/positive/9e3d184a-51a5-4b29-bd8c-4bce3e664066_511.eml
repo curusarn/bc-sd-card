@@ -1,0 +1,118 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "module": "ill",
+            "score": 1
+        }
+    ],
+    "pepca": "pc1bf623ac95900a1",
+    "first10words": " Dear eBay Member Due to recent activity including possible unauthorized listings we have temporarily suspended ac",
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "word_count": 290,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Account Security Notice",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1,
+    "phishing": {
+        "5_top_domains_percent_0": 1.0,
+        "5_top_domains_id_0": 0
+    },
+    "header_from": "security@ebay.com",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing2/511.eml",
+    "attachments": [
+        {
+            "size": 1431,
+            "mime_type": "image/gif",
+            "flags": 0,
+            "pepca": "p07049804443ea298",
+            "cid": "00D295002FCD$01907297$0100007f@qcidyjnbbbdfhvx",
+            "cte": "BASE64",
+            "sumphash": "1041897485e7b98a6641911742574169",
+            "name": "ebayLogo.gif"
+        },
+        {
+            "size": 8109,
+            "mime_type": "image/gif",
+            "flags": 0,
+            "pepca": "p6811abedc22af67b",
+            "cid": "00BF9AC15DFF$0455EB92$0100007f@qcidyjnbbbdfhvx",
+            "cte": "BASE64",
+            "sumphash": "24e0a4696565d56b2d057109f5b6ae4b",
+            "name": "ebaysec.gif"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p07049804443ea298"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p6811abedc22af67b"
+        },
+        {
+            "name": "pepca",
+            "value": "pc1bf623ac95900a1"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "ebay",
+        "plain_domain": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 2397374659.3527,
+                "domain": "ebay"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "sure that perpetrators are prosecuted to the fullest extent of the law Regards Safeharbor Department eBay Inc ",
+    "lang": "en"
+}

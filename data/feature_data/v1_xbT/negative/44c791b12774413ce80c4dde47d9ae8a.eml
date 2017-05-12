@@ -1,0 +1,104 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pfc2b6d735d513a1f",
+    "last10words": "Tym eshopu Babymama cz Obchodni podminky najdete ZDE Formular pro odstoupeni od kupni smlouvy do 14 ti dni od prevzeti ZDE ",
+    "pepca_style_total": 0,
+    "unsub_link_texts": [
+        "cz obchodny podminka najit zde "
+    ],
+    "header_from": "obchod@babymama.cz",
+    "unsub_link_candidates": [
+        "http://www.babymama.cz/informace/obchodni-podminky.html"
+    ],
+    "first10words": " Vase objednavka Babymama cz kopie objednavky c 5001871 Vazeny zakazniku Dekujeme za Vasi objednavku v esh",
+    "attachments": [],
+    "word_count": 817,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/44c791b12774413ce80c4dde47d9ae8a.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pfc2b6d735d513a1f"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pb9707d0285aeb965"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "masterinter",
+                "confidence": 12745614.495088
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "masterinter",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "babymama",
+        "plain_domain_detail": [
+            {
+                "domain": "babymama",
+                "confidence": 3
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Vase objednavka Babymama cz kopie objednavky c 5001871",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "unsub_link": "http://www.babymama.cz/informace/obchodni-podminky.html",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "pb9707d0285aeb965",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

@@ -1,0 +1,97 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pc5b0bab5e998513f",
+    "last10words": " nasi spolecnost Tesi nas Vase duvera Vas tym PPL Poznamka tento email je generovan automaticky a neni mozne na nej odpovidat ",
+    "pepca_style_total": 0,
+    "header_from": "pplbalik@ppl.cz",
+    "first10words": " Vazeny zakazniku dnes jsme prevzali zasilku kterou Vam nasledujici pracovni den budeme dorucovat Cislo zasilky 40210457442 Ode",
+    "attachments": [],
+    "word_count": 144,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/257733.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pc5b0bab5e998513f"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "stepstone",
+                "confidence": 48484155.8044
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "stepstone",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "pplbalik",
+        "plain_domain_detail": [
+            {
+                "domain": "pplbalik",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "PPL Doruceni Vasi zasilky",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": true,
+        "5_top_domains_id_0": 0,
+        "5_top_domains_id_1": 1,
+        "5_top_domains_percent_1": 0.5,
+        "5_top_domains_percent_0": 0.5
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

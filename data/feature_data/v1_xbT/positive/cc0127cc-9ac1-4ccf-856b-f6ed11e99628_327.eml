@@ -1,0 +1,105 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p73a4a816a6c3de6a",
+    "last10words": " Easter Could I speak to in 1803 Female Will you please ",
+    "pepca_style_total": 0,
+    "header_from": "support_num_81978@ebay.com",
+    "first10words": " Easter Could I speak to in 1803 Female Will you please ",
+    "attachments": [
+        {
+            "name": "sauerkraut.GIF",
+            "pepca": "paf1829f6d4e4e0d2",
+            "cte": "BASE64",
+            "mime_type": "image/gif",
+            "cid": "part1.03000803.08010708@identdep_op03482@ebay.com",
+            "size": 13309,
+            "flags": 0,
+            "sumphash": "65fa1e30dad5967e7f71916c78a73181"
+        }
+    ],
+    "word_count": 13,
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/20051114/327.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "paf1829f6d4e4e0d2"
+        },
+        {
+            "name": "pepca",
+            "value": "p73a4a816a6c3de6a"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "aweber",
+                "confidence": 18543252.1218823
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "aweber",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "en",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "IMPORTANT INFORMATION ABOUT YOUR EBAY ACCOUNT",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": true,
+        "5_top_domains_id_0": 0,
+        "5_top_domains_percent_0": 1.0
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

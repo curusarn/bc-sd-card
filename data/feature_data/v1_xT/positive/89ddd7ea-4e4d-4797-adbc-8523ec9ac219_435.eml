@@ -1,0 +1,103 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.5
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "long_subject"
+            ],
+            "module": "ill",
+            "score": 1.5
+        }
+    ],
+    "pepca": "p00895940dbaf4ca4",
+    "first10words": " Sleep was like a tide which covered the rock of grief applied commemorate Isn t that what you re saying now It s all rig",
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "word_count": 134,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "BB T confirm your online account details Mon 05 Mar 2007 09 00 57 0500",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.5,
+    "phishing": {},
+    "header_from": "investigation-num003299ib@bbt.com",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/435.eml",
+    "attachments": [
+        {
+            "size": 7854,
+            "mime_type": "image/gif",
+            "flags": 0,
+            "pepca": "pdd988d7ea5ad5cc2",
+            "cid": "9KPG1IMMM0",
+            "cte": "BASE64",
+            "sumphash": "986095c19d1b95e4ea9b93c5e2d265aa",
+            "name": "chrysler.gif"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "pdd988d7ea5ad5cc2"
+        },
+        {
+            "name": "pepca",
+            "value": "p00895940dbaf4ca4"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "aweber",
+        "plain_domain": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 83282437.9149652,
+                "domain": "aweber"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "ght was good and so on and so on not that I would have gotten very far in the mudbath out there even if your doors had been wide open cesare ",
+    "lang": "en"
+}

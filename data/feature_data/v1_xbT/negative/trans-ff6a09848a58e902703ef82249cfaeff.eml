@@ -1,0 +1,104 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p5cd4fb8e20b96d0d",
+    "last10words": "racni adresa SUBA s r o SUBA s r o Slamenikova 23 614 00 Brno C zakaznika 131071 Telefon 607226538 e mail lada200 seznam cz ",
+    "pepca_style_total": 0,
+    "header_from": "noreply@carparts-cat.com",
+    "first10words": " Ordermail Cislo objednavky 3077834 20150113105603250 C zakaznika 131071 Datum objednavky 13 1 2015 10 56 03 C zbo",
+    "attachments": [
+        {
+            "name": "Order3077834-20150113105603250.xml",
+            "pepca": "pc9259581e0e87f53",
+            "cte": "QPRINT",
+            "mime_type": "text/plain",
+            "size": 2114,
+            "flags": 0,
+            "sumphash": "a87e595ddc30903a516ac7b01b08d823"
+        }
+    ],
+    "word_count": 169,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/trans-ff6a09848a58e902703ef82249cfaeff.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "pc9259581e0e87f53"
+        },
+        {
+            "name": "pepca",
+            "value": "p5cd4fb8e20b96d0d"
+        }
+    ],
+    "spamscore": 1.5,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "booking",
+                "confidence": 88447021.5167
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "booking",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Vase objednavka z 13 1 2015 10 56 03 Cislo objednavky 20150113105603250 Cislo zakazky 3077834",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "long_subject"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.5
+            ],
+            "score": 1.5,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

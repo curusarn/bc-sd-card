@@ -1,0 +1,99 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p36b387a30bb04d00",
+    "last10words": "Enenkel Formen Cechy spol s r o Ing Tomas Enenkel jednatel 602739017 Belehradska 62 1019 120 00 Praha 2 ICO 26752760 DIC CZ 26752760",
+    "pepca_style_total": 0,
+    "header_from": "enenkel@formen.cz",
+    "first10words": " Za cenu obvyklou objednavam na zitrek rano tedy na 14 1 2015 U180 dl 3 4 m Dekuji Enenkel Formen Cechy spol s r o Ing Tomas Enenke",
+    "attachments": [
+        {
+            "name": "winmail.dat",
+            "cte": "BASE64",
+            "mime_type": "application/vnd.ms-tnef",
+            "size": 0,
+            "flags": 0,
+            "sumphash": "dc5b5ace27d0916fed08dfee55dd0748"
+        }
+    ],
+    "word_count": 33,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/trans-f4684842860d70e1b2054b60661c7277.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p36b387a30bb04d00"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "profesia",
+                "confidence": 3081407.533189
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "profesia",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "objednavka",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

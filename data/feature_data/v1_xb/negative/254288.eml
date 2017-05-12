@@ -1,0 +1,110 @@
+{
+    "phashes": [
+        {
+            "value": "pd55c846ffc1e45eb",
+            "name": "pepca"
+        },
+        {
+            "value": "p25dfe2e5dd31555e",
+            "name": "pepca_style"
+        },
+        {
+            "value": "p892d05b4d1ef82c9",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "info@marimex.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/254288.eml",
+    "unsub_link_candidates": [
+        "http://marimex.us4.list-manage1.com/unsubscribe?u=57ed8b9839c5aefb066370ec3&id=491ce1f0f9&e=adcfc3653e",
+        "http://www.mailchimp.com/monkey-rewards/?utm_source=freemium_newsletter&utm_medium=email&utm_campaign=monkey_rewards&aid=57ed8b9839c5aefb066370ec3&afl=1"
+    ],
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "pepca": "pd55c846ffc1e45eb",
+    "phishing": {
+        "ner_domain_detected": true
+    },
+    "pepca_style": "p25dfe2e5dd31555e",
+    "last10words": "ni nasich e mailu provedte odhlaseni zde Muzete nas take kontaktovat zde shop marimex cz ",
+    "subject": "Marimex List Prihlaseni potvrzeno",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 1,
+                "domain": "sam73"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 38236843.485264,
+                "domain": "masterinter"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "sam73",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "masterinter",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p892d05b4d1ef82c9",
+    "unsub_link_texts": [
+        " odhlaseni zde moct my take kontaktovat zde",
+        " email marketing powered by mailchimp mailchimp email marketing "
+    ],
+    "unsub_link": "http://www.mailchimp.com/monkey-rewards/?utm_source=freemium_newsletter&utm_medium=email&utm_campaign=monkey_rewards&aid=57ed8b9839c5aefb066370ec3&afl=1",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Marimex List Marimex Vase prihlaseni do nasi databaze bylo potvrzeno Pro vase zaznamy zde je k",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 208,
+    "adscore": 0,
+    "spamscore": 1
+}

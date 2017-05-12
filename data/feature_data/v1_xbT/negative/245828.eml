@@ -1,0 +1,154 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pbeb233dfb9ceb1c0",
+    "last10words": "i Jmeno a prijmeni kupujiciho Adresa kupujiciho V dne Podpis ",
+    "pepca_style_total": 0,
+    "header_from": "info@decoDoma.cz",
+    "first10words": " Potvrzeni prijeti objednavky Dekujeme mnohokrat za Vasi objednavku Objednavku jsme prijali a probiha jeji zpracovani ",
+    "attachments": [
+        {
+            "name": "image",
+            "pepca": "p4974af568e8736bc",
+            "cte": "BASE64",
+            "mime_type": "image/gif",
+            "cid": "07ee58ec4446d89358de93c8adcf63da",
+            "size": 5993,
+            "flags": 0,
+            "sumphash": "ebe87ef44f3480e4ebf9f780792466be"
+        },
+        {
+            "name": "image",
+            "pepca": "p3cc70a837f7fb981",
+            "cte": "BASE64",
+            "mime_type": "image/jpeg",
+            "cid": "07e546eaccfaee643e1b054c05e3e34d",
+            "size": 17684,
+            "flags": 0,
+            "sumphash": "192e8007fbb3c369a3da02dad97f2aa3"
+        },
+        {
+            "name": "image",
+            "pepca": "p18b18afb46619f1f",
+            "cte": "BASE64",
+            "mime_type": "image/jpeg",
+            "cid": "07e34f50012cb893e265e75aba14fc22",
+            "size": 5379,
+            "flags": 0,
+            "sumphash": "28263da5bcb48982058aa1060462788f"
+        },
+        {
+            "name": "image",
+            "pepca": "p7072059f2fb5a8ee",
+            "cte": "BASE64",
+            "mime_type": "image/jpeg",
+            "cid": "07e75a0ea3f3b2a1b16b775e90768e5a",
+            "size": 6193,
+            "flags": 0,
+            "sumphash": "0731ede181b1127822ecd6bc8eeddb0f"
+        }
+    ],
+    "word_count": 3288,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/245828.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p4974af568e8736bc"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p3cc70a837f7fb981"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p18b18afb46619f1f"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p7072059f2fb5a8ee"
+        },
+        {
+            "name": "pepca",
+            "value": "pbeb233dfb9ceb1c0"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pe0fc98f11d2bbbcf"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "masterinter",
+                "confidence": 1032394774.10213
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "masterinter",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "decodoma",
+        "plain_domain_detail": [
+            {
+                "domain": "decodoma",
+                "confidence": 2
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Potvrzeni prijeti objednavky 34673 ",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "pe0fc98f11d2bbbcf",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

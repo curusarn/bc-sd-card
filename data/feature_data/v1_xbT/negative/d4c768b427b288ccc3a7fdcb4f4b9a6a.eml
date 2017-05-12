@@ -1,0 +1,121 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p944477cc47887aaa",
+    "last10words": "kojeni reknete o nas take svym pratelum Stav zpracovani vasi objednavky muzete sledovat po prihlaseni v ZAKAZNICKE SEKCI ",
+    "pepca_style_total": 0,
+    "header_from": "info@zdravapokozka.com",
+    "first10words": " Dobry den obdrzeli jsme Vasi objednavku nasich vyrobku Dekujeme Vam za nakup a zasilame rekapitulaci Seznam Vami objednaneho",
+    "attachments": [
+        {
+            "mime_type": "application/pdf",
+            "name": "OBCHODNI-PODMINKY.pdf",
+            "first10words": "Untitled OBCHODNI PODMINKY Provozovatel Michal Barborik se sidlem Praha Nad",
+            "pepca": "pa2bbf8e6f0e9d9df",
+            "lang": "cs",
+            "cte": "BASE64",
+            "size": 80830,
+            "flags": 0,
+            "sumphash": "32b98d2d21191364890d98761a8d0b8e"
+        },
+        {
+            "mime_type": "application/pdf",
+            "name": "reklamacni-formular_ZP.pdf",
+            "first10words": "propozycja sponsoringu czytelniczki na ok?adki Formular pro vymenu ci vraceni",
+            "pepca": "peb2283b503a0b40e",
+            "lang": "cs",
+            "cte": "BASE64",
+            "size": 521589,
+            "flags": 0,
+            "sumphash": "ee885245ed5f28e8eca0bf5475305435"
+        }
+    ],
+    "word_count": 423,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/d4c768b427b288ccc3a7fdcb4f4b9a6a.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "pa2bbf8e6f0e9d9df"
+        },
+        {
+            "name": "att-pepca",
+            "value": "peb2283b503a0b40e"
+        },
+        {
+            "name": "pepca",
+            "value": "p944477cc47887aaa"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "masterinter",
+                "confidence": 12745614.495088
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "masterinter",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Prijata objednavka",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

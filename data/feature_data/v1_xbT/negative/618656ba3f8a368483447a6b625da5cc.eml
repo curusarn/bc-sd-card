@@ -1,0 +1,163 @@
+{
+    "pepca_inline_style_total": 3,
+    "pepca": "p0e3d2093020ebc32",
+    "last10words": "nim hezkeho dne Tym TopSleva cz 2013 5DM cz Prokopska 297 10 Prague Prague 11800 Czech Republic ",
+    "universalprobes": [
+        {
+            "key": "ps-from_mismatch",
+            "value": "1"
+        },
+        {
+            "key": "ps-phish_keyword",
+            "value": "['z\\xc3\\xadskat', 'z\\xc3\\xadskat', 'u\\xc5\\xbeivatelsk\\xc3\\xbd', 'heslo', 'heslo']"
+        },
+        {
+            "key": "ps-camouflaged_href",
+            "value": "Url(norm=http://www.topsleva.cz/, source=None) | Url(norm=http://SLEVA.CZ, source=txt)"
+        },
+        {
+            "key": "ps-html_a_href_camouflaging",
+            "value": "1"
+        },
+        {
+            "key": "ps-many_emails",
+            "value": "1"
+        },
+        {
+            "key": "ps-most-suspicious-links",
+            "value": "[]"
+        },
+        {
+            "key": "ps-phishing",
+            "value": "1"
+        }
+    ],
+    "pepca_style_total": 0,
+    "dkstatus": {},
+    "header_from": "info@topsleva.cz",
+    "spfstatus": {},
+    "pepca_inline_style": "p7b9ae22257bcfef4",
+    "pepcatotal": 3,
+    "attachments": [],
+    "word_count": 182,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/618656ba3f8a368483447a6b625da5cc.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p0e3d2093020ebc32"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p7b9ae22257bcfef4"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "topsleva",
+                "confidence": 38227977.106519
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "topsleva",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "sleva",
+        "plain_domain_detail": [
+            {
+                "domain": "sleva",
+                "confidence": 1
+            },
+            {
+                "domain": "topsleva",
+                "confidence": 4
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "dmarc_status": {},
+    "phish_score": 10.25,
+    "domainstat": {},
+    "precedence": 3,
+    "extractedEmailsTotalCount": {},
+    "subject": "Dokoncete registraci na portalu TopSleva cz",
+    "adscore": 0,
+    "first10words": " TopSleva cz Zpravodaj Srovnavame vice nez 5 000 skvelych nabidek tracking TOP SLEVA CZ Srovnavame vice ne",
+    "unsub_link": {},
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "domainstat_themes": {},
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1,
+    "theme": {},
+    "lang": "cs",
+    "phNotches": [
+        {
+            "name": [
+                "from_mismatch",
+                "phisheable",
+                "phish_keyword",
+                "html_a_href_camouflaging",
+                "many_emails",
+                "phishing"
+            ],
+            "subscores": [
+                1,
+                0.5,
+                0.0,
+                1,
+                -2,
+                8
+            ],
+            "score": 8.5,
+            "module": "phish-score"
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p5c6c279115c2ffe6",
+    "last10words": "anced electronic signature The conditions under which O2 Czech Republic a s negotiates contracts and under which it proceeds are available here ",
+    "pepca_style_total": 0,
+    "unsub_link_texts": [
+        " www efitshop cz e mail"
+    ],
+    "header_from": "andrea.navratilova@o2.cz",
+    "unsub_link_candidates": [
+        "http://www.efitshop.cz"
+    ],
+    "first10words": " Kdyz ti Bonerix zacal platit 5 11 tak nemohla byt vystavena tato faktura od 7 11 8 12 na 649 Zavolam na reklamace az prijdu",
+    "attachments": [],
+    "word_count": 752,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/e17862a9b42711036b37a21c883de8a5.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p5c6c279115c2ffe6"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pc971828dcedbb95b"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "o2",
+                "confidence": 87650506.78836
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "o2",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "efitshop",
+        "plain_domain_detail": [
+            {
+                "domain": "efitshop",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "RE Faktura",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "unsub_link": "http://www.efitshop.cz",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "pc971828dcedbb95b",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

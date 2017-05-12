@@ -1,0 +1,121 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "module": "ill",
+            "score": 1.1
+        }
+    ],
+    "pepca": "p1ea7a7c19a224cf7",
+    "first10words": " Datum objednavky 10 1 2015 15 30 Cislo objednavky 802 Zpusob odberu Doporucena zasilka Zpusob uhrady Platba pri prevzeti ",
+    "pepca_style": "",
+    "pepca_inline_style": "p540e55acac9d0d35",
+    "word_count": 310,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Objednavka z E shopu Svet deti",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.1,
+    "phishing": {},
+    "header_from": "glockler.t@gmail.com",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/7345ede587b18df7f853ff7e3c17e52d.eml.eml",
+    "attachments": [
+        {
+            "size": 3102,
+            "mime_type": "image/jpeg",
+            "flags": 0,
+            "pepca": "p6bbb000e07c2ceda",
+            "cid": "3619248.jpg",
+            "cte": "BASE64",
+            "sumphash": "86ef942735e1feaa5e001f4d1d759d41",
+            "name": "3619248.jpg"
+        },
+        {
+            "size": 2815,
+            "mime_type": "image/jpeg",
+            "flags": 0,
+            "pepca": "p98bb75cbcdbc9482",
+            "cid": "4968859.jpg",
+            "cte": "BASE64",
+            "sumphash": "5a1a9ee5bdb2085b235e97e84d2176f3",
+            "name": "4968859.jpg"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p6bbb000e07c2ceda"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p98bb75cbcdbc9482"
+        },
+        {
+            "name": "pepca",
+            "value": "p1ea7a7c19a224cf7"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p540e55acac9d0d35"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "superhosting",
+        "plain_domain": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 20646382.4884113,
+                "domain": "superhosting"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "nky platne ke dni 10 1 2015 15 30 si stahnete ve formatu PDF zde http svetdeti mimishop cz podminky php pdf 1 verze 1420900239 jazyk cs ",
+    "lang": "cs"
+}

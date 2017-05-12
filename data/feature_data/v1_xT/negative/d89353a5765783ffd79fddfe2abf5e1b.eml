@@ -1,0 +1,113 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "module": "ill",
+            "score": 1.1
+        }
+    ],
+    "pepca": "p0b63be001bce63e6",
+    "first10words": " Krasny den eviduji u vas neuhrazenou fakturu880198 Rad bych vas pozadal o jeji zaplaceni v nejblizsim terminu Dekuji za poch",
+    "pepca_style": "",
+    "pepca_inline_style": "p831d72213d05e182",
+    "word_count": 27,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Neuhrazena faktura predplatne Kazdy den s citatem",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.1,
+    "phishing": {},
+    "header_from": "petr@kazdydenscitatem.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/d89353a5765783ffd79fddfe2abf5e1b.eml",
+    "attachments": [
+        {
+            "size": 32228,
+            "mime_type": "application/pdf",
+            "flags": 0,
+            "pepca": "pee4082d759ed04af",
+            "first10words": "Faktura Dodavatel FALMARI s r o Petr Havranek Rajmonova Praha",
+            "cte": "BASE64",
+            "sumphash": "3534aab8625f1bb708a5f1860df7a7cf",
+            "name": "Faktura #880198.pdf",
+            "lang": "cs"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "pee4082d759ed04af"
+        },
+        {
+            "name": "pepca",
+            "value": "p0b63be001bce63e6"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p831d72213d05e182"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "fapi"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "fapifaktura",
+        "plain_domain": "fapi",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 2699143.41467,
+                "domain": "fapifaktura"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "laceni v nejblizsim terminu Dekuji za pochopeni Mejte se krasne Petr Havranek Faktura byla vystavena systemem FAPI cz ",
+    "lang": "cs"
+}

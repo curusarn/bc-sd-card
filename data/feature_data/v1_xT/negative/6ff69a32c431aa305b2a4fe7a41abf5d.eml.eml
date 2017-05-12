@@ -1,0 +1,126 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1,
+                1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging",
+                "missing_message_id"
+            ],
+            "module": "ill",
+            "score": 2.1
+        }
+    ],
+    "pepca": "p97c29c881da3326d",
+    "first10words": " Dobry den Pro penize bych se zastavila ve ctvrtek 15 1 Mela by to byt faktura na 6273Kc a zA toho se odecte dobropis ",
+    "pepca_style": "",
+    "pepca_inline_style": "p3b33dea3d42d22a2",
+    "word_count": 194,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "faktura",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 2.1,
+    "phishing": {},
+    "header_from": "Denisa.Vitkova@henryschein.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/6ff69a32c431aa305b2a4fe7a41abf5d.eml.eml",
+    "attachments": [
+        {
+            "size": 2128,
+            "mime_type": "image/jpeg",
+            "flags": 0,
+            "pepca": "pd2ddc5a49042d4fa",
+            "cid": "image001.jpg@01D02E77.0051EF60",
+            "cte": "BASE64",
+            "sumphash": "1663091a8ed367bf5c6eeff1b287ad40",
+            "name": "image001.jpg"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "pd2ddc5a49042d4fa"
+        },
+        {
+            "name": "pepca",
+            "value": "p97c29c881da3326d"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p3b33dea3d42d22a2"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "henryschein"
+            },
+            {
+                "confidence": 1,
+                "domain": "hs-online"
+            },
+            {
+                "confidence": 1,
+                "domain": "noviko-online"
+            },
+            {
+                "confidence": 1,
+                "domain": "noviko"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "s1now",
+        "plain_domain": "henryschein",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 15146366.8399,
+                "domain": "s1now"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "dential and may be legally privileged It is intended solely for the addressee s Access to this e mail by anyone else is unauthorized ",
+    "lang": "en"
+}

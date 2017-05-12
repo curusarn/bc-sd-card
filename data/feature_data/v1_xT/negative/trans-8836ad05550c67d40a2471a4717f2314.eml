@@ -1,0 +1,104 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.1,
+                0.0,
+                1
+            ],
+            "name": [
+                "date_in_past",
+                "evil_script",
+                "from_missmatch",
+                "missing_message_id"
+            ],
+            "module": "ill",
+            "score": 2.1
+        }
+    ],
+    "pepca": "p41e6d293a3d6736d",
+    "first10words": " Dekujeme za Vasi objednavku Tato zprava byla automaticky vygenerovana systemem ShopCentrik",
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "word_count": 10,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Objednavka",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 2.1,
+    "phishing": {},
+    "header_from": "tirextyre@tirextyre.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/trans-8836ad05550c67d40a2471a4717f2314.eml",
+    "attachments": [
+        {
+            "size": 9302,
+            "mime_type": "text/html",
+            "flags": 0,
+            "pepca": "p9231495b1eb21e6c",
+            "cte": "BASE64",
+            "sumphash": "8012f1e652c7b20e1c996cb107c17da5",
+            "name": "objednavka_1100145668.html"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p9231495b1eb21e6c"
+        },
+        {
+            "name": "pepca",
+            "value": "p41e6d293a3d6736d"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "leontyna",
+        "plain_domain": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 914546.523791,
+                "domain": "leontyna"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": " Dekujeme za Vasi objednavku Tato zprava byla automaticky vygenerovana systemem ShopCentrik",
+    "lang": "cs"
+}

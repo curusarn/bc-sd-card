@@ -1,0 +1,116 @@
+{
+    "phashes": [
+        {
+            "value": "pfcb3f9d860cdec0e",
+            "name": "pepca"
+        },
+        {
+            "value": "p7bd0e53289b2781c",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 2,
+    "header_from": "info@chance.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/897770e4f2d88e7374aa305467fb4c3d.eml",
+    "unsub_link_candidates": [
+        "http://user.mailkit.eu/mc/CECCQCCPEUQUQQQUVCPWQVWVCKYEKXNV"
+    ],
+    "attachments": [],
+    "contains_list_header": true,
+    "last10words": "folinka 233 090 831 Tento email ma charakter obchodniho sdeleni Copyright 2014 CHANCE a s Vsechna prava vyhrazena ",
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca": "pfcb3f9d860cdec0e",
+    "subject": "Zmena hesla k uctu CHANCE",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 2,
+                "domain": "tipsport"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 10256637.2474413,
+                "domain": "mcsv"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "tipsport",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "mcsv",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "chance",
+        "plain_domain_detail": [
+            {
+                "confidence": 2,
+                "domain": "chance"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p7bd0e53289b2781c",
+    "unsub_link_texts": [
+        " odhlasit odber novinka a tip infolinka"
+    ],
+    "list_unsubscribe_urls": [
+        "mailto:CECCQCCPEUQUQQQUVCPWQVWVCKYEKXNV.owner@unsub.mailkit.eu",
+        "http://user.mailkit.eu/mc/CECCQCCPEUQUQQQUVCPWQVWVCKYEKXNV"
+    ],
+    "unsub_link": "http://user.mailkit.eu/mc/CECCQCCPEUQUQQQUVCPWQVWVCKYEKXNV",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 1,
+    "first10words": " Zmena hesla k uctu CHANCE Nezobrazuje se Vam logo a obrazky Tisk Zdravime Na T",
+    "lang": "cs",
+    "pepcatotal": 1,
+    "word_count": 137,
+    "adscore": 0,
+    "spamscore": 1.1
+}

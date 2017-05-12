@@ -1,0 +1,132 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p9e532dca4be4eea8",
+    "last10words": "zete si tuto funkci vypnout na nasem webu www avacom cz po prihlaseni v sekci Muj ucet Avacom s r o baterie a akumulatory ",
+    "pepca_style_total": 0,
+    "header_from": "objednavky@avacom.cz",
+    "resent": true,
+    "first10words": " Vase objednavka ZAKW 2014 76510 potvrzeni o doruceni objednavky Vazeny zakazniku Dekujeme za Vasi objedna",
+    "attachments": [
+        {
+            "name": "avacom-logo.png",
+            "pepca": "p671f3664dad1ccf7",
+            "cte": "BASE64",
+            "mime_type": "image/png",
+            "cid": "imgId.1418640571548ebcbbbaf53",
+            "size": 1769,
+            "flags": 0,
+            "sumphash": "f9e4b7a9b928256c3a3359b50c9ba721"
+        },
+        {
+            "mime_type": "application/pdf",
+            "name": "AVACOM-VOP-a-Reklamacni-rad.pdf",
+            "first10words": "AVACOM VOP a Reklamacni rad Vseobecne obchodni podminky spolecnosti AVACOM",
+            "pepca": "pe5fcbe87e5368cc4",
+            "lang": "cs",
+            "cte": "BASE64",
+            "size": 77972,
+            "flags": 0,
+            "sumphash": "4d30fa0673ef56414e22c3b356c9cefa"
+        }
+    ],
+    "word_count": 311,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/0ada49c59eed9f24d299b2ed6f70f021.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p671f3664dad1ccf7"
+        },
+        {
+            "name": "att-pepca",
+            "value": "pe5fcbe87e5368cc4"
+        },
+        {
+            "name": "pepca",
+            "value": "p9e532dca4be4eea8"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p4b057b78fb01a358"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "avacom",
+                "confidence": 13782355.7872763
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "avacom",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "adobe",
+        "plain_domain_detail": [
+            {
+                "domain": "adobe",
+                "confidence": 1
+            },
+            {
+                "domain": "avacom",
+                "confidence": 2
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Objednavka cislo ZAKW 2014 76510",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "p4b057b78fb01a358",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

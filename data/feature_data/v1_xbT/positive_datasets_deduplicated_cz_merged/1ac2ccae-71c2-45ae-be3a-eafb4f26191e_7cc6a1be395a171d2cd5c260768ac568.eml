@@ -1,0 +1,106 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p86948ecd4811707b",
+    "last10words": "a s Seznam Vstup pro prodejce Napoveda Nasi partneri Kontakt Cebia report Reklama Smluvni podminky Mobilni verze ",
+    "pepca_style_total": 0,
+    "header_from": "seznam@seznam.cz",
+    "first10words": " New Page Dobry den Zda se ze vas ucet byl Sauto cz pristup ze zahranici 81 182 164 148 Madarsko a oni",
+    "attachments": [],
+    "word_count": 153,
+    "email_path": "/mfs/replicated/datasets/phishing/datasets/deduplicated_cz_phish_merged/7cc6a1be395a171d2cd5c260768ac568.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p86948ecd4811707b"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pbec6699b9e5bcf4b"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "gmail",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "mcsv",
+                "confidence": 10256637.2474413
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "gmail",
+                "confidence": 1
+            }
+        ],
+        "domain_keywords": "mcsv",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "sauto",
+        "plain_domain_detail": [
+            {
+                "domain": "sauto",
+                "confidence": 1
+            },
+            {
+                "domain": "seznam",
+                "confidence": 2
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Vas ucet bude pozastaven ",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "pbec6699b9e5bcf4b",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

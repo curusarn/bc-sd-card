@@ -1,0 +1,123 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p65f6546db358c57b",
+    "last10words": "rahomira Jancakova Rautis as Ponikla 153 51242 Ponikla cr Drahomira Jancakova Telefon 739914530 Email mamina po seznam cz ",
+    "pepca_style_total": 0,
+    "header_from": "eshop@kuchynskepotreby.cz",
+    "first10words": " Vase objednavka byla prijata ke zpracovani zbozi Vam odesleme v nejblizsim moznem terminu V pripade nejasnosti Vas budeme ko",
+    "attachments": [
+        {
+            "mime_type": "application/pdf",
+            "name": "Obchodn\u00ed podm\u00ednky.pdf",
+            "first10words": "Obchodni podminky Vazeni zakaznici veskere podminky a ustanoveni tykajici se",
+            "pepca": "p05270146751623bb",
+            "lang": "cs",
+            "cte": "BASE64",
+            "size": 106589,
+            "flags": 0,
+            "sumphash": "1dd02cb60005156bfe693e1e1aa514c7"
+        }
+    ],
+    "word_count": 243,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/8df70fa0e57fe768a2d230ab6f51fefa.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p05270146751623bb"
+        },
+        {
+            "name": "pepca",
+            "value": "p65f6546db358c57b"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p0b0a3628d8bf90c5"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "masterinter",
+                "confidence": 25491228.990176
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "masterinter",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "rautis",
+        "plain_domain_detail": [
+            {
+                "domain": "rautis",
+                "confidence": 1
+            },
+            {
+                "domain": "kuchynskepotreby",
+                "confidence": 1
+            },
+            {
+                "domain": "eby",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Nova objednavka ze serveru www kuchynskepotreby cz 8093",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "p0b0a3628d8bf90c5",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

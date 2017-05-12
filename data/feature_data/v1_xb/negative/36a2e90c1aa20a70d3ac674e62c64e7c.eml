@@ -1,0 +1,115 @@
+{
+    "phashes": [
+        {
+            "value": "p5a0f4d8b0ddb31c0",
+            "name": "pepca"
+        },
+        {
+            "value": "p13bb588cbf82e4e3",
+            "name": "pepca_style"
+        },
+        {
+            "value": "pdf7e7382e0a71277",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "no-reply@depositphotos.com",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/36a2e90c1aa20a70d3ac674e62c64e7c.eml",
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "images_in_subject"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                1
+            ],
+            "score": 2
+        }
+    ],
+    "last10words": "ndon spravce pro zakazniky 44 870 8200052 Depositphotos Inc 110 E Broward Blvd Suite 1700 Fort Lauderdale FL 33301 USA ",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "p13bb588cbf82e4e3",
+    "pepca": "p5a0f4d8b0ddb31c0",
+    "subject": " Obnoveni hesla u Depositphotos",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 4,
+                "domain": "depositphotos"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 27543795.8669938,
+                "domain": "ebay"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "depositphotos",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "ebay",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "pdf7e7382e0a71277",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "adNotches": [
+        {
+            "module": "ill",
+            "name": [
+                "images_in_subject"
+            ],
+            "subscores": [
+                5
+            ],
+            "score": 5
+        }
+    ],
+    "pepca_inline_style_total": 0,
+    "first10words": " Obnoveni hesla Dobry den Pozadal jste o resetovani Vaseho Depositphotos hesla Prihlasovac",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 164,
+    "adscore": 5,
+    "spamscore": 2
+}

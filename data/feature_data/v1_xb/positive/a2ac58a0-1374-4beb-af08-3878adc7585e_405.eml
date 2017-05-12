@@ -1,0 +1,156 @@
+{
+    "phashes": [
+        {
+            "value": "p2ea407e64a4d6200",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pa8faba690de9de9f",
+            "name": "pepca"
+        },
+        {
+            "value": "p158490953b4e02ec",
+            "name": "pepca_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "aw-confirm@ebay.com",
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/20051114/405.eml",
+    "attachments": [
+        {
+            "size": 140,
+            "name": "CatCurve_17x24.gif",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "CatCurve_17x24.gif",
+            "sumphash": "7c3f525460b772c77345ff08aed19254",
+            "mime_type": "image/gif"
+        },
+        {
+            "size": 42,
+            "name": "eBayISAPI.gif",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "eBayISAPI.gif",
+            "sumphash": "6836779c2baf657aac16fdb3d432f86a",
+            "mime_type": "image/gif"
+        },
+        {
+            "size": 1313,
+            "name": "eBayLogoTM.gif",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "eBayLogoTM.gif",
+            "sumphash": "4c7b85c6f6ad27ca8fe1c5ae92dcd59d",
+            "pepca": "p2ea407e64a4d6200",
+            "mime_type": "image/gif"
+        },
+        {
+            "size": 291,
+            "name": "SearchCurve_17x64.gif",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "SearchCurve_17x64.gif",
+            "sumphash": "f34ca82d812b0690d2d8243cf944f966",
+            "mime_type": "image/gif"
+        },
+        {
+            "size": 43,
+            "name": "x.gif",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "x.gif",
+            "sumphash": "5a2ed8e1f121e3c0c0668ead4def6e50",
+            "mime_type": "image/gif"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging",
+                "long_subject"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1,
+                0.5
+            ],
+            "score": 1.6
+        }
+    ],
+    "pepca": "pa8faba690de9de9f",
+    "phishing": {
+        "ner_domain_detected": true
+    },
+    "pepca_style": "p158490953b4e02ec",
+    "last10words": "perty of their respective owners eBay and the eBay logo are trademarks of eBay Inc eBay is located at 2145 Hamilton Avenue San Jose CA 95125 ",
+    "subject": "TKO NOTICE eBay Registration Suspension Possible Unauthorized Account Use Section 9",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 5276345463.48665,
+                "domain": "ebay"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "ebay",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "ebayssafety",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "ebayssafety"
+            },
+            {
+                "confidence": 1,
+                "domain": "ebay"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " eBay A Dear Ebay User During our regular update and verification of the accounts we v",
+    "lang": "en",
+    "pepcatotal": 0,
+    "word_count": 397,
+    "adscore": 0,
+    "spamscore": 1.6
+}

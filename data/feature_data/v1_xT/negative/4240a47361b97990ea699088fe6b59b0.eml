@@ -1,0 +1,151 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "module": "ill",
+            "score": 1.1
+        }
+    ],
+    "pepca": "p782e21534e2de55a",
+    "first10words": " Nova nabidka a predbezna faktura I Puvodni zprava Od Hacklova Jitka OKNOSTYL group provozovna oknosty",
+    "pepca_style": "",
+    "pepca_inline_style": "p18e1db148b80cb70",
+    "word_count": 120,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Fwd 1 2014 2178 Smlouva o dilo proforma faktura",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.1,
+    "phishing": {
+        "5_top_domains_percent_0": 1.0,
+        "5_top_domains_id_0": 0
+    },
+    "header_from": "fencl.i@seznam.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/4240a47361b97990ea699088fe6b59b0.eml",
+    "attachments": [
+        {
+            "size": 11011,
+            "mime_type": "image/png",
+            "flags": 0,
+            "pepca": "pfde4543867f5e8a6",
+            "cid": "part1.00080905.04050301@oknostyl.cz",
+            "cte": "BASE64",
+            "sumphash": "721a626e4c94bddadc2aae6497c50a0c",
+            "name": "logoNew.png"
+        },
+        {
+            "size": 59554,
+            "mime_type": "application/pdf",
+            "flags": 0,
+            "pepca": "p7e236ac7ebcbf703",
+            "first10words": "SMLOUVA O DILO C uzavrena podle platneho zneni obcanskeho zakoniku",
+            "cid": "m14a4d90f3d4m1ef1",
+            "cte": "BASE64",
+            "sumphash": "9d8d0e821fe0728720e619733f60ce0b",
+            "name": "sml1-2014-2178 - Fencl Ivan.pdf",
+            "lang": "cs"
+        },
+        {
+            "size": 29177,
+            "mime_type": "application/pdf",
+            "flags": 0,
+            "pepca": "p69d98e1482affca9",
+            "first10words": "OKNOSTYL group s r o sidlem Tisnovska Kurim PSC Vedena",
+            "cid": "m14a4d90f3d4m1ef2",
+            "cte": "BASE64",
+            "sumphash": "b6f8947f08c3133ef5f017d9b0ccceb1",
+            "name": "fakt1-2014-2178 - Fencl Ivan.pdf",
+            "lang": "cs"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "pfde4543867f5e8a6"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p7e236ac7ebcbf703"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p69d98e1482affca9"
+        },
+        {
+            "name": "pepca",
+            "value": "p782e21534e2de55a"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p18e1db148b80cb70"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "oknostyl"
+            },
+            {
+                "confidence": 1,
+                "domain": "avast"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "oknostyl",
+        "plain_domain": "oknostyl",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 27611804.6628814,
+                "domain": "oknostyl"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "yl cz www oknostyl cz Tato zprava neobsahuje viry ani jiny skodlivy kod avast Antivirus je aktivni ",
+    "lang": "cs"
+}

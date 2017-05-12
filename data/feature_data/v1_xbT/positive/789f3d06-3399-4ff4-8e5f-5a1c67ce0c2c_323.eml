@@ -1,0 +1,114 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pc37a17600c6f47dd",
+    "last10words": "sg id 9424887 Wed 12 Oct 200520 33 00epochal Copyright A 2005A A Deutsche Postbank AG A A Alle Rechte sind vorbehalten ",
+    "pepca_style_total": 0,
+    "header_from": "Techunterstutzung-01@postbank.de",
+    "first10words": " Postbank Online Banking Sehr geehrter Kunde Unser neues Schutzystem kann Ihnen helfen A ftere betrA gerischen Transaktionen",
+    "attachments": [
+        {
+            "name": "lfcavro.gif",
+            "pepca": "p8987cbd0d5054834",
+            "cte": "BASE64",
+            "mime_type": "image/gif",
+            "cid": "cc28499b8441$c4ec24f2$1bbf92e6@postbank.de",
+            "size": 894,
+            "flags": 0,
+            "sumphash": "42f6279cd11ba0ccbe1f407ddae92b6c"
+        }
+    ],
+    "word_count": 129,
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/20051114/323.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p8987cbd0d5054834"
+        },
+        {
+            "name": "pepca",
+            "value": "pc37a17600c6f47dd"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p446bfc7d74596148"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "ebay",
+                "confidence": 219998147.10672
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "ebay",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "postbank",
+        "plain_domain_detail": [
+            {
+                "domain": "postbank",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "de",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Mitteilung von dem Postbank Sicherheitsdienst Ref 451 ",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "p446bfc7d74596148",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

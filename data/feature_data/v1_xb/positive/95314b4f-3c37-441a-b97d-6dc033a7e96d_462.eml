@@ -1,0 +1,105 @@
+{
+    "phashes": [
+        {
+            "value": "pdd988d7ea5ad5cc2",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p06fadbb4f120d81f",
+            "name": "pepca"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "manager-156989894ib@bbt.com",
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/462.eml",
+    "attachments": [
+        {
+            "size": 7859,
+            "name": "abutted.gif",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "L8LAVNX1TO",
+            "sumphash": "4c37a464b45ad72dfb935778d38382f6",
+            "pepca": "pdd988d7ea5ad5cc2",
+            "mime_type": "image/gif"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "long_subject"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.5
+            ],
+            "score": 1.5
+        }
+    ],
+    "pepca": "p06fadbb4f120d81f",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": " into a tiny sunken flame What you keep overlooking because it s so obvious is that you were are also Scheherazade to yourself alkaloid ",
+    "subject": "BB T Confirmation Procedure Sun 08 Apr 2007 18 13 05 0800 ",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 55326134.2340469,
+                "domain": "aweber"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "aweber",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " He made a couple of futile tries wadded up the paper and gave up bulb convince no pain please She rushed across the r",
+    "lang": "en",
+    "pepcatotal": 0,
+    "word_count": 128,
+    "adscore": 0,
+    "spamscore": 1.5
+}

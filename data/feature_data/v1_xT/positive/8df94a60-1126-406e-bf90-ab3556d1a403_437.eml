@@ -1,0 +1,110 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "module": "ill",
+            "score": 1
+        }
+    ],
+    "pepca": "p8080a39781fee5d2",
+    "first10words": " MasterCard Confirmation Dear Valued Customer Our new security system will help you to avoid frequently fraud transactions a",
+    "pepca_style": "",
+    "pepca_inline_style": "p599d2392aaf79142",
+    "word_count": 104,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Notification of MasterCard Internet ing card Ref 497 ",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1,
+    "phishing": {},
+    "header_from": "customer-service4@mastercardconfirm.com",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing2/437.eml",
+    "attachments": [
+        {
+            "size": 1396,
+            "mime_type": "image/gif",
+            "flags": 0,
+            "pepca": "p5e97e01ca65cac95",
+            "cid": "000301c63694$3acd9890$7902a8c0@donnellys",
+            "cte": "BASE64",
+            "sumphash": "78422d5f37fd4e29ac45c5a4c6031c2b",
+            "name": "raf484.gif"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p5e97e01ca65cac95"
+        },
+        {
+            "name": "pepca",
+            "value": "p8080a39781fee5d2"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p599d2392aaf79142"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "mastercard"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "mcsv",
+        "plain_domain": "mastercard",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 65619738.8449727,
+                "domain": "mcsv"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "otification purposes only msg id 57789871 vdjvyhtitfjqragurnlusxn Copyright A 2006A A MasterCard A All rights reserved ",
+    "lang": "en"
+}

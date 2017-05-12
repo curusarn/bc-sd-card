@@ -1,0 +1,117 @@
+{
+    "phashes": [
+        {
+            "value": "pc9d4688bfa6ef4e4",
+            "name": "pepca"
+        },
+        {
+            "value": "p3415304f4974637e",
+            "name": "pepca_style"
+        },
+        {
+            "value": "pc8e1880f6c7e4796",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "info@nejlepsikasina.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/9466c2f30e76871a5eea25f2ded18b83.eml",
+    "unsub_link_candidates": [
+        "http://nejlepsikasina.us8.list-manage.com/track/click?u=0401043ba941df95e2e6402ef&id=e1f27d6683&e=99a53d8eea",
+        "http://nejlepsikasina.us8.list-manage.com/unsubscribe?u=0401043ba941df95e2e6402ef&id=f9bff8ecfc&e=99a53d8eea&c=7961ed472d",
+        "http://www.mailchimp.com/monkey-rewards/?utm_source=freemium_newsletter&utm_medium=email&utm_campaign=monkey_rewards&aid=0401043ba941df95e2e6402ef&afl=1"
+    ],
+    "attachments": [],
+    "contains_list_header": true,
+    "last10words": " odebirat novinky kliknete na nasledujici odkaz zrusit zasilani newsletteru upravit nastaveni ",
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "p3415304f4974637e",
+    "pepca": "pc9d4688bfa6ef4e4",
+    "subject": "Registrace probehla uspesne Vyzvedni si 20 otacek zdarma ",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 4,
+                "domain": "sam73"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 3939473.38029,
+                "domain": "datingvipnotifications"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "sam73",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "datingvipnotifications",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 1,
+    "pepca_inline_style": "pc8e1880f6c7e4796",
+    "unsub_link_texts": [
+        "  vitat v nejlepsi online kasino tvuj email je nyni prihlaseny k odber novinka kazdy mesic",
+        " zrusit zasilani newsletteru ",
+        " email marketing powered by mailchimp mailchimp email marketing "
+    ],
+    "list_unsubscribe_urls": [
+        "mailto:unsubscribe-0401043ba941df95e2e6402ef-7961ed472d-99a53d8eea@mailin1.us2.mcsv.net?subject=unsubscribe",
+        "http://nejlepsikasina.us8.list-manage.com/unsubscribe?u=0401043ba941df95e2e6402ef&id=f9bff8ecfc&e=99a53d8eea&c=7961ed472d"
+    ],
+    "unsub_link": "http://www.mailchimp.com/monkey-rewards/?utm_source=freemium_newsletter&utm_medium=email&utm_campaign=monkey_rewards&aid=0401043ba941df95e2e6402ef&afl=1",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 1,
+    "first10words": " Registrace probehla uspesne Vyzvedni si 20 otacek zdarma sladka odmena 20 HER ZDARMA Otevrit ten",
+    "lang": "cs",
+    "pepcatotal": 1,
+    "word_count": 292,
+    "adscore": 0,
+    "spamscore": 1
+}

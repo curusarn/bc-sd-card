@@ -1,0 +1,154 @@
+{
+    "phashes": [
+        {
+            "value": "p9500d34af036a212",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pdb978f2bf682aa5d",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pc8b11b96ad79d133",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pc4c70fcbce7c1523",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pc972a5c349c3e08e",
+            "name": "pepca"
+        },
+        {
+            "value": "p0e09ca4d4c19dca3",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "martina.boudova@nieten.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/df2488a8788e6f985eb8e2b0e7953f03.eml",
+    "attachments": [
+        {
+            "size": 4461,
+            "name": "image001.jpg",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "image001.jpg@01D01845.3A302C30",
+            "sumphash": "80b4ad9c9f2576a3f93bcdbec3cd13f3",
+            "pepca": "p9500d34af036a212",
+            "mime_type": "image/jpeg"
+        },
+        {
+            "size": 1677,
+            "name": "image002.jpg",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "image002.jpg@01D01845.3A302C30",
+            "sumphash": "645b2f68971d15da1c353c0c232e9d66",
+            "pepca": "pdb978f2bf682aa5d",
+            "mime_type": "image/jpeg"
+        },
+        {
+            "size": 61258,
+            "name": "4853_001.pdf",
+            "cte": "BASE64",
+            "flags": 0,
+            "lang": "un",
+            "sumphash": "509f441826b8eab98e8af50b571b43c8",
+            "pepca": "pc8b11b96ad79d133",
+            "mime_type": "application/pdf"
+        },
+        {
+            "size": 58594,
+            "name": "4854_001.pdf",
+            "cte": "BASE64",
+            "flags": 0,
+            "lang": "un",
+            "sumphash": "f5a9820d96d2fb204f477a6cc9aefb2f",
+            "pepca": "pc4c70fcbce7c1523",
+            "mime_type": "application/pdf"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "pepca": "pc972a5c349c3e08e",
+    "phishing": {
+        "ner_domain_detected": true
+    },
+    "pepca_style": "",
+    "last10words": "72 Jsme drziteli certifikatu CZ AEOF 0900E5 Navstivte nase internetove stranky http www nieten cz A ",
+    "subject": "faktura storno fa Intrastat 11 2014",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 12571142.7828482,
+                "domain": "nieten"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "nieten",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "nieten",
+        "plain_domain_detail": [
+            {
+                "confidence": 3,
+                "domain": "nieten"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p0e09ca4d4c19dca3",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Dobry den A prosim mohl by mi nekdo pomoci ohledne upresneni faktury a storna vA priloze ",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 348,
+    "adscore": 0,
+    "spamscore": 1
+}

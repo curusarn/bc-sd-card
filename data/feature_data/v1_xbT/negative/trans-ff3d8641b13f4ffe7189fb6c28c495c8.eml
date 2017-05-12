@@ -1,0 +1,113 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pae903243a5455e95",
+    "last10words": "k cz S pranim krasneho dne Martin Lanik vedouci obchodniho oddeleni SmartShop s r o 777 918 774 info nejlevnejsinabytek cz ",
+    "pepca_style_total": 0,
+    "header_from": "info@nejlevnejsinabytek.cz",
+    "first10words": " Dobry den prave jsme prijali vasi platbu za zbozi ktere jste si nakoupili na nasem eshopu www nejlevnejsinabytek cz Vase zbo",
+    "attachments": [
+        {
+            "name": "hlavicka_nabytek_small.jpg",
+            "cte": "BASE64",
+            "mime_type": "image/jpeg",
+            "cid": "0eb598935cc619713508259f6d369284@phpmailer.0",
+            "size": 0,
+            "flags": 0,
+            "sumphash": "dc5b5ace27d0916fed08dfee55dd0748"
+        }
+    ],
+    "word_count": 67,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/trans-ff3d8641b13f4ffe7189fb6c28c495c8.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pae903243a5455e95"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pbcb20e56ce083d1f"
+        }
+    ],
+    "spamscore": 1.6,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "masterinter",
+                "confidence": 38236843.485264
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "masterinter",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "nejlevnejsinabytek",
+        "plain_domain_detail": [
+            {
+                "domain": "nejlevnejsinabytek",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Potvrzeni o prijeti platby na ucet nakup zbozi na eshopu www nejlevnejsinabytek cz",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": true,
+        "5_top_domains_id_0": 0,
+        "5_top_domains_percent_0": 1.0
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "pbcb20e56ce083d1f",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id",
+                "long_subject"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1,
+                0.5
+            ],
+            "score": 1.6,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

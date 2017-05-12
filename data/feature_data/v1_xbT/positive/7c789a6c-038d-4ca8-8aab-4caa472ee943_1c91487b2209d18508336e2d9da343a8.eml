@@ -1,0 +1,99 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p23efcb49a94c4e98",
+    "last10words": "dkaz nize ziskat pristup http loveronaldo7 com fag sbazar nnovy4 Uspesny prodej vam preje Vas Sbazar cz tym ",
+    "pepca_style_total": 0,
+    "header_from": "sbazar-neodpovidat@consultant.com",
+    "first10words": " Dobry den Vas Sbazar cz ucet byl pozastaven Prosim kliknete na odkaz nize ziskat pristup http loveronaldo7 com fag ",
+    "attachments": [],
+    "word_count": 62,
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/Boris-49570925/1c91487b2209d18508336e2d9da343a8.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p23efcb49a94c4e98"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p64a27cac11611ab0"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "svete",
+                "confidence": 3607876.58867
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "svete",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "sbazar",
+        "plain_domain_detail": [
+            {
+                "domain": "sbazar",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Vas ucet je pozastaven ",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "p64a27cac11611ab0",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

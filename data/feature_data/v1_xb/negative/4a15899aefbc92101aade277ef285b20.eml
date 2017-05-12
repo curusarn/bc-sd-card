@@ -1,0 +1,118 @@
+{
+    "phashes": [
+        {
+            "value": "pb3a66bf8c2cf3990",
+            "name": "pepca"
+        },
+        {
+            "value": "p7330d39c82255c92",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 2,
+    "header_from": "info@tipsport.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/4a15899aefbc92101aade277ef285b20.eml",
+    "unsub_link_candidates": [
+        "mailto:podpora@tipsport.cz",
+        "http://user.mailkit.eu/mc/CECQVWCLCQQUQQQUVCVUQULVOBVVWIFP",
+        "http://track.mailkit.eu/mc/CECQVWCLCQQUQQQUVCVUQULVAJBQYCHM"
+    ],
+    "attachments": [],
+    "contains_list_header": true,
+    "pepca": "pb3a66bf8c2cf3990",
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "phishing": {
+        "ner_domain_detected": true
+    },
+    "pepca_style": "",
+    "last10words": "aste se prosim zde Tento email ma charakter obchodniho sdeleni Copyright 2014 Tipsport a s Vsechna prava vyhrazena ",
+    "subject": "Potvrzeni registrace u Tipsportu",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 1,
+                "domain": "hotely"
+            },
+            {
+                "confidence": 1,
+                "domain": "tipsport"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 26364775.562599,
+                "domain": "mailkit"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "hotely",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "mailkit",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "tipsport",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "tipsport"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p7330d39c82255c92",
+    "unsub_link_texts": [
+        " podpora tipsport cz neprat li si nadale dostavat email od spolecnost tipsport",
+        "odhlasit se prosit zde ",
+        "copyright tipsport a s vsechen prav vyhrazen"
+    ],
+    "unsub_link": "http://track.mailkit.eu/mc/CECQVWCLCQQUQQQUVCVUQULVAJBQYCHM",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 1,
+    "first10words": " Potvrzeni registrace u Tipsportu Nezobrazuje se Vam logo a obrazky Tisk Vazeny a pane pani rezler ",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 118,
+    "adscore": 0,
+    "spamscore": 1
+}

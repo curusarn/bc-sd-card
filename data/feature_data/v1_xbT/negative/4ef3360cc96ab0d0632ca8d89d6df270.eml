@@ -1,0 +1,110 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pbdd682e8275be581",
+    "last10words": "covnich dnech od 8 do 17 hod Jsme radi ze jste nasimi zakazniky Moje knihy cz Generovano systemem FastCentrik ",
+    "pepca_style_total": 0,
+    "header_from": "pavla.kvasik@seznam.cz",
+    "first10words": " Dekuji moc Krasny den Kvasnickova Puvodni zprava Od Spodniakova Simona si",
+    "attachments": [
+        {
+            "name": "MOJE-KNIHY.CZ.jpg",
+            "pepca": "p240aa45aef363f62",
+            "cte": "BASE64",
+            "mime_type": "image/jpeg",
+            "cid": "115414410@15122014-1687",
+            "size": 2693,
+            "flags": 0,
+            "sumphash": "658dacd7476c1ac570228095feafdaa1"
+        }
+    ],
+    "word_count": 356,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/4ef3360cc96ab0d0632ca8d89d6df270.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p240aa45aef363f62"
+        },
+        {
+            "name": "pepca",
+            "value": "pbdd682e8275be581"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "masterinter",
+                "confidence": 25491228.990176
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "masterinter",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "moje-knihy",
+        "plain_domain_detail": [
+            {
+                "domain": "moje-knihy",
+                "confidence": 3
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "RE Objednavka 1506617 z Moje knihy cz",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

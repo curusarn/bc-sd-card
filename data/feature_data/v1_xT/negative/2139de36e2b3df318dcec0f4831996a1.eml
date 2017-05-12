@@ -1,0 +1,109 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "module": "ill",
+            "score": 1.1
+        }
+    ],
+    "pepca": "p089246b951389ee6",
+    "first10words": " Dobry den Vase registrace probehla uspesne Prihlasovaci udaje jsou E mail ilona 27 email cz Heslo ilona00 V priloze dale nalezn",
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "word_count": 27,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Registrace na kvbonline cz probehla uspesne",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.1,
+    "phishing": {},
+    "header_from": "info@kvbfinance.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/2139de36e2b3df318dcec0f4831996a1.eml",
+    "attachments": [
+        {
+            "size": 45442,
+            "mime_type": "application/pdf",
+            "flags": 0,
+            "pepca": "pbc779a982ec206b1",
+            "first10words": "Kolik si pujcim u Novy klient si u nas pujci",
+            "cte": "BASE64",
+            "sumphash": "9c07b32dfe9660e1e39a551c5d681ea2",
+            "name": "moznosti-pujcky.pdf",
+            "lang": "cs"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "pbc779a982ec206b1"
+        },
+        {
+            "name": "pepca",
+            "value": "p089246b951389ee6"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "kvbonline"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "viwefix",
+        "plain_domain": "kvbonline",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 5581187.27106,
+                "domain": "viwefix"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "o ilona00 V priloze dale naleznete dalsi informace o moznostech pujcky http www kvbonline cz Email info kvbfinance cz Tel 606 071 091",
+    "lang": "cs"
+}

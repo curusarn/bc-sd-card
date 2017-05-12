@@ -1,0 +1,111 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "module": "ill",
+            "score": 1.1
+        }
+    ],
+    "pepca": "p01e78fa19f440219",
+    "first10words": " Vase heslo na www westwing cz VITEJTE NA WESTWING ",
+    "pepca_style": "p930ea14f6fc5437e",
+    "pepca_inline_style": "p3cd045d4e0961c2a",
+    "word_count": 469,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Vase heslo na www westwing cz",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.1,
+    "list_unsubscribe_urls": [
+        "http://n.westwing.cz/public/list_unsubscribe.jsp?action=listUnsubscribe&gid=1900034096&uid=19080657389&mid=1900092415&siglistunsub=HBIHAGLGNNNGICMI&errorPage=/public/list_unsubscribe.jsp",
+        "mailto:listunsubscribe-1900034096-1900092415-19080657389@n.westwing.cz"
+    ],
+    "phishing": {},
+    "header_from": "service@n.westwing.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/584e33a59cfa14cc5fb0408deaba3878.eml",
+    "attachments": [],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p01e78fa19f440219"
+        },
+        {
+            "name": "pepca_style",
+            "value": "p930ea14f6fc5437e"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p3cd045d4e0961c2a"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "westwing"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "stepstone",
+        "plain_domain": "westwing",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 48484155.8044,
+                "domain": "stepstone"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "westwing",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [
+            {
+                "confidence": 9,
+                "domain": "westwing"
+            }
+        ],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "contains_list_header": true,
+    "precedence": 3,
+    "last10words": " Volejte na 800 143 713 nebo piste na pomoc westwing cz 2014 Westwing Home Living GmbH ",
+    "lang": "cs"
+}

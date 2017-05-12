@@ -1,0 +1,134 @@
+{
+    "phashes": [
+        {
+            "value": "p9cff0db888100612",
+            "name": "att-pepca"
+        }
+    ],
+    "precedence": 3,
+    "phNotches": [
+        {
+            "module": "phish-score",
+            "name": [
+                "from_mismatch",
+                "attachments",
+                "many_emails"
+            ],
+            "subscores": [
+                1,
+                1,
+                -2
+            ],
+            "score": 0.0
+        }
+    ],
+    "header_from": "liberec@spoltex.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/b99467d8d14f98f181e02399ce51d471.eml",
+    "extractedEmailsTotalCount": {},
+    "theme": {},
+    "pepca_small": "p14ddf6505095c9b8",
+    "attachments": [
+        {
+            "first10words": "Odberatelska faktura se slevami SPOLTEX C ??????HLAVNI ??? F VYDANA",
+            "size": 81661,
+            "mime_type": "application/pdf",
+            "cte": "BASE64",
+            "flags": 0,
+            "lang": "cs",
+            "name": "Odb\u011bratelsk\u00e1_faktura_polo\u017ekov\u00e1_-_14008709.pdf",
+            "pepca": "p9cff0db888100612",
+            "sumphash": "e3e9f71bd0ce07ea5a0283c6e0ef0250"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "last10words": " A ",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "subject": "Faktura vydana cislo 14008709",
+    "pepca_style": "",
+    "pepca": "",
+    "dkstatus": {},
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "domainstat_themes": {},
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "spfstatus": {},
+    "unsub_link": {},
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0.0,
+    "pepca_inline_style_total": 0,
+    "first10words": " A ",
+    "universalprobes": [
+        {
+            "key": "ps-from_mismatch",
+            "value": "1"
+        },
+        {
+            "key": "ps-attachments",
+            "value": "1"
+        },
+        {
+            "key": "ps-many_emails",
+            "value": "1"
+        }
+    ],
+    "domainstat": {},
+    "lang": "sk",
+    "pepcatotal": 0,
+    "word_count": 16,
+    "adscore": 0,
+    "dmarc_status": {},
+    "spamscore": 1
+}

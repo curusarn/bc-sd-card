@@ -1,0 +1,106 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "module": "ill",
+            "score": 1
+        }
+    ],
+    "pepca": "p52016db0b1188fce",
+    "first10words": " Objednavka z internetoveho obchodu czechnymph com Objednavka z internetoveho obchodu czechnymph com Kontaktni udaje Jmeno I",
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "word_count": 932,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "objednavka z czechnymph com 20150113 132726 7ec3 ",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1,
+    "phishing": {},
+    "header_from": "info@flyfishingpoint.net",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/trans-ff6cee231c8efed10320cce0f431fb4f.eml",
+    "attachments": [
+        {
+            "size": 2278,
+            "mime_type": "text/xml",
+            "flags": 0,
+            "pepca": "p874b33980a223b1f",
+            "cid": "54B50F2EB1B08-2",
+            "cte": "BASE64",
+            "sumphash": "cdbb8d1ed2bed7f846bf5666907167df",
+            "name": "data.xml"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p874b33980a223b1f"
+        },
+        {
+            "name": "pepca",
+            "value": "p52016db0b1188fce"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "czechnymph"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "booking",
+        "plain_domain": "czechnymph",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 442235107.5835,
+                "domain": "booking"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "K Celkova cena zbozi 2 498 00 CZK Cena za dopravu 99 00 CZK Vysledna cena k uhrade 2 597 00 CZK 2 597 00 CZK ",
+    "lang": "cs"
+}

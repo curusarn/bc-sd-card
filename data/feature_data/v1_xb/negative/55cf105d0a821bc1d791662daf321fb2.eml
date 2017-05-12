@@ -1,0 +1,105 @@
+{
+    "phashes": [
+        {
+            "value": "p9c82b7e752d2386f",
+            "name": "pepca"
+        },
+        {
+            "value": "pc6aa60f21e8e1afd",
+            "name": "pepca_style"
+        },
+        {
+            "value": "pc8c428d68f875eab",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "podpora@webgarden.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/55cf105d0a821bc1d791662daf321fb2.eml",
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "pepca": "p9c82b7e752d2386f",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "pc6aa60f21e8e1afd",
+    "last10words": " Tento email byl odeslan na zaklade zadosti o overeni emailove adresy na nekterem z webu site Webgarden cz z IP adresy 93 90 160 14 ",
+    "subject": "Overeni emailove adresy",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 6509404.691544,
+                "domain": "webgarden"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "webgarden",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "webgarden",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "webgarden"
+            },
+            {
+                "confidence": 1,
+                "domain": "spite"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "pc8c428d68f875eab",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Overeni emailove adresy www spite cz Overeni emailove adresy Prosime overte si svou emailovou adresu kliknutim",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 82,
+    "adscore": 0,
+    "spamscore": 1
+}

@@ -1,0 +1,122 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p70abd05f5fe5088b",
+    "last10words": "il sklad brno xfer cz tel 543 235 219 737A 288 335 A A ",
+    "pepca_style_total": 0,
+    "header_from": "sklad.brno@xfer.cz",
+    "first10words": " Dobry den A vA priloze Vam posilam fakturu kA dnesnimu odberu zbozi A ",
+    "attachments": [
+        {
+            "name": "image001.jpg",
+            "pepca": "p2d0e3e355a8536bb",
+            "cte": "BASE64",
+            "mime_type": "image/jpeg",
+            "cid": "image001.jpg@01D0185D.3BAA3520",
+            "size": 2593,
+            "flags": 0,
+            "sumphash": "f6eb4a5d44b70c6ba009d5eae7d1517a"
+        },
+        {
+            "mime_type": "application/pdf",
+            "name": "Faktura_1401113537 Milo\u0161 B\u00edl\u00fd.pdf",
+            "first10words": "Faktura Xfer s r o FAKTURA DANOVY DOKLAD c IC",
+            "pepca": "p9c16bdcd60a711ff",
+            "lang": "cs",
+            "cte": "BASE64",
+            "size": 43188,
+            "flags": 0,
+            "sumphash": "8ab4a8a98ede23f80c34a4996e81afbc"
+        }
+    ],
+    "word_count": 167,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/ad69781d267b7dc5b0580b3bb4b603dc.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p2d0e3e355a8536bb"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p9c16bdcd60a711ff"
+        },
+        {
+            "name": "pepca",
+            "value": "p70abd05f5fe5088b"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p8010086a908c7a19"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "masterinter",
+                "confidence": 12745614.495088
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "masterinter",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Faktura ke zbozi",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "p8010086a908c7a19",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

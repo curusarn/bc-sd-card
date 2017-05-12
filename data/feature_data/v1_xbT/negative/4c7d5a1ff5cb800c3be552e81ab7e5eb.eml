@@ -1,0 +1,109 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p4183ee9b0c307a2f",
+    "last10words": " BUSINESS PARK V Luzich 818 142 00 Praha 4 Oteviraci doba Po Pa 9 00 17 00h Tel 241 021 677 Fax 241 021 680 E mail reklamace setos cz ",
+    "pepca_style_total": 0,
+    "header_from": "fakturace@setos.cz",
+    "first10words": " Vazeni obchodni pratele v priloze Vam zasilame danovy doklad fakturu Neni li doklad hrazen formou dobirky prosime o provedeni uhrady tak ab",
+    "attachments": [
+        {
+            "mime_type": "application/pdf",
+            "name": "FAK_1051415716.pdf",
+            "first10words": "Untitled Faktura Danovy doklad c Dodavatel SETOS spol s r",
+            "pepca": "p4e6399c13a75a0bb",
+            "lang": "cs",
+            "cte": "BASE64",
+            "size": 52551,
+            "flags": 0,
+            "sumphash": "d452f0a39e14d89de5f1ea8730534906"
+        }
+    ],
+    "word_count": 197,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/4c7d5a1ff5cb800c3be552e81ab7e5eb.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p4e6399c13a75a0bb"
+        },
+        {
+            "name": "pepca",
+            "value": "p4183ee9b0c307a2f"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "setos",
+                "confidence": 13099775.752829
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "setos",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "setos",
+        "plain_domain_detail": [
+            {
+                "domain": "setos",
+                "confidence": 2
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Faktura 1051415716",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

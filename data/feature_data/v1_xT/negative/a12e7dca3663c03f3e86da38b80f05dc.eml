@@ -1,0 +1,176 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging",
+                "foreign_message_id"
+            ],
+            "module": "ill",
+            "score": 1.2
+        }
+    ],
+    "pepca": "p5a102302622ece37",
+    "pepca_style": "",
+    "phNotches": [
+        {
+            "subscores": [
+                1,
+                0.5,
+                0.0,
+                0.0,
+                1,
+                -2,
+                8
+            ],
+            "name": [
+                "from_mismatch",
+                "phisheable",
+                "phish_keyword",
+                "subject_phish_keyword",
+                "html_a_href_camouflaging",
+                "many_emails",
+                "phishing"
+            ],
+            "module": "phish-score",
+            "score": 8.5
+        }
+    ],
+    "dmarc_status": {},
+    "pepca_inline_style": "p82cc7b5291d2121d",
+    "unsub_link": {},
+    "pepca_style_total": 0,
+    "phish_score": 12,
+    "domainstat": {},
+    "domainstat_themes": {},
+    "subject": "Mary Kay InTouch Zmena hesla",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.2,
+    "precedence": 3,
+    "phishing": {
+        "5_top_domains_percent_0": 1.0,
+        "5_top_domains_id_0": 0
+    },
+    "universalprobes": [
+        {
+            "key": "ps-from_mismatch",
+            "value": "1"
+        },
+        {
+            "key": "ps-phish_keyword",
+            "value": "['heslo', 'p\\xc5\\x99\\xc3\\xadstup', 'login', 'bezpe\\xc4\\x8dnostn\\xc3\\xad']"
+        },
+        {
+            "key": "ps-subject_phish_keyword",
+            "value": "['heslo']"
+        },
+        {
+            "key": "ps-camouflaged_href",
+            "value": "Url(norm=http://cl.exct.net/?qs=5b6f791a9883265827847d7c0ae8fa26d8de53d3bda7fb84fd65b5698bfe9687b52f72380770c549, source=None) | Url(norm=http://www.marykayintouch.cz/Login/Main/PasswordUpdate.aspx?token=08AD74867752F23065F813374963555FD2902D49CD9EFF731CCA82F561A3F6E8&id=000815434&ts=20141029154331, source=txt)"
+        },
+        {
+            "key": "ps-html_a_href_camouflaging",
+            "value": "1"
+        },
+        {
+            "key": "ps-many_emails",
+            "value": "1"
+        },
+        {
+            "key": "ps-most-suspicious-links",
+            "value": "[]"
+        },
+        {
+            "key": "ps-phishing",
+            "value": "1"
+        }
+    ],
+    "header_from": "EmailInitiatives@email.marykay.com",
+    "first10words": " Mary Kay Vase heslo pro pristup na stranky Mary Kay InTouch si muzete zmenit kliknutim na odkaz htt",
+    "pepca_inline_style_total": 3,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/a12e7dca3663c03f3e86da38b80f05dc.eml",
+    "attachments": [],
+    "adscore": 0,
+    "extractedEmailsTotalCount": {},
+    "dkstatus": {},
+    "word_count": 165,
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p5a102302622ece37"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p82cc7b5291d2121d"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "marykay",
+        "plain_domain": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 29180715.564556,
+                "domain": "marykay"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "ing",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [
+            {
+                "confidence": 1,
+                "domain": "ing"
+            },
+            {
+                "confidence": 1,
+                "domain": "marykay"
+            }
+        ],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 3,
+    "contains_list_header": true,
+    "list_unsubscribe_urls": [
+        "mailto:leave-fc7d137274610c7b747b28313958-fdf815777360037d7d177375-fe591078766302757516-fe60157071640c747612-ff2b16777260@leave.exacttarget.com"
+    ],
+    "last10words": "r o sidli na adrese Andel Media Centrum Karla Englise 519 11 150 00 Praha 5 MK Mary Kay 2014 MARY KAY INC ",
+    "theme": {},
+    "spfstatus": {},
+    "lang": "cs"
+}

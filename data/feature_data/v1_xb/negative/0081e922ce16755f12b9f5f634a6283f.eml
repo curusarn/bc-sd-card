@@ -1,0 +1,106 @@
+{
+    "phashes": [
+        {
+            "value": "pb8db1e56fcd06636",
+            "name": "pepca"
+        },
+        {
+            "value": "p3797eb6f9f22d9e3",
+            "name": "pepca_style"
+        },
+        {
+            "value": "p7ffb879266bd0677",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "alert@indeed.com",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/0081e922ce16755f12b9f5f634a6283f.eml",
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "pepca": "pb8db1e56fcd06636",
+    "phishing": {
+        "ner_domain_detected": true
+    },
+    "pepca_style": "p3797eb6f9f22d9e3",
+    "last10words": "his Job Alert Create a new Job Alert Indeed one search all jobs 7501 N Capital of Texas Hwy Building B Austin TX 78731 ",
+    "subject": "30 new Weekly jobs",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 2,
+                "domain": "indeed"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 372891897.47135,
+                "domain": "s1now"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "indeed",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "s1now",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "indeed",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "indeed"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p7ffb879266bd0677",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Weekly jobs Post your resume on Indeed It only takes a few seconds Jobs 1 30 of 3 708 new jobs TECHNICAL S",
+    "lang": "en",
+    "pepcatotal": 0,
+    "word_count": 2087,
+    "adscore": 0,
+    "spamscore": 1
+}

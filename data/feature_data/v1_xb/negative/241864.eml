@@ -1,0 +1,144 @@
+{
+    "phashes": [
+        {
+            "value": "p430693e6f3eb9162",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p828b7e46750dc087",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pcc74fcf5ebb1119f",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p68833efe65a7fec8",
+            "name": "pepca"
+        },
+        {
+            "value": "p012f48ff37d517f5",
+            "name": "pepca_style"
+        },
+        {
+            "value": "pa4b8deb5015071da",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "moje@invia.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/241864.eml",
+    "attachments": [
+        {
+            "size": 168,
+            "name": "li",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "li",
+            "sumphash": "0f460c7b2c0e9660131fd7327d1f1675",
+            "pepca": "p430693e6f3eb9162",
+            "mime_type": "image/png"
+        },
+        {
+            "size": 2687,
+            "name": "logo",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "logo",
+            "sumphash": "7a245d75f93f8f40e2bb2151df3506a6",
+            "pepca": "p828b7e46750dc087",
+            "mime_type": "image/png"
+        },
+        {
+            "size": 1511,
+            "name": "logo-footer",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "logo-footer",
+            "sumphash": "3aae66808ccbb2d76d91f1a2c74273f1",
+            "pepca": "pcc74fcf5ebb1119f",
+            "mime_type": "image/png"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "pepca": "p68833efe65a7fec8",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "p012f48ff37d517f5",
+    "last10words": "sti 5 110 00 Praha poradce invia cz tel 420 800 999 800 www invia cz kompletni kontakty www invia cz o invia kontakty ",
+    "subject": "Vitejte mezi nami Invia",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 228353475.0333,
+                "domain": "invia"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "invia",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "invia",
+        "plain_domain_detail": [
+            {
+                "confidence": 4,
+                "domain": "invia"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "pa4b8deb5015071da",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Invia Vitejte mezi nami Dobry den dekujeme Vam ze jste se zaregistrovali na Invia cz Jsme radi",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 158,
+    "adscore": 0,
+    "spamscore": 1
+}

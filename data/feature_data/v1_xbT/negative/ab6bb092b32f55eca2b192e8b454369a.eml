@@ -1,0 +1,108 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p004f83b0af679997",
+    "last10words": "k www prodeti cz facebook com Prodeticz info prodeti cz 420 226 256 112 Na Porici 1067 25 Nove Mesto 110 00 Praha 1 ",
+    "pepca_style_total": 0,
+    "header_from": "info@prodeti.cz",
+    "first10words": " Prodeti cz Pozor ted uz neni cesty zpatky vstoupili jste do pohadky Krasny a kouzelny je s Prodeti sve",
+    "attachments": [],
+    "word_count": 212,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/ab6bb092b32f55eca2b192e8b454369a.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p004f83b0af679997"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pca7d419aed4d5764"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "prodeti",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "active24",
+                "confidence": 44055539.88315
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "prodeti",
+                "confidence": 2
+            }
+        ],
+        "domain_keywords": "active24",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "prodeti",
+        "plain_domain_detail": [
+            {
+                "domain": "prodeti",
+                "confidence": 3
+            },
+            {
+                "domain": "ti",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Prodeti cz overeni emailu",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "pca7d419aed4d5764",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

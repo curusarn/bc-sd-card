@@ -1,0 +1,121 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "paaa915bbd247b044",
+    "last10words": "robky dodavane v demonte pozadujeme vykonavat odbornu montaz Prajeme prijemny den www temponabytok sk Tempo Kondela s r o ",
+    "pepca_style_total": 0,
+    "header_from": "info@tempo-kondela.sk",
+    "first10words": " OZNAMENIE O PRIJATI OBJEDNAVKY POTVRDENIE DORUCENIA OBJEDNAVKY INTERNETOVEHO OBCHODU www temponabytok sk Vazeny zakaznik Da",
+    "attachments": [
+        {
+            "mime_type": "application/pdf",
+            "name": "obchodne_podmienky.pdf",
+            "first10words": "Obchodne podmienky internetoveho obchodu www temponabytok sk Vseobecne ustanovenia Tieto",
+            "pepca": "p7237e7936adc0ebf",
+            "lang": "sk",
+            "cte": "BASE64",
+            "size": 159184,
+            "flags": 0,
+            "sumphash": "1d02b44b6ebffe416f4a734ae6ce8045"
+        }
+    ],
+    "word_count": 629,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/f70cfd68ed4d7c735e6f6562ea3f5970.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p7237e7936adc0ebf"
+        },
+        {
+            "name": "pepca",
+            "value": "paaa915bbd247b044"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pf1abb8c981919aee"
+        }
+    ],
+    "spamscore": 1.6,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "zlavydnes",
+                "confidence": 23396515.15145
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "zlavydnes",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "sk",
+        "plain_domain_detail": [
+            {
+                "domain": "sk",
+                "confidence": 1
+            },
+            {
+                "domain": "temponabytok",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "sk",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Objednavka c 14623007725 na Specialna zakladna skola MOS ina platba",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "pf1abb8c981919aee",
+    "notches": [
+        {
+            "name": [
+                "missing_date",
+                "from_missmatch",
+                "html_a_href_camouflaging",
+                "long_subject"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1,
+                0.5
+            ],
+            "score": 1.6,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

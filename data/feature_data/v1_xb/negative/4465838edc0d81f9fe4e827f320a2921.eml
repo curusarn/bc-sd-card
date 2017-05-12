@@ -1,0 +1,123 @@
+{
+    "phashes": [
+        {
+            "value": "pe3b3611ae150e00a",
+            "name": "pepca"
+        },
+        {
+            "value": "p3a0a02d9e7bd6882",
+            "name": "pepca_style"
+        },
+        {
+            "value": "pbbcb8867b778c57f",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "cs-cz@news.bata.eu",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/4465838edc0d81f9fe4e827f320a2921.eml",
+    "unsub_link_candidates": [
+        "http://links.bata.mkt6392.com/ctt?kn=8&ms=MjA0MzIwMzQS1&r=ODc3NzIzMTM4NzMS1&b=0&j=NDIyNzE0MTk4S0&mt=2&rj=NDIyNjU0NzE0S0&rt=0",
+        "http://links.bata.mkt6392.com/ctt?kn=2&ms=MjA0MzIwMzQS1&r=ODc3NzIzMTM4NzMS1&b=0&j=NDIyNzE0MTk4S0&mt=2&rj=NDIyNjU0NzE0S0&rt=0"
+    ],
+    "attachments": [],
+    "contains_list_header": true,
+    "last10words": "kaznickou podporu na e mailove adrese kontakt bata cz KONTAKTY PRODEJNY DORUCENI LIKE US 2014 Bata Brands ",
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1,
+                0.1
+            ],
+            "score": 1.2
+        }
+    ],
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "p3a0a02d9e7bd6882",
+    "pepca": "pe3b3611ae150e00a",
+    "subject": "Potvrdte prosim svou registraci",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 6,
+                "domain": "bata"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 15527797.04159,
+                "domain": "aliexpress"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "bata",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "aliexpress",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "bata",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "bata"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "pbbcb8867b778c57f",
+    "unsub_link_texts": [
+        " bata bata potvrzeni prihlaseni k odber novinka e mail obdrzet byt vasi zadost o prihlaseni k odber",
+        "obdrzet byt vasi zadost o prihlaseni k odber novinka e mail z webovy stranka www bata cz pro potvrzeni prosit pouzit"
+    ],
+    "list_unsubscribe_urls": [
+        "mailto:v-bdhmekc_begpkddjbb_bjdcblfg_bjdbdcpk_a@bounce.bata.mkt6392.com?subject=Unsubscribe"
+    ],
+    "unsub_link": "http://links.bata.mkt6392.com/ctt?kn=2&ms=MjA0MzIwMzQS1&r=ODc3NzIzMTM4NzMS1&b=0&j=NDIyNzE0MTk4S0&mt=2&rj=NDIyNjU0NzE0S0&rt=0",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Newsletter confirm POTVRZENI PRIHLASENI K ODBERU NOVINEK E MAILEM Obdrzeli jsme Vasi zadost o prihl",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 122,
+    "adscore": 0,
+    "spamscore": 1.2
+}

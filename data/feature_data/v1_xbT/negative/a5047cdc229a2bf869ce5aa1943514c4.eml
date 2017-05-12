@@ -1,0 +1,99 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pc769ac67dd195b61",
+    "last10words": "t S pozdravem tym Mobilniplatby cz Airtoy a s Politickych veznu 21 110 00 Praha 1 www airtoy cz T 420 226 201 660 F 420 226 201 665",
+    "pepca_style_total": 0,
+    "header_from": "partner@airtoy.net",
+    "first10words": " Dobry den na zaklade zadosti jsme Vam vygenerovali nove heslo pro uzivatelsky ucet tywin post cz v systemu Mobilniplatby cz Vase ",
+    "attachments": [],
+    "word_count": 54,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/a5047cdc229a2bf869ce5aa1943514c4.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pc769ac67dd195b61"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "skype",
+                "confidence": 6415498.30089
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "skype",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "airtoy",
+        "plain_domain_detail": [
+            {
+                "domain": "airtoy",
+                "confidence": 1
+            },
+            {
+                "domain": "platby",
+                "confidence": 2
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Vygenerovani noveho hesla",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

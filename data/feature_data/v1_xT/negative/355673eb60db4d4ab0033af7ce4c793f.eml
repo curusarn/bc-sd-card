@@ -1,0 +1,149 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "module": "ill",
+            "score": 1.1
+        }
+    ],
+    "pepca": "p5abc39617f5d5f51",
+    "first10words": " Ahoj Pavlo tak snad naposledy posilam opravenou fakturu i s prilohami S pranim prijemneho dne ",
+    "pepca_style": "",
+    "pepca_inline_style": "pfdcf2c05a4c7ebbd",
+    "word_count": 104,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "opravena faktura",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.1,
+    "phishing": {},
+    "header_from": "f-simona@seznam.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/355673eb60db4d4ab0033af7ce4c793f.eml",
+    "attachments": [
+        {
+            "sumphash": "dd58061132136f6afeb3daba826a46b1",
+            "mime_type": "image/jpeg",
+            "flags": 0,
+            "size": 534509,
+            "cid": "m14a4d8f1f9em3999",
+            "cte": "BASE64",
+            "name": "opraven\u00e1 faktura.jpg"
+        },
+        {
+            "size": 928515,
+            "mime_type": "image/jpeg",
+            "flags": 0,
+            "pepca": "pc549be68624f2379",
+            "cid": "m14a4d8f33fcm399f",
+            "cte": "BASE64",
+            "sumphash": "86211d564bd3c6085f2b14a0d99907cb",
+            "name": "opraven\u00e1 faktura1.jpg"
+        },
+        {
+            "size": 879034,
+            "mime_type": "image/jpeg",
+            "flags": 0,
+            "pepca": "p78291308810f4c41",
+            "cid": "m14a4d8f4552m39a5",
+            "cte": "BASE64",
+            "sumphash": "39472b4ed36efeb9b6c5e2678f73f9b1",
+            "name": "opraven\u00e1 faktura2.jpg"
+        },
+        {
+            "size": 816187,
+            "mime_type": "image/jpeg",
+            "flags": 0,
+            "pepca": "p033036f97eec672d",
+            "cid": "m14a4d8f59e5m39aa",
+            "cte": "BASE64",
+            "sumphash": "70fae4aa211b6d6496af6ec1d68a9295",
+            "name": "opraven\u00e1 faktura3.jpg"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "pc549be68624f2379"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p78291308810f4c41"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p033036f97eec672d"
+        },
+        {
+            "name": "pepca",
+            "value": "p5abc39617f5d5f51"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pfdcf2c05a4c7ebbd"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "comfortsecurity"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "sabmiller",
+        "plain_domain": "comfortsecurity",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 1721093.28273,
+                "domain": "sabmiller"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "elu 2908 440 01 Louny telefon 777 337 729 777 609 587 email info comfortsecurity cz ",
+    "lang": "cs"
+}

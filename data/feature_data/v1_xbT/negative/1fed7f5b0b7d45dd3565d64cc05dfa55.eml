@@ -1,0 +1,92 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p45aaf8b8a746ce3b",
+    "last10words": " email V pripade jakehokoliv problemu nas prosim kontaktuj na emailu info fajn brigady cz Dekujeme S pozdravem tym Fajn brigad ",
+    "pepca_style_total": 0,
+    "header_from": "info@fajn-brigady.cz",
+    "first10words": " Dobry den klikni prosim na tento radek pro dokonceni zmeny hesla Pozadavek je platny do 02 11 2014 23 59 59 a byl vygenerovan z IP adres",
+    "attachments": [],
+    "word_count": 48,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/1fed7f5b0b7d45dd3565d64cc05dfa55.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p45aaf8b8a746ce3b"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p271e5575a45eaf35"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "benaughty",
+                "confidence": 5093502.8158286
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "benaughty",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Ziskani noveho hesla na webu FAJN BRIGADY CZ",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "p271e5575a45eaf35",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

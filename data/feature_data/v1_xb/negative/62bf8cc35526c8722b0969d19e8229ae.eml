@@ -1,0 +1,97 @@
+{
+    "phashes": [
+        {
+            "value": "p7748fd89277c8477",
+            "name": "pepca"
+        },
+        {
+            "value": "pd10d471cfcffa482",
+            "name": "pepca_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "noreply@is.kravmaga.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/62bf8cc35526c8722b0969d19e8229ae.eml",
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "pepca": "p7748fd89277c8477",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "pd10d471cfcffa482",
+    "last10words": "oveni hesla kliknete na tento odkaz Realizacni tym Krav Maga Na tento email neodpovidejte byl odeslan automaticky ",
+    "subject": " KM IS Pozadavek na obnoveni hesla",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 1,
+                "domain": "topsrovnani"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 4263506.33788,
+                "domain": "skype"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "topsrovnani",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "skype",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Pozadavek na obnoveni hesla Pozadavek na obnovu hesla Vyzadali jste si nove heslo pro pristup do informacniho syst",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 58,
+    "adscore": 0,
+    "spamscore": 1
+}

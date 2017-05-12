@@ -1,0 +1,106 @@
+{
+    "phashes": [
+        {
+            "value": "p10b4fb2de16f0d7b",
+            "name": "pepca"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "support@gruposantander.es",
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/1654.eml",
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging",
+                "long_subject"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1,
+                0.5
+            ],
+            "score": 1.6
+        }
+    ],
+    "pepca": "p10b4fb2de16f0d7b",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": " A Banco Santander Central Hispano S A Santander Central Hispano es una marca registrada Todos los derechos reservados ",
+    "subject": "El mejoramiento de la seguridad para los clientes del banco",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 7,
+                "domain": "santander"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 41128026.609924,
+                "domain": "flirtlide"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "santander",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "flirtlide",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "gruposantader",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "gruposantader"
+            },
+            {
+                "confidence": 1,
+                "domain": "gruposantander"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " El mejoramiento de la seguridad para los clientes del banco ",
+    "lang": "es",
+    "pepcatotal": 0,
+    "word_count": 572,
+    "adscore": 0,
+    "spamscore": 1.6
+}

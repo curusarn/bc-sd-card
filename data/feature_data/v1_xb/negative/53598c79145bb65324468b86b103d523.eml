@@ -1,0 +1,114 @@
+{
+    "phashes": [
+        {
+            "value": "pdf561f3386f79a2e",
+            "name": "pepca"
+        },
+        {
+            "value": "p1a70e766eb890bb9",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "noreply@dmail.datingfactory.com",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/53598c79145bb65324468b86b103d523.eml",
+    "unsub_link_candidates": [
+        "http://net.sexykmen.cz/support/unsubscribe/0003943954002ayt04e543a7694baa0244dd1cf1e98fb856/1371293420.3943954.26564228.18?linkId=2"
+    ],
+    "attachments": [],
+    "contains_list_header": true,
+    "last10words": " email muze obsahovat inzerci Dating Factory s r o 3 patro 207 Regent Street Londyn W1B 3HH Velka Britanie ",
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca": "pdf561f3386f79a2e",
+    "subject": "benny06 Vase heslo na SexyKmen",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 3,
+                "domain": "datingfactory"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 197454508.303946,
+                "domain": "datingfactory"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "datingfactory",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "datingfactory",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "sexykmen",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "sexykmen"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p1a70e766eb890bb9",
+    "unsub_link_texts": [
+        "pokud byt si nezalozit tento ucet odhlasit se zde "
+    ],
+    "list_unsubscribe_urls": [
+        "http://unsub.email.dynect.net/unsub??h=tiMleQXvuhEImexOqszKOVsrvZcbqz83P%2B3Vab2bGtVpvNh7myS6NF71ZM97yg7%2F6oSicdBLR2iC9IWtyx3QpkCytP0mTez51penFeeRvCA%3Di=20141103104436.00C19202C3F8%40mail6-08-pao.dyndns.comx=MHwxMDE4ODYyOiUzQzEzNzEyOTM0MjAuMzk0Mzk1NC4yNjU2NDIyOC4xOC4yMDE0MTEwMzEwNDQzNC5jcy5tYWlsc3lzdGVtJTQwZG1haWwuZGF0aW5nZmFjdG9yeS5jb20lM0U7%3Cmailto%3Aunsubscribe%2B1371293420.3943954.26564228.18%40dmail.datingfactory.com%3E%2C+%3Chttp%3A%2F%2Fnet.sexykmen.cz%2Fsupport%2Funsubscribe%2F0003943954002ayt04e543a7694baa0244dd1cf1e98fb856%2F1371293420.3943954.26564228.18%3FlinkId%3D77%3E",
+        "mailto:unsubscribe@dynect-email.com?subject=tiMleQXvuhEImexOqszKOVsrvZcbqz83P%2B3Vab2bGtVpvNh7myS6NF71ZM97yg7%2F6oSicdBLR2iC9IWtyx3QpkCytP0mTez51penFeeRvCA%3D&message_id=20141103104436.00C19202C3F8%40mail6-08-pao.dyndns.com&x_headers==MHwxMDE4ODYyOiUzQzEzNzEyOTM0MjAuMzk0Mzk1NC4yNjU2NDIyOC4xOC4yMDE0MTEwMzEwNDQzNC5jcy5tYWlsc3lzdGVtJTQwZG1haWwuZGF0aW5nZmFjdG9yeS5jb20lM0U7"
+    ],
+    "unsub_link": "http://net.sexykmen.cz/support/unsubscribe/0003943954002ayt04e543a7694baa0244dd1cf1e98fb856/1371293420.3943954.26564228.18?linkId=2",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " benny06 Vase heslo na SexyKmen Chcete li mit vsechny zpravy dorucene do Vasi e mailove schranky pridejte prosim S",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 263,
+    "adscore": 0,
+    "spamscore": 1
+}

@@ -1,0 +1,110 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p8339734a539862ae",
+    "last10words": " veronika2014 seznam cz Odesilatelem je Marketa Kralova info solisortus cz Z odberu se muzete odhlasit ",
+    "list_unsubscribe_urls": [
+        "=?UTF-8?B?aHR0cDovL2FwcC5zbWFydGU4ZjYuZXUvcHVibGk=?="
+    ],
+    "unsub_link_texts": [
+        "cz z odber se moct odhlasit "
+    ],
+    "header_from": "info@solisortus.cz",
+    "contains_list_header": true,
+    "pepcatotal": 0,
+    "attachments": [],
+    "word_count": 192,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/22940c9351d15aaf20df87b32e8ad59f.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p8339734a539862ae"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p6140811737e43336"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "vyprodejskladu",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "retel",
+                "confidence": 2642686.26929
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "vyprodejskladu",
+                "confidence": 1
+            }
+        ],
+        "domain_keywords": "retel",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Dekujeme Vam za registraci ",
+    "adscore": 0,
+    "first10words": " Dobry den jmenem vzdelavaciho centra SOLIS ORTUS Vam dekuji za registraci Ebook JAK SE RYCHLE A EFEKTIVNE NAUCIT CIZ",
+    "unsub_link": "http://app.smarte8f6.eu/public/unsubscribe/autoresponder?u=c04aabe8-2214-11e4-94a3-002590a1e85a&c=b2b154ef-5f70-11e4-acb5-002590a1e85a&j=3f6fdf01-426e-11e4-b679-002590a1e85a",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "unsub_link_candidates": [
+        "http://app.smarte8f6.eu/public/unsubscribe/autoresponder?u=c04aabe8-2214-11e4-94a3-002590a1e85a&c=b2b154ef-5f70-11e4-acb5-002590a1e85a&j=3f6fdf01-426e-11e4-b679-002590a1e85a"
+    ],
+    "pepca_inline_style": "p6140811737e43336",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1,
+    "pepca_style_total": 0
+}

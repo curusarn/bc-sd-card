@@ -1,0 +1,108 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p2197456d74fdbc4e",
+    "last10words": " Technicka podpora V pracovni dny od 9 do 17 hodin tel 538 702 705 e mail podpora qcm cz www vhodne uverejneni cz ",
+    "pepca_style_total": 0,
+    "header_from": "noreply@vhodne-uverejneni.cz",
+    "first10words": " Zprava Portalu pro vhodne uverejneni verejnych zakazek Zadost o zmenu hesla Portal pr",
+    "attachments": [],
+    "word_count": 135,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/9e4abace362a1d6195b91fe626ed2fa7.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p2197456d74fdbc4e"
+        },
+        {
+            "name": "pepca_style",
+            "value": "p9dd52096262a08d6"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p58f98e668689df85"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "vhodne-uverejneni",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "zendesk",
+                "confidence": 10913851.9681193
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "vhodne-uverejneni",
+                "confidence": 1
+            }
+        ],
+        "domain_keywords": "zendesk",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "vhodne-uverejneni",
+        "plain_domain_detail": [
+            {
+                "domain": "vhodne-uverejneni",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Zadost o zmenu hesla",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "p9dd52096262a08d6",
+    "pepca_inline_style": "p58f98e668689df85",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

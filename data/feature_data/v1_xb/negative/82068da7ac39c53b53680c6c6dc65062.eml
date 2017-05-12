@@ -1,0 +1,180 @@
+{
+    "phashes": [
+        {
+            "value": "p468554068c149993",
+            "name": "pepca_style"
+        },
+        {
+            "value": "pe35cd67e066a925a",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "phNotches": [
+        {
+            "module": "phish-score",
+            "name": [
+                "from_mismatch",
+                "subject_phish_keyword",
+                "unsub_link",
+                "html_a_href_camouflaging",
+                "many_emails"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                -2,
+                1,
+                -2
+            ],
+            "score": -2
+        }
+    ],
+    "header_from": "support@happystudio.com",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/82068da7ac39c53b53680c6c6dc65062.eml",
+    "extractedEmailsTotalCount": {},
+    "theme": {},
+    "pepca_small": "p7c1b69119a3bda39",
+    "unsub_link_candidates": [
+        "http://0twg.mj.is/link/0twg/tluzr4q/6/y-6SoXLtlbBBFiRBIEIiJw/aHR0cDovL3d3dy5oYXBweXN0dWRpby5jb20vUGFyZW50L1BhbmVsL1Rlcm1zP2xhbmdjb2RlPWNzJmNvdW50cnljb2RlPWN6"
+    ],
+    "attachments": [],
+    "contains_list_header": true,
+    "last10words": " ",
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "evil_script",
+                "from_missmatch",
+                "html_a_href_camouflaging",
+                "html_ent_text_plain"
+            ],
+            "subscores": [
+                1,
+                0.1,
+                0.0,
+                0.1,
+                4.1
+            ],
+            "score": 5.3
+        }
+    ],
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "subject": "Happy Studio Potvrzeni Registrace Rodice",
+    "pepca_style": "p468554068c149993",
+    "pepca": "",
+    "dkstatus": {},
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 9,
+                "domain": "happystudio"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "happystudio",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "nr-data",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "nr-data"
+            },
+            {
+                "confidence": 1,
+                "domain": "newrelic"
+            },
+            {
+                "confidence": 1,
+                "domain": "nreum"
+            },
+            {
+                "confidence": 3,
+                "domain": "happystudio"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "domainstat_themes": {},
+    "domainstat": {},
+    "pepca_inline_style": "pe35cd67e066a925a",
+    "unsub_link_texts": [
+        " obchodny podminka "
+    ],
+    "list_unsubscribe_urls": [
+        "mailto:unsub-fefce350.0twg.tluzr4q@bnc.mailjet.com"
+    ],
+    "spfstatus": {},
+    "unsub_link": "http://0twg.mj.is/link/0twg/tluzr4q/6/y-6SoXLtlbBBFiRBIEIiJw/aHR0cDovL3d3dy5oYXBweXN0dWRpby5jb20vUGFyZW50L1BhbmVsL1Rlcm1zP2xhbmdjb2RlPWNzJmNvdW50cnljb2RlPWN6",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0.0,
+    "pepca_inline_style_total": 1,
+    "first10words": " ",
+    "universalprobes": [
+        {
+            "key": "ps-from_mismatch",
+            "value": "1"
+        },
+        {
+            "key": "ps-subject_phish_keyword",
+            "value": "['potvrzen\\xc3\\xad']"
+        },
+        {
+            "key": "ps-unsub_link",
+            "value": "1"
+        },
+        {
+            "key": "ps-camouflaged_href",
+            "value": "Url(norm=http://0twg.mj.is/link/0twg/tluzr4q/4/FSZajeflEVjzcvHTWlO7iw/aHR0cDovL3d3dy5IYXBweVN0dWRpby5jb20vP2xhbmdjb2RlPWNzJmNvdW50cnljb2RlPWN6, source=None) | Url(norm=http://happystudio.com, source=txt)"
+        },
+        {
+            "key": "ps-html_a_href_camouflaging",
+            "value": "1"
+        },
+        {
+            "key": "ps-many_emails",
+            "value": "1"
+        }
+    ],
+    "pepca_style_total": 3,
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 342,
+    "adscore": 0,
+    "dmarc_status": {},
+    "spamscore": 5.3
+}

@@ -1,0 +1,126 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1,
+                0.5,
+                1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id",
+                "long_subject",
+                "images_in_subject"
+            ],
+            "module": "ill",
+            "score": 2.6
+        }
+    ],
+    "pepca": "",
+    "pepca_style": "",
+    "phNotches": [
+        {
+            "subscores": [
+                1,
+                -2
+            ],
+            "name": [
+                "from_mismatch",
+                "many_emails"
+            ],
+            "module": "phish-score",
+            "score": -1
+        }
+    ],
+    "dmarc_status": {},
+    "pepca_inline_style": "",
+    "unsub_link": {},
+    "pepca_style_total": 0,
+    "phish_score": -1,
+    "domainstat": {},
+    "domainstat_themes": {},
+    "subject": " a i zs C u LzeR I eAaz sn s S ll D U ",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 2.6,
+    "word_count": 10,
+    "phishing": {},
+    "universalprobes": [
+        {
+            "key": "ps-from_mismatch",
+            "value": "1"
+        },
+        {
+            "key": "ps-many_emails",
+            "value": "1"
+        }
+    ],
+    "header_from": "dkshgkshdghh@yahoo.co.kr",
+    "first10words": " ",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing2/1342.eml",
+    "attachments": [],
+    "adNotches": [
+        {
+            "subscores": [
+                5
+            ],
+            "name": [
+                "images_in_subject"
+            ],
+            "module": "ill",
+            "score": 5
+        }
+    ],
+    "adscore": 5,
+    "extractedEmailsTotalCount": {},
+    "dkstatus": {},
+    "spfstatus": {},
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "",
+        "plain_domain": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": " ",
+    "theme": {},
+    "pepca_small": "pc6b2e95c5d549c38",
+    "lang": "un"
+}

@@ -1,0 +1,101 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "module": "ill",
+            "score": 1
+        }
+    ],
+    "pepca": "p862906491c379819",
+    "first10words": " start 0x3507 0x1241 0x69 0x2052 0x64718530 0x7 0x76 0x6 0x388 0x341 0x97 0x561 0x22567897 0x9 0x9330 0x3610 0x7795",
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "word_count": 62,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "BB T customer service customer alert ",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1,
+    "phishing": {},
+    "header_from": "clientservice.refS22530547831J.cm@bbt.com",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/480.eml",
+    "attachments": [
+        {
+            "size": 9536,
+            "mime_type": "image/gif",
+            "flags": 0,
+            "pepca": "p965afc05125dd658",
+            "cid": "SX8AEJOOXX",
+            "cte": "BASE64",
+            "sumphash": "1192915a07ce529d82b77d4e8066289f",
+            "name": "ceramium.gif"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p965afc05125dd658"
+        },
+        {
+            "name": "pepca",
+            "value": "p862906491c379819"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "nongnu",
+        "plain_domain": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 3028669.73454,
+                "domain": "nongnu"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "art RGM8 type 0SP G0R UKNS 1XB ZJA source 2EK root 9FO0 define media engine Z8ZA common serv 0x2602 0x0385 0x1830 0x034 0x78 ",
+    "lang": "un"
+}

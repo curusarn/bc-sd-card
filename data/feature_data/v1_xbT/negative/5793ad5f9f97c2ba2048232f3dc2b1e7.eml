@@ -1,0 +1,107 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pff4abf366c59cd8a",
+    "last10words": " zdroj platby 41 P504 10 0843 Predem diky moc Martin ",
+    "pepca_style_total": 0,
+    "header_from": "jvrbov@prf.jcu.cz",
+    "first10words": " From Martin Hais mailto Martin Hais seznam cz Sent Thursday December 11 2014 3 05 PM To Jana Vrbova Subject objedn",
+    "attachments": [
+        {
+            "name": "image001.png",
+            "pepca": "p656f7de431432495",
+            "cte": "BASE64",
+            "mime_type": "image/png",
+            "cid": "image001.png@01D0185C.D9D558C0",
+            "size": 126040,
+            "flags": 0,
+            "sumphash": "86c903f67bd9b200937816f392f94fd3"
+        }
+    ],
+    "word_count": 133,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/5793ad5f9f97c2ba2048232f3dc2b1e7.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p656f7de431432495"
+        },
+        {
+            "name": "pepca",
+            "value": "pff4abf366c59cd8a"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pe6c8527d1de01fd8"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "pravednes",
+                "confidence": 5449970.05066
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "pravednes",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "RE objednavka",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "pe6c8527d1de01fd8",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

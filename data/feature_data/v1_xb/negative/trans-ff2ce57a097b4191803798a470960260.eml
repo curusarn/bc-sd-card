@@ -1,0 +1,107 @@
+{
+    "phashes": [
+        {
+            "value": "p0bd864c5a0e3d28f",
+            "name": "pepca"
+        },
+        {
+            "value": "p56192d58c673ace4",
+            "name": "pepca_style"
+        },
+        {
+            "value": "pa74a7b561cbd9c2a",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "obchod@czc.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/trans-ff2ce57a097b4191803798a470960260.eml",
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "pepca": "p0bd864c5a0e3d28f",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "p56192d58c673ace4",
+    "last10words": " Email plzen czc cz Tel 31 31 100 00 Zprava byla vygenerovana informacnim systemem I6 firmy CyberSoft s r o www cybersoft cz ",
+    "subject": "Vyzva k odberu objednavka 4115022869",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 50982457.980352,
+                "domain": "masterinter"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "masterinter",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "czc",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "czc"
+            },
+            {
+                "confidence": 1,
+                "domain": "cybersoft"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "pa74a7b561cbd9c2a",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " OD A PRO A CZC cz s r o Jakub Jirasek Sady Petatricatniku 33 Sladkova 165 30100 Plzen 338 08 Zbiroh Dobry",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 212,
+    "adscore": 0,
+    "spamscore": 1.1
+}

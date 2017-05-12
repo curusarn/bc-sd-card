@@ -1,0 +1,127 @@
+{
+    "phashes": [
+        {
+            "value": "pf3d2a5effd71af81",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p64edac69e21a1f8d",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p447e3ccaf1ab61db",
+            "name": "pepca"
+        },
+        {
+            "value": "pfaa18b5076d5b99f",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "Zlata.Ciprianova@alltoys.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/1c835eecf5abdf114a8115c4513258e6.eml",
+    "attachments": [
+        {
+            "size": 10808,
+            "name": "image001.jpg",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "image001.jpg@01D0185D.356326E0",
+            "sumphash": "d02c375b6990ef3e28b3d8770d174253",
+            "pepca": "pf3d2a5effd71af81",
+            "mime_type": "image/jpeg"
+        },
+        {
+            "first10words": "eden Kod zbozi Objednano Cena za jednotku Cena celkem Carovy",
+            "size": 36352,
+            "mime_type": "application/vnd.ms-excel",
+            "cte": "BASE64",
+            "flags": 0,
+            "lang": "cs",
+            "name": "eden.xls",
+            "pepca": "p64edac69e21a1f8d",
+            "sumphash": "34a14f9b882623d3b81d7de031aa2cb0"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "pepca": "p447e3ccaf1ab61db",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": "z www bambule cz A A A A A A A A A A A A A A A A A A A A A A ",
+    "subject": "Objednavka",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 2358743.86317,
+                "domain": "alltoys"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "alltoys",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "bambule",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "bambule"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "pfaa18b5076d5b99f",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Dobry den vA priloze posilam potvrzenou objednavku SA pozdravem A A A A A A",
+    "lang": "un",
+    "pepcatotal": 0,
+    "word_count": 108,
+    "adscore": 0,
+    "spamscore": 1
+}

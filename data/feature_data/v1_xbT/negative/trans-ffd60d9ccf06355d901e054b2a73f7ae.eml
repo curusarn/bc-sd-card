@@ -1,0 +1,90 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pb7ff3be07af4ff9e",
+    "last10words": " B 5039 1 499 00 0 00 0 00 0 00 499 00 Celkem Kc bez DPH 7 3348 00 Celkem Kc s DPH 4051 00 Poznamka ",
+    "pepca_style_total": 0,
+    "header_from": "noreply@isolit-bravo.cz",
+    "first10words": " Objednavka byla vlozena do systemu pod cislem 4 524 217972 Faktura cislo 5246796 Fakturacni adresa Roman Pechacek ELEKTROS",
+    "attachments": [],
+    "word_count": 223,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/trans-ffd60d9ccf06355d901e054b2a73f7ae.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pb7ff3be07af4ff9e"
+        }
+    ],
+    "spamscore": 2,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "fdb",
+                "confidence": 8039938.25451
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "fdb",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Isolit Bravo B2B faktura 5246796 Roman Pechacek ELEKTROSERVIS",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "missing_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                1
+            ],
+            "score": 2,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

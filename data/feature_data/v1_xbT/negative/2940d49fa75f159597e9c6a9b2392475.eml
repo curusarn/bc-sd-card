@@ -1,0 +1,128 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p693a0f1b90095a10",
+    "last10words": "as team Bombastus Pisecka 264 375 01 Tyn nad Vltavou tel 777 333 161 www bombastus cz bombastus email cz ",
+    "pepca_style_total": 0,
+    "header_from": "bombastus@email.cz",
+    "first10words": " Dobry den dnes Vam posilame balicek Dekujeme za Vas nakup Se srdecnym pozdravem a pranim hezkeho dne Lenka Prag",
+    "attachments": [
+        {
+            "name": "image",
+            "pepca": "pf15795a2c575a8c9",
+            "cte": "BASE64",
+            "mime_type": "image/gif",
+            "cid": "677f1aca7f97d9a6f53e094516c000de",
+            "size": 6482,
+            "flags": 0,
+            "sumphash": "513ad6d8eb038e53885c2225414fd4a2"
+        },
+        {
+            "name": "image",
+            "pepca": "pd77a8c32df2958de",
+            "cte": "BASE64",
+            "mime_type": "image/jpeg",
+            "cid": "6778adc8847b2d119f21e8eeb41f37a7",
+            "size": 13371,
+            "flags": 0,
+            "sumphash": "6dfb98e5c2e69889326f488a30855ea6"
+        }
+    ],
+    "word_count": 266,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/2940d49fa75f159597e9c6a9b2392475.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "pf15795a2c575a8c9"
+        },
+        {
+            "name": "att-pepca",
+            "value": "pd77a8c32df2958de"
+        },
+        {
+            "name": "pepca",
+            "value": "p693a0f1b90095a10"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p297151d187d1fff3"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "masterinter",
+                "confidence": 38236843.485264
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "masterinter",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "bombastus",
+        "plain_domain_detail": [
+            {
+                "domain": "bombastus",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Re Vase objednavka 6806 ",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "p297151d187d1fff3",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

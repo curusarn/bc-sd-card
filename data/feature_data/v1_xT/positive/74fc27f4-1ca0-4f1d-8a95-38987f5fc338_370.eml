@@ -1,0 +1,116 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "module": "ill",
+            "score": 1
+        }
+    ],
+    "pepca": "p2af6c7f3e0d095f8",
+    "first10words": " gu IQJ Qu yTa Ao E Au s II Wudat OI iOn A0i yOyFQ 7j oS c U YP O RWUOwD99 5iAoz",
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "word_count": 31,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Your Email Account is Suspended For Security Reasons",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1,
+    "phishing": {},
+    "header_from": "service@domain.com",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing0/370.eml",
+    "attachments": [
+        {
+            "size": 29674,
+            "mime_type": "application/zip",
+            "flags": 0,
+            "pepca": "peedd6fcd68c141ad",
+            "cte": "BASE64",
+            "sumphash": "f50eed0c4fe13a3dd4fdbd53ed570bef",
+            "name": "email-doc.zip"
+        },
+        {
+            "exe_pepcas": [],
+            "mime_type": "application/octet-stream",
+            "flags": 3,
+            "pepca": "pb51a2dfd074deeb9",
+            "first10words": "MZPELrUa ?ZaMEWFNA rRNuUSeO pnqrRlpA T P su E s R",
+            "size": 29550,
+            "cte": "PLAIN",
+            "sumphash": "b44718abf37ccfc14e7caf10d322e499",
+            "name": "email-doc.exe",
+            "lang": "un"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca-risky",
+            "value": "peedd6fcd68c141ad"
+        },
+        {
+            "name": "att-pepca-risky",
+            "value": "pb51a2dfd074deeb9"
+        },
+        {
+            "name": "pepca",
+            "value": "p2af6c7f3e0d095f8"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "stepstone",
+        "plain_domain": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 65896271.8122,
+                "domain": "stepstone"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "I ZiEeIOS R3 n UGe yAf 7 U 9 2OPvI 36 HQAAYI u oBw t x o u O E CY UV T YA ",
+    "lang": "un"
+}

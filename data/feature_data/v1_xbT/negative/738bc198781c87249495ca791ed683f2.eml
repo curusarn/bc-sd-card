@@ -1,0 +1,108 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pfc524ce365933aa1",
+    "last10words": " Kontakt Ombudsman FAQ Ako fungujeme Odhlasit e maily 2010 2014 Odpadnes sk ",
+    "list_unsubscribe_urls": [
+        "mailto:unsubscribe@odpadnes.sk?subject=Odhlasenie_ID_4321284",
+        "http://zlavy.odpadnes.sk/unsubscribe/?mt=mPwRequest&md=20141031&s[hash]=QJToP084in5vEqCK+NMRiA=="
+    ],
+    "header_from": "noreply@odpadnes.sk",
+    "contains_list_header": true,
+    "pepcatotal": 0,
+    "attachments": [],
+    "word_count": 187,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/738bc198781c87249495ca791ed683f2.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pfc524ce365933aa1"
+        },
+        {
+            "name": "pepca_style",
+            "value": "p169667091bc4d6de"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p14b64ffd051a7841"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "azet",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "odpadnes",
+                "confidence": 18058921.458902
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "azet",
+                "confidence": 7
+            }
+        ],
+        "domain_keywords": "odpadnes",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "sk",
+    "phish_score": 0,
+    "precedence": 2,
+    "subject": "Ziadost o zmenu hesla",
+    "adscore": 0,
+    "first10words": " Odpadnes sk Nezobrazuje sa vam tento e mail v spravne Kliknite sem Dobry den Radek zaznam",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "p169667091bc4d6de",
+    "pepca_inline_style": "p14b64ffd051a7841",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1,
+    "pepca_style_total": 0
+}

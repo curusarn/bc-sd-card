@@ -1,0 +1,112 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pddade6899888bbcd",
+    "last10words": "sla nezadal a ignorujte tento email stare heslo zustane zachovano S pranim hezkeho dne Tym PostovneZDARMA cz ",
+    "pepca_style_total": 0,
+    "header_from": "neodpovidat@postovnezdarma.cz",
+    "first10words": " Dobry den Jaroslav Jokl Tento email jsme Vam zaslali na zaklade pozadavku na zmenu zapomenuteho hesla u Vaseho u",
+    "attachments": [],
+    "word_count": 87,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/12cad8c27ff9612a27511fac0fabb678.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pddade6899888bbcd"
+        },
+        {
+            "name": "pepca_style",
+            "value": "p24174fa0ebcc3298"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p2007198102e78d4d"
+        }
+    ],
+    "spamscore": 1.5,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "postovnezdarma",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "paypal",
+                "confidence": 14305082.6583221
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "postovnezdarma",
+                "confidence": 1
+            }
+        ],
+        "domain_keywords": "paypal",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "postovnezdarma",
+        "plain_domain_detail": [
+            {
+                "domain": "postovnezdarma",
+                "confidence": 1
+            },
+            {
+                "domain": "zdarma",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "PostovneZDARMA cz Zmena zapomenuteho hesla pro ucet na jmeno Jaroslav Jokl",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "p24174fa0ebcc3298",
+    "pepca_inline_style": "p2007198102e78d4d",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "long_subject"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.5
+            ],
+            "score": 1.5,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

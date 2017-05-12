@@ -1,0 +1,102 @@
+{
+    "pepca_inline_style_total": 1,
+    "pepca": "p7108de32bda2c583",
+    "last10words": "m PlnaPenezenka cz info plnapenezenka cz www plnapenezenka cz Copyright 2014 PlnaPenezenka cz Vsechna prava vyhrazena ",
+    "pepca_style_total": 0,
+    "header_from": "info@plnapenezenka.cz",
+    "first10words": " Plna Penezenka penize zpet z vasich nakupu Hezky den na zaklade vaseho pozadavku zasilame odkaz pro vygen",
+    "attachments": [],
+    "word_count": 87,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/98fc26ebdffbd73df367384cc625a616.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p7108de32bda2c583"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p72007c0b60015a3f"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "topsleva",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "mcsv",
+                "confidence": 10256637.2474413
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "topsleva",
+                "confidence": 1
+            }
+        ],
+        "domain_keywords": "mcsv",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "plnapenezenka",
+        "plain_domain_detail": [
+            {
+                "domain": "plnapenezenka",
+                "confidence": 5
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Zadost o nove heslo na PlnaPenezenka cz",
+    "adscore": 0,
+    "pepcatotal": 1,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "p72007c0b60015a3f",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

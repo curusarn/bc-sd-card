@@ -1,0 +1,117 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p26d2d147f4a7c6e3",
+    "last10words": "jte posledni objednavku Zelena linka 800 800 170 Po Pa 8 16 hod www VaseCocky cz Obchodni podminky Facebook Twitter ",
+    "pepca_style_total": 0,
+    "unsub_link_texts": [
+        " obchodny podminka "
+    ],
+    "header_from": "objednavky@vasecocky.cz",
+    "unsub_link_candidates": [
+        "http://email.vasecocky.cz/c/ZD1iMGNlJmk9MjAxNTAxMTMxMTMwMDMuMjI0MTMuMjYyMDQlNDB2YXNlY29ja3kuY3omaD02ZDJlZjQ3YjU0NTQ3NThjZjJkOGI5NDdiNGMzNmYyNiZsPWh0dHAlM0ElMkYlMkZ3d3cudmFzZWNvY2t5LmN6JTJGb2JjaG9kbmktcG9kbWlua3kuaHRtbCZyPWV6YWx1ZG92YSU0MHNlem5hbS5jeg"
+    ],
+    "first10words": " Vazena pani Jourova zasilame vam aktualni informace o vyrizovani objednavky c 1501002314 Vase objedna",
+    "attachments": [],
+    "word_count": 274,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/trans-ffad0a10bafb26e73f93e99eea2af9c9.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p26d2d147f4a7c6e3"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pa23d95889a03599f"
+        }
+    ],
+    "spamscore": 1.2,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "vasecocky",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "vasecocky",
+                "confidence": 48401118.98827
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "vasecocky",
+                "confidence": 7
+            }
+        ],
+        "domain_keywords": "vasecocky",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "vasecocky",
+        "plain_domain_detail": [
+            {
+                "domain": "vasecocky",
+                "confidence": 1
+            },
+            {
+                "domain": "ky",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "VaseCocky cz aktualizace stavu objednavky c 1501002314",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "unsub_link": "http://email.vasecocky.cz/c/ZD1iMGNlJmk9MjAxNTAxMTMxMTMwMDMuMjI0MTMuMjYyMDQlNDB2YXNlY29ja3kuY3omaD02ZDJlZjQ3YjU0NTQ3NThjZjJkOGI5NDdiNGMzNmYyNiZsPWh0dHAlM0ElMkYlMkZ3d3cudmFzZWNvY2t5LmN6JTJGb2JjaG9kbmktcG9kbWlua3kuaHRtbCZyPWV6YWx1ZG92YSU0MHNlem5hbS5jeg",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "pa23d95889a03599f",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1,
+                0.1
+            ],
+            "score": 1.2,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

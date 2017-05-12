@@ -1,0 +1,97 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging"
+            ],
+            "module": "ill",
+            "score": 1.1
+        }
+    ],
+    "pepca": "p15aaa67f018d12d5",
+    "first10words": " Dear Capital One Bank customer Capital One Customer Service requests you to complete TowerNET Client Form This procedur",
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "word_count": 340,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Capital One Bank instructions for client message id PJ305411557816P ",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.1,
+    "phishing": {
+        "5_top_domains_percent_2": 0.25,
+        "5_top_domains_id_2": 0,
+        "5_top_domains_percent_3": 0.25,
+        "5_top_domains_id_1": 1,
+        "5_top_domains_id_3": 1,
+        "5_top_domains_id_0": 0,
+        "5_top_domains_percent_1": 0.25,
+        "5_top_domains_percent_0": 0.25
+    },
+    "header_from": "businessservice.refc49301308685ao.tn@capitalonebank.com",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/654.eml",
+    "attachments": [],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p15aaa67f018d12d5"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "aweber",
+        "plain_domain": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 15641081.6767393,
+                "domain": "aweber"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "9EF source OC4 function 0x321 0x3 0x220 0x09 0x57131585 0x86533604 0x114 0x9 0x894 0x06684753 0x6624 0x00 0x16972898 0x1 0x704 ",
+    "lang": "en"
+}

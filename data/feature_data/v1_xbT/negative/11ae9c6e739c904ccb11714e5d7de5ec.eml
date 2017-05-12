@@ -1,0 +1,112 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p2629e7da2dbab535",
+    "last10words": "resa FIO Nadrazni 39 Ostrava 702 00 www fio cz Komentar Bez komentare www auto doplnky com ",
+    "pepca_style_total": 0,
+    "header_from": "info@auto-doplnky.com",
+    "first10words": " Autodoplnky Ostrava Dobry den potvrzujeme prijeti Vasi objednavky cislo 20886 Rekapitulace objednav",
+    "attachments": [],
+    "word_count": 330,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/11ae9c6e739c904ccb11714e5d7de5ec.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p2629e7da2dbab535"
+        },
+        {
+            "name": "pepca_style",
+            "value": "p12811dfdb7947c3e"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p1caea09a50e544a6"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "auto-doplnky",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "auto-doplnky",
+                "confidence": 33960842.763138
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "auto-doplnky",
+                "confidence": 4
+            }
+        ],
+        "domain_keywords": "auto-doplnky",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "auto-doplnky",
+        "plain_domain_detail": [
+            {
+                "domain": "auto-doplnky",
+                "confidence": 2
+            },
+            {
+                "domain": "fio",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Vase objednavka 20886",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "p12811dfdb7947c3e",
+    "pepca_inline_style": "p1caea09a50e544a6",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

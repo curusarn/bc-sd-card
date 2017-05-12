@@ -1,0 +1,106 @@
+{
+    "phashes": [
+        {
+            "value": "pf4b9651fb0ecdbcd",
+            "name": "pepca"
+        },
+        {
+            "value": "pb32dd65d381afaa9",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "info@seznamka.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/c583030eb37aa26fcc9c88ef499272b1.eml",
+    "unsub_link_candidates": [
+        "http://www.seznamka.cz/LoginVerify.aspx?akce=verify&mail=kralrademailcz&code=DED7FB4B-7AE9-4D65-AA54-C079390B4551",
+        "http://www.seznamka.cz/LoginVerify.aspx?akce=login&mail=kralrademailcz&code=DED7FB4B-7AE9-4D65-AA54-C079390B4551"
+    ],
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "pepca": "pf4b9651fb0ecdbcd",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": "jaky problem nebo otazku nevahejte nas kontaktovat Pokud doslo ke zneuziti Vaseho mailu muzete registraci vymazat ZDE ",
+    "subject": "REGISTRACE UZIVATELE",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 31248567.341399,
+                "domain": "seznamka"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "seznamka",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "seznamka",
+        "plain_domain_detail": [
+            {
+                "confidence": 2,
+                "domain": "seznamka"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "pb32dd65d381afaa9",
+    "unsub_link_texts": [
+        "overeni moct provest kliknuti na nasledujici odkaz ",
+        "prihlaseni moct provest kliknuti na nasledujici odkaz "
+    ],
+    "unsub_link": "http://www.seznamka.cz/LoginVerify.aspx?akce=login&mail=kralrademailcz&code=DED7FB4B-7AE9-4D65-AA54-C079390B4551",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Seznamka cz Seznamka cz Dobry den Vase registrace na server www seznamka cz byla uspesna Dekujeme Vase jmeno SEZA3021194",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 76,
+    "adscore": 0,
+    "spamscore": 1
+}

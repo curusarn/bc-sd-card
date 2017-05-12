@@ -1,0 +1,114 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.1,
+                0.0,
+                0.1,
+                4.1
+            ],
+            "name": [
+                "date_in_past",
+                "evil_script",
+                "from_missmatch",
+                "html_a_href_camouflaging",
+                "html_ent_text_plain"
+            ],
+            "module": "ill",
+            "score": 5.3
+        }
+    ],
+    "pepca": "pf390e4ae3e873bc7",
+    "first10words": " HAPPYSTUDIO COM POTVRDENIE REGISTRACIE DETI Aktivujte ucet svojho dietata ",
+    "pepca_style": "p468554068c149993",
+    "pepca_inline_style": "p4bd3e517a29e02fc",
+    "word_count": 608,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "HappyStudio com Potvrdenie Registracie Deti",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 5.3,
+    "list_unsubscribe_urls": [
+        "mailto:unsub-60fe666e.0twg.t0582i8@bnc.mailjet.com"
+    ],
+    "phishing": {},
+    "header_from": "support@happystudio.com",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/570181b3d9e937a21f0a84b656af0f1e.eml",
+    "attachments": [],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pf390e4ae3e873bc7"
+        },
+        {
+            "name": "pepca_style",
+            "value": "p468554068c149993"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p4bd3e517a29e02fc"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 2,
+                "domain": "happystudio"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "jobleads",
+        "plain_domain": "happystudio",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 27268238.764995,
+                "domain": "jobleads"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "happystudio",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [
+            {
+                "confidence": 13,
+                "domain": "happystudio"
+            }
+        ],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "contains_list_header": true,
+    "precedence": 3,
+    "last10words": "hrany sukromia McDonald s Happy The Happy Meal a Happy Studio su loga a obchodne znacky McDonald s ",
+    "lang": "sk"
+}

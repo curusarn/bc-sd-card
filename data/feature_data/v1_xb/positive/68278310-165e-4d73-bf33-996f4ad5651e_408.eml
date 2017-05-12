@@ -1,0 +1,103 @@
+{
+    "phashes": [
+        {
+            "value": "p73880057ec61fa82",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pd8b2ffeb35d4470b",
+            "name": "pepca"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "manager_id5017585ib@bankofamerica.com",
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/408.eml",
+    "attachments": [
+        {
+            "size": 9638,
+            "name": "caustic.gif",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "ECY9Z69YZK",
+            "sumphash": "4a84583155e1456cbaf4c1ab3f5063e6",
+            "pepca": "p73880057ec61fa82",
+            "mime_type": "image/gif"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "pepca": "pd8b2ffeb35d4470b",
+    "phishing": {
+        "ner_domain_detected": true
+    },
+    "pepca_style": "",
+    "last10words": " thrown many of the other ceramic pieces into the comer where their littered remains were scattered sharp little hooks and shards dia tribe ",
+    "subject": "Bank of America account notification ",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 49429881.7424813,
+                "domain": "aweber"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "aweber",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " It was a huge thought awesome arousal delicti She stopped killing around the same time she met Ralph When they turned i",
+    "lang": "en",
+    "pepcatotal": 0,
+    "word_count": 168,
+    "adscore": 0,
+    "spamscore": 1
+}

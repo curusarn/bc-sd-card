@@ -1,0 +1,103 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p8006927281185110",
+    "last10words": " S pozdravem a pranim pekneho dne www skveleceny cz info skveleceny cz 420 530 333 444 ",
+    "pepca_style_total": 0,
+    "header_from": "viktor.schafer@mdlz.com",
+    "first10words": " Vazeny zakazniku Dekujeme za Vas nakup Vase objednavka byla prijata do naseho systemu Stav vasi obj",
+    "attachments": [],
+    "word_count": 381,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/2f2d9541a15b5905a47fd1ccc7146942.eml.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p8006927281185110"
+        },
+        {
+            "name": "pepca_style",
+            "value": "p7d749c0b6ced3cf5"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "masterinter",
+                "confidence": 12745614.495088
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "masterinter",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "skveleceny",
+        "plain_domain_detail": [
+            {
+                "domain": "skveleceny",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "FW SkveleCeny cz Vase objednavka cislo 1421070584 byla prijata",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": true,
+        "5_top_domains_id_2": 1,
+        "5_top_domains_id_1": 0,
+        "5_top_domains_percent_1": 0.3333333333333333,
+        "5_top_domains_percent_2": 0.3333333333333333,
+        "5_top_domains_id_0": 0,
+        "5_top_domains_percent_0": 0.3333333333333333
+    },
+    "pepca_style": "p7d749c0b6ced3cf5",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

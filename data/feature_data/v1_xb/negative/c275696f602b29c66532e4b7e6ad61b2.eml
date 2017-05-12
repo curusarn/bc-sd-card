@@ -1,0 +1,99 @@
+{
+    "phashes": [
+        {
+            "value": "p24d6f26abbfd55ea",
+            "name": "pepca"
+        }
+    ],
+    "precedence": 2,
+    "header_from": "no-reply@babinet.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/c275696f602b29c66532e4b7e6ad61b2.eml",
+    "attachments": [],
+    "contains_list_header": true,
+    "last10words": "el a muzete se znovu prihlasit Staci navstivit http mailing regionportal eu p subscribe a opet se zaregistrovat Dekujeme Babinet cz",
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca": "p24d6f26abbfd55ea",
+    "subject": "Potvrzeni o zruseni registrace",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 9458053.22651,
+                "domain": "tykadla"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "tykadla",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "babinet",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "babinet"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "list_unsubscribe_urls": [
+        "http://mailing.regionportal.eu/?p=unsubscribe&email=zuzana.krnacova@seznam.cz&jo=1"
+    ],
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Vase registrace na serveru Babinet cz byla zrusena a tim jste byl a odhlasen a ze vsech Zpravodaju Tento e mail byl posledni ktery jst",
+    "lang": "cs",
+    "pepcatotal": 1,
+    "word_count": 40,
+    "adscore": 0,
+    "spamscore": 1.1
+}

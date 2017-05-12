@@ -1,0 +1,161 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pf17b8ea929787129",
+    "last10words": " in error or are not the named recipient s please immediately notify the sender and delete this e mail message from your computer Thank you ",
+    "pepca_style_total": 0,
+    "header_from": "finance@advokatky.cz",
+    "first10words": " Vazena pani Dashevska v priloze Vam zasilame danovy doklad k prijate platbe za pravni sluzby bez zauctovani deku",
+    "attachments": [
+        {
+            "name": "email_footer.jpg",
+            "pepca": "pf39f986c997a3552",
+            "cte": "BASE64",
+            "mime_type": "image/jpeg",
+            "cid": "part1.07030808.06030503@advokatky.cz",
+            "size": 18068,
+            "flags": 0,
+            "sumphash": "235f3e1ce4bd38bec4f5fc67e450fcae"
+        },
+        {
+            "name": "lj.png",
+            "pepca": "p32e9f8566dbe1e18",
+            "cte": "BASE64",
+            "mime_type": "image/png",
+            "cid": "part3.07070400.04070302@advokatky.cz",
+            "size": 3257,
+            "flags": 0,
+            "sumphash": "ddc9d4d19e919a640adad2e46349f2f6"
+        },
+        {
+            "name": "AEA.png",
+            "pepca": "p8a8ac344119b674e",
+            "cte": "BASE64",
+            "mime_type": "image/png",
+            "cid": "part5.06060702.05070602@advokatky.cz",
+            "size": 3605,
+            "flags": 0,
+            "sumphash": "d04c86a32d34bfafdffe7cadbf8abcdf"
+        },
+        {
+            "name": "Faktura_201510159(2).pdf",
+            "pepca": "p335e5b15b7cb2b52",
+            "cte": "BASE64",
+            "mime_type": "text/plain",
+            "size": 39286,
+            "flags": 0,
+            "sumphash": "f0a70e5d8bb13a06fe7491a473c98a45"
+        }
+    ],
+    "word_count": 187,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/8068b97442577e33c2bd8c70adf8b9b2.eml.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "pf39f986c997a3552"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p32e9f8566dbe1e18"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p8a8ac344119b674e"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p335e5b15b7cb2b52"
+        },
+        {
+            "name": "pepca",
+            "value": "pf17b8ea929787129"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pe414d8232bf181e1"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "clamav",
+                "confidence": 114565814.992
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "clamav",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "justinianlawyers",
+        "plain_domain_detail": [
+            {
+                "domain": "justinianlawyers",
+                "confidence": 1
+            },
+            {
+                "domain": "aeuropea",
+                "confidence": 1
+            },
+            {
+                "domain": "advokatky",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "KOFEIN CZ s r o Faktura c 201510159",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "pe414d8232bf181e1",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

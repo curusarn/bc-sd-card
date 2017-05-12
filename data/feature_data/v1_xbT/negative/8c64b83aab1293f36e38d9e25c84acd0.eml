@@ -1,0 +1,103 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p191c8a9e3154c8d2",
+    "last10words": "nu Ak sa chcete skontaktovat s Klientskym centrom napiste na posta bonprix sk bonprix P O Box 3 01123 ZILINA 2 ",
+    "pepca_style_total": 0,
+    "header_from": "posta@bonprix.sk",
+    "first10words": " Subskrypcja newslettera Moj ucet ZENA BIELIZEN MUZ DIETA OBUV A DOPLNKY ",
+    "attachments": [],
+    "word_count": 207,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/8c64b83aab1293f36e38d9e25c84acd0.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p191c8a9e3154c8d2"
+        },
+        {
+            "name": "pepca_style",
+            "value": "p8a1a48c6b5c41e47"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pc38fdd1805b4b784"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "bonprix",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "bonprix",
+                "confidence": 103667326.609986
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "bonprix",
+                "confidence": 2
+            }
+        ],
+        "domain_keywords": "bonprix",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "sk",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Obnovenie hesla",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "p8a1a48c6b5c41e47",
+    "pepca_inline_style": "pc38fdd1805b4b784",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

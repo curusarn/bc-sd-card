@@ -1,0 +1,108 @@
+{
+    "phashes": [
+        {
+            "value": "p852e2a4b611d6926",
+            "name": "pepca"
+        },
+        {
+            "value": "p6d51cd054987ba79",
+            "name": "pepca_style"
+        },
+        {
+            "value": "p37a99060f9527a89",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "info@answear.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/2af9e41e493c97235b3f24d62f844a0c.eml",
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "pepca": "p852e2a4b611d6926",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "p6d51cd054987ba79",
+    "last10words": " webovych strankach S pozdravem tym Answear cz Tato zprava byla odeslana automaticky pres internetovy obchod answear cz ",
+    "subject": "Potvrzeni o zmene hesla pro uzivatele Marie Rozsypalkova",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 1,
+                "domain": "answear"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 44892026.543608,
+                "domain": "answear"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "answear",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "answear",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "answear",
+        "plain_domain_detail": [
+            {
+                "confidence": 3,
+                "domain": "answear"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p37a99060f9527a89",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Answear Potvrzeni o zmene hesla pro uzivatele Marie Rozsypalkova Vitejte Marie Rozsypalkova Dne 31 10 2014 ",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 122,
+    "adscore": 0,
+    "spamscore": 1.1
+}

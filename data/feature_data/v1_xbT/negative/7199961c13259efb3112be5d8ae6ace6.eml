@@ -1,0 +1,92 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pa0fc1d4bb29ed777",
+    "last10words": "uvedeny v tomto emailu Pokud nechcete vygenerovat nove heslo tento email ignorujte http www slevynamiru cz cs zakaznik ticket qkHhrSF2sgSpx1W",
+    "pepca_style_total": 0,
+    "header_from": "webinfo@slevynamiru.cz",
+    "first10words": " Dobry den obdrzeli jsme od Vas zadost o vygenerovani noveho hesla k uctu jachiml seznam cz Pokud chcete vygenerovat nove heslo klikne",
+    "attachments": [],
+    "word_count": 34,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/7199961c13259efb3112be5d8ae6ace6.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pa0fc1d4bb29ed777"
+        }
+    ],
+    "spamscore": 1.6,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "skype",
+                "confidence": 4276998.86726
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "skype",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Zadost o nove heslo SlevyNaMiru cz 30 10 14 20 55",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id",
+                "long_subject"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1,
+                0.5
+            ],
+            "score": 1.6,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

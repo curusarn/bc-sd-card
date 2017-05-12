@@ -1,0 +1,112 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "module": "ill",
+            "score": 1.1
+        }
+    ],
+    "pepca": "pb886217e978e34a4",
+    "first10words": " Zprava z bukanyr eu Dobry den p Sadilkova Detaily objednavky Objednavka 026761 vytvorena 2014",
+    "pepca_style": "",
+    "pepca_inline_style": "peb1454529abbca44",
+    "word_count": 147,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": " bukanyr eu Objednavka prijata",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.1,
+    "phishing": {},
+    "header_from": "obchod@bukanyr.eu",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/7abbd7bc280302452b92f1b6d4ca47bf.eml",
+    "attachments": [
+        {
+            "size": 43597,
+            "mime_type": "image/jpeg",
+            "flags": 0,
+            "pepca": "pa42eb7bb4839414b",
+            "cid": "swift-1418640530548ebc92cf216.2@bukanyr.eu",
+            "cte": "BASE64",
+            "sumphash": "557198e7f8fa6596b58d174d62a36846",
+            "name": "logo_mail.jpg"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "pa42eb7bb4839414b"
+        },
+        {
+            "name": "pepca",
+            "value": "pb886217e978e34a4"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "peb1454529abbca44"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 2,
+                "domain": "bukanyr"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "masterinter",
+        "plain_domain": "bukanyr",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 25491228.990176,
+                "domain": "masterinter"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": " 1 1 649 Kc Zbozi 1 649 Kc Slevy 0 Kc Darkove baleni 0 Kc Postovne 0 Kc Cena celkem 1 649 Kc ",
+    "lang": "cs"
+}

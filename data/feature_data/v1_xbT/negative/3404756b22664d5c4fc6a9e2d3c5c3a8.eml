@@ -1,0 +1,102 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pb85a81a33b7025cb",
+    "last10words": " 73601 Mesto Havirov Zeme Czech Republic Telefon 608893729 E mail Daja1mik seznam cz Souhlasim s obchodnimi podminkami 1 ",
+    "pepca_style_total": 0,
+    "header_from": "info@stenmarketing.cz",
+    "first10words": " Vitejte Daja1mik seznam cz Vase udaje Prihlasovaci jmeno Daja1mik seznam cz Zobrazovane jmeno Daja1mik seznam cz ",
+    "attachments": [],
+    "word_count": 53,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/3404756b22664d5c4fc6a9e2d3c5c3a8.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pb85a81a33b7025cb"
+        },
+        {
+            "name": "pepca_style",
+            "value": "p63ebcd693453ff86"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pbef87195b0ca6768"
+        }
+    ],
+    "spamscore": 1.6,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "flirtlide",
+                "confidence": 5208483.764711
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "flirtlide",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Vase registrace Daja1mik seznam cz na vse na stolni tenis cz",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": true,
+        "5_top_domains_id_0": 0,
+        "5_top_domains_percent_0": 1.0
+    },
+    "pepca_style": "p63ebcd693453ff86",
+    "pepca_inline_style": "pbef87195b0ca6768",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id",
+                "long_subject"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1,
+                0.5
+            ],
+            "score": 1.6,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

@@ -1,0 +1,112 @@
+{
+    "phashes": [
+        {
+            "value": "pf407ad47e6efa43b",
+            "name": "pepca"
+        },
+        {
+            "value": "pcfe600315c3a575a",
+            "name": "pepca_style"
+        },
+        {
+            "value": "pc43692bd27aac727",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "no-reply@mail.instagram.com",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/a9ea547b49aa5775455f282e9fe19830.eml",
+    "unsub_link_candidates": [
+        "https://instagram.com/accounts/remove/report_wrong_email/jh2d90/3w9-d6433fe39d82ec5c79b7/4SGqvhC9/bWlsYW4uc2xhbnlAZ21haWwuY29t/"
+    ],
+    "attachments": [],
+    "contains_list_header": true,
+    "last10words": " hesla Dejte nam vedet Pokud toto neni vas ucet muzete odebereme z nej vas e mail ",
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "pcfe600315c3a575a",
+    "pepca": "pf407ad47e6efa43b",
+    "subject": "Obnovit heslo",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 1.02856363814912,
+                "domain": "facebookmail"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 8553997.73452,
+                "domain": "skype"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "facebookmail",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "skype",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "pc43692bd27aac727",
+    "unsub_link_texts": [
+        "pokud toto nebyt vas ucet moct odebrat z on vas e mail "
+    ],
+    "list_unsubscribe_urls": [
+        "https://www.facebook.com/o.php?k=AS2HvUinveZRWtfM&e=milan.slany%40gmail.com&mid=HMTgwMDQ5MDc4Om1pbGFuLnNsYW55QGdtYWlsLmNvbTo1ODQ"
+    ],
+    "unsub_link": "https://instagram.com/accounts/remove/report_wrong_email/jh2d90/3w9-d6433fe39d82ec5c79b7/4SGqvhC9/bWlsYW4uc2xhbnlAZ21haWwuY29t/",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Facebook Mily uzivateli milanslany Obdrzeli jsme zadost o obnoveni vaseho hesla na Instagramu Obnovit heslo Pokud tuto zpr",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 219,
+    "adscore": 0,
+    "spamscore": 1
+}

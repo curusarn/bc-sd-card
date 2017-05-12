@@ -1,0 +1,102 @@
+{
+    "phashes": [
+        {
+            "value": "p26ad61bb778009af",
+            "name": "pepca"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "clienthsbc@hsbc.co.uk",
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing2/1018.eml",
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "evil_script",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.1,
+                0.0,
+                0.1
+            ],
+            "score": 1.2
+        }
+    ],
+    "pepca": "p26ad61bb778009af",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": " the checklist items your case will be reviewed by one of our Account Specialists We will send you an email with the outcome of the review ",
+    "subject": "Your account access has been limited",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 1,
+                "domain": "paypal"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 114522942.624846,
+                "domain": "paypal"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "paypal",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "paypal",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "securytihsbcuser",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "securytihsbcuser"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " HSBC Bank Limited Account Access Details A A HSBC Bank is constantly working to e",
+    "lang": "en",
+    "pepcatotal": 0,
+    "word_count": 245,
+    "adscore": 0,
+    "spamscore": 1.2
+}

@@ -1,0 +1,119 @@
+{
+    "phashes": [
+        {
+            "value": "p39c613e742caaa2a",
+            "name": "pepca"
+        },
+        {
+            "value": "p6166473632a4b1b4",
+            "name": "pepca_style"
+        },
+        {
+            "value": "pd66df3cf2e81d3fc",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "info@extrh.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/2afc3ae6273ba91de70b252c809879c7.eml",
+    "unsub_link_candidates": [
+        "http://www.extrh.cz/?email_id=45&user_id=34376&urlpassed=W3Vuc3Vic2NyaWJlX2xpbmtd&controller=stats&hash=109c6ff4fa1afca364f924d36ccfb882&action=analyse&wysija-page=1&wysijap=subscriptions"
+    ],
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "pepca": "p39c613e742caaa2a",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "p6166473632a4b1b4",
+    "last10words": "odni sdeleni pro registrovane uzivatele Extrh cz Kdykoliv se muzete odhlasit Odhlasit odber Extrh cz ",
+    "subject": "Dekujeme za registraci na Extrhu",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 4,
+                "domain": "extrh"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 20680869.00663,
+                "domain": "svethostingu-tmp"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "extrh",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "svethostingu-tmp",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "rextrh",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "rextrh"
+            },
+            {
+                "confidence": 2,
+                "domain": "extrh"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "pd66df3cf2e81d3fc",
+    "unsub_link_texts": [
+        " odhlasit odber extrh"
+    ],
+    "unsub_link": "http://www.extrh.cz/?email_id=45&user_id=34376&urlpassed=W3Vuc3Vic2NyaWJlX2xpbmtd&controller=stats&hash=109c6ff4fa1afca364f924d36ccfb882&action=analyse&wysija-page=1&wysijap=subscriptions",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Dekujeme za registraci na Extrhu Nezobrazuje se vam e mail korektne Otevrete si ho v prohlizeci Dekujeme",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 283,
+    "adscore": 0,
+    "spamscore": 1.1
+}

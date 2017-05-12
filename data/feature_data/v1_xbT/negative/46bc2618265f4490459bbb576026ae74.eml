@@ -1,0 +1,106 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pd25cd5eca96f3ca7",
+    "last10words": "uzby typu PROD c 4500672050 od dodavatele INEKO BM spol s r o vytvorena dne 15 12 2014 na systemu PRO 400 uzivatelem Renata Vlckova ",
+    "pepca_style_total": 0,
+    "header_from": "neodpovidejte@ceskatelevize.cz",
+    "first10words": " V prilozenem PDF souboru PROD 4500672050 INEKO BM SPOL S RO PDF je objednavka sluzby typu PROD c 4500672050 od dodavatele INEKO BM spol ",
+    "attachments": [
+        {
+            "mime_type": "application/pdf",
+            "name": "PROD_4500672050_INEKO_BM_SPOL_S_RO.PDF",
+            "first10words": "Objednavame u vas ubytovani pro stab CT noci Ze na",
+            "pepca": "pf63f20e62cd032a4",
+            "lang": "cs",
+            "cte": "BASE64",
+            "size": 489941,
+            "flags": 0,
+            "sumphash": "70fdf955623b7360e9c578d76c0f12c6"
+        }
+    ],
+    "word_count": 37,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/46bc2618265f4490459bbb576026ae74.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "pf63f20e62cd032a4"
+        },
+        {
+            "name": "pepca",
+            "value": "pd25cd5eca96f3ca7"
+        }
+    ],
+    "spamscore": 2,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "zlatestranky",
+                "confidence": 6009405.17743
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "zlatestranky",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "PDF objednavka c 4500672050 typ PROD",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "missing_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                1
+            ],
+            "score": 2,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

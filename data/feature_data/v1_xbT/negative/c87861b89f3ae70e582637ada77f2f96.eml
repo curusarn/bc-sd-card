@@ -1,0 +1,94 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pb5865bad775646d0",
+    "last10words": " Dekujeme ze pouzivate nase sluzby Vas Skylink Skylink je obchodni znacka pouzivana pod licenci M7 Group S A ",
+    "pepca_style_total": 2,
+    "header_from": "noreply@skylink.cz",
+    "first10words": " Skylink Obnoveni hesla pro vstup do Zakaznicke zony Vazeny uzivateli sluzeb Skylink tento e mail vam byl zaslan na",
+    "attachments": [],
+    "word_count": 70,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/c87861b89f3ae70e582637ada77f2f96.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pb5865bad775646d0"
+        },
+        {
+            "name": "pepca_style",
+            "value": "p66d8c695f7accb04"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "skylink",
+                "confidence": 96221525.763
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "skylink",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Skylink Obnoveni hesla pro vstup do Zakaznicke zony",
+    "adscore": 0,
+    "pepcatotal": 2,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "p66d8c695f7accb04",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

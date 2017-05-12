@@ -1,0 +1,114 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p44c3ed31873cb866",
+    "last10words": " nejpozdeji 28 1 2015 Presne podminky akce zde Odesila Naspers OCS Czech Republic s r o ",
+    "pepca_style_total": 0,
+    "header_from": "nakup@heureka.cz",
+    "first10words": " Objednavka c 8106373681 Dobry den Lucie dekujeme Vam ze nakupujete na Heurece Nize najdete shrnuti Vas",
+    "attachments": [],
+    "word_count": 401,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/4c7d93f644f761e37f456d9112a92853.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p44c3ed31873cb866"
+        },
+        {
+            "name": "pepca_style",
+            "value": "p437cdc9d578a2f35"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p139e9a0f170004f9"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "heureka",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "czc",
+                "confidence": 59809070.072876
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "heureka",
+                "confidence": 7
+            }
+        ],
+        "domain_keywords": "czc",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "czc",
+        "plain_domain_detail": [
+            {
+                "domain": "czc",
+                "confidence": 1
+            },
+            {
+                "domain": "heureka",
+                "confidence": 2
+            },
+            {
+                "domain": "itesco",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Heureka cz Objednavka c 8106373681",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "p437cdc9d578a2f35",
+    "pepca_inline_style": "p139e9a0f170004f9",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

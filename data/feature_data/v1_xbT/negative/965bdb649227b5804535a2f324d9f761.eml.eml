@@ -1,0 +1,119 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pc022689a9f64bcba",
+    "last10words": " Text v tele zpravy ",
+    "pepca_style_total": 0,
+    "header_from": "Jana.Behalkova@ceroz.com",
+    "first10words": " Text v tele zpravy ",
+    "attachments": [
+        {
+            "mime_type": "application/pdf",
+            "name": "2101447121-MICHALIK-Objednavka.PDF",
+            "first10words": "Strana Objednavka prepravy Celk pocet stran Objednavka prepravy CEROZFRUCHT s",
+            "pepca": "pfdb605f56a94c46c",
+            "lang": "cs",
+            "cte": "BASE64",
+            "size": 21420,
+            "flags": 0,
+            "sumphash": "5c28023fb63686982095b9b67489c0cf"
+        },
+        {
+            "mime_type": "application/pdf",
+            "name": "Priloha_C.pdf",
+            "first10words": "Priloha k objednavce Firma CEROZFRUCHT s r o Na vysluni",
+            "pepca": "pba6da17905f92ead",
+            "lang": "cs",
+            "cte": "BASE64",
+            "size": 84459,
+            "flags": 0,
+            "sumphash": "e074b6fc7f07f2e045c4e4b087858e8c"
+        }
+    ],
+    "word_count": 17,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/965bdb649227b5804535a2f324d9f761.eml.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "pfdb605f56a94c46c"
+        },
+        {
+            "name": "att-pepca",
+            "value": "pba6da17905f92ead"
+        },
+        {
+            "name": "pepca",
+            "value": "pc022689a9f64bcba"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "teletrade-dj",
+                "confidence": 26185.5602101
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "teletrade-dj",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "un",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Objednavka prepravy 2101447121 MICHALIK Objednavka",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

@@ -1,0 +1,112 @@
+{
+    "phashes": [
+        {
+            "value": "p00b8e535a55f61f7",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p1daf2b2804cd9fff",
+            "name": "pepca"
+        },
+        {
+            "value": "p4eccb994fcdfb60c",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "Katrin.BenMohamedCerna@irco.com",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/3223bb645f331229753310deb1051f53.eml",
+    "attachments": [
+        {
+            "size": 2187,
+            "name": "image001.jpg",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "image001.jpg@01D0185D.2DDEB6A0",
+            "sumphash": "136f7a96b7efdf8c178cc786346fbe90",
+            "pepca": "p00b8e535a55f61f7",
+            "mime_type": "image/jpeg"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "pepca": "p1daf2b2804cd9fff",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": "is prohibited If you have received this message in error please immediately notify the sender and delete the original message and attachments ",
+    "subject": "faktura za obdobi 8 12 14 12 14",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 114565814.992,
+                "domain": "clamav"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "clamav",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "thermoking",
+        "plain_domain_detail": [
+            {
+                "confidence": 2,
+                "domain": "thermoking"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p4eccb994fcdfb60c",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Dobry den pane Dvoraku A Prosim Vas na zaklade nasi domluvy o castku kterou budete fakturovat za jizdy v minu",
+    "lang": "en",
+    "pepcatotal": 0,
+    "word_count": 261,
+    "adscore": 0,
+    "spamscore": 1
+}

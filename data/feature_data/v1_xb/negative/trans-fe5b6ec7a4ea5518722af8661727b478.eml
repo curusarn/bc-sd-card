@@ -1,0 +1,97 @@
+{
+    "phashes": [
+        {
+            "value": "pfd799bbd9a077fb6",
+            "name": "pepca"
+        },
+        {
+            "value": "p44c8a7c137af12c0",
+            "name": "pepca_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "objednavky@vibratory-online.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/trans-fe5b6ec7a4ea5518722af8661727b478.eml",
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "pepca": "pfd799bbd9a077fb6",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "p44c8a7c137af12c0",
+    "last10words": "maticky generovan po odeslani objednavky Prosime neodpovidejte na nej Pro informace pouzijte kontaktni e mail uvedeny na webu ",
+    "subject": "Rekapitulace objednavky 1842015 ",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 61912915.06169,
+                "domain": "booking"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "booking",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "vibratory-online",
+        "plain_domain_detail": [
+            {
+                "confidence": 3,
+                "domain": "vibratory-online"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Vase objednavka Vazeny zakazniku dekujeme za Vas nakup v internetovem obchode Vibratory online cz Vase obj",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 411,
+    "adscore": 0,
+    "spamscore": 1
+}

@@ -1,0 +1,93 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "missing_message_id"
+            ],
+            "module": "ill",
+            "score": 2
+        }
+    ],
+    "pepca": "p5d5b034f3640fb80",
+    "first10words": " Vazeny zakazniku na zaklade pozadavku na zaslani zapomenuteho hesla Vam nize zasilame URL adresu na ktere si muzete nastavit",
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "word_count": 120,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Zapomenute heslo eShop SETOS ",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 2,
+    "phishing": {},
+    "header_from": "info@setos.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/bdc210024e570a9c46084ac7cf040af8.eml",
+    "attachments": [],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p5d5b034f3640fb80"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "e-mailem"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "setos",
+        "plain_domain": "e-mailem",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 11500448.115928,
+                "domain": "setos"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "21 633 nebo e mailem cz na vopraha setos cz Velkoobchod Brno Po Pa 9 00 18 00 na tel c 420 547 423 180 nebo e mailem cz na vobrno setos cz ",
+    "lang": "cs"
+}

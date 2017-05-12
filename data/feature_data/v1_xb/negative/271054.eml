@@ -1,0 +1,111 @@
+{
+    "phashes": [
+        {
+            "value": "pa820af54410f6a63",
+            "name": "pepca"
+        },
+        {
+            "value": "pa12b5c372ebec5ce",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "activation2@datingportal.datingfactory.com",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/271054.eml",
+    "unsub_link_candidates": [
+        "http://www.lidesex.cz/support/unsubscribe/0046023972002rrl813a3f391727135eee31f65f6eaff454/1349608471.46023972.26237476.159?linkId=2"
+    ],
+    "attachments": [],
+    "contains_list_header": true,
+    "last10words": "o email muze obsahovat inzerci Dating Factory s r o 3 patro 207 Regent Street Londyn W1B 3HH Velka Britanie ",
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca": "pa820af54410f6a63",
+    "subject": "Od ted Aktivuj svuj ucet na lidesex cz",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 189565311.849065,
+                "domain": "datingfactory"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "datingfactory",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "lidesex",
+        "plain_domain_detail": [
+            {
+                "confidence": 2,
+                "domain": "lidesex"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "pa12b5c372ebec5ce",
+    "unsub_link_texts": [
+        "pokud byt si nezalozit tento ucet odhlasit se zde "
+    ],
+    "list_unsubscribe_urls": [
+        "mailto:unsubscribe+1349608471.46023972.26237476.159@datingportal.datingfactory.com",
+        "http://www.lidesex.cz/support/unsubscribe/0046023972002rrl813a3f391727135eee31f65f6eaff454/1349608471.46023972.26237476.159?linkId=77"
+    ],
+    "unsub_link": "http://www.lidesex.cz/support/unsubscribe/0046023972002rrl813a3f391727135eee31f65f6eaff454/1349608471.46023972.26237476.159?linkId=2",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Od ted Aktivuj svuj ucet na lidesex cz Chcete li mit vsechny zpravy dorucene do Vasi e mailove schranky pridejt",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 253,
+    "adscore": 0,
+    "spamscore": 1.1
+}

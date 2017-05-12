@@ -1,0 +1,111 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.1,
+                0.0,
+                1
+            ],
+            "name": [
+                "date_in_past",
+                "evil_script",
+                "from_missmatch",
+                "missing_message_id"
+            ],
+            "module": "ill",
+            "score": 2.1
+        }
+    ],
+    "pepca": "p0431ad0f022b9dc8",
+    "first10words": " Dekujeme Vam za dnesni nakup v internetovem obchode VESNA Detail objednavky naleznete v priloze e mailu Prevo",
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "unsub_link": "http://www.ivesna.cz/plan-rozvozu-na-prodejny/t-147/",
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Objednavka c 31028323",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 2.1,
+    "word_count": 74,
+    "phishing": {},
+    "header_from": "obchod@vesna.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/9e03d1895b82bf380896fa42b2bfc2d4.eml",
+    "attachments": [
+        {
+            "size": 18484,
+            "mime_type": "text/html",
+            "flags": 0,
+            "pepca": "p6c434426cad1d9bc",
+            "cte": "BASE64",
+            "sumphash": "ed3902bfcc0fde0c7d190208ac7db89a",
+            "name": "objednavka_31028323.html"
+        }
+    ],
+    "adscore": 0,
+    "unsub_link_texts": [
+        "osobni odber objednavka odesilat na prodejna dle rozvozovy plan "
+    ],
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p6c434426cad1d9bc"
+        },
+        {
+            "name": "pepca",
+            "value": "p0431ad0f022b9dc8"
+        }
+    ],
+    "unsub_link_candidates": [
+        "http://www.ivesna.cz/plan-rozvozu-na-prodejny/t-147/"
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "masterinter",
+        "plain_domain": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 25491228.990176,
+                "domain": "masterinter"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": " na prodejny dle rozvozoveho planu O odeslani objednavky Vas budeme informovat e mailem E shop powered by ShopCentrik",
+    "lang": "cs"
+}

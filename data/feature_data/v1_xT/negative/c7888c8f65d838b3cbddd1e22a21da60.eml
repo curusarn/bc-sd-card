@@ -1,0 +1,124 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "module": "ill",
+            "score": 1
+        }
+    ],
+    "pepca": "p0f4c3d9ea28bd427",
+    "first10words": " Dobry den dle Vasi dohody sA p Loudou Vam vA priloze zasilam objednavku na material a prace dodavane na stavbu aKost",
+    "pepca_style": "",
+    "pepca_inline_style": "p657ea0bcd3aa9dcd",
+    "word_count": 185,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Kostalov objednavka na elektromontazni prace ELEKTROS",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1,
+    "phishing": {},
+    "header_from": "Koskova@syner.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/c7888c8f65d838b3cbddd1e22a21da60.eml",
+    "attachments": [
+        {
+            "size": 798099,
+            "mime_type": "application/pdf",
+            "flags": 0,
+            "pepca": "pd94cbb78b486d1e4",
+            "cte": "BASE64",
+            "sumphash": "43c71010a5df6a7d53412ec6c8c9673e",
+            "name": "KLK 41_2014_Objedn\u00e1vka Ko\u0161\u0165\u00e1lov - Elektros.pdf",
+            "lang": "un"
+        },
+        {
+            "size": 2821293,
+            "mime_type": "application/pdf",
+            "flags": 0,
+            "pepca": "pdb2306ae9825f763",
+            "cte": "BASE64",
+            "sumphash": "0b2c71d29a8fe94a37dd89562a4eb8d3",
+            "name": "P\u0159\u00edloha \u010d. 2 - Podm\u00ednky BOZP.pdf",
+            "lang": "un"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "pd94cbb78b486d1e4"
+        },
+        {
+            "name": "att-pepca",
+            "value": "pdb2306ae9825f763"
+        },
+        {
+            "name": "pepca",
+            "value": "p0f4c3d9ea28bd427"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p657ea0bcd3aa9dcd"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "eset"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "eset",
+        "plain_domain": "eset",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 29603362.287426,
+                "domain": "eset"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "ce od ESET Endpoint Antivirus verze databaze 10878 20141215 Tuto zpravu proveril ESET Endpoint Antivirus http www eset cz ",
+    "lang": "cs"
+}

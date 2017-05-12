@@ -1,0 +1,117 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "module": "ill",
+            "score": 1
+        }
+    ],
+    "pepca": "p188db857c35a6431",
+    "first10words": " Obchudecek Cenik zbozi 18 let na trhu IT A A A 13 let e shop Prodejna VV brothers s r o Jecminkova 10 7",
+    "pepca_style": "",
+    "pepca_inline_style": "p60abb5175a647137",
+    "unsub_link": "http://www.obchudecek.cz/formular.php?akce=login&hsid=594b966b85f78bd413e4fda7b69496c8&os=2",
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Objednavka prijeti",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1,
+    "word_count": 417,
+    "phishing": {},
+    "header_from": "obchod@obchudecek.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/b6be5416df7cba89cb843aae55d8224d.eml",
+    "attachments": [
+        {
+            "size": 16442,
+            "mime_type": "image/png",
+            "flags": 0,
+            "pepca": "p0b1ccefbeef84559",
+            "cid": "obchudecek_logo",
+            "cte": "BASE64",
+            "sumphash": "12ebc22730724d452e1a840b06b1bc84",
+            "name": "hlavicka_mail.png"
+        }
+    ],
+    "adscore": 0,
+    "unsub_link_texts": [
+        " opravit udaj o odberatel odberatel"
+    ],
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p0b1ccefbeef84559"
+        },
+        {
+            "name": "pepca",
+            "value": "p188db857c35a6431"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p60abb5175a647137"
+        }
+    ],
+    "unsub_link_candidates": [
+        "http://www.obchudecek.cz/formular.php?akce=login&hsid=594b966b85f78bd413e4fda7b69496c8&os=2"
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "obchudecek"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "masterinter",
+        "plain_domain": "obchudecek",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 63728072.47544,
+                "domain": "masterinter"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "i s delsi zarukou nez 24mes se vzdy resi v souladu s platnym reklamacnim radem viz Vseobecne reklamacni podminky ",
+    "lang": "cs"
+}

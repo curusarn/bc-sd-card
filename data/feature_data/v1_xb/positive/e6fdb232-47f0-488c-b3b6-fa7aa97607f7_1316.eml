@@ -1,0 +1,105 @@
+{
+    "phashes": [
+        {
+            "value": "p1e191a987330b449",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p31fd1fdf9eeda573",
+            "name": "pepca"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "onlinesupport_id-8853560723.cust@53.com",
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing2/1316.eml",
+    "attachments": [
+        {
+            "size": 7646,
+            "name": "259LNJ1.PNG",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "006901c6b60f$6ad8de00$6c822ecf@PSIMHC3",
+            "sumphash": "606b3e9a8bd0d87d206e7a8be5e16a7e",
+            "pepca": "p1e191a987330b449",
+            "mime_type": "image/png"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "long_subject"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.5
+            ],
+            "score": 1.5
+        }
+    ],
+    "pepca": "p31fd1fdf9eeda573",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": "van hoop paw clam tip bate slue hash meg do user cove mewl till core bat tyke held bay than zoom ford hart dub flay tip zing rap bur nun hat ",
+    "subject": "Fifth Third Bank Official Information Wed 2 Aug 2006 08 41 16 0420 ",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 16092142.2513589,
+                "domain": "ebay"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "ebay",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " are wept lure sue vet feds save bananas bode port laze bag hake Jove out Celt type corn dung din flat cork bail sofa edgy leer g",
+    "lang": "un",
+    "pepcatotal": 0,
+    "word_count": 440,
+    "adscore": 0,
+    "spamscore": 1.5
+}

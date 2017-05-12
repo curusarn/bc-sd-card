@@ -1,0 +1,103 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p3d725ef912519f95",
+    "last10words": "vedeno 2014 LinkedIn Ireland Gardner House Wilton Plaza Wilton Place Dublin 2 Irsko ",
+    "pepca_style_total": 0,
+    "header_from": "security-noreply@linkedin.com",
+    "first10words": " Obnovili jste sve heslo na LinkedIn ",
+    "attachments": [],
+    "word_count": 627,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/c30076512ec4583cd79b2dafdfb5e0b2.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p3d725ef912519f95"
+        },
+        {
+            "name": "pepca_style",
+            "value": "pbfaa3185e8005434"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pfdbd86694978fd0d"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "linkedin",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "linkedin",
+                "confidence": 32444415.7354904
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "linkedin",
+                "confidence": 2
+            }
+        ],
+        "domain_keywords": "linkedin",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Danieli vase heslo bylo uspesne obnoveno ",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "pbfaa3185e8005434",
+    "pepca_inline_style": "pfdbd86694978fd0d",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

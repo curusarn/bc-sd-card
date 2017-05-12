@@ -1,0 +1,115 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p079ca602c968c862",
+    "last10words": " Generovano systemem FastCentrik ",
+    "pepca_style_total": 0,
+    "header_from": "info@nabytek-catrin.cz",
+    "first10words": " Dekujeme Vam za objednavku v internetovem obchode www nabytek catrin cz Objednavka bude vyrizena nejpozdeji nasledujici praco",
+    "attachments": [
+        {
+            "name": "objednavka.html",
+            "pepca": "p17bb85aefdd89521",
+            "cte": "BASE64",
+            "mime_type": "text/html",
+            "size": 9851,
+            "flags": 0,
+            "sumphash": "d2277700d4311a768a60c8aed45f1dc5"
+        }
+    ],
+    "word_count": 97,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/trans-ad5c773b169f804f32830cf5d5970f92.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p17bb85aefdd89521"
+        },
+        {
+            "name": "pepca",
+            "value": "p079ca602c968c862"
+        }
+    ],
+    "spamscore": 2,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "masterinter",
+                "confidence": 12745614.495088
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "masterinter",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "nabytek-catrin",
+        "plain_domain_detail": [
+            {
+                "domain": "nabytek-catrin",
+                "confidence": 3
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Objednavka",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": true,
+        "5_top_domains_id_2": 2,
+        "5_top_domains_id_1": 1,
+        "5_top_domains_percent_1": 0.3333333333333333,
+        "5_top_domains_percent_2": 0.3333333333333333,
+        "5_top_domains_id_0": 0,
+        "5_top_domains_percent_0": 0.3333333333333333
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "missing_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                1
+            ],
+            "score": 2,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

@@ -1,0 +1,119 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "module": "ill",
+            "score": 1
+        }
+    ],
+    "pepca": "p5602924806cbf7c3",
+    "first10words": " POZOR doklady zasielajte vyhradne na nasu postovu adresu PALMER s r o Hlavna 30 900 31 Stupava Slovensko ATTENTION PLEASE NOTE invo",
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "word_count": 86,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Objednavka Dopravcovi 1214 2 161",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1,
+    "phishing": {},
+    "header_from": "Vlastimil.Kubanek@palmer.sk",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/6a8e23e3025aceef941f4a6716d99c4f.eml",
+    "attachments": [
+        {
+            "size": 62458,
+            "mime_type": "application/pdf",
+            "flags": 0,
+            "pepca": "p69f22dc719d8ca98",
+            "cte": "BASE64",
+            "sumphash": "d762a4537a5bd2f99c6f093dd76a004d",
+            "name": "Objedn\u00e1vka - Dopravcovi - 1214-2-161.PDF",
+            "lang": "un"
+        },
+        {
+            "size": 3226,
+            "mime_type": "application/xml",
+            "flags": 0,
+            "pepca": "pf8e75c30959a66e1",
+            "cte": "BASE64",
+            "sumphash": "79068561a74e406953c4bbf33af3516a",
+            "name": "1214-2-161.XML"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p69f22dc719d8ca98"
+        },
+        {
+            "name": "att-pepca",
+            "value": "pf8e75c30959a66e1"
+        },
+        {
+            "name": "pepca",
+            "value": "p5602924806cbf7c3"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "palmer"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "zlavydnes",
+        "plain_domain": "palmer",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 22040626.24272,
+                "domain": "zlavydnes"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "UJE o 30 DNI PALMER s r o Tel 421 2 33014006 9 Fax 421 2 20910805 Web www palmer sk",
+    "lang": "sk"
+}

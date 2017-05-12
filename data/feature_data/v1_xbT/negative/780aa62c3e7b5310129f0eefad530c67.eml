@@ -1,0 +1,104 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p231674e794e21aa6",
+    "last10words": "m hezkeho dne BerSlevu tym podpora berslevu cz Tel 774 728 578 RABATOR s r o Berslevu cz K Cikance 610 154 00 Praha 5 ",
+    "pepca_style_total": 0,
+    "header_from": "podpora@berslevu.cz",
+    "first10words": " Zadost o zaslani zapomenuteho hesla Dobry den Zazadali jste o zaslani zapomenuteho hesla pokud jste si to",
+    "attachments": [],
+    "word_count": 119,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/780aa62c3e7b5310129f0eefad530c67.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p231674e794e21aa6"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p7f98832f9f381400"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "tryping",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "zendesk",
+                "confidence": 55586203.7401597
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "tryping",
+                "confidence": 1
+            }
+        ],
+        "domain_keywords": "zendesk",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "berslevu",
+        "plain_domain_detail": [
+            {
+                "domain": "berslevu",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Zadost o zaslani zapomenuteho hesla",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "p7f98832f9f381400",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

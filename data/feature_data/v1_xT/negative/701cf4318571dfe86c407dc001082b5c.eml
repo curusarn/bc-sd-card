@@ -1,0 +1,111 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "module": "ill",
+            "score": 1
+        }
+    ],
+    "pepca": "p5d6ade5c19895a11",
+    "first10words": " Zdravim A posilam objednavku A S pozdravem A i A Alfons Pe",
+    "pepca_style": "",
+    "pepca_inline_style": "p791f758c72bad8f0",
+    "word_count": 360,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Objednavka nakladky 17 12 2014 Pilnikov DE 37077 Gottingen",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1,
+    "phishing": {},
+    "header_from": "Alfons_Perner@ids-logistik.de",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/701cf4318571dfe86c407dc001082b5c.eml",
+    "attachments": [
+        {
+            "size": 25361,
+            "mime_type": "application/pdf",
+            "flags": 0,
+            "pepca": "pa4dd74bf0daca206",
+            "first10words": "IDS Ladeauftrag CZ Pilnikov DE Gottingen Tel Fax CZ Telefon",
+            "cte": "BASE64",
+            "sumphash": "6becfbbd84dc0ca0992560aa57126c04",
+            "name": "IDS-Ladeauftrag 17.12.2014 CZ-Pilnikov - DE-G\u00f6ttingen.pdf",
+            "lang": "de"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "pa4dd74bf0daca206"
+        },
+        {
+            "name": "pepca",
+            "value": "p5d6ade5c19895a11"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p791f758c72bad8f0"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 2,
+                "domain": "ids-logistik"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "ebay",
+        "plain_domain": "ids-logistik",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 308883971.028022,
+                "domain": "ebay"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "r an Bord und Mangel des Schiffes haftet a A Besuchen Sie unsere neue Website unter www ids logistik de ",
+    "lang": "de"
+}

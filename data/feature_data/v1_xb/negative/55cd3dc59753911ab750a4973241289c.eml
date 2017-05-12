@@ -1,0 +1,120 @@
+{
+    "phashes": [
+        {
+            "value": "pde71febd3650f1d9",
+            "name": "pepca"
+        },
+        {
+            "value": "p612550eb8aa0614a",
+            "name": "pepca_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "noreply@xssoftgames.com",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/55cd3dc59753911ab750a4973241289c.eml",
+    "attachments": [],
+    "contains_list_header": true,
+    "last10words": " Hra Uzivatelske jmeno chanove cz Herni svet 3 Dagobart andromeda5 com Herni svet 1 Dagobart ",
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "missing_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                1
+            ],
+            "score": 2
+        }
+    ],
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "p612550eb8aa0614a",
+    "pepca": "pde71febd3650f1d9",
+    "subject": "Zapomenute heslo v Chanove ",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 1,
+                "domain": "xssoftgames"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 10863155.96226,
+                "domain": "gamepark"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "xssoftgames",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "gamepark",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "andromeda5",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "andromeda5"
+            },
+            {
+                "confidence": 1,
+                "domain": "chanove"
+            },
+            {
+                "confidence": 1,
+                "domain": "span"
+            },
+            {
+                "confidence": 1,
+                "domain": "img"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "list_unsubscribe_urls": [
+        "http://xs-software.net/crm/unsubscribe.php?mail=MartinPreslicka@seznam.cz&hash=641cdefb8e24fa1610390a6edf860e70"
+    ],
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Zapomenute heslo v Chanove Pozadali jste o resetovani hesla v Chanove Pokud si uz nech",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 171,
+    "adscore": 0,
+    "spamscore": 2
+}

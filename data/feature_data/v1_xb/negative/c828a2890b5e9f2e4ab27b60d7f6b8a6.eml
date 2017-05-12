@@ -1,0 +1,115 @@
+{
+    "phashes": [
+        {
+            "value": "pd6ad483ea81ffa4c",
+            "name": "pepca"
+        },
+        {
+            "value": "pc06e9fa593cc4095",
+            "name": "pepca_style"
+        },
+        {
+            "value": "pb0ce831ca3331ef8",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "info@nejzarivejsiparty.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/c828a2890b5e9f2e4ab27b60d7f6b8a6.eml",
+    "unsub_link_candidates": [
+        "http://mandrillapp.com/track/click/30255501/www.pijsrozumem.cz?p=eyJzIjoiMGtPeVJUR3N2b09STnlmSk5WVXBMRTZhekRZIiwidiI6MSwicCI6IntcInVcIjozMDI1NTUwMSxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvd3d3LnBpanNyb3p1bWVtLmN6XFxcL1wiLFwiaWRcIjpcImQ3YWQ0OGI0MGY1MDRhM2FhYjVmMzJlZTZlYjRiMjIyXCIsXCJ1cmxfaWRzXCI6W1wiNDllYzY5ZDQ0NGJmNmM0YjI4ZjAwMDJkZDg4OTI1ZTA4ZDVhYmMzZlwiXX0ifQ"
+    ],
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "pepca": "pd6ad483ea81ffa4c",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "pc06e9fa593cc4095",
+    "last10words": "o sidlem Praha 4 Podoli Pod Klaudiankou 1174 4b 14700 na zaklade vasi registrace na strankach www nejzarivejsiparty cz ",
+    "subject": "Zapomenute heslo Nejzarivejsiparty cz",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 5,
+                "domain": "dobrydarek"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 5750342.587129,
+                "domain": "flirtlide"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "dobrydarek",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "flirtlide",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "nejzarivejsiparty",
+        "plain_domain_detail": [
+            {
+                "confidence": 3,
+                "domain": "nejzarivejsiparty"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "pb0ce831ca3331ef8",
+    "unsub_link_texts": [
+        "  toto obchodny sdeleni vy byt zaslano spolecnost remus cointreau czech republic s"
+    ],
+    "unsub_link": "http://mandrillapp.com/track/click/30255501/www.pijsrozumem.cz?p=eyJzIjoiMGtPeVJUR3N2b09STnlmSk5WVXBMRTZhekRZIiwidiI6MSwicCI6IntcInVcIjozMDI1NTUwMSxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvd3d3LnBpanNyb3p1bWVtLmN6XFxcL1wiLFwiaWRcIjpcImQ3YWQ0OGI0MGY1MDRhM2FhYjVmMzJlZTZlYjRiMjIyXCIsXCJ1cmxfaWRzXCI6W1wiNDllYzY5ZDQ0NGJmNmM0YjI4ZjAwMDJkZDg4OTI1ZTA4ZDVhYmMzZlwiXX0ifQ",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " METAXA Dobry den posilame vam nove heslo o jehoz zmenu jste pozadali na webu www nejzarivejsiparty cz ",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 157,
+    "adscore": 0,
+    "spamscore": 1.1
+}

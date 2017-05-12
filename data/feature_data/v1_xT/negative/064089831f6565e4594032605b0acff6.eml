@@ -1,0 +1,96 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "module": "ill",
+            "score": 1
+        }
+    ],
+    "pepca": "pd41a6c14bd51c62b",
+    "first10words": " Vitejte ve sluzbe Ucty Google Chcete li svuj ucet aktivovat a overit svoji e mailovou adresu kliknete prosim na nasledujici odkaz ",
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "unsub_link": "https://accounts.google.com",
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Overeni emailove adresy Googlem",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1,
+    "word_count": 143,
+    "phishing": {
+        "5_top_domains_percent_0": 1.0,
+        "5_top_domains_id_0": 0
+    },
+    "header_from": "account-verification-noreply@google.com",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/064089831f6565e4594032605b0acff6.eml",
+    "attachments": [],
+    "adscore": 0,
+    "unsub_link_texts": [
+        "provest to tak ze svuj e mailovy adresa zadat na stranka  pokud kliknuti na odkaz vyse nefungovat zkopirovat adresa url a vlozit on do novy okna"
+    ],
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pd41a6c14bd51c62b"
+        }
+    ],
+    "unsub_link_candidates": [
+        "https://accounts.google.com"
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "google",
+        "plain_domain": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 85732583.5870006,
+                "domain": "google"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "hcete li vyresit problem nebo potrebujete dalsi informace o uctu navstivte nase centrum napovedy http www google com support accounts ",
+    "lang": "cs"
+}

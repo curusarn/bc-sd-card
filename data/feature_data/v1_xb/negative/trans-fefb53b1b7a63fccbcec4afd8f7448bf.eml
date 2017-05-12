@@ -1,0 +1,102 @@
+{
+    "phashes": [
+        {
+            "value": "p307c45bff9a11652",
+            "name": "pepca"
+        },
+        {
+            "value": "p97e3be5a6739a37c",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "obchod@ticketportal.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/trans-fefb53b1b7a63fccbcec4afd8f7448bf.eml",
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "pepca": "p307c45bff9a11652",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": "an automaticky prosime neodpovidejte na nej V pripade potreby nas kontaktujte pomoci k tomu urceneho e mailu ktery naleznete ZDE ",
+    "subject": "potvrzeni objednavky vstupenek",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 1,
+                "domain": "ticketportal"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 69614202.6397458,
+                "domain": "ticketportal"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "ticketportal",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "ticketportal",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "ticketportal",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "ticketportal"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p97e3be5a6739a37c",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Potvrzeni objednavky vstupenek Vase objednavka Vseobecne podminky Vstupenku nelze vykoupit zpet ani vymenit nelze vystavit d",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 318,
+    "adscore": 0,
+    "spamscore": 1
+}

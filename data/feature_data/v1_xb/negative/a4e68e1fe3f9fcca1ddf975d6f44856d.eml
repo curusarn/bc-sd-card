@@ -1,0 +1,252 @@
+{
+    "phashes": [
+        {
+            "value": "p58bcc1d69bffbbe5",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pd6e55fddbab3ba17",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pd6e55fddbab3ba17",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p1111241958267689",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p88b348e2ad21eccc",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p262bf91836d49509",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p8f3c866de6f7afeb",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p0bfee79462bc7dcd",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p2f029d50e0b9dcdf",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p8f3c866de6f7afeb",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pa10dac19af3b6312",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p5f939b23f031ae2e",
+            "name": "pepca"
+        },
+        {
+            "value": "p862461ce906f56f5",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "info@spravcefinanci.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/a4e68e1fe3f9fcca1ddf975d6f44856d.eml",
+    "attachments": [
+        {
+            "size": 1739,
+            "name": "01.jpg",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "01.jpg",
+            "sumphash": "a73587ad65191f724caa019ba5a5fb46",
+            "pepca": "p58bcc1d69bffbbe5",
+            "mime_type": "image/jpeg"
+        },
+        {
+            "size": 1321,
+            "name": "02.jpg",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "02.jpg",
+            "sumphash": "6e32801cb1e3e90fd44c6b8c0e10343f",
+            "pepca": "pd6e55fddbab3ba17",
+            "mime_type": "image/jpeg"
+        },
+        {
+            "size": 1321,
+            "name": "03.jpg",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "03.jpg",
+            "sumphash": "070d27205965c4aba6e467d65edc3a36",
+            "pepca": "pd6e55fddbab3ba17",
+            "mime_type": "image/jpeg"
+        },
+        {
+            "size": 6755,
+            "name": "04.jpg",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "04.jpg",
+            "sumphash": "85ffaa0a2edcaf9f23afdc2e43068e56",
+            "pepca": "p1111241958267689",
+            "mime_type": "image/jpeg"
+        },
+        {
+            "size": 1218,
+            "name": "05.jpg",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "05.jpg",
+            "sumphash": "bba439538a19f7374faf06c5b2bea094",
+            "pepca": "p88b348e2ad21eccc",
+            "mime_type": "image/jpeg"
+        },
+        {
+            "size": 1747,
+            "name": "06_ok.jpg",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "06_ok.jpg",
+            "sumphash": "b06ce6baafd393da61d9cb3a7d3a727d",
+            "pepca": "p262bf91836d49509",
+            "mime_type": "image/jpeg"
+        },
+        {
+            "size": 1963,
+            "name": "08.jpg",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "08.jpg",
+            "sumphash": "f58964fec74b5b7e9c385d71bb8f3b72",
+            "pepca": "p8f3c866de6f7afeb",
+            "mime_type": "image/jpeg"
+        },
+        {
+            "size": 1204,
+            "name": "09.jpg",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "09.jpg",
+            "sumphash": "db8bfe4b7344e9ac638e68373188a978",
+            "pepca": "p0bfee79462bc7dcd",
+            "mime_type": "image/jpeg"
+        },
+        {
+            "size": 1200,
+            "name": "10.jpg",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "10.jpg",
+            "sumphash": "00ae8bd1ec3c7d97491f0e34cfb20e68",
+            "pepca": "p2f029d50e0b9dcdf",
+            "mime_type": "image/jpeg"
+        },
+        {
+            "size": 1744,
+            "name": "11.jpg",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "11.jpg",
+            "sumphash": "8d5479cf577102381cb69a9569564df1",
+            "pepca": "p8f3c866de6f7afeb",
+            "mime_type": "image/jpeg"
+        },
+        {
+            "size": 1035,
+            "name": "tel.png",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "tel.png",
+            "sumphash": "a88e24303307d2b4bec22650d3b39b1b",
+            "pepca": "pa10dac19af3b6312",
+            "mime_type": "image/png"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "pepca": "p5f939b23f031ae2e",
+    "phishing": {
+        "ner_domain_detected": true
+    },
+    "pepca_style": "",
+    "last10words": "555 Tesco Financni sluzby 840 022 111 Linka Premia 840 022 444 2014 Home Credit a s ",
+    "subject": "Uspesna zmena hesla",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 31510189.0243,
+                "domain": "tesco-europe"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "tesco-europe",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "spravcefinanci",
+        "plain_domain_detail": [
+            {
+                "confidence": 2,
+                "domain": "spravcefinanci"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p862461ce906f56f5",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Vazeny kliente Vase heslo na www SpravceFinanci cz jsme uspesne zmenili Prejeme prijemn",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 131,
+    "adscore": 0,
+    "spamscore": 1
+}

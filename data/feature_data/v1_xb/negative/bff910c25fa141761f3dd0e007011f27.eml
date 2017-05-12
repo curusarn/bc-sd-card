@@ -1,0 +1,93 @@
+{
+    "phashes": [
+        {
+            "value": "pfddcfaf076f8e9c7",
+            "name": "pepca"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "info@z-ciziny.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/bff910c25fa141761f3dd0e007011f27.eml",
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "pepca": "pfddcfaf076f8e9c7",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": " mit pristup k ostatnim sluzbam jako napriklad predchozi objednavky tisk faktur a editovani Vaseho uctu Dekujeme Vam Z CIZINY cz",
+    "subject": "Z CIZINY cz Dekujeme za registraci",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 15902002.47933,
+                "domain": "viwefix"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "viwefix",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "z-ciziny",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "z-ciziny"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Vitejte dekujeme za Vasi registraci v Z CIZINY cz Vas ucet byl vytvoren muzete se prihlasit pomoci Vasi e mailove adresy a hesl",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 42,
+    "adscore": 0,
+    "spamscore": 1
+}

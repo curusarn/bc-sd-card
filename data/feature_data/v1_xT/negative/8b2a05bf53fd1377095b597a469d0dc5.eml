@@ -1,0 +1,151 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "module": "ill",
+            "score": 1
+        }
+    ],
+    "pepca": "p65dfba9284eb34bd",
+    "first10words": " LastPass Bezpecnostni upozorneni LastPass Zmena hesla stranky Ahoj This is an advisory notice letting you",
+    "pepca_style": "",
+    "pepca_inline_style": "p28dcca82b30e4439",
+    "word_count": 184,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Bezpecnostni upozorneni LastPass Zmena hesla stranky",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1,
+    "list_unsubscribe_urls": [
+        "mailto:feedbackloopuser@lastpass.com?subject=listunsubscribe",
+        "https://lastpass.com/misc_nospamlist.php?data=6%2FOyRfJglxUCdFh6Ond9J6%2BbdP4dsPvce88UOpWFHe8wIkZlmxmKk%2Bq2rLqgAiMBbKYK2l4XEZAgE9QyLi4JEtlqEY8A0sH1nGqg1eN7s3aU691oLmB%2FrTHNEP8FJIgY7dvlvdmR98EnnOV7IMRWBVleNX3aFaP1AXkaQOTYAxhlRrNCqlTAVs%2FS9hb1UEvmpllDSIAAaGamKduRpjDgLnt5wyS7Uh4ixgI7EqPKjJpSb6d11zgo5jbg8tlXbIQhPHLEck2aD6VYodPt2w3ScLhS3zO%2FAOoKRclKEZxgbPNiqdk9%2FFSWIZyo3Pe5Sk3OuKhSFPWgfjo79sSb%2FitaRQ%3D%3D&auto=1"
+    ],
+    "phishing": {},
+    "header_from": "support@lastpass.com",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/8b2a05bf53fd1377095b597a469d0dc5.eml",
+    "attachments": [
+        {
+            "size": 42090,
+            "mime_type": "image/png",
+            "flags": 0,
+            "pepca": "p871cda04b6dc9549",
+            "cid": "6c58cd5a21a13f4d6116ad25c4c778ba",
+            "cte": "BASE64",
+            "sumphash": "704b6a8fa6a125e493652a56ead494c7",
+            "name": "emailheader.png"
+        },
+        {
+            "size": 7457,
+            "mime_type": "image/gif",
+            "flags": 0,
+            "pepca": "pa8b885fa3e26935b",
+            "cid": "a49f52d30a40853a993c5073ba53405a",
+            "cte": "BASE64",
+            "sumphash": "b11200467dcd51bd542099a2538499b6",
+            "name": "help.gif"
+        },
+        {
+            "size": 1046,
+            "mime_type": "image/png",
+            "flags": 0,
+            "pepca": "p27ac34c631571dc8",
+            "cid": "f602c81c3246e75220e41a7f1bb9f191",
+            "cte": "BASE64",
+            "sumphash": "e14b79ee1c6dd49fd132de018b216e7b",
+            "name": "emailfooter.png"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p871cda04b6dc9549"
+        },
+        {
+            "name": "att-pepca",
+            "value": "pa8b885fa3e26935b"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p27ac34c631571dc8"
+        },
+        {
+            "name": "pepca",
+            "value": "p65dfba9284eb34bd"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p28dcca82b30e4439"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "airbank"
+            },
+            {
+                "confidence": 1,
+                "domain": "lastpass"
+            },
+            {
+                "confidence": 1,
+                "domain": "email"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "aweber",
+        "plain_domain": "airbank",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 95237010.2572346,
+                "domain": "aweber"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "contains_list_header": true,
+    "precedence": 2,
+    "last10words": "nikomu nesdelujte vase Hlavni heslo ani nam Osoba ktera si vyzadala poslani tohoto emailu mela IP adresu 88 101 249 213 ",
+    "lang": "cs"
+}

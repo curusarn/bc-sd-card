@@ -1,0 +1,181 @@
+{
+    "phashes": [
+        {
+            "value": "p26095a33f8674e13",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p918ad7bb28e2e01e",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p93e623824514af3a",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pcf114872a350fbd9",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p76588f267b8aaf46",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pa12100ce0ebbf2ec",
+            "name": "pepca"
+        },
+        {
+            "value": "p01571c15d6117245",
+            "name": "pepca_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "shop@nej-ceny.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/cdc8a8bb7d23bc05d7ccfdcb8d28b73f.eml",
+    "attachments": [
+        {
+            "first10words": "Obchodni podminky platne od Tyto obchodni podminky plati pro nakup",
+            "size": 453221,
+            "mime_type": "application/pdf",
+            "cte": "BASE64",
+            "flags": 0,
+            "lang": "cs",
+            "name": "1_obchodni-podminky.pdf",
+            "pepca": "p26095a33f8674e13",
+            "sumphash": "b9ad2af6536288bd82a86b322c949cbe"
+        },
+        {
+            "first10words": "Reklamacni rad platny od Reklamacni rad slouzi k reseni vztahu",
+            "size": 348527,
+            "mime_type": "application/pdf",
+            "cte": "BASE64",
+            "flags": 0,
+            "lang": "cs",
+            "name": "2_reklamacni-rad.pdf",
+            "pepca": "p918ad7bb28e2e01e",
+            "sumphash": "12ad6ade767dc8643f65b77b7c318f76"
+        },
+        {
+            "first10words": "Informace o uplatneni prava na odstoupeni od smlouvy Pravo odstoupit",
+            "size": 326053,
+            "mime_type": "application/pdf",
+            "cte": "BASE64",
+            "flags": 0,
+            "lang": "cs",
+            "name": "3_informace-o-uplatneni-prava-na-odstoupeni-od-smlouvy.pdf",
+            "pepca": "p93e623824514af3a",
+            "sumphash": "be3f689a44a66103a587629741ccf1bc"
+        },
+        {
+            "first10words": "Vzorovy formular pro odstoupeni od smlouvy vyplnte tento formular a",
+            "size": 350124,
+            "mime_type": "application/pdf",
+            "cte": "BASE64",
+            "flags": 0,
+            "lang": "cs",
+            "name": "4_vzorovy-formular-pro-odstoupeni-od-smlouvy.pdf",
+            "pepca": "pcf114872a350fbd9",
+            "sumphash": "d67ba1e4410f11fade8a8e138b711338"
+        },
+        {
+            "first10words": "Reklamacni formular v pripade ze neni mozne uplatnit reklamaci primo",
+            "size": 344154,
+            "mime_type": "application/pdf",
+            "cte": "BASE64",
+            "flags": 0,
+            "lang": "cs",
+            "name": "5_reklamacni-formular.pdf",
+            "pepca": "p76588f267b8aaf46",
+            "sumphash": "107df5578f2321465946d54ebdc7b65c"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id",
+                "long_subject"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1,
+                0.5
+            ],
+            "score": 1.6
+        }
+    ],
+    "pepca": "pa12100ce0ebbf2ec",
+    "phishing": {
+        "ner_domain_detected": true
+    },
+    "pepca_style": "p01571c15d6117245",
+    "last10words": "drzite spolu se zbozim Prejeme Vam pekny den Autori serveru NEJCENY cz www nej ceny cz shop nej ceny cz ",
+    "subject": "OBJEDNAVKA NEJCENY cz Vase objednavka cislo 2014194354 byla zavazne potvrzena",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 25491228.990176,
+                "domain": "masterinter"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "masterinter",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "nejceny",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "nejceny"
+            },
+            {
+                "confidence": 1,
+                "domain": "nej-ceny"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Vazeny zakazniku dekujeme za Vas nakup Vase objednavka byla zavazne potvrzena Pri vyrizeni neb",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 337,
+    "adscore": 0,
+    "spamscore": 1.6
+}

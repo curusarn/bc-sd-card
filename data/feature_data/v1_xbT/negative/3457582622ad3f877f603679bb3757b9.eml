@@ -1,0 +1,130 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p3ac060ae9191e857",
+    "last10words": "entrum namesti Miru 12 761 40A Zlin www zlin eu A A ",
+    "pepca_style_total": 0,
+    "header_from": "PetrZikmund@zlin.eu",
+    "first10words": " D obry den A A priobjednavam uklid podlah a spojovaciho krcku A restaurace KCZ vcetne zazem",
+    "attachments": [
+        {
+            "name": "image001.jpg",
+            "pepca": "pb35e381378c8b197",
+            "cte": "BASE64",
+            "mime_type": "image/jpeg",
+            "cid": "image001.jpg@01D0185C.A3853BA0",
+            "size": 2743,
+            "flags": 0,
+            "sumphash": "8b7425f8070d810c8e9284054f4a6fe7"
+        },
+        {
+            "name": "image002.jpg",
+            "pepca": "p10c0d5abf43a5b2d",
+            "cte": "BASE64",
+            "mime_type": "image/jpeg",
+            "cid": "image002.jpg@01D0185C.A3853BA0",
+            "size": 1332,
+            "flags": 0,
+            "sumphash": "2aec1e199cc094ee684fb4e0f7d5c311"
+        }
+    ],
+    "word_count": 492,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/3457582622ad3f877f603679bb3757b9.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "pb35e381378c8b197"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p10c0d5abf43a5b2d"
+        },
+        {
+            "name": "pepca",
+            "value": "p3ac060ae9191e857"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p6ea414d6f02d1f88"
+        }
+    ],
+    "spamscore": 1.5,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "zlin",
+                "confidence": 11125945.307267
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "zlin",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "zlin",
+        "plain_domain_detail": [
+            {
+                "domain": "zlin",
+                "confidence": 2
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Objednavka uklidu restaurace na sobotu 20 12 2014 KC Zlin",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": true,
+        "5_top_domains_id_0": 1,
+        "5_top_domains_percent_0": 1.0
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "p6ea414d6f02d1f88",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "long_subject"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.5
+            ],
+            "score": 1.5,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

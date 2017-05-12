@@ -1,0 +1,113 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "module": "ill",
+            "score": 1.1
+        }
+    ],
+    "pepca": "p895a4dfb36d39426",
+    "first10words": " Vase objednavka Dodavatel CRAZY shop s r o Obornik 2127 31d 78901 Zabreh Czech Republic IC 01685791 DIC CZ0168579",
+    "pepca_style": "",
+    "pepca_inline_style": "p891c87fe4bd5c23c",
+    "word_count": 216,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "NejlevnejsiPytel cz Objednavka",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.1,
+    "phishing": {},
+    "header_from": "info@nejlevnejsipytel.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/aecaa3d88074d64f4d37747ac5928e61.eml.eml",
+    "attachments": [
+        {
+            "size": 31770,
+            "mime_type": "application/pdf",
+            "flags": 0,
+            "pepca": "p17bcee9a631c9b9b",
+            "first10words": "NejlevnejsiPytel cz Objednavka Dodavatel CRAZY shop s r o Obornik",
+            "cte": "BASE64",
+            "sumphash": "6d495f051ca39bd80dc637e2d4e99d29",
+            "name": "Faktura.pdf",
+            "lang": "cs"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p17bcee9a631c9b9b"
+        },
+        {
+            "name": "pepca",
+            "value": "p895a4dfb36d39426"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p891c87fe4bd5c23c"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "fraggo"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "qth",
+        "plain_domain": "fraggo",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 5336290.1377,
+                "domain": "qth"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "za platbu 0 Kc Celkova cena objednavky 1140 Kc Dekujeme za Vas nakup Dodavatel internetoveho obchodu Fraggo Net s r o ",
+    "lang": "cs"
+}

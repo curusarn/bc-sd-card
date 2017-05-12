@@ -1,0 +1,155 @@
+{
+    "phashes": [
+        {
+            "value": "p7a54507939eda9f0",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pc3d8ac3cf974debf",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pe4084e51d14a8bbb",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pc341d6502f630e37",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p525a3fbfb7cc244a",
+            "name": "pepca"
+        },
+        {
+            "value": "p44a99d9b9a189bf6",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "shop@queens.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/aef599bc04d3bdea56c015c20c4f2e26.eml",
+    "attachments": [
+        {
+            "size": 2132,
+            "name": "instagram_cz.gif",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "1418640593.548ebcd12e1c1@www.queens.cz",
+            "sumphash": "14c464210155ef7a4d86c5841eb0b33b",
+            "pepca": "p7a54507939eda9f0",
+            "mime_type": "image/gif"
+        },
+        {
+            "size": 6681,
+            "name": "queens_cz.gif",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "1418640593.548ebcd12e98b@www.queens.cz",
+            "sumphash": "3b946249bbe4c15f3d2b78592d7515b8",
+            "pepca": "pc3d8ac3cf974debf",
+            "mime_type": "image/gif"
+        },
+        {
+            "size": 1829,
+            "name": "facebook.gif",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "1418640593.548ebcd12ef03@www.queens.cz",
+            "sumphash": "6d0697a0363b4190307a3e17f2d9f579",
+            "pepca": "pe4084e51d14a8bbb",
+            "mime_type": "image/gif"
+        },
+        {
+            "first10words": "opQueens rtf Obchodni podminky Queens cz Ing Lenky Ondruchove mistem",
+            "size": 99442,
+            "mime_type": "application/pdf",
+            "cte": "BASE64",
+            "flags": 0,
+            "lang": "cs",
+            "name": "queens_obchodni_podminky.pdf",
+            "pepca": "pc341d6502f630e37",
+            "sumphash": "a08a2ff49a1e0cbcd8888c0d79475cce"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "pepca": "p525a3fbfb7cc244a",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": " Lenka Ondruchova Verdunska 1843 9 702 00 Ostrava CR IC 73268739 DIC CZ7957295588 Vsechny uvedene ceny jsou v Kc a vcetne DPH ",
+    "subject": "Vase objednavka TAS9087",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 25491228.990176,
+                "domain": "masterinter"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "masterinter",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "queens",
+        "plain_domain_detail": [
+            {
+                "confidence": 3,
+                "domain": "queens"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p44a99d9b9a189bf6",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Queens cz Kod Vasi objednavky je TAS9087 Adresa doruceni Jitka Ticha Chorusicka 70 Melnicke Vteln",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 239,
+    "adscore": 0,
+    "spamscore": 1
+}

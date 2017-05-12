@@ -1,0 +1,106 @@
+{
+    "phashes": [
+        {
+            "value": "pe74fb1cf22e6f74a",
+            "name": "pepca"
+        },
+        {
+            "value": "pc142eb84d9ec62bb",
+            "name": "pepca_style"
+        },
+        {
+            "value": "pc5c7c7dd9f8d81aa",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "vice.cs@vice.com",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/0c44b60a966b35223131d490f7ea1a26.eml",
+    "attachments": [],
+    "contains_list_header": true,
+    "last10words": "from us again To remain on our list please confirm your subscription Confirm Subscription 2014 VICE Unsubscribe ",
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "pc142eb84d9ec62bb",
+    "pepca": "pe74fb1cf22e6f74a",
+    "subject": "Potvrzeni odberu VICE newsletteru",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 3,
+                "domain": "sam73"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 123244685.412511,
+                "domain": "aweber"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "sam73",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "aweber",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "pc5c7c7dd9f8d81aa",
+    "list_unsubscribe_urls": [
+        "mailto:unsubscribe-007af05858b538c31fb2c5ef6-5cd4a4ec18-8d3e8b0e9b@mailin1.us2.mcsv.net?subject=unsubscribe",
+        "http://vice.us4.list-manage.com/unsubscribe?u=007af05858b538c31fb2c5ef6&id=89d7cf7f4a&e=8d3e8b0e9b&c=5cd4a4ec18"
+    ],
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Potvrzeni odberu VICE newsletteru Ahoj asi jste si vsimli ze v poslednim mesici Vam zacal chodit cesky VICE ",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 186,
+    "adscore": 0,
+    "spamscore": 1
+}

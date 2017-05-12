@@ -1,0 +1,122 @@
+{
+    "phashes": [
+        {
+            "value": "p5975f9f4c6b0ee44",
+            "name": "pepca"
+        },
+        {
+            "value": "p01a7d52b3f6dbf70",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "noreply@badoo.com",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/b284b806d4433a805b276670319223c5.eml",
+    "unsub_link_candidates": [
+        "https://eu1.badoo.com/impersonation.phtml?lang_id=16&email=martas.novi%40seznam.cz&block_code=3be177&m=2&mid=545751c70000003c0010004d0467bec701c6bfd70000&g=0-0-1"
+    ],
+    "attachments": [],
+    "contains_list_header": true,
+    "last10words": "trovana v Anglii a Walesu pod cislem CRN 7540255 se sidlem na adrese Media Village 131 151 Great Titchfield Street Londyn W1W 5BB ",
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "images_in_subject"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                1
+            ],
+            "score": 2
+        }
+    ],
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca": "p5975f9f4c6b0ee44",
+    "subject": " Zmente si heslo na Badoo",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 1,
+                "domain": "badoo"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 174132529.30418,
+                "domain": "badoo"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "badoo",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "badoo",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p01a7d52b3f6dbf70",
+    "unsub_link_texts": [
+        "pokud si neprat dostavat zadny dalsi zprava od badoo paka kliknout zde a odhlasit se"
+    ],
+    "list_unsubscribe_urls": [
+        "mailto:unsubscribe+2_2539456500544286208_16_06610e@badoo.com?subject=Jt+8w5OzNqbkVUPxqNXkDqM6qSgP+qKC/Alqh7dtMcM"
+    ],
+    "unsub_link": "https://eu1.badoo.com/impersonation.phtml?lang_id=16&email=martas.novi%40seznam.cz&block_code=3be177&m=2&mid=545751c70000003c0010004d0467bec701c6bfd70000&g=0-0-1",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "adNotches": [
+        {
+            "module": "ill",
+            "name": [
+                "images_in_subject"
+            ],
+            "subscores": [
+                5
+            ],
+            "score": 5
+        }
+    ],
+    "pepca_inline_style_total": 1,
+    "first10words": " Chcete zmenit sve heslo na Badoo Chcete zmenit sve heslo na Badoo Chcete li si vytvorit nove heslo staci kliknout na odkaz ",
+    "lang": "cs",
+    "pepcatotal": 1,
+    "word_count": 130,
+    "adscore": 5,
+    "spamscore": 2
+}

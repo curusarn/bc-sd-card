@@ -1,0 +1,123 @@
+{
+    "phashes": [
+        {
+            "value": "p58f54169d2eba8c4",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p58f54169d2eba8c4",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p99548ab2c2c9b038",
+            "name": "pepca"
+        },
+        {
+            "value": "p32801b7166855e81",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "info@jknstavby.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/2d353097234239eeedcd71371ed056cd.eml",
+    "attachments": [
+        {
+            "size": 9694,
+            "name": "image002.jpg",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "image002.jpg@01D0185C.F46A7620",
+            "sumphash": "1c30eb8ab79a8483479aa9ce73ff2e24",
+            "pepca": "p58f54169d2eba8c4",
+            "mime_type": "image/jpeg"
+        },
+        {
+            "size": 9694,
+            "name": "image003.jpg",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "image003.jpg@01D0185C.F46A7620",
+            "sumphash": "1c30eb8ab79a8483479aa9ce73ff2e24",
+            "pepca": "p58f54169d2eba8c4",
+            "mime_type": "image/jpeg"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "pepca": "p99548ab2c2c9b038",
+    "phishing": {
+        "ner_domain_detected": true
+    },
+    "pepca_style": "",
+    "last10words": "c jknstavby cz info jknstavby cz ",
+    "subject": "RE faktura",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 4457411.306802,
+                "domain": "makro"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "makro",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p32801b7166855e81",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Dobry den Prosim pripominam se o zaslani faktury za kontejnery v Moste Josefa Suka 1592 blok 510 Prosim o zasla",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 276,
+    "adscore": 0,
+    "spamscore": 1.1
+}

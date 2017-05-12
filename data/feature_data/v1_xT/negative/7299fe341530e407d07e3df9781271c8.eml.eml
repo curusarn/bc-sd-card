@@ -1,0 +1,114 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "module": "ill",
+            "score": 1
+        }
+    ],
+    "pepca": "pf755bf983587f8c9",
+    "first10words": " Vzdusin cz Objednavka 3218 Dekujeme za Vas nakup na Vzdusin cz Vase objednavka byla prijata a bude zpracovana v nejkr",
+    "pepca_style": "pa728eb9799a53489",
+    "pepca_inline_style": "p3ccd8e3a66473199",
+    "word_count": 240,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Vzdusin cz Objednavka 3218",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1,
+    "phishing": {},
+    "header_from": "objednavky@vzdusin.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/7299fe341530e407d07e3df9781271c8.eml.eml",
+    "attachments": [
+        {
+            "size": 16201,
+            "mime_type": "image/png",
+            "flags": 0,
+            "pepca": "p8a08ce69e5cdf24a",
+            "cid": "1bb87d41d15fe27b500a4bfcde01bb0e",
+            "cte": "BASE64",
+            "sumphash": "01d0dc328c23ba448f11b13e42d424ae",
+            "name": "1bb87d41d15fe27b500a4bfcde01bb0e"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p8a08ce69e5cdf24a"
+        },
+        {
+            "name": "pepca",
+            "value": "pf755bf983587f8c9"
+        },
+        {
+            "name": "pepca_style",
+            "value": "pa728eb9799a53489"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p3ccd8e3a66473199"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "vzdusin"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "masterinter",
+        "plain_domain": "vzdusin",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 38236843.485264,
+                "domain": "masterinter"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": " vc DPH 5 890 00 Kc Mate li jakekoli dotazy prosim odpovezte na tento email Pekny den a prijemne nakupovani ",
+    "lang": "cs"
+}

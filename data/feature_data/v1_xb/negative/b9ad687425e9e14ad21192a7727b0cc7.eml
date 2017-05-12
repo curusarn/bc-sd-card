@@ -1,0 +1,94 @@
+{
+    "phashes": [
+        {
+            "value": "pb5865bad775646d0",
+            "name": "pepca"
+        },
+        {
+            "value": "p66d8c695f7accb04",
+            "name": "pepca_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "noreply@skylink.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/b9ad687425e9e14ad21192a7727b0cc7.eml",
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "pepca": "pb5865bad775646d0",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "p66d8c695f7accb04",
+    "last10words": " Dekujeme ze pouzivate nase sluzby Vas Skylink Skylink je obchodni znacka pouzivana pod licenci M7 Group S A ",
+    "subject": "Skylink Obnoveni hesla pro vstup do Zakaznicke zony",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 96221525.763,
+                "domain": "skylink"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "skylink",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 1,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Skylink Obnoveni hesla pro vstup do Zakaznicke zony Vazeny uzivateli sluzeb Skylink tento e mail vam byl zaslan na",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 70,
+    "adscore": 0,
+    "spamscore": 1.1
+}

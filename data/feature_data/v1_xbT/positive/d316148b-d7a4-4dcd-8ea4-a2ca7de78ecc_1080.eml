@@ -1,0 +1,94 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pcb8344953dd8fd23",
+    "last10words": "r account information issued to you Permanent TSB and Permanent TSB in an authorised manner and in accordance with all applicable laws ",
+    "pepca_style_total": 0,
+    "header_from": "customercarecenter@permanentTSB.ie",
+    "first10words": " Internet Banking Security Dear Customer We were unable to verify your account information during our re",
+    "attachments": [],
+    "word_count": 210,
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/1080.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pcb8344953dd8fd23"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p62d134f1ad0ac316"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "paypal",
+                "confidence": 85830495.9499326
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "paypal",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "en",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Permanent TSB Online Validate Your Account Information",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "p62d134f1ad0ac316",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "evil_script",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.1,
+                0.0
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

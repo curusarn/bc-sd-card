@@ -1,0 +1,106 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "module": "ill",
+            "score": 1
+        }
+    ],
+    "pepca": "pceae7955b46db62a",
+    "first10words": " Sdilime iSEN Web Sdilime i sen Potvrdte prosim svou registraci Kliknete zde pro dokoncen",
+    "pepca_style": "p25dfe2e5dd31555e",
+    "pepca_inline_style": "p18f1a1267046eca9",
+    "unsub_link": "http://www.mailchimp.com/monkey-rewards/?utm_source=freemium_newsletter&utm_medium=email&utm_campaign=monkey_rewards&aid=011a5387cce037c65169c0689&afl=1",
+    "pepca_style_total": 2,
+    "phish_score": 0,
+    "subject": "Prosim potvrdte svou registraci",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1,
+    "word_count": 117,
+    "phishing": {},
+    "header_from": "info@sdilimeisen.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/5c9ab76571c9beb214660afdb8f0d24a.eml",
+    "attachments": [],
+    "adscore": 0,
+    "unsub_link_texts": [
+        " email marketing powered by mailchimp mailchimp email marketing "
+    ],
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pceae7955b46db62a"
+        },
+        {
+            "name": "pepca_style",
+            "value": "p25dfe2e5dd31555e"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p18f1a1267046eca9"
+        }
+    ],
+    "unsub_link_candidates": [
+        "http://www.mailchimp.com/monkey-rewards/?utm_source=freemium_newsletter&utm_medium=email&utm_campaign=monkey_rewards&aid=011a5387cce037c65169c0689&afl=1"
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "cemail",
+        "plain_domain": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 2807013.0048,
+                "domain": "cemail"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "sam73",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [
+            {
+                "confidence": 1,
+                "domain": "sam73"
+            }
+        ],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": " otazky tykajici se naseho e mailoveho seznamu nevahejte nas kontaktovat info sdilimeisen cz ",
+    "lang": "cs"
+}

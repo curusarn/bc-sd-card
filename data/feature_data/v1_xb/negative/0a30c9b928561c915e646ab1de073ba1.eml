@@ -1,0 +1,97 @@
+{
+    "phashes": [
+        {
+            "value": "pc9c25c975bb22b3f",
+            "name": "pepca"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "noreply@all4net.sk",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/0a30c9b928561c915e646ab1de073ba1.eml",
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "pepca": "pc9c25c975bb22b3f",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": " Vy nemusite provadet zadnou dalsi akci a tento e mail muzete klidne povazovat za bezpredmetny Prejeme Vam hezky zbytek dne ",
+    "subject": "Obnova zapomenuteho hesla extranet all4net sk",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 7657149.3966,
+                "domain": "zlavydnes"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "zlavydnes",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "seznam",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "seznam"
+            },
+            {
+                "confidence": 1,
+                "domain": "all4net"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " extranet all4net sk Dobry den pokud chcete spustit proces obnoveni hesla pro vas Extranet ucet 644 krump l seznam cz kliknete na",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 79,
+    "adscore": 0,
+    "spamscore": 1
+}

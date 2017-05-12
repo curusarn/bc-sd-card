@@ -1,0 +1,108 @@
+{
+    "phashes": [
+        {
+            "value": "p3d25b4cf2cfb621b",
+            "name": "pepca"
+        },
+        {
+            "value": "pd6f99d4209287415",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "info@enioshop.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/3017aa3e7a914690987070b7c21e6c8f.eml",
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "pepca": "p3d25b4cf2cfb621b",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": "u nas nevahejte kontaktovat S uctou Vas EnioShop cz www enioshop cz info enioshop cz ",
+    "subject": "Uspesna registrace v EnioShop cz",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 1,
+                "domain": "luziceuhodonina"
+            },
+            {
+                "confidence": 1,
+                "domain": "eniologiecloveka"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 3249259.36319,
+                "domain": "lyoness"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "luziceuhodonina",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "lyoness",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "enioshop",
+        "plain_domain_detail": [
+            {
+                "confidence": 2,
+                "domain": "enioshop"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "pd6f99d4209287415",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Dobry den Vase registrace v internetovem obchodu EnioShop cz probehla uspesne Vase prihlasovaci jmeno je Jar",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 188,
+    "adscore": 0,
+    "spamscore": 1.1
+}

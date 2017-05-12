@@ -1,0 +1,102 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pc2e4d65a9ceff259",
+    "last10words": "et 7 384 40 Kc PPL 0 00 Kc Celkem 7 384 40 Kc Prosim odpovezte na tento e mail pokud budete mit jakekoli dotazy ",
+    "pepca_style_total": 0,
+    "header_from": "medplus@medplus.cz",
+    "first10words": " Medplus zdravotnicke potreby Objednavka 20122431 Dekujeme za zajem o zbozi z Medplus zdravotnicke potreby Pro ",
+    "attachments": [],
+    "word_count": 641,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/d03100d4925e6306b5da1be3206d367a.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pc2e4d65a9ceff259"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p0bf5c47c82d1fdb4"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "medplus",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "masterinter",
+                "confidence": 25491228.990176
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "medplus",
+                "confidence": 1
+            }
+        ],
+        "domain_keywords": "masterinter",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "medplus",
+        "plain_domain_detail": [
+            {
+                "domain": "medplus",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Medplus zdravotnicke potreby Objednavka 20122431",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "p0bf5c47c82d1fdb4",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

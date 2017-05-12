@@ -1,0 +1,111 @@
+{
+    "phashes": [
+        {
+            "value": "p020d3fdf79f9455d",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p9cffd30dddfaa6f3",
+            "name": "pepca"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "kovar@vknet.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/110710745878cc1dd0117ad3900dea23.eml",
+    "attachments": [
+        {
+            "first10words": "Faktura el FAKTURA DANOVY DOKLAD c VK NET s r",
+            "size": 94860,
+            "mime_type": "application/pdf",
+            "cte": "BASE64",
+            "flags": 0,
+            "lang": "cs",
+            "name": "Faktura_el_140100162.pdf",
+            "pepca": "p020d3fdf79f9455d",
+            "sumphash": "c5e7e323b470f37ed3f0e41537fbd4ce"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "pepca": "p9cffd30dddfaa6f3",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": "arova VK NET s r o Usti 187 755 01 Usti u Vsetina kovar vknet cz www vknet cz tel fax 420 571 626 mob 420 603 424 595 skype vlknot",
+    "subject": "Faktura el c 140100162",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 18856392.9904097,
+                "domain": "skype"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "skype",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "vknet",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "vknet"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Prikladame soubor ve formatu PDF Faktura el 140100162 pdf s pozdravem Viera Kovarova VK NET s r o Usti 187 755 01 Usti u Vsetina ",
+    "lang": "un",
+    "pepcatotal": 0,
+    "word_count": 35,
+    "adscore": 0,
+    "spamscore": 1.1
+}

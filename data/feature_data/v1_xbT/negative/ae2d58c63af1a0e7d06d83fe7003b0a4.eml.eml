@@ -1,0 +1,108 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pa4e6f1549077013e",
+    "last10words": "meriz 767 01 tel 573342514 fax 573342515 mobil 725017295 e mail bronislava vlckova brandproduct cz skype brandproducts r o ",
+    "pepca_style_total": 0,
+    "header_from": "bronislava.vlckova@brandproduct.cz",
+    "first10words": " Prosim o storno objednane palety Harmasanu Namisto toho potrebujeme paletu Jumba 28 cm jednov Dekuji Bronislava Vlckova ",
+    "attachments": [
+        {
+            "mime_type": "application/pdf",
+            "name": "Objedn\u00e1vka_15VO0045.pdf",
+            "first10words": "Objednavka Forma uhrady Odberatel Brand product s r o KAMIROS",
+            "pepca": "p2a226b210946e348",
+            "lang": "cs",
+            "cte": "BASE64",
+            "size": 77530,
+            "flags": 0,
+            "sumphash": "c24c551d7b761aeff4336dc65dd9229b"
+        }
+    ],
+    "word_count": 36,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/ae2d58c63af1a0e7d06d83fe7003b0a4.eml.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p2a226b210946e348"
+        },
+        {
+            "name": "pepca",
+            "value": "pa4e6f1549077013e"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "skype",
+                "confidence": 18856392.9904097
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "skype",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "un",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "storno nova objednavka",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": true,
+        "5_top_domains_id_0": 0,
+        "5_top_domains_percent_0": 1.0
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

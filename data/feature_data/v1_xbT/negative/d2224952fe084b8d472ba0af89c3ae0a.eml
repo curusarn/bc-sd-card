@@ -1,0 +1,95 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p6039ad5f74d7e31e",
+    "last10words": "vatel Prihl jmeno sixonenine619 seznam cz Heslo dvacetsedm Dekujeme za prizen NETfotbal tym Generovano systemem FastCentrik ",
+    "pepca_style_total": 0,
+    "header_from": "info@netfotbal.cz",
+    "first10words": " Na NETfotbal cz byl zadan pozadavek na zaslani zapomenuteho hesla Uzivatel Prihl jmeno sixonenine619 seznam cz Heslo dvacetsedm ",
+    "attachments": [],
+    "word_count": 19,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/d2224952fe084b8d472ba0af89c3ae0a.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p6039ad5f74d7e31e"
+        }
+    ],
+    "spamscore": 2,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "netfotbal",
+                "confidence": 17932931.91818
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "netfotbal",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "netfotbal",
+        "plain_domain_detail": [
+            {
+                "domain": "netfotbal",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Zapomenute heslo NETfotbal cz",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "missing_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                1
+            ],
+            "score": 2,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

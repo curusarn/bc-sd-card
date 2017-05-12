@@ -1,0 +1,120 @@
+{
+    "phashes": [
+        {
+            "value": "p7cb3ee604c472d54",
+            "name": "pepca"
+        },
+        {
+            "value": "p55f764026682bf51",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 2,
+    "header_from": "info@fortunamail.eu",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/01836b7a30b8b0417b86cd35e16403d9.eml",
+    "unsub_link_candidates": [
+        "http://tracker.fortunamail.eu/l.ashx?c=8eacc6ad-4db7-4bf2-a6b8-99e4b5b4c6c2&r=029109AB-7DC6-4F32-B725-6C870770FD89",
+        "http://tracker.fortunamail.eu/l.ashx?c=df233c55-0df8-4f5a-b542-c0e91c2677f6&r=029109AB-7DC6-4F32-B725-6C870770FD89"
+    ],
+    "attachments": [],
+    "contains_list_header": true,
+    "last10words": "20 267 218 218 Kontakty Pokud od nas nechcete dostavat dalsi zpravy kliknete ZDE ",
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging",
+                "missing_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1,
+                1
+            ],
+            "score": 2.1
+        }
+    ],
+    "phishing": {
+        "ner_domain_detected": true
+    },
+    "pepca_style": "",
+    "pepca": "p7cb3ee604c472d54",
+    "subject": "Dokoncete registraci u Fortuny uz chybi jen podpis smlouvy ",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 4,
+                "domain": "fortunamail"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 11162374.54212,
+                "domain": "viwefix"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "fortunamail",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "viwefix",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "ifortuna",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "ifortuna"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p55f764026682bf51",
+    "unsub_link_texts": [
+        " kontakt pokud od my nechtit dostavat dalsi zprava kliknout",
+        "pokud od my nechtit dostavat dalsi zprava kliknout zde "
+    ],
+    "list_unsubscribe_urls": [
+        "mailto:unsubscribe@fortunamail.eu",
+        "http://tracker.fortunamail.eu/pages/unsubscribe.aspx?r=27915159&c=DancaPodlipna@seznam.cz"
+    ],
+    "unsub_link": "http://tracker.fortunamail.eu/l.ashx?c=df233c55-0df8-4f5a-b542-c0e91c2677f6&r=029109AB-7DC6-4F32-B725-6C870770FD89",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Hra o pul milionu k MS je tady zaciname jiz v patek Prihlasovaci jmeno milace1 Cislo sm",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 312,
+    "adscore": 0,
+    "spamscore": 2.1
+}

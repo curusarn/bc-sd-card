@@ -1,0 +1,128 @@
+{
+    "phashes": [
+        {
+            "value": "p74143ba48e4dd748",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pa8e0999a338e6b83",
+            "name": "pepca"
+        },
+        {
+            "value": "pd0927906223e2bd7",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "petra.hortvikova@seznam.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/f9c9b997f261ac140ca3faf2ab51ddae.eml",
+    "attachments": [
+        {
+            "size": 13129,
+            "name": "image003.png",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "image003.png@01D0185A.A44960E0",
+            "sumphash": "3e7ab77dc387f9a95bd6f24f30d8a7b5",
+            "pepca": "p74143ba48e4dd748",
+            "mime_type": "image/png"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id",
+                "long_subject"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1,
+                0.5
+            ],
+            "score": 1.6
+        }
+    ],
+    "pepca": "pa8e0999a338e6b83",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": "ik e mail info liberec hotel cz web www hotelpraha net www hotel praha liberec cz ICO 88358381 DIC CZ7606193441 ",
+    "subject": "Re Fwd Neuhrazena faktura hrozi deaktivace z HRS Praha Hotel No 189779 460 01 Liberec 5",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 179953851.95406,
+                "domain": "firotour"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "firotour",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "liberec-hotel",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "liberec-hotel"
+            },
+            {
+                "confidence": 2,
+                "domain": "hotel-praha-liberec"
+            },
+            {
+                "confidence": 1,
+                "domain": "hrs"
+            },
+            {
+                "confidence": 2,
+                "domain": "hotelpraha"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "pd0927906223e2bd7",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " to bude asi tim ze mi ji zas nikdo neposlal napiste tam prosim at faktury zasilaji na mou email adresu a ze bude uhrazena obratem ",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 608,
+    "adscore": 0,
+    "spamscore": 1.6
+}

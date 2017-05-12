@@ -1,0 +1,152 @@
+{
+    "phashes": [
+        {
+            "value": "pdd48077d5366fc22",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pecaa4fb07f8d91e0",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p0161ed5c9727a7a6",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pf6d7b23d5ef4cfac",
+            "name": "pepca"
+        },
+        {
+            "value": "p611512830e19d77c",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "Fertek@im-stav.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/cda9851110421475027f4d2716eec478.eml",
+    "unsub_link_candidates": [
+        "http://www.im-stav.cz/"
+    ],
+    "attachments": [
+        {
+            "size": 3205,
+            "name": "att6298a.jpg",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "338094810@15122014-1EAE",
+            "sumphash": "78ed9bd3b9f4a17a06cc0b75f3548523",
+            "pepca": "pdd48077d5366fc22",
+            "mime_type": "image/jpeg"
+        },
+        {
+            "size": 58138,
+            "name": "nab\u00eddka Kost\u0159\u00ed\u017e 13350 K\u010d.pdf",
+            "cte": "BASE64",
+            "flags": 0,
+            "lang": "un",
+            "sumphash": "5c5d47d5c6d9546fa76dd97b0ad5281c",
+            "pepca": "pecaa4fb07f8d91e0",
+            "mime_type": "application/pdf"
+        },
+        {
+            "size": 10929,
+            "name": "objednavka_140131504.html",
+            "cte": "BASE64",
+            "flags": 0,
+            "sumphash": "4845ed8a83d5658757d73bb5c25e5e79",
+            "pepca": "p0161ed5c9727a7a6",
+            "mime_type": "text/html"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "evil_script",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.1,
+                0.0
+            ],
+            "score": 1.1
+        }
+    ],
+    "pepca": "pf6d7b23d5ef4cfac",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": "ednavku muzete po otevreni v prohlizeci naimportovat do Vaseho ekonomickeho systemu Blizsi informace naleznete na www eform cz ",
+    "subject": "Objednavka c 140131504",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 5661410.16397,
+                "domain": "ab-in-den-urlaub-deals"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "ab-in-den-urlaub-deals",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "im-stav",
+        "plain_domain_detail": [
+            {
+                "confidence": 2,
+                "domain": "im-stav"
+            },
+            {
+                "confidence": 1,
+                "domain": "eform"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p611512830e19d77c",
+    "unsub_link_texts": [
+        " www im stat cz tata zprava je bezny obchodny komunikace"
+    ],
+    "unsub_link": "http://www.im-stav.cz/",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " A A Dobry den A vA priloze Vam posilam objednavku ",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 350,
+    "adscore": 0,
+    "spamscore": 1.1
+}

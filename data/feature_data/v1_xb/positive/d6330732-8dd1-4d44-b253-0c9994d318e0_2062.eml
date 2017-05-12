@@ -1,0 +1,109 @@
+{
+    "phashes": [
+        {
+            "value": "p12dfc011cd98d119",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p666468cd904e95bc",
+            "name": "pepca"
+        },
+        {
+            "value": "pa6a9d51c99ec020c",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "update-refnum-827rca@regions.com",
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/2062.eml",
+    "attachments": [
+        {
+            "size": 4096,
+            "name": "vla347.gif",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "001e01c2b0fa$c6ff291e$422f88de@C306EC97142749F",
+            "sumphash": "01299da875f0c40ccf197850f06f0ebe",
+            "pepca": "p12dfc011cd98d119",
+            "mime_type": "image/gif"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "long_subject"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.5
+            ],
+            "score": 1.5
+        }
+    ],
+    "pepca": "p666468cd904e95bc",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": "agement please disregard this letter Copyright 2007 Regions Bank Treasury Management All Rights Reserved ",
+    "subject": "The Regions US Interact Suite Urgent Security Mail REF 861",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 65619738.8449727,
+                "domain": "mcsv"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "mcsv",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "pa6a9d51c99ec020c",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " The Regions Bank USA Interact Login Confirmation Procedure Dear The Regions Treasury Services member ",
+    "lang": "en",
+    "pepcatotal": 0,
+    "word_count": 197,
+    "adscore": 0,
+    "spamscore": 1.5
+}

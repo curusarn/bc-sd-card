@@ -1,0 +1,108 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p95b8633d0e7aa80a",
+    "last10words": "ska 215 Suchohrdly 669 02 Znojmo ICO 28340264 DIC 28340264 tel 515 221 621 776 112 042 e mail mo by seznam cz www bydleni textil cz ",
+    "pepca_style_total": 0,
+    "header_from": "mo-by@seznam.cz",
+    "first10words": " Dobry den Vazeny zakazniku Vase objednavka c 1988101 byla vyrizena Zpusob platby Na fakturu Zpusob dopravy PPL Velkoobch",
+    "attachments": [],
+    "word_count": 375,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/28196a86a88375afd0108e107ecc6d4c.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p95b8633d0e7aa80a"
+        },
+        {
+            "name": "pepca_style",
+            "value": "pd52b16fbc474d573"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pa247ad5c1e35c759"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "seznam",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "booking",
+                "confidence": 17689404.30334
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "seznam",
+                "confidence": 1
+            }
+        ],
+        "domain_keywords": "booking",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "bydleni-textil",
+        "plain_domain_detail": [
+            {
+                "domain": "bydleni-textil",
+                "confidence": 2
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Mobytex objednavka c 1988101 byla vyrizena",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "pd52b16fbc474d573",
+    "pepca_inline_style": "pa247ad5c1e35c759",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

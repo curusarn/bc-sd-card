@@ -1,0 +1,93 @@
+{
+    "phashes": [
+        {
+            "value": "pa62d3aaa33a85f18",
+            "name": "pepca"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "petruska.haklova@seznam.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/16f56e1832d78632a9c4db51348c3443.eml",
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "pepca": "pa62d3aaa33a85f18",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": "Vase prihlasovaci udaje E mail urbancova p email cz Heslo dawina120 Jumping Centrum Vrchlabi tel 420 724 440 753 www jumpingvrchlabi cz",
+    "subject": "Jumping Vrchlabi potvrzeni registrace",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 14305082.6583221,
+                "domain": "paypal"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "paypal",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "jumpingvrchlabi",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "jumpingvrchlabi"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Dekujeme za registraci Registraci potvrdite kliknutim na tento odkaz http jumpingvrchlabi isportsystem cz new account php confirm 6c00c86a6",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 20,
+    "adscore": 0,
+    "spamscore": 1
+}

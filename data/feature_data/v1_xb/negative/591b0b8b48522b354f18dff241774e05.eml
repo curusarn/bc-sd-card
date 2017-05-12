@@ -1,0 +1,112 @@
+{
+    "phashes": [
+        {
+            "value": "pe57cad19a33d7563",
+            "name": "pepca"
+        },
+        {
+            "value": "peb9c64634682f83a",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "overeni-emailu@prace.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/591b0b8b48522b354f18dff241774e05.eml",
+    "attachments": [],
+    "contains_list_header": true,
+    "last10words": "t vasich udaju na Moje Prace cz S pozdravem Prace cz Hledejte tam kde hledaji Vas www prace cz ",
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca": "pe57cad19a33d7563",
+    "subject": "Moje Prace cz Overeni e mailove adresy",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 3.05970681856278,
+                "domain": "prace"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 30090826.11333,
+                "domain": "prace"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "prace",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "prace",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "prace",
+        "plain_domain_detail": [
+            {
+                "confidence": 4,
+                "domain": "prace"
+            },
+            {
+                "confidence": 1,
+                "domain": "pozdravemprace"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "peb9c64634682f83a",
+    "list_unsubscribe_urls": [
+        "null"
+    ],
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Dobry den overte prosim platnost sve e mailove adresy prostrednictvim nasledujiciho linku Ove",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 83,
+    "adscore": 0,
+    "spamscore": 1.1
+}

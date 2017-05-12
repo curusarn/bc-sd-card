@@ -1,0 +1,120 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p373722c988717fdb",
+    "last10words": "s m b H Bundesstrasse 23 A 6063 Rum Rakouska republika Beate Uhse P O Box 350 779 00 Olomouc 9 zakaznicky servis beate uhse com ",
+    "pepca_style_total": 0,
+    "header_from": "noreply@service.beate-uhse.cz",
+    "first10words": " Vazena pani Vazeny pane obdrzeli jsme informaci ze Vase heslo jiz neni aktivni Pro ziskani ",
+    "attachments": [
+        {
+            "name": "bg_footer.gif",
+            "cte": "BASE64",
+            "mime_type": "image/gif",
+            "cid": "c3f0c046647d5e1df0b3e837d294b072",
+            "size": 344,
+            "flags": 0,
+            "sumphash": "24373a4e83ae1b37586a8372bdec3256"
+        },
+        {
+            "name": "header_cz.gif",
+            "pepca": "p90a9cb8e165347ec",
+            "cte": "BASE64",
+            "mime_type": "image/gif",
+            "cid": "d8881609faac4bf396b53a0dc24a7ffa",
+            "size": 7202,
+            "flags": 0,
+            "sumphash": "55349456528cc43a7a25dc38fa0c584c"
+        }
+    ],
+    "word_count": 147,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/a5dfca01142bff7b29f1168b8aa090ff.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p90a9cb8e165347ec"
+        },
+        {
+            "name": "pepca",
+            "value": "p373722c988717fdb"
+        },
+        {
+            "name": "pepca_style",
+            "value": "p2c39f5c552d23f9d"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pfcfc0ebd03cd686f"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "beate-uhse",
+                "confidence": 28252242.312948
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "beate-uhse",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Zmena Vaseho hesla",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "p2c39f5c552d23f9d",
+    "pepca_inline_style": "pfcfc0ebd03cd686f",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

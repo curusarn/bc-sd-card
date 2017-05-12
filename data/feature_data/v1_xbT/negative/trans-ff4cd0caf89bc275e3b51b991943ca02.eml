@@ -1,0 +1,128 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p1b2bc1569f5a3a15",
+    "last10words": " Internet Shop s r o Videnska 101 119 619 00 Brno Ceska republika tel 530 514 000 fax 541511835 ICO 27609057 DIC CZ27609057 ",
+    "pepca_style_total": 0,
+    "header_from": "info@parfums.cz",
+    "first10words": " Dobry den dekujeme za Vas nakup na www parfums cz Vasi objednavku jsme prijali a nasi pracovnici ji zacali zpracovavat",
+    "attachments": [
+        {
+            "name": "order.html",
+            "pepca": "pc45ba48617d1edcd",
+            "cte": "BASE64",
+            "mime_type": "text/html",
+            "size": 4165,
+            "flags": 0,
+            "sumphash": "2d1f90840c0bc66e34c4ec04439f388d"
+        },
+        {
+            "name": "obchodni-podminky-internet-shop.html",
+            "pepca": "p87c2e95e57431cbe",
+            "cte": "BASE64",
+            "mime_type": "text/html",
+            "size": 24626,
+            "flags": 0,
+            "sumphash": "a0893dbd7396566384cd1aa4a1695a06"
+        }
+    ],
+    "word_count": 292,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/trans-ff4cd0caf89bc275e3b51b991943ca02.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "pc45ba48617d1edcd"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p87c2e95e57431cbe"
+        },
+        {
+            "name": "pepca",
+            "value": "p1b2bc1569f5a3a15"
+        }
+    ],
+    "spamscore": 1.5,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "parfums",
+                "confidence": 52279680.9190319
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "parfums",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "parfums",
+        "plain_domain_detail": [
+            {
+                "domain": "parfums",
+                "confidence": 4
+            },
+            {
+                "domain": "silver",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Potvrzeni Vasi objednavky cislo 102121572 na www parfums cz darek pro Vas ",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": true,
+        "5_top_domains_id_0": 0,
+        "5_top_domains_percent_0": 1.0
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "long_subject"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.5
+            ],
+            "score": 1.5,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

@@ -1,0 +1,119 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p08529c3704244e5c",
+    "last10words": "chod eshop www kampet shop cz Cislo objednavky KS1411268 Cas prijeti objednavky 2014 12 13 18 03 06 ",
+    "pepca_style_total": 0,
+    "header_from": "objednavky@kampet.cz",
+    "first10words": " Dobry den v priloze tohoto emailu prikladame fakturu k uhrade Vasi objednavky zbozi v eshopu Prosime ",
+    "attachments": [
+        {
+            "name": "kon\u010dekov\u00e1.htm",
+            "pepca": "pd72297f6ef20c08c",
+            "cte": "QPRINT",
+            "mime_type": "text/html",
+            "size": 136777,
+            "flags": 0,
+            "sumphash": "bf478b2b1c4135716edefb04a9e36d68"
+        }
+    ],
+    "word_count": 1075,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/9b31995187a69d8dda0f63d887bf3897.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "pd72297f6ef20c08c"
+        },
+        {
+            "name": "pepca",
+            "value": "p08529c3704244e5c"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pd8df490ff8ecda04"
+        }
+    ],
+    "spamscore": 1.2,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "masterinter",
+                "confidence": 76473686.9705281
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "masterinter",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "galanterie-latky",
+        "plain_domain_detail": [
+            {
+                "domain": "galanterie-latky",
+                "confidence": 1
+            },
+            {
+                "domain": "kampet-shop",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "faktura k uhrade zbozi",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "pd8df490ff8ecda04",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1,
+                0.1
+            ],
+            "score": 1.2,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

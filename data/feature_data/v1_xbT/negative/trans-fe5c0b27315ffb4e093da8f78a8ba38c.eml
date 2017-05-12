@@ -1,0 +1,109 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pf0025593c536db2c",
+    "last10words": "hod ronnie cz tel 241 403 508 gsm 773 22 22 50 Dafit s r o Dobronicka 778 148 00 Praha 4 IC 00570150 DIC CZ00570150 ",
+    "pepca_style_total": 0,
+    "header_from": "obchod@ronnie.cz",
+    "first10words": " Dobry den radi bychom Vam timto e mailem potvrdili Vasi objednavku v internetovem obchode Ronnie cz Slozeni objednavk",
+    "attachments": [
+        {
+            "name": "logo.gif",
+            "cte": "BASE64",
+            "mime_type": "image/gif",
+            "cid": "logo.gif",
+            "size": 0,
+            "flags": 0,
+            "sumphash": "dc5b5ace27d0916fed08dfee55dd0748"
+        }
+    ],
+    "word_count": 251,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/trans-fe5c0b27315ffb4e093da8f78a8ba38c.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pf0025593c536db2c"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pc47a3852e839eadb"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "ronnie",
+                "confidence": 101227087.103608
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "ronnie",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "ronnie",
+        "plain_domain_detail": [
+            {
+                "domain": "ronnie",
+                "confidence": 3
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Potvrzeni objednavky ",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "pc47a3852e839eadb",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

@@ -1,0 +1,107 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "module": "ill",
+            "score": 1.1
+        }
+    ],
+    "pepca": "pfad037f697002208",
+    "first10words": " RESTAURACE OPAPA FA DEALER M KUNSTOVNY 60 ks Mozzarella 100g NDR 2 ks Spaeck di Montagna 4 ks Tunak v oliv oleji 1 7kg ",
+    "pepca_style": "",
+    "pepca_inline_style": "p5e40a264f2e8e26a",
+    "word_count": 535,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "RE Objednavka na utery 16 12 2014 M Kunstovny",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.1,
+    "phishing": {},
+    "header_from": "martin.kunstovny@icloud.com",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/fe347689c88c81a529fc5b8c086928aa.eml",
+    "attachments": [
+        {
+            "size": 8262,
+            "mime_type": "application/pdf",
+            "flags": 0,
+            "pepca": "p0af1dac2055bf63d",
+            "cte": "BASE64",
+            "sumphash": "0fecbce107ff6427384b1ede092ee085",
+            "name": "PastedGraphic-2.pdf",
+            "lang": "un"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p0af1dac2055bf63d"
+        },
+        {
+            "name": "pepca",
+            "value": "pfad037f697002208"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p5e40a264f2e8e26a"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "icloud",
+        "plain_domain": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 7568374.54188,
+                "domain": "icloud"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "lska Gastronomie Martin Kunstovny Prazska 238 250 66 Zdiby gsm 420 603 744 979 e mail martin kunstovny icloud com ",
+    "lang": "cs"
+}

@@ -1,0 +1,105 @@
+{
+    "phashes": [
+        {
+            "value": "pf936309e57ee7663",
+            "name": "pepca"
+        },
+        {
+            "value": "pa73c14f997d4c52c",
+            "name": "pepca_style"
+        },
+        {
+            "value": "p27d9e22f0a633e46",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "service@afbank.com",
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/239.eml",
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging",
+                "long_subject"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1,
+                0.5
+            ],
+            "score": 1.6
+        }
+    ],
+    "pepca": "pf936309e57ee7663",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "pa73c14f997d4c52c",
+    "last10words": "request you leave us no choice but to temporarely suspend your account Thank you for using Armed Forces Bank ",
+    "subject": "Notification of Limited Account Access Routing Code 4C840 L001 Q190 T1836 ",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 107805016.746798,
+                "domain": "paypal"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "paypal",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "afbank",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "afbank"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 4,
+    "pepca_inline_style": "p27d9e22f0a633e46",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Security Center Advisory Armed Forces Bank is committed to maintaining a safe environment for",
+    "lang": "en",
+    "pepcatotal": 0,
+    "word_count": 272,
+    "adscore": 0,
+    "spamscore": 1.6
+}

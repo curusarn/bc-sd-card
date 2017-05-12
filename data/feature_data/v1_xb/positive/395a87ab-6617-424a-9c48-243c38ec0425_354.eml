@@ -1,0 +1,135 @@
+{
+    "phashes": [
+        {
+            "value": "p120123bc9fa232d8",
+            "name": "att-pepca"
+        }
+    ],
+    "precedence": 3,
+    "phNotches": [
+        {
+            "module": "phish-score",
+            "name": [
+                "from_mismatch",
+                "attachments",
+                "many_emails"
+            ],
+            "subscores": [
+                1,
+                1,
+                -2
+            ],
+            "score": 0.0
+        }
+    ],
+    "header_from": "Fifth@example.com",
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/354.eml",
+    "extractedEmailsTotalCount": {},
+    "theme": {},
+    "pepca_small": "pa7fcde80b42349d9",
+    "attachments": [
+        {
+            "size": 7958,
+            "name": "kqDZl.gif",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "88834F09.B5A73598.45CC435E.D5A157BA_csseditor",
+            "sumphash": "7a15c78037bb2d28afdf18c2ae30035d",
+            "pepca": "p120123bc9fa232d8",
+            "mime_type": "image/jpeg"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "last10words": " ",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "subject": "Fifth Third Bank Service Message 1 November 2006",
+    "pepca_style": "",
+    "pepca": "",
+    "dkstatus": {},
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "domainstat_themes": {},
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "spfstatus": {},
+    "unsub_link": {},
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0.0,
+    "pepca_inline_style_total": 0,
+    "first10words": " ",
+    "universalprobes": [
+        {
+            "key": "ps-from_mismatch",
+            "value": "1"
+        },
+        {
+            "key": "ps-attachments",
+            "value": "1"
+        },
+        {
+            "key": "ps-many_emails",
+            "value": "1"
+        }
+    ],
+    "domainstat": {},
+    "lang": "en",
+    "pepcatotal": 0,
+    "word_count": 12,
+    "adscore": 0,
+    "dmarc_status": {},
+    "spamscore": 1.1
+}

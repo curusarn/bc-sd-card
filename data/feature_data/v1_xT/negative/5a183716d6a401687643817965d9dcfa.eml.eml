@@ -1,0 +1,99 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1,
+                0.5
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id",
+                "long_subject"
+            ],
+            "module": "ill",
+            "score": 1.6
+        }
+    ],
+    "pepca": "p133ccc642140a805",
+    "first10words": " Dekujeme za vasi objednavku v obchode http www orientacnisvetlo cz Nize zasilame jeji sourn Nazev Cena M",
+    "pepca_style": "",
+    "pepca_inline_style": "pc8d27be91f3316f9",
+    "word_count": 90,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Zprava z obchodu orientacnisvetlo cz Byla vytvorena nova objednavka c 2014011352",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.6,
+    "phishing": {},
+    "header_from": "exit1256@exitshop.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/5a183716d6a401687643817965d9dcfa.eml.eml",
+    "attachments": [],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p133ccc642140a805"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pc8d27be91f3316f9"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "orientacnisvetlo"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "itesco",
+        "plain_domain": "orientacnisvetlo",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 6410213.03299,
+                "domain": "itesco"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "ada 2 ks 299 Kc 1 299 Kc Ceska posta dobirka platba pri prevzeti 99 Kc 1 99 Kc Celkem k zaplaceni 398 Kc ",
+    "lang": "cs"
+}

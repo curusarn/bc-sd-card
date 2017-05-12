@@ -1,0 +1,128 @@
+{
+    "phashes": [
+        {
+            "value": "pbaa2cccb82e2eaae",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p041e35defff4e46d",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p719654cdc34c0b83",
+            "name": "pepca"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "podpora@nic.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/c61aac12a1a35e173c8231343f0d36c1.eml",
+    "attachments": [
+        {
+            "size": 355,
+            "name": "",
+            "cte": "PLAIN",
+            "flags": 0,
+            "sumphash": "8989f405c811fd522094bbdeb51072e6",
+            "pepca": "pbaa2cccb82e2eaae",
+            "mime_type": "text/x-vcard"
+        },
+        {
+            "size": 2341,
+            "name": "smime.p7s",
+            "cte": "BASE64",
+            "flags": 0,
+            "sumphash": "de3a47be5b95aeaf872c62ca6d3df0c7",
+            "pepca": "p041e35defff4e46d",
+            "mime_type": "application/pkcs7-signature"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "pepca": "p719654cdc34c0b83",
+    "phishing": {
+        "ner_domain_detected": true
+    },
+    "pepca_style": "",
+    "last10words": "00 Praha 2 tel 420 222 745 111 fax 420 222 745 112 e mail podpora nic cz ",
+    "subject": "Overeni spravnosti udaju",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 144297066.226347,
+                "domain": "alibaba"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "alibaba",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "domena",
+        "plain_domain_detail": [
+            {
+                "confidence": 2,
+                "domain": "domena"
+            },
+            {
+                "confidence": 1,
+                "domain": "kovarstvi-zelenka"
+            },
+            {
+                "confidence": 1,
+                "domain": "1015k-flyweb"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " This is a bilingual message Please see below for the English version Vazena pani vazeny pane dovolujeme si Vas zdvorile pozadat o ",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 420,
+    "adscore": 0,
+    "spamscore": 1
+}

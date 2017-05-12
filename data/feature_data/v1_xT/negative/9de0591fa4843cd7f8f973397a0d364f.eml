@@ -1,0 +1,114 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "module": "ill",
+            "score": 1
+        }
+    ],
+    "pepca": "p4516d003a68fe9bf",
+    "first10words": " Zmena hesla na Kupi cz Zmena hesla Dobry den potvrzujeme zmenu Vaseho hesla na www kupi cz vase prihlasovaci jmeno z osv",
+    "pepca_style": "p49203e0c22def1c5",
+    "pepca_inline_style": "p9d7b98ea4390e383",
+    "word_count": 63,
+    "pepca_style_total": 1,
+    "phish_score": 0,
+    "subject": "Zmena hesla na Kupi cz",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1,
+    "phishing": {},
+    "header_from": "podpora@kupi.cz",
+    "pepca_inline_style_total": 1,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/9de0591fa4843cd7f8f973397a0d364f.eml",
+    "attachments": [
+        {
+            "size": 1196,
+            "mime_type": "image/png",
+            "flags": 0,
+            "pepca": "pdbf07bec42033c1c",
+            "cid": "logo",
+            "cte": "BASE64",
+            "sumphash": "a78fa5a8a33a0303a8776d455921978b",
+            "name": "logo"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "pdbf07bec42033c1c"
+        },
+        {
+            "name": "pepca",
+            "value": "p4516d003a68fe9bf"
+        },
+        {
+            "name": "pepca_style",
+            "value": "p49203e0c22def1c5"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p9d7b98ea4390e383"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 3,
+                "domain": "kupi"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "zendesk",
+        "plain_domain": "kupi",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 5456925.98405967,
+                "domain": "zendesk"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 1,
+    "precedence": 3,
+    "last10words": "adresy 62 240 162 6 Pokud jste zmenu hesla neprovedli vy kontaktujte nas na podpora kupi cz Kupi cz akce a slevy z vaseho obchodu ",
+    "lang": "cs"
+}

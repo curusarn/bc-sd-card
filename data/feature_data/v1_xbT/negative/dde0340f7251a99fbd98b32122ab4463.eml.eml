@@ -1,0 +1,114 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p2f093bf78610d5e6",
+    "last10words": "nikova 43 Praha 5 150 00 Tel 257 326 011 728 436 606 jan kostka copyservis cz www copyservis cz A ",
+    "pepca_style_total": 0,
+    "header_from": "jan.kostka@copyservis.cz",
+    "first10words": " Vazeny zakazniku dekujeme Vam za objednavku A Vase objednavka byla vyrizena A",
+    "attachments": [
+        {
+            "name": "image001.gif",
+            "pepca": "pab73044e3f89fc9b",
+            "cte": "BASE64",
+            "mime_type": "image/gif",
+            "cid": "image001.gif@01D02E74.26E7E4C0",
+            "size": 26673,
+            "flags": 0,
+            "sumphash": "7fae8d30a1108d34390edb55dc3be7bc"
+        }
+    ],
+    "word_count": 247,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/dde0340f7251a99fbd98b32122ab4463.eml.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "pab73044e3f89fc9b"
+        },
+        {
+            "name": "pepca",
+            "value": "p2f093bf78610d5e6"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pe07537a5630c10c5"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "masterinter",
+                "confidence": 50982457.980352
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "masterinter",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "copyservis",
+        "plain_domain_detail": [
+            {
+                "domain": "copyservis",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Vase objednavka",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "pe07537a5630c10c5",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

@@ -1,0 +1,138 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "module": "ill",
+            "score": 1
+        }
+    ],
+    "pepca": "pf4d4b66855cc0a7e",
+    "first10words": " Vase objednavka Vazeny zakazniku dekujeme Vam za objednavku u FOTOLAB cz Vasi objednavku jsme prijali a prave ",
+    "pepca_style": "",
+    "pepca_inline_style": "pf5b4bd2d99ec5214",
+    "word_count": 308,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Vase objednavka 59680 ",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1,
+    "phishing": {},
+    "header_from": "eshop@fotolab.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/cc0a295e6d74360864f4c5d48d6c1e92.eml",
+    "attachments": [
+        {
+            "size": 4874,
+            "mime_type": "image/gif",
+            "flags": 0,
+            "pepca": "p1eb8cba84a780074",
+            "cid": "42b5b8d0269ffeb94337a800da8f8106",
+            "cte": "BASE64",
+            "sumphash": "a188fefeb5bbdfe5e8bcdd00526fc250",
+            "name": "image"
+        },
+        {
+            "size": 2581,
+            "mime_type": "image/jpeg",
+            "flags": 0,
+            "pepca": "pf113c550080bbaf4",
+            "cid": "42bb285e66907171ebaca30bd37e59d6",
+            "cte": "BASE64",
+            "sumphash": "768abe7ee2d53a743ecf84287d464a49",
+            "name": "image"
+        },
+        {
+            "size": 1674,
+            "mime_type": "image/jpeg",
+            "flags": 0,
+            "pepca": "pc232ef854d8fc3ad",
+            "cid": "42bbba31d408fb2a5acd12ab23197d31",
+            "cte": "BASE64",
+            "sumphash": "aa2843b916a2138b652c03ea89281517",
+            "name": "image"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p1eb8cba84a780074"
+        },
+        {
+            "name": "att-pepca",
+            "value": "pf113c550080bbaf4"
+        },
+        {
+            "name": "att-pepca",
+            "value": "pc232ef854d8fc3ad"
+        },
+        {
+            "name": "pepca",
+            "value": "pf4d4b66855cc0a7e"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pf5b4bd2d99ec5214"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 2,
+                "domain": "fotolab"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "cewecolor",
+        "plain_domain": "fotolab",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 44546049.989801,
+                "domain": "cewecolor"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "ezinarodni prodejce fototechniky CeWe Color a s Kloknerova 2278 24 148 00 Praha 4 Chodov Email eshop fotolab cz Tel 272 071 200 ",
+    "lang": "cs"
+}

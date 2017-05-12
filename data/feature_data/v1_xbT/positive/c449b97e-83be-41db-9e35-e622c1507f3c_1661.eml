@@ -1,0 +1,106 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pe9d2be6f17ddf3c4",
+    "last10words": "a N A Member FDIC Equal Housing Lender 2007 Bank of America Corporation All rights reserved ",
+    "pepca_style_total": 0,
+    "header_from": "Managment@bankofamerica.com",
+    "first10words": " Bank of America Online Banking Online Banking Guarantee Security Update Notification ",
+    "attachments": [],
+    "word_count": 384,
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/1661.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pe9d2be6f17ddf3c4"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pbb0f56671bffb8cb"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "bankofamerica",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "aweber",
+                "confidence": 79181838.4615342
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "bankofamerica",
+                "confidence": 4
+            }
+        ],
+        "domain_keywords": "aweber",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "bankofamerica",
+        "plain_domain_detail": [
+            {
+                "domain": "bankofamerica",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "en",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Account Suspension Case 00302173813",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": true,
+        "5_top_domains_id_0": 0,
+        "5_top_domains_percent_0": 1.0
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "pbb0f56671bffb8cb",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "evil_script",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.1,
+                0.0
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

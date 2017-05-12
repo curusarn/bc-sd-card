@@ -1,0 +1,100 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "module": "ill",
+            "score": 1
+        }
+    ],
+    "pepca": "p6f057f88a9ea8eb1",
+    "first10words": " Vazeny navstevniku dekujeme za registraci vaseho e mailu mogva seznam cz pro odber naseho newsletteru z webu http www vzhled cz Pokud",
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "unsub_link": "http://www.vzhled.cz",
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Registrace newsletteru na http www vzhled cz",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1,
+    "word_count": 48,
+    "phishing": {},
+    "header_from": "info@vzhled.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/b2f938c8366b40c62f6b3cd71285b597.eml",
+    "attachments": [],
+    "adscore": 0,
+    "unsub_link_texts": [
+        "cz pro odber nas newsletteru z web  pokud se byt chtit z odebirani newsletteru odhlasit paka navstivit nas web",
+        "pokud se byt chtit z odebirani newsletteru odhlasit paka navstivit nas web  a v dolni prava cast zadat svuj e mailovy adresa a kliknout na tlacitko odhlasit"
+    ],
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p6f057f88a9ea8eb1"
+        }
+    ],
+    "unsub_link_candidates": [
+        "http://www.vzhled.cz",
+        "http://www.vzhled.cz"
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "vzhled"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "raketa",
+        "plain_domain": "vzhled",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 8786578.92262,
+                "domain": "raketa"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "ovou adresu a kliknete na tlacitko odhlasit nebo kliknete na tento odkaz http www vzhled cz cz newsletter html hash bW9ndmFAc2V6bmFtLmN6fDU1",
+    "lang": "cs"
+}

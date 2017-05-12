@@ -1,0 +1,105 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pe9e983dfcadcce36",
+    "last10words": " 13 47 49 Predmet Objednavka Zdravim Tome Prosim o nachystani zbozi uvedneho v priloze Bude na T Kupku Dekuji Ales ",
+    "pepca_style_total": 0,
+    "header_from": "Frydrych.Tomas@seznam.cz",
+    "first10words": " Puvodni zprava Od ales bajnar alesbajnar seznam cz Komu tomas frydrych frydrych tomas seznam cz Datum 13 12 2",
+    "attachments": [
+        {
+            "name": "Jan Miku\u0161 - matka.xlsx",
+            "pepca": "pcb0b39fa6e942ffb",
+            "cte": "BASE64",
+            "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml",
+            "cid": "m14a43ad926am729",
+            "size": 25029,
+            "flags": 0,
+            "sumphash": "1bc782536b8a9f7819e890c8e330d66e"
+        }
+    ],
+    "word_count": 32,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/3b47bd168c9e2714ef27feedab4e11a4.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "pcb0b39fa6e942ffb"
+        },
+        {
+            "name": "pepca",
+            "value": "pe9e983dfcadcce36"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "masterinter",
+                "confidence": 12745614.495088
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "masterinter",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Fwd Objednavka",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

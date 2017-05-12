@@ -1,0 +1,110 @@
+{
+    "phashes": [
+        {
+            "value": "p179978aee846cc7b",
+            "name": "pepca"
+        },
+        {
+            "value": "p1a86a4ced8401e0b",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "noreply@twoomail.com",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/94e8d76a24fdf5b1d65ae78f5a0d55b5.eml",
+    "unsub_link_candidates": [
+        "http://mail.twoo.com/mailurl/aT10bi02Y2NpYjItNnA3am1hZGwtdzc1NSZsPTMmdT0lMkYmdD0zJmE9cDVpNzhpXzVkYWM2NjE2MGI"
+    ],
+    "attachments": [],
+    "contains_list_header": true,
+    "last10words": "chces tyto emaily dostavat Klikni sem Massive Media Match NV Emile Braunplein 18 9000 Ghent Belgium BE0537240636 info cs twoo com ",
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca": "p179978aee846cc7b",
+    "subject": "Zvol si nove heslo na Twoo",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 2,
+                "domain": "twoomail"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 78300373.962531,
+                "domain": "twoomail"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "twoomail",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "twoomail",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p1a86a4ced8401e0b",
+    "unsub_link_texts": [
+        "com m lp dlvpp twoo v budoucno uzit nechtit tyt email dostavat"
+    ],
+    "list_unsubscribe_urls": [
+        "http://mail.twoo.com/mailurl/aT10bi02Y2NpYjItNnA3am1hZGwtdzc1NSZsPTEmdT0lMkZzZXR0aW5ncyUyRmVtYWlscyUyRiUzRnZpZXclM0R1bnN1YnNjcmliZSUyNmFjdGlvbiUzRHVuc3Vic2NyaWJlRnJvbVR5cGUlMjZ2YWx1ZSUzRE5PJTI2dHlwZWlkJTNEJTI2c2tpcFNwbGFzaCUzRG1haWwmdD0zJmE9cDVpNzhpXzVkYWM2NjE2MGI"
+    ],
+    "unsub_link": "http://mail.twoo.com/mailurl/aT10bi02Y2NpYjItNnA3am1hZGwtdzc1NSZsPTMmdT0lMkYmdD0zJmE9cDVpNzhpXzVkYWM2NjE2MGI",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 1,
+    "first10words": " Zvol si nove heslo na Twoo Zapomenute heslo Klikni na odkaz nize a zmen si ho Ahoj Honza Pokud si svoje heslo nepamatuj",
+    "lang": "cs",
+    "pepcatotal": 1,
+    "word_count": 156,
+    "adscore": 0,
+    "spamscore": 1.1
+}

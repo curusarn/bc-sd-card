@@ -1,0 +1,178 @@
+{
+    "phashes": [
+        {
+            "value": "pcca2d90525affe20",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p90d48bd8cfb35ac8",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p703e4f8425a4bf52",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p95f289e4688ce80e",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pac8720f5e24d3cda",
+            "name": "pepca"
+        },
+        {
+            "value": "p35133ebbed37018c",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "objednavky@vasecocky.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/e4ca57718e63acf87ec465ca4c34e9fd.eml.eml",
+    "unsub_link_candidates": [
+        "http://email.vasecocky.cz/c/ZD1iMGNlJmk9MjAxNTAxMTIxMzQ5NDAuMTI1OTA4LjkxMzU2JTQwdmFzZWNvY2t5LmN6Jmg9NjgxZTQzNjQ1NTNhZTM4MmY5YjAyNjkxZmNlMDE4Y2MmbD1odHRwJTNBJTJGJTJGd3d3LnZhc2Vjb2NreS5jeiUyRm9iY2hvZG5pLXBvZG1pbmt5Lmh0bWwmcj1oZWxlbmEudGVzYXJvdmElNDBzZXpuYW0uY3o"
+    ],
+    "attachments": [
+        {
+            "first10words": "PECLIVE LETAK PRECTETE A UCHOVEJTE PRO BUDOUCI POUZITI ReNu MultiPlus",
+            "size": 151129,
+            "mime_type": "application/pdf",
+            "cte": "BASE64",
+            "flags": 0,
+            "lang": "cs",
+            "name": "leaflet-1967-cs.pdf",
+            "pepca": "pcca2d90525affe20",
+            "sumphash": "635a51fe9a9f54bf9cb22de020e69bfb"
+        },
+        {
+            "first10words": "Ctete pozorne tento pribalovy letak a uschovejte si jej pro",
+            "size": 123180,
+            "mime_type": "application/pdf",
+            "cte": "BASE64",
+            "flags": 0,
+            "lang": "cs",
+            "name": "leaflet-2113-cs.pdf",
+            "pepca": "p90d48bd8cfb35ac8",
+            "sumphash": "79680ef42aa5bf56b6bb27e4570df793"
+        },
+        {
+            "first10words": "ilililil llltlltlRefresh rOdnikapky vhodnd j pro nositete vsech typ kontaKnich",
+            "size": 443940,
+            "mime_type": "application/pdf",
+            "cte": "BASE64",
+            "flags": 0,
+            "lang": "sk",
+            "name": "leaflet-2002-cs.pdf",
+            "pepca": "p703e4f8425a4bf52",
+            "sumphash": "80ab1484346204507ab80e8f4cf73c3e"
+        },
+        {
+            "first10words": "Danovy doklad faktura c Maternia s r o Videnska Nova",
+            "size": 1078926,
+            "mime_type": "application/pdf",
+            "cte": "BASE64",
+            "flags": 0,
+            "lang": "cs",
+            "name": "vasecocky-faktura-6501002121.pdf",
+            "pepca": "p95f289e4688ce80e",
+            "sumphash": "bd96583c336a8ee0a8ec3eef9ba1f916"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1,
+                0.1
+            ],
+            "score": 1.2
+        }
+    ],
+    "pepca": "pac8720f5e24d3cda",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": "jte posledni objednavku Zelena linka 800 800 170 Po Pa 8 16 hod www VaseCocky cz Obchodni podminky Facebook Twitter ",
+    "subject": "VaseCocky cz objednavka c 1501000512 byla vyexpedovana",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 5,
+                "domain": "vasecocky"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 43605667.339271,
+                "domain": "vasecocky"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "vasecocky",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "vasecocky",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "vasecocky",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "vasecocky"
+            },
+            {
+                "confidence": 1,
+                "domain": "ky"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p35133ebbed37018c",
+    "unsub_link_texts": [
+        " obchodny podminka "
+    ],
+    "unsub_link": "http://email.vasecocky.cz/c/ZD1iMGNlJmk9MjAxNTAxMTIxMzQ5NDAuMTI1OTA4LjkxMzU2JTQwdmFzZWNvY2t5LmN6Jmg9NjgxZTQzNjQ1NTNhZTM4MmY5YjAyNjkxZmNlMDE4Y2MmbD1odHRwJTNBJTJGJTJGd3d3LnZhc2Vjb2NreS5jeiUyRm9iY2hvZG5pLXBvZG1pbmt5Lmh0bWwmcj1oZWxlbmEudGVzYXJvdmElNDBzZXpuYW0uY3o",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Vazena pani Tesarova Vase objednavka c 1501000512 byla vyexpedovana a predana spolecnosti k doruceni na adr",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 298,
+    "adscore": 0,
+    "spamscore": 1.2
+}

@@ -1,0 +1,105 @@
+{
+    "phashes": [
+        {
+            "value": "p0541e5b57a27e2d8",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p0f52b9382d19aef6",
+            "name": "pepca"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "jana.ry.bo.va@seznam.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/194abc905dba3bdd9f20d304694535fb.eml.eml",
+    "attachments": [
+        {
+            "size": 14149,
+            "name": "Objedn\u00e1vky_uzeniny_Sudom\u011b\u0159ice 10.1.2015.xlsx",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "m14ad440d1b0m29f",
+            "sumphash": "4f2731f2853b802a659f8daf90c9b8c4",
+            "pepca": "p0541e5b57a27e2d8",
+            "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "pepca": "p0f52b9382d19aef6",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": " Dobry den posilam objednavku a dekuji za jeji vyrizeni Pekny den Jana Rybova Dobre jidlo z Moravy Hodonin ",
+    "subject": "objednavka Jana Rybova Dobre jidlo Hodonin",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 4111285.41365,
+                "domain": "zsjilovska"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "zsjilovska",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Dobry den posilam objednavku a dekuji za jeji vyrizeni Pekny den Jana Rybova Dobre jidlo z Moravy Hodonin ",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 16,
+    "adscore": 0,
+    "spamscore": 1.1
+}

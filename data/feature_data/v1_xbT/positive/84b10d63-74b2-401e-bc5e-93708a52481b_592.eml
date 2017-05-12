@@ -1,0 +1,96 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pdbddbb4130508ec5",
+    "last10words": "root KI6 serv file rev media source GNP 0x92700187 0x9 0x0760 0x35945618 0x2 0x6380 0x18111000 0x74810007 0x414 0x4 0x4614 0x2486 ",
+    "pepca_style_total": 0,
+    "header_from": "clientdepmnt.refed087904965938d.cm@nationalcity.com",
+    "first10words": " Dear National City business client The National City Corporate Customer Service requests you to complete the National City Busine",
+    "attachments": [],
+    "word_count": 362,
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/592.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pdbddbb4130508ec5"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "cinemacity",
+                "confidence": 21399514.7996427
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "cinemacity",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "en",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "confirm your online account details mess id 106042395346 ",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": true,
+        "5_top_domains_id_2": 0,
+        "5_top_domains_id_1": 1,
+        "5_top_domains_percent_1": 0.3333333333333333,
+        "5_top_domains_percent_2": 0.3333333333333333,
+        "5_top_domains_id_0": 0,
+        "5_top_domains_percent_0": 0.3333333333333333
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

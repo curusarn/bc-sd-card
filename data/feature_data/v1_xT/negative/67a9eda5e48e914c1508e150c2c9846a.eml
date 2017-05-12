@@ -1,0 +1,100 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "module": "ill",
+            "score": 1
+        }
+    ],
+    "pepca": "pe0e54ba7e84e4bf9",
+    "first10words": " Zprava A A Komu Petra KedlickaA BRUDRA s r o A A Predmet faktura dodaci list k obj 01692 A A Odeslano 1",
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "word_count": 50,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Precteno faktura dodaci list k obj 01692",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1,
+    "phishing": {},
+    "header_from": "kedlicka@brudra.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/67a9eda5e48e914c1508e150c2c9846a.eml",
+    "attachments": [
+        {
+            "size": 213,
+            "mime_type": "message/disposition-notification",
+            "flags": 0,
+            "pepca": "p700988dcd6609b8f",
+            "cte": "PLAIN",
+            "sumphash": "153ab5ec10ccf6ba31eb95f947c09650",
+            "name": ""
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p700988dcd6609b8f"
+        },
+        {
+            "name": "pepca",
+            "value": "pe0e54ba7e84e4bf9"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "suip",
+        "plain_domain": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 4312414.027608,
+                "domain": "suip"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": " Budapest Belehrad Lublan A byla prectena 15 prosince 2014 11 47 28 UTC 01 00 Praha Bratislava Budapest Belehrad Lublan ",
+    "lang": "cs"
+}

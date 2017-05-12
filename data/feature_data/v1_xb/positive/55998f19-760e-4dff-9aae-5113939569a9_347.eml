@@ -1,0 +1,101 @@
+{
+    "phashes": [
+        {
+            "value": "pa7e1304b00614493",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pfcc4304f8ae8512b",
+            "name": "pepca"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "reference_id_57126451.cust@53.com",
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/347.eml",
+    "attachments": [
+        {
+            "size": 8528,
+            "name": "VPRSGL5.PNG",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "006901c6d4e1$83ddd040$6c822ecf@S2KKQI6",
+            "sumphash": "173139f82f33b2c196f525935aa35100",
+            "pepca": "pa7e1304b00614493",
+            "mime_type": "image/png"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "from_missmatch"
+            ],
+            "subscores": [
+                0.0
+            ],
+            "score": 0.0
+        }
+    ],
+    "pepca": "pfcc4304f8ae8512b",
+    "phishing": {
+        "ner_domain_detected": true
+    },
+    "pepca_style": "",
+    "last10words": "rm contort bid cf corkscrew tuna pale yew darn spat twig bill yogi mull no thanks wind canoe boustrophedon barcelona adit lug mole pale ami rot ",
+    "subject": "Important Account Notification",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 19654443.3367588,
+                "domain": "ebay"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "ebay",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " goal ohm colony commonweal peal daunt aviatrix bale host dilemma to bacteria kart americanism lazy snub dopoutcumin romp came bou",
+    "lang": "un",
+    "pepcatotal": 0,
+    "word_count": 440,
+    "adscore": 0,
+    "spamscore": 0.0
+}

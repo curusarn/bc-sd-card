@@ -1,0 +1,100 @@
+{
+    "phashes": [
+        {
+            "value": "p527cf09a4d9c49f4",
+            "name": "pepca"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "dapetoma@seznam.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/trans-dd34e51e633afb5ee01d284b7f81d58e.eml",
+    "attachments": [
+        {
+            "size": 0,
+            "name": "10921663_1056975060994851_1049525543_n.jpg",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "m14ae3ee271emc82",
+            "sumphash": "dc5b5ace27d0916fed08dfee55dd0748",
+            "mime_type": "image/jpeg"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "pepca": "p527cf09a4d9c49f4",
+    "phishing": {
+        "ner_domain_detected": true
+    },
+    "pepca_style": "",
+    "last10words": "i spagatek Tyto srdicka byly trochu vetsi prodavaly se myslim za 49 tak myslim ze cena pro vas byla 39 Diky Petra ",
+    "subject": "objednavka",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 281178.750844,
+                "domain": "bitconsulting"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "bitconsulting",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Dobry den pani si objednava 2 tyto srdicka nechce tam ale maslicku a misto snurky jen prirodni delsi spagatek Tyto srdic",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 47,
+    "adscore": 0,
+    "spamscore": 1.1
+}

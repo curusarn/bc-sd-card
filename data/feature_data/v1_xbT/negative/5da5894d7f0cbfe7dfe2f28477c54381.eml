@@ -1,0 +1,109 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pa04695dc1c36578a",
+    "last10words": " Tato zprava byla zkontrolovana na viry programem Avast Antivirus http www avast com",
+    "pepca_style_total": 0,
+    "header_from": "drywallplzen@volny.cz",
+    "first10words": " Tato zprava byla zkontrolovana na viry programem Avast Antivirus http www avast com",
+    "attachments": [
+        {
+            "mime_type": "application/pdf",
+            "name": "DRYWALL - Faktura.pdf",
+            "first10words": "Misto urceni Naturmont s r o Borska ul Breznice IC",
+            "pepca": "pa6957b6f92cca30e",
+            "lang": "cs",
+            "cte": "BASE64",
+            "size": 1086653,
+            "flags": 0,
+            "sumphash": "4abf68b746b6c75d7f566154831729f2"
+        }
+    ],
+    "word_count": 11,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/5da5894d7f0cbfe7dfe2f28477c54381.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "pa6957b6f92cca30e"
+        },
+        {
+            "name": "pepca",
+            "value": "pa04695dc1c36578a"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "digitalriver",
+                "confidence": 6848734.94758
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "digitalriver",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "avast",
+        "plain_domain_detail": [
+            {
+                "domain": "avast",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": " SPAM DRYWALL Faktura FaV 010 140475",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

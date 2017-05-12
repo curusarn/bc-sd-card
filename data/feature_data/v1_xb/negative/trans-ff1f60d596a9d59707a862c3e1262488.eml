@@ -1,0 +1,125 @@
+{
+    "phashes": [
+        {
+            "value": "p404a543230d699ea",
+            "name": "pepca"
+        },
+        {
+            "value": "pf5b4bd2d99ec5214",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "eshop@fotolab.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/trans-ff1f60d596a9d59707a862c3e1262488.eml",
+    "attachments": [
+        {
+            "size": 0,
+            "name": "image",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "623ec5fb582e5b1c6535ecaa3b6a92e3",
+            "sumphash": "dc5b5ace27d0916fed08dfee55dd0748",
+            "mime_type": "image/gif"
+        },
+        {
+            "size": 0,
+            "name": "image",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "623fc78be531580755b0435e6c93f242",
+            "sumphash": "dc5b5ace27d0916fed08dfee55dd0748",
+            "mime_type": "image/jpeg"
+        },
+        {
+            "size": 0,
+            "name": "image",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "623f99b600e1e704fbc918ef341bf7a0",
+            "sumphash": "dc5b5ace27d0916fed08dfee55dd0748",
+            "mime_type": "image/jpeg"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "pepca": "p404a543230d699ea",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": "ezinarodni prodejce fototechniky CeWe Color a s Kloknerova 2278 24 148 00 Praha 4 Chodov Email eshop fotolab cz Tel 272 071 200 ",
+    "subject": "Zmena stavu objednavky Odeslano",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 25491228.990176,
+                "domain": "masterinter"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "masterinter",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "fotolab",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "fotolab"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "pf5b4bd2d99ec5214",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Zmena stavu objednavky Odeslano Vazeny zakazniku Vase objednavka cislo 61665 byla prave odeslana Osobni ",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 226,
+    "adscore": 0,
+    "spamscore": 1
+}

@@ -1,0 +1,113 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging"
+            ],
+            "module": "ill",
+            "score": 1.1
+        }
+    ],
+    "pepca": "p8ccaadef24898f15",
+    "first10words": " Question for item 330095581523 Sony DSR 300 Professional Video Camera eBay sent this message to you from John McOnnell mconn",
+    "pepca_style": "p7e626cfce6f7b08f",
+    "pepca_inline_style": "p29d8d440fd2f0901",
+    "word_count": 790,
+    "pepca_style_total": 2,
+    "phish_score": 0,
+    "subject": "Message from eBay Member",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.1,
+    "phishing": {
+        "5_top_domains_percent_2": 0.05,
+        "5_top_domains_id_0": 0,
+        "5_top_domains_percent_1": 0.05,
+        "5_top_domains_percent_0": 0.9,
+        "5_top_domains_id_1": 0,
+        "5_top_domains_id_2": 0
+    },
+    "header_from": "member@ebay.com",
+    "pepca_inline_style_total": 2,
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/1752.eml",
+    "attachments": [],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p8ccaadef24898f15"
+        },
+        {
+            "name": "pepca_style",
+            "value": "p7e626cfce6f7b08f"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p29d8d440fd2f0901"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "ebay"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "ebay",
+        "plain_domain": "ebay",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 8853800389.04735,
+                "domain": "ebay"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "ebay",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [
+            {
+                "confidence": 8,
+                "domain": "ebay"
+            }
+        ],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "ges ebay com help policies user agreement html Copyright 2006 2007 eBay Inc All Rights Reserved Designated trademark ",
+    "lang": "en"
+}

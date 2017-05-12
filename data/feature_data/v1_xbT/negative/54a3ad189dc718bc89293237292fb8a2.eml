@@ -1,0 +1,111 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p01b17f827d00d19a",
+    "last10words": "nas nezridili ucet nebo pokud jsme vam tento email zaslali omylem prosim zaslete email na info brijanderove cz Tento email neni SPAM ",
+    "pepca_style_total": 0,
+    "unsub_link_texts": [
+        " g novinka na google copyright c"
+    ],
+    "header_from": "info@brijanderove.cz",
+    "unsub_link_candidates": [
+        "https://plus.google.com/+UmelekvetinyEu/"
+    ],
+    "first10words": " Vazeni Vera Potvrzujeme uspesnou registraci v obchode firmy Bri JANDEROVE Prihlasovaci udaje E mail A vemael se",
+    "attachments": [],
+    "word_count": 158,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/54a3ad189dc718bc89293237292fb8a2.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p01b17f827d00d19a"
+        },
+        {
+            "name": "pepca_style",
+            "value": "pee3ced3b04d0bc2c"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "umelekvetiny",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "google",
+                "confidence": 16046806.6511757
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "umelekvetiny",
+                "confidence": 3
+            }
+        ],
+        "domain_keywords": "google",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "umelekvetiny",
+        "plain_domain_detail": [
+            {
+                "domain": "umelekvetiny",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Uspesna registrace v obchode firmy Bri JANDEROVE",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "unsub_link": "https://plus.google.com/+UmelekvetinyEu/",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "pee3ced3b04d0bc2c",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

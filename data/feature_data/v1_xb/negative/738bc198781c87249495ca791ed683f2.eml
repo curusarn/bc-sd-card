@@ -1,0 +1,108 @@
+{
+    "phashes": [
+        {
+            "value": "pfc524ce365933aa1",
+            "name": "pepca"
+        },
+        {
+            "value": "p169667091bc4d6de",
+            "name": "pepca_style"
+        },
+        {
+            "value": "p14b64ffd051a7841",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 2,
+    "header_from": "noreply@odpadnes.sk",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/738bc198781c87249495ca791ed683f2.eml",
+    "attachments": [],
+    "contains_list_header": true,
+    "last10words": " Kontakt Ombudsman FAQ Ako fungujeme Odhlasit e maily 2010 2014 Odpadnes sk ",
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "p169667091bc4d6de",
+    "pepca": "pfc524ce365933aa1",
+    "subject": "Ziadost o zmenu hesla",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 7,
+                "domain": "azet"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 18058921.458902,
+                "domain": "odpadnes"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "azet",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "odpadnes",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p14b64ffd051a7841",
+    "list_unsubscribe_urls": [
+        "mailto:unsubscribe@odpadnes.sk?subject=Odhlasenie_ID_4321284",
+        "http://zlavy.odpadnes.sk/unsubscribe/?mt=mPwRequest&md=20141031&s[hash]=QJToP084in5vEqCK+NMRiA=="
+    ],
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Odpadnes sk Nezobrazuje sa vam tento e mail v spravne Kliknite sem Dobry den Radek zaznam",
+    "lang": "sk",
+    "pepcatotal": 0,
+    "word_count": 187,
+    "adscore": 0,
+    "spamscore": 1.1
+}

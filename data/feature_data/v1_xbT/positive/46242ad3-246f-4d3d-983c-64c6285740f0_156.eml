@@ -1,0 +1,122 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p4f6f1b30de6404ac",
+    "last10words": "auf wird bearbeitet Alle Fragen senden sie bitte an Helpdesk Postbank support postbank de 2004 Deutsche Postbank AG ",
+    "pepca_style_total": 0,
+    "header_from": "ssl@postbankde.com",
+    "first10words": " Postbank Wichtige Information von der Verwaltung der Postbank Sehr geehrte Kundin sehr geehrter Kunde ",
+    "attachments": [
+        {
+            "name": "jiggling.gif",
+            "pepca": "pc1e8030f8297ec92",
+            "cte": "BASE64",
+            "mime_type": "image/gif",
+            "cid": "jiggling.gif",
+            "size": 2102,
+            "flags": 0,
+            "sumphash": "3a6cbd17887a167830e557b4ac15761a"
+        },
+        {
+            "name": "churns.jpg",
+            "pepca": "pce7cef4f8b4564ce",
+            "cte": "BASE64",
+            "mime_type": "image/jpeg",
+            "cid": "churns.jpg",
+            "size": 28620,
+            "flags": 0,
+            "sumphash": "27afca68f81e0a525e61d2ea065b56b2"
+        }
+    ],
+    "word_count": 192,
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/156.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "pc1e8030f8297ec92"
+        },
+        {
+            "name": "att-pepca",
+            "value": "pce7cef4f8b4564ce"
+        },
+        {
+            "name": "pepca",
+            "value": "p4f6f1b30de6404ac"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "ebay",
+                "confidence": 276180631.553282
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "ebay",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "postepank",
+        "plain_domain_detail": [
+            {
+                "domain": "postepank",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "de",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Online Kunden",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

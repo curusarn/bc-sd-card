@@ -1,0 +1,116 @@
+{
+    "phashes": [
+        {
+            "value": "pd31100a5ee8d4d5c",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p04a8a8e17ebbe89f",
+            "name": "pepca"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "obchod@kozap.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/29054d87cc500a7446397bc053cf93bc.eml",
+    "unsub_link_candidates": [
+        "http://www.kozap.cz"
+    ],
+    "attachments": [
+        {
+            "size": 11737,
+            "name": "objednavka.html",
+            "cte": "BASE64",
+            "flags": 0,
+            "sumphash": "7b92842b35a15d72b1d945a756f2b95e",
+            "pepca": "pd31100a5ee8d4d5c",
+            "mime_type": "text/html"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "pepca": "p04a8a8e17ebbe89f",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": "as KOZAP web http www kozap cz mail obchod kozap cz tel a fax 572646 220 ",
+    "subject": "KOZAP objednavka",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 1654360.05881,
+                "domain": "kozap"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "kozap",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "kozap",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "kozap"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "unsub_link_texts": [
+        "  mail"
+    ],
+    "unsub_link": "http://www.kozap.cz",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Dobry den dekujeme ze jste projevili zajem o nase produkty Jakmile bude objednavka prijata obchodnikem tak bude informovani dalsim p",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 49,
+    "adscore": 0,
+    "spamscore": 1.1
+}

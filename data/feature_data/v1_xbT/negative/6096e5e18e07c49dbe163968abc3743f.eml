@@ -1,0 +1,100 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p947edec9ee4b90ab",
+    "last10words": "odni podminky http www thomann de cz faq question vseobecne obchodni podminky html S hudebnimi pozdravy Vas Thomann tym http www thomann de",
+    "pepca_style_total": 0,
+    "unsub_link_texts": [
+        "  vseobecny obchodny podminka"
+    ],
+    "header_from": "cesko@thomann.de",
+    "unsub_link_candidates": [
+        "http://www.thomann.de"
+    ],
+    "first10words": " Vazeny zakazniku dekujeme za Vasi objednavku u firmy Thomann a za projevenou duveru k nasim vyrobkum a sluzbam Timto Vam potvrzujeme uzavren",
+    "attachments": [],
+    "word_count": 728,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/6096e5e18e07c49dbe163968abc3743f.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p947edec9ee4b90ab"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "thomann",
+                "confidence": 98036964.67024
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "thomann",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "thomann",
+        "plain_domain_detail": [
+            {
+                "domain": "thomann",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Vase objednavka u firmy Thomann 7112014 ",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "unsub_link": "http://www.thomann.de",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

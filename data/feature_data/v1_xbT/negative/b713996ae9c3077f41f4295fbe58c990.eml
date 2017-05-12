@@ -1,0 +1,138 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pd88e58f66e83bdd7",
+    "last10words": "r http www okay cz kontakty http www okay cz Tento e mail je generovan automaticky prosime neodpovidejte na nej ",
+    "pepca_style_total": 0,
+    "unsub_link_texts": [
+        " http www okay cz tento e mail je generovan automaticky prosit neodpovidat na on"
+    ],
+    "header_from": "objednavky@okay.cz",
+    "unsub_link_candidates": [
+        "http://www.okay.cz/"
+    ],
+    "first10words": " Vazeny zakazniku dekujeme za Vas nakup na OKAY cz Timto e mailem potvrzujeme ze jsme 15 12 2014 11 47 40 prijal",
+    "attachments": [
+        {
+            "mime_type": "application/pdf",
+            "name": "obchodni_podminky.pdf",
+            "first10words": "Microsoft Word OKAY odstoupen od KS doc Obchodni podminky Uvodni",
+            "pepca": "pc76ca1e4c0e428ed",
+            "lang": "cs",
+            "cte": "BASE64",
+            "size": 132013,
+            "flags": 0,
+            "sumphash": "296e05e5fcd5ed34fc655bdd17042c76"
+        },
+        {
+            "name": "4_sleva40kc.jpg",
+            "pepca": "p391fe18a3316fbef",
+            "cte": "BASE64",
+            "mime_type": "image/jpeg",
+            "cid": "4_sleva40kc.jpg@www.okay.cz.55952e70d6",
+            "size": 64581,
+            "flags": 0,
+            "sumphash": "bb522c4192b6e7a556a858e36a63191d"
+        }
+    ],
+    "word_count": 648,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/b713996ae9c3077f41f4295fbe58c990.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "pc76ca1e4c0e428ed"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p391fe18a3316fbef"
+        },
+        {
+            "name": "pepca",
+            "value": "pd88e58f66e83bdd7"
+        },
+        {
+            "name": "pepca_style",
+            "value": "p3a0a0bf37ff61821"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p22876bac88b4dc0d"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "masterinter",
+                "confidence": 140201759.445968
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "masterinter",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "okay",
+        "plain_domain_detail": [
+            {
+                "domain": "okay",
+                "confidence": 4
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "OKAY cz Vase objednavka cislo 9914936846 byla prijata",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "unsub_link": "http://www.okay.cz/",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "p3a0a0bf37ff61821",
+    "pepca_inline_style": "p22876bac88b4dc0d",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

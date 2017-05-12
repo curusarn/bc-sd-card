@@ -1,0 +1,93 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                1
+            ],
+            "name": [
+                "missing_date",
+                "from_missmatch",
+                "missing_message_id"
+            ],
+            "module": "ill",
+            "score": 2
+        }
+    ],
+    "pepca": "pa64ce8edee5f8a27",
+    "first10words": " Mila ucastnice mily ucastniku vazime si Vasi registrace na nasi domene ClinLife evropske platforme pro klinicky vyzkum D",
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "word_count": 87,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Vase registrace u ClinLife",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 2,
+    "phishing": {},
+    "header_from": "info@clinlife.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/4a11be8f85e09cd1e34354e70e05b8ea.eml",
+    "attachments": [],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pa64ce8edee5f8a27"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "clinlife"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "flirtlide",
+        "plain_domain": "clinlife",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 1686302.8036732,
+                "domain": "flirtlide"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "rvni informace tykajici se klinickeho vyzkumu S pratelskym pozdravem Vas ClinLife tym http www clinlife cz mailto info clinlife cz",
+    "lang": "cs"
+}

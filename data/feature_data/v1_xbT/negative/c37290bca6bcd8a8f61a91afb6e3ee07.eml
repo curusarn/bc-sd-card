@@ -1,0 +1,130 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p14f13c9044060264",
+    "last10words": "00 Praha 2 tel 420 222 745 111 fax 420 222 745 112 e mail podpora nic cz ",
+    "pepca_style_total": 0,
+    "header_from": "podpora@nic.cz",
+    "first10words": " This is a bilingual message Please see below for the English version Vazena pani vazeny pane dovolujeme si Vas zdvorile pozadat o ",
+    "attachments": [
+        {
+            "name": "",
+            "pepca": "pbaa2cccb82e2eaae",
+            "cte": "PLAIN",
+            "mime_type": "text/x-vcard",
+            "size": 355,
+            "flags": 0,
+            "sumphash": "8989f405c811fd522094bbdeb51072e6"
+        },
+        {
+            "name": "smime.p7s",
+            "pepca": "p820af61a321dd752",
+            "cte": "BASE64",
+            "mime_type": "application/pkcs7-signature",
+            "size": 2341,
+            "flags": 0,
+            "sumphash": "3f00ffb97fa9a3d361c34090fa87a71d"
+        }
+    ],
+    "word_count": 403,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/c37290bca6bcd8a8f61a91afb6e3ee07.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "pbaa2cccb82e2eaae"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p820af61a321dd752"
+        },
+        {
+            "name": "pepca",
+            "value": "p14f13c9044060264"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "alibaba",
+                "confidence": 144297066.226347
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "alibaba",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "sokollochkov",
+        "plain_domain_detail": [
+            {
+                "domain": "sokollochkov",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Overeni spravnosti udaju",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": true,
+        "5_top_domains_id_1": 0,
+        "5_top_domains_percent_1": 0.2857142857142857,
+        "5_top_domains_percent_3": 0.14285714285714285,
+        "5_top_domains_id_0": 0,
+        "5_top_domains_percent_0": 0.2857142857142857,
+        "5_top_domains_id_4": 1,
+        "5_top_domains_id_2": 0,
+        "5_top_domains_percent_4": 0.14285714285714285,
+        "5_top_domains_percent_2": 0.14285714285714285,
+        "5_top_domains_id_3": 2
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

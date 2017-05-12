@@ -1,0 +1,107 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.5
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "long_subject"
+            ],
+            "module": "ill",
+            "score": 1.5
+        }
+    ],
+    "pepca": "pc21d7f9441a55cdc",
+    "first10words": " The Regions US Interact Service Details Confirmation Procedure Dear Regions Bank USA Treasury Services customer ",
+    "pepca_style": "",
+    "pepca_inline_style": "pa6a9d51c99ec020c",
+    "word_count": 197,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Regions Bank USA Internet Cash Management Customer Message Instructions For Client",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.5,
+    "phishing": {},
+    "header_from": "technical_support-op-968ljs@regions.com",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/563.eml",
+    "attachments": [
+        {
+            "size": 4130,
+            "mime_type": "image/gif",
+            "flags": 0,
+            "pepca": "p3b1b735abcee37b0",
+            "cid": "002901c7a7bb$7fa08650$05d4fea9@lalo-vfc4s4d0e0",
+            "cte": "BASE64",
+            "sumphash": "85bcacf75cb64b749a68ea81dae10385",
+            "name": "obf439.gif"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p3b1b735abcee37b0"
+        },
+        {
+            "name": "pepca",
+            "value": "pc21d7f9441a55cdc"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pa6a9d51c99ec020c"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "mcsv",
+        "plain_domain": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 58314268.50908,
+                "domain": "mcsv"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": " Banking please ignore this notice Copyright 2007 Regions Bank USA Corporate Banking All Rights Reserved ",
+    "lang": "en"
+}

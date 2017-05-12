@@ -1,0 +1,134 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "module": "ill",
+            "score": 1
+        }
+    ],
+    "pepca": "p37233d84c88f10f9",
+    "first10words": " This is a bilingual message Please see below for the English version Vazena pani vazeny pane dovolujeme si Vas zdvorile pozadat o ",
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "unsub_link": "https://domeny.gigaserver.cz",
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Overeni spravnosti udaju",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1,
+    "word_count": 468,
+    "phishing": {
+        "5_top_domains_percent_2": 0.2,
+        "5_top_domains_id_2": 1,
+        "5_top_domains_percent_3": 0.2,
+        "5_top_domains_id_1": 0,
+        "5_top_domains_id_3": 2,
+        "5_top_domains_id_0": 0,
+        "5_top_domains_percent_1": 0.2,
+        "5_top_domains_percent_0": 0.4
+    },
+    "header_from": "podpora@nic.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/af87631093ad7df349fb292721f38f8f.eml",
+    "attachments": [
+        {
+            "size": 355,
+            "mime_type": "text/x-vcard",
+            "flags": 0,
+            "pepca": "pbaa2cccb82e2eaae",
+            "cte": "PLAIN",
+            "sumphash": "8989f405c811fd522094bbdeb51072e6",
+            "name": ""
+        },
+        {
+            "size": 2341,
+            "mime_type": "application/pkcs7-signature",
+            "flags": 0,
+            "pepca": "p4058160878868189",
+            "cte": "BASE64",
+            "sumphash": "5b154fd8afc23457c7fafdcc3fe77686",
+            "name": "smime.p7s"
+        }
+    ],
+    "adscore": 0,
+    "unsub_link_texts": [
+        "editace vasi udaj moct provest prostrednictvim system na adresa  nebo my kontaktovat prostrednictvim e mail"
+    ],
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "pbaa2cccb82e2eaae"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p4058160878868189"
+        },
+        {
+            "name": "pepca",
+            "value": "p37233d84c88f10f9"
+        }
+    ],
+    "unsub_link_candidates": [
+        "https://domeny.gigaserver.cz"
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "rezervace-registrace"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "gigaserver",
+        "plain_domain": "rezervace-registrace",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 181097807.320337,
+                "domain": "gigaserver"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "00 Praha 2 tel 420 222 745 111 fax 420 222 745 112 e mail podpora nic cz ",
+    "lang": "cs"
+}

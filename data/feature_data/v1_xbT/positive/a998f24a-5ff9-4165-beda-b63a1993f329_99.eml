@@ -1,0 +1,97 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p50347eb9b8d85c54",
+    "last10words": "tomer service at 1 800 788 7000 Your Privacy Security Standards Copyright 2004 Washington Mutual Inc All Rights Reserved ",
+    "pepca_style_total": 0,
+    "header_from": "personalbanking@erms-02.wamu.com",
+    "first10words": " Washington Mutual Corporate Home Page Dear Washi",
+    "attachments": [],
+    "word_count": 372,
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing0/99.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p50347eb9b8d85c54"
+        }
+    ],
+    "spamscore": 1.2,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "usbank",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "ebay",
+                "confidence": 53895925.5064835
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "usbank",
+                "confidence": 5
+            }
+        ],
+        "domain_keywords": "ebay",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "en",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Confirm Your Washington Mutual Online Banking",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "evil_script",
+                "from_missmatch",
+                "html_a_href_camouflaging"
+            ],
+            "subscores": [
+                1,
+                0.1,
+                0.0,
+                0.1
+            ],
+            "score": 1.2,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

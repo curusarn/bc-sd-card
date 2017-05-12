@@ -1,0 +1,120 @@
+{
+    "pepca_inline_style_total": 3,
+    "pepca": "p082ac2a8dd28768a",
+    "last10words": "aste se prosim zde Tento email ma charakter obchodniho sdeleni Copyright 2014 Tipsport a s Vsechna prava vyhrazena ",
+    "pepca_style_total": 0,
+    "unsub_link_texts": [
+        " podpora tipsport cz neprat li si nadale dostavat email od spolecnost tipsport",
+        "odhlasit se prosit zde ",
+        "copyright tipsport a s vsechen prav vyhrazen"
+    ],
+    "header_from": "info@tipsport.cz",
+    "contains_list_header": true,
+    "first10words": " Potvrzeni registrace u Tipsportu Nezobrazuje se Vam logo a obrazky Tisk Vazeny a pane pani Kachlik ",
+    "attachments": [],
+    "word_count": 120,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/bb9e5c0a1245a0b571f5e5d9dccaf3ae.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p082ac2a8dd28768a"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p7330d39c82255c92"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "hotely",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "mailkit",
+                "confidence": 26364775.562599
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "hotely",
+                "confidence": 1
+            },
+            {
+                "domain": "tipsport",
+                "confidence": 1
+            }
+        ],
+        "domain_keywords": "mailkit",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "tipsport",
+        "plain_domain_detail": [
+            {
+                "domain": "tipsport",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 2,
+    "subject": "Potvrzeni registrace u Tipsportu",
+    "adscore": 0,
+    "pepcatotal": 2,
+    "unsub_link": "http://track.mailkit.eu/mc/CECCQUVQLCQVQQQUVCIECQQVLFCVHMNY",
+    "phishing": {
+        "ner_domain_detected": true,
+        "5_top_domains_id_0": 0,
+        "5_top_domains_percent_0": 1.0
+    },
+    "pepca_style": "",
+    "unsub_link_candidates": [
+        "mailto:podpora@tipsport.cz",
+        "http://user.mailkit.eu/mc/CECCQUVQLCQVQQQUVCIECQQVDAWESDIU",
+        "http://track.mailkit.eu/mc/CECCQUVQLCQVQQQUVCIECQQVLFCVHMNY"
+    ],
+    "pepca_inline_style": "p7330d39c82255c92",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

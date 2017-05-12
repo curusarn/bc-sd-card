@@ -1,0 +1,126 @@
+{
+    "phashes": [
+        {
+            "value": "p7d41f2764e4aeb12",
+            "name": "pepca"
+        },
+        {
+            "value": "p35bc1eeb5b105e7a",
+            "name": "pepca_style"
+        },
+        {
+            "value": "p0cc65a140a78624e",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "info@dosahnetevseho.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/datasets/deduplicated_cz_phish_merged/5fd4e8ed4aa19597fa32bafbac0758d2.eml",
+    "unsub_link_candidates": [
+        "http://dosahnetevseho.us4.list-manage1.com/track/click?u=358a460c01c2b13dd357edddf&id=92639fdf54&e=012a589756",
+        "http://www.mailchimp.com/monkey-rewards/?utm_source=freemium_newsletter&utm_medium=email&utm_campaign=monkey_rewards&aid=358a460c01c2b13dd357edddf&afl=1",
+        "http://dosahnetevseho.us4.list-manage1.com/unsubscribe?u=358a460c01c2b13dd357edddf&id=19ec71eb3d&e=012a589756&c=b1e9ec14cf"
+    ],
+    "attachments": [],
+    "contains_list_header": true,
+    "last10words": "11000 Czech Republic Add us to your address book ODHLASIT UPRAVIT UDAJE OTEVRIT V PROHLIZECI ",
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging",
+                "long_subject"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1,
+                0.5
+            ],
+            "score": 1.6
+        }
+    ],
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "p35bc1eeb5b105e7a",
+    "pepca": "p7d41f2764e4aeb12",
+    "subject": "Promente sny v realitu pozvanka na Webinar od Dosahnete Vseho",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 7,
+                "domain": "sam73"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 58844798.9390575,
+                "domain": "mcsv"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "sam73",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "mcsv",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "eho",
+        "plain_domain_detail": [
+            {
+                "confidence": 2,
+                "domain": "eho"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p0cc65a140a78624e",
+    "unsub_link_texts": [
+        " alfameditace copyright dosahnout vsecek s",
+        " email marketing powered by mailchimp mailchimp email marketing ",
+        " odhlasit "
+    ],
+    "list_unsubscribe_urls": [
+        "mailto:unsubscribe-358a460c01c2b13dd357edddf-b1e9ec14cf-012a589756@mailin1.us2.mcsv.net?subject=unsubscribe",
+        "http://dosahnetevseho.us4.list-manage1.com/unsubscribe?u=358a460c01c2b13dd357edddf&id=19ec71eb3d&e=012a589756&c=b1e9ec14cf"
+    ],
+    "unsub_link": "http://dosahnetevseho.us4.list-manage1.com/unsubscribe?u=358a460c01c2b13dd357edddf&id=19ec71eb3d&e=012a589756&c=b1e9ec14cf",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Promente sny v realitu pozvanka na Webinar od Dosahnete Vseho Tento e mail obsahuje obchodni sdeleni a dostavate ho",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 581,
+    "adscore": 0,
+    "spamscore": 1.6
+}

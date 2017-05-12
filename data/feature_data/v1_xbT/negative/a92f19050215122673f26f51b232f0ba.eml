@@ -1,0 +1,95 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p267a1d3f9d0f0537",
+    "last10words": "rihlasovaci jmeno PavlaStanzelova Vase heslo pro prihlaseni 73282 Toto je automaticky vygenerovany email Prosim neodpovidejte na nej ",
+    "pepca_style_total": 0,
+    "header_from": "vstupenky@hrusinsky.cz",
+    "first10words": " Server vstupenky divadlonajezerce cz vase prihlasovaci jmeno PavlaStanzelova Vase heslo pro prihlaseni 73282 Toto je automaticky vygen",
+    "attachments": [],
+    "word_count": 20,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/a92f19050215122673f26f51b232f0ba.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p267a1d3f9d0f0537"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "bazak",
+                "confidence": 2390960.602522
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "bazak",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "divadlonajezerce",
+        "plain_domain_detail": [
+            {
+                "domain": "divadlonajezerce",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Zapomenute heslo",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

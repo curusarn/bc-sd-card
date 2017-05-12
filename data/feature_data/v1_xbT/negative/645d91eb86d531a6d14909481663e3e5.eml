@@ -1,0 +1,104 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p1b18cebf4148c0bd",
+    "last10words": "a sdilej publikace na PC Mac Android a iOS Publikuj Cti Sdilej Vydelavej www floowie com floowie floowie com ",
+    "pepca_style_total": 0,
+    "header_from": "admin@floowie.com",
+    "first10words": " Vase registrace probehla uspesne Vase uzivatelske jmeno miriam neumannova seznam cz Pokud byste zapomeli",
+    "attachments": [],
+    "word_count": 75,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/645d91eb86d531a6d14909481663e3e5.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p1b18cebf4148c0bd"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p73430169046d0499"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "floowie",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "floowie",
+                "confidence": 6484574.4165434
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "floowie",
+                "confidence": 2
+            }
+        ],
+        "domain_keywords": "floowie",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "floowie",
+        "plain_domain_detail": [
+            {
+                "domain": "floowie",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Registrace probehla uspesne",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "p73430169046d0499",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

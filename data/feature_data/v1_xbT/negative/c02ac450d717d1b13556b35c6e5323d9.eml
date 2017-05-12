@@ -1,0 +1,111 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p83d6462e2e2f2b3d",
+    "last10words": "e za Vasi objednavku a prejeme krasny zbytek dne S pozdravem Lucie Petrickova vedouci provozovny SEXSHOP CZ Karlin VIRTSHOP CZ s r o ",
+    "pepca_style_total": 0,
+    "header_from": "petrickova@virtshop.cz",
+    "first10words": " Vazeny zakazniku Vase objednavka cislo 19229551 ze dne 14 12 2014 19 50 04 je pripravena k osobnimu odberu na Vami zvolene pobocc",
+    "attachments": [
+        {
+            "mime_type": "application/pdf",
+            "name": "Zakazka-19229551.pdf",
+            "first10words": "Zakazka Doprava Osobni odber v Praze na prode Cislo dokladu",
+            "pepca": "pb41762d0b6b9570e",
+            "lang": "cs",
+            "cte": "BASE64",
+            "size": 71978,
+            "flags": 0,
+            "sumphash": "4801538613e6c71b8b28583ba1892f62"
+        }
+    ],
+    "word_count": 95,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/c02ac450d717d1b13556b35c6e5323d9.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "pb41762d0b6b9570e"
+        },
+        {
+            "name": "pepca",
+            "value": "p83d6462e2e2f2b3d"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "masterinter",
+                "confidence": 12745614.495088
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "masterinter",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "sexshop",
+        "plain_domain_detail": [
+            {
+                "domain": "sexshop",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Vase objednavka c 19229551 je pripravena",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

@@ -1,0 +1,107 @@
+{
+    "phashes": [
+        {
+            "value": "p830717b17c9f3ccc",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p652096b6f33a9c31",
+            "name": "pepca"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "orfadmin@litex.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/b4b41a3a51ebd2e0d43a80dc3fd44285.eml",
+    "attachments": [
+        {
+            "size": 2600,
+            "name": "Kopie obj-049400532.txt",
+            "cte": "BASE64",
+            "flags": 0,
+            "sumphash": "1f843df36bf7b265deac86c95c3daa51",
+            "pepca": "p830717b17c9f3ccc",
+            "mime_type": "text/plain"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "pepca": "p652096b6f33a9c31",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": "ne postovneho a balneho 3 868 00 4 658 00 Zpusob platby dobirka",
+    "subject": "Vase objednavka c 049400532",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 13452429.647616,
+                "domain": "zoner"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "zoner",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "litex",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "litex"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Objednavka c 049400532 viz pripojeny soubor odeslana z www aplikace Zoner inShop Litex dealer na adrese dealer litex cz Potvrzeni objednav",
+    "lang": "sk",
+    "pepcatotal": 0,
+    "word_count": 174,
+    "adscore": 0,
+    "spamscore": 1
+}

@@ -1,0 +1,104 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "module": "ill",
+            "score": 1.1
+        }
+    ],
+    "pepca": "p2b8c63705ae244d2",
+    "first10words": " Ahoj posilam objednavku na kominy Dnes panove nastoupili Dekuji Patrick Znamirowski tel 420 608 304 074 email patrick z",
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "word_count": 89,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Fwd SUM III objednavka kominy",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.1,
+    "phishing": {},
+    "header_from": "patrick.znamirowski@email.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/74de472ca4ae8357c76a6c288badf6c7.eml",
+    "attachments": [
+        {
+            "size": 188467,
+            "mime_type": "application/pdf",
+            "flags": 0,
+            "pepca": "pf78e4715368f13e1",
+            "cid": "m14a10e7e499m815",
+            "cte": "BASE64",
+            "sumphash": "428217407cad017effb8b5835de79028",
+            "name": "SUM_objedn\u00e1vka_kom\u00edny.pdf",
+            "lang": "un"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "pf78e4715368f13e1"
+        },
+        {
+            "name": "pepca",
+            "value": "p2b8c63705ae244d2"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "chartindustries",
+        "plain_domain": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 1083616.432978,
+                "domain": "chartindustries"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "jdeme stavebni pripravenost na stavbe Dekuji Patrick Znamirowski tel 420 608 304 074 email patrick znamirowski email cz ",
+    "lang": "cs"
+}

@@ -1,0 +1,126 @@
+{
+    "phashes": [
+        {
+            "value": "pa4f97fedaa81df55",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p2efdbd4be0a3f568",
+            "name": "pepca"
+        },
+        {
+            "value": "pe62919754cd9625d",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "VeraHroudova@seznam.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/45e281fe993b0230ed75d9fcccde8e7c.eml",
+    "attachments": [
+        {
+            "size": 3428,
+            "name": "image002.jpg",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "image002.jpg@01D0146A.EDA903B0",
+            "sumphash": "d1f292e3e9e9a578c03703c4f18afcbe",
+            "pepca": "pa4f97fedaa81df55",
+            "mime_type": "image/jpeg"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "pepca": "p2efdbd4be0a3f568",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": " E mail hlavsa ac usti cz Web www ac usti cz Sumavska 33 Usti nad Labem 400 11 ",
+    "subject": "Re FW Objednavka",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 55075730.7416967,
+                "domain": "cd"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "cd",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "easypoint",
+        "plain_domain_detail": [
+            {
+                "confidence": 2,
+                "domain": "easypoint"
+            },
+            {
+                "confidence": 2,
+                "domain": "yourshirts"
+            },
+            {
+                "confidence": 2,
+                "domain": "conflictshop"
+            },
+            {
+                "confidence": 2,
+                "domain": "ac-usti"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "pe62919754cd9625d",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " zaplaceno Puvodni zprava Od Stepan Hlavsa hlavsa seznam cz Komu Vera Hroudova VeraHroudova seznam cz ",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 756,
+    "adscore": 0,
+    "spamscore": 1.1
+}

@@ -1,0 +1,122 @@
+{
+    "phashes": [
+        {
+            "value": "pc1e8030f8297ec92",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pce7cef4f8b4564ce",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p4f6f1b30de6404ac",
+            "name": "pepca"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "ssl@postbankde.com",
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/20051114/254.eml",
+    "attachments": [
+        {
+            "size": 2102,
+            "name": "sluggishness.gif",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "sluggishness.gif",
+            "sumphash": "3a6cbd17887a167830e557b4ac15761a",
+            "pepca": "pc1e8030f8297ec92",
+            "mime_type": "image/gif"
+        },
+        {
+            "size": 28620,
+            "name": "paragraphed.jpg",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "paragraphed.jpg",
+            "sumphash": "27afca68f81e0a525e61d2ea065b56b2",
+            "pepca": "pce7cef4f8b4564ce",
+            "mime_type": "image/jpeg"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "pepca": "p4f6f1b30de6404ac",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": "auf wird bearbeitet Alle Fragen senden sie bitte an Helpdesk Postbank support postbank de 2004 Deutsche Postbank AG ",
+    "subject": "Online Kunden",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 276180631.553282,
+                "domain": "ebay"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "ebay",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "postepank",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "postepank"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Postbank Wichtige Information von der Verwaltung der Postbank Sehr geehrte Kundin sehr geehrter Kunde ",
+    "lang": "de",
+    "pepcatotal": 0,
+    "word_count": 192,
+    "adscore": 0,
+    "spamscore": 1
+}

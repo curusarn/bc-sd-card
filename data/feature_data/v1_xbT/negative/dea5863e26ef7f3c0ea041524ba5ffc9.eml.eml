@@ -1,0 +1,142 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "",
+    "last10words": " S pozdravem J Zeman ",
+    "universalprobes": [
+        {
+            "key": "ps-from_mismatch",
+            "value": "1"
+        },
+        {
+            "key": "ps-attachments",
+            "value": "1"
+        },
+        {
+            "key": "ps-many_emails",
+            "value": "1"
+        }
+    ],
+    "pepca_style_total": 0,
+    "precedence": 3,
+    "dkstatus": {},
+    "header_from": "zeman-jiri@seznam.cz",
+    "spfstatus": {},
+    "pepcatotal": 0,
+    "attachments": [
+        {
+            "mime_type": "application/msword",
+            "name": "Jelinek cz1.doc",
+            "first10words": "AUTODOPRAVA ZEMAN MKD s r o Tel Mob Przno Fax",
+            "pepca": "p2ba0cbae74435568",
+            "lang": "cs",
+            "cte": "BASE64",
+            "cid": "m14ade6a6e50m51c",
+            "size": 34304,
+            "flags": 0,
+            "sumphash": "a36fb5b2415a853f91c18a3e489330ce"
+        }
+    ],
+    "word_count": 10,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/dea5863e26ef7f3c0ea041524ba5ffc9.eml.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p2ba0cbae74435568"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "autozeman",
+                "confidence": 151780.988488
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "autozeman",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "dmarc_status": {},
+    "phish_score": 0.0,
+    "domainstat": {},
+    "pepca_small": "p2f9eab11da69a85c",
+    "extractedEmailsTotalCount": {},
+    "subject": "Objednavka 0008 15",
+    "adscore": 0,
+    "first10words": " S pozdravem J Zeman ",
+    "unsub_link": {},
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "domainstat_themes": {},
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1,
+    "theme": {},
+    "lang": "cs",
+    "phNotches": [
+        {
+            "name": [
+                "from_mismatch",
+                "attachments",
+                "many_emails"
+            ],
+            "subscores": [
+                1,
+                1,
+                -2
+            ],
+            "score": 0.0,
+            "module": "phish-score"
+        }
+    ],
+    "pepca_inline_style": ""
+}

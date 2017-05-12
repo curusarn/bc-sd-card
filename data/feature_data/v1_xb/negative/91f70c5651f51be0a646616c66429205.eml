@@ -1,0 +1,182 @@
+{
+    "phashes": [
+        {
+            "value": "p3bbab7fb9452c871",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p9b5ea4b1f0edbe8e",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p64119f87c76927f0",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p000c4a5ab356baa6",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pd94b87b7777f2946",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pe13debdbd7b83f58",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p4420bfc4898473ec",
+            "name": "pepca"
+        },
+        {
+            "value": "p6e172568c03ddca4",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "hasakova@steelcom.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/91f70c5651f51be0a646616c66429205.eml",
+    "attachments": [
+        {
+            "size": 38650,
+            "name": "image001.jpg",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "image001.jpg@01D0185D.97C30530",
+            "sumphash": "8644cf9a687681cde20885351c97c6a4",
+            "pepca": "p3bbab7fb9452c871",
+            "mime_type": "image/jpeg"
+        },
+        {
+            "size": 1750,
+            "name": "image002.jpg",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "image002.jpg@01D0185D.97C30530",
+            "sumphash": "270290837dd92bb16d1a9c2b255cec95",
+            "pepca": "p9b5ea4b1f0edbe8e",
+            "mime_type": "image/jpeg"
+        },
+        {
+            "first10words": "Faktura FAKTURA DANOVY DOKLAD c Provozovna IC STEELCOM CZ a",
+            "size": 105531,
+            "mime_type": "application/pdf",
+            "cte": "BASE64",
+            "flags": 0,
+            "lang": "cs",
+            "name": "Faktura_20143874.pdf",
+            "pepca": "p64119f87c76927f0",
+            "sumphash": "26c6ce064ae03d5d8252d229f2535b7c"
+        },
+        {
+            "size": 1860626,
+            "name": "14 14 3305.pdf",
+            "cte": "BASE64",
+            "flags": 0,
+            "lang": "un",
+            "sumphash": "40c72fe270aa10557b2d5916d4a1874c",
+            "pepca": "p000c4a5ab356baa6",
+            "mime_type": "application/pdf"
+        },
+        {
+            "size": 1554336,
+            "name": "14 15 3568 - 023975 1.pdf",
+            "cte": "BASE64",
+            "flags": 0,
+            "lang": "un",
+            "sumphash": "6edbe6365cd7b5df69a6df8554d80c77",
+            "pepca": "pd94b87b7777f2946",
+            "mime_type": "application/pdf"
+        },
+        {
+            "size": 5760,
+            "name": "smime.p7s",
+            "cte": "BASE64",
+            "flags": 0,
+            "sumphash": "d0fd8899760c7ec4049f9d3a87aaf2ab",
+            "pepca": "pe13debdbd7b83f58",
+            "mime_type": "application/pkcs7-signature"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "pepca": "p4420bfc4898473ec",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": "ww steelcom cz A A Prikladame soubor ve formatu PDF Faktura 20143874 pdf ",
+    "subject": "Faktura c 20143874 Atesty",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 4888909.200258,
+                "domain": "bonprix"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "bonprix",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "steelcom",
+        "plain_domain_detail": [
+            {
+                "confidence": 2,
+                "domain": "steelcom"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p6e172568c03ddca4",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Dobry den A Od 23 12 14 a 04 01 15 mame podnikovou dovolenou vcetne skladu VA pondeli dne 22 12 14 a se ",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 161,
+    "adscore": 0,
+    "spamscore": 1
+}

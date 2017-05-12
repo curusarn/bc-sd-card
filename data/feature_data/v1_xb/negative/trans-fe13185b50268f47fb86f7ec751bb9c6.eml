@@ -1,0 +1,121 @@
+{
+    "phashes": [
+        {
+            "value": "pd3f8e4ebc1526d25",
+            "name": "pepca"
+        },
+        {
+            "value": "pfea3f005d06a2e51",
+            "name": "pepca_style"
+        },
+        {
+            "value": "pa8fb5cec2b8f9c33",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "lukas@macura.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/trans-fe13185b50268f47fb86f7ec751bb9c6.eml",
+    "attachments": [
+        {
+            "size": 0,
+            "name": "odelicz-1407226354.jpg",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "swift-142115943054b52c062ccad.1@odeli.cz",
+            "sumphash": "dc5b5ace27d0916fed08dfee55dd0748",
+            "mime_type": "image/jpeg"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "pepca": "pd3f8e4ebc1526d25",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "pfea3f005d06a2e51",
+    "last10words": " Zprava od zakaznika Zadne zpravy Obchod OdEli cz funguje v systemu PrestaShop ",
+    "subject": " OdEli cz Nova objednavka 17 VHCOLCGHH",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 28151261.3607,
+                "domain": "gopay"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "gopay",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "prestashop",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "prestashop"
+            },
+            {
+                "confidence": 2,
+                "domain": "odeli"
+            },
+            {
+                "confidence": 1,
+                "domain": "echleba"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "pa8fb5cec2b8f9c33",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Zprava z obchodu OdEli cz Blahoprejeme Blahoprejeme Byla zadana nova objednavka v obchode OdEli cz od za",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 466,
+    "adscore": 0,
+    "spamscore": 1.1
+}

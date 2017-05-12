@@ -1,0 +1,118 @@
+{
+    "phashes": [
+        {
+            "value": "p974c60182fa8f342",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pf19c780788e9ce85",
+            "name": "pepca"
+        },
+        {
+            "value": "p60206fac417c733d",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "fakturace@climbing.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/1a524b49e43caa0d07673a47f7cfddf9.eml.eml",
+    "attachments": [
+        {
+            "size": 3898,
+            "name": "image001.png",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "image001.png@01D02E77.02593110",
+            "sumphash": "8137f2408a77f190408b4839e86a9e8c",
+            "pepca": "p974c60182fa8f342",
+            "mime_type": "image/png"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "pepca": "pf19c780788e9ce85",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": "nformace od ESET NOD32 Antivirus verze databaze 10999 20150112 Tuto zpravu proveril ESET NOD32 Antivirus http www eset cz ",
+    "subject": "RE objednavka",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 88810086.862278,
+                "domain": "eset"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "eset",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "climbing",
+        "plain_domain_detail": [
+            {
+                "confidence": 2,
+                "domain": "climbing"
+            },
+            {
+                "confidence": 1,
+                "domain": "eset"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p60206fac417c733d",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Dobry den bunda konecne dorazila Behem zitrka Vam vystavim fakturu a zbozi odeslu ",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 457,
+    "adscore": 0,
+    "spamscore": 1.1
+}

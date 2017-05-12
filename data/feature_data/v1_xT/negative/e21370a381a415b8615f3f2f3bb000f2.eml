@@ -1,0 +1,107 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "module": "ill",
+            "score": 1.1
+        }
+    ],
+    "pepca": "pf07fad59e0d80afb",
+    "first10words": " Datum objednavky 15 12 2014 11 49 Cislo objednavky 23978 Zpusob odberu prepravni spolecnost PPL Zpusob uhrady Na dobirku ",
+    "pepca_style": "",
+    "pepca_inline_style": "p540e55acac9d0d35",
+    "word_count": 362,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Objednavka Dana Varmuzova Varmuzova",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.1,
+    "phishing": {},
+    "header_from": "dvarmuzova@seznam.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/e21370a381a415b8615f3f2f3bb000f2.eml",
+    "attachments": [
+        {
+            "size": 3870,
+            "mime_type": "image/jpeg",
+            "flags": 0,
+            "pepca": "p43aa8c54f9d6cbf8",
+            "cid": "5351781.jpg",
+            "cte": "BASE64",
+            "sumphash": "51020b81177b853ccbd981713e1997ed",
+            "name": "5351781.jpg"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p43aa8c54f9d6cbf8"
+        },
+        {
+            "name": "pepca",
+            "value": "pf07fad59e0d80afb"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p540e55acac9d0d35"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "superhosting",
+        "plain_domain": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 20646382.4884113,
+                "domain": "superhosting"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "ve vasem emai lu a pote nas obratem kontaktujte mailem nebo telefonicky Radi vam zasleme potvrzeni opakovane Dekujeme IP 82 144 140 106 ",
+    "lang": "cs"
+}

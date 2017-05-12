@@ -1,0 +1,103 @@
+{
+    "phashes": [
+        {
+            "value": "p9dce400faa3b189f",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pcb56f12c8c188a8c",
+            "name": "pepca"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "refid_0944320200ver@security.53.com",
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/386.eml",
+    "attachments": [
+        {
+            "size": 10357,
+            "name": "climatology.gif",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "I09Y0NA28E",
+            "sumphash": "48657c1cb910aef6a4fece2c1ab89822",
+            "pepca": "p9dce400faa3b189f",
+            "mime_type": "image/gif"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "pepca": "pcb56f12c8c188a8c",
+    "phishing": {
+        "ner_domain_detected": true
+    },
+    "pepca_style": "",
+    "last10words": "ewriter He had chalked it off to the pain and to being in a situation where he was not just writing for his supper but for his life chambers ",
+    "subject": "Please confirm your banking details ",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 52237571.3037151,
+                "domain": "aweber"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "aweber",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " etc assurance actinometer Poof In his mind he could see the rocker beginning to move in its dusty little alcove he co",
+    "lang": "en",
+    "pepcatotal": 0,
+    "word_count": 120,
+    "adscore": 0,
+    "spamscore": 1
+}

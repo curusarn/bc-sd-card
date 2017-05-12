@@ -1,0 +1,123 @@
+{
+    "phashes": [
+        {
+            "value": "p05270146751623bb",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p65f6546db358c57b",
+            "name": "pepca"
+        },
+        {
+            "value": "p0b0a3628d8bf90c5",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "eshop@kuchynskepotreby.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/8df70fa0e57fe768a2d230ab6f51fefa.eml",
+    "attachments": [
+        {
+            "first10words": "Obchodni podminky Vazeni zakaznici veskere podminky a ustanoveni tykajici se",
+            "size": 106589,
+            "mime_type": "application/pdf",
+            "cte": "BASE64",
+            "flags": 0,
+            "lang": "cs",
+            "name": "Obchodn\u00ed podm\u00ednky.pdf",
+            "pepca": "p05270146751623bb",
+            "sumphash": "1dd02cb60005156bfe693e1e1aa514c7"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "pepca": "p65f6546db358c57b",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": "rahomira Jancakova Rautis as Ponikla 153 51242 Ponikla cr Drahomira Jancakova Telefon 739914530 Email mamina po seznam cz ",
+    "subject": "Nova objednavka ze serveru www kuchynskepotreby cz 8093",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 25491228.990176,
+                "domain": "masterinter"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "masterinter",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "rautis",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "rautis"
+            },
+            {
+                "confidence": 1,
+                "domain": "kuchynskepotreby"
+            },
+            {
+                "confidence": 1,
+                "domain": "eby"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p0b0a3628d8bf90c5",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Vase objednavka byla prijata ke zpracovani zbozi Vam odesleme v nejblizsim moznem terminu V pripade nejasnosti Vas budeme ko",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 243,
+    "adscore": 0,
+    "spamscore": 1.1
+}

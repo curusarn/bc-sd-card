@@ -1,0 +1,116 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "module": "ill",
+            "score": 1.1
+        }
+    ],
+    "pepca": "p8c699f3b156a346a",
+    "first10words": " Welcome DEAR CUSTOMER You have received a remittance more information about the money transfer is in the attached file Money Order",
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "word_count": 207,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Money Transfer Information",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.1,
+    "phishing": {},
+    "header_from": "yrnJzq@hotmail.com",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/datasets/deduplicated_cz_phish_merged/f50d77738c6ee7d4b0ed9e055b6c60d6.eml",
+    "attachments": [
+        {
+            "exe_pepcas": [
+                ".text:p19fde085ed9c0dcd",
+                ".rsrc:pb202acbefb78986b"
+            ],
+            "mime_type": "application/octet-stream",
+            "flags": 2,
+            "pepca": "p8e2f0aaf0673cdc8",
+            "first10words": "MZ s I LI This program cannot be run in",
+            "size": 85504,
+            "cte": "BASE64",
+            "sumphash": "61ce8cb22d81172bed1524504d3650cb",
+            "name": "wu_personal-63041.pif",
+            "lang": "un"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca:exe-sec",
+            "value": ".text:p19fde085ed9c0dcd"
+        },
+        {
+            "name": "att-pepca:exe-sec",
+            "value": ".rsrc:pb202acbefb78986b"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p8e2f0aaf0673cdc8"
+        },
+        {
+            "name": "pepca",
+            "value": "p8c699f3b156a346a"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "paypal",
+        "plain_domain": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 71750135.5518546,
+                "domain": "paypal"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": " Bank Card and You must refer to that agreement to ascertain Your rights and liabilities as a cardholder which may include a cash advance fee ",
+    "lang": "en"
+}

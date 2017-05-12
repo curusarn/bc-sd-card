@@ -1,0 +1,95 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pefa5ec2fa051d626",
+    "last10words": "na odkaz zkopirujte nasledujici adresu do prohlizece http www gamesites cz front user verify 71651 secret 544e5c72df62a www gamesites cz",
+    "pepca_style_total": 0,
+    "header_from": "gamesites@gamesites.cz",
+    "first10words": " Dobry den pro dokonceni registrace na www gamesites cz je nutne potvrdit tento email POTVRDIT REGISTRACI NA GAMESITES CZ V pripa",
+    "attachments": [],
+    "word_count": 29,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/8044a4f34353d877b966069e00655b1e.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pefa5ec2fa051d626"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "gamesites",
+                "confidence": 18209682.2912
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "gamesites",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "gamesites",
+        "plain_domain_detail": [
+            {
+                "domain": "gamesites",
+                "confidence": 2
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Registrace uzivatele",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

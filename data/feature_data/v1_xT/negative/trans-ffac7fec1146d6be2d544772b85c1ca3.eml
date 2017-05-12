@@ -1,0 +1,108 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1,
+                0.5
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id",
+                "long_subject"
+            ],
+            "module": "ill",
+            "score": 1.6
+        }
+    ],
+    "pepca": "pdc7d95506badf332",
+    "first10words": " Darky prozeny cz Eva Krupova Milanska 459 10900 Praha 10 Horni Mecholupy Ceska republika 7165033 D",
+    "pepca_style": "p4e2e4c158812ab8d",
+    "pepca_inline_style": "pf19a5b2be1cee3fb",
+    "word_count": 397,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Potvrzeni objednavky cislo 07345 od Darky prozeny cz v celkove vysi 2084 00 Kc",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.6,
+    "phishing": {},
+    "header_from": "darky@darky-prozeny.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/trans-ffac7fec1146d6be2d544772b85c1ca3.eml",
+    "attachments": [],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pdc7d95506badf332"
+        },
+        {
+            "name": "pepca_style",
+            "value": "p4e2e4c158812ab8d"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pf19a5b2be1cee3fb"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "darky-prozeny"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "topsleva",
+        "plain_domain": "darky-prozeny",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 16164338.8117,
+                "domain": "topsleva"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "darky-prozeny",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [
+            {
+                "confidence": 1,
+                "domain": "darky-prozeny"
+            }
+        ],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "amilia Biagi a Trollbeads V nabidce je vice nez 2000 produktu Ted uz si vybere opravdu kazdy Page 1 1 ",
+    "lang": "cs"
+}

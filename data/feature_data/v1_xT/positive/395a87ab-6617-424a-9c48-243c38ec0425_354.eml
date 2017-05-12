@@ -1,0 +1,133 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "module": "ill",
+            "score": 1.1
+        }
+    ],
+    "pepca": "",
+    "pepca_style": "",
+    "phNotches": [
+        {
+            "subscores": [
+                1,
+                1,
+                -2
+            ],
+            "name": [
+                "from_mismatch",
+                "attachments",
+                "many_emails"
+            ],
+            "module": "phish-score",
+            "score": 0.0
+        }
+    ],
+    "dmarc_status": {},
+    "pepca_inline_style": "",
+    "unsub_link": {},
+    "pepca_style_total": 0,
+    "phish_score": 0.0,
+    "domainstat": {},
+    "domainstat_themes": {},
+    "subject": "Fifth Third Bank Service Message 1 November 2006",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.1,
+    "word_count": 12,
+    "phishing": {},
+    "universalprobes": [
+        {
+            "key": "ps-from_mismatch",
+            "value": "1"
+        },
+        {
+            "key": "ps-attachments",
+            "value": "1"
+        },
+        {
+            "key": "ps-many_emails",
+            "value": "1"
+        }
+    ],
+    "header_from": "Fifth@example.com",
+    "first10words": " ",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/354.eml",
+    "attachments": [
+        {
+            "size": 7958,
+            "mime_type": "image/jpeg",
+            "flags": 0,
+            "pepca": "p120123bc9fa232d8",
+            "cid": "88834F09.B5A73598.45CC435E.D5A157BA_csseditor",
+            "cte": "BASE64",
+            "sumphash": "7a15c78037bb2d28afdf18c2ae30035d",
+            "name": "kqDZl.gif"
+        }
+    ],
+    "adscore": 0,
+    "extractedEmailsTotalCount": {},
+    "dkstatus": {},
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p120123bc9fa232d8"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "",
+        "plain_domain": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": " ",
+    "theme": {},
+    "spfstatus": {},
+    "pepca_small": "pa7fcde80b42349d9",
+    "lang": "en"
+}

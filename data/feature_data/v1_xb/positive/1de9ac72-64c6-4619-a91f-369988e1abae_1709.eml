@@ -1,0 +1,105 @@
+{
+    "phashes": [
+        {
+            "value": "pdd988d7ea5ad5cc2",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p465f512a9101acb8",
+            "name": "pepca"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "refnumber285103019880747ib@bbt.com",
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/1709.eml",
+    "attachments": [
+        {
+            "size": 7847,
+            "name": "boeotian.gif",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "SDGIWBX112",
+            "sumphash": "ad76251b160a1141f1b294df484f9884",
+            "pepca": "pdd988d7ea5ad5cc2",
+            "mime_type": "image/gif"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "long_subject"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.5
+            ],
+            "score": 1.5
+        }
+    ],
+    "pepca": "p465f512a9101acb8",
+    "phishing": {
+        "ner_domain_detected": true
+    },
+    "pepca_style": "",
+    "last10words": "ay is March 25th A man who had been in a great deal more pain a man who had had nothing to hold onto not even this shitty book conservation ",
+    "subject": "BB T please update your details Fri 23 Mar 2007 10 09 49 0800",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 32913728.299108,
+                "domain": "aweber"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "aweber",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " How long did he stay Mrs Wilkes alfalfa abetted There was another light switch beside this door He decided that if he ",
+    "lang": "en",
+    "pepcatotal": 0,
+    "word_count": 115,
+    "adscore": 0,
+    "spamscore": 1.5
+}

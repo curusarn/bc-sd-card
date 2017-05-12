@@ -1,0 +1,102 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "missing_message_id"
+            ],
+            "module": "ill",
+            "score": 2
+        }
+    ],
+    "pepca": "p6ab8797880d041a3",
+    "first10words": " Dekujeme za Vasi objednavku v nasem e shopu O jejim zpracovani Vas budeme informovat e mailem Generovano systemem FastCentrik ",
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "word_count": 17,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Objednavka",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 2,
+    "phishing": {},
+    "header_from": "vchmel@rentaxcheb.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/trans-c58fdf623fe0abbe87a7f06f8447612a.eml",
+    "attachments": [
+        {
+            "size": 10050,
+            "mime_type": "text/html",
+            "flags": 0,
+            "pepca": "p9f44615c832fa2db",
+            "cte": "BASE64",
+            "sumphash": "1de4aaa085581b91dbacc94dd24f19f1",
+            "name": "objednavka.html"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p9f44615c832fa2db"
+        },
+        {
+            "name": "pepca",
+            "value": "p6ab8797880d041a3"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "jhmobil",
+        "plain_domain": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 1276494.18913,
+                "domain": "jhmobil"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": " Dekujeme za Vasi objednavku v nasem e shopu O jejim zpracovani Vas budeme informovat e mailem Generovano systemem FastCentrik ",
+    "lang": "cs"
+}

@@ -1,0 +1,109 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                2,
+                0.0,
+                0.1,
+                0.5,
+                1
+            ],
+            "name": [
+                "date_in_future",
+                "from_missmatch",
+                "foreign_message_id",
+                "long_subject",
+                "images_in_subject"
+            ],
+            "module": "ill",
+            "score": 3.6
+        }
+    ],
+    "pepca": "p2d30874f97be2bed",
+    "first10words": " youg 05 A S A CN AlCO YR c A A A RlRI e Aa A RlRI",
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "word_count": 141,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "CRCC a cRURO D U LAtCD A e zR A R A ZCRll Z U R D U",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 3.6,
+    "phishing": {},
+    "header_from": "oogeebgo@kornet.net",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing2/1104.eml",
+    "attachments": [],
+    "adNotches": [
+        {
+            "subscores": [
+                5
+            ],
+            "name": [
+                "images_in_subject"
+            ],
+            "module": "ill",
+            "score": 5
+        }
+    ],
+    "adscore": 5,
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p2d30874f97be2bed"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "zy"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "osiva",
+        "plain_domain": "zy",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 5718494.54898,
+                "domain": "osiva"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": " z 5 z 10 z ALRER 5 16 A N YR o a LA Rs z a L ZCDLLza ",
+    "lang": "un"
+}

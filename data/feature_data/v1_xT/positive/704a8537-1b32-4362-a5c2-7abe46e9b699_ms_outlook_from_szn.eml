@@ -1,0 +1,97 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "module": "ill",
+            "score": 1
+        }
+    ],
+    "pepca": "pc219d1fb2eee500e",
+    "first10words": " Microsoft account Microsoft Security alert We detected something unusual about a recent sign in to your Microsoft account Fo",
+    "pepca_style": "",
+    "pepca_inline_style": "pe377eadfc1f7db41",
+    "word_count": 169,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Microsoft account security alert ",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1,
+    "phishing": {
+        "5_top_domains_percent_2": 0.3333333333333333,
+        "5_top_domains_id_0": 0,
+        "5_top_domains_percent_1": 0.3333333333333333,
+        "5_top_domains_percent_0": 0.3333333333333333,
+        "5_top_domains_id_1": 1,
+        "5_top_domains_id_2": 2
+    },
+    "header_from": "microsoftout-lookcare-team@email.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/actual/data/07_2015/ms_outlook_from_szn.eml",
+    "attachments": [],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pc219d1fb2eee500e"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pe377eadfc1f7db41"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "paypal",
+        "plain_domain": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 107805016.746798,
+                "domain": "paypal"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": " Note Please do not ignore this email to avoid your account been closed Thanks The Microsoft account team ",
+    "lang": "en"
+}

@@ -1,0 +1,126 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pbace5d67329c2428",
+    "last10words": "420 495 714 733 Fax 420 495 714 709 E mail vilimkova technistone cz www technistone cz A A ",
+    "pepca_style_total": 0,
+    "header_from": "vilimkova@technistone.cz",
+    "first10words": " Dobry den A vA priloze zasilam upravenou obj c 4500023746 Pocet europalet byl navysen na 60 ks s",
+    "attachments": [
+        {
+            "name": "image001.jpg",
+            "pepca": "p64108d3b9524893b",
+            "cte": "BASE64",
+            "mime_type": "image/jpeg",
+            "cid": "image001.jpg@01D0185C.FF9BC1C0",
+            "size": 3486,
+            "flags": 0,
+            "sumphash": "d25a010e823f9a4af678d0329bcf7a1a"
+        },
+        {
+            "cte": "BASE64",
+            "name": "0812_001.pdf",
+            "pepca": "pef6b7ade69e9e16f",
+            "flags": 0,
+            "mime_type": "application/pdf",
+            "size": 53783,
+            "lang": "un",
+            "sumphash": "97bfbfe1c04ce1ed72fe19fc6b2f8dd2"
+        }
+    ],
+    "word_count": 276,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/ee91af29b69d14227520d3a0aab38b8d.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p64108d3b9524893b"
+        },
+        {
+            "name": "att-pepca",
+            "value": "pef6b7ade69e9e16f"
+        },
+        {
+            "name": "pepca",
+            "value": "pbace5d67329c2428"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p1ddf84aeae0bb5a7"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "freecycle",
+                "confidence": 13482741.54052
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "freecycle",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "technistone",
+        "plain_domain_detail": [
+            {
+                "domain": "technistone",
+                "confidence": 2
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "RE Objednavka europalet",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "p1ddf84aeae0bb5a7",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

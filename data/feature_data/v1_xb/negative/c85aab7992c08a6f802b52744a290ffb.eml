@@ -1,0 +1,98 @@
+{
+    "phashes": [
+        {
+            "value": "pc13241d03e371511",
+            "name": "pepca"
+        },
+        {
+            "value": "pdddd5d0f3651ceb4",
+            "name": "pepca_style"
+        },
+        {
+            "value": "p3ec5b5be54eb488f",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "info@ride4stars.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/c85aab7992c08a6f802b52744a290ffb.eml",
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "pepca": "pc13241d03e371511",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "pdddd5d0f3651ceb4",
+    "last10words": " Odesilatelem tohoto sdeleni je spolecnost ride4stars Trnkova 73 25101 Ricany IC 74812858 DIC CZ8010281235 ",
+    "subject": "Objednavka c 16756 byla expedovana",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 24529678.7561,
+                "domain": "antosch-and-lin"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "antosch-and-lin",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p3ec5b5be54eb488f",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " ODESLANI OBJEDNAVKY objednavka c 16756 Vazeny zakazniku Vase objednavka cislo 16756 byla vyrizena a predan",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 79,
+    "adscore": 0,
+    "spamscore": 1.1
+}

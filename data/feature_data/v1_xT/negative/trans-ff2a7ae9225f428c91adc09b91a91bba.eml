@@ -1,0 +1,106 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "module": "ill",
+            "score": 1
+        }
+    ],
+    "pepca": "p5b2e86721e287239",
+    "first10words": " Infomail Alza Objednavka 151788619 vase zbozi prave pristalo na pobocce na adrese nam Republiky 105",
+    "pepca_style": "pea3b1c295b1e5ab0",
+    "pepca_inline_style": "p981f934581533f39",
+    "unsub_link": "http://www.alza.cz/obchodni-podminky-art10.htm",
+    "pepca_style_total": 1,
+    "phish_score": 0,
+    "subject": "Informace o vyrizeni objednavky 151788619",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1,
+    "word_count": 131,
+    "phishing": {},
+    "header_from": "sluzebnicek@alza.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/trans-ff2a7ae9225f428c91adc09b91a91bba.eml",
+    "attachments": [],
+    "adscore": 0,
+    "unsub_link_texts": [
+        " obchodny podminka "
+    ],
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p5b2e86721e287239"
+        },
+        {
+            "name": "pepca_style",
+            "value": "pea3b1c295b1e5ab0"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p981f934581533f39"
+        }
+    ],
+    "unsub_link_candidates": [
+        "http://www.alza.cz/obchodni-podminky-art10.htm"
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "alza",
+        "plain_domain": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 35419261.2738115,
+                "domain": "alza"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "alza",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [
+            {
+                "confidence": 4,
+                "domain": "alza"
+            }
+        ],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "nich mist v CR Potrebujete poradit 225 340 111 Obchodni podminky FAQ Kontaktni formular ",
+    "lang": "cs"
+}

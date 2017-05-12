@@ -1,0 +1,112 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "module": "ill",
+            "score": 1.1
+        }
+    ],
+    "pepca": "pc76915d00fdb2c31",
+    "first10words": " Zprava z obchodu Natur sport Dobry den p David Sabata Vase objednavka 00003909 Odeslana Deku",
+    "pepca_style": "",
+    "pepca_inline_style": "pc9ae784ff746e076",
+    "word_count": 138,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": " Natur sport Objednavka byla odeslana",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.1,
+    "phishing": {},
+    "header_from": "obchod@natur-sport.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/1e447d7094a0d8e99fa676a948c7574a.eml",
+    "attachments": [
+        {
+            "size": 13606,
+            "mime_type": "image/jpeg",
+            "flags": 0,
+            "pepca": "p2d3170684d4745ef",
+            "cid": "swift-1418640457548ebc49ca00d.0@www.natur-sport.cz",
+            "cte": "BASE64",
+            "sumphash": "04dce3487698b2911c2d811ae9593c24",
+            "name": "logo_mail-1.jpg"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p2d3170684d4745ef"
+        },
+        {
+            "name": "pepca",
+            "value": "pc76915d00fdb2c31"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pc9ae784ff746e076"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "adent"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "retel",
+        "plain_domain": "adent",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 9148135.99836,
+                "domain": "retel"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "ledovat sve objednavky prostrednictvim Sledovani pro navstevniky Obchod Natur sport spravuje spolecnost ADENT CZ s r o ",
+    "lang": "cs"
+}

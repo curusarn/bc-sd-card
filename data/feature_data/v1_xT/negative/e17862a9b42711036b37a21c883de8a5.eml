@@ -1,0 +1,102 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "module": "ill",
+            "score": 1
+        }
+    ],
+    "pepca": "p5c6c279115c2ffe6",
+    "first10words": " Kdyz ti Bonerix zacal platit 5 11 tak nemohla byt vystavena tato faktura od 7 11 8 12 na 649 Zavolam na reklamace az prijdu",
+    "pepca_style": "",
+    "pepca_inline_style": "pc971828dcedbb95b",
+    "unsub_link": "http://www.efitshop.cz",
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "RE Faktura",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1,
+    "word_count": 752,
+    "phishing": {},
+    "header_from": "andrea.navratilova@o2.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/e17862a9b42711036b37a21c883de8a5.eml",
+    "attachments": [],
+    "adscore": 0,
+    "unsub_link_texts": [
+        " www efitshop cz e mail"
+    ],
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p5c6c279115c2ffe6"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pc971828dcedbb95b"
+        }
+    ],
+    "unsub_link_candidates": [
+        "http://www.efitshop.cz"
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "efitshop"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "o2",
+        "plain_domain": "efitshop",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 87650506.78836,
+                "domain": "o2"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "anced electronic signature The conditions under which O2 Czech Republic a s negotiates contracts and under which it proceeds are available here ",
+    "lang": "cs"
+}

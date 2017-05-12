@@ -1,0 +1,114 @@
+{
+    "phashes": [
+        {
+            "value": "padfc4294abca9c3f",
+            "name": "pepca"
+        },
+        {
+            "value": "p5a4b4849780a88fc",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "noreply@dmail.datingfactory.com",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/840f8d06cb821104e724608083f6d40e.eml",
+    "unsub_link_candidates": [
+        "http://panicky.dnesnivecer.cz/support/unsubscribe/0039428694002cai287bbd391af327c6e45130caea47cfc8/1368554349.39428694.26520858.18?linkId=2"
+    ],
+    "attachments": [],
+    "contains_list_header": true,
+    "last10words": " email muze obsahovat inzerci Dating Factory s r o 3 patro 207 Regent Street Londyn W1B 3HH Velka Britanie ",
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca": "padfc4294abca9c3f",
+    "subject": "petr pt Vase heslo na panicky dnesnivecer cz",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 1,
+                "domain": "datingfactory"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 197454508.303946,
+                "domain": "datingfactory"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "datingfactory",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "datingfactory",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "dnesnivecer",
+        "plain_domain_detail": [
+            {
+                "confidence": 2,
+                "domain": "dnesnivecer"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p5a4b4849780a88fc",
+    "unsub_link_texts": [
+        "pokud byt si nezalozit tento ucet odhlasit se zde "
+    ],
+    "list_unsubscribe_urls": [
+        "http://unsub.email.dynect.net/unsub??h=tiMleQXvuhEImexOqszKOVsrvZcbqz83P%2B3Vab2bGtXOoTLu7WBQcUQ%2F19JCN6zOrQKfF2UX5VRYVmV9uY9S5Zbn4%2FUJXrv%2FUzknS%2BR6z7o%3Di=20141031213245.0B877D0928CB%40mail6-08-pao.dyndns.comx=MHwxMDE4ODYyOiUzQzEzNjg1NTQzNDkuMzk0Mjg2OTQuMjY1MjA4NTguMTguMjAxNDEwMzEyMTMyNDMuY3MubWFpbHN5c3RlbSU0MGRtYWlsLmRhdGluZ2ZhY3RvcnkuY29tJTNFOw%3D%3D%3Cmailto%3Aunsubscribe%2B1368554349.39428694.26520858.18%40dmail.datingfactory.com%3E%2C+%3Chttp%3A%2F%2Fpanicky.dnesnivecer.cz%2Fsupport%2Funsubscribe%2F0039428694002cai287bbd391af327c6e45130caea47cfc8%2F1368554349.39428694.26520858.18%3FlinkId%3D77%3E",
+        "mailto:unsubscribe@dynect-email.com?subject=tiMleQXvuhEImexOqszKOVsrvZcbqz83P%2B3Vab2bGtXOoTLu7WBQcUQ%2F19JCN6zOrQKfF2UX5VRYVmV9uY9S5Zbn4%2FUJXrv%2FUzknS%2BR6z7o%3D&message_id=20141031213245.0B877D0928CB%40mail6-08-pao.dyndns.com&x_headers==MHwxMDE4ODYyOiUzQzEzNjg1NTQzNDkuMzk0Mjg2OTQuMjY1MjA4NTguMTguMjAxNDEwMzEyMTMyNDMuY3MubWFpbHN5c3RlbSU0MGRtYWlsLmRhdGluZ2ZhY3RvcnkuY29tJTNFOw%3D%3D"
+    ],
+    "unsub_link": "http://panicky.dnesnivecer.cz/support/unsubscribe/0039428694002cai287bbd391af327c6e45130caea47cfc8/1368554349.39428694.26520858.18?linkId=2",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " petr pt Vase heslo na panicky dnesnivecer cz Chcete li mit vsechny zpravy dorucene do Vasi e mailove schranky prid",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 266,
+    "adscore": 0,
+    "spamscore": 1
+}

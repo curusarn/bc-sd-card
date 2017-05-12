@@ -1,0 +1,106 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.5
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "long_subject"
+            ],
+            "module": "ill",
+            "score": 1.5
+        }
+    ],
+    "pepca": "p0417297e9bbc968f",
+    "first10words": " lay flog me zing sell net sick burr mace pay rape reed cusp avow dop doe bun stub sere wilt hum bead bog foal bail pan foil tar ",
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "word_count": 441,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Important banking mail from Fifth Third Bank Mon 7 Aug 2006 05 09 40 0060 ",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.5,
+    "phishing": {
+        "5_top_domains_percent_0": 1.0,
+        "5_top_domains_id_0": 0
+    },
+    "header_from": "infonum_0332764966.cust@53.com",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing2/1419.eml",
+    "attachments": [
+        {
+            "size": 7614,
+            "mime_type": "image/png",
+            "flags": 0,
+            "pepca": "pf5b97d37b77bef6a",
+            "cid": "006901c6b9df$afd78320$6c822ecf@XHD2T8M",
+            "cte": "BASE64",
+            "sumphash": "8e368c722eafaa4de6d7d8151ce92f92",
+            "name": "3K242I.PNG"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "pf5b97d37b77bef6a"
+        },
+        {
+            "name": "pepca",
+            "value": "p0417297e9bbc968f"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "aweber",
+        "plain_domain": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 43351513.5504165,
+                "domain": "aweber"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "y may vow vole onto sear kino mull loud wake bode silo sere cry rimy mug no wean swallow case minx yea orc age dis veal use dice char Mr mad ",
+    "lang": "un"
+}

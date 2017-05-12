@@ -1,0 +1,97 @@
+{
+    "phashes": [
+        {
+            "value": "pc8ccfcd54745c4e1",
+            "name": "pepca"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "no-reply@globus.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/652c192870d4e1bd7b0f4217054dbd8c.eml",
+    "unsub_link_candidates": [
+        "http://www.globus.cz/main.php?module=newsletter&action=confirm_registration&uid=32876&pid=13&code=aa7bd9dad9ddc723cf8a8547d5d5a997"
+    ],
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "pepca": "pc8ccfcd54745c4e1",
+    "phishing": {
+        "ner_domain_detected": true
+    },
+    "pepca_style": "",
+    "last10words": "aseho prohlizece http www globus cz main php module newsletter action confirm registration uid 32876 pid 13 code aa7bd9dad9ddc723cf8a8547d5d5a997 ",
+    "subject": "Potvrzeni registrace newsletteru Globus Plzen Chotikov",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 7185225.54392,
+                "domain": "viwefix"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "viwefix",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "unsub_link_texts": [
+        " souhlasi se zasilani informace pokud na odkaz nelze kliknout nebo je mail necitelny zkopirovat tento odkaz do vas prohlizec"
+    ],
+    "unsub_link": "http://www.globus.cz/main.php?module=newsletter&action=confirm_registration&uid=32876&pid=13&code=aa7bd9dad9ddc723cf8a8547d5d5a997",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Dobry den dekujeme za vas zajem ziskavat novinky spolecnosti Globus Zasilani novinek prosim potvrdte proklikem v e mailu ktery j",
+    "lang": "cs",
+    "pepcatotal": 2,
+    "word_count": 59,
+    "adscore": 0,
+    "spamscore": 1.1
+}

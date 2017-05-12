@@ -1,0 +1,94 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pf16092ae93aa0e41",
+    "last10words": " fax 582 777 073 From BH951 pharmos cz To ladislava spackova pharmos cz Sent Fri 24 Oct 2014 08 11 51 0100 Subject ",
+    "pepca_style_total": 0,
+    "header_from": "hanasnaselova@email.cz",
+    "first10words": " Dobry den cukrovi bude nachystane v sobotu Kdy si to budete chtit vyzvednout Prijedete kzda zvlast nebo to vyzvedne nekdo vsechno Kd",
+    "attachments": [],
+    "word_count": 173,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/34df99d2d8dfdac92040c2814ad35cd4.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pf16092ae93aa0e41"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p15e45bd2675ac092"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "pharmos",
+                "confidence": 20874233.27684
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "pharmos",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Re Objednavka na vanocni cukrovi",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "p15e45bd2675ac092",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

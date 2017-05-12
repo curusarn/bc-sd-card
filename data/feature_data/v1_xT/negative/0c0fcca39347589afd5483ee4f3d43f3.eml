@@ -1,0 +1,112 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "module": "ill",
+            "score": 1.1
+        }
+    ],
+    "pepca": "pea129186f88e979f",
+    "first10words": " Vypis nove objednavky c id order z obchodu Sport Raj plavek Zakaznik michaela MANZELOVA vytvoril novou objednav",
+    "pepca_style": "",
+    "pepca_inline_style": "p34db56723b0c611d",
+    "word_count": 289,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": " Sport Raj plavek Nova objednavka",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.1,
+    "phishing": {},
+    "header_from": "sport-plavky@email.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/0c0fcca39347589afd5483ee4f3d43f3.eml",
+    "attachments": [
+        {
+            "size": 7733,
+            "mime_type": "image/jpeg",
+            "flags": 0,
+            "pepca": "pd08fbcbb9490243c",
+            "cid": "swift-1418640571548ebcbbac729.1@www.sport-plavky.cz",
+            "cte": "BASE64",
+            "sumphash": "c6bba9e06aba61198abe7b33cbebd0b6",
+            "name": "logo.jpg"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "pd08fbcbb9490243c"
+        },
+        {
+            "name": "pepca",
+            "value": "pea129186f88e979f"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p34db56723b0c611d"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "sport-plavky"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "vshosting",
+        "plain_domain": "sport-plavky",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 10123435.1449986,
+                "domain": "vshosting"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": " 377 stare krecany 40761 Ceska Republika Zprava od zakaznika Zadna zprava Sport Raj plavek ",
+    "lang": "cs"
+}

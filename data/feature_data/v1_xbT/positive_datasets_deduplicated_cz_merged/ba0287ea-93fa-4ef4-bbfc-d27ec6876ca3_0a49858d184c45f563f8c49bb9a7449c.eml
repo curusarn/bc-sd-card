@@ -1,0 +1,112 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p5c3da6300c2f2ec3",
+    "last10words": " ITComplet marketing Chcete li odhlasit nebo aktualizovat sve zaznamy kliknA te zde Zprava byla odeslana ITC ",
+    "pepca_style_total": 0,
+    "unsub_link_texts": [
+        "si vy dovolovat pozadat o souhlas se zasilani nasi informace z oblast prodej vonny svice ",
+        "s pozdrav itcomplet marketing chtit li odhlasit nebo aktualizovat sve zaznam klikna te zde "
+    ],
+    "header_from": "marketing@itcomplet.cz",
+    "unsub_link_candidates": [
+        "http://obchod.pksvice.cz",
+        "http://89.187.130.144/user/mailings.php?mail_id=65&email=vesely.uzivatel@seznam.cz&code=865614385e847e2b02abc3efa277d02e"
+    ],
+    "first10words": " Pokud mate problemy se zobrazenim tohoto e mailu kliknA te zde Dobry den s ohledem na zakon c 480 2004 Sb si Va",
+    "attachments": [],
+    "word_count": 91,
+    "email_path": "/mfs/replicated/datasets/phishing/datasets/deduplicated_cz_phish_merged/0a49858d184c45f563f8c49bb9a7449c.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p5c3da6300c2f2ec3"
+        },
+        {
+            "name": "pepca_style",
+            "value": "p06b598b579c67886"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "monster",
+                "confidence": 3078656.2873
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "monster",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "itcomplet",
+        "plain_domain_detail": [
+            {
+                "domain": "itcomplet",
+                "confidence": 1
+            },
+            {
+                "domain": "pksvice",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Zadost o souhlas",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "unsub_link": "http://89.187.130.144/user/mailings.php?mail_id=65&email=vesely.uzivatel@seznam.cz&code=865614385e847e2b02abc3efa277d02e",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "p06b598b579c67886",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

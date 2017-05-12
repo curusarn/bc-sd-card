@@ -1,0 +1,115 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging"
+            ],
+            "module": "ill",
+            "score": 1.1
+        }
+    ],
+    "pepca": "p65c8997bdc744ccc",
+    "first10words": " Vitejte v provizni siti Affil centrum Jsme radi ze jste se rozhodli pripojit ",
+    "pepca_style": "",
+    "pepca_inline_style": "paf4c60d24706f583",
+    "unsub_link": "http://app.smarte8f6.eu/public/unsubscribe/autoresponder?u=b253e280-dcfd-11e3-9cb5-002590a1e88e&c=49f665c5-5ddb-11e4-85db-002590a1e85a&j=a0796aa6-2943-11e4-8c35-002590a1e85a",
+    "word_count": 338,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Dekujeme za vasi registraci v systemu Affilcentrum",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.1,
+    "list_unsubscribe_urls": [
+        "=?UTF-8?B?aHR0cDovL2FwcC5zbWFydGU4ZjYuZXUvcHVibGk=?="
+    ],
+    "phishing": {},
+    "header_from": "info@affilcentrum.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/6b08c80b095ba0f8311403f007c00bbe.eml",
+    "attachments": [],
+    "adscore": 0,
+    "unsub_link_texts": [
+        "cz pokud si jiz neprat dostavat tyt email odhlasit se zde tento email byt odeslan na adresa rage",
+        "cz z odber se moct odhlasit "
+    ],
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p65c8997bdc744ccc"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "paf4c60d24706f583"
+        }
+    ],
+    "unsub_link_candidates": [
+        "http://app.smarte8f6.eu/public/unsubscribe/autoresponder?u=b253e280-dcfd-11e3-9cb5-002590a1e88e&c=49f665c5-5ddb-11e4-85db-002590a1e85a&j=a0796aa6-2943-11e4-8c35-002590a1e85a",
+        "http://app.smarte8f6.eu/public/unsubscribe/autoresponder?u=b253e280-dcfd-11e3-9cb5-002590a1e88e&c=49f665c5-5ddb-11e4-85db-002590a1e85a&j=a0796aa6-2943-11e4-8c35-002590a1e85a"
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 2,
+                "domain": "affilcentrum"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "wz",
+        "plain_domain": "affilcentrum",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 8927839.60612,
+                "domain": "wz"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "vyprodejskladu",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [
+            {
+                "confidence": 5,
+                "domain": "vyprodejskladu"
+            }
+        ],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "contains_list_header": true,
+    "precedence": 3,
+    "last10words": "a adresu rage wz seznam cz Odesilatelem je Affil centrum info affilcentrum cz Z odberu se muzete odhlasit ",
+    "lang": "cs"
+}

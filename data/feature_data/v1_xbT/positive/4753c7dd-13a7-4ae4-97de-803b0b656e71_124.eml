@@ -1,0 +1,106 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p1443fda7618a146b",
+    "last10words": "rks and brands are the property of their respective owners eBay and the eBay logo are registered trademarks or trademarks of eBay Inc ",
+    "pepca_style_total": 0,
+    "header_from": "member@ebay.com",
+    "first10words": " eBay sent this message Your registered name is included to show this message originated from eBay Learn more ",
+    "attachments": [],
+    "word_count": 797,
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing2/124.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p1443fda7618a146b"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p63b96dd2b2fcf7cc"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "ebay",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "ebay",
+                "confidence": 10629914730.2197
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "ebay",
+                "confidence": 6
+            }
+        ],
+        "domain_keywords": "ebay",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "ebay",
+        "plain_domain_detail": [
+            {
+                "domain": "ebay",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "en",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": " POSIBLE SPAM Message from eBay Member",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": true,
+        "5_top_domains_id_0": 0,
+        "5_top_domains_id_1": 0,
+        "5_top_domains_percent_1": 0.043478260869565216,
+        "5_top_domains_percent_0": 0.9565217391304348
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "p63b96dd2b2fcf7cc",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

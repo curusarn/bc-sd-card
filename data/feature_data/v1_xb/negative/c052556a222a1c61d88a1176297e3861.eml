@@ -1,0 +1,108 @@
+{
+    "phashes": [
+        {
+            "value": "pfc2479c14c72b1b3",
+            "name": "pepca"
+        },
+        {
+            "value": "pa6b9bcda692ab203",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "info@eoshop.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/c052556a222a1c61d88a1176297e3861.eml",
+    "unsub_link_candidates": [
+        "http://www.eoshop.cz/newsletter-nastaveni.htm?hash=f9814996dbc0df50db0267bf15849563"
+    ],
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id",
+                "long_subject"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1,
+                0.5
+            ],
+            "score": 1.6
+        }
+    ],
+    "pepca": "pfc2479c14c72b1b3",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": "egistrace pro zasilani novinek kliknete prosim na tento odkaz Formular byl odeslan z adresy http www eoshop cz pokladna htm ",
+    "subject": "Potvrzeni registrace pro zasilani novinek z Lubos Kosinka www eoshop cz",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 7783227.33717,
+                "domain": "eoshop"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "eoshop",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "eoshop",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "eoshop"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "pa6b9bcda692ab203",
+    "unsub_link_texts": [
+        "cz pro potvrzeni registrace pro zasilani novinka kliknout prosit na tento odkaz "
+    ],
+    "unsub_link": "http://www.eoshop.cz/newsletter-nastaveni.htm?hash=f9814996dbc0df50db0267bf15849563",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 2,
+    "first10words": " Potvrzeni registrace pro zasilani novinek z Lubos Kosinka www eoshop cz Potvrzeni registrace pro zasilani novinek z Lubos K",
+    "lang": "cs",
+    "pepcatotal": 2,
+    "word_count": 48,
+    "adscore": 0,
+    "spamscore": 1.6
+}

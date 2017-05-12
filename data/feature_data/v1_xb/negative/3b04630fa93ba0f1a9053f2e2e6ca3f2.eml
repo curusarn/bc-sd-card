@@ -1,0 +1,115 @@
+{
+    "phashes": [
+        {
+            "value": "p39cce64a0e78e079",
+            "name": "pepca"
+        },
+        {
+            "value": "pc2087e1b9c69a7b0",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "info@zhubnichytre.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/3b04630fa93ba0f1a9053f2e2e6ca3f2.eml",
+    "unsub_link_candidates": [
+        "http://app.smartg4j9.eu/public/unsubscribe/newsletter?u=9cb976dc-5613-11e4-85db-002590a1e85a&c=8cb2babf-58f4-11e4-85db-002590a1e85a&j=1ae3c00e-5ee8-11e4-85db-002590a1e85a"
+    ],
+    "attachments": [],
+    "contains_list_header": true,
+    "last10words": "kliknete zde Copyright 2014 Zhubnichytre cz 2014 4 your life s r o Vsechna prava vyhrazena ",
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca": "p39cce64a0e78e079",
+    "subject": "Dekujeme za vasi registraci",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 4,
+                "domain": "vyprodejskladu"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 18495073.9931982,
+                "domain": "mcsv"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "vyprodejskladu",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "mcsv",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "zhubnichytre",
+        "plain_domain_detail": [
+            {
+                "confidence": 2,
+                "domain": "zhubnichytre"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "pc2087e1b9c69a7b0",
+    "unsub_link_texts": [
+        "cz i nadale zasilat email s informace o zdravy zivotni styl kliknout zde "
+    ],
+    "list_unsubscribe_urls": [
+        "=?UTF-8?B?aHR0cDovL2FwcC5zbWFydGc0ajkuZXUvcHVibGk=?="
+    ],
+    "unsub_link": "http://app.smartg4j9.eu/public/unsubscribe/newsletter?u=9cb976dc-5613-11e4-85db-002590a1e85a&c=8cb2babf-58f4-11e4-85db-002590a1e85a&j=1ae3c00e-5ee8-11e4-85db-002590a1e85a",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Zhubnichytre cz nejrozsahlejsi online kurz o hubnuti a zdravem zivotnim stylu ",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 400,
+    "adscore": 0,
+    "spamscore": 1.1
+}

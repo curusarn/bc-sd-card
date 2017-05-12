@@ -1,0 +1,128 @@
+{
+    "phashes": [
+        {
+            "value": "pac53b16d7c968dab",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pd63b9fedc8bc5a0c",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pa688b70d4f77bdd9",
+            "name": "pepca"
+        },
+        {
+            "value": "pca285cf3b082a9ca",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "info@sfinance.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/245616.eml",
+    "attachments": [
+        {
+            "first10words": "Cestovni pojisteni Navrh pojistne smlouvy cislo Produkt Cestovni pojisteni Excelent",
+            "size": 232529,
+            "mime_type": "application/pdf",
+            "cte": "BASE64",
+            "flags": 0,
+            "lang": "cs",
+            "name": "smlouva.pdf",
+            "pepca": "pac53b16d7c968dab",
+            "sumphash": "6c9090c8331edfa3636d9cd75315142b"
+        },
+        {
+            "first10words": "Asistencni telefonni linka AXA ASSISTANCE je Vam k dispozici hodin",
+            "size": 85773,
+            "mime_type": "application/pdf",
+            "cte": "BASE64",
+            "flags": 0,
+            "lang": "cs",
+            "name": "asistencni_karty.pdf",
+            "pepca": "pd63b9fedc8bc5a0c",
+            "sumphash": "a061f1acbbe4141c638d3921dc682188"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "pepca": "pa688b70d4f77bdd9",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": "IP Sfinance Usetrete v prumeru 7 500 Kc rocne srovnanim nabidek a jednoduchou zmenou dodavatele elektriny a plynu ",
+    "subject": "Potvrzeni cestovniho pojisteni c 8890021846",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 17111172.78256,
+                "domain": "top-pojisteni"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "top-pojisteni",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "seznam",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "seznam"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "pca285cf3b082a9ca",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Zakaznicka infolinka 420 810 800 080 Pondeli Patek 9 00 17 00 Email info sfinance cz Vazeny zakazniku ",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 159,
+    "adscore": 0,
+    "spamscore": 1
+}

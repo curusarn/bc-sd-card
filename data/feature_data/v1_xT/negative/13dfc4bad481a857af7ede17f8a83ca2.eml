@@ -1,0 +1,128 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "module": "ill",
+            "score": 1
+        }
+    ],
+    "pepca": "p0231ece4a5b3f6a8",
+    "first10words": " Ahoj holky preposilam potvrzenou rezervaci Detenic Janicka Puvodni zprava ",
+    "pepca_style": "",
+    "pepca_inline_style": "p58fcb8e0456c9347",
+    "word_count": 497,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Fwd RE objednavka na 15 4 2015",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1,
+    "phishing": {},
+    "header_from": "janaburi@centrum.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/13dfc4bad481a857af7ede17f8a83ca2.eml",
+    "attachments": [
+        {
+            "size": 7729,
+            "mime_type": "image/jpeg",
+            "flags": 0,
+            "pepca": "pc3c2c976841ee087",
+            "cid": "4fb30af@multimail",
+            "cte": "BASE64",
+            "sumphash": "1070f29ad2b0799876abe0150c285007",
+            "name": "image001.jpg"
+        },
+        {
+            "size": 1534,
+            "mime_type": "image/jpeg",
+            "flags": 0,
+            "pepca": "pb2acef166ad39715",
+            "cid": "137ff31@multimail",
+            "cte": "BASE64",
+            "sumphash": "11b54bef9bc3a86f7bcb7fc170eda9b0",
+            "name": "image002.jpg"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "pc3c2c976841ee087"
+        },
+        {
+            "name": "att-pepca",
+            "value": "pb2acef166ad39715"
+        },
+        {
+            "name": "pepca",
+            "value": "p0231ece4a5b3f6a8"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p58fcb8e0456c9347"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "zamekdetenice"
+            },
+            {
+                "confidence": 3,
+                "domain": "detenice"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "firotour",
+        "plain_domain": "zamekdetenice",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 35660097.75159,
+                "domain": "firotour"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "roby piva Prohlidka parku a barokniho detenickeho zamku s baroknimi a renesancnimi malbami ",
+    "lang": "cs"
+}

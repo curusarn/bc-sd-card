@@ -1,0 +1,110 @@
+{
+    "phashes": [
+        {
+            "value": "pa98d3eccf3be77ad",
+            "name": "att-pepca"
+        },
+        {
+            "value": "ped379c11a9e25733",
+            "name": "pepca"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "info@valentinska.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/6b33173db70deeb3b59b4711286395dd.eml",
+    "attachments": [
+        {
+            "size": 380342,
+            "name": "kubismusKr2.jpg",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "part4.08020708.08060400@valentinska.cz",
+            "sumphash": "2926261a7586ffc68594620c1cf3402e",
+            "pepca": "pa98d3eccf3be77ad",
+            "mime_type": "image/jpeg"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "pepca": "ped379c11a9e25733",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": " 1x Ceska posta dobirka 120 kc cena 120 Kc Cena celkem 240 Kc s DPH ",
+    "subject": "Re OP1400019369 Objednavka Prehled strojnictvi",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 13009793.3891777,
+                "domain": "itstudio"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "itstudio",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "valentinska",
+        "plain_domain_detail": [
+            {
+                "confidence": 2,
+                "domain": "valentinska"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Dobry den dekujeme za objednavku Knihu jsme pro Vas vyhledali a zasleme Vam ji na dobirku v nasem nasledujic",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 354,
+    "adscore": 0,
+    "spamscore": 1.1
+}

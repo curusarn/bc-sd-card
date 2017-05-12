@@ -1,0 +1,100 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "paad9b6c0c2cb7b29",
+    "last10words": "8790 0x462 0x87142709 0x725 0x49 0x0 0x2 0x60 0x90575155 0x8872 tmp 06LB 0BV create TUZ VMZ IIK FW7Y file 95PW 0x4926 0x701 ",
+    "pepca_style_total": 0,
+    "header_from": "clientcare.refK0276159KX.int@regions.com",
+    "first10words": " Dear Regions Bank business corporate customer Regions Commercial Customer Support Service requests you to complete Regions InterA",
+    "attachments": [],
+    "word_count": 410,
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/2174.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "paad9b6c0c2cb7b29"
+        }
+    ],
+    "spamscore": 1.6,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "mcsv",
+                "confidence": 15948539.7645305
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "mcsv",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "en",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Regions Bank commercial customer support service please read this message message id B8719778ZJ ",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": true,
+        "5_top_domains_id_1": 0,
+        "5_top_domains_percent_1": 0.2,
+        "5_top_domains_percent_3": 0.2,
+        "5_top_domains_id_0": 0,
+        "5_top_domains_percent_0": 0.4,
+        "5_top_domains_id_2": 1,
+        "5_top_domains_percent_2": 0.2,
+        "5_top_domains_id_3": 0
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging",
+                "long_subject"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1,
+                0.5
+            ],
+            "score": 1.6,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

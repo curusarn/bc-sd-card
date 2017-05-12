@@ -1,0 +1,119 @@
+{
+    "phashes": [
+        {
+            "value": "p39a0bbc373e4075d",
+            "name": "pepca"
+        },
+        {
+            "value": "p306f7fec2202716b",
+            "name": "pepca_style"
+        },
+        {
+            "value": "p90088aaeae995df9",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "noreply@topface.com",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/27788f8b9428d123dff125bc744508f7.eml",
+    "attachments": [],
+    "contains_list_header": true,
+    "last10words": "e to Vy kdo zmenili heslo pak ho muzete obnovit po prihlaseni do aplikace Prejit na Topface ",
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "images_in_subject"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                1
+            ],
+            "score": 2
+        }
+    ],
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "p306f7fec2202716b",
+    "pepca": "p39a0bbc373e4075d",
+    "subject": " Heslo k Vasemu uctu bylo zmeneno ",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 1,
+                "domain": "topface"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 6142760.06902,
+                "domain": "dmnotify"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "topface",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "dmnotify",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p90088aaeae995df9",
+    "list_unsubscribe_urls": [
+        "mailto:unsubscribe_87233078_1414822279_ddd15cd_passwordChanged@topface.com?subject=VW5zdWJzY3JpYmUgbWUh"
+    ],
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "adNotches": [
+        {
+            "module": "ill",
+            "name": [
+                "images_in_subject"
+            ],
+            "subscores": [
+                5
+            ],
+            "score": 5
+        }
+    ],
+    "pepca_inline_style_total": 0,
+    "first10words": " Heslo k Vasemu uctu bylo zmeneno Pokud to provedli Vy jednoduse ignorujte tento dopis Pokud nejste to Vy kd",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 86,
+    "adscore": 5,
+    "spamscore": 2
+}

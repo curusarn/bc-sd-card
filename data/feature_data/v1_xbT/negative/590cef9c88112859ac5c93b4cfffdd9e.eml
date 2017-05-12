@@ -1,0 +1,101 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pc850249a0022a7b2",
+    "last10words": "http shop razitka shiny cz Zde muzete po prihlaseni editovat zadane udaje S pozdravem team SEMPER CORPORATION s r o ",
+    "pepca_style_total": 0,
+    "header_from": "info@razitka-shiny.cz",
+    "first10words": " Vazeny zakazniku Vazeny zakazniku potvrzujeme Vasi uspesnou registraci do internetove prodejny SHINY velkoobchodni ",
+    "attachments": [],
+    "word_count": 250,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/590cef9c88112859ac5c93b4cfffdd9e.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pc850249a0022a7b2"
+        },
+        {
+            "name": "pepca_style",
+            "value": "p65e78b5c0df59a53"
+        }
+    ],
+    "spamscore": 1.5,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "jenprace",
+                "confidence": 7067265.44269
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "jenprace",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "razitka-shiny",
+        "plain_domain_detail": [
+            {
+                "domain": "razitka-shiny",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Potvrzeni registrace SHINY velkoobchodni e shop http shop razitka shiny cz ",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": true,
+        "5_top_domains_id_0": 0,
+        "5_top_domains_percent_0": 1.0
+    },
+    "pepca_style": "p65e78b5c0df59a53",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "long_subject"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.5
+            ],
+            "score": 1.5,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

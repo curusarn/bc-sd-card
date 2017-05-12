@@ -1,0 +1,102 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "module": "ill",
+            "score": 1
+        }
+    ],
+    "pepca": "pdd7152fc340d3954",
+    "first10words": " Odesl ano automaticky ze systemu BYZNYS Sestava Vydana objednavka Vydana objednavka cislo O 14004303 ",
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "word_count": 27,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Vydana objednavka cislo O 14004303",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1,
+    "phishing": {},
+    "header_from": "j.rafajova@tomiscz.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/1819d6582e96b408a7f50feb28b975fd.eml",
+    "attachments": [
+        {
+            "size": 102720,
+            "mime_type": "application/pdf",
+            "flags": 0,
+            "pepca": "p2c930d60000622c4",
+            "first10words": "C USERS RAFAJOVA APPDATA LOCAL TEMP Z FRX O Vydana",
+            "cte": "BASE64",
+            "sumphash": "951c74bb001cfb2da6b4e10a1b501a37",
+            "name": "Vydan\u00e1_objedn\u00e1vka_-_O-14004303.pdf",
+            "lang": "cs"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p2c930d60000622c4"
+        },
+        {
+            "name": "pepca",
+            "value": "pdd7152fc340d3954"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "kmbyznys",
+        "plain_domain": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 946863.901741,
+                "domain": "kmbyznys"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": " Odesl ano automaticky ze systemu BYZNYS Sestava Vydana objednavka Vydana objednavka cislo O 14004303 ",
+    "lang": "sk"
+}

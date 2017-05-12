@@ -1,0 +1,110 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p445c223da4701729",
+    "last10words": "UTO a s Tr Vaclava Klementa 869 293 60 Mlada Boleslav Czech Republic ICO 00177041 Mestsky soud v Praze B 332 T 420 326 8 11 111 ",
+    "pepca_style_total": 0,
+    "header_from": "personal@skoda-auto.cz",
+    "first10words": " Dobry den na zaklade Vasi zadosti jsme vygenerovali nove heslo do naboroveho systemu SKODA AUTO Vase uzivatelske jmeno ",
+    "attachments": [
+        {
+            "mime_type": "application/pdf",
+            "name": "Nov\u00e9heslo.PDF",
+            "first10words": "Dobry den na zaklade Vasi zadosti jsme vygenerovali nove heslo",
+            "pepca": "p445c223da4701729",
+            "lang": "cs",
+            "cte": "BASE64",
+            "size": 174274,
+            "flags": 0,
+            "sumphash": "aea0661c100651d4f09e6ecc4c485d2f"
+        }
+    ],
+    "word_count": 60,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/c401067ce432a94ae840e9671d09dcd8.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p445c223da4701729"
+        },
+        {
+            "name": "pepca",
+            "value": "p445c223da4701729"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pfc19e38af598c0a5"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "justice",
+                "confidence": 8988388.75967618
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "justice",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Nove heslo",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": true,
+        "5_top_domains_id_0": 0,
+        "5_top_domains_percent_0": 1.0
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "pfc19e38af598c0a5",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

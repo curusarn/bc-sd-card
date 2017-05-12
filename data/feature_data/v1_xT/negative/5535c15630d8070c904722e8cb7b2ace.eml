@@ -1,0 +1,117 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "missing_message_id"
+            ],
+            "module": "ill",
+            "score": 2
+        }
+    ],
+    "pepca": "pa1d281b8ff27a40a",
+    "first10words": " Potvrzeni registrace Vazeny zakazniku Vase registrace do elektronickeho obchodu SEVT CZ ",
+    "pepca_style": "p6006bc855d65010b",
+    "pepca_inline_style": "p9255061721f860d5",
+    "unsub_link": "http://www.sevt.cz",
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Potvrzeni registrace",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 2,
+    "word_count": 245,
+    "phishing": {},
+    "header_from": "info@sevt.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/5535c15630d8070c904722e8cb7b2ace.eml",
+    "attachments": [],
+    "adscore": 0,
+    "unsub_link_texts": [
+        "pokud do hodina e mail neobdrzet kontaktovat prosit nasi obchodny oddeleni "
+    ],
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pa1d281b8ff27a40a"
+        },
+        {
+            "name": "pepca_style",
+            "value": "p6006bc855d65010b"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p9255061721f860d5"
+        }
+    ],
+    "unsub_link_candidates": [
+        "http://www.sevt.cz"
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "mapcentrum"
+            },
+            {
+                "confidence": 2,
+                "domain": "sevt"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "sevt",
+        "plain_domain": "mapcentrum",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 44311270.201551,
+                "domain": "sevt"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "sevt",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [
+            {
+                "confidence": 10,
+                "domain": "sevt"
+            }
+        ],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "w mapcentrum cz Upozorneni Tento e mail je generovan automaticky prosime neodpovidejte na nej ",
+    "lang": "cs"
+}

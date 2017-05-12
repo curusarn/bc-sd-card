@@ -1,0 +1,107 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "module": "ill",
+            "score": 1.1
+        }
+    ],
+    "pepca": "p04dd8d4c0025bb03",
+    "first10words": " Puvodni zprava Od zasilka starkl com Komu jitkahorackova seznam cz Datum 13 1 2015 10 37 45 Predmet Objednavk",
+    "pepca_style": "",
+    "pepca_inline_style": "p711ee6c5fba94f1a",
+    "word_count": 776,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Fwd Objednavka c 150101976 Starkl Vas zahradnik",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.1,
+    "phishing": {},
+    "header_from": "jitkahorackova@seznam.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/trans-ff5559345d690037654b97751c61b613.eml",
+    "attachments": [
+        {
+            "sumphash": "dc5b5ace27d0916fed08dfee55dd0748",
+            "mime_type": "image/png",
+            "flags": 0,
+            "size": 0,
+            "cid": "logo",
+            "cte": "BASE64",
+            "name": "logo_starkl.png"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p04dd8d4c0025bb03"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p711ee6c5fba94f1a"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "starkl"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "active24",
+        "plain_domain": "starkl",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 23383561.8727616,
+                "domain": "active24"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "ntu v e shopu www starkl com Copyright 2015 STARKL vsechna prava vyhrazena Tento e mail byl generovan automaticky ",
+    "lang": "cs"
+}

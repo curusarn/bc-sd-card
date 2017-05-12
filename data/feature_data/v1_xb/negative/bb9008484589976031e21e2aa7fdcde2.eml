@@ -1,0 +1,94 @@
+{
+    "phashes": [
+        {
+            "value": "p5603f2a07a57cf39",
+            "name": "pepca"
+        },
+        {
+            "value": "pa3b870b26ca78fc3",
+            "name": "pepca_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "info@parfemysp.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/bb9008484589976031e21e2aa7fdcde2.eml",
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "pepca": "p5603f2a07a57cf39",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "pa3b870b26ca78fc3",
+    "last10words": " miazelenkova seznam cz Heslo pic ike renoz S pratelskymi pozdravy Parfemy SP tel 222 220 768 email info parfemysp cz ",
+    "subject": " Parfemy SP Vase registrace",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 36647365.63735,
+                "domain": "infopraca"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "infopraca",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 11,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Parfemy SP Registrace na Parfemy SP Vazeny zakazniku registrace na Parfemy SP probehla uspesne Sve kontaktni udaje ",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 57,
+    "adscore": 0,
+    "spamscore": 1.1
+}

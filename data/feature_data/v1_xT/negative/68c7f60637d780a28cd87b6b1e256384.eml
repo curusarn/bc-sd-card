@@ -1,0 +1,140 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging"
+            ],
+            "module": "ill",
+            "score": 1.1
+        }
+    ],
+    "pepca": "pdeabf5c7d9c41b36",
+    "first10words": " Vase objednavka Nasledujici produkt Teamstore byl prave objednan Cislo objednavky 3414 Zbozi Cena za k",
+    "pepca_style": "",
+    "pepca_inline_style": "pf5b4bd2d99ec5214",
+    "word_count": 208,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Vase objednavka 3414 ",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.1,
+    "phishing": {},
+    "header_from": "zdenek.kadlec@leco.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/68c7f60637d780a28cd87b6b1e256384.eml",
+    "attachments": [
+        {
+            "size": 1608,
+            "mime_type": "image/gif",
+            "flags": 0,
+            "pepca": "pa2559d9c90f61344",
+            "cid": "b3a4c8df1991191644a94893f13fb0f8",
+            "cte": "BASE64",
+            "sumphash": "937a8d81aa7411d07e8fc075d4363d3a",
+            "name": "image"
+        },
+        {
+            "size": 1176,
+            "mime_type": "image/jpeg",
+            "flags": 0,
+            "pepca": "pa85fb84e90376f0b",
+            "cid": "b3a4d00e42ca5259e71623fbf7761b42",
+            "cte": "BASE64",
+            "sumphash": "8c429d41edb8a709a7b0ada146eff2cb",
+            "name": "image"
+        },
+        {
+            "size": 2997,
+            "mime_type": "image/png",
+            "flags": 0,
+            "pepca": "p4ab5d3666fc436c9",
+            "cid": "b3a9b53b83b491b8b56c430dbf2410ac",
+            "cte": "BASE64",
+            "sumphash": "59958c70997ff9c863207d7258cf6615",
+            "name": "image"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "pa2559d9c90f61344"
+        },
+        {
+            "name": "att-pepca",
+            "value": "pa85fb84e90376f0b"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p4ab5d3666fc436c9"
+        },
+        {
+            "name": "pepca",
+            "value": "pdeabf5c7d9c41b36"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pf5b4bd2d99ec5214"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "fashionstore"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "masterinter",
+        "plain_domain": "fashionstore",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 38236843.485264,
+                "domain": "masterinter"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "e spokojeni Ohodnotte nas prosim na zbozi cz na tomto odkazu Navstivte nas partnersky e shop Fashionstore cz ",
+    "lang": "cs"
+}

@@ -1,0 +1,99 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p17a8f4c7e2a4b43e",
+    "last10words": "terial bioplast 36 Kc 1 36 Kc POST Postovne 89 Kc 1 89 Kc Cena celkem s DPH 233 Kc Poznamka ",
+    "pepca_style_total": 0,
+    "header_from": "obchod@piercing-sperky.cz",
+    "first10words": " WWW PIERCING SPERKY CZ Vazeny pane Vazena pani Michaela Pfeiferova dekujeme Vam za objednavku 15000137 ze dne 10 01 20",
+    "attachments": [],
+    "word_count": 328,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/8272080b451cc055de1ab3a81de6f7f1.eml.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p17a8f4c7e2a4b43e"
+        },
+        {
+            "name": "pepca_style",
+            "value": "p054e2c107ec50f5f"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "piercing-sperky",
+                "confidence": 7024912.013429
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "piercing-sperky",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "piercing-sperky",
+        "plain_domain_detail": [
+            {
+                "domain": "piercing-sperky",
+                "confidence": 2
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Objednavka z WWW PIERCING SPERKY CZ cislo 15000137",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": true,
+        "5_top_domains_id_0": 0,
+        "5_top_domains_percent_0": 1.0
+    },
+    "pepca_style": "p054e2c107ec50f5f",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

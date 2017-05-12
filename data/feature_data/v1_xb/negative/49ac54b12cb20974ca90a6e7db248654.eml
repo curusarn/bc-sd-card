@@ -1,0 +1,153 @@
+{
+    "phashes": [
+        {
+            "value": "p1a6e13867a7ceaf0",
+            "name": "pepca"
+        },
+        {
+            "value": "p1c47df7f958ccdb9",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "phNotches": [
+        {
+            "module": "phish-score",
+            "name": [
+                "from_mismatch",
+                "phisheable",
+                "phish_keyword",
+                "subject_phish_keyword",
+                "many_emails",
+                "not-phishing"
+            ],
+            "subscores": [
+                1,
+                0.5,
+                0.0,
+                0.0,
+                -2,
+                -1
+            ],
+            "score": -1.5
+        }
+    ],
+    "header_from": "oznameni@aukro.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/49ac54b12cb20974ca90a6e7db248654.eml",
+    "extractedEmailsTotalCount": {},
+    "theme": {},
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "last10words": " 186 00 Praha 8 IC 24725382 DIC CZ24725382 zapsana v obchodnim rejstriku vedenem Mestskym soudem v Praze v oddile C vlozka 169090 ",
+    "phishing": {
+        "ner_domain_detected": true
+    },
+    "subject": "Potvrzeni Vasi nabidky 5096110256 Mobilni telefon Dual Core Android",
+    "pepca_style": "",
+    "pepca": "p1a6e13867a7ceaf0",
+    "dkstatus": {},
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 100966427.169556,
+                "domain": "allegro"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "allegro",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "aukro",
+        "plain_domain_detail": [
+            {
+                "confidence": 2,
+                "domain": "aukro"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "domainstat_themes": {},
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p1c47df7f958ccdb9",
+    "spfstatus": {},
+    "unsub_link": {},
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 2,
+    "pepca_inline_style_total": 5,
+    "first10words": " Dobry den Client 39618458 Vera Nemethova Klemerova Pamatujte prosim ze veskere automaticke e maily tykajici se Vasich tra",
+    "universalprobes": [
+        {
+            "key": "ps-from_mismatch",
+            "value": "1"
+        },
+        {
+            "key": "ps-phish_keyword",
+            "value": "['bezpe\\xc4\\x8dnost', 'u\\xc5\\xbeivatel', 'z\\xc3\\xadskat']"
+        },
+        {
+            "key": "ps-subject_phish_keyword",
+            "value": "['potvrzen\\xc3\\xad']"
+        },
+        {
+            "key": "ps-many_emails",
+            "value": "1"
+        },
+        {
+            "key": "ps-most-suspicious-links",
+            "value": "[]"
+        },
+        {
+            "key": "ps-not-phishing",
+            "value": "1"
+        }
+    ],
+    "domainstat": {},
+    "lang": "cs",
+    "pepcatotal": 4,
+    "word_count": 350,
+    "adscore": 0,
+    "dmarc_status": {},
+    "spamscore": 1
+}

@@ -1,0 +1,123 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "module": "ill",
+            "score": 1
+        }
+    ],
+    "pepca": "p9e4cb7ff42eee072",
+    "first10words": " Pozdrav od plynaren J From Hasanbegovic Sabahudin mailto shasanbegovic nvision group com Sent Mond",
+    "pepca_style": "",
+    "pepca_inline_style": "p9bf37b14b960b2fe",
+    "unsub_link": "tel:%2B420%C2%A0602%20365%20043",
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "FW FW Faktura Centropol",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1,
+    "word_count": 947,
+    "phishing": {
+        "5_top_domains_id_0": 0,
+        "5_top_domains_percent_1": 0.5,
+        "5_top_domains_percent_0": 0.5,
+        "5_top_domains_id_1": 1
+    },
+    "header_from": "zima@das.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/9d374fcb12000ddc2605f7b08ff6dcb2.eml",
+    "attachments": [
+        {
+            "size": 2139312,
+            "mime_type": "application/pdf",
+            "flags": 0,
+            "pepca": "p274808cbc8787115",
+            "cid": "D52B2D8240EA0147A2193BF221B05A14@eurprd05.prod.outlook.com",
+            "cte": "BASE64",
+            "sumphash": "142beba5b17c78991924660bd59d8ac4",
+            "name": "Faktura plin Centropol 2014.pdf",
+            "lang": "un"
+        }
+    ],
+    "adscore": 0,
+    "unsub_link_texts": [
+        "  e mail"
+    ],
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p274808cbc8787115"
+        },
+        {
+            "name": "pepca",
+            "value": "p9e4cb7ff42eee072"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p9bf37b14b960b2fe"
+        }
+    ],
+    "unsub_link_candidates": [
+        "tel:%2B420%C2%A0602%20365%20043"
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 2,
+                "domain": "sitronics"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "centropol",
+        "plain_domain": "sitronics",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 13294559.419532,
+                "domain": "centropol"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "k dispozici na nasem webu S pratelskym pozdravem Prazska energetika a s ",
+    "lang": "cs"
+}

@@ -1,0 +1,109 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p84088183b18baa8f",
+    "last10words": " a prejeme spoustu zabavy Ohodnotte obchod pro ostatni nakupujici bude to trvat jen minutku dekujeme http www zbozi cz obchod 64690 ",
+    "pepca_style_total": 0,
+    "header_from": "objednavky@filmnadvd.cz",
+    "first10words": " FilmNaDVD cz Vase objednavka c 1412130086 byla odeslana Vazeny z",
+    "attachments": [
+        {
+            "mime_type": "application/pdf",
+            "name": "faktura1412130086.pdf",
+            "first10words": "Faktura cislo Vladimir Daniel Faktura danovy doklad cislo Dodavatel Vladimir",
+            "pepca": "p2e0ef7105c2e52bf",
+            "lang": "cs",
+            "cte": "BASE64",
+            "size": 82178,
+            "flags": 0,
+            "sumphash": "ce6a3087b29ae9b87a55c21a001f87c9"
+        }
+    ],
+    "word_count": 98,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/15060c51c9cc64a11c15fc65b98ba9ab.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p2e0ef7105c2e52bf"
+        },
+        {
+            "name": "pepca",
+            "value": "p84088183b18baa8f"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "masterinter",
+                "confidence": 50982457.980352
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "masterinter",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "filmnadvd",
+        "plain_domain_detail": [
+            {
+                "domain": "filmnadvd",
+                "confidence": 2
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "FilmNaDVD cz Vase objednavka c 1412130086 byla odeslana",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

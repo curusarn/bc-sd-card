@@ -1,0 +1,125 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "images_in_subject"
+            ],
+            "module": "ill",
+            "score": 2
+        }
+    ],
+    "pepca": "p8db58fe8766b8fe5",
+    "first10words": " Registrace nuvi 2597LMT probehla uspesne Nezobrazuje se vam tento e mail Zobrazit jako webovou stranku ",
+    "pepca_style": "",
+    "pepca_inline_style": "p956ca09b448d7ce8",
+    "unsub_link": "http://info.garmin.com/u/un.php?par=ucx7FkxZBk_97324_71007_1",
+    "word_count": 292,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Dekujeme za registraci vaseho zarizeni nuvi 2597LMT",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 2,
+    "precedence": 3,
+    "phishing": {},
+    "header_from": "reply@email1.garmin.com",
+    "pepca_inline_style_total": 2,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/5ebe6643ce7eafcdd0cf7e6b153271b2.eml",
+    "attachments": [],
+    "last10words": "Kansas 66062 913 397 8200 Garmin com Ochrana osobnich udaju ",
+    "adscore": 5,
+    "unsub_link_texts": [
+        "nechtit li dostavat e mail z ucta mygarmin kliknout prosit sem "
+    ],
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p8db58fe8766b8fe5"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p956ca09b448d7ce8"
+        }
+    ],
+    "unsub_link_candidates": [
+        "http://info.garmin.com/u/un.php?par=ucx7FkxZBk_97324_71007_1"
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 3,
+                "domain": "garmin"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "ebay",
+        "plain_domain": "garmin",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 26352129.6394898,
+                "domain": "ebay"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "garmin",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [
+            {
+                "confidence": 2.03494956313046,
+                "domain": "garmin"
+            }
+        ],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 1,
+    "contains_list_header": true,
+    "list_unsubscribe_urls": [
+        "http://info.garmin.com/u/lu.php?lu=n7dL$:,6D:BIJ:ucx7FkxZBk"
+    ],
+    "adNotches": [
+        {
+            "subscores": [
+                5
+            ],
+            "name": [
+                "images_in_subject"
+            ],
+            "module": "ill",
+            "score": 5
+        }
+    ],
+    "lang": "cs"
+}

@@ -1,0 +1,167 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p3d14629fab1aa8f3",
+    "last10words": "e your assistance in helping us to maintain the integrity of the entire PayPal system Thank you for using PayPal The PayPal Team ",
+    "universalprobes": [
+        {
+            "key": "ps-from_mismatch",
+            "value": "1"
+        },
+        {
+            "key": "ps-phish_keyword",
+            "value": "['security', 'account', 'security', 'fraud', 'account', 'account', 'user', 'account', 'access', 'account', 'account', 'access', 'secure', 'account', 'access', 'information', 'account', 'account', 'confirm', 'information', 'account', 'access', 'account', 'access', 'account', 'account', 'information', 'account', 'security']"
+        },
+        {
+            "key": "ps-subject_phish_keyword",
+            "value": "['account']"
+        },
+        {
+            "key": "ps-camouflaged_href",
+            "value": "Url(norm=http://mp3allies.com/~hamilton/cgpaypal/.paypal/login.html, source=None) | Url(norm=https://www.paypal.com/cgi-bin/webscr?cmd=_login-run, source=txt)"
+        },
+        {
+            "key": "ps-html_a_href_camouflaging",
+            "value": "1"
+        },
+        {
+            "key": "ps-many_emails",
+            "value": "1"
+        },
+        {
+            "key": "ps-most-suspicious-links",
+            "value": "[]"
+        },
+        {
+            "key": "ps-phishing",
+            "value": "1"
+        }
+    ],
+    "pepca_style_total": 2,
+    "dkstatus": {},
+    "header_from": "services@paypal.com",
+    "spfstatus": {},
+    "pepca_inline_style": "",
+    "pepcatotal": 3,
+    "attachments": [],
+    "word_count": 311,
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/113.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p3d14629fab1aa8f3"
+        },
+        {
+            "name": "pepca_style",
+            "value": "p4b4e29aebc046311"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "paypal",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "paypal",
+                "confidence": 1124637685.81502
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "paypal",
+                "confidence": 2
+            }
+        ],
+        "domain_keywords": "paypal",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "dmarc_status": {},
+    "phish_score": 12.5,
+    "domainstat": {},
+    "precedence": 3,
+    "extractedEmailsTotalCount": {},
+    "subject": "account assistance",
+    "adscore": 0,
+    "first10words": " PayPal is committed to maintaining a safe environment for its community of customers To protect the security of ",
+    "unsub_link": {},
+    "phishing": {
+        "ner_domain_detected": true,
+        "5_top_domains_id_0": 0,
+        "5_top_domains_percent_0": 1.0
+    },
+    "pepca_style": "p4b4e29aebc046311",
+    "domainstat_themes": {},
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1,
+    "theme": {},
+    "lang": "en",
+    "phNotches": [
+        {
+            "name": [
+                "from_mismatch",
+                "phisheable",
+                "phish_keyword",
+                "subject_phish_keyword",
+                "html_a_href_camouflaging",
+                "many_emails",
+                "phishing"
+            ],
+            "subscores": [
+                1,
+                0.5,
+                0.0,
+                0.0,
+                1,
+                -2,
+                8
+            ],
+            "score": 8.5,
+            "module": "phish-score"
+        }
+    ]
+}

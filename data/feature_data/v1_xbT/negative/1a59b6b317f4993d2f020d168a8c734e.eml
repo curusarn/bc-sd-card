@@ -1,0 +1,97 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pf21e2780b46c1b0d",
+    "last10words": "a Platce DPH Ne ICO DIC Telefon 777295126 Fax e mail leoszalesky seznam cz Zasilat novinky Ano ",
+    "pepca_style_total": 0,
+    "header_from": "metela@profi-moto.cz",
+    "first10words": " Dekujeme za registraci Vazeny zakazniku Dekujeme za Vasi registraci a prejeme Vam prijemne na kupovani ",
+    "attachments": [],
+    "word_count": 221,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/1a59b6b317f4993d2f020d168a8c734e.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pf21e2780b46c1b0d"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pfe3078af980249fe"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "vshosting",
+                "confidence": 23921605.2142599
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "vshosting",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "profi-moto",
+        "plain_domain_detail": [
+            {
+                "domain": "profi-moto",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Dekujeme Vam za registraci ",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "pfe3078af980249fe",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

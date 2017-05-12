@@ -1,0 +1,137 @@
+{
+    "precedence": 3,
+    "phNotches": [
+        {
+            "module": "phish-score",
+            "name": [
+                "from_mismatch",
+                "attachments",
+                "many_emails"
+            ],
+            "subscores": [
+                1,
+                1,
+                -2
+            ],
+            "score": 0.0
+        }
+    ],
+    "header_from": "b.majerova@email.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/trans-ff40ab30f0a8a67b1d8f2065d3b0edcc.eml",
+    "extractedEmailsTotalCount": {},
+    "theme": {},
+    "pepca_small": "p629a820f4a27bd9d",
+    "attachments": [
+        {
+            "size": 0,
+            "name": "risa_sken_150113_04.jpg",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "m14ae2efa0ffm818",
+            "sumphash": "dc5b5ace27d0916fed08dfee55dd0748",
+            "mime_type": "image/jpeg"
+        },
+        {
+            "size": 0,
+            "name": "risa_sken_150113_04.pdf",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "m14ae2efa119m81c",
+            "sumphash": "dc5b5ace27d0916fed08dfee55dd0748",
+            "mime_type": "application/pdf"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "last10words": " potvrzeni B ",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "subject": "potvrzeni",
+    "pepca_style": "",
+    "pepca": "",
+    "dkstatus": {},
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "domainstat_themes": {},
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "spfstatus": {},
+    "unsub_link": {},
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0.0,
+    "pepca_inline_style_total": 0,
+    "first10words": " potvrzeni B ",
+    "universalprobes": [
+        {
+            "key": "ps-from_mismatch",
+            "value": "1"
+        },
+        {
+            "key": "ps-attachments",
+            "value": "2"
+        },
+        {
+            "key": "ps-many_emails",
+            "value": "1"
+        }
+    ],
+    "domainstat": {},
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 7,
+    "adscore": 0,
+    "dmarc_status": {},
+    "spamscore": 1.1
+}

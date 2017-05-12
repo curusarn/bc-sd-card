@@ -1,0 +1,107 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pddfba0be1b3e3dd3",
+    "last10words": " litry 22 C Li 1 21 95 25 115 25 Celkem 95 00 Kc bez DPH 115 00 vcetne DPH Forma uhrady platebni kartou Vystavil a Katerina Krejcikova",
+    "pepca_style_total": 0,
+    "header_from": "obchod.boleslav@autokelly.cz",
+    "first10words": " KELLY CZ BOLESLAV faktura 2141109183 vystavena 15 12 2014 11 49 pro Dana Ulmannova ",
+    "attachments": [
+        {
+            "name": "2141109183.csv",
+            "pepca": "p84c292aa66e20781",
+            "cte": "QPRINT",
+            "mime_type": "text/comma-separated-values",
+            "size": 812,
+            "flags": 0,
+            "sumphash": "5d7524885b40d283130c0b33b368e138"
+        }
+    ],
+    "word_count": 39,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/d2e98bd69569e6322a17a801fc292796.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p84c292aa66e20781"
+        },
+        {
+            "name": "pepca",
+            "value": "pddfba0be1b3e3dd3"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "autokelly",
+                "confidence": 3661915.079251
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "autokelly",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "kelly",
+        "plain_domain_detail": [
+            {
+                "domain": "kelly",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Faktura 2141109183",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

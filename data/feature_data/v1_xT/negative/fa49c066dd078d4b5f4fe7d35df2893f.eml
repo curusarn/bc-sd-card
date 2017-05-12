@@ -1,0 +1,112 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "module": "ill",
+            "score": 1.1
+        }
+    ],
+    "pepca": "p2236a6270a0d63fa",
+    "first10words": " Dobry den pi Hlavicova posilam Vam c DL term in dodani do 17 12 2014 A 58709457 S pranim pekneho dne Mo",
+    "pepca_style": "",
+    "pepca_inline_style": "p7faba8a2a340f89a",
+    "word_count": 1006,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "RE Fw objednavka",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.1,
+    "phishing": {},
+    "header_from": "monika.cerna@electrolux.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/fa49c066dd078d4b5f4fe7d35df2893f.eml",
+    "attachments": [
+        {
+            "size": 27646,
+            "mime_type": "image/png",
+            "flags": 0,
+            "pepca": "p8ba94e94b0066d2a",
+            "cid": "_4_154440D415443D00003B3C13C1257DAF",
+            "cte": "BASE64",
+            "sumphash": "91d52e79afe80a4d4557c44e2c2bd2ca",
+            "name": ""
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p8ba94e94b0066d2a"
+        },
+        {
+            "name": "pepca",
+            "value": "p2236a6270a0d63fa"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p7faba8a2a340f89a"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 6,
+                "domain": "electrolux"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "clamav",
+        "plain_domain": "electrolux",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 458263259.968,
+                "domain": "clamav"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "se as a result of e mail transmission If verification is required please request a hard copy version The Electrolux Group www electrolux com ",
+    "lang": "en"
+}

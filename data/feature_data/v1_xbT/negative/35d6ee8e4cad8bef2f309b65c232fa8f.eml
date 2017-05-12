@@ -1,0 +1,136 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pc8a7b6bfe089c37f",
+    "last10words": "g cz Tento email Vam byl zaslan na zaklade Vasi objednavky WEB201405078 z webu Nabytek FORLIVING cz ze dne 14 12 2014 16 54 ",
+    "pepca_style_total": 0,
+    "header_from": "obchod@nabytek-forliving.cz",
+    "first10words": " Objednavka WEB201405078 byla prijata Nabytek FORLIVING cz Objednavka WEB201405078 Vazeny zakazniku Vase ob",
+    "attachments": [
+        {
+            "mime_type": "application/pdf",
+            "name": "WEB201405078.pdf",
+            "first10words": "Objednavka Objednano Objednavka WEB stranka V pripade problemu nas kontaktujtena",
+            "pepca": "p616542ea77ff2af9",
+            "lang": "cs",
+            "cte": "BASE64",
+            "size": 33400,
+            "flags": 0,
+            "sumphash": "3aa16acf71a11be730ad8eee3a3dcc99"
+        },
+        {
+            "mime_type": "application/pdf",
+            "name": "vseobecne-obchodni-podminky.pdf",
+            "first10words": "Vseobecne obchodni podminky Obchodni spolecnosti Forliving s r o se",
+            "pepca": "p9df3b6150a8bc60c",
+            "lang": "cs",
+            "cte": "BASE64",
+            "size": 67780,
+            "flags": 0,
+            "sumphash": "a8f8699a7d526ffa703c5aa76544a02c"
+        }
+    ],
+    "word_count": 141,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/35d6ee8e4cad8bef2f309b65c232fa8f.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p616542ea77ff2af9"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p9df3b6150a8bc60c"
+        },
+        {
+            "name": "pepca",
+            "value": "pc8a7b6bfe089c37f"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pd4de7806120523e5"
+        }
+    ],
+    "spamscore": 1.2,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "masterinter",
+                "confidence": 12745614.495088
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "masterinter",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "nabytek-forliving",
+        "plain_domain_detail": [
+            {
+                "domain": "nabytek-forliving",
+                "confidence": 1
+            },
+            {
+                "domain": "forliving",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Objednavka WEB201405078 byla prijata",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "pd4de7806120523e5",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1,
+                0.1
+            ],
+            "score": 1.2,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

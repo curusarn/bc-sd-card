@@ -1,0 +1,112 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p6bedde7c6fe18627",
+    "last10words": " A SA pozdravem A Ing Jan Fort A A A ",
+    "pepca_style_total": 0,
+    "header_from": "jan.fort@hoteltheresia.cz",
+    "first10words": " Dobry den A fajn dekuji za potvrzeni A Pekne a pokud mozno poklidne svatky ",
+    "attachments": [
+        {
+            "name": "image001.jpg",
+            "pepca": "p5dca676f0adbb503",
+            "cte": "BASE64",
+            "mime_type": "image/jpeg",
+            "cid": "image001.jpg@01D0185C.D3F8F330",
+            "size": 33941,
+            "flags": 0,
+            "sumphash": "8f4e8ac88921a9d09826576846b8f8ab"
+        }
+    ],
+    "word_count": 264,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/9e1c3caca40abd47c4465d544cb6afc3.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p5dca676f0adbb503"
+        },
+        {
+            "name": "pepca",
+            "value": "p6bedde7c6fe18627"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pe9ec9d33bd1b1919"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "nhs",
+                "confidence": 10482722.125616
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "nhs",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "beatles-revival",
+        "plain_domain_detail": [
+            {
+                "domain": "beatles-revival",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "RE Objednavka 13 3 2015",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "pe9ec9d33bd1b1919",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

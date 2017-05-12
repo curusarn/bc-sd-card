@@ -1,0 +1,126 @@
+{
+    "phashes": [
+        {
+            "value": "pe0f1c2eb75e8d4fc",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p1949b7aa385272b2",
+            "name": "pepca"
+        },
+        {
+            "value": "pa657b9289cfd4e6a",
+            "name": "pepca_style"
+        },
+        {
+            "value": "p2af3513769507592",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "info@chytrahlavicka.com",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/27dbc36b7d3d74546dbc1b467bce4e55.eml",
+    "unsub_link_candidates": [
+        "http://www.chytrahlavicka.com/order/show?guid=93972fb9-e1f4-4b4a-ae8a-6c3cde8e8840"
+    ],
+    "attachments": [
+        {
+            "first10words": "Objednavka Dodavatel NEUMANN spol s r o Pikovicka Praha CESKA",
+            "size": 59326,
+            "mime_type": "application/pdf",
+            "cte": "BASE64",
+            "flags": 0,
+            "lang": "cs",
+            "name": "objednavka_8140472.pdf",
+            "pepca": "pe0f1c2eb75e8d4fc",
+            "sumphash": "db9312bb71c788dde37abe9acd09d9a4"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "missing_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                1
+            ],
+            "score": 2
+        }
+    ],
+    "pepca": "p1949b7aa385272b2",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "pa657b9289cfd4e6a",
+    "last10words": " hlavicka Tento e mail je generovan automaticky prosime neodpovidejte na nej Generovano systemem FastCentrik ",
+    "subject": "Objednavka 8140472",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 6486232.1718423,
+                "domain": "mall"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "mall",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "fastcentrik",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "fastcentrik"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p2af3513769507592",
+    "unsub_link_texts": [
+        "kc kc kc pokud se chtit podivat na svojit objednavka nebo provest platba kliknout prosit zde "
+    ],
+    "unsub_link": "http://www.chytrahlavicka.com/order/show?guid=93972fb9-e1f4-4b4a-ae8a-6c3cde8e8840",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Objednavka 8140472 Dobry den dekujeme za Vas nakup na eshopu Chytra hlavicka Timto e mailem potvrzujeme z",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 276,
+    "adscore": 0,
+    "spamscore": 2
+}

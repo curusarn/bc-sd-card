@@ -1,0 +1,140 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "module": "ill",
+            "score": 1.1
+        }
+    ],
+    "pepca": "p382cbd5b196771b7",
+    "first10words": " A A Dobry den pani Sedlakova A v priloze Vam zasilam objednavku c A NOJP0",
+    "pepca_style": "p044f03480d7fbd86",
+    "pepca_inline_style": "pbc4b28613308519a",
+    "word_count": 254,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Objednavka c NOJP013274",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.1,
+    "phishing": {},
+    "header_from": "H.Hulova@primuslaundry.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/86e5c1e29ce74999638eccaee08901ce.eml",
+    "attachments": [
+        {
+            "size": 2946,
+            "mime_type": "image/gif",
+            "flags": 0,
+            "pepca": "p5cc44c9a4f2badca",
+            "cid": "157464710@15122014-17D0",
+            "cte": "BASE64",
+            "sumphash": "676f93dc292e7dd7d139915207f28524",
+            "name": "primus-logo.gif"
+        },
+        {
+            "size": 38175,
+            "mime_type": "image/jpeg",
+            "flags": 0,
+            "pepca": "p6ada11a7274f9832",
+            "cid": "157464710@15122014-17D7",
+            "cte": "BASE64",
+            "sumphash": "c5f3265636ea9e82c01e0c7e1f11896d",
+            "name": "primus.jpg"
+        },
+        {
+            "size": 87629,
+            "mime_type": "application/pdf",
+            "flags": 0,
+            "pepca": "p6292f36ba4100131",
+            "first10words": "RFQ NOJP Cis objednavky Strana Mena CZK Mnozstvi Datum dodani",
+            "cte": "BASE64",
+            "sumphash": "1b0615bc25ec71659df7276b0f2c86a1",
+            "name": "Primus_PurchaseOrder_LiveCS_2211315.pdf",
+            "lang": "cs"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p5cc44c9a4f2badca"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p6ada11a7274f9832"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p6292f36ba4100131"
+        },
+        {
+            "name": "pepca",
+            "value": "p382cbd5b196771b7"
+        },
+        {
+            "name": "pepca_style",
+            "value": "p044f03480d7fbd86"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pbc4b28613308519a"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "ebay",
+        "plain_domain": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 15810177.4574864,
+                "domain": "ebay"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "sibilityA and commitment to the ENVIRONMENT A A A A A A A A ",
+    "lang": "cs"
+}

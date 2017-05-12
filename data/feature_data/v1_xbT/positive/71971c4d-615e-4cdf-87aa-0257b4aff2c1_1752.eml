@@ -1,0 +1,114 @@
+{
+    "pepca_inline_style_total": 2,
+    "pepca": "p8ccaadef24898f15",
+    "last10words": "ges ebay com help policies user agreement html Copyright 2006 2007 eBay Inc All Rights Reserved Designated trademark ",
+    "pepca_style_total": 2,
+    "header_from": "member@ebay.com",
+    "first10words": " Question for item 330095581523 Sony DSR 300 Professional Video Camera eBay sent this message to you from John McOnnell mconn",
+    "attachments": [],
+    "word_count": 790,
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/1752.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p8ccaadef24898f15"
+        },
+        {
+            "name": "pepca_style",
+            "value": "p7e626cfce6f7b08f"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p29d8d440fd2f0901"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "ebay",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "ebay",
+                "confidence": 8853800389.04735
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "ebay",
+                "confidence": 8
+            }
+        ],
+        "domain_keywords": "ebay",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "ebay",
+        "plain_domain_detail": [
+            {
+                "domain": "ebay",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "en",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Message from eBay Member",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": true,
+        "5_top_domains_id_2": 0,
+        "5_top_domains_id_1": 0,
+        "5_top_domains_percent_1": 0.05,
+        "5_top_domains_percent_2": 0.05,
+        "5_top_domains_id_0": 0,
+        "5_top_domains_percent_0": 0.9
+    },
+    "pepca_style": "p7e626cfce6f7b08f",
+    "pepca_inline_style": "p29d8d440fd2f0901",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

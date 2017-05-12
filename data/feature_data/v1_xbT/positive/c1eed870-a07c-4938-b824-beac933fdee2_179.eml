@@ -1,0 +1,107 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pdd3815869acf5a46",
+    "last10words": " Charlie s Angels Day of the Dead Zelda Illinois man PlayBoy ",
+    "pepca_style_total": 0,
+    "header_from": "support_id_3090939@ebay.com",
+    "first10words": " Charlie s Angels Day of the Dead Zelda Illinois man PlayBoy ",
+    "attachments": [
+        {
+            "name": "nair.GIF",
+            "pepca": "paf1829f6d4e4e0d2",
+            "cte": "BASE64",
+            "mime_type": "image/gif",
+            "cid": "part1.08010907.08030806@support_refnum_84@ebay.com",
+            "size": 13301,
+            "flags": 0,
+            "sumphash": "4caf56bf08cb85f011092226441eccf8"
+        }
+    ],
+    "word_count": 12,
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing2/179.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "paf1829f6d4e4e0d2"
+        },
+        {
+            "name": "pepca",
+            "value": "pdd3815869acf5a46"
+        }
+    ],
+    "spamscore": 1.5,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "bloglovin",
+                "confidence": 1273466.267879
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "bloglovin",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "en",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "eBay Security Update Please Read Thu 29 Dec 2005 06 15 20 0400 ",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": true,
+        "5_top_domains_id_0": 0,
+        "5_top_domains_percent_0": 1.0
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "long_subject"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.5
+            ],
+            "score": 1.5,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

@@ -1,0 +1,113 @@
+{
+    "phashes": [
+        {
+            "value": "pe3e2081cce2ff9da",
+            "name": "pepca"
+        },
+        {
+            "value": "p17ace97eaaf2dc4d",
+            "name": "pepca_style"
+        },
+        {
+            "value": "pc2fc6eeddfc77e6e",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "no-reply@votocvohoz.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/34101f891bc6f5c3e81b207e85306d2e.eml",
+    "unsub_link_candidates": [
+        "http://www.votocvohoz.cz/member/general/subscribe?hash=83146%3A01b40df792e0db5f64ba7fe5219583da9d&type=newsletter&utm_campaign=Trends_Treats&utm_source=Trends&utm_medium=Treats&utm_content=TT"
+    ],
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "pepca": "pe3e2081cce2ff9da",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "p17ace97eaaf2dc4d",
+    "last10words": "havejsi temata 2014 votocvohoz cz Sleduj nas ",
+    "subject": "Nove heslo",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 7,
+                "domain": "gmail"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 35026998.9969161,
+                "domain": "vinted"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "gmail",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "vinted",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "votocvohoz",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "votocvohoz"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "pc2fc6eeddfc77e6e",
+    "unsub_link_texts": [
+        " odebirat novinka "
+    ],
+    "unsub_link": "http://www.votocvohoz.cz/member/general/subscribe?hash=83146%3A01b40df792e0db5f64ba7fe5219583da9d&type=newsletter&utm_campaign=Trends_Treats&utm_source=Trends&utm_medium=Treats&utm_content=TT",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Ahoj mishacomar Zmena hesla bude provedena Pro dokonceni klikni prosim na tlacitko ",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 242,
+    "adscore": 0,
+    "spamscore": 1
+}

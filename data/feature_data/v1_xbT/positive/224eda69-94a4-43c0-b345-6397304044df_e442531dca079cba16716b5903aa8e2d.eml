@@ -1,0 +1,149 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p23efcb49a94c4e98",
+    "last10words": " Prosim kliknete na odkaz nize ziskat pristup http loveronaldo7 com fagsbazar11 Uspesny prodej vam preje Vas Sbazar cz tym ",
+    "universalprobes": [
+        {
+            "key": "ps-from_mismatch",
+            "value": "1"
+        },
+        {
+            "key": "ps-phish_keyword",
+            "value": "['\\xc3\\xba\\xc4\\x8det', 'pozastaven', 'z\\xc3\\xadskat']"
+        },
+        {
+            "key": "ps-subject_phish_keyword",
+            "value": "['\\xc3\\xba\\xc4\\x8det', 'pozastaven']"
+        },
+        {
+            "key": "ps-many_emails",
+            "value": "1"
+        },
+        {
+            "key": "ps-most-suspicious-links",
+            "value": "[]"
+        },
+        {
+            "key": "ps-phishing",
+            "value": "1"
+        }
+    ],
+    "pepca_style_total": 0,
+    "dkstatus": {},
+    "header_from": "neodpovidat.admin@seznam.cz",
+    "spfstatus": {},
+    "pepca_inline_style": "",
+    "pepcatotal": 4,
+    "attachments": [],
+    "word_count": 34,
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/Boris-49570925/e442531dca079cba16716b5903aa8e2d.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p23efcb49a94c4e98"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "svete",
+                "confidence": 3607876.58867
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "svete",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "sbazar",
+        "plain_domain_detail": [
+            {
+                "domain": "sbazar",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "dmarc_status": {},
+    "phish_score": 11,
+    "domainstat": {},
+    "precedence": 3,
+    "extractedEmailsTotalCount": {},
+    "subject": "Vas ucet je pozastaven ",
+    "adscore": 0,
+    "first10words": " Dobry den Vas Sbazar cz ucet byl pozastaven Prosim kliknete na odkaz nize ziskat pristup http loveronaldo7 com fagsbazar11 U",
+    "unsub_link": {},
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "domainstat_themes": {},
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1,
+    "theme": {},
+    "lang": "cs",
+    "phNotches": [
+        {
+            "name": [
+                "from_mismatch",
+                "phish_keyword",
+                "subject_phish_keyword",
+                "many_emails",
+                "phishing"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.0,
+                -2,
+                8
+            ],
+            "score": 7,
+            "module": "phish-score"
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "module": "ill",
+            "score": 1.1
+        }
+    ],
+    "pepca": "pc82e0947210f4544",
+    "first10words": " Vazeni Veronika Potvrzujeme uspesnou registraci v obchode firmy Bri JANDEROVE Prihlasovaci udaje E mail A vjuren",
+    "pepca_style": "pee3ced3b04d0bc2c",
+    "pepca_inline_style": "",
+    "unsub_link": "https://plus.google.com/+UmelekvetinyEu/",
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Uspesna registrace v obchode firmy Bri JANDEROVE",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.1,
+    "word_count": 158,
+    "phishing": {},
+    "header_from": "info@brijanderove.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/5bbb8d66076aa7518e3b220b91f43273.eml",
+    "attachments": [],
+    "adscore": 0,
+    "unsub_link_texts": [
+        " g novinka na google copyright c"
+    ],
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pc82e0947210f4544"
+        },
+        {
+            "name": "pepca_style",
+            "value": "pee3ced3b04d0bc2c"
+        }
+    ],
+    "unsub_link_candidates": [
+        "https://plus.google.com/+UmelekvetinyEu/"
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "umelekvetiny"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "google",
+        "plain_domain": "umelekvetiny",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 16046806.6511757,
+                "domain": "google"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "umelekvetiny",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [
+            {
+                "confidence": 3,
+                "domain": "umelekvetiny"
+            }
+        ],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "nas nezridili ucet nebo pokud jsme vam tento email zaslali omylem prosim zaslete email na info brijanderove cz Tento email neni SPAM ",
+    "lang": "cs"
+}

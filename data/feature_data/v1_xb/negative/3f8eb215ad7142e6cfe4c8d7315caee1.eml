@@ -1,0 +1,146 @@
+{
+    "phashes": [
+        {
+            "value": "p43f7a1548fb0c3a2",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p62e045e09abd0bea",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p2f12c5e31a33f97d",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pb72a7ed0bc50cba2",
+            "name": "pepca"
+        },
+        {
+            "value": "p461f353f84469f0d",
+            "name": "pepca_style"
+        },
+        {
+            "value": "pa79549e91b7a73ef",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "bme@mailer.booking.com",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/3f8eb215ad7142e6cfe4c8d7315caee1.eml",
+    "attachments": [
+        {
+            "size": 6740,
+            "name": "",
+            "cte": "BASE64",
+            "flags": 0,
+            "sumphash": "219e7c12e3c85b393bc578dcbd1adbb9",
+            "pepca": "p43f7a1548fb0c3a2",
+            "mime_type": "image/jpeg"
+        },
+        {
+            "size": 1800,
+            "name": "",
+            "cte": "BASE64",
+            "flags": 0,
+            "sumphash": "7b0a2dbb25c6bf80df0999b02a38cb50",
+            "pepca": "p62e045e09abd0bea",
+            "mime_type": "image/jpeg"
+        },
+        {
+            "size": 1776,
+            "name": "",
+            "cte": "BASE64",
+            "flags": 0,
+            "sumphash": "aff888c134ebe4cc3de19408a29e9c66",
+            "pepca": "p2f12c5e31a33f97d",
+            "mime_type": "image/jpeg"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "pepca": "pb72a7ed0bc50cba2",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "p461f353f84469f0d",
+    "last10words": "king com Vsetky prava vyhradene Tento e mail vam zaslala spolocnost Booking com Herengracht 597 1017 CE Amsterdam Holandsko ",
+    "subject": "Ziadost o zmenu hesla",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 3,
+                "domain": "booking"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 88224116.735027,
+                "domain": "booking"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "booking",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "booking",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "booking",
+        "plain_domain_detail": [
+            {
+                "confidence": 3,
+                "domain": "booking"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "pa79549e91b7a73ef",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Ziadost o zmenu hesla Moj Booking com Hlavna stranka Zabudli ste svoje heslo ",
+    "lang": "sk",
+    "pepcatotal": 0,
+    "word_count": 220,
+    "adscore": 0,
+    "spamscore": 1
+}

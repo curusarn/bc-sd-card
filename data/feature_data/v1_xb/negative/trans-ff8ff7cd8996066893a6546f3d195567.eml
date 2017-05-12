@@ -1,0 +1,118 @@
+{
+    "phashes": [
+        {
+            "value": "pc68b9b2062420955",
+            "name": "pepca"
+        },
+        {
+            "value": "p720410626309267d",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "noba.lbc@seznam.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/trans-ff8ff7cd8996066893a6546f3d195567.eml",
+    "attachments": [
+        {
+            "size": 0,
+            "name": "image004.jpg",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "image004.jpg@01CF33AC.6017FCD0",
+            "sumphash": "dc5b5ace27d0916fed08dfee55dd0748",
+            "mime_type": "image/jpeg"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "pepca": "pc68b9b2062420955",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": " Frantisek Poborsky tel 602 839 046 485 312 906 E mail noba lbc seznam cz ",
+    "subject": "Re Objednavka prislusenstvi ",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 1,
+                "domain": "slevius"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 11739019.486294,
+                "domain": "kraj-lbc"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "slevius",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "kraj-lbc",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "btl",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "btl"
+            },
+            {
+                "confidence": 1,
+                "domain": "btl-shop"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p720410626309267d",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Dobry den balik dosel ale u Sonotraxu chybi cesky navod Chtel jsem pristroj ve ctvrtek predat Pan Smolaga me zatim nebere telef",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 282,
+    "adscore": 0,
+    "spamscore": 1.1
+}

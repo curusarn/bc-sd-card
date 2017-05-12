@@ -1,0 +1,124 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pda345a5411fb8b18",
+    "last10words": "300 Praha 9 spolecnost je zaregistrovana u Mestskeho soudu v Praze oddil C vlozka 118080 IC 27600904 DIC CZ27600904 ",
+    "pepca_style_total": 0,
+    "header_from": "objednavky@prodejparfemu.cz",
+    "first10words": " Objednavka doruceni na adresu ProdejParfemu cz Objednavka doruceni na adresu Dobry den dek",
+    "attachments": [
+        {
+            "mime_type": "application/pdf",
+            "name": "OP_20141215.pdf",
+            "first10words": "Tyto obchodni podminky plati pro nakup v internetovem obchode ProdejParfemu",
+            "pepca": "p3407b56942ece55a",
+            "lang": "cs",
+            "cte": "BASE64",
+            "size": 52534,
+            "flags": 0,
+            "sumphash": "417a76d36b01bf014bcfb66d2bb70622"
+        }
+    ],
+    "word_count": 739,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/482746bc4f72c561c15de6daf87e8965.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p3407b56942ece55a"
+        },
+        {
+            "name": "pepca",
+            "value": "pda345a5411fb8b18"
+        },
+        {
+            "name": "pepca_style",
+            "value": "pde5ce64a5ecb3223"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p7bb14725d34e2ea5"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "prodejparfemu",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "superhosting",
+                "confidence": 47918139.45209
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "prodejparfemu",
+                "confidence": 7
+            }
+        ],
+        "domain_keywords": "superhosting",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "prodejparfemu",
+        "plain_domain_detail": [
+            {
+                "domain": "prodejparfemu",
+                "confidence": 3
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "ProdejParfemu cz Objednavka doruceni na adresu",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "pde5ce64a5ecb3223",
+    "pepca_inline_style": "p7bb14725d34e2ea5",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

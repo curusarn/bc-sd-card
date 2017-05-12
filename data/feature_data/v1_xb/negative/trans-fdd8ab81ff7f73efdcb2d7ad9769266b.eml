@@ -1,0 +1,111 @@
+{
+    "phashes": [
+        {
+            "value": "pa8f1dfc9316202d8",
+            "name": "pepca"
+        },
+        {
+            "value": "p54f1ca36e867b7bf",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "obchod@abctech.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/trans-fdd8ab81ff7f73efdcb2d7ad9769266b.eml",
+    "attachments": [
+        {
+            "size": 0,
+            "name": "image",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "3df62474a22ce4071e56786b7cd4063f",
+            "sumphash": "dc5b5ace27d0916fed08dfee55dd0748",
+            "mime_type": "image/gif"
+        },
+        {
+            "size": 0,
+            "name": "image",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "3dfedcb9aa5087b77dccf8c9dab3feea",
+            "sumphash": "dc5b5ace27d0916fed08dfee55dd0748",
+            "mime_type": "image/jpeg"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "pepca": "pa8f1dfc9316202d8",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": " Ceska republika Telefon 777069670 Zde je Vase pouceni o odvolani Uvedte zde informace o dodavateli provozovateli ",
+    "subject": "Vase objednavka 606 ",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 38236843.485264,
+                "domain": "masterinter"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "masterinter",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p54f1ca36e867b7bf",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Vase objednavka Dekujeme mnohokrat za Vasi objednavku Potvrzujeme prijeti Vasi objednavky a probiha jeji zpracova",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 268,
+    "adscore": 0,
+    "spamscore": 1
+}

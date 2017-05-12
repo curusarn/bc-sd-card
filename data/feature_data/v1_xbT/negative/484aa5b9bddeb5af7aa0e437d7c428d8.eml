@@ -1,0 +1,118 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p9417323b66c6fc9c",
+    "last10words": "ctou SoccerProject Team www soccerproject com SoccerProject je onlinovy fotbalovy manazer zdarma Zvladnete ovladat vlstni tym ",
+    "pepca_style_total": 0,
+    "header_from": "noreply@soccerproject.com",
+    "first10words": " Vase heslo na SoccerProjectu Vase heslo na SoccerProjectu Ahoj Nekdo pravdepodobne Vy zazadal o za",
+    "attachments": [
+        {
+            "name": "bar.gif",
+            "cte": "BASE64",
+            "mime_type": "image/gif",
+            "cid": "9ef0255ef848fa7f385f4c3a86b07cc1",
+            "size": 220,
+            "flags": 0,
+            "sumphash": "94e6f3e3bed2b5b60b724142a2922d0f"
+        },
+        {
+            "name": "bg.gif",
+            "cte": "BASE64",
+            "mime_type": "image/gif",
+            "cid": "f8bd32951c2b6bd4d6b2a3d87c5728a5",
+            "size": 0,
+            "flags": 0,
+            "sumphash": "dc5b5ace27d0916fed08dfee55dd0748"
+        }
+    ],
+    "word_count": 85,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/484aa5b9bddeb5af7aa0e437d7c428d8.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p9417323b66c6fc9c"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p82d1c1deefe0077b"
+        }
+    ],
+    "spamscore": 2,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "soccerproject",
+                "confidence": 12518908.049715
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "soccerproject",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "soccerproject",
+        "plain_domain_detail": [
+            {
+                "domain": "soccerproject",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": " SoccerProject VaA e heslo na SoccerProjectu",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "p82d1c1deefe0077b",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "missing_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                1
+            ],
+            "score": 2,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

@@ -1,0 +1,110 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pfc734d036eef51d1",
+    "last10words": " track of information on Products and Campaigns at anytime visit now Copyright 2006 2013 DX com All rights reserved ",
+    "pepca_style_total": 0,
+    "header_from": "sales@dealextreme.com",
+    "first10words": " Friday 23 January 2015 13 49 Home Help Dear Karel Thank you for shopping at DX com We re sorry our system w",
+    "attachments": [],
+    "word_count": 349,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/04cba114bda3f73e84d3f8f15835162b.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pfc734d036eef51d1"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pf68b2d55a5e6ecf2"
+        }
+    ],
+    "spamscore": 2.5,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "dx",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "dealextreme",
+                "confidence": 248689377.38223
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "dx",
+                "confidence": 5
+            }
+        ],
+        "domain_keywords": "dealextreme",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "youdx",
+        "plain_domain_detail": [
+            {
+                "domain": "youdx",
+                "confidence": 1
+            },
+            {
+                "domain": "dx",
+                "confidence": 8
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "en",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "DX order payment failed action required to complete your order ",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "pf68b2d55a5e6ecf2",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "missing_message_id",
+                "long_subject"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                1,
+                0.5
+            ],
+            "score": 2.5,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

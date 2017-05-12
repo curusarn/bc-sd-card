@@ -1,0 +1,114 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pb2b0ce5cd67f93f5",
+    "last10words": "e za kazdou pripominku a nazor ktery od Vas obdrzime S pozdravem tym Odhlasit se z odberu muzete zde ",
+    "pepca_style_total": 0,
+    "unsub_link_texts": [
+        "dekovat za prihlaseni do newsletteru internetovy obchod www simplehome cz ",
+        "s pozdrav tym  odhlasit se z odber moct",
+        "odhlasit se z odber moct zde "
+    ],
+    "header_from": "info@simplehome.cz",
+    "unsub_link_candidates": [
+        "",
+        "http://www.simplehome.cz/",
+        "http://www.simplehome.cz/odhlaseni-z-newsletteru/"
+    ],
+    "first10words": " SIMPLEHOME cz Dobry den Dekuje za prihlaseni do newsletteru internetoveho obchodu www simplehome cz ",
+    "attachments": [],
+    "word_count": 86,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/006c2a7c7191b25390b85649b19e86c5.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pb2b0ce5cd67f93f5"
+        },
+        {
+            "name": "pepca_style",
+            "value": "pa3b870b26ca78fc3"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p1e03dd6bcd21aa82"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "freelancer",
+                "confidence": 13727073.7226596
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "freelancer",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "simplehome",
+        "plain_domain_detail": [
+            {
+                "domain": "simplehome",
+                "confidence": 4
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": " SIMPLEHOME cz Vase registrace do newsletteru",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "unsub_link": "http://www.simplehome.cz/odhlaseni-z-newsletteru/",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "pa3b870b26ca78fc3",
+    "pepca_inline_style": "p1e03dd6bcd21aa82",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

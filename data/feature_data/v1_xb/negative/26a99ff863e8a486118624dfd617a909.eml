@@ -1,0 +1,114 @@
+{
+    "phashes": [
+        {
+            "value": "p307509f3187b8b67",
+            "name": "pepca"
+        },
+        {
+            "value": "p625552adbbe8f8fe",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "admin@loveaholics.com",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/26a99ff863e8a486118624dfd617a909.eml",
+    "unsub_link_candidates": [
+        "https://www.loveaholics.com/site/autologin?emlTrack=1415019697-591b18f9bef511e38e3e68b599be7074-UGFzc3dvcmRSZW1pbmRlclRndGg%3D-ZUVtYWls-UGFzc3dvcmQgUmVtaW5kZXI%3D&key=e9e5c4cb2e7a8adedfe5a3039f4ed24f&uniqmessageId=7a4bc33ac5794be0bb4ef5ef1591b322&open=unsubscribe",
+        "https://www.loveaholics.com/site/autologin?emlTrack=1415019697-591b18f9bef511e38e3e68b599be7074-UGFzc3dvcmRSZW1pbmRlclRndGg%3D-ZUVtYWls-UGFzc3dvcmQgUmVtaW5kZXI%3D&key=e9e5c4cb2e7a8adedfe5a3039f4ed24f&uniqmessageId=7a4bc33ac5794be0bb4ef5ef1591b322&open=unsubscribe",
+        "http://www.loveaholics.com/staticPage/privacypolicy"
+    ],
+    "attachments": [],
+    "contains_list_header": true,
+    "last10words": " 1374 Vincenti Buildings 28 19 Strait Street Valletta VLT 1432 Malta 44 3444824945 vase uzivatelske id 738512716 ",
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca": "p307509f3187b8b67",
+    "subject": "Pripomenuti hesla",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 6,
+                "domain": "centrum"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 116836967.27924,
+                "domain": "loveaholics"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "centrum",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "loveaholics",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p625552adbbe8f8fe",
+    "unsub_link_texts": [
+        "svuj ucet a kontaktovat vsechen uzivatel odhlasit zmena nastaveni mail dobry den michael zde byt vasi prihlasovaci udaj",
+        " odhlasit se zmena vas emailovy predplatne",
+        "zmena vas emailovy predplatne ochrana soukromy "
+    ],
+    "list_unsubscribe_urls": [
+        "mailto:lu-ph@to.ropot.net?subject=2c068b0c627e11e49ef5441ea14ed80c&body=c2cb4da4988418a96200a801f87fc92ac21yY2thbWljaGFsQHNlem5hbS5jeiw3YTRiYzMzYWM1Nzk0YmUwYmI0ZWY1ZWYxNTkxYjMyMg=="
+    ],
+    "unsub_link": "http://www.loveaholics.com/staticPage/privacypolicy",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Loveaholics Upgrade svuj ucet a kontaktuj vsechny uzivatele Odhlas zmenou nast",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 346,
+    "adscore": 0,
+    "spamscore": 1.1
+}

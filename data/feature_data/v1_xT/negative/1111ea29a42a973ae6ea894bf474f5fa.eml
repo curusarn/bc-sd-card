@@ -1,0 +1,114 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1,
+                1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging",
+                "missing_message_id"
+            ],
+            "module": "ill",
+            "score": 2.1
+        }
+    ],
+    "pepca": "pcbec01c197e5ce5e",
+    "first10words": " Dobry den zazadali jste o zaslani noveho hesla pro Vas uzivatelsky ucet vedeny pod e mailovou adresou prochazkova marcela seznam",
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "word_count": 78,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Nove heslo k vasemu uctu",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 2.1,
+    "list_unsubscribe_urls": [
+        "mailto:unsubscribe@email-server.cz?subject=odhlasit&body=odhlasit:<prochazkova.marcela@seznam.cz"
+    ],
+    "phishing": {},
+    "header_from": "coolsoutez@coolsoutez.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/1111ea29a42a973ae6ea894bf474f5fa.eml",
+    "attachments": [
+        {
+            "size": 8267,
+            "mime_type": "image/png",
+            "flags": 0,
+            "pepca": "pe14ac0782ecdb307",
+            "cid": "photo0",
+            "cte": "BASE64",
+            "sumphash": "62bee5efa6dbaba33243a67cc551b390",
+            "name": ""
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "pe14ac0782ecdb307"
+        },
+        {
+            "name": "pepca",
+            "value": "pcbec01c197e5ce5e"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "coolsoutez"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "benaughty",
+        "plain_domain": "coolsoutez",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 4662190.9252958,
+                "domain": "benaughty"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "contains_list_header": true,
+    "precedence": 3,
+    "last10words": "uctu na CoolSoutez cz pod Vasi e mailovou adresou V tomto pripade nam tuto zalezitost nahlaste na info coolsoutez cz Dekujeme ",
+    "lang": "cs"
+}

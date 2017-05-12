@@ -1,0 +1,168 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging"
+            ],
+            "module": "ill",
+            "score": 1.1
+        }
+    ],
+    "pepca": "pd10af69d1f645299",
+    "pepca_style": "",
+    "phNotches": [
+        {
+            "subscores": [
+                1,
+                0.5,
+                0.0,
+                0.0,
+                2.5,
+                1,
+                -2,
+                8
+            ],
+            "name": [
+                "from_mismatch",
+                "phisheable",
+                "phish_keyword",
+                "subject_phish_keyword",
+                "phish_form",
+                "html_a_href_camouflaging",
+                "many_emails",
+                "phishing"
+            ],
+            "module": "phish-score",
+            "score": 11
+        }
+    ],
+    "dmarc_status": {},
+    "pepca_inline_style": "",
+    "unsub_link": {},
+    "pepca_style_total": 0,
+    "phish_score": 15.5,
+    "domainstat": {},
+    "domainstat_themes": {},
+    "subject": "PayPal Account Security Measures ID 2726",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.1,
+    "word_count": 347,
+    "phishing": {
+        "5_top_domains_percent_0": 1.0,
+        "5_top_domains_id_0": 0
+    },
+    "universalprobes": [
+        {
+            "key": "ps-from_mismatch",
+            "value": "1"
+        },
+        {
+            "key": "ps-phish_keyword",
+            "value": "['security', 'account', 'security', 'fraud', 'account', 'account', 'user', 'account', 'access', 'account', 'account', 'access', 'fraud', 'account', 'secure', 'account', 'access', 'information', 'account', 'protecting', 'security', 'account', 'access', 'account', 'access', 'access', 'account', 'account', 'account', 'update', 'account', 'verify', 'update', 'account', 'security', 'account', 'account', 'privacy', 'user']"
+        },
+        {
+            "key": "ps-subject_phish_keyword",
+            "value": "['account', 'security']"
+        },
+        {
+            "key": "ps-phish_form",
+            "value": "1"
+        },
+        {
+            "key": "ps-camouflaged_href",
+            "value": "Url(norm=http://193.227.1.9/fhtW4_3/english/.ssl/paypal/index.html, source=None) | Url(norm=https://www.paypal.com/cgi-bin/webscr?cmd=_login-run, source=txt)"
+        },
+        {
+            "key": "ps-html_a_href_camouflaging",
+            "value": "1"
+        },
+        {
+            "key": "ps-many_emails",
+            "value": "1"
+        },
+        {
+            "key": "ps-most-suspicious-links",
+            "value": "[]"
+        },
+        {
+            "key": "ps-phishing",
+            "value": "1"
+        }
+    ],
+    "header_from": "services@paypal.com",
+    "first10words": " A Dear valued PayPal member PayPal is committed to maintaining a safe environment for its community of bu",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing2/8.eml",
+    "attachments": [],
+    "adscore": 0,
+    "extractedEmailsTotalCount": {},
+    "dkstatus": {},
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pd10af69d1f645299"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "paypal",
+        "plain_domain": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 1281191842.36802,
+                "domain": "paypal"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "paypal",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [
+            {
+                "confidence": 1,
+                "domain": "paypal"
+            }
+        ],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 3,
+    "precedence": 3,
+    "last10words": "ur Privacy Policy and User Agreement if you have any questions A http www paypal com cgi bin webscr cmd p gen ua policy privacy outside ",
+    "theme": {},
+    "spfstatus": {},
+    "lang": "en"
+}

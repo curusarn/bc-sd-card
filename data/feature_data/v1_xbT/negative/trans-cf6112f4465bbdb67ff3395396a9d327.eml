@@ -1,0 +1,113 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p1da51e1330514c8b",
+    "last10words": "aseho pozadavku na storno objednavky ci neprevzeti zasilky se postupuje v souladu s nakupnim radem Generovano systemem FastCentrik ",
+    "pepca_style_total": 0,
+    "header_from": "info@fotbal-shop.cz",
+    "first10words": " Dekujeme za Vas nakup na Fotbal shop cz v priloze naleznete rekapitulaci Vasi objednavky Vase objednavka se vyrizuje ",
+    "attachments": [
+        {
+            "name": "objednavka.html",
+            "pepca": "p91c60e9a392af904",
+            "cte": "BASE64",
+            "mime_type": "text/html",
+            "size": 9451,
+            "flags": 0,
+            "sumphash": "813808f40c773a5851c5eb7a952804ef"
+        }
+    ],
+    "word_count": 169,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/trans-cf6112f4465bbdb67ff3395396a9d327.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p91c60e9a392af904"
+        },
+        {
+            "name": "pepca",
+            "value": "p1da51e1330514c8b"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p5392b3fc12d7806d"
+        }
+    ],
+    "spamscore": 2,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "masterinter",
+                "confidence": 76473686.9705281
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "masterinter",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "fotbal-shop",
+        "plain_domain_detail": [
+            {
+                "domain": "fotbal-shop",
+                "confidence": 3
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Objednavka",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "p5392b3fc12d7806d",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "missing_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                1
+            ],
+            "score": 2,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

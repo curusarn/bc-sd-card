@@ -1,0 +1,116 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging"
+            ],
+            "module": "ill",
+            "score": 1.1
+        }
+    ],
+    "pepca": "pfa8880adb10361c1",
+    "first10words": " Potvrzeni registrace a overeni Vaseho e mailu Pokud se Vam tento e mail nezobrazuje spravne kliknete zde ",
+    "pepca_style": "",
+    "pepca_inline_style": "pa299ee199617f7f2",
+    "unsub_link": "http://tmr.cortex.cz/email/u/878f58fbb12d75a4f15c4e0e72",
+    "word_count": 317,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Potvrzeni registrace a overeni Vaseho e mailu",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.1,
+    "list_unsubscribe_urls": [
+        "info@gopass.cz"
+    ],
+    "phishing": {
+        "5_top_domains_percent_0": 1.0,
+        "5_top_domains_id_0": 0
+    },
+    "header_from": "info@gopass.cz",
+    "pepca_inline_style_total": 1,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/5e9fd547a577f0ba2768e7943302c2a2.eml",
+    "attachments": [],
+    "adscore": 0,
+    "unsub_link_texts": [
+        "pokud si v budoucno neprat dostavat novinka z program gopass moct se odhlasit kliknuti na tento odkaz "
+    ],
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pfa8880adb10361c1"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pa299ee199617f7f2"
+        }
+    ],
+    "unsub_link_candidates": [
+        "http://tmr.cortex.cz/email/u/878f58fbb12d75a4f15c4e0e72"
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 3,
+                "domain": "gopass"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "gopass",
+        "plain_domain": "gopass",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 38692248.2251518,
+                "domain": "gopass"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "reserved",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [
+            {
+                "confidence": 17,
+                "domain": "reserved"
+            }
+        ],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 1,
+    "contains_list_header": true,
+    "precedence": 3,
+    "last10words": "gopass cz Pokud si v budoucnu neprejete dostavat novinky z programu GOPASS muzete se odhlasit kliknutim na tento odkaz ",
+    "lang": "cs"
+}

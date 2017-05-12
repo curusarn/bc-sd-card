@@ -1,0 +1,126 @@
+{
+    "phashes": [
+        {
+            "value": "pd128ca4735cb7133",
+            "name": "att-pepca"
+        },
+        {
+            "value": "paadda8426e9b4505",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p0e9ea25968a4c7bb",
+            "name": "pepca"
+        },
+        {
+            "value": "p35f0794852d71652",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "nebesar@bluetech.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/3b35213a25df9a56ec6424349d66164b.eml",
+    "attachments": [
+        {
+            "size": 7141,
+            "name": "image001.jpg",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "image001.jpg@01D0185D.2DEF3160",
+            "sumphash": "ab2a536d7161b5fbf5f68dcc3bb1f501",
+            "pepca": "pd128ca4735cb7133",
+            "mime_type": "image/jpeg"
+        },
+        {
+            "size": 371842,
+            "name": "141215.pdf",
+            "cte": "BASE64",
+            "flags": 0,
+            "lang": "un",
+            "sumphash": "0852f7a46ad9ff7a7d66530f48e0e1c9",
+            "pepca": "paadda8426e9b4505",
+            "mime_type": "application/pdf"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "pepca": "p0e9ea25968a4c7bb",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": " nebesar bluetech cz www bluetech cz A ",
+    "subject": "objednavka",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 226294.03038,
+                "domain": "fcviktoria"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "fcviktoria",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "bluetech",
+        "plain_domain_detail": [
+            {
+                "confidence": 2,
+                "domain": "bluetech"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p35f0794852d71652",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " SA uctou za Bluetech s r o Milan Nebesar mistr 420724356889 ",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 53,
+    "adscore": 0,
+    "spamscore": 1
+}

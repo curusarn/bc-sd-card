@@ -1,0 +1,95 @@
+{
+    "phashes": [
+        {
+            "value": "p81996f8e2a22807b",
+            "name": "pepca"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "notify@google.com",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/b32e4ff0005a4f3d5b968304a209501c.eml",
+    "unsub_link_candidates": [
+        "https://docs.google.com/a/myepico.com/spreadsheets/d/10OeDy_xF1Sj8sMsvfeKAZ3s-LDhjmiOpaNYgQYwj_pU/edit"
+    ],
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "pepca": "p81996f8e2a22807b",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": "bjednavka Odpovedi a A Kliknete sem Pouziva technologii Tabulek Google Nechcete jiz tyto e maily dostavat A Kliknete sem ",
+    "subject": " Interni objednavka Odpovedi v posledni dobe byly provedeny upravy",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 48140419.9535272,
+                "domain": "google"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "google",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "unsub_link_texts": [
+        " kliknout sem pouzivat technologie tabulka google nechtit jiz tyt e mail dostavat"
+    ],
+    "unsub_link": "https://docs.google.com/a/myepico.com/spreadsheets/d/10OeDy_xF1Sj8sMsvfeKAZ3s-LDhjmiOpaNYgQYwj_pU/edit",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Podivejte se na zmeny ve vasem dokumentu Google aInterni objednavka Odpovedi a A Kliknete sem roman provedl a zmeny dne 15 12 14",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 52,
+    "adscore": 0,
+    "spamscore": 1
+}

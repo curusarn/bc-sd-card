@@ -1,0 +1,102 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pfa201a4314c27c25",
+    "last10words": "dapest Belehrad Lublan A byla prectena dne 15 prosince 2014 11 47 53 UTC 01 00 Praha Bratislava Budapest Belehrad Lublan ",
+    "pepca_style_total": 0,
+    "header_from": "matrace@drevocal.cz",
+    "first10words": " Vase zprava A A Komu Matrace Drevocal A A Predmet objednavka 736 2014 A A Odeslano 15 prosince 2014 9 56 12",
+    "attachments": [
+        {
+            "name": "",
+            "pepca": "p9abd48ff05757032",
+            "cte": "PLAIN",
+            "mime_type": "message/disposition-notification",
+            "size": 220,
+            "flags": 0,
+            "sumphash": "71d89ab32b7a492ca507be13fee65a47"
+        }
+    ],
+    "word_count": 44,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/a97aab0bb377b62b44d8f7738b460af9.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p9abd48ff05757032"
+        },
+        {
+            "name": "pepca",
+            "value": "pfa201a4314c27c25"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "suip",
+                "confidence": 4312414.027608
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "suip",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Precteno objednavka 736 2014",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

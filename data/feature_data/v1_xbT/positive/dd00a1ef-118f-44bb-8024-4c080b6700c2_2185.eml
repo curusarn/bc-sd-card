@@ -1,0 +1,138 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pb5116cfb523ba26d",
+    "last10words": "to zu benutzen jeder E Tan wird nach Ihrem personlichen Schlussel generiert und kann nicht gehackt werden Mit freundlichen Grussen Ihr PayPal Team",
+    "pepca_style_total": 0,
+    "header_from": "gutierrez@goodarzi.com",
+    "first10words": " Sehr geehrter PayPal Kunde sowie wir Ihnen bereits mitgeteilt haben haben wir die langerwartete Banklizenz erhalten Sie konnen selbstverstandli",
+    "attachments": [
+        {
+            "name": "E-TAN-Software_2.68.zip",
+            "pepca": "p4feacba837f027f7",
+            "cte": "BASE64",
+            "mime_type": "application/zip",
+            "size": 9099,
+            "flags": 0,
+            "sumphash": "16bc618446f5eb092dd66ac0a7a4b96c"
+        },
+        {
+            "mime_type": "application/octet-stream",
+            "name": "E-TAN-Software_2.68.scr",
+            "first10words": "?YY o E AA EI N a e AA Z",
+            "pepca": "p0f9cab7ace06a90b",
+            "lang": "un",
+            "cte": "PLAIN",
+            "exe_pepcas": [
+                ".text:p88e0094af6c62e36",
+                ".text1:p9028261eedeb574f",
+                ".data1:pfb742dccdd5c8e42"
+            ],
+            "size": 22528,
+            "flags": 3,
+            "sumphash": "f5834bb42f518438191fa01bce90c2cb"
+        }
+    ],
+    "word_count": 292,
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/2185.eml",
+    "phashes": [
+        {
+            "name": "att-pepca:exe-sec",
+            "value": ".text:p88e0094af6c62e36"
+        },
+        {
+            "name": "att-pepca:exe-sec",
+            "value": ".text1:p9028261eedeb574f"
+        },
+        {
+            "name": "att-pepca:exe-sec",
+            "value": ".data1:pfb742dccdd5c8e42"
+        },
+        {
+            "name": "att-pepca-risky",
+            "value": "p4feacba837f027f7"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p0f9cab7ace06a90b"
+        },
+        {
+            "name": "pepca",
+            "value": "pb5116cfb523ba26d"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "paypal",
+                "confidence": 947589547.671111
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "paypal",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "de",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "PayPal E TAN Software Nr 936405101",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": true,
+        "5_top_domains_id_0": 0,
+        "5_top_domains_percent_0": 1.0
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

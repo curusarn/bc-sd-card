@@ -1,0 +1,115 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pa94207fc17144cc6",
+    "last10words": " Pokud uz nechcete dostavat dalsi zpravy kliknete zde votocvohoz cz Facebook Blog ",
+    "list_unsubscribe_urls": [
+        "http://www.votocvohoz.cz/member/settings/email/unsubscribe_all?hash=127559%3A01a343c2e0137066602be66f6394c3d6e6"
+    ],
+    "unsub_link_texts": [
+        "cz pokud uzit nechtit dostavat dalsi zprava kliknout zde "
+    ],
+    "header_from": "no-reply@votocvohoz.cz",
+    "contains_list_header": true,
+    "pepcatotal": 0,
+    "attachments": [],
+    "word_count": 270,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/c00c28044d839ce6182c6b9377a26691.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pa94207fc17144cc6"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pcc7a10b675aff91a"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "gmail",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "nic",
+                "confidence": 15087465.965786
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "gmail",
+                "confidence": 6
+            }
+        ],
+        "domain_keywords": "nic",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "votocvohoz",
+        "plain_domain_detail": [
+            {
+                "domain": "votocvohoz",
+                "confidence": 2
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Overeno a potvrzeno ceka se pouze na potvrzovaci kod",
+    "adscore": 0,
+    "first10words": " Otevrit v prohlizeci Ahoj marie86 dekujeme ze sis na VotocVohoz overila svou t",
+    "unsub_link": "http://www.votocvohoz.cz/member/general/unsubscribe?campaign_id=10027&hash=127559%3A01a343c2e0137066602be66f6394c3d6e6&type=other",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "unsub_link_candidates": [
+        "http://www.votocvohoz.cz/member/general/unsubscribe?campaign_id=10027&hash=127559%3A01a343c2e0137066602be66f6394c3d6e6&type=other"
+    ],
+    "pepca_inline_style": "pcc7a10b675aff91a",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1,
+    "pepca_style_total": 0
+}

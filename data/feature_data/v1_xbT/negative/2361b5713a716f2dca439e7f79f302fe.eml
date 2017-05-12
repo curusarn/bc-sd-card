@@ -1,0 +1,118 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p413cd49939affa2d",
+    "last10words": "et kdyby se vam nedarilo prihlasit Tym Hlidacky cz Web Hlidacky cz Hlidacky cz na Facebooku ",
+    "pepca_style_total": 0,
+    "header_from": "info@hlidacky.cz",
+    "first10words": " Vase heslo na Hlidacky cz Dobry den pri zadani inzeratu jsme vam automaticky vytvorili ",
+    "attachments": [],
+    "word_count": 125,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/2361b5713a716f2dca439e7f79f302fe.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p413cd49939affa2d"
+        },
+        {
+            "name": "pepca_style",
+            "value": "p69aa48d43b379470"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p7a645ed5e9627054"
+        }
+    ],
+    "spamscore": 1.2,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "hlidacky",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "skype",
+                "confidence": 6415498.30089
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "hlidacky",
+                "confidence": 1
+            },
+            {
+                "domain": "topsrovnani",
+                "confidence": 1
+            },
+            {
+                "domain": "sanofi",
+                "confidence": 1
+            }
+        ],
+        "domain_keywords": "skype",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "ky",
+        "plain_domain_detail": [
+            {
+                "domain": "ky",
+                "confidence": 2
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Vase heslo na Hlidacky cz",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "p69aa48d43b379470",
+    "pepca_inline_style": "p7a645ed5e9627054",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1,
+                0.1
+            ],
+            "score": 1.2,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

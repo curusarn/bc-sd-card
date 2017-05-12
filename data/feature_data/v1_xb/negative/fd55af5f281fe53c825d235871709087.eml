@@ -1,0 +1,126 @@
+{
+    "phashes": [
+        {
+            "value": "p138c238c480cd523",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p13a3e5d5fe4859b2",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p572ddfc58549b123",
+            "name": "pepca"
+        },
+        {
+            "value": "pf06292162a5b6950",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "petra.hovorkova@praktikgroup.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/fd55af5f281fe53c825d235871709087.eml",
+    "attachments": [
+        {
+            "size": 2062,
+            "name": "image001.jpg",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "image001.jpg@01D0185D.0392C580",
+            "sumphash": "19abb7e3f18812fd6036196f97e0250e",
+            "pepca": "p138c238c480cd523",
+            "mime_type": "image/jpeg"
+        },
+        {
+            "size": 190449,
+            "name": "kovodemont.pdf",
+            "cte": "BASE64",
+            "flags": 0,
+            "lang": "un",
+            "sumphash": "14053f72f90df6a5939d7dde7a586fca",
+            "pepca": "p13a3e5d5fe4859b2",
+            "mime_type": "application/pdf"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "pepca": "p572ddfc58549b123",
+    "phishing": {
+        "ner_domain_detected": true
+    },
+    "pepca_style": "",
+    "last10words": "bujete vytisknout tento e mail Please consider your environmental responsibilities before printing this email A ",
+    "subject": "Objednavka platna 10 12 2014 10 1 2015",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 2287536.581903,
+                "domain": "alza"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "alza",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "praktikgroup",
+        "plain_domain_detail": [
+            {
+                "confidence": 2,
+                "domain": "praktikgroup"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "pf06292162a5b6950",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Dobry den A VA priloze Vam zasilam objednavku sA platnosti od 10 12 2014A do 10 1 2015 a timto pros",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 231,
+    "adscore": 0,
+    "spamscore": 1
+}

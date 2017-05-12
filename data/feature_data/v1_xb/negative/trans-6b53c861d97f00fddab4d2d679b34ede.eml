@@ -1,0 +1,104 @@
+{
+    "phashes": [
+        {
+            "value": "p9f44615c832fa2db",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pb008b459b47a1709",
+            "name": "pepca"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "eshop@provita.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/trans-6b53c861d97f00fddab4d2d679b34ede.eml",
+    "attachments": [
+        {
+            "size": 9037,
+            "name": "objednavka.html",
+            "cte": "BASE64",
+            "flags": 0,
+            "sumphash": "5686573a5405622dc4c43f9d31ab790a",
+            "pepca": "p9f44615c832fa2db",
+            "mime_type": "text/html"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "missing_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                1
+            ],
+            "score": 2
+        }
+    ],
+    "pepca": "pb008b459b47a1709",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": "vyrobku a pokyny k platbe Dekujeme za pochopeni S pratelskym pozdravem Vega Provita s r o Generovano systemem FastCentrik ",
+    "subject": "Objednavka",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 2408863.43521,
+                "domain": "cemail"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "cemail",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Vazeny zakazniku dekujeme za Vasi objednavku c 298961 Vase objednavka byla prijata a bude vyrizena co nejdrive Zakazni",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 54,
+    "adscore": 0,
+    "spamscore": 2
+}

@@ -1,0 +1,122 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p180b830a26cf536e",
+    "last10words": "aste se prosim zde Tento email ma charakter obchodniho sdeleni Copyright 2014 Tipsport a s Vsechna prava vyhrazena ",
+    "pepca_style_total": 0,
+    "unsub_link_texts": [
+        " podpora tipsport cz neprat li si nadale dostavat email od spolecnost tipsport",
+        "odhlasit se prosit zde ",
+        "copyright tipsport a s vsechen prav vyhrazen"
+    ],
+    "header_from": "info@tipsport.cz",
+    "contains_list_header": true,
+    "first10words": " Zmena pristupoveho hesla k hernimu uctu Tipsport Nezobrazuje se Vam logo a obrazky Tisk Vazeny",
+    "attachments": [],
+    "word_count": 165,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/88c8304bc958f0643b1938342cb44341.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p180b830a26cf536e"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p91018a97a6b1bfd4"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "hotely",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "mailkit",
+                "confidence": 29246177.789456
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "hotely",
+                "confidence": 1
+            },
+            {
+                "domain": "tipsport",
+                "confidence": 1
+            }
+        ],
+        "domain_keywords": "mailkit",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "tipsport",
+        "plain_domain_detail": [
+            {
+                "domain": "tipsport",
+                "confidence": 2
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 2,
+    "subject": "Zmena pristupoveho hesla k hernimu uctu Tipsport",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "unsub_link": "http://track.mailkit.eu/mc/CECQUQCVUQQUQQQUVCUPCVELWXIHNPJH",
+    "phishing": {
+        "ner_domain_detected": true,
+        "5_top_domains_id_0": 0,
+        "5_top_domains_percent_0": 1.0
+    },
+    "pepca_style": "",
+    "unsub_link_candidates": [
+        "mailto:podpora@tipsport.cz",
+        "http://user.mailkit.eu/mc/CECQUQCVUQQUQQQUVCUPCVELVDAAEOFH",
+        "http://track.mailkit.eu/mc/CECQUQCVUQQUQQQUVCUPCVELWXIHNPJH"
+    ],
+    "pepca_inline_style": "p91018a97a6b1bfd4",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

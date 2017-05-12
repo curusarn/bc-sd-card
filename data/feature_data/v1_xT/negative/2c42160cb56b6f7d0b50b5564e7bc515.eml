@@ -1,0 +1,121 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "module": "ill",
+            "score": 1.1
+        }
+    ],
+    "pepca": "p4fe62c6451b12e17",
+    "first10words": " Astronakupy email Nekdo zrejme Vy zadal tuto e mailovou adresu k vygenerovani noveho hesla pro pristup na nas server ",
+    "pepca_style": "",
+    "pepca_inline_style": "p440d21f314e362d2",
+    "word_count": 89,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Zmena hesla pro server Astronakupy",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.1,
+    "phishing": {},
+    "header_from": "info@astronakupy.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/2c42160cb56b6f7d0b50b5564e7bc515.eml",
+    "attachments": [
+        {
+            "size": 22054,
+            "mime_type": "image/jpeg",
+            "flags": 0,
+            "pepca": "pdd215ddb68c75de1",
+            "cid": "logo",
+            "cte": "BASE64",
+            "sumphash": "b1de93a8cd7bb35fd13428b64fb64c0f",
+            "name": "logo.jpg"
+        },
+        {
+            "sumphash": "45489574d3f4f81c18afcc69a74af497",
+            "mime_type": "image/jpeg",
+            "flags": 0,
+            "size": 620,
+            "cid": "bottom",
+            "cte": "BASE64",
+            "name": "bottom.jpg"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "pdd215ddb68c75de1"
+        },
+        {
+            "name": "pepca",
+            "value": "p4fe62c6451b12e17"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p440d21f314e362d2"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "astronakupy"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "akcniceny",
+        "plain_domain": "astronakupy",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 2875820.1046637,
+                "domain": "akcniceny"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": " O Box 14 110 15 Praha 015 Pridejte se k nam na Facebooku a neutece Vam zadna sleva https www fb com astronakupy ",
+    "lang": "cs"
+}

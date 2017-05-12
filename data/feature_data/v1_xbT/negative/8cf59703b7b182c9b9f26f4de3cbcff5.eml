@@ -1,0 +1,118 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pcdf481fbc32d0065",
+    "last10words": "fdf28b S pratelskym pozdravem E Porter cz Tento e mail je generovan automaticky prosime neodpovidejte na nej ",
+    "pepca_style_total": 0,
+    "header_from": "noreply@e-porter.cz",
+    "first10words": " Vazeny zakazniku Diky za zapojeni do E Porter cz Pro dokonceni registrace kliknete zde http www e porter c",
+    "attachments": [
+        {
+            "name": "header.png",
+            "pepca": "p0edb7795a8ae30f4",
+            "cte": "BASE64",
+            "mime_type": "image/png",
+            "cid": "271184a1ea15bac34acb4c19f003d468",
+            "size": 4561,
+            "flags": 0,
+            "sumphash": "1bdd850755111d743098ea7878902c19"
+        }
+    ],
+    "word_count": 52,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/8cf59703b7b182c9b9f26f4de3cbcff5.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p0edb7795a8ae30f4"
+        },
+        {
+            "name": "pepca",
+            "value": "pcdf481fbc32d0065"
+        },
+        {
+            "name": "pepca_style",
+            "value": "pbd0629398a9a110b"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pcf83c91baf65ec30"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "net-a-porter",
+                "confidence": 6591050.11467
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "net-a-porter",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "e-porter",
+        "plain_domain_detail": [
+            {
+                "domain": "e-porter",
+                "confidence": 3
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Dokonceni registrace na E Porter cz",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "pbd0629398a9a110b",
+    "pepca_inline_style": "pcf83c91baf65ec30",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

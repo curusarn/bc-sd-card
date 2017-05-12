@@ -1,0 +1,103 @@
+{
+    "phashes": [
+        {
+            "value": "p2fd2051fb42ef507",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pe37e0627f3fd45ea",
+            "name": "pepca"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "custservice_2523494@southtrust.com",
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/9.eml",
+    "attachments": [
+        {
+            "size": 7377,
+            "name": "british.GIF",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "part1.04020403.06000707@support_id_1@southtrust.com",
+            "sumphash": "812a74ba4bd8eaf7ba3177bfaa839d90",
+            "pepca": "p2fd2051fb42ef507",
+            "mime_type": "image/gif"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "pepca": "pe37e0627f3fd45ea",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": " NASA Here s your Screensavers Simpsons Webs ",
+    "subject": "OFFICIAL INFORMATION FOR CLIENT OF SOUTHTRUST BANK",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 5458715.23728,
+                "domain": "zlatestranky"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "zlatestranky",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " NASA Here s your Screensavers Simpsons Webs ",
+    "lang": "en",
+    "pepcatotal": 0,
+    "word_count": 8,
+    "adscore": 0,
+    "spamscore": 1
+}

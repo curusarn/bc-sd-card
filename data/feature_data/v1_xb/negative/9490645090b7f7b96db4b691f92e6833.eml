@@ -1,0 +1,106 @@
+{
+    "phashes": [
+        {
+            "value": "pa4b0da68fc0c4a74",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p1e1cc6d0b6d2173b",
+            "name": "pepca"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "noreply@blueghost.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/9490645090b7f7b96db4b691f92e6833.eml",
+    "attachments": [
+        {
+            "first10words": "Dodavatel Sen deti cz Jiri Hruby Vojanova Plzen IC DIC",
+            "size": 7067,
+            "mime_type": "text/rtf",
+            "cte": "BASE64",
+            "flags": 0,
+            "lang": "cs",
+            "name": "faktura_225282014.rtf",
+            "pepca": "pa4b0da68fc0c4a74",
+            "sumphash": "1170dbcccfd41494be7ed4d82d290160"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "pepca": "p1e1cc6d0b6d2173b",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": "3 799 00 Kc Celkove mnozstvi 1 ks Cena za objednane zbozi 3 799 00 Kc Cena za distribuci 109 00 Kc Celkova cena k uhrade 3 908 00 Kc",
+    "subject": "Objednavka Sen deti cz 15 12 14 11 48",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 25491228.990176,
+                "domain": "masterinter"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "masterinter",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " FAKTURACNI UDAJE Jmeno Petr Prijmeni Simunek Firma Ulice Vodnicka 455 Mesto Praha 4 PSC 14900 IC DIC Telefon 724 372 816 Fa",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 87,
+    "adscore": 0,
+    "spamscore": 1.1
+}

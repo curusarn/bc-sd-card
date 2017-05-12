@@ -1,0 +1,127 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p07d9163da0919e02",
+    "last10words": "Zasmuky tel 321A 796 654 fax 321A 621 234 mobil 602A 130 775 kalouskova domovbuda cz www domovbuda cz A ",
+    "pepca_style_total": 0,
+    "header_from": "kalouskova@domovbuda.cz",
+    "first10words": " Dobry den A vA priloze posilam objednavku na opravu sprchoveho koutu A ",
+    "attachments": [
+        {
+            "name": "image001.gif",
+            "pepca": "p359e92d3477a31ed",
+            "cte": "BASE64",
+            "mime_type": "image/gif",
+            "cid": "image001.gif@01D0185C.D49E33E0",
+            "size": 1779,
+            "flags": 0,
+            "sumphash": "ebce61b41f7657e0f7af333ad9e3c53d"
+        },
+        {
+            "mime_type": "application/pdf",
+            "name": "objedn\u00e1vka koupelna.pdf",
+            "first10words": "Domov Bud ovatel sociulnich I du Nesmen Zdsmu Objedndvka Vec",
+            "pepca": "p02cbf6bbce61ddd4",
+            "lang": "cs",
+            "cte": "BASE64",
+            "size": 234581,
+            "flags": 0,
+            "sumphash": "1fe804af00a87e4e063fc8f18df0c49a"
+        }
+    ],
+    "word_count": 130,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/8d415927b758f9416740bd6bf058e805.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p359e92d3477a31ed"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p02cbf6bbce61ddd4"
+        },
+        {
+            "name": "pepca",
+            "value": "p07d9163da0919e02"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pc5bc412b46c07a38"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "slevy4u",
+                "confidence": 7158511.07194
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "slevy4u",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "domovbuda",
+        "plain_domain_detail": [
+            {
+                "domain": "domovbuda",
+                "confidence": 2
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "objednavka",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "pc5bc412b46c07a38",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

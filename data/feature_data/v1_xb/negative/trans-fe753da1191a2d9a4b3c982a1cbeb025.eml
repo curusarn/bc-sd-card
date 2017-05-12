@@ -1,0 +1,105 @@
+{
+    "phashes": [
+        {
+            "value": "p86a47d38e6a4fb50",
+            "name": "pepca"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "info@fitness007.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/trans-fe753da1191a2d9a4b3c982a1cbeb025.eml",
+    "attachments": [
+        {
+            "size": 0,
+            "name": "Sport_Fitness_Pr_4ea2a6e7821a9.png",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "vendor_image",
+            "sumphash": "dc5b5ace27d0916fed08dfee55dd0748",
+            "mime_type": "image/jpeg"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "pepca": "p86a47d38e6a4fb50",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": " tesime se na dalsi spolupraci Muzete si ji zobrazit kliknutim na odkaz Mate dotazy Problemy e mail info fitness007 cz ",
+    "subject": "Fitness007 Objednavka 62150",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 159204638.73006,
+                "domain": "booking"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "booking",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "fitness007",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "fitness007"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Objednavka Fitness007 cz Plzenska 130 221 Motol Praha 5 150 00 Dekujeme za vas nakup Nasleduje rekapitulace vasi o",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 682,
+    "adscore": 0,
+    "spamscore": 1.1
+}

@@ -1,0 +1,104 @@
+{
+    "phashes": [
+        {
+            "value": "pb3f241c708be25a2",
+            "name": "pepca"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "ajurvedakamila@gmail.com",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/57817946efdf287ecd859231b0096fe9.eml",
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "pepca": "pb3f241c708be25a2",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": "m 3 ks 40 gr lift krem 2 ks 40 gr lift krem s kyselinou HA 1 ks 50 ml plet serum PERLA ",
+    "subject": "objednavka Aryanveda",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 1,
+                "domain": "youtube"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 6872000.506545,
+                "domain": "avon"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "youtube",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "avon",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "omlaz",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "omlaz"
+            },
+            {
+                "confidence": 1,
+                "domain": "lift"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Ahoj Lenko posilam objednavku Dekuji Kamila 2 ks 200 ml mandlovy olej 1 ks 1 l cistici mleko c s 1 ks",
+    "lang": "un",
+    "pepcatotal": 0,
+    "word_count": 147,
+    "adscore": 0,
+    "spamscore": 1.1
+}

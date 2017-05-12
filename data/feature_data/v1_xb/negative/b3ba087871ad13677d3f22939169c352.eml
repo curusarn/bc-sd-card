@@ -1,0 +1,109 @@
+{
+    "phashes": [
+        {
+            "value": "p730ea4e711b10831",
+            "name": "pepca"
+        },
+        {
+            "value": "p802c0de4107a6771",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "info@plnapenezenka.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/b3ba087871ad13677d3f22939169c352.eml",
+    "unsub_link_candidates": [
+        "http://plnapenezenka.cz/nastaveni?uid=phfztl5457764638e5b0.41709450"
+    ],
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "pepca": "p730ea4e711b10831",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": "vasi registrace na webu www plnapenezenka cz Neprejete si dostavat tento email Zasilani muzete vypnout v nastaveni vaseho uctu ",
+    "subject": "Potvrzeni registrace na PlnaPenezenka cz",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 1,
+                "domain": "topsleva"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 10256637.2474413,
+                "domain": "mcsv"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "topsleva",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "mcsv",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "plnapenezenka",
+        "plain_domain_detail": [
+            {
+                "confidence": 5,
+                "domain": "plnapenezenka"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p802c0de4107a6771",
+    "unsub_link_texts": [
+        "zasilani moct vypnout v nastaveni vas ucet"
+    ],
+    "unsub_link": "http://plnapenezenka.cz/nastaveni?uid=phfztl5457764638e5b0.41709450",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Plna Penezenka penize zpet z vasich nakupu Hezky den prave jsme vam vytvorili novy ucet na PlnaPenezenka",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 131,
+    "adscore": 0,
+    "spamscore": 1
+}

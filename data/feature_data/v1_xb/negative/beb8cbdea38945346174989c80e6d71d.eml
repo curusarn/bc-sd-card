@@ -1,0 +1,108 @@
+{
+    "phashes": [
+        {
+            "value": "p418d2371ca08425a",
+            "name": "pepca"
+        },
+        {
+            "value": "pebd04c9e9d82445a",
+            "name": "pepca_style"
+        },
+        {
+            "value": "p1dd23f7a60a0b616",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "info@fintv.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/beb8cbdea38945346174989c80e6d71d.eml",
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "pepca": "p418d2371ca08425a",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "pebd04c9e9d82445a",
+    "last10words": "sim ignorujte Pro obnovu hesla pouzijte tento odkaz Vygenerovat nove heslo Tym FinTV ",
+    "subject": "Zadost o obnoveni hesla FINTV",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 1,
+                "domain": "fintv"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 2138499.43363,
+                "domain": "skype"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "fintv",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "skype",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "table",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "table"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p1dd23f7a60a0b616",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " VIDEA ZE SVETA FINANCI Hezky den nekdo si vyzadal reset hesla na FinTV pro uzivatel",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 101,
+    "adscore": 0,
+    "spamscore": 1.1
+}

@@ -1,0 +1,157 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pd7b89cb3cb8b78ff",
+    "last10words": " 403 553 www evector sk potrebujeme nacenit tento presne tento stol pre A A ",
+    "pepca_style_total": 0,
+    "header_from": "jana.kachtikova@moderniskola.eu",
+    "first10words": " A A From Recepcia eVector s r o mailto recepcia evector sk Sent Tuesday December 09 2014 11 26 AM To ja",
+    "attachments": [
+        {
+            "name": "image003.gif",
+            "pepca": "pdd7f3c9794063d9c",
+            "cte": "BASE64",
+            "mime_type": "image/gif",
+            "cid": "image003.gif@01D012F7.86F21AE0",
+            "size": 530,
+            "flags": 0,
+            "sumphash": "0720b15a7d3ef46fdfc1a9725b9eb3f0"
+        },
+        {
+            "name": "image004.jpg",
+            "pepca": "pc9126a2229f3772b",
+            "cte": "BASE64",
+            "mime_type": "image/jpeg",
+            "cid": "image004.jpg@01D012F7.86F21AE0",
+            "size": 3721,
+            "flags": 0,
+            "sumphash": "05c378302d07f62633a8951638e308d3"
+        },
+        {
+            "name": "image002.jpg",
+            "pepca": "pd737d28ced369e30",
+            "cte": "BASE64",
+            "mime_type": "image/jpeg",
+            "cid": "image002.jpg@01D0185D.19EE57E0",
+            "size": 1505,
+            "flags": 0,
+            "sumphash": "f2bbf4e93fcf74f0fb4a9ba03b184294"
+        },
+        {
+            "name": "st\u00f4l prechodka.jpg",
+            "pepca": "pce4692dee85df046",
+            "cte": "BASE64",
+            "mime_type": "image/jpeg",
+            "size": 16003,
+            "flags": 0,
+            "sumphash": "9ab719ffb802a3ec0c8fa09250ea89d5"
+        }
+    ],
+    "word_count": 1113,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/9dd535064808f863c5c02a5719edbcf2.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "pdd7f3c9794063d9c"
+        },
+        {
+            "name": "att-pepca",
+            "value": "pc9126a2229f3772b"
+        },
+        {
+            "name": "att-pepca",
+            "value": "pd737d28ced369e30"
+        },
+        {
+            "name": "att-pepca",
+            "value": "pce4692dee85df046"
+        },
+        {
+            "name": "pepca",
+            "value": "pd7b89cb3cb8b78ff"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p718fa609184156c7"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "zlavydnes",
+                "confidence": 22971448.1898
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "zlavydnes",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "evector",
+        "plain_domain_detail": [
+            {
+                "domain": "evector",
+                "confidence": 2
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "sk",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "FW objednavka 1400940 upresneni pruchodky do desky",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": true,
+        "5_top_domains_id_0": 0,
+        "5_top_domains_percent_0": 1.0
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "p718fa609184156c7",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

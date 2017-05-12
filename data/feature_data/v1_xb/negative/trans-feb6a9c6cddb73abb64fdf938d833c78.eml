@@ -1,0 +1,92 @@
+{
+    "phashes": [
+        {
+            "value": "p07e5629212a8ee9e",
+            "name": "pepca"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "noreply@isolit-bravo.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/trans-feb6a9c6cddb73abb64fdf938d833c78.eml",
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "missing_message_id",
+                "long_subject"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                1,
+                0.5
+            ],
+            "score": 2.5
+        }
+    ],
+    "pepca": "p07e5629212a8ee9e",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": "ALOVA 1 180 00 0 00 0 00 0 00 180 00 Celkem Kc bez DPH 18 6341 00 Celkem Kc s DPH 7675 00 Poznamka ",
+    "subject": "Isolit Bravo B2B faktura 5280697 M A T Group s r o ",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 5702682.082976,
+                "domain": "geis"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "geis",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Objednavka byla vlozena do systemu pod cislem 4 528 218006 Faktura cislo 5280697 Fakturacni adresa M A T Group s r o Na Ro",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 398,
+    "adscore": 0,
+    "spamscore": 2.5
+}

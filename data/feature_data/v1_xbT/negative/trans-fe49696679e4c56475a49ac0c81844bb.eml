@@ -1,0 +1,115 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p9b5f669ef5341574",
+    "last10words": "IO S CD MP3 USB 1 999 Kc s DPH 1 653 bez DPH Nuz zdobici COSMO 13 cm Vyprodej 42 Kc s DPH 35 bez DPH ",
+    "pepca_style_total": 0,
+    "header_from": "josef.zboril@patro.cz",
+    "first10words": " Dobry den radi bychom Vam oznamili ze zbozi z objednavky 615002531 ze dne 12 01 2015 bude odeslano dne 13 01 2015 na adres",
+    "attachments": [
+        {
+            "name": "head_w.jpg",
+            "cte": "BASE64",
+            "mime_type": "image/jpeg",
+            "cid": "head_w.jpg@0f1fe5d68b3f3e2a5559dafe08b3d2f0",
+            "size": 0,
+            "flags": 0,
+            "sumphash": "dc5b5ace27d0916fed08dfee55dd0748"
+        }
+    ],
+    "word_count": 438,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/trans-fe49696679e4c56475a49ac0c81844bb.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p9b5f669ef5341574"
+        },
+        {
+            "name": "pepca_style",
+            "value": "pd6bfa55d4f4ad6c2"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p18dec9ae7d066ce3"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "patro",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "masterinter",
+                "confidence": 63728072.47544
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "patro",
+                "confidence": 7
+            }
+        ],
+        "domain_keywords": "masterinter",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Expedice objednavky 615002531",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": true,
+        "5_top_domains_id_0": 0,
+        "5_top_domains_id_1": 1,
+        "5_top_domains_percent_1": 0.5,
+        "5_top_domains_percent_0": 0.5
+    },
+    "pepca_style": "pd6bfa55d4f4ad6c2",
+    "pepca_inline_style": "p18dec9ae7d066ce3",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

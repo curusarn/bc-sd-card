@@ -1,0 +1,158 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "",
+    "last10words": " ",
+    "universalprobes": [
+        {
+            "key": "ps-from_mismatch",
+            "value": "1"
+        },
+        {
+            "key": "ps-unsub_link",
+            "value": "1"
+        },
+        {
+            "key": "ps-many_emails",
+            "value": "1"
+        }
+    ],
+    "list_unsubscribe_urls": [
+        "mailto:unsub-99031e3d.0twg.tx4hvig@bnc.mailjet.com"
+    ],
+    "precedence": 3,
+    "dkstatus": {},
+    "header_from": "support@happystudio.com",
+    "spfstatus": {},
+    "contains_list_header": true,
+    "lang": "cs",
+    "attachments": [],
+    "word_count": 155,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/90295c8dfc1c5a298927dd640beadd5d.eml",
+    "phashes": [
+        {
+            "name": "pepca_style",
+            "value": "p468554068c149993"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pc85f5df9a39356e4"
+        }
+    ],
+    "spamscore": 5.2,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "happystudio",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "happystudio",
+                "confidence": 6
+            }
+        ],
+        "domain_keywords": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "nr-data",
+        "plain_domain_detail": [
+            {
+                "domain": "nr-data",
+                "confidence": 1
+            },
+            {
+                "domain": "nreum",
+                "confidence": 1
+            },
+            {
+                "domain": "newrelic",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "pepcatotal": 0,
+    "dmarc_status": {},
+    "phish_score": -3,
+    "domainstat": {},
+    "pepca_small": "p0bcedf77fd113405",
+    "extractedEmailsTotalCount": {},
+    "subject": "Vitejte v Happy Studiu dokonceni registrace rodice",
+    "unsub_link_texts": [
+        " obchodny podminka "
+    ],
+    "adscore": 0,
+    "first10words": " ",
+    "unsub_link": "http://0twg.mj.is/link/0twg/tx4hvig/4/oWIRS1ASAnSr0tZJG5bbDg/aHR0cDovL3d3dy5oYXBweXN0dWRpby5jb20vUGFyZW50L1BhbmVsL1Rlcm1zP2xhbmdjb2RlPWNzJmNvdW50cnljb2RlPWN6",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "p468554068c149993",
+    "unsub_link_candidates": [
+        "http://0twg.mj.is/link/0twg/tx4hvig/4/oWIRS1ASAnSr0tZJG5bbDg/aHR0cDovL3d3dy5oYXBweXN0dWRpby5jb20vUGFyZW50L1BhbmVsL1Rlcm1zP2xhbmdjb2RlPWNzJmNvdW50cnljb2RlPWN6"
+    ],
+    "domainstat_themes": {},
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "evil_script",
+                "from_missmatch",
+                "html_ent_text_plain"
+            ],
+            "subscores": [
+                1,
+                0.1,
+                0.0,
+                4.1
+            ],
+            "score": 5.2,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1,
+    "theme": {},
+    "pepca_style_total": 0,
+    "phNotches": [
+        {
+            "name": [
+                "from_mismatch",
+                "unsub_link",
+                "many_emails"
+            ],
+            "subscores": [
+                1,
+                -2,
+                -2
+            ],
+            "score": -3,
+            "module": "phish-score"
+        }
+    ],
+    "pepca_inline_style": "pc85f5df9a39356e4"
+}

@@ -1,0 +1,111 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "module": "ill",
+            "score": 1.1
+        }
+    ],
+    "pepca": "pf3185d3e3f81c8ef",
+    "first10words": " Vazena pani Kroupova dekujeme Vase opce nezavazna rezervace vyzadana dne 13 01 2015 16 31 byla potvrzena Opce je platn",
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "word_count": 386,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Potvrzeni opce pozadovana kapacita je volna c 137765",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.1,
+    "phishing": {},
+    "header_from": "info@italieonline.eu",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/trans-fe1c1e17acdbab93a96641aac3acd975.eml",
+    "attachments": [
+        {
+            "sumphash": "dc5b5ace27d0916fed08dfee55dd0748",
+            "mime_type": "image/png",
+            "flags": 0,
+            "size": 0,
+            "cid": "logopng",
+            "cte": "BASE64",
+            "name": "italieonline.jpg"
+        },
+        {
+            "sumphash": "dc5b5ace27d0916fed08dfee55dd0748",
+            "mime_type": "application/pdf",
+            "flags": 0,
+            "size": 0,
+            "cte": "BASE64",
+            "name": "Nezavazna-rezervace-potvrzeni-137765.pdf"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pf3185d3e3f81c8ef"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 2,
+                "domain": "italieonline"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "italieonline",
+        "plain_domain": "italieonline",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 34596385.778095,
+                "domain": "italieonline"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "df vyzaduji Adobe Acrobat zdarma ke stazeni zde http get adobe com reader EmailSign kerland22 seznam cz option confirm client cs ",
+    "lang": "cs"
+}

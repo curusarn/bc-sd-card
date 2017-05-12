@@ -1,0 +1,117 @@
+{
+    "phashes": [
+        {
+            "value": "pf67c60d48ce248f8",
+            "name": "pepca"
+        },
+        {
+            "value": "pb0cc054d90ce7b6b",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "newsletter@mailing.sazkabet.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/4d6e84e4f9e5d606cf09d4d1bd5058fa.eml",
+    "unsub_link_candidates": [
+        "http://links.wunderman.mkt6047.com/servlet/OneClickOptOutServlet?m=46975273&r=MTEzMzM2NTE4MTYwS0&b=0&j=NTQzNzgwNDE3S0&mt=2&rj=NTQzNzgwNDE2S0&rt=0",
+        "http://links.wunderman.mkt6047.com/ctt?kn=1&ms=NDY5NzUyNzMS1&r=MTEzMzM2NTE4MTYwS0&b=0&j=NTQzNzgwNDE3S0&mt=2&rj=NTQzNzgwNDE2S0&rt=0"
+    ],
+    "attachments": [],
+    "contains_list_header": true,
+    "last10words": " 266 Toto je obchodni sdeleni spolecnosti Sazka a s Pro zruseni zasilani obchodnich sdeleni kliknete zde ",
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "phishing": {
+        "ner_domain_detected": true
+    },
+    "pepca_style": "",
+    "pepca": "pf67c60d48ce248f8",
+    "subject": "Nezapomen dokoncit svou registraci",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 1,
+                "domain": "hotelbonocz"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 4304498.49032,
+                "domain": "sazkaticket"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "hotelbonocz",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "sazkaticket",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "sazkabet",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "sazkabet"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "pb0cc054d90ce7b6b",
+    "unsub_link_texts": [
+        "pro zruseni zasilani obchodni sdeleni kliknout zde ",
+        " www sazka cz "
+    ],
+    "list_unsubscribe_urls": [
+        "mailto:v-cmmmjcj_bkgdgcagba_cagjgoeb_cagjgoea_a@bounce.wunderman.mkt6047.com?subject=Unsubscribe"
+    ],
+    "unsub_link": "http://links.wunderman.mkt6047.com/ctt?kn=1&ms=NDY5NzUyNzMS1&r=MTEzMzM2NTE4MTYwS0&b=0&j=NTQzNzgwNDE3S0&mt=2&rj=NTQzNzgwNDE2S0&rt=0",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Nezapomnel sis zabehnout na pobocku Nekde to zamrzlo Ahoj jeste tu nemam potvrzeni Tve registrace tak je",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 128,
+    "adscore": 0,
+    "spamscore": 1.1
+}

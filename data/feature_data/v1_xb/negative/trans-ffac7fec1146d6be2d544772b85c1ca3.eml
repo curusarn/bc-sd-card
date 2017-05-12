@@ -1,0 +1,110 @@
+{
+    "phashes": [
+        {
+            "value": "pdc7d95506badf332",
+            "name": "pepca"
+        },
+        {
+            "value": "p4e2e4c158812ab8d",
+            "name": "pepca_style"
+        },
+        {
+            "value": "pf19a5b2be1cee3fb",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "darky@darky-prozeny.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/trans-ffac7fec1146d6be2d544772b85c1ca3.eml",
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id",
+                "long_subject"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1,
+                0.5
+            ],
+            "score": 1.6
+        }
+    ],
+    "pepca": "pdc7d95506badf332",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "p4e2e4c158812ab8d",
+    "last10words": "amilia Biagi a Trollbeads V nabidce je vice nez 2000 produktu Ted uz si vybere opravdu kazdy Page 1 1 ",
+    "subject": "Potvrzeni objednavky cislo 07345 od Darky prozeny cz v celkove vysi 2084 00 Kc",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 1,
+                "domain": "darky-prozeny"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 16164338.8117,
+                "domain": "topsleva"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "darky-prozeny",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "topsleva",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "darky-prozeny",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "darky-prozeny"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "pf19a5b2be1cee3fb",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Darky prozeny cz Eva Krupova Milanska 459 10900 Praha 10 Horni Mecholupy Ceska republika 7165033 D",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 397,
+    "adscore": 0,
+    "spamscore": 1.6
+}

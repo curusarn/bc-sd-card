@@ -1,0 +1,103 @@
+{
+    "phashes": [
+        {
+            "value": "p965afc05125dd658",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pf6307b69a302658d",
+            "name": "pepca"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "clientservice.ref7520148931456.cm@bbt.com",
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/474.eml",
+    "attachments": [
+        {
+            "size": 9518,
+            "name": "committed.gif",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "69YGCW329H",
+            "sumphash": "9333fbdae25686c298aff2b4b7c5cc1e",
+            "pepca": "p965afc05125dd658",
+            "mime_type": "image/gif"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "pepca": "pf6307b69a302658d",
+    "phishing": {
+        "ner_domain_detected": true
+    },
+    "pepca_style": "",
+    "last10words": " DC9 TSX ZTG 3RL TE4Y YAT7 source 62I 1NRM FDP FDBF 27L DKQ YB78 E558 EQID H463 root api 0N6O 0x22 0x330 0x3947 0x3 ",
+    "subject": "BB T customer service confirm your information ",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 15948539.7645305,
+                "domain": "mcsv"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "mcsv",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " 0x42924871 0x367 0x6 0x37907952 0x4849 0x429 0x4862 0x58 0x33871556 0x10948041 0x9 0x05786534 0x07224303 0x92376520 0",
+    "lang": "un",
+    "pepcatotal": 0,
+    "word_count": 50,
+    "adscore": 0,
+    "spamscore": 1
+}

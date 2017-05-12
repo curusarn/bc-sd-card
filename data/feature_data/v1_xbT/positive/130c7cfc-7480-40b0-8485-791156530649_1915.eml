@@ -1,0 +1,109 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p95079eaf84418486",
+    "last10words": "ury Management please ignore this notice Copyright 2007 The 53rd Bank USA Commercial All Rights Reserved ",
+    "pepca_style_total": 0,
+    "header_from": "technical-department_refnum-25kpd@53.com",
+    "first10words": " The 53 rd Bank Commercial Login Confirmation Procedure Dear 53 rd Treasury Management user Our Mainte",
+    "attachments": [
+        {
+            "name": "kqn230.gif",
+            "pepca": "peea5940a7690bff7",
+            "cte": "BASE64",
+            "mime_type": "image/gif",
+            "cid": "001f01c78e25$001a3480$3532a8c0@muh",
+            "size": 2791,
+            "flags": 0,
+            "sumphash": "60c6627312a74ff699bda7f824368314"
+        }
+    ],
+    "word_count": 194,
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/1915.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "peea5940a7690bff7"
+        },
+        {
+            "name": "pepca",
+            "value": "p95079eaf84418486"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pff76926e0da9004c"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "ebay",
+                "confidence": 32184284.5027179
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "ebay",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "en",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "The 53rd Bank Business Banking Login Authorization",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "pff76926e0da9004c",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

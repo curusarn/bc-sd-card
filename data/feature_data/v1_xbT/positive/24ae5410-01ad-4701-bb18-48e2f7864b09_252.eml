@@ -1,0 +1,134 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pd920cf464f2534e8",
+    "last10words": "rs Use of this Web site constitutes acceptance of the eBay User Agreement and Privacy Policy eBay official time ",
+    "pepca_style_total": 0,
+    "header_from": "SecurityCenter@ebay.com",
+    "first10words": " eBay New used electronics cars apparel collectibles sporting goods more at low prices A Frau",
+    "attachments": [],
+    "word_count": 557,
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/20051114/252.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pd920cf464f2534e8"
+        },
+        {
+            "name": "pepca_style",
+            "value": "pbd97ed7e5caaf7e8"
+        }
+    ],
+    "spamscore": 1.8,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "ebay",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "ebay",
+                "confidence": 6028097231.09502
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "ebay",
+                "confidence": 3
+            }
+        ],
+        "domain_keywords": "ebay",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "paypal",
+        "plain_domain_detail": [
+            {
+                "domain": "paypal",
+                "confidence": 1
+            },
+            {
+                "domain": "theebayshop",
+                "confidence": 1
+            },
+            {
+                "domain": "ebaycareers",
+                "confidence": 1
+            },
+            {
+                "domain": "mercadolivre",
+                "confidence": 1
+            },
+            {
+                "domain": "mercadolibre",
+                "confidence": 2
+            },
+            {
+                "domain": "ebay",
+                "confidence": 23
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "en",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "FPA NOTICE eBay Account Suspension Please review your account immediately ",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": true,
+        "5_top_domains_id_0": 0,
+        "5_top_domains_id_1": 0,
+        "5_top_domains_percent_1": 0.06666666666666667,
+        "5_top_domains_percent_0": 0.9333333333333333
+    },
+    "pepca_style": "pbd97ed7e5caaf7e8",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "evil_script",
+                "from_missmatch",
+                "html_a_href_camouflaging",
+                "foreign_message_id",
+                "long_subject"
+            ],
+            "subscores": [
+                1,
+                0.1,
+                0.0,
+                0.1,
+                0.1,
+                0.5
+            ],
+            "score": 1.8,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

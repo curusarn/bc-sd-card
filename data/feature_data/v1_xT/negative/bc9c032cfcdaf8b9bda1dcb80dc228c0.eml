@@ -1,0 +1,112 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "module": "ill",
+            "score": 1.1
+        }
+    ],
+    "pepca": "pe91780818c21cfd3",
+    "first10words": " Objednavka 1412150015 byla zaplacena Objednavka 1412150015 byla zaplacena Nazev Cena s DPH ks Pocet kusu C",
+    "pepca_style": "",
+    "pepca_inline_style": "p85f0f6004e26f6aa",
+    "word_count": 155,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Objednavka 1412150015 byla zaplacena",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.1,
+    "phishing": {},
+    "header_from": "bursik.tomas@gmail.com",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/bc9c032cfcdaf8b9bda1dcb80dc228c0.eml",
+    "attachments": [
+        {
+            "size": 52213,
+            "mime_type": "image/jpeg",
+            "flags": 0,
+            "pepca": "p0a4526e5d45828bf",
+            "cid": "o4cafnqh3t@www.pivniklenoty.cz",
+            "cte": "BASE64",
+            "sumphash": "6e3731ca4f9479798606431b7d11289d",
+            "name": "logo.jpg"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p0a4526e5d45828bf"
+        },
+        {
+            "name": "pepca",
+            "value": "pe91780818c21cfd3"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p85f0f6004e26f6aa"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "pivniklenoty"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "payu",
+        "plain_domain": "pivniklenoty",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 13850759.45723,
+                "domain": "payu"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "5563562 bursik tomas gmail com Dodaci a fakturacni adresa Komarovska 20 Brno 61700 Tym Pivni klenoty ",
+    "lang": "cs"
+}

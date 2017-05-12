@@ -1,0 +1,143 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p333721c647f84c5e",
+    "last10words": "e aktivni A Tato zprava byla zkontrolovana na viry programem Avast Antivirus www avast com ",
+    "pepca_style_total": 0,
+    "header_from": "pmsulakovi@volny.cz",
+    "first10words": " Krasny uterni den A moc Vas zdravime a davame na vedomi ze zitra a ve stredu ",
+    "attachments": [
+        {
+            "name": "image001.jpg",
+            "cte": "BASE64",
+            "mime_type": "image/jpeg",
+            "cid": "image001.jpg@01D02F2D.A60F9FE0",
+            "size": 0,
+            "flags": 0,
+            "sumphash": "dc5b5ace27d0916fed08dfee55dd0748"
+        },
+        {
+            "name": "image003.jpg",
+            "cte": "BASE64",
+            "mime_type": "image/jpeg",
+            "cid": "image003.jpg@01D02F38.18F5F270",
+            "size": 0,
+            "flags": 0,
+            "sumphash": "dc5b5ace27d0916fed08dfee55dd0748"
+        },
+        {
+            "name": "Speci\u00e1ln\u00ed nab\u00eddky - leden 2015.docx",
+            "cte": "BASE64",
+            "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "size": 0,
+            "flags": 0,
+            "sumphash": "dc5b5ace27d0916fed08dfee55dd0748"
+        },
+        {
+            "name": "ARTISTRY Little Black Dress - Paleta o\u010dn\u00edch st\u00edn\u016f_leden 2015.docx",
+            "cte": "BASE64",
+            "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "size": 0,
+            "flags": 0,
+            "sumphash": "dc5b5ace27d0916fed08dfee55dd0748"
+        }
+    ],
+    "word_count": 752,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/trans-ff890b911af3e39b843276562391e3ce.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p333721c647f84c5e"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p7804602717164c4e"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "volny",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "digitalriver",
+                "confidence": 13697469.89516
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "volny",
+                "confidence": 1
+            }
+        ],
+        "domain_keywords": "digitalriver",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "avast",
+        "plain_domain_detail": [
+            {
+                "domain": "avast",
+                "confidence": 2
+            },
+            {
+                "domain": "amway",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Rychla moznost klasicke objednavky streda 14 1 2015",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "p7804602717164c4e",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

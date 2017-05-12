@@ -1,0 +1,142 @@
+{
+    "phashes": [
+        {
+            "value": "pa2559d9c90f61344",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pa85fb84e90376f0b",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p4ab5d3666fc436c9",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pdeabf5c7d9c41b36",
+            "name": "pepca"
+        },
+        {
+            "value": "pf5b4bd2d99ec5214",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "zdenek.kadlec@leco.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/68c7f60637d780a28cd87b6b1e256384.eml",
+    "attachments": [
+        {
+            "size": 1608,
+            "name": "image",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "b3a4c8df1991191644a94893f13fb0f8",
+            "sumphash": "937a8d81aa7411d07e8fc075d4363d3a",
+            "pepca": "pa2559d9c90f61344",
+            "mime_type": "image/gif"
+        },
+        {
+            "size": 1176,
+            "name": "image",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "b3a4d00e42ca5259e71623fbf7761b42",
+            "sumphash": "8c429d41edb8a709a7b0ada146eff2cb",
+            "pepca": "pa85fb84e90376f0b",
+            "mime_type": "image/jpeg"
+        },
+        {
+            "size": 2997,
+            "name": "image",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "b3a9b53b83b491b8b56c430dbf2410ac",
+            "sumphash": "59958c70997ff9c863207d7258cf6615",
+            "pepca": "p4ab5d3666fc436c9",
+            "mime_type": "image/png"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "pepca": "pdeabf5c7d9c41b36",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": "e spokojeni Ohodnotte nas prosim na zbozi cz na tomto odkazu Navstivte nas partnersky e shop Fashionstore cz ",
+    "subject": "Vase objednavka 3414 ",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 38236843.485264,
+                "domain": "masterinter"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "masterinter",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "fashionstore",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "fashionstore"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "pf5b4bd2d99ec5214",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Vase objednavka Nasledujici produkt Teamstore byl prave objednan Cislo objednavky 3414 Zbozi Cena za k",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 208,
+    "adscore": 0,
+    "spamscore": 1.1
+}

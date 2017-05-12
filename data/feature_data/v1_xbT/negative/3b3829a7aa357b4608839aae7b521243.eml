@@ -1,0 +1,103 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pfd60ca431e2e1587",
+    "last10words": "dyz potrebujete penize Tel 420 777 197 437 info czminicredit cz www czminicredit cz Klientsky servis je vam k dispozici Po Pa 9 00 18 00",
+    "pepca_style_total": 0,
+    "header_from": "info@czminicredit.cz",
+    "first10words": " Vazeny kliente Marcela Suchankova Vase registrace na Vas stale ceka Zbyva jiz posledni krok k dokonceni Vasi registrace a mu",
+    "attachments": [],
+    "word_count": 128,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/3b3829a7aa357b4608839aae7b521243.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pfd60ca431e2e1587"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "czminicredit",
+                "confidence": 14043061.132429
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "czminicredit",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "czminicredit",
+        "plain_domain_detail": [
+            {
+                "domain": "czminicredit",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Vase registrace na CZ MiniCredit na Vas stale ceka ",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": true,
+        "5_top_domains_id_1": 0,
+        "5_top_domains_percent_1": 0.2,
+        "5_top_domains_percent_3": 0.2,
+        "5_top_domains_id_0": 0,
+        "5_top_domains_percent_0": 0.2,
+        "5_top_domains_id_4": 2,
+        "5_top_domains_id_2": 1,
+        "5_top_domains_percent_4": 0.2,
+        "5_top_domains_percent_2": 0.2,
+        "5_top_domains_id_3": 1
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

@@ -1,0 +1,105 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p5d51a12c1e3811d1",
+    "last10words": "lam objednavku Dekuji Stiborova Lukas Poncar 603 28 63 28 LUMIAL Milan Poncar Kosova Hora 273 ic 47060433 dic cz6011010445 ",
+    "pepca_style_total": 0,
+    "header_from": "poncar1@post.cz",
+    "first10words": " Dobry den v priloze posilam objednavku Dekuji Stiborova Lukas Poncar 603 28 63 28 LUMIAL Milan Poncar Kosova Hora 273 ic 4",
+    "attachments": [
+        {
+            "name": "SCAN_20141215_113419640.jpg",
+            "pepca": "p33f930dd97ce8ab7",
+            "cte": "BASE64",
+            "mime_type": "image/jpeg",
+            "cid": "m14a4d905bbfma09b",
+            "size": 210980,
+            "flags": 0,
+            "sumphash": "9a2e5f4e27acc9bd2b587045e07b2011"
+        }
+    ],
+    "word_count": 17,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/aacf6c5ba19298354816a03f55561740.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p33f930dd97ce8ab7"
+        },
+        {
+            "name": "pepca",
+            "value": "p5d51a12c1e3811d1"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "kutnahora",
+                "confidence": 292156.5042396
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "kutnahora",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "objednavka",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

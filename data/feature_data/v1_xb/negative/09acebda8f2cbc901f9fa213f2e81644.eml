@@ -1,0 +1,107 @@
+{
+    "phashes": [
+        {
+            "value": "pd18c5ba3a06ef418",
+            "name": "pepca"
+        },
+        {
+            "value": "pd178aaab75351754",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "Operator.Prague@RadissonBlu.com",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/09acebda8f2cbc901f9fa213f2e81644.eml",
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "pepca": "pd18c5ba3a06ef418",
+    "phishing": {
+        "ner_domain_detected": true
+    },
+    "pepca_style": "",
+    "last10words": "kartou Jmeno Gabriela Pustova Celkova cena 2298 Kc S pranim krasneho dne Radisson Blu Alcron Hotel team ",
+    "subject": "RE Vase objednavka",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 687394889.952,
+                "domain": "clamav"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "clamav",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "rezidor",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "rezidor"
+            },
+            {
+                "confidence": 2,
+                "domain": "radissonblu"
+            },
+            {
+                "confidence": 1,
+                "domain": "alcron"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "pd178aaab75351754",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Vazena pani Pustova po konzultaci s financnim oddelenim to opravdu to jiz neni mozne platba byl",
+    "lang": "en",
+    "pepcatotal": 0,
+    "word_count": 1376,
+    "adscore": 0,
+    "spamscore": 1.1
+}

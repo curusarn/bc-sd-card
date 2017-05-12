@@ -1,0 +1,109 @@
+{
+    "phashes": [
+        {
+            "value": "pa6957b6f92cca30e",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pa04695dc1c36578a",
+            "name": "pepca"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "drywallplzen@volny.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/5da5894d7f0cbfe7dfe2f28477c54381.eml",
+    "attachments": [
+        {
+            "first10words": "Misto urceni Naturmont s r o Borska ul Breznice IC",
+            "size": 1086653,
+            "mime_type": "application/pdf",
+            "cte": "BASE64",
+            "flags": 0,
+            "lang": "cs",
+            "name": "DRYWALL - Faktura.pdf",
+            "pepca": "pa6957b6f92cca30e",
+            "sumphash": "4abf68b746b6c75d7f566154831729f2"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "pepca": "pa04695dc1c36578a",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": " Tato zprava byla zkontrolovana na viry programem Avast Antivirus http www avast com",
+    "subject": " SPAM DRYWALL Faktura FaV 010 140475",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 6848734.94758,
+                "domain": "digitalriver"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "digitalriver",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "avast",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "avast"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Tato zprava byla zkontrolovana na viry programem Avast Antivirus http www avast com",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 11,
+    "adscore": 0,
+    "spamscore": 1
+}

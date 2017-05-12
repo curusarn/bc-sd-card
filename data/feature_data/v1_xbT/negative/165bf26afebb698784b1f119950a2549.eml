@@ -1,0 +1,93 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pfd6378092ac2a158",
+    "last10words": "e Vasich dotazu ci pozadavku nas nevahejte kontaktovat Dekujeme za Vasi duveru a za spolupraci tym HudebniBanka cz Studio Fontana ",
+    "pepca_style_total": 0,
+    "header_from": "hudebnibanka@studiofontana.com",
+    "first10words": " Vazeny uzivateli Vase registrace v nasem hudebnim vyhledavaci www hudebnibanka cz byla schvalena Nyni mate moznost hledat poslouch",
+    "attachments": [],
+    "word_count": 92,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/165bf26afebb698784b1f119950a2549.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pfd6378092ac2a158"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "maklerka24",
+                "confidence": 5447040.78161
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "maklerka24",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "hudebnibanka",
+        "plain_domain_detail": [
+            {
+                "domain": "hudebnibanka",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Vase registrace do hudebnibanka cz byla schvalena",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

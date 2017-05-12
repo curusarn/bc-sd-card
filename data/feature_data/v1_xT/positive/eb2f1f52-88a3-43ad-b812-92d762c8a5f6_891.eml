@@ -1,0 +1,135 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "module": "ill",
+            "score": 1
+        }
+    ],
+    "pepca": "",
+    "pepca_style": "",
+    "phNotches": [
+        {
+            "subscores": [
+                1,
+                1,
+                -2
+            ],
+            "name": [
+                "from_mismatch",
+                "attachments",
+                "many_emails"
+            ],
+            "module": "phish-score",
+            "score": 0.0
+        }
+    ],
+    "dmarc_status": {},
+    "pepca_inline_style": "",
+    "unsub_link": {},
+    "pepca_style_total": 0,
+    "phish_score": 0.0,
+    "domainstat": {},
+    "domainstat_themes": {},
+    "subject": "Fwd image jpg",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1,
+    "word_count": 19,
+    "phishing": {},
+    "universalprobes": [
+        {
+            "key": "ps-from_mismatch",
+            "value": "1"
+        },
+        {
+            "key": "ps-attachments",
+            "value": "1"
+        },
+        {
+            "key": "ps-many_emails",
+            "value": "1"
+        }
+    ],
+    "header_from": "alokvijayant@bol.net.in",
+    "first10words": " photo photo2 ",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/891.eml",
+    "attachments": [
+        {
+            "size": 134042,
+            "mime_type": "text/plain",
+            "flags": 0,
+            "pepca": "p007a586439650dcd",
+            "cte": "BASE64",
+            "sumphash": "489f555d29dfda9d3b7db31d54c94e6d",
+            "name": "Attachments001.BHX"
+        }
+    ],
+    "adscore": 0,
+    "extractedEmailsTotalCount": {},
+    "dkstatus": {},
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p007a586439650dcd"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "worldsingles",
+        "plain_domain": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 1594040.0275,
+                "domain": "worldsingles"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": " photo photo2 photo3 ",
+    "theme": {},
+    "spfstatus": {},
+    "pepca_small": "p6538663cf9b1b5fb",
+    "lang": "en"
+}

@@ -1,0 +1,101 @@
+{
+    "pepca_inline_style_total": 1,
+    "pepca": "pe4c97a060298b03b",
+    "last10words": " 186 00 Praha 8 IC 24725382 DIC CZ24725382 zapsana v obchodnim rejstriku vedenem Mestskym soudem v Praze v oddile C vlozka 169090 ",
+    "pepca_style_total": 0,
+    "header_from": "oznameni@aukro.cz",
+    "first10words": " Dobry den Client 37031384 Jiri Jerabek Pamatujte prosim ze veskere automaticke e maily tykajici se Vasich transakci na A",
+    "attachments": [],
+    "word_count": 353,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/119e92cfccf365de22e30b741a8dab43.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pe4c97a060298b03b"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p1c47df7f958ccdb9"
+        }
+    ],
+    "spamscore": 1.5,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "allegro",
+                "confidence": 100966427.169556
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "allegro",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "aukro",
+        "plain_domain_detail": [
+            {
+                "domain": "aukro",
+                "confidence": 2
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Potvrzeni Vasi nabidky 5078142968 CREE BATERKA 100LUMEN V MEGA OBUSKU S PARALYZEREM",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": true,
+        "5_top_domains_id_0": 0,
+        "5_top_domains_percent_0": 1.0
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "p1c47df7f958ccdb9",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "long_subject"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.5
+            ],
+            "score": 1.5,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

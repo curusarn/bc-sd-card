@@ -1,0 +1,97 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p854ff0d819bd7086",
+    "last10words": "V kazdem pripade vam v dusledku teto uhrady nevzniknou zadne dalsi poplatky S pozdravem Tym Wargaming net www wargaming net ",
+    "pepca_style_total": 0,
+    "header_from": "no-reply@wargaming.net",
+    "first10words": " Vazeny hraci Vase platba 22600135 ve vysi 9 95 EUR byla prijata 2014 10 10 19 13 33 UTC Cislo vasi objednavky je 618fdb",
+    "attachments": [],
+    "word_count": 536,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/267325.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p854ff0d819bd7086"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pf7a00dab8cefadd3"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "wargaming",
+                "confidence": 100731781.882858
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "wargaming",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "wargaming",
+        "plain_domain_detail": [
+            {
+                "domain": "wargaming",
+                "confidence": 2
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Wargaming net Systemova zprava Platba byla prijata ",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "pf7a00dab8cefadd3",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

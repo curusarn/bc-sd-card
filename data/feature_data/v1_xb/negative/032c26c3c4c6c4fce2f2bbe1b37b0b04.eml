@@ -1,0 +1,105 @@
+{
+    "phashes": [
+        {
+            "value": "pe553dd1615967bad",
+            "name": "pepca"
+        },
+        {
+            "value": "pfe3395a4677a7efa",
+            "name": "pepca_style"
+        },
+        {
+            "value": "p616a3843a5a1d18d",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "deals@livingsocial.com",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/032c26c3c4c6c4fce2f2bbe1b37b0b04.eml",
+    "attachments": [],
+    "contains_list_header": true,
+    "last10words": "lick here Delivered by LivingSocial 1445 New York Ave NW Washington DC USA Need help Have feedback Feel free to contact us ",
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "pfe3395a4677a7efa",
+    "pepca": "pe553dd1615967bad",
+    "subject": "Gym Membership",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 36,
+                "domain": "livingsocial"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 698982485.719331,
+                "domain": "livingsocial"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "livingsocial",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "livingsocial",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p616a3843a5a1d18d",
+    "list_unsubscribe_urls": [
+        "mailto:unsubscribe-g_BKFU0CM80RUDF63QB5524J0IAKAGF4T9BIVAEQ6S8DTNF7Q8RQSG====@bounces.livingsocial.com"
+    ],
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " LivingSocial And buy and redeem your deal on the go with our mobile app Shop easy shop happy Peel Region loc",
+    "lang": "en",
+    "pepcatotal": 0,
+    "word_count": 1369,
+    "adscore": 0,
+    "spamscore": 1
+}

@@ -1,0 +1,122 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.5
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "long_subject"
+            ],
+            "module": "ill",
+            "score": 1.5
+        }
+    ],
+    "pepca": "p5da8da15d2fadf7f",
+    "first10words": " Dobry den prosim o potvrzeni objednavky emailem Prosim o zaslani informace od ridice SMS na mobil 00420 777 799 799 ihned po n",
+    "pepca_style": "",
+    "pepca_inline_style": "p8a38e35bb93f1b4f",
+    "word_count": 118,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "objednavka prepravy Aveiro Praha Iveta Machackova 15 12 19 12 2014",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.5,
+    "phishing": {},
+    "header_from": "j.sitova@sltrade.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/657fd4687548435b7f7dfc5022165718.eml",
+    "attachments": [
+        {
+            "size": 122084,
+            "mime_type": "application/pdf",
+            "flags": 0,
+            "pepca": "pb689a4639c854b7b",
+            "first10words": "Es schreibt Ihnen Pise Vam Jana Sitova Mobil Skype jana",
+            "cte": "BASE64",
+            "sumphash": "6f6dfa87d7ea6e4cf0751cc0cbff4e16",
+            "name": "Casa Nostra - P Aveiro - CZ Praha _ Iveta Mach\u00e1\u010dkov\u00e1 - 15.12.2014.pdf",
+            "lang": "cs"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "pb689a4639c854b7b"
+        },
+        {
+            "name": "pepca",
+            "value": "p5da8da15d2fadf7f"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p8a38e35bb93f1b4f"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "avast"
+            },
+            {
+                "confidence": 1,
+                "domain": "sltrade"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "amazon",
+        "plain_domain": "avast",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 49630302.4207413,
+                "domain": "amazon"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "volny",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [
+            {
+                "confidence": 1,
+                "domain": "volny"
+            }
+        ],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": " A Tato zprava neobsahuje viry ani jiny skodlivy kod avast Antivirus je aktivni ",
+    "lang": "cs"
+}

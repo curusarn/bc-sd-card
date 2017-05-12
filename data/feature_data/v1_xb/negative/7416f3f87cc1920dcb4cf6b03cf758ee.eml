@@ -1,0 +1,126 @@
+{
+    "phashes": [
+        {
+            "value": "pb5b8873394e0f610",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p22518f10cb3a6346",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pe9ab4859cb41e496",
+            "name": "pepca"
+        },
+        {
+            "value": "pa15296626dc2b41a",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "obchod@detske-kocarky.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/7416f3f87cc1920dcb4cf6b03cf758ee.eml",
+    "attachments": [
+        {
+            "size": 4071,
+            "name": "image",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "83f6ae7c5ca8a83e03527cbf63a9dcf6",
+            "sumphash": "d70bacbe34015c3997c397a83d0462f5",
+            "pepca": "pb5b8873394e0f610",
+            "mime_type": "image/gif"
+        },
+        {
+            "size": 4798,
+            "name": "image",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "83fe2ef8cd5e856644e8b4c3644d9833",
+            "sumphash": "f7e4a50581382e0a4a4ffd090271cff6",
+            "pepca": "p22518f10cb3a6346",
+            "mime_type": "image/jpeg"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "pepca": "pe9ab4859cb41e496",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": "ovozovna Palackeho 4445 43001 Chomutov ICO 68426810 DIC CZ 6961192458 tel 474 651030 602 807 099 604 723 678 ",
+    "subject": "Nova objednavka z DETSKE KOCARKY CZ 12987 ",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 50982457.980352,
+                "domain": "masterinter"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "masterinter",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "detske-kocarky",
+        "plain_domain_detail": [
+            {
+                "confidence": 2,
+                "domain": "detske-kocarky"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "pa15296626dc2b41a",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Nova objednavka z DETSKE KOCARKY CZ Vazeny zakazniku dekujeme za Vasi objednavku Objednavku jsme prijali a p",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 255,
+    "adscore": 0,
+    "spamscore": 1
+}

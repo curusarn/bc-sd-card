@@ -1,0 +1,120 @@
+{
+    "phashes": [
+        {
+            "value": "pc8a3302a0c0647f5",
+            "name": "pepca"
+        },
+        {
+            "value": "p9c5f54779add5e49",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "KPazderova@seznam.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/a09fa89930ccd9afe047793bfbb82d44.eml",
+    "unsub_link_candidates": [
+        "",
+        ""
+    ],
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "pepca": "pc8a3302a0c0647f5",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": " cz www akrem cz www 3d folie net Mobil 420 777 903 303 Mail info akrem cz Facebook FACEBOOK YOUTUBE YOUTUBE ",
+    "subject": "Re spatna objednavka kalendare",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 34423768.6957347,
+                "domain": "google"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "google",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "akrem",
+        "plain_domain_detail": [
+            {
+                "confidence": 5,
+                "domain": "akrem"
+            },
+            {
+                "confidence": 2,
+                "domain": "dezign"
+            },
+            {
+                "confidence": 2,
+                "domain": "3d-folie"
+            },
+            {
+                "confidence": 1,
+                "domain": "youtube"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p9c5f54779add5e49",
+    "unsub_link_texts": [
+        "  mail",
+        "  mail"
+    ],
+    "unsub_link": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Dekuji Kdy mohu kalendar ocekavat Dekuji Kamila Pazderova Puvodni zprava Od info akrem cz info akrem ",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 282,
+    "adscore": 0,
+    "spamscore": 1.1
+}

@@ -1,0 +1,112 @@
+{
+    "phashes": [
+        {
+            "value": "pc27fb03bcf599cc9",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p82133aaea876baff",
+            "name": "pepca"
+        },
+        {
+            "value": "p0419c7c3d5ebe589",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "objednavky@patro.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/1cdd69ff20d692a6c0b19aa7cd280417.eml",
+    "attachments": [
+        {
+            "size": 15153,
+            "name": "head_w.jpg",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "head_w.jpg@d97b699cee2d22417d46303f2caafba4",
+            "sumphash": "1f7e8b567961c768595eb66eed97595c",
+            "pepca": "pc27fb03bcf599cc9",
+            "mime_type": "image/jpeg"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "pepca": "p82133aaea876baff",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": "zdarma Dekujeme za Vasi objednavku Za tym Patro Group Obchodni tym e mail objednavky patro cz Tel 420 570 570 170 ",
+    "subject": "Vase objednavka byla zaregistrovana 614083279",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 3,
+                "domain": "patro"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 8009034.40558338,
+                "domain": "patro"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "patro",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "patro",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p0419c7c3d5ebe589",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Dobry den Vase objednavka c 614083279 byla uspesne zaregistrovana informacnim systemem skupiny internetovych obchodu ",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 177,
+    "adscore": 0,
+    "spamscore": 1
+}

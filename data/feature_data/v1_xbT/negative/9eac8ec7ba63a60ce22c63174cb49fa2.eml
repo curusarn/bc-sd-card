@@ -1,0 +1,122 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p7776fcf8fc04341e",
+    "last10words": "otvrzujeme V prApade ze byste ji chteli zruL it ucinte tak do 1 hodiny po odeslanA objednA vky emailem na eshop huramobil cz ",
+    "pepca_style_total": 0,
+    "header_from": "info@huramobil.cz",
+    "first10words": " Dekujeme VA m za objednA nA zbozA pres internetovA obchod HuraMobil cz Toto je automatickA zprA va kterA je vygenerovA na ",
+    "attachments": [
+        {
+            "mime_type": "application/pdf",
+            "name": "Obchodni_podminky.pdf",
+            "first10words": "Microsoft Word Dokument Obchodni podminky obchodni spolecnosti NetComp spol s",
+            "pepca": "p9df3b6150a8bc60c",
+            "lang": "cs",
+            "cte": "BASE64",
+            "size": 81427,
+            "flags": 0,
+            "sumphash": "1cd21fbf3c5ad6ec05180e476f1b15c0"
+        },
+        {
+            "name": "objednavka.htm",
+            "pepca": "p795ae98d481fc3c1",
+            "cte": "QPRINT",
+            "mime_type": "text/html",
+            "size": 5098,
+            "flags": 0,
+            "sumphash": "bf4bae0b32277edbac7c6402bec08a4a"
+        }
+    ],
+    "word_count": 103,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/9eac8ec7ba63a60ce22c63174cb49fa2.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p9df3b6150a8bc60c"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p795ae98d481fc3c1"
+        },
+        {
+            "name": "pepca",
+            "value": "p7776fcf8fc04341e"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "huramobil",
+                "confidence": 25805875.0526
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "huramobil",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "huramobil",
+        "plain_domain_detail": [
+            {
+                "domain": "huramobil",
+                "confidence": 2
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Objednavka byla prijata pod cislem 19127088 ",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

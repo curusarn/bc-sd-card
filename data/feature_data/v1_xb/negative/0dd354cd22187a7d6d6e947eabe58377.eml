@@ -1,0 +1,94 @@
+{
+    "phashes": [
+        {
+            "value": "p8fd32c396f44573d",
+            "name": "pepca"
+        },
+        {
+            "value": "p40d15ff18506314c",
+            "name": "pepca_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "odvarka@elberry.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/0dd354cd22187a7d6d6e947eabe58377.eml",
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "pepca": "p8fd32c396f44573d",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "p40d15ff18506314c",
+    "last10words": " heslo H2uqxpa8 Pouzijte prosim toto heslo k prihlaseni na Vas ucet na eshopu K prihlaseni staci navstivit e shop ",
+    "subject": "Vase nove heslo",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 9458053.22651,
+                "domain": "tykadla"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "tykadla",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Heslo zmeneno Login horakova lena seznam cz Nove heslo H2uqxpa8 Pouzijte prosim toto heslo k prihlaseni na Va",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 36,
+    "adscore": 0,
+    "spamscore": 1.1
+}

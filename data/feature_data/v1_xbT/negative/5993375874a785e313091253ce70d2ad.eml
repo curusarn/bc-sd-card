@@ -1,0 +1,114 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p6be9dbbe7e60be7b",
+    "last10words": "rihlaseni zmenit S pranim pekneho dne Vas Svet Homeopatie e mail info svethomeopatie cz www www svethomeopatie cz ",
+    "pepca_style_total": 0,
+    "header_from": "info@svethomeopatie.cz",
+    "first10words": " Dobry den tesi nas Vas zajem o homeopatii a dekujeme vam za Vasi registraci na serveru Svet Homeopatie Pro pristup do ",
+    "attachments": [
+        {
+            "name": "LOGOSHEMAIL.gif",
+            "pepca": "pa7d376aa6cb0c42d",
+            "cte": "BASE64",
+            "mime_type": "image/gif",
+            "cid": "d54861ad41275401c73965074f724c33",
+            "size": 3300,
+            "flags": 0,
+            "sumphash": "c528d95e54c684f7ba9e5eba32b463ad"
+        }
+    ],
+    "word_count": 60,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/5993375874a785e313091253ce70d2ad.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "pa7d376aa6cb0c42d"
+        },
+        {
+            "name": "pepca",
+            "value": "p6be9dbbe7e60be7b"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p454a309b04df4d73"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "skype",
+                "confidence": 4276998.86726
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "skype",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "svethomeopatie",
+        "plain_domain_detail": [
+            {
+                "domain": "svethomeopatie",
+                "confidence": 2
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Vase registrace na svethomeopatie cz",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "p454a309b04df4d73",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

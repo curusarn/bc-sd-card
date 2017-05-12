@@ -1,0 +1,96 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p65ee6111717ec74f",
+    "last10words": "hof 3 95100 Selb Deutschland cp nobasics eu Fon 0 92 87 88 28 57 0 Fax 0 92 87 88 28 57 10 Geschaftsfuhrer Preisenhammer ",
+    "pepca_style_total": 0,
+    "header_from": "cp@nobasics.eu",
+    "first10words": " VIP Newsletter CZ VIP Newsletter CZ Pro potvrzeni registrace kliknete na tento odkaz Pokud jste tento e m",
+    "attachments": [],
+    "word_count": 103,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/04953d02adcac96ef86d54ed568c3612.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p65ee6111717ec74f"
+        },
+        {
+            "name": "pepca_style",
+            "value": "p529e2f54d102d882"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p10ff19f4e2464bc1"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "stepstone",
+                "confidence": 48484155.8044
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "stepstone",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Prosim potvrdte svou registraci",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "p529e2f54d102d882",
+    "pepca_inline_style": "p10ff19f4e2464bc1",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

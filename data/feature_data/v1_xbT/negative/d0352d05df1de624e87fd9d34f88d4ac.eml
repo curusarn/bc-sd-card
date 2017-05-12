@@ -1,0 +1,112 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pbc27a7a706f0fa8a",
+    "last10words": "vyse uvedeneho nerozumite a potrebujete poradit kontaktujte nas prosim na support palmknihy cz Vase Palmknihy cz ",
+    "pepca_style_total": 2,
+    "header_from": "support@palmknihy.cz",
+    "first10words": " Dobry den na strance Zmena hesla jste vy nebo nekdo dalsi pozadali o nove heslo na Palmknihy cz Pokud si ",
+    "attachments": [],
+    "word_count": 127,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/d0352d05df1de624e87fd9d34f88d4ac.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pbc27a7a706f0fa8a"
+        },
+        {
+            "name": "pepca_style",
+            "value": "p24174fa0ebcc3298"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p6abcc0aea378b325"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "palmknihy",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "paypal",
+                "confidence": 14305082.6583221
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "palmknihy",
+                "confidence": 1
+            },
+            {
+                "domain": "topsrovnani",
+                "confidence": 1
+            }
+        ],
+        "domain_keywords": "paypal",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "palmknihy",
+        "plain_domain_detail": [
+            {
+                "domain": "palmknihy",
+                "confidence": 2
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Potvrzeni zmeny hesla pro Petr Cuda",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "p24174fa0ebcc3298",
+    "pepca_inline_style": "p6abcc0aea378b325",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

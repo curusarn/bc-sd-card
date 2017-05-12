@@ -1,0 +1,109 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "module": "ill",
+            "score": 1.1
+        }
+    ],
+    "pepca": "p1e82af4bbf1b265a",
+    "first10words": " Dobry den Zbozi dodame 14 1 2015 S pozdravem Lenka Vareckova Dentimed s r o Druzstevni 76 570 01 Litomysl Tel 461 310 482 W",
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "word_count": 23,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "WinFAS Faktura danovy doklad 2015 21 00301",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.1,
+    "phishing": {},
+    "header_from": "lenka.vareckova@dentimed.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/3bfc0413708c9cddc1ac98e03ad1cc77.eml.eml",
+    "attachments": [
+        {
+            "size": 106700,
+            "mime_type": "application/pdf",
+            "flags": 0,
+            "pepca": "p985d39408dd142bd",
+            "first10words": "WinFAS UK POHLE list okanc Dentimed firma DENTIMED Dentimed s",
+            "cte": "BASE64",
+            "sumphash": "5c0ff6d1486572ba110f9e6c3b36face",
+            "name": "Faktura - da\u0148ov\u00fd doklad_ 2015-21-00301_15011214484388.PDF",
+            "lang": "un"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p985d39408dd142bd"
+        },
+        {
+            "name": "pepca",
+            "value": "p1e82af4bbf1b265a"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "winfas"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "masterinter",
+        "plain_domain": "winfas",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 12745614.495088,
+                "domain": "masterinter"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "Faktura danovy doklad 2015 21 00301 Odeslano programem WinFAS http www winfas cz",
+    "lang": "cs"
+}

@@ -1,0 +1,109 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "padf02aeee162c017",
+    "last10words": " S pozdravem za firmu Katerina Zahradnikova Jaroslav Zahradnik ",
+    "pepca_style_total": 0,
+    "header_from": "objednavky@dekoraceprodeti.cz",
+    "first10words": " Expedice Vasi objednavky Dobry den Vase objednavka c 1421095092 ze dne 12 01 2015 na serveru dekoraceprodeti cz ",
+    "attachments": [],
+    "word_count": 185,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/trans-ffd322feea33ff68e815576a728c05a7.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "padf02aeee162c017"
+        },
+        {
+            "name": "pepca_style",
+            "value": "pf24a95c2b4e9af8b"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pe33662e992973c13"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "ppl",
+                "confidence": 8591190.10623
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "ppl",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "fototapeta",
+        "plain_domain_detail": [
+            {
+                "domain": "fototapeta",
+                "confidence": 2
+            },
+            {
+                "domain": "dekoraceprodeti",
+                "confidence": 1
+            },
+            {
+                "domain": "ppl",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "58 Expedice objednavky PPL",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "pf24a95c2b4e9af8b",
+    "pepca_inline_style": "pe33662e992973c13",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

@@ -1,0 +1,101 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pe69ebde65619599b",
+    "last10words": "elne podobe S pratelskymi pozdravy Internetovy obchodni dum tel 420 774 129 372 email info internetovy obchodni dum cz ",
+    "pepca_style_total": 3,
+    "unsub_link_texts": [
+        "sve kontaktni udaj moct kdykoliv zmenit na adresa http www internetovy obchodny duma cz login prihlasovaci udaj email"
+    ],
+    "header_from": "info@internetovy-obchodni-dum.cz",
+    "unsub_link_candidates": [
+        "http://www.internetovy-obchodni-dum.cz/login/"
+    ],
+    "first10words": " Internetovy obchodni dum Registrace na Internetovy obchodni dum Vazeny zakazniku registrace na Internetovy obchodni ",
+    "attachments": [],
+    "word_count": 67,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/553553757a3574199e7ddfa05e41abd3.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pe69ebde65619599b"
+        },
+        {
+            "name": "pepca_style",
+            "value": "pa3b870b26ca78fc3"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "itstudio",
+                "confidence": 8083722.5797212
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "itstudio",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": " Internetovy obchodni dum Vase registrace",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "unsub_link": "http://www.internetovy-obchodni-dum.cz/login/",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "pa3b870b26ca78fc3",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

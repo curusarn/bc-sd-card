@@ -1,0 +1,119 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1,
+                0.5
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging",
+                "long_subject"
+            ],
+            "module": "ill",
+            "score": 1.6
+        }
+    ],
+    "pepca": "p487609b0bbf9a31b",
+    "first10words": " We recently noticed one or more unusual attempts to log in to your Citizens Bank account from a different IP addre",
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "word_count": 310,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Security Alert Your Citizens Online Bank account has been compromised Wed 9 Aug 2006 09 23 52 0100",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.6,
+    "phishing": {
+        "5_top_domains_id_0": 0,
+        "5_top_domains_percent_1": 0.5,
+        "5_top_domains_percent_0": 0.5,
+        "5_top_domains_id_1": 1
+    },
+    "header_from": "id24759_customers@citizensbank.com",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/728.eml",
+    "attachments": [
+        {
+            "size": 5555,
+            "mime_type": "image/jpeg",
+            "flags": 0,
+            "pepca": "p4780ebbd03f98a1a",
+            "cid": "00DBE7EDB223$02BD9653$0100007f@oxgwseurssppihg",
+            "cte": "BASE64",
+            "sumphash": "9b0e485dbe8af7b4a720800403aa7a6d",
+            "name": "img1.jpg"
+        },
+        {
+            "sumphash": "a3260d318e05237b6e2f16f25b4893ac",
+            "mime_type": "image/jpeg",
+            "flags": 0,
+            "size": 786,
+            "cid": "00BE7CA6D878$05830F4E$0100007f@oxgwseurssppihg",
+            "cte": "BASE64",
+            "name": "img2.jpg"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p4780ebbd03f98a1a"
+        },
+        {
+            "name": "pepca",
+            "value": "p487609b0bbf9a31b"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "kuponator",
+        "plain_domain": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 4463904092.45761,
+                "domain": "kuponator"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": " Terms of Use Citizens Bank Online Guarantee TM 2005 Citizens Bank All Rights Reserved ",
+    "lang": "en"
+}

@@ -1,0 +1,139 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pb1ee79299041f2e8",
+    "last10words": " We have suspended some of your email services to resolve the problem you should read the attached document ",
+    "pepca_style_total": 0,
+    "header_from": "Support@domain.com",
+    "first10words": " We have suspended some of your email services to resolve the problem you should read the attached document ",
+    "attachments": [
+        {
+            "name": "info-text.zip",
+            "pepca": "pb34a7f07c6a9db22",
+            "cte": "BASE64",
+            "mime_type": "application/zip",
+            "size": 44668,
+            "flags": 0,
+            "sumphash": "8e26cf9a9372a7321b2f3b86aff4e4cb"
+        },
+        {
+            "mime_type": "application/octet-stream",
+            "name": "info-text.scr",
+            "first10words": "MZ ?? ? ? L? This program cannot be run",
+            "pepca": "p37e3b73580726b90",
+            "lang": "un",
+            "cte": "PLAIN",
+            "exe_pepcas": [
+                ":p15dc301f0295070a",
+                ":p50d9472ca6289e99",
+                ":p80dbbd985085e944",
+                ":p1014612cc8c0592d"
+            ],
+            "size": 44544,
+            "flags": 3,
+            "sumphash": "502b2ca8f137401004902ce14fb845a8"
+        }
+    ],
+    "word_count": 18,
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing0/340.eml",
+    "phashes": [
+        {
+            "name": "att-pepca:exe-sec",
+            "value": ":p15dc301f0295070a"
+        },
+        {
+            "name": "att-pepca:exe-sec",
+            "value": ":p50d9472ca6289e99"
+        },
+        {
+            "name": "att-pepca:exe-sec",
+            "value": ":p80dbbd985085e944"
+        },
+        {
+            "name": "att-pepca:exe-sec",
+            "value": ":p1014612cc8c0592d"
+        },
+        {
+            "name": "att-pepca-risky",
+            "value": "pb34a7f07c6a9db22"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p37e3b73580726b90"
+        },
+        {
+            "name": "pepca",
+            "value": "pb1ee79299041f2e8"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "quora",
+                "confidence": 12764996.4473
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "quora",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "en",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Your Email Account is Suspended For Security Reasons",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

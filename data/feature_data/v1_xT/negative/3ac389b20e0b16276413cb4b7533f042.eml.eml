@@ -1,0 +1,238 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "module": "ill",
+            "score": 1.1
+        }
+    ],
+    "pepca": "p54b1741df5c240f3",
+    "first10words": " iNETPrint cz Objednavka c 5010271638 vyexpedovana PPL Vazeny zakazniku Vase objednavka c 501027",
+    "pepca_style": "p4c19010dabe28f2c",
+    "pepca_inline_style": "pfcdd7407439b0601",
+    "word_count": 451,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Objednavka c 5010271638 vyexpedovana PPL baliky",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.1,
+    "phishing": {},
+    "header_from": "homolova@inetprint.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/3ac389b20e0b16276413cb4b7533f042.eml.eml",
+    "attachments": [
+        {
+            "size": 3778,
+            "mime_type": "image/gif",
+            "flags": 0,
+            "pepca": "p6a33a8ec9119ec4d",
+            "cid": "logo-inetprint",
+            "cte": "BASE64",
+            "sumphash": "8625e9f9f21adc86cba49ec1a5876357",
+            "name": "logo-inetprint.gif"
+        },
+        {
+            "size": 4530,
+            "mime_type": "image/jpeg",
+            "flags": 0,
+            "pepca": "pd5af370ee71bb0bf",
+            "cid": "hlavicka-zabak",
+            "cte": "BASE64",
+            "sumphash": "6f51885fda68f197193068ffac6835c0",
+            "name": "hlavicka-zabak.jpg"
+        },
+        {
+            "size": 10270,
+            "mime_type": "image/gif",
+            "flags": 0,
+            "pepca": "pcbcc91f67973bf44",
+            "cid": "objednavka-vyexpedovana-ppl",
+            "cte": "BASE64",
+            "sumphash": "2d3a57eb0e68a258a2343eabb232a395",
+            "name": "objednavka-vyexpedovana-ppl.gif"
+        },
+        {
+            "size": 22128,
+            "mime_type": "image/jpeg",
+            "flags": 0,
+            "pepca": "p51043bf2e7d4338a",
+            "cid": "promobox-2014-10a-reklamni-predmety-v2_mail",
+            "cte": "BASE64",
+            "sumphash": "ca2a99b8940b7515d3e5cda02f124b51",
+            "name": "promobox-2014-10a-reklamni-predmety-v2_mail.jpg"
+        },
+        {
+            "size": 18871,
+            "mime_type": "image/jpeg",
+            "flags": 0,
+            "pepca": "p2601d76a5845b49e",
+            "cid": "promobox-2014-06-kalendare-diare-2015_mail",
+            "cte": "BASE64",
+            "sumphash": "bfd1a74f15eca74586263a0292709827",
+            "name": "promobox-2014-06-kalendare-diare-2015_mail.jpg"
+        },
+        {
+            "size": 18862,
+            "mime_type": "image/jpeg",
+            "flags": 0,
+            "pepca": "p13b21d7b52ce3482",
+            "cid": "promobox-2014-07-kalendare-na-miru_mail",
+            "cte": "BASE64",
+            "sumphash": "6a61c62dc166a1f257c1ae84d9433297",
+            "name": "promobox-2014-07-kalendare-na-miru_mail.jpg"
+        },
+        {
+            "size": 17859,
+            "mime_type": "image/jpeg",
+            "flags": 0,
+            "pepca": "pab696bc1c863f59e",
+            "cid": "promobox-2014-04c-usb-na-miru_mail",
+            "cte": "BASE64",
+            "sumphash": "52b252b4e2714d944f62d0e86e74ecdd",
+            "name": "promobox-2014-04c-usb-na-miru_mail.jpg"
+        },
+        {
+            "size": 7577,
+            "mime_type": "image/jpeg",
+            "flags": 0,
+            "pepca": "p8c5ed92e71b8bbee",
+            "cid": "LASTOVKOVAI",
+            "cte": "BASE64",
+            "sumphash": "c197b07da90e06dedcd043e980083fe5",
+            "name": "LASTOVKOVAI-contact.jpg"
+        },
+        {
+            "size": 7396,
+            "mime_type": "image/jpeg",
+            "flags": 0,
+            "pepca": "pfaa2bc5df4be5222",
+            "cid": "HOMOLOVAP",
+            "cte": "BASE64",
+            "sumphash": "d72ddeb85c64db764758c4c6e10e3052",
+            "name": "HOMOLOVAP-contact.jpg"
+        },
+        {
+            "sumphash": "ba54071489fb0becd20be7d9ca0f2b7d",
+            "mime_type": "application/pdf",
+            "flags": 0,
+            "size": 251487,
+            "first10words": "iNETPrintCZ Prezentace sluz eb final",
+            "cte": "BASE64",
+            "name": "P\u0159ehled sortimentu a slu\u017eeb - iNETPrint.cz.pdf",
+            "lang": "un"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p6a33a8ec9119ec4d"
+        },
+        {
+            "name": "att-pepca",
+            "value": "pd5af370ee71bb0bf"
+        },
+        {
+            "name": "att-pepca",
+            "value": "pcbcc91f67973bf44"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p51043bf2e7d4338a"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p2601d76a5845b49e"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p13b21d7b52ce3482"
+        },
+        {
+            "name": "att-pepca",
+            "value": "pab696bc1c863f59e"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p8c5ed92e71b8bbee"
+        },
+        {
+            "name": "att-pepca",
+            "value": "pfaa2bc5df4be5222"
+        },
+        {
+            "name": "pepca",
+            "value": "p54b1741df5c240f3"
+        },
+        {
+            "name": "pepca_style",
+            "value": "p4c19010dabe28f2c"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pfcdd7407439b0601"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 2,
+                "domain": "inetprint"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "masterinter",
+        "plain_domain": "inetprint",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 63728072.47544,
+                "domain": "masterinter"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "lecnosti iNET Solutions s r o A 2004 2012 A A A A A A A A A A A A A A A IC 26775751 DIC CZ26775751 ",
+    "lang": "cs"
+}

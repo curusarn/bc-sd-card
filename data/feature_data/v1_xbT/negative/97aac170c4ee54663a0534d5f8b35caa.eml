@@ -1,0 +1,106 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pd43777abbfa2aa0e",
+    "last10words": " Vas email janca vachulkova seznam cz byl uspesne pridan do odberu novinek na czVlasy cz Odhlasit se z odberu muzete zde ",
+    "pepca_style_total": 9,
+    "unsub_link_texts": [
+        "odhlasit se z odber moct zde "
+    ],
+    "header_from": "info@czvlasy.cz",
+    "unsub_link_candidates": [
+        "http://www.czvlasy.cz/odhlaseni-z-newsletteru/"
+    ],
+    "first10words": " czVlasy cz Dobry den Vas email janca vachulkova seznam cz byl uspesne pridan do odberu novinek na czVlasy cz O",
+    "attachments": [],
+    "word_count": 28,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/97aac170c4ee54663a0534d5f8b35caa.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pd43777abbfa2aa0e"
+        },
+        {
+            "name": "pepca_style",
+            "value": "pa3b870b26ca78fc3"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "czvlasy",
+                "confidence": 2825236.0438
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "czvlasy",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "czvlasy",
+        "plain_domain_detail": [
+            {
+                "domain": "czvlasy",
+                "confidence": 2
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": " czVlasy cz Vase registrace do newsletteru",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "unsub_link": "http://www.czvlasy.cz/odhlaseni-z-newsletteru/",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "pa3b870b26ca78fc3",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

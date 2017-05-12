@@ -1,0 +1,108 @@
+{
+    "phashes": [
+        {
+            "value": "p3818479b99ab02e3",
+            "name": "pepca"
+        },
+        {
+            "value": "p24174fa0ebcc3298",
+            "name": "pepca_style"
+        },
+        {
+            "value": "p25c4cf7b3bc9d30d",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "obchod@kuptotu.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/0cf3d95f02770836b687be48997b93c3.eml",
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "missing_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                1
+            ],
+            "score": 2
+        }
+    ],
+    "pepca": "p3818479b99ab02e3",
+    "phishing": {
+        "ner_domain_detected": true
+    },
+    "pepca_style": "p24174fa0ebcc3298",
+    "last10words": "15 00 Kc Dekujeme za Vasi objednavku a tesime se na dalsi spolupraci KupToTu cz Pridejte si nas na ",
+    "subject": "KupToTu cz Objednavka cislo 100031726",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 3,
+                "domain": "kuptotu"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 10147214.1071411,
+                "domain": "superhosting"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "kuptotu",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "superhosting",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "kuptotu",
+        "plain_domain_detail": [
+            {
+                "confidence": 2,
+                "domain": "kuptotu"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p25c4cf7b3bc9d30d",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Vazeny zakazniku dekujeme za Vasi objednavku V momente kdy bude Vase objednavka expedovana budete o tom vyr",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 266,
+    "adscore": 0,
+    "spamscore": 2
+}

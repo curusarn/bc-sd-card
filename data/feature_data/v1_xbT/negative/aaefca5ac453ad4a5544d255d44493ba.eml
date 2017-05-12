@@ -1,0 +1,165 @@
+{
+    "pepca_inline_style_total": 4,
+    "pepca": "p179978aee846cc7b",
+    "last10words": "chces tyto emaily dostavat Klikni sem Massive Media Match NV Emile Braunplein 18 9000 Ghent Belgium BE0537240636 info cs twoo com ",
+    "universalprobes": [
+        {
+            "key": "ps-from_mismatch",
+            "value": "1"
+        },
+        {
+            "key": "ps-phish_keyword",
+            "value": "['heslo', 'heslo', 'heslo', 'heslo']"
+        },
+        {
+            "key": "ps-subject_phish_keyword",
+            "value": "['heslo']"
+        },
+        {
+            "key": "ps-unsub_link",
+            "value": "1"
+        },
+        {
+            "key": "ps-many_emails",
+            "value": "1"
+        },
+        {
+            "key": "ps-most-suspicious-links",
+            "value": "[]"
+        }
+    ],
+    "list_unsubscribe_urls": [
+        "http://mail.twoo.com/mailurl/aT10cS00NXEwZmUtOWh3YjVxaGktdzc0NyZsPTEmdT0lMkZzZXR0aW5ncyUyRmVtYWlscyUyRiUzRnZpZXclM0R1bnN1YnNjcmliZSUyNmFjdGlvbiUzRHVuc3Vic2NyaWJlRnJvbVR5cGUlMjZ2YWx1ZSUzRE5PJTI2dHlwZWlkJTNEJTI2c2tpcFNwbGFzaCUzRG1haWwmdD0zJmE9YWIxdmdsX2M4Y2YyY2IwMmQ"
+    ],
+    "dkstatus": {},
+    "header_from": "noreply@twoomail.com",
+    "spfstatus": {},
+    "contains_list_header": true,
+    "lang": "cs",
+    "attachments": [],
+    "word_count": 156,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/aaefca5ac453ad4a5544d255d44493ba.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p179978aee846cc7b"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p1a86a4ced8401e0b"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "twoomail",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "twoomail",
+                "confidence": 78300373.962531
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "twoomail",
+                "confidence": 2
+            }
+        ],
+        "domain_keywords": "twoomail",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "pepcatotal": 3,
+    "dmarc_status": {},
+    "phish_score": 1,
+    "domainstat": {},
+    "precedence": 3,
+    "extractedEmailsTotalCount": {},
+    "subject": "Zvol si nove heslo na Twoo",
+    "unsub_link_texts": [
+        "com m c blkzyg twoo v budoucno uzit nechtit tyt email dostavat"
+    ],
+    "adscore": 0,
+    "first10words": " Zvol si nove heslo na Twoo Zapomenute heslo Klikni na odkaz nize a zmen si ho Ahoj Martiiinek Pokud si svoje heslo nepa",
+    "unsub_link": "http://mail.twoo.com/mailurl/aT10cS00NXEwZmUtOWh3YjVxaGktdzc0NyZsPTMmdT0lMkYmdD0zJmE9YWIxdmdsX2M4Y2YyY2IwMmQ",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "unsub_link_candidates": [
+        "http://mail.twoo.com/mailurl/aT10cS00NXEwZmUtOWh3YjVxaGktdzc0NyZsPTMmdT0lMkYmdD0zJmE9YWIxdmdsX2M4Y2YyY2IwMmQ"
+    ],
+    "domainstat_themes": {},
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1,
+    "theme": {},
+    "pepca_style_total": 0,
+    "phNotches": [
+        {
+            "name": [
+                "from_mismatch",
+                "phisheable",
+                "phish_keyword",
+                "subject_phish_keyword",
+                "unsub_link",
+                "many_emails"
+            ],
+            "subscores": [
+                1,
+                0.5,
+                0.0,
+                0.0,
+                -2,
+                -2
+            ],
+            "score": -2.5,
+            "module": "phish-score"
+        }
+    ],
+    "pepca_inline_style": "p1a86a4ced8401e0b"
+}

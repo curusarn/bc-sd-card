@@ -1,0 +1,145 @@
+{
+    "phashes": [
+        {
+            "value": "p50a81e316367e4fd",
+            "name": "pepca"
+        },
+        {
+            "value": "pffe2d97939ed1f01",
+            "name": "pepca_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "pokladna@saldovo-divadlo.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/248017.eml",
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "pepca": "p50a81e316367e4fd",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "pffe2d97939ed1f01",
+    "last10words": "nim centru Vratislavice 10 10 10 Rimskokatolicka farnost Kostelni 7 Liberec 460 01 Tel 485 108 506 http www arcidekanstvi lbc cz ",
+    "subject": "Potvrzeni rezervace",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 66954060.47509,
+                "domain": "booking"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "booking",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "harfa",
+        "plain_domain_detail": [
+            {
+                "confidence": 2,
+                "domain": "harfa"
+            },
+            {
+                "confidence": 1,
+                "domain": "hotelarena"
+            },
+            {
+                "confidence": 1,
+                "domain": "kulturniportal"
+            },
+            {
+                "confidence": 1,
+                "domain": "tour2000"
+            },
+            {
+                "confidence": 1,
+                "domain": "webk"
+            },
+            {
+                "confidence": 1,
+                "domain": "eurocentrumjablonec"
+            },
+            {
+                "confidence": 1,
+                "domain": "arcidekanstvi-lbc"
+            },
+            {
+                "confidence": 1,
+                "domain": "cdub"
+            },
+            {
+                "confidence": 1,
+                "domain": "antik-fryc"
+            },
+            {
+                "confidence": 1,
+                "domain": "caluzice"
+            },
+            {
+                "confidence": 1,
+                "domain": "klubviadukt"
+            },
+            {
+                "confidence": 1,
+                "domain": "chrastava"
+            },
+            {
+                "confidence": 1,
+                "domain": "lidovesadyliberec"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Rezervacni web Potvrzeni Vasi rezervace Toto neni vstupenka Cislo Vasi rezervace 254682 Platnost rezervace do 18 9 2014 23",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 1198,
+    "adscore": 0,
+    "spamscore": 1
+}

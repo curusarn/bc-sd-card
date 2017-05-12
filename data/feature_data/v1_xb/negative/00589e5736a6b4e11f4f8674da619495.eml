@@ -1,0 +1,100 @@
+{
+    "phashes": [
+        {
+            "value": "p64c7852594e0c77d",
+            "name": "pepca"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "info@tradesniper.pw",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/00589e5736a6b4e11f4f8674da619495.eml",
+    "attachments": [],
+    "contains_list_header": true,
+    "last10words": "mail sent by BBM Ltd Law Partners House Lini Highway Port Vila Vanuatu In order to unsubscribe from this mailing list please click here ",
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca": "p64c7852594e0c77d",
+    "subject": "Your new account has been approved",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 1,
+                "domain": "datingfactory"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 162557686.181024,
+                "domain": "aweber"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "datingfactory",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "aweber",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "list_unsubscribe_urls": [
+        "http://unsub.email.dynect.net/unsub??h=WpfRqTFmqv694QBxhWWqw%2F4KOnHQCEirwXBkKg5oRvQZCnxbx6vyD%2FMJx80louJyW1qJVql5nfXqXENIIQlwik1wjJ10ivz6ZmdqUxqapG8%3Di=20150123134228.0F1262018E7A%40mail6-03-pao.dyndns.comx=MHwxMDIwOTUwOm9KU2NvVHloTWw0bVl3Um1vbDQyQW1JeUFGNGxaVUQwWXo5MG5USWxwbDQxTUd5Zll3Wm1uRCUzRCUzRDs%3D",
+        "mailto:unsubscribe@dynect-email.com?subject=WpfRqTFmqv694QBxhWWqw%2F4KOnHQCEirwXBkKg5oRvQZCnxbx6vyD%2FMJx80louJyW1qJVql5nfXqXENIIQlwik1wjJ10ivz6ZmdqUxqapG8%3D&message_id=20150123134228.0F1262018E7A%40mail6-03-pao.dyndns.com&x_headers==MHwxMDIwOTUwOm9KU2NvVHloTWw0bVl3Um1vbDQyQW1JeUFGNGxaVUQwWXo5MG5USWxwbDQxTUd5Zll3Wm1uRCUzRCUzRDs%3D"
+    ],
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Hey Your account is setup and ready to payout your commission earnings Please confirm your account here We will make sur",
+    "lang": "en",
+    "pepcatotal": 0,
+    "word_count": 69,
+    "adscore": 0,
+    "spamscore": 1.1
+}

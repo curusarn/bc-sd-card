@@ -1,0 +1,135 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "module": "ill",
+            "score": 1.1
+        }
+    ],
+    "pepca": "",
+    "pepca_style": "",
+    "phNotches": [
+        {
+            "subscores": [
+                1,
+                1,
+                -2
+            ],
+            "name": [
+                "from_mismatch",
+                "attachments",
+                "many_emails"
+            ],
+            "module": "phish-score",
+            "score": 0.0
+        }
+    ],
+    "dmarc_status": {},
+    "pepca_inline_style": "",
+    "unsub_link": {},
+    "pepca_style_total": 0,
+    "phish_score": 0.0,
+    "domainstat": {},
+    "domainstat_themes": {},
+    "subject": "ukol objednavka",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.1,
+    "word_count": 1,
+    "phishing": {},
+    "universalprobes": [
+        {
+            "key": "ps-from_mismatch",
+            "value": "1"
+        },
+        {
+            "key": "ps-attachments",
+            "value": "1"
+        },
+        {
+            "key": "ps-many_emails",
+            "value": "1"
+        }
+    ],
+    "header_from": "gabriela.ondrichova@seznam.cz",
+    "first10words": " ",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/0bf84763743ac14d277f3aa0aedf4245.eml",
+    "attachments": [
+        {
+            "size": 15159,
+            "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "flags": 0,
+            "pepca": "p1f57c29dd69225ea",
+            "first10words": "Z a h l a v i d o p",
+            "cid": "m14a4d90ffe3m68f",
+            "cte": "BASE64",
+            "sumphash": "aed78831a9f6023e225fd331fb82a3d1",
+            "name": "Gaba 4.docx",
+            "lang": "cs"
+        }
+    ],
+    "adscore": 0,
+    "extractedEmailsTotalCount": {},
+    "dkstatus": {},
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p1f57c29dd69225ea"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "",
+        "plain_domain": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": " ",
+    "theme": {},
+    "spfstatus": {},
+    "pepca_small": "p4c547f29188d629b",
+    "lang": "cs"
+}

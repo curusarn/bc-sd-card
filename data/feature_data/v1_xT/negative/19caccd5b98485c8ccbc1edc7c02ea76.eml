@@ -1,0 +1,103 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "module": "ill",
+            "score": 1.1
+        }
+    ],
+    "pepca": "pbc1de3dcb4475673",
+    "first10words": " POTVRZENI OBJEDNAVKY objednavka c 9483 Vazeny zakazniku na zaklade objednavky c 9483 ze dne 15 12 ",
+    "pepca_style": "p7d9ad5e6445d23c9",
+    "pepca_inline_style": "p717462cae7fe96ef",
+    "unsub_link": "https://www.facebook.com/pages/RAZZO/170137773816",
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Objednavka c 9483 byla potvrzena",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.1,
+    "word_count": 326,
+    "phishing": {},
+    "header_from": "shop@razzo.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/19caccd5b98485c8ccbc1edc7c02ea76.eml",
+    "attachments": [],
+    "adscore": 0,
+    "unsub_link_texts": [
+        "pridejete se k my a dostavat vsechen novinka hned https www facebook com pages razzo odesilatel tento sdeleni je spolecnost razzo s"
+    ],
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pbc1de3dcb4475673"
+        },
+        {
+            "name": "pepca_style",
+            "value": "p7d9ad5e6445d23c9"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p717462cae7fe96ef"
+        }
+    ],
+    "unsub_link_candidates": [
+        "https://www.facebook.com/pages/RAZZO/170137773816"
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "razzo",
+        "plain_domain": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 36915323.51263,
+                "domain": "razzo"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": " Odesilatelem tohoto sdeleni je spolecnost RAZZO s r o Sifarska 2 147 00 Praha 4 ICO 62415719 DIC CZ62415719 ",
+    "lang": "cs"
+}

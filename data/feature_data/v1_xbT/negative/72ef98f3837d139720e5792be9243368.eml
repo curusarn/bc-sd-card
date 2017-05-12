@@ -1,0 +1,104 @@
+{
+    "pepca_inline_style_total": 1,
+    "pepca": "pa5aac22613bd3384",
+    "last10words": "ekujeme ze pouzivate Survio Vas Survio tym Survio tvorba dotazniku zdarma Napoveda ",
+    "pepca_style_total": 1,
+    "header_from": "support@survio.com",
+    "resent": true,
+    "first10words": " Zadost o obnovu hesla Zadost o obnovu hesla Vazeny uzivateli prave jste si pozadali o nove hes",
+    "attachments": [],
+    "word_count": 139,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/72ef98f3837d139720e5792be9243368.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pa5aac22613bd3384"
+        },
+        {
+            "name": "pepca_style",
+            "value": "pdb6f04b2a34fc45c"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p676fa28ad5c9c876"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "survio",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "skype",
+                "confidence": 14847315.52719
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "survio",
+                "confidence": 6
+            }
+        ],
+        "domain_keywords": "skype",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Zadost o obnovu hesla",
+    "adscore": 0,
+    "pepcatotal": 1,
+    "phishing": {
+        "ner_domain_detected": true,
+        "5_top_domains_id_0": 0,
+        "5_top_domains_percent_0": 1.0
+    },
+    "pepca_style": "pdb6f04b2a34fc45c",
+    "pepca_inline_style": "p676fa28ad5c9c876",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

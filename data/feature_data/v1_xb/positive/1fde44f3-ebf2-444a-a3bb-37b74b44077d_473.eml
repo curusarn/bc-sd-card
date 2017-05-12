@@ -1,0 +1,105 @@
+{
+    "phashes": [
+        {
+            "value": "p965afc05125dd658",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p1743fb1717c7a6c1",
+            "name": "pepca"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "customerservice.refde48761528.cm@bbt.com",
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/473.eml",
+    "attachments": [
+        {
+            "size": 9524,
+            "name": "auction.gif",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "VEYY6ZHFZI",
+            "sumphash": "b338037fe4909b187b782646cc3b8aa1",
+            "pepca": "p965afc05125dd658",
+            "mime_type": "image/gif"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "long_subject"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.5
+            ],
+            "score": 1.5
+        }
+    ],
+    "pepca": "p1743fb1717c7a6c1",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": " 0x83 0x676 0x8 0x687 0x27 0x97577752 0x9395 0x81 0x152 0x05585480 0x242 tmp start 7P9F RIE5 FZ6T source B6PG QB8 KJ7 0x62 0x8 ",
+    "subject": "BB T reminder please update your details message id o11124080m ",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 1401480.67549,
+                "domain": "atweb"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "atweb",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " type 0x18775692 0x32731735 0x2 0x641 0x8 end 0x58 0x71577720 0x58 0x02128158 0x712 0x597 0x92 0x69 0x92 0x34631996 ",
+    "lang": "en",
+    "pepcatotal": 0,
+    "word_count": 50,
+    "adscore": 0,
+    "spamscore": 1.5
+}

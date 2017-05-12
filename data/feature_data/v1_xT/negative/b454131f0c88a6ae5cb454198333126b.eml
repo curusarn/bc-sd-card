@@ -1,0 +1,121 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "module": "ill",
+            "score": 1
+        }
+    ],
+    "pepca": "pb31cd918eff20fe2",
+    "first10words": " Jizdomat cz Jizdomat cz ceska jednicka ve spolujizde Usetrili jsme jiz 31 763 163 Kc Registrace pres ",
+    "pepca_style": "",
+    "pepca_inline_style": "p0388c21886a2fa4d",
+    "unsub_link": "http://www.jizdomat.cz/profil/nastaveni",
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Vase registrace pres Facebook na Jizdomat cz",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1,
+    "word_count": 144,
+    "phishing": {},
+    "header_from": "info@jizdomat.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/b454131f0c88a6ae5cb454198333126b.eml",
+    "attachments": [
+        {
+            "size": 997,
+            "mime_type": "image/png",
+            "flags": 0,
+            "pepca": "paa89c9607df1737d",
+            "cid": "cid_db3f60f85012d52d0ec18efd56c1d873",
+            "cte": "BASE64",
+            "sumphash": "f9f3953f7100bf33a1887f19637312d7",
+            "name": ""
+        }
+    ],
+    "adscore": 0,
+    "unsub_link_texts": [
+        "cz zrusit zasilani e mail moct na stranka s vas nastaveni jizdomat"
+    ],
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "paa89c9607df1737d"
+        },
+        {
+            "name": "pepca",
+            "value": "pb31cd918eff20fe2"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p0388c21886a2fa4d"
+        }
+    ],
+    "unsub_link_candidates": [
+        "http://www.jizdomat.cz/profil/nastaveni"
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "jizdomat"
+            },
+            {
+                "confidence": 1,
+                "domain": "zdomat"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "stable",
+        "plain_domain": "jizdomat",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 112272389.81453,
+                "domain": "stable"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "cz Zrusit zasilani e mailu muzete na strance s vasim nastavenim Jizdomat cz info jizdomat cz www jizdomat cz ",
+    "lang": "cs"
+}

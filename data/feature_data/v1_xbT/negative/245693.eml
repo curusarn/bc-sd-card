@@ -1,0 +1,115 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p105475ad90829e71",
+    "last10words": "IAO 16190793 SpoleAnost je zapsanAA v obchodnAm rejstLAku vedenASm rejstLAkovA m soudem v Praze oddAl C vloLzka 1744 ",
+    "pepca_style_total": 0,
+    "unsub_link_texts": [
+        "reklamni sdeleni e mail zmena e mailovy adresa nebo format newsletteru moct provest tak ze zmena nastaveni newsletteru "
+    ],
+    "header_from": "objednavka@tchibo.cz",
+    "unsub_link_candidates": [
+        "http://www.tchibo.cz/cn/b51aa7d4ff8cc618b0bce8899e6199b2"
+    ],
+    "first10words": " PotvrzenA objednAAvky Tchibo VAALzenAA panA vAALzenA pane dAkujeme za VaLAi objednAAvku",
+    "attachments": [],
+    "word_count": 1762,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/245693.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p105475ad90829e71"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p6b0f051ecf2670da"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "tchibo",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "tchibo",
+                "confidence": 466878580.100501
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "tchibo",
+                "confidence": 5
+            }
+        ],
+        "domain_keywords": "tchibo",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "tchibo",
+        "plain_domain_detail": [
+            {
+                "domain": "tchibo",
+                "confidence": 2
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Potvrzeni objednavky Tchibo",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "unsub_link": "http://www.tchibo.cz/cn/b51aa7d4ff8cc618b0bce8899e6199b2",
+    "phishing": {
+        "ner_domain_detected": true,
+        "5_top_domains_id_0": 0,
+        "5_top_domains_id_1": 0,
+        "5_top_domains_percent_1": 0.5,
+        "5_top_domains_percent_0": 0.5
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "p6b0f051ecf2670da",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

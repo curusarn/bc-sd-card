@@ -1,0 +1,108 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "module": "ill",
+            "score": 1
+        }
+    ],
+    "pepca": "pbb18ec01e678dc72",
+    "first10words": " Vodafone Dobry den Heslo obnovite kliknutim zde Dekuji Vodafone ",
+    "pepca_style": "",
+    "pepca_inline_style": "pad81e768d5c818d3",
+    "word_count": 62,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Obnovit heslo",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1,
+    "phishing": {
+        "5_top_domains_percent_0": 1.0,
+        "5_top_domains_id_0": 0
+    },
+    "header_from": "noreply@vodafone.com",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/2c58443a5d42a5c6d50dd8c4c239d07a.eml",
+    "attachments": [
+        {
+            "size": 2467,
+            "mime_type": "image/png",
+            "flags": 0,
+            "pepca": "peb1138fecb3c3d0d",
+            "cid": "30b70e413429929e992d21ecbb6fec37e0ec473f@zimbra",
+            "cte": "BASE64",
+            "sumphash": "f19761e35c8428c6072a7998d8585a0e",
+            "name": "logo.png"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "peb1138fecb3c3d0d"
+        },
+        {
+            "name": "pepca",
+            "value": "pbb18ec01e678dc72"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pad81e768d5c818d3"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "vodafone",
+        "plain_domain": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 24740698.0637882,
+                "domain": "vodafone"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": " Vodafone Dobry den Heslo obnovite kliknutim zde Dekuji Vodafone ",
+    "lang": "cs"
+}

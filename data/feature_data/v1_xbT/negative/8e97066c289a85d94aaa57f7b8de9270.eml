@@ -1,0 +1,153 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p3d763086268db82f",
+    "last10words": " S pratelskymi pozdravy WineWorld CZ primy dovozce vin z celeho sveta tel 420 273 132 603 email objednavky wineworld cz ",
+    "pepca_style_total": 0,
+    "header_from": "objednavky@wineworld.cz",
+    "first10words": " WineWorld CZ primy dovozce vin z celeho sveta Vazeny zakazniku Vase objednavka je pripravena k os",
+    "attachments": [
+        {
+            "name": "~WRD000.jpg",
+            "cte": "BASE64",
+            "mime_type": "image/jpeg",
+            "cid": "~WRD000.jpg",
+            "size": 823,
+            "flags": 0,
+            "sumphash": "f3c3e3bccbec84e477c5d475b5553680"
+        },
+        {
+            "name": "image001.jpg",
+            "pepca": "p01609e2f94de8d90",
+            "cte": "BASE64",
+            "mime_type": "image/jpeg",
+            "cid": "image001.jpg@01D0185D.2DAD4660",
+            "size": 7707,
+            "flags": 0,
+            "sumphash": "af8ba1044c487c36cd4d96f844db17ac"
+        },
+        {
+            "name": "image002.jpg",
+            "pepca": "p519fe1e9708601a4",
+            "cte": "BASE64",
+            "mime_type": "image/jpeg",
+            "cid": "image002.jpg@01D0185D.2DAD4660",
+            "size": 3007,
+            "flags": 0,
+            "sumphash": "8dbf3fe14cccbd56a32d4b045977bffb"
+        },
+        {
+            "name": "image003.png",
+            "pepca": "p4feb93bdf7bd00b0",
+            "cte": "BASE64",
+            "mime_type": "image/png",
+            "cid": "image003.png@01D0185D.2DAD4660",
+            "size": 1377,
+            "flags": 0,
+            "sumphash": "50cd73cd5b31139c25a121768a638c14"
+        }
+    ],
+    "word_count": 915,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/8e97066c289a85d94aaa57f7b8de9270.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p01609e2f94de8d90"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p519fe1e9708601a4"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p4feb93bdf7bd00b0"
+        },
+        {
+            "name": "pepca",
+            "value": "p3d763086268db82f"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pc78c245c751d2ade"
+        }
+    ],
+    "spamscore": 1.6,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "masterinter",
+                "confidence": 38236843.485264
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "masterinter",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "wineworld",
+        "plain_domain_detail": [
+            {
+                "domain": "wineworld",
+                "confidence": 4
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "RE WineWorld CZ primy dovozce vin z celeho sveta Objednavka 2014000077",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "pc78c245c751d2ade",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id",
+                "long_subject"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1,
+                0.5
+            ],
+            "score": 1.6,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

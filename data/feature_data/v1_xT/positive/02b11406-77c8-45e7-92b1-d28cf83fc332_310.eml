@@ -1,0 +1,149 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging",
+                "foreign_message_id"
+            ],
+            "module": "ill",
+            "score": 1.2
+        }
+    ],
+    "pepca": "p29fa151ae2bae772",
+    "first10words": " Dear PayPal Customer During our regular update and verification of the accounts we couldn t veri",
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "word_count": 348,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Protect Your PayPal Account",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.2,
+    "phishing": {
+        "5_top_domains_percent_0": 1.0,
+        "5_top_domains_id_0": 0
+    },
+    "header_from": "services@paypal.com",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/20051114/310.eml",
+    "attachments": [
+        {
+            "sumphash": "671d4a2c5a423f9d7e142b625ab68c55",
+            "mime_type": "image/gif",
+            "flags": 0,
+            "size": 163,
+            "cid": "93d5d7632861$542b7ce6$1ff208f2@paypal.com",
+            "cte": "BASE64",
+            "name": "i.gif"
+        },
+        {
+            "sumphash": "e0a2b9d7ee0a317356a37181bf7da458",
+            "mime_type": "image/gif",
+            "flags": 0,
+            "size": 126,
+            "cid": "d5a4741b8a99$64c8d422$7df0b4cd@paypal.com",
+            "cte": "BASE64",
+            "name": "iojlsvug.gif"
+        },
+        {
+            "size": 1744,
+            "mime_type": "image/gif",
+            "flags": 0,
+            "pepca": "pd8e1ab51f387bd70",
+            "cid": "26217d50aa79$dd2d6c56$f61110a3@paypal.com",
+            "cte": "BASE64",
+            "sumphash": "0559b9e27562aad056e9a6ccd42db25e",
+            "name": "cdk.gif"
+        },
+        {
+            "sumphash": "5a2ed8e1f121e3c0c0668ead4def6e50",
+            "mime_type": "image/gif",
+            "flags": 0,
+            "size": 43,
+            "cid": "13e788c5a358$e1cf6596$a0c8511c@paypal.com",
+            "cte": "BASE64",
+            "name": "uarsa.gif"
+        },
+        {
+            "sumphash": "665f0541bad9c200e33842fdd7d41f1d",
+            "mime_type": "image/gif",
+            "flags": 0,
+            "size": 42,
+            "cid": "20915ee978b8$03be5cc0$931c479b@paypal.com",
+            "cte": "BASE64",
+            "name": "gctsti.gif"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "pd8e1ab51f387bd70"
+        },
+        {
+            "name": "pepca",
+            "value": "p29fa151ae2bae772"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "paypal"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "paypal",
+        "plain_domain": "paypal",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 948229808.350888,
+                "domain": "paypal"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": " Protect Your Password You should never give your PayPal password to anyone including PayPal employees rw 850 ",
+    "lang": "en"
+}

@@ -1,0 +1,93 @@
+{
+    "phashes": [
+        {
+            "value": "p49c7f036463d9d0f",
+            "name": "pepca"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "indies@indies.eu",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/2984656469263ec71459962965cd5a54.eml",
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "pepca": "p49c7f036463d9d0f",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": " www indies eu en moje bez registrace objednavka 28588 8f5224167491e6b8355c2828422a024e1602ca92665d39f473b15a071ba5b14d20d7c834 Yours indies eu",
+    "subject": "Your Order Vase objednavka na Indies eu",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 24529678.7561,
+                "domain": "antosch-and-lin"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "antosch-and-lin",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "indies",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "indies"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Pekny den radi bychom Vas informovali ze Vase objednavka c 28588 ze dne 15 12 je ve stavu Nova Pro detail kliknete zde http www in",
+    "lang": "en",
+    "pepcatotal": 0,
+    "word_count": 52,
+    "adscore": 0,
+    "spamscore": 1
+}

@@ -1,0 +1,188 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "module": "ill",
+            "score": 1
+        }
+    ],
+    "pepca": "p5f96567eb1d97ea0",
+    "first10words": " Vase objednavka Dekujeme mnohokrat za Vasi objednavku Objednavku jsme prijali a probiha jeji zpracovani Zde je preh",
+    "pepca_style": "",
+    "pepca_inline_style": "p54f1ca36e867b7bf",
+    "word_count": 395,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Vase objednavka 11252 ",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1,
+    "phishing": {
+        "5_top_domains_percent_0": 1.0,
+        "5_top_domains_id_0": 0
+    },
+    "header_from": "objednavky@k-sporting.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/7507cd292938ba107936bf2f71e23f7a.eml",
+    "attachments": [
+        {
+            "size": 3148,
+            "mime_type": "image/gif",
+            "flags": 0,
+            "pepca": "p1bac8c030662bd51",
+            "cid": "cda3307cafbb651426236c63f8b608f4",
+            "cte": "BASE64",
+            "sumphash": "3dd52ee8c85878b4aa9c5867ec013dbf",
+            "name": "image"
+        },
+        {
+            "size": 1568,
+            "mime_type": "image/jpeg",
+            "flags": 0,
+            "pepca": "p27c0f28fc8d1e197",
+            "cid": "cda9ff80fcde41300432d58db3f0b058",
+            "cte": "BASE64",
+            "sumphash": "ef7c55f0ef06c23eef8bc5caaa082481",
+            "name": "image"
+        },
+        {
+            "size": 1309,
+            "mime_type": "image/jpeg",
+            "flags": 0,
+            "pepca": "p4ce22b601898e845",
+            "cid": "cdaf531edb09f82eaa22c3e7281bf8ba",
+            "cte": "BASE64",
+            "sumphash": "a85937d160345ba02f7a88fe3c1ee7b5",
+            "name": "image"
+        },
+        {
+            "size": 2438,
+            "mime_type": "image/jpeg",
+            "flags": 0,
+            "pepca": "p6e805f3bca2e1e2f",
+            "cid": "cda7d0655a694226207f801c971bd417",
+            "cte": "BASE64",
+            "sumphash": "4795550d7f4c2fb956d30417d74e8a8d",
+            "name": "image"
+        },
+        {
+            "size": 2225,
+            "mime_type": "image/jpeg",
+            "flags": 0,
+            "pepca": "p4b961799f5fbe401",
+            "cid": "cdac1513252f79d756417d4b9d4e2eff",
+            "cte": "BASE64",
+            "sumphash": "dc5e2c5e083a9c2480ee99a55641e963",
+            "name": "image"
+        },
+        {
+            "size": 2412,
+            "mime_type": "image/jpeg",
+            "flags": 0,
+            "pepca": "p087eb8d6f0264333",
+            "cid": "cda08a1108b3d1d0a620909e5019c727",
+            "cte": "BASE64",
+            "sumphash": "b12b7231d3aa9f7154d64894ff912a5c",
+            "name": "image"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p1bac8c030662bd51"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p27c0f28fc8d1e197"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p4ce22b601898e845"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p6e805f3bca2e1e2f"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p4b961799f5fbe401"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p087eb8d6f0264333"
+        },
+        {
+            "name": "pepca",
+            "value": "p5f96567eb1d97ea0"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p54f1ca36e867b7bf"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "ksporting"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "masterinter",
+        "plain_domain": "ksporting",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 38236843.485264,
+                "domain": "masterinter"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "k-sporting",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [
+            {
+                "confidence": 1,
+                "domain": "k-sporting"
+            }
+        ],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": " mobil 777300734 777300733 ICO 25433130 DIC CZ25433130 Cislo uctu 233363208 0300 objednavky k sporting cz ",
+    "lang": "cs"
+}

@@ -1,0 +1,108 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pb44c2b8112896b1b",
+    "last10words": "late novinky z programu GOPASS dostavat mozete sa odhlasit kliknutim na tento link 2014 Tatry mountain resorts a s ",
+    "list_unsubscribe_urls": [
+        "info@gopass.sk"
+    ],
+    "header_from": "info@gopass.sk",
+    "contains_list_header": true,
+    "pepcatotal": 0,
+    "attachments": [],
+    "word_count": 345,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/7432a556de35f16a44add5066c0f629b.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pb44c2b8112896b1b"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pa299ee199617f7f2"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "reserved",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "gopass",
+                "confidence": 33198587.2727912
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "reserved",
+                "confidence": 19
+            }
+        ],
+        "domain_keywords": "gopass",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "gopass",
+        "plain_domain_detail": [
+            {
+                "domain": "gopass",
+                "confidence": 2
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "sk",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Potvrdenie registracie a overenie Vasho e mailu",
+    "adscore": 0,
+    "first10words": " Potvrdenie registracie a overenie Vasho e mailu Pokial sa Vam tento email nezobrazil spravne kliknite sem ",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "pa299ee199617f7f2",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1,
+    "pepca_style_total": 0
+}

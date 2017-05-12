@@ -1,0 +1,102 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p1eb8fb89aaea38e5",
+    "last10words": " seznam cz Heslo ZD5Pceov URL e shopu http www BEAUTY STORE cz Dekujeme za vasi registraci Tym BEAUTY STORE cz ",
+    "pepca_style_total": 0,
+    "header_from": "info@BSpro.cz",
+    "first10words": " Obnova hesla Obnova hesla Vase heslo bylo obnoveno nasleduji Vase nove prihlasovaci udaje Uzivatelske jmeno mirind",
+    "attachments": [],
+    "word_count": 35,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/b76d3420d1b3d0852fa4cf57d963781e.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p1eb8fb89aaea38e5"
+        }
+    ],
+    "spamscore": 1.2,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "topsrovnani",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "retel",
+                "confidence": 9148135.99836
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "topsrovnani",
+                "confidence": 1
+            }
+        ],
+        "domain_keywords": "retel",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "beauty-store",
+        "plain_domain_detail": [
+            {
+                "domain": "beauty-store",
+                "confidence": 2
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Nove heslo na BEAUTY STORE CZ",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1,
+                0.1
+            ],
+            "score": 1.2,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

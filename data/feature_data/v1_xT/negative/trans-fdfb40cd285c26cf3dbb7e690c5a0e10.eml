@@ -1,0 +1,125 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "module": "ill",
+            "score": 1.1
+        }
+    ],
+    "pepca": "p305b8aad00d19b50",
+    "first10words": " Puvodni zprava Od Michal Zlamal zlamal yshop cz Komu INFO MOTOSPORTS CZ Datum 13 1 2015 15 17 12 Predmet ob",
+    "pepca_style": "",
+    "pepca_inline_style": "p9a2b98a0a352279a",
+    "word_count": 242,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Fwd objednavka",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.1,
+    "phishing": {},
+    "header_from": "Jipse@seznam.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/trans-fdfb40cd285c26cf3dbb7e690c5a0e10.eml",
+    "attachments": [
+        {
+            "sumphash": "dc5b5ace27d0916fed08dfee55dd0748",
+            "mime_type": "image/gif",
+            "flags": 0,
+            "size": 0,
+            "cid": "image001.gif@01D02F43.FDA556D0",
+            "cte": "BASE64",
+            "name": "image001.gif"
+        },
+        {
+            "sumphash": "dc5b5ace27d0916fed08dfee55dd0748",
+            "mime_type": "application/pdf",
+            "flags": 0,
+            "size": 0,
+            "cid": "m14ae3b8bc95m2b6f",
+            "cte": "BASE64",
+            "name": "OBV1500031.pdf"
+        },
+        {
+            "sumphash": "dc5b5ace27d0916fed08dfee55dd0748",
+            "mime_type": "application/pdf",
+            "flags": 0,
+            "size": 0,
+            "cid": "m14ae3b8bc95m2b70",
+            "cte": "BASE64",
+            "name": "OBV1500055.pdf"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p305b8aad00d19b50"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p9a2b98a0a352279a"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "yshop"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "masterinter",
+        "plain_domain": "yshop",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 38236843.485264,
+                "domain": "masterinter"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": " 420 225 110 120 e mail Michal Zlamal yshop cz ",
+    "lang": "cs"
+}

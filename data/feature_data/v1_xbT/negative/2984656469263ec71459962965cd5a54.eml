@@ -1,0 +1,93 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p49c7f036463d9d0f",
+    "last10words": " www indies eu en moje bez registrace objednavka 28588 8f5224167491e6b8355c2828422a024e1602ca92665d39f473b15a071ba5b14d20d7c834 Yours indies eu",
+    "pepca_style_total": 0,
+    "header_from": "indies@indies.eu",
+    "first10words": " Pekny den radi bychom Vas informovali ze Vase objednavka c 28588 ze dne 15 12 je ve stavu Nova Pro detail kliknete zde http www in",
+    "attachments": [],
+    "word_count": 52,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/2984656469263ec71459962965cd5a54.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p49c7f036463d9d0f"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "antosch-and-lin",
+                "confidence": 24529678.7561
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "antosch-and-lin",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "indies",
+        "plain_domain_detail": [
+            {
+                "domain": "indies",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "en",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Your Order Vase objednavka na Indies eu",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

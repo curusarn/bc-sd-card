@@ -1,0 +1,117 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "images_in_subject"
+            ],
+            "module": "ill",
+            "score": 2
+        }
+    ],
+    "pepca": "p39a0bbc373e4075d",
+    "first10words": " Heslo k Vasemu uctu bylo zmeneno Pokud to provedli Vy jednoduse ignorujte tento dopis Pokud nejste to Vy kd",
+    "pepca_style": "p306f7fec2202716b",
+    "pepca_inline_style": "p90088aaeae995df9",
+    "word_count": 86,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": " Heslo k Vasemu uctu bylo zmeneno ",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 2,
+    "precedence": 3,
+    "phishing": {},
+    "header_from": "noreply@topface.com",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/27788f8b9428d123dff125bc744508f7.eml",
+    "attachments": [],
+    "last10words": "e to Vy kdo zmenili heslo pak ho muzete obnovit po prihlaseni do aplikace Prejit na Topface ",
+    "adscore": 5,
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p39a0bbc373e4075d"
+        },
+        {
+            "name": "pepca_style",
+            "value": "p306f7fec2202716b"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p90088aaeae995df9"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "dmnotify",
+        "plain_domain": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 6142760.06902,
+                "domain": "dmnotify"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "topface",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [
+            {
+                "confidence": 1,
+                "domain": "topface"
+            }
+        ],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "contains_list_header": true,
+    "list_unsubscribe_urls": [
+        "mailto:unsubscribe_87233078_1414822279_ddd15cd_passwordChanged@topface.com?subject=VW5zdWJzY3JpYmUgbWUh"
+    ],
+    "adNotches": [
+        {
+            "subscores": [
+                5
+            ],
+            "name": [
+                "images_in_subject"
+            ],
+            "module": "ill",
+            "score": 5
+        }
+    ],
+    "lang": "cs"
+}

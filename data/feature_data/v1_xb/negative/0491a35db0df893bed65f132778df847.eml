@@ -1,0 +1,114 @@
+{
+    "phashes": [
+        {
+            "value": "p9897f08635dd01ef",
+            "name": "pepca"
+        },
+        {
+            "value": "pec19996586f20adc",
+            "name": "pepca_style"
+        },
+        {
+            "value": "pdce55b3e214f9b95",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "email@tenthousandhours.messages3.com",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/0491a35db0df893bed65f132778df847.eml",
+    "attachments": [],
+    "contains_list_header": true,
+    "last10words": "d by Click Laboratories Ltd Company Number 7942825 Registered Office Parallel House 32 London Road Guildford Surrey GU1 2AB ",
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1,
+                0.1
+            ],
+            "score": 1.2
+        }
+    ],
+    "phishing": {
+        "ner_domain_detected": true
+    },
+    "pepca_style": "pec19996586f20adc",
+    "pepca": "p9897f08635dd01ef",
+    "subject": "Try your complimentary copy today ",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 5,
+                "domain": "theweek"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 376011517.899084,
+                "domain": "aweber"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "theweek",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "aweber",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "adsalsa",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "adsalsa"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "pdce55b3e214f9b95",
+    "list_unsubscribe_urls": [
+        "mailto:v-beppldo_bdjkigahci_bmmeimhk_bmmeimhk_a@bounce.tenthousandhours.mkt6472.com?subject=Unsubscribe"
+    ],
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Untitled Document If you are unable to see the message below click here to view You received this e mail ",
+    "lang": "en",
+    "pepcatotal": 0,
+    "word_count": 529,
+    "adscore": 0,
+    "spamscore": 1.2
+}

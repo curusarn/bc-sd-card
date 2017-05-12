@@ -1,0 +1,143 @@
+{
+    "phashes": [
+        {
+            "value": "p060a7dfe201bd0fd",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p4b1498826a8cfbf7",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p4fd37f7048ea1900",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p6b123e2e1bf5e857",
+            "name": "pepca"
+        },
+        {
+            "value": "pa0c352d3359e30aa",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "Marek.Rysavy@CZ.nestle.com",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/c22b9a1565e9dab7126a2b8cbb9cc8a7.eml",
+    "attachments": [
+        {
+            "size": 20919,
+            "name": "image001.png",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "image001.png@01D0185D.2D9C7D80",
+            "sumphash": "603f64e2969a5ba4ee2864a08bb1df1a",
+            "pepca": "p060a7dfe201bd0fd",
+            "mime_type": "image/png"
+        },
+        {
+            "size": 1927,
+            "name": "image003.jpg",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "image003.jpg@01D0185D.2DAF6940",
+            "sumphash": "8a74a6de3b93068751d5609c209163ff",
+            "pepca": "p4b1498826a8cfbf7",
+            "mime_type": "image/jpeg"
+        },
+        {
+            "first10words": "Dokument Kodex Nestle Dodavatele shrnuje podminky podnikatelskeho chovani ktere od",
+            "name": "PO.pdf",
+            "mime_type": "application/pdf",
+            "cte": "BASE64",
+            "flags": 0,
+            "lang": "cs",
+            "cid": "F8A1FE9C4B14424F971584BF50ED959C@nestle.com",
+            "size": 70617,
+            "pepca": "p4fd37f7048ea1900",
+            "sumphash": "82df6841f7e576b3000951aa7275b7ce"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "pepca": "p6b123e2e1bf5e857",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": " Please consider your environmental responsibility before printing this e mail A A A ",
+    "subject": "Objednavka Nestle4546088486",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 114565814.992,
+                "domain": "clamav"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "clamav",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "nestle",
+        "plain_domain_detail": [
+            {
+                "confidence": 2,
+                "domain": "nestle"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "pa0c352d3359e30aa",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " A A Marek Rysavy Mistr elektroudrzby Electro Maitenance Zora Factory ",
+    "resent": true,
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 531,
+    "adscore": 0,
+    "spamscore": 1
+}

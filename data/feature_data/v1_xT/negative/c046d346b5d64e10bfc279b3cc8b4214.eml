@@ -1,0 +1,107 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "module": "ill",
+            "score": 1.1
+        }
+    ],
+    "pepca": "p64983506ec49d175",
+    "first10words": " Jen male upresneni roku samozrejme tento rok 2014 prepisovala jsem pouze drivejsi mail Puvodni zprava ",
+    "pepca_style": "",
+    "pepca_inline_style": "p917067ce59f52a6a",
+    "word_count": 147,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Fwd Objednavka dortu",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.1,
+    "phishing": {},
+    "header_from": "BednarovaVeronika1@seznam.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/c046d346b5d64e10bfc279b3cc8b4214.eml",
+    "attachments": [
+        {
+            "size": 22223,
+            "mime_type": "image/jpeg",
+            "flags": 0,
+            "pepca": "pb5f3bebcdc3d947f",
+            "cid": "m14a4d8c9642m61b",
+            "cte": "BASE64",
+            "sumphash": "6bf14f43d9cb2a63b1f81a97bcdfa921",
+            "name": "dort ko\u010dka.jpg"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "pb5f3bebcdc3d947f"
+        },
+        {
+            "name": "pepca",
+            "value": "p64983506ec49d175"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p917067ce59f52a6a"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "elektro-obojky",
+        "plain_domain": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 2926154.69879,
+                "domain": "elektro-obojky"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "otazy nevahejte mne kontaktovat zpet Krejcova Veronika tel 724 750 158 ",
+    "lang": "cs"
+}

@@ -1,0 +1,104 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "peefcced8dea6c59f",
+    "last10words": "rijata Dekujeme za nakup Tento email byl vygenerovan automaticky neodpovidejte na nej 2010 HS SPORT cz Martin Schliegsbir ",
+    "pepca_style_total": 0,
+    "header_from": "obchod@hs-sport.cz",
+    "first10words": " Objednavka c 8880002521 byla prijata Dobry den Vase objednavka byla prijata Dekujeme za nakup Tento email b",
+    "attachments": [
+        {
+            "name": "8880002521.html",
+            "pepca": "pcba6af253476eadc",
+            "cte": "BASE64",
+            "mime_type": "text/html",
+            "size": 6298,
+            "flags": 0,
+            "sumphash": "7583511065a7f0dfb7e8fee8beecd6ae"
+        }
+    ],
+    "word_count": 29,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/f67997b2ad78bccb468929212540b058.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "pcba6af253476eadc"
+        },
+        {
+            "name": "pepca",
+            "value": "peefcced8dea6c59f"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "mall",
+                "confidence": 2562235.2660722
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "mall",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Fwd Objednavka c 8880002521 byla prijata",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

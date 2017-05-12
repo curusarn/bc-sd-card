@@ -1,0 +1,107 @@
+{
+    "phashes": [
+        {
+            "value": "p72bf2a438ee45110",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pcefe6d703b776c1f",
+            "name": "pepca"
+        },
+        {
+            "value": "p28c2802be9c4568b",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "lhtxgeehfa@peoples-insurance.com",
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing0/323.eml",
+    "attachments": [
+        {
+            "size": 7515,
+            "name": "image001.gif",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "image001.gif@01C49B7B.FBDC7BB0",
+            "sumphash": "51ae3fc3c967882f5bd9ec9932e4ba25",
+            "pepca": "p72bf2a438ee45110",
+            "mime_type": "image/gif"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "pepca": "pcefe6d703b776c1f",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": "on GnuPG v1 0 7 GNU Linux iD8DBQFBSI5pmqjQ0CJFipgRAlxGAKCpPrt7 HB5YroIdx5J84y6E5opeQCg49dn NHBQlfivIH fWpgnCv9 jVY ui8Y END PGP SIGNATURE ",
+    "subject": "We cannot cancel your payment N3199429344",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 4527295.57326596,
+                "domain": "madmimi"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "madmimi",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p28c2802be9c4568b",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " BEGIN PGP SIGNATURE Version GnuPG v1 0 7 GNU Linux iD8DBQFBSI5pmqjQ0CJFipgRAlxGAKCpPrt7 HB5YroIdx5J84y6E",
+    "lang": "en",
+    "pepcatotal": 0,
+    "word_count": 34,
+    "adscore": 0,
+    "spamscore": 1
+}

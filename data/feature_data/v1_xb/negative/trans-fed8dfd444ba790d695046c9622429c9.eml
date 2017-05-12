@@ -1,0 +1,111 @@
+{
+    "phashes": [
+        {
+            "value": "p9174a25edb4b3dda",
+            "name": "pepca"
+        },
+        {
+            "value": "p68a40ec47703a6f4",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "info@euronics.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/trans-fed8dfd444ba790d695046c9622429c9.eml",
+    "unsub_link_candidates": [
+        "http://www.euronics.cz/obchodni-podminky/t-82/"
+    ],
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "pepca": "p9174a25edb4b3dda",
+    "phishing": {
+        "ner_domain_detected": true
+    },
+    "pepca_style": "",
+    "last10words": " 00 20 00 Provozovatel obchodu HP TRONIC Zlin spol s r o Prstne Kutiky 637 Zlin PSC 760 01 IC 49973053 DIC CZ49973053 ",
+    "subject": "Vyzva k odberu zbozi z objednavky rezervace cislo 1700124847",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 1,
+                "domain": "euronics"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 209221599.292258,
+                "domain": "euronics"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "euronics",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "euronics",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "euronics",
+        "plain_domain_detail": [
+            {
+                "confidence": 2,
+                "domain": "euronics"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p68a40ec47703a6f4",
+    "unsub_link_texts": [
+        "vic naleznout v obchodni podminka pro rezervace a osobni odber zbozi na prodejna euronics zde "
+    ],
+    "unsub_link": "http://www.euronics.cz/obchodni-podminky/t-82/",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Cislo objednavky 1700124847 Vazeny zakazniku zbozi z Vasi objednavky rezervace cislo 1700124847 je prip",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 445,
+    "adscore": 0,
+    "spamscore": 1.1
+}

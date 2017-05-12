@@ -1,0 +1,98 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p59531a0d91df8974",
+    "last10words": " 0x6 0x2 0x5512 0x11 0x54 0x64 0x2988 0x18 0x2075 0x59 0x5 0x15204290 0x91834259 0x70 0x93 0x86 XBJ type 2LX5 0x463 0x62006606 ",
+    "pepca_style_total": 0,
+    "header_from": "serviceteam.refXB48961204625GT.nf@mandtbank.com",
+    "first10words": " Dear M T Bank customer Manufacturers and Traders Client Service Team requests you to complete WebINFOCU Form This proc",
+    "attachments": [],
+    "word_count": 334,
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/686.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p59531a0d91df8974"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "mcsv",
+                "confidence": 35989542.0734811
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "mcsv",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "en",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "M T Bank Important Notice ",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": true,
+        "5_top_domains_id_1": 0,
+        "5_top_domains_percent_1": 0.3333333333333333,
+        "5_top_domains_percent_3": 0.16666666666666666,
+        "5_top_domains_id_0": 1,
+        "5_top_domains_percent_0": 0.3333333333333333,
+        "5_top_domains_id_2": 0,
+        "5_top_domains_percent_2": 0.16666666666666666,
+        "5_top_domains_id_3": 0
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

@@ -1,0 +1,121 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pad172076a24fbb0b",
+    "last10words": "am Maciej Zielinski Pal Christian Mortensen James Deeny Spolecnost zapsana v OR vedenem Mestskym soudem v Praze oddil C vlozka 146644 ",
+    "pepca_style_total": 0,
+    "unsub_link_texts": [
+        " vseobecny obchodny podminka "
+    ],
+    "header_from": "info@narodnipokladnice.cz",
+    "unsub_link_candidates": [
+        "http://www.narodnipokladnice.cz/obchodnipodminky"
+    ],
+    "first10words": " Zaslani hesla ze stranek Narodni Pokladnice V pripade jakychkoliv dotazu volejte 810 100 500 Posilame Vam ",
+    "attachments": [
+        {
+            "name": "3feffdaa2f5734e04bf7d3e1400351f2.png",
+            "pepca": "pcd95ccf009646980",
+            "cte": "BASE64",
+            "mime_type": "image/png",
+            "cid": "3feffdaa2f5734e04bf7d3e1400351f2",
+            "size": 3205,
+            "flags": 0,
+            "sumphash": "f474daabb54a7e463c4b7e13922e53e5"
+        }
+    ],
+    "word_count": 211,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/b00096331e963247b38a526592553706.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "pcd95ccf009646980"
+        },
+        {
+            "name": "pepca",
+            "value": "pad172076a24fbb0b"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pe170876f92060b93"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "narodnipokladnice",
+                "confidence": 20468565.849272
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "narodnipokladnice",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "narodnipokladnice",
+        "plain_domain_detail": [
+            {
+                "domain": "narodnipokladnice",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Zaslani hesla Narodni Pokladnice",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "unsub_link": "http://www.narodnipokladnice.cz/obchodnipodminky",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "pe170876f92060b93",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

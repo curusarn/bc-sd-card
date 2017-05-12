@@ -1,0 +1,94 @@
+{
+    "phashes": [
+        {
+            "value": "p483b7bdf1e2af0f3",
+            "name": "pepca"
+        },
+        {
+            "value": "p301bbfad4886fabc",
+            "name": "pepca_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "noreply@top-europe.com",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/908a5f05b321e279d0af84c3e5204dee.eml",
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "long_subject"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.5
+            ],
+            "score": 1.5
+        }
+    ],
+    "pepca": "p483b7bdf1e2af0f3",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "p301bbfad4886fabc",
+    "last10words": "zbytna minimalni vyse 0 kreditu na Vase ucte Dekujeme za vyuziti sluzeb nasich portalu TOP EUROPE business portals ",
+    "subject": "Potvrzeni prijeti zadosti o zruseni registrace na portalech TOP EUROPE top firma cz",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 5550659.8302495,
+                "domain": "em-agency"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "em-agency",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Potvrzeni prijeti zadosti o zruseni registrace 1328001777 na vsech portalech TOP EUROPE Vazeny uzivateli Rogl tim",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 85,
+    "adscore": 0,
+    "spamscore": 1.5
+}

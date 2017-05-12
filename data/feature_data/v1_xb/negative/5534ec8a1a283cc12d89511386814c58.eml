@@ -1,0 +1,111 @@
+{
+    "phashes": [
+        {
+            "value": "p1727431695b746bc",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p8c43d56912090111",
+            "name": "pepca"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "radmila.pikova@haberkorn.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/5534ec8a1a283cc12d89511386814c58.eml",
+    "attachments": [
+        {
+            "first10words": "Http www haberkorn cz e mail ceske budejovice haberkorn cz",
+            "size": 115212,
+            "mime_type": "application/pdf",
+            "cte": "BASE64",
+            "flags": 0,
+            "lang": "cs",
+            "name": "Pavel Toman.pdf",
+            "pepca": "p1727431695b746bc",
+            "sumphash": "ade100d36c6ed7f31c9f0d3e46470c59"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "pepca": "p8c43d56912090111",
+    "phishing": {
+        "ner_domain_detected": true
+    },
+    "pepca_style": "",
+    "last10words": " znovu vyrizovat dne 5 1 2015 Kompletni prehled provozni doby cele nasi spolecnosti naleznete zde Dekujeme za pochopeni ",
+    "subject": "Faktura",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 10509116.955928,
+                "domain": "haberkorn"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "haberkorn",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "haberkorn",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "haberkorn"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Dobry den zasilam pozadovany doklad S pratelskym pozdravem Radmila PIKOVA Ekonomicke oddeleni Fakturace ",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 103,
+    "adscore": 0,
+    "spamscore": 1.1
+}

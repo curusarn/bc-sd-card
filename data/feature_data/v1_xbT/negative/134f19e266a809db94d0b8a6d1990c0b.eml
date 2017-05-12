@@ -1,0 +1,97 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p5ea4c8f0f73caec1",
+    "last10words": "Facebooku a budte vzdy vcas informovani o slevach a novinkach Dekujeme a prejeme Vam hezky den Pekny domov www pekny domov cz ",
+    "pepca_style_total": 0,
+    "header_from": "info@pekny-domov.cz",
+    "first10words": " Dobry den dekujeme za Vasi registraci v internetovem obchode Pekny domov Vase prihlasovaci jmeno je dino zubik seznam cz V",
+    "attachments": [],
+    "word_count": 74,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/134f19e266a809db94d0b8a6d1990c0b.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p5ea4c8f0f73caec1"
+        },
+        {
+            "name": "pepca_style",
+            "value": "p71fae6c606b388b1"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "domov-beroun",
+                "confidence": 2399278.532424
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "domov-beroun",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "pekny-domov",
+        "plain_domain_detail": [
+            {
+                "domain": "pekny-domov",
+                "confidence": 3
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "potvrzeni registrace www pekny domov cz",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "p71fae6c606b388b1",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

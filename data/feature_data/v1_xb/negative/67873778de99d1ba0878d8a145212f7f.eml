@@ -1,0 +1,106 @@
+{
+    "phashes": [
+        {
+            "value": "p2b776cbfffacb019",
+            "name": "pepca"
+        },
+        {
+            "value": "p1a3721099f522619",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "recepce@fithanybany-komin.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/67873778de99d1ba0878d8a145212f7f.eml",
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "pepca": "p2b776cbfffacb019",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": "no 624 00 e mail recepce fithanybany komin cz tel 420 739 497 620 www fithanybany komin cz F acebook hany bany Komin ",
+    "subject": "Vygenerovane nove heslo",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 2.14285714285714,
+                "domain": "fithanybany-komin"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 8457356.704014,
+                "domain": "magnetpro"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "fithanybany-komin",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "magnetpro",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "fithanybany-komin",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "fithanybany-komin"
+            },
+            {
+                "confidence": 1,
+                "domain": "fitsystem"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p1a3721099f522619",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Dobry den na serveru hanybany komin fitsystem cz Vam bylo vygenerovane nove heslo a to Heslo KlIwIUgU Prihlasit se tedy ",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 67,
+    "adscore": 0,
+    "spamscore": 1
+}

@@ -1,0 +1,116 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "missing_message_id"
+            ],
+            "module": "ill",
+            "score": 2
+        }
+    ],
+    "pepca": "p9417323b66c6fc9c",
+    "first10words": " Vase heslo na SoccerProjectu Vase heslo na SoccerProjectu Ahoj Nekdo pravdepodobne Vy zazadal o za",
+    "pepca_style": "",
+    "pepca_inline_style": "p82d1c1deefe0077b",
+    "word_count": 85,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": " SoccerProject VaA e heslo na SoccerProjectu",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 2,
+    "phishing": {},
+    "header_from": "noreply@soccerproject.com",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/484aa5b9bddeb5af7aa0e437d7c428d8.eml",
+    "attachments": [
+        {
+            "sumphash": "94e6f3e3bed2b5b60b724142a2922d0f",
+            "mime_type": "image/gif",
+            "flags": 0,
+            "size": 220,
+            "cid": "9ef0255ef848fa7f385f4c3a86b07cc1",
+            "cte": "BASE64",
+            "name": "bar.gif"
+        },
+        {
+            "sumphash": "dc5b5ace27d0916fed08dfee55dd0748",
+            "mime_type": "image/gif",
+            "flags": 0,
+            "size": 0,
+            "cid": "f8bd32951c2b6bd4d6b2a3d87c5728a5",
+            "cte": "BASE64",
+            "name": "bg.gif"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p9417323b66c6fc9c"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p82d1c1deefe0077b"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "soccerproject"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "soccerproject",
+        "plain_domain": "soccerproject",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 12518908.049715,
+                "domain": "soccerproject"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "ctou SoccerProject Team www soccerproject com SoccerProject je onlinovy fotbalovy manazer zdarma Zvladnete ovladat vlstni tym ",
+    "lang": "cs"
+}

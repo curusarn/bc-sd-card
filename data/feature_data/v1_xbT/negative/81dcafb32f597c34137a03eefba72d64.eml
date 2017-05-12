@@ -1,0 +1,99 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p175c96e914f16d83",
+    "last10words": " http www evropska seznamka cz Abum cz s r o Polivkova 5a Olomouc 77900 ICO 26851938 e mail info evropska seznamka cz ",
+    "pepca_style_total": 1,
+    "header_from": "info@evropska-seznamka.cz",
+    "first10words": " evropska seznamka cz odkaz pro zmenu hesla Vazena klientko zazadala jste o zaslani vaseho zapomenuteho hesla po k",
+    "attachments": [],
+    "word_count": 112,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/81dcafb32f597c34137a03eefba72d64.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p175c96e914f16d83"
+        },
+        {
+            "name": "pepca_style",
+            "value": "pd0f32f17d6582dff"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "seznamka",
+                "confidence": 103122319.628
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "seznamka",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "evropska-seznamka",
+        "plain_domain_detail": [
+            {
+                "domain": "evropska-seznamka",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "evropska seznamka cz odkaz pro zmenu hesla",
+    "adscore": 0,
+    "pepcatotal": 1,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "pd0f32f17d6582dff",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

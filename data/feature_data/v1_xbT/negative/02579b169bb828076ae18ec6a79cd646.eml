@@ -1,0 +1,116 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pa3044c17fb73b121",
+    "last10words": "d rejstriku pod cislem HRB 115958 obvodni soud Berlin Charlottenburg USt ID DE263260611 Kontaktujte info edarling cz ",
+    "pepca_style_total": 0,
+    "unsub_link_texts": [
+        " kliknout zde "
+    ],
+    "header_from": "info@news.edarling.cz",
+    "contains_list_header": true,
+    "first10words": " eDarling Newsletter Vas prvni krok k seznameni Verze pro web ",
+    "attachments": [],
+    "word_count": 1859,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/02579b169bb828076ae18ec6a79cd646.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pa3044c17fb73b121"
+        },
+        {
+            "name": "pepca_style",
+            "value": "p762d243f30736bc8"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p6d03f61de2ebccc6"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "edarling",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "edarling",
+                "confidence": 264634119.696816
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "edarling",
+                "confidence": 15
+            }
+        ],
+        "domain_keywords": "edarling",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "edarling",
+        "plain_domain_detail": [
+            {
+                "domain": "edarling",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Blahoprejeme k Vasi uspesne registraci ",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "unsub_link": "http://news.edarling.cz/c/r?ACTION=ri&EMID=09004H6015UC5008SQ8EC&UID=JTPB34LVPRR537OP2XGA",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "p762d243f30736bc8",
+    "unsub_link_candidates": [
+        "http://news.edarling.cz/c/r?ACTION=ri&EMID=09004H6015UC5008SQ8EC&UID=JTPB34LVPRR537OP2XGA"
+    ],
+    "pepca_inline_style": "p6d03f61de2ebccc6",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

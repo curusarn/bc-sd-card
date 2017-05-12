@@ -1,0 +1,108 @@
+{
+    "pepca_inline_style_total": 1,
+    "pepca": "pdf9fd67b3db42437",
+    "last10words": "e heslo vzpomneli nebo jste o obnoveni nezadali tento e mail prosim ignorujte Vas tym Jobs cz ",
+    "list_unsubscribe_urls": [
+        "null"
+    ],
+    "header_from": "heslo@jobs.cz",
+    "contains_list_header": true,
+    "pepcatotal": 1,
+    "attachments": [],
+    "word_count": 105,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/370415c65b22d77b36b12eff5a288d45.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pdf9fd67b3db42437"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p31ba45ee55983f6f"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "jobs",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "cv-library",
+                "confidence": 20295977.7124
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "jobs",
+                "confidence": 4
+            }
+        ],
+        "domain_keywords": "cv-library",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "jobs",
+        "plain_domain_detail": [
+            {
+                "domain": "jobs",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Muj Jobs Obnoveni hesla",
+    "adscore": 0,
+    "first10words": " Dobry den na Muj Jobs jste si vyzadali zaslani odkazu pro obnoveni hesla Po stisknuti Obnovit heslo ",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "p31ba45ee55983f6f",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1,
+    "pepca_style_total": 0
+}

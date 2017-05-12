@@ -1,0 +1,111 @@
+{
+    "phashes": [
+        {
+            "value": "p60c12efd8c63ecb5",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p1cdf86ca07638484",
+            "name": "pepca"
+        },
+        {
+            "value": "pf4aa86b51a4e1b04",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "pytlic.eko@seznam.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/69f96dca8b84012266e275db324ca7c7.eml",
+    "attachments": [
+        {
+            "first10words": "Visual FoxPro CISLO ZBOZI NAZEV MNOZSTVI MJ CENA MJ DPH",
+            "name": "FO 2014114.PDF",
+            "mime_type": "application/pdf",
+            "cte": "BASE64",
+            "flags": 0,
+            "lang": "cs",
+            "cid": "m14a4d909b1em1345",
+            "size": 69600,
+            "pepca": "p60c12efd8c63ecb5",
+            "sumphash": "c44a288c522ac490b89c1df5b765f0fd"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "pepca": "p1cdf86ca07638484",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": "4 Lenka Krenkova 775 100 464 FT Stavby s r o Lenka Krenkova 775 100 464 FT Stavby s r o ",
+    "subject": "Re Faktura vydana poznamka",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 41813719.12404,
+                "domain": "bonuszbrigad"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "bonuszbrigad",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "pf4aa86b51a4e1b04",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " tak snad konecne dneska jsem jak telefonni ustredna Puvodni zprava ",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 153,
+    "adscore": 0,
+    "spamscore": 1.1
+}

@@ -1,0 +1,111 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging",
+                "foreign_message_id"
+            ],
+            "module": "ill",
+            "score": 1.2
+        }
+    ],
+    "pepca": "p56f85f4ccc5e28f3",
+    "first10words": " Potvrzeni registrace uzivatelskeho uctu Touto emailovou zpravou potvrzujeme registraci Vaseho uzivatelskeho uctu na internetov",
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "word_count": 80,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Potvrzeni registrace",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.2,
+    "phishing": {},
+    "header_from": "no-reply@nova.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/0dc9500b662c6385c4ed776235567ce2.eml",
+    "attachments": [],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p56f85f4ccc5e28f3"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 2,
+                "domain": "blog"
+            },
+            {
+                "confidence": 2,
+                "domain": "galerie"
+            },
+            {
+                "confidence": 1,
+                "domain": "voyo"
+            },
+            {
+                "confidence": 4,
+                "domain": "nova"
+            },
+            {
+                "confidence": 1,
+                "domain": "tn"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "cme-network",
+        "plain_domain": "blog",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 31165594.9323755,
+                "domain": "cme-network"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": " http tv nova cz registrace aktivace uctu mpetrkova dae0fbfa994271465e52faf5b19427e0efbc0c6d confirm c0f6cce25c8be00755a33c13b907961eefb4020b ",
+    "lang": "cs"
+}

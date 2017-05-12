@@ -1,0 +1,90 @@
+{
+    "phashes": [
+        {
+            "value": "p6d036f66d57a91ab",
+            "name": "pepca"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "no-reply@scratch.mit.edu",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/62d30ba442d7c855218f90fa186e7ded.eml",
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "pepca": "p6d036f66d57a91ab",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": "eset 34mfq 3wb 226aa6bbcb922354a538 Pro jistotu vase uzivatelske jmeno terka12 Dekujeme za pouzivani naseho webu Tym aplikace Scratch",
+    "subject": "Obnoveni hesla na webu Scratch",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 5551590.10461,
+                "domain": "dobraprace"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "dobraprace",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Obdrzeli jste tento e mail protoze byl vyzadan reset hesla pro vase uzivatelske jmeno na Scratch Prejdete na nasledujici stranku ",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 33,
+    "adscore": 0,
+    "spamscore": 1.1
+}

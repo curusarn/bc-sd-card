@@ -1,0 +1,103 @@
+{
+    "phashes": [
+        {
+            "value": "p38f1ec90357019c5",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pfe98ccf747e14f92",
+            "name": "pepca"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "accounts-id320953685563254ib@bbt.com",
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/1696.eml",
+    "attachments": [
+        {
+            "size": 7975,
+            "name": "berman.gif",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "O4YDCP1F2T",
+            "sumphash": "f5391948729349918379d32e66022d42",
+            "pepca": "p38f1ec90357019c5",
+            "mime_type": "image/gif"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "pepca": "pfe98ccf747e14f92",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": "ll most of the paper out of her mouth and throat and had gotten out through Paul s window while Paul was sleeping the sleep of drugs assiduity ",
+    "subject": "BB T Account Secure Confirmation",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 81057872.79353,
+                "domain": "aweber"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "aweber",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " I CAN awoke congratulate Maybe there was a queer sort of truth in that When it was just a game and even if they gave yo",
+    "lang": "en",
+    "pepcatotal": 0,
+    "word_count": 175,
+    "adscore": 0,
+    "spamscore": 1
+}

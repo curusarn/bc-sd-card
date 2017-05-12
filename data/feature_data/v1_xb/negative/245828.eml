@@ -1,0 +1,154 @@
+{
+    "phashes": [
+        {
+            "value": "p4974af568e8736bc",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p3cc70a837f7fb981",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p18b18afb46619f1f",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p7072059f2fb5a8ee",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pbeb233dfb9ceb1c0",
+            "name": "pepca"
+        },
+        {
+            "value": "pe0fc98f11d2bbbcf",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "info@decoDoma.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/245828.eml",
+    "attachments": [
+        {
+            "size": 5993,
+            "name": "image",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "07ee58ec4446d89358de93c8adcf63da",
+            "sumphash": "ebe87ef44f3480e4ebf9f780792466be",
+            "pepca": "p4974af568e8736bc",
+            "mime_type": "image/gif"
+        },
+        {
+            "size": 17684,
+            "name": "image",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "07e546eaccfaee643e1b054c05e3e34d",
+            "sumphash": "192e8007fbb3c369a3da02dad97f2aa3",
+            "pepca": "p3cc70a837f7fb981",
+            "mime_type": "image/jpeg"
+        },
+        {
+            "size": 5379,
+            "name": "image",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "07e34f50012cb893e265e75aba14fc22",
+            "sumphash": "28263da5bcb48982058aa1060462788f",
+            "pepca": "p18b18afb46619f1f",
+            "mime_type": "image/jpeg"
+        },
+        {
+            "size": 6193,
+            "name": "image",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "07e75a0ea3f3b2a1b16b775e90768e5a",
+            "sumphash": "0731ede181b1127822ecd6bc8eeddb0f",
+            "pepca": "p7072059f2fb5a8ee",
+            "mime_type": "image/jpeg"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "pepca": "pbeb233dfb9ceb1c0",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": "i Jmeno a prijmeni kupujiciho Adresa kupujiciho V dne Podpis ",
+    "subject": "Potvrzeni prijeti objednavky 34673 ",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 1032394774.10213,
+                "domain": "masterinter"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "masterinter",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "decodoma",
+        "plain_domain_detail": [
+            {
+                "confidence": 2,
+                "domain": "decodoma"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "pe0fc98f11d2bbbcf",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Potvrzeni prijeti objednavky Dekujeme mnohokrat za Vasi objednavku Objednavku jsme prijali a probiha jeji zpracovani ",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 3288,
+    "adscore": 0,
+    "spamscore": 1
+}

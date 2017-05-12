@@ -1,0 +1,101 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p088b45c8f0729252",
+    "last10words": "qePqCfJ9gnzh54QXJX V opacnem pripade tento mail ignoruj S pozdravem tym itnetwork cz 2014 itnetwork cz ",
+    "pepca_style_total": 0,
+    "header_from": "noreply@itnetwork.cz",
+    "first10words": " Zapomenute heslo na siti itnetwork cz itnetwork cz Zapomenute heslo na siti itnetwork cz Ahoj tonda4 7 ",
+    "attachments": [],
+    "word_count": 74,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/6939a2e5f339196c1716d4dbc45b4916.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p088b45c8f0729252"
+        },
+        {
+            "name": "pepca_style",
+            "value": "pe1eef749beeb20f9"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pec2941bc57e38f4f"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "skype",
+                "confidence": 6415498.30089
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "skype",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "itnetwork",
+        "plain_domain_detail": [
+            {
+                "domain": "itnetwork",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Zapomenute heslo na siti itnetwork cz",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "pe1eef749beeb20f9",
+    "pepca_inline_style": "pec2941bc57e38f4f",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

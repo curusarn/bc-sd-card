@@ -1,0 +1,148 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "module": "ill",
+            "score": 1.1
+        }
+    ],
+    "pepca": "p962a552d0f1284b8",
+    "first10words": " Prijeti objednavky Prijali jsme Vasi objednavku cislo 2241819610 dne 15 12 2014 v 18 00 Vazeny zaka",
+    "pepca_style": "",
+    "pepca_inline_style": "pc68e18b75dba7ab9",
+    "word_count": 357,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "objednavka z hodinky cz",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.1,
+    "phishing": {
+        "5_top_domains_percent_0": 1.0,
+        "5_top_domains_id_0": 0
+    },
+    "header_from": "info@hodinky.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/54b86ae9e03805c32cdbdc1235e85d25.eml",
+    "attachments": [
+        {
+            "size": 59386,
+            "mime_type": "application/pdf",
+            "flags": 0,
+            "pepca": "p82ca1cf7b225fe58",
+            "first10words": "OBCHODNI PODMINKY spolecnosti VIVANTIS a s OBECNA USTANOVENI Tyto obchodni",
+            "cte": "BASE64",
+            "sumphash": "a326ef3ef92dbc5b4b53c71f49d535cf",
+            "name": "VIVANTIS_Obchodni_podminky_2014.pdf",
+            "lang": "cs"
+        },
+        {
+            "size": 12800,
+            "mime_type": "application/vnd.ms-excel",
+            "flags": 0,
+            "pepca": "p7b379020d3bd6849",
+            "first10words": "List Formular pro odstoupeni od kupni smlouvy Vyplnte prosim tento",
+            "cte": "BASE64",
+            "sumphash": "45b7d08f2c4d6c8de63666d742609d7b",
+            "name": "VIVANTIS_Odstoupeni_od_smlouvy_2014.xls",
+            "lang": "cs"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p82ca1cf7b225fe58"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p7b379020d3bd6849"
+        },
+        {
+            "name": "pepca",
+            "value": "p962a552d0f1284b8"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pc68e18b75dba7ab9"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "nakupnicentrum"
+            },
+            {
+                "confidence": 1,
+                "domain": "vivantis"
+            },
+            {
+                "confidence": 1,
+                "domain": "modnidoplnky"
+            },
+            {
+                "confidence": 2,
+                "domain": "hodinky"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "vshosting",
+        "plain_domain": "nakupnicentrum",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 44265342.8321121,
+                "domain": "vshosting"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "parfemy",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [
+            {
+                "confidence": 5,
+                "domain": "parfemy"
+            }
+        ],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "jte nas na facebooku VIVANTIS a s Skolni namesti 14 537 01 Chrudim II ICO 25977687 DIC CZ25977687 ",
+    "lang": "cs"
+}

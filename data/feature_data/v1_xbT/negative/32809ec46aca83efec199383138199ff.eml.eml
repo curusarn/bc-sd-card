@@ -1,0 +1,135 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p106cd73b7e3500e6",
+    "last10words": "ejeme hezky zbytek dne Vas obchod zarovky shop cz info zarovky shop cz ",
+    "pepca_style_total": 0,
+    "unsub_link_texts": [
+        "obchodny podminka a reklamacni rad cist zde "
+    ],
+    "header_from": "eliska.slaninova@hdt.cz",
+    "unsub_link_candidates": [
+        "http://www.zarovky-shop.cz/zarovky/2-OBCHODNI-PODMINKY"
+    ],
+    "first10words": " Dobry den zarovky nebyly u dodavatele skladem tudiz nyni objednavam a doposleme v patek S pozdravem Eliska Slaninova o",
+    "attachments": [
+        {
+            "name": "",
+            "pepca": "p36a5eb00bc7ad567",
+            "cte": "BASE64",
+            "mime_type": "image/jpeg",
+            "cid": "part1.08040302.08000107@zarovky-shop.cz",
+            "size": 2753,
+            "flags": 0,
+            "sumphash": "3fad38f99bf8ce7af1f7e067366d6c36"
+        }
+    ],
+    "word_count": 1484,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/32809ec46aca83efec199383138199ff.eml.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p36a5eb00bc7ad567"
+        },
+        {
+            "name": "pepca",
+            "value": "p106cd73b7e3500e6"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p6f4e291240dee1da"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "masterinter",
+                "confidence": 293149133.387024
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "masterinter",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "ledstudio",
+        "plain_domain_detail": [
+            {
+                "domain": "ledstudio",
+                "confidence": 2
+            },
+            {
+                "domain": "dt-bautrade",
+                "confidence": 1
+            },
+            {
+                "domain": "hdt",
+                "confidence": 3
+            },
+            {
+                "domain": "zarovky-shop",
+                "confidence": 4
+            },
+            {
+                "domain": "disco-shop",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Re RE Nova objednavka 1153989 www zarovky shop cz",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "unsub_link": "http://www.zarovky-shop.cz/zarovky/2-OBCHODNI-PODMINKY",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "p6f4e291240dee1da",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

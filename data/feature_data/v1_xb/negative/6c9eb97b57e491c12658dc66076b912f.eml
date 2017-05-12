@@ -1,0 +1,127 @@
+{
+    "phashes": [
+        {
+            "value": "p47b790d3168b3b8e",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p1cfe806b3b127f47",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p4819a8d508e5526d",
+            "name": "pepca"
+        },
+        {
+            "value": "p631b06e7769c8fc0",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "machonova@unicont.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/6c9eb97b57e491c12658dc66076b912f.eml",
+    "attachments": [
+        {
+            "size": 27703,
+            "name": "image001.png",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "image001.png@01D0185D.3C7F8680",
+            "sumphash": "a5bb913f8505d87ad8bba817351c9f9b",
+            "pepca": "p47b790d3168b3b8e",
+            "mime_type": "image/png"
+        },
+        {
+            "first10words": "Objednavka Hradecka Opava IC OBJEDNAVKA Datum objednani Objednal Martina Machonova",
+            "size": 167424,
+            "mime_type": "application/vnd.ms-excel",
+            "cte": "BASE64",
+            "flags": 0,
+            "lang": "cs",
+            "name": "Objedn\u00e1vka-Kodex.xls",
+            "pepca": "p1cfe806b3b127f47",
+            "sumphash": "b48b7c0ab4c8ce133b448e459c8439f6"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "pepca": "p4819a8d508e5526d",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": "utny Please consider whether it is necessary to print this e mail A A A A ",
+    "subject": "Objednavka",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 1849918.9536195,
+                "domain": "opava"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "opava",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "unicont",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "unicont"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p631b06e7769c8fc0",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Dobry den A vA priloze zasilam nasi objednavku A SA pozdravem A M",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 135,
+    "adscore": 0,
+    "spamscore": 1
+}

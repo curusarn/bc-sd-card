@@ -1,0 +1,110 @@
+{
+    "pepca_inline_style_total": 4,
+    "pepca": "pdbbd0f689c7dab54",
+    "last10words": "lem Stardoll provozuje spolecnost Stardoll AB Hudiksvallsgatan 8 113 30 Stockholm SvASdsko ",
+    "list_unsubscribe_urls": [
+        "http://cl.stardoll.com/mail/ISPUnregister?guid=53v9015oq5er1Dg&mid=2105500334"
+    ],
+    "unsub_link_texts": [
+        " kliknuti zobrazit tento e mail v sve prohlizec ahoj jolik"
+    ],
+    "header_from": "messages@stardoll.com",
+    "contains_list_header": true,
+    "pepcatotal": 0,
+    "attachments": [],
+    "word_count": 519,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/b2b299480ff9b7625bf9efe9ff43b94f.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pdbbd0f689c7dab54"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p7afe304ca64e6401"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "stardoll",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "carmamail",
+                "confidence": 81080711.3124
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "stardoll",
+                "confidence": 7.12542598455365
+            }
+        ],
+        "domain_keywords": "carmamail",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Tvoje nove heslo na Stardoll",
+    "adscore": 0,
+    "first10words": " Stardoll Kliknutim zobrazis tento e mail ve svASm prohlizeci ",
+    "unsub_link": "http://cl.stardoll.com/mail/RLS?mid=2105500334&guid=53v9015oq5er1Dg&lid=1440543",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "unsub_link_candidates": [
+        "http://cl.stardoll.com/mail/RLS?mid=2105500334&guid=53v9015oq5er1Dg&lid=1440543"
+    ],
+    "pepca_inline_style": "p7afe304ca64e6401",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1,
+    "pepca_style_total": 0
+}

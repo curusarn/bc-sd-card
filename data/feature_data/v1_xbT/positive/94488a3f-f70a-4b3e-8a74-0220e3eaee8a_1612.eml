@@ -1,0 +1,116 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pdb2ec398c011957f",
+    "last10words": " CA 95125 This message has been scanned for viruses and dangerous content by MailScanner and is believed to be clean ",
+    "pepca_style_total": 0,
+    "header_from": "member@ebay.com",
+    "first10words": " eBay sent this message to you Question about Item Respond Now ",
+    "attachments": [],
+    "word_count": 1034,
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/1612.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pdb2ec398c011957f"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p6bf7d36eb1542b41"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "ebay",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "ebay",
+                "confidence": 10725635832.4299
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "ebay",
+                "confidence": 9
+            }
+        ],
+        "domain_keywords": "ebay",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "pacbell",
+        "plain_domain_detail": [
+            {
+                "domain": "pacbell",
+                "confidence": 1
+            },
+            {
+                "domain": "mailscanner",
+                "confidence": 1
+            },
+            {
+                "domain": "ebay",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "en",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": " Disarmed Question about Item Respond Now",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": true,
+        "5_top_domains_id_0": 0,
+        "5_top_domains_id_1": 0,
+        "5_top_domains_percent_1": 0.047619047619047616,
+        "5_top_domains_percent_0": 0.9523809523809523
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "p6bf7d36eb1542b41",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

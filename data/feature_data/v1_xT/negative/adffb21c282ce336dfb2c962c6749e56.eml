@@ -1,0 +1,153 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "module": "ill",
+            "score": 1.1
+        }
+    ],
+    "pepca": "pc8ccfcd54745c4e1",
+    "pepca_style": "",
+    "phNotches": [
+        {
+            "subscores": [
+                1,
+                0.5,
+                0.0,
+                0.0,
+                -2,
+                -2
+            ],
+            "name": [
+                "from_mismatch",
+                "phisheable",
+                "phish_keyword",
+                "subject_phish_keyword",
+                "unsub_link",
+                "many_emails"
+            ],
+            "module": "phish-score",
+            "score": -2.5
+        }
+    ],
+    "dmarc_status": {},
+    "pepca_inline_style": "",
+    "unsub_link": "http://www.globus.cz/main.php?module=newsletter&action=confirm_registration&uid=32890&pid=14&code=24b7f4e84dc60aa9a3f051e22be1ebcd",
+    "pepca_style_total": 0,
+    "phish_score": 1,
+    "domainstat": {},
+    "domainstat_themes": {},
+    "subject": "Potvrzeni registrace newsletteru Globus Trmice",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.1,
+    "word_count": 59,
+    "phishing": {
+        "5_top_domains_percent_0": 1.0,
+        "5_top_domains_id_0": 0
+    },
+    "universalprobes": [
+        {
+            "key": "ps-from_mismatch",
+            "value": "1"
+        },
+        {
+            "key": "ps-phish_keyword",
+            "value": "['potvrdit', 'schr\\xc3\\xa1nka', 'potvrzen\\xc3\\xad']"
+        },
+        {
+            "key": "ps-subject_phish_keyword",
+            "value": "['potvrzen\\xc3\\xad']"
+        },
+        {
+            "key": "ps-unsub_link",
+            "value": "1"
+        },
+        {
+            "key": "ps-many_emails",
+            "value": "1"
+        },
+        {
+            "key": "ps-most-suspicious-links",
+            "value": "[]"
+        }
+    ],
+    "header_from": "no-reply@globus.cz",
+    "first10words": " Dobry den dekujeme za vas zajem ziskavat novinky spolecnosti Globus Zasilani novinek prosim potvrdte proklikem v e mailu ktery j",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/adffb21c282ce336dfb2c962c6749e56.eml",
+    "attachments": [],
+    "adscore": 0,
+    "extractedEmailsTotalCount": {},
+    "dkstatus": {},
+    "unsub_link_texts": [
+        " souhlasi se zasilani informace pokud na odkaz nelze kliknout nebo je mail necitelny zkopirovat tento odkaz do vas prohlizec"
+    ],
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pc8ccfcd54745c4e1"
+        }
+    ],
+    "unsub_link_candidates": [
+        "http://www.globus.cz/main.php?module=newsletter&action=confirm_registration&uid=32890&pid=14&code=24b7f4e84dc60aa9a3f051e22be1ebcd"
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "viwefix",
+        "plain_domain": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 7185225.54392,
+                "domain": "viwefix"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 3,
+    "precedence": 3,
+    "last10words": "aseho prohlizece http www globus cz main php module newsletter action confirm registration uid 32890 pid 14 code 24b7f4e84dc60aa9a3f051e22be1ebcd ",
+    "theme": {},
+    "spfstatus": {},
+    "lang": "cs"
+}

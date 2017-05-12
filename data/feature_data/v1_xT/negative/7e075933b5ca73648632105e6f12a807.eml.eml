@@ -1,0 +1,113 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "module": "ill",
+            "score": 1
+        }
+    ],
+    "pepca": "pfbb3232f1a9d0626",
+    "first10words": " Halens Zakaznicky servis zakaznicky servis halens cz 498 508 555 Dekujeme za Vasi",
+    "pepca_style": "pcae6c754d5b1f60b",
+    "pepca_inline_style": "p7c69cec2a9fb13da",
+    "word_count": 465,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Halens Objednavka prijata",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1,
+    "phishing": {
+        "5_top_domains_id_0": 0,
+        "5_top_domains_percent_1": 0.5,
+        "5_top_domains_percent_0": 0.5,
+        "5_top_domains_id_1": 0
+    },
+    "header_from": "mailer@halens.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/7e075933b5ca73648632105e6f12a807.eml.eml",
+    "attachments": [],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pfbb3232f1a9d0626"
+        },
+        {
+            "name": "pepca_style",
+            "value": "pcae6c754d5b1f60b"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p7c69cec2a9fb13da"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "halens"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "pulsen",
+        "plain_domain": "halens",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 22218118.415262,
+                "domain": "pulsen"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "care2",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [
+            {
+                "confidence": 5,
+                "domain": "care2"
+            },
+            {
+                "confidence": 5,
+                "domain": "halens"
+            }
+        ],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "5680 DIC CZ45315680 Spolecnost je zapsana v obchodnim rejstriku vedenem u Mestskeho soudu v Praze spisova znacka C 209716 ",
+    "lang": "cs"
+}

@@ -1,0 +1,115 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pdc6ca865435a73fb",
+    "last10words": " Seznam Vstup pro prodejce Napoveda Nasi partneri Kontakt Cebia report Reklama Smluvni podminky Mobilni verze ",
+    "pepca_style_total": 0,
+    "unsub_link_texts": [
+        "  copyright seznam"
+    ],
+    "header_from": "sauto@sauto-podvod.cz",
+    "unsub_link_candidates": [
+        "http://www.obrazkyanimace.com/vesele-vanoce.html"
+    ],
+    "first10words": " Sauto cz Login Dobry den Vypada to ze vas ucet je podvodne To bylo pristupne ze zahranici Ma",
+    "attachments": [],
+    "word_count": 149,
+    "email_path": "/mfs/replicated/datasets/phishing/datasets/deduplicated_cz_phish_merged/64f890bdb3e85520be90c0664eaea978.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pdc6ca865435a73fb"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "gmail",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "mcsv",
+                "confidence": 10256637.2474413
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "gmail",
+                "confidence": 1.55668789808917
+            }
+        ],
+        "domain_keywords": "mcsv",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "sauto",
+        "plain_domain_detail": [
+            {
+                "domain": "sauto",
+                "confidence": 1
+            },
+            {
+                "domain": "seznam",
+                "confidence": 1
+            },
+            {
+                "domain": "pusku",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Sauto cz Vas ucet je podezrela z podvodu ",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "unsub_link": "http://www.obrazkyanimace.com/vesele-vanoce.html",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "evil_script",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.1,
+                0.0
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

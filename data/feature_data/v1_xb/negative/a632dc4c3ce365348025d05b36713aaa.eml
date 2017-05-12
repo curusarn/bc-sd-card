@@ -1,0 +1,105 @@
+{
+    "phashes": [
+        {
+            "value": "p75b84350ce52528c",
+            "name": "pepca"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "noreply@mailings.playa-games.com",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/a632dc4c3ce365348025d05b36713aaa.eml",
+    "unsub_link_candidates": [
+        "http://mail.playa-games.com/unsubscribe.php?pgcheck=9e50347b8fd9bacd2599990641d7b1d0&email=patrik.prosek@seznam.cz"
+    ],
+    "attachments": [],
+    "contains_list_header": true,
+    "last10words": "bH Alstertor 9 D 20095 Hamburg Support http s5 sfgame cz support CEO Hannes Beuck Amtsgericht Hamburg HRB 109725 VAT ID DE815081395 ",
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca": "p75b84350ce52528c",
+    "subject": "Vase heslo",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 132556038.71384,
+                "domain": "brm24"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "brm24",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "sfgame",
+        "plain_domain_detail": [
+            {
+                "confidence": 2,
+                "domain": "sfgame"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "unsub_link_texts": [
+        "pokud nechtit od my nadale dostavat e mail kliknout zde "
+    ],
+    "list_unsubscribe_urls": [
+        "mailto:mail+1-20067-296617-841021591-324268f670cf8f7999343abfe0d17f9b@unsubscribe.brm24.de",
+        "http://mailings.playa-games.com/U?20067-453666-296617-72061-841021591"
+    ],
+    "unsub_link": "http://mail.playa-games.com/unsubscribe.php?pgcheck=9e50347b8fd9bacd2599990641d7b1d0&email=patrik.prosek@seznam.cz",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Zdravim superb02 Vase heslo bylo zmeneno Vase prihlasovaci udaje Jmeno superb02 Heslo 5j51p11uua Pokud jste nezadali ",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 84,
+    "adscore": 0,
+    "spamscore": 1
+}

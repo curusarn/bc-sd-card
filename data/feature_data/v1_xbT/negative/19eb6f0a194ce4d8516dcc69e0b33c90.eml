@@ -1,0 +1,117 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p8097147f1e48a73f",
+    "last10words": " ch slevach vyprodejich ci darcich WWW Rybarske potreby u Petra Slany E mail obchod rybarskepotreby upetra cz ",
+    "pepca_style_total": 0,
+    "unsub_link_texts": [
+        "  puvodni zprava odesilatel"
+    ],
+    "header_from": "obchod@rybarskepotreby-upetra.cz",
+    "unsub_link_candidates": [
+        "http://www.rybarskepotreby-upetra.cz/podpis_emailu.png"
+    ],
+    "first10words": " Dobry den objednavka se nam dnes vratila byl nejaky problem S pozdravem Rybarske potreby U Petra Puvodn",
+    "attachments": [],
+    "word_count": 325,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/19eb6f0a194ce4d8516dcc69e0b33c90.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p8097147f1e48a73f"
+        },
+        {
+            "name": "pepca_style",
+            "value": "pe57355cb5b80e079"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "peddd64801e9ec87b"
+        }
+    ],
+    "spamscore": 1.6,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "rybarskepotreby-upetra",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "masterinter",
+                "confidence": 25491228.990176
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "rybarskepotreby-upetra",
+                "confidence": 1
+            }
+        ],
+        "domain_keywords": "masterinter",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "rybarskepotreby-upetra",
+        "plain_domain_detail": [
+            {
+                "domain": "rybarskepotreby-upetra",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "NEVYZVEDNUTO Rybarske potreby u Petra Slany Objednavka 2014 11 23 20 27 10 c 1261",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "unsub_link": "http://www.rybarskepotreby-upetra.cz/podpis_emailu.png",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "pe57355cb5b80e079",
+    "pepca_inline_style": "peddd64801e9ec87b",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id",
+                "long_subject"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1,
+                0.5
+            ],
+            "score": 1.6,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

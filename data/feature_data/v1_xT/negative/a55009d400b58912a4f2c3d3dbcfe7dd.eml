@@ -1,0 +1,117 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "module": "ill",
+            "score": 1.1
+        }
+    ],
+    "pepca": "pe9168991f9866af2",
+    "first10words": " Byli jste zaregistrovani na webu Petrklic cz ",
+    "pepca_style": "",
+    "pepca_inline_style": "p1b1add0f2a3497d5",
+    "word_count": 902,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Vase registrace na webu Petrklic",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.1,
+    "phishing": {},
+    "header_from": "info@petrklic.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/a55009d400b58912a4f2c3d3dbcfe7dd.eml",
+    "attachments": [
+        {
+            "size": 8070,
+            "mime_type": "image/png",
+            "flags": 0,
+            "pepca": "p1bed587629acc14b",
+            "cid": "logo",
+            "cte": "BASE64",
+            "sumphash": "40cfa1228fedd0110d4f98040ab962cc",
+            "name": "logo.png"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p1bed587629acc14b"
+        },
+        {
+            "name": "pepca",
+            "value": "pe9168991f9866af2"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p1b1add0f2a3497d5"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "petrklic"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "petrklic",
+        "plain_domain": "petrklic",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 6853363.822829,
+                "domain": "petrklic"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "petrklic",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [
+            {
+                "confidence": 2,
+                "domain": "petrklic"
+            }
+        ],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": " 2014 Petrklic Frydek Mistek s r o vsechna prava vyhrazena ",
+    "lang": "cs"
+}

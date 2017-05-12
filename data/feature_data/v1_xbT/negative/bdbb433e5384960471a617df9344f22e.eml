@@ -1,0 +1,117 @@
+{
+    "pepca_inline_style_total": 1,
+    "pepca": "pfa8880adb10361c1",
+    "last10words": "gopass cz Pokud si v budoucnu neprejete dostavat novinky z programu GOPASS muzete se odhlasit kliknutim na tento odkaz ",
+    "list_unsubscribe_urls": [
+        "info@gopass.cz"
+    ],
+    "unsub_link_texts": [
+        "pokud si v budoucno neprat dostavat novinka z program gopass moct se odhlasit kliknuti na tento odkaz "
+    ],
+    "header_from": "info@gopass.cz",
+    "contains_list_header": true,
+    "pepcatotal": 1,
+    "attachments": [],
+    "word_count": 317,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/bdbb433e5384960471a617df9344f22e.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pfa8880adb10361c1"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pa299ee199617f7f2"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "reserved",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "gopass",
+                "confidence": 38692248.2251518
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "reserved",
+                "confidence": 17
+            }
+        ],
+        "domain_keywords": "gopass",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "gopass",
+        "plain_domain_detail": [
+            {
+                "domain": "gopass",
+                "confidence": 3
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Potvrzeni registrace a overeni Vaseho e mailu",
+    "adscore": 0,
+    "first10words": " Potvrzeni registrace a overeni Vaseho e mailu Pokud se Vam tento e mail nezobrazuje spravne kliknete zde ",
+    "unsub_link": "http://tmr.cortex.cz/email/u/878fa52fb12f89610caa2c038b",
+    "phishing": {
+        "ner_domain_detected": true,
+        "5_top_domains_id_0": 0,
+        "5_top_domains_percent_0": 1.0
+    },
+    "pepca_style": "",
+    "unsub_link_candidates": [
+        "http://tmr.cortex.cz/email/u/878fa52fb12f89610caa2c038b"
+    ],
+    "pepca_inline_style": "pa299ee199617f7f2",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1,
+    "pepca_style_total": 0
+}

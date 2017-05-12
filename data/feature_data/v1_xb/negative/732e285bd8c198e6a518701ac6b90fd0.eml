@@ -1,0 +1,114 @@
+{
+    "phashes": [
+        {
+            "value": "pa35a4439440e60c4",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p4d6b52f54ecb32ff",
+            "name": "pepca"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "shop@fomei.com",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/732e285bd8c198e6a518701ac6b90fd0.eml",
+    "attachments": [
+        {
+            "size": 13782,
+            "name": "order.htm",
+            "cte": "BASE64",
+            "flags": 0,
+            "sumphash": "5a1bc7b1bf93cf9f6073328cec3bd2af",
+            "pepca": "pa35a4439440e60c4",
+            "mime_type": "text/html"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "missing_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                1
+            ],
+            "score": 2
+        }
+    ],
+    "pepca": "p4d6b52f54ecb32ff",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": "i objednavky Jeji stav muzete prubezne sledovat na B2B V priloze je tiskova verze objednavky Vas FOMEI Czech ",
+    "subject": "Objednavka byla prijata pod cislem 18236 ",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 1,
+                "domain": "fomei"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 1871924.44113,
+                "domain": "fomei"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "fomei",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "fomei",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "fomei",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "fomei"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Potvrzujeme prijeti Vasi objednavky Jeji stav muzete prubezne sledovat na B2B V priloze je tiskova verze objedn",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 45,
+    "adscore": 0,
+    "spamscore": 2
+}

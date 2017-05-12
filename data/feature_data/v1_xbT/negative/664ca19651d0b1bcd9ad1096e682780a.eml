@@ -1,0 +1,107 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p7b4eaa242bc8250a",
+    "last10words": " v priloze posilam fakturu za drivi Hezky den Ing Marketa Hanikova ucetni NIKA Timber s r o ",
+    "pepca_style_total": 0,
+    "header_from": "hanikovamarketa@seznam.cz",
+    "first10words": " Dobry den v priloze posilam fakturu za drivi Hezky den Ing Marketa Hanikova ucetn",
+    "attachments": [
+        {
+            "mime_type": "application/pdf",
+            "name": "Scan1.PDF",
+            "first10words": "N IIKA Timber s r o l a IrJRA DANOVY",
+            "pepca": "pc9d543eef9d3ef79",
+            "lang": "cs",
+            "cte": "BASE64",
+            "cid": "m14a4d90304bm46f2",
+            "size": 110918,
+            "flags": 0,
+            "sumphash": "1f9f7672d50ce5336759cd822fc1df98"
+        }
+    ],
+    "word_count": 15,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/664ca19651d0b1bcd9ad1096e682780a.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "pc9d543eef9d3ef79"
+        },
+        {
+            "name": "pepca",
+            "value": "p7b4eaa242bc8250a"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "fordaq",
+                "confidence": 2254467.86186
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "fordaq",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Faktura drivi",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

@@ -1,0 +1,105 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pd84753a91a577a00",
+    "last10words": " AM Subject Faktura zaluzie Dobry den Fakturu najdete vA priloze SA pozdravem Karpisek ",
+    "pepca_style_total": 0,
+    "header_from": "info@supsbrno.cz",
+    "first10words": " preposlana zprava Ulrichova Ivana pracoviste Francouzska 101 Original Message From Zaluzie Slavik ",
+    "attachments": [
+        {
+            "name": "SUP - \u017ealuzie -  faktura.jpg",
+            "cte": "BASE64",
+            "mime_type": "image/jpeg",
+            "size": 420116,
+            "flags": 0,
+            "sumphash": "d5b21db9ae7ff81ec1dde22a55e8e9b7"
+        }
+    ],
+    "word_count": 84,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/6ec2dbbd4d237e14228d1f1a58ad8689.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pd84753a91a577a00"
+        },
+        {
+            "name": "pepca_style",
+            "value": "p2848e7d925665ea8"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p221930bef1e6d92d"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "mpsv",
+                "confidence": 11801144.0503887
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "mpsv",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Fw Faktura zaluzie",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "p2848e7d925665ea8",
+    "pepca_inline_style": "p221930bef1e6d92d",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

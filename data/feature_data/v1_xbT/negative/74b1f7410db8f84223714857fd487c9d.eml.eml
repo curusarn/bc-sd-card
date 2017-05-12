@@ -1,0 +1,128 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p3738241e10c09fb0",
+    "last10words": "si 20 viz http www hlukplus cz index php p c A A A ",
+    "pepca_style_total": 0,
+    "header_from": "hackl@akustickecentrum.cz",
+    "first10words": " A A From info hlukplus cz mailto info hlukplus cz Sent Sunday January 11 2015 11",
+    "attachments": [
+        {
+            "name": "ATT00004.jpg",
+            "pepca": "p79f8ef3f60ba5633",
+            "cte": "BASE64",
+            "mime_type": "image/jpeg",
+            "cid": "part1.07000406.07000805@hlukplus.cz",
+            "size": 24137,
+            "flags": 0,
+            "sumphash": "a130969754406a71d0074e26e49f29ce"
+        },
+        {
+            "cte": "BASE64",
+            "name": "F150106.pdf",
+            "pepca": "pc390bcde6309bcdd",
+            "flags": 0,
+            "mime_type": "application/pdf",
+            "size": 258744,
+            "lang": "un",
+            "sumphash": "faa96027d35e4089920951c9306cdb9d"
+        }
+    ],
+    "word_count": 1108,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/74b1f7410db8f84223714857fd487c9d.eml.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p79f8ef3f60ba5633"
+        },
+        {
+            "name": "att-pepca",
+            "value": "pc390bcde6309bcdd"
+        },
+        {
+            "name": "pepca",
+            "value": "p3738241e10c09fb0"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p11a18c28b04e4d30"
+        }
+    ],
+    "spamscore": 1.5,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "mcsv",
+                "confidence": 31897079.529061
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "mcsv",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "hlukplus",
+        "plain_domain_detail": [
+            {
+                "domain": "hlukplus",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "FW Hluk distribuce Re Zalohova faktura Re Hluk verze 11 sleva na objednavky zaslane do konce roku 2014 ",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "p11a18c28b04e4d30",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "long_subject"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.5
+            ],
+            "score": 1.5,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

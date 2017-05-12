@@ -1,0 +1,155 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pc2d1d1c4a09bb65a",
+    "last10words": "knostyl cz www oknostyl cz Tato zprava neobsahuje viry ani jiny skodlivy kod avast Antivirus je aktivni ",
+    "pepca_style_total": 0,
+    "header_from": "provozovna@oknostyl.cz",
+    "first10words": " Dobry den dle telefonicke domluvy Vam zasilam Smlouvu o dilo a fakturu Upravila jsem rozmer okna u balkonove sestavy a zahrnula slev",
+    "attachments": [
+        {
+            "name": "logoNew.png",
+            "pepca": "pfde4543867f5e8a6",
+            "cte": "BASE64",
+            "mime_type": "image/png",
+            "cid": "part1.00080905.04050301@oknostyl.cz",
+            "size": 11011,
+            "flags": 0,
+            "sumphash": "721a626e4c94bddadc2aae6497c50a0c"
+        },
+        {
+            "mime_type": "application/pdf",
+            "name": "sml1-2014-2178 - Fencl Ivan.pdf",
+            "first10words": "SMLOUVA O DILO C uzavrena podle platneho zneni obcanskeho zakoniku",
+            "pepca": "p7e236ac7ebcbf703",
+            "lang": "cs",
+            "cte": "BASE64",
+            "size": 59554,
+            "flags": 0,
+            "sumphash": "9d8d0e821fe0728720e619733f60ce0b"
+        },
+        {
+            "mime_type": "application/pdf",
+            "name": "fakt1-2014-2178 - Fencl Ivan.pdf",
+            "first10words": "OKNOSTYL group s r o sidlem Tisnovska Kurim PSC Vedena",
+            "pepca": "p69d98e1482affca9",
+            "lang": "cs",
+            "cte": "BASE64",
+            "size": 29177,
+            "flags": 0,
+            "sumphash": "b6f8947f08c3133ef5f017d9b0ccceb1"
+        }
+    ],
+    "word_count": 90,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/2e3fe00a416ffc316448f0da07d85607.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "pfde4543867f5e8a6"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p7e236ac7ebcbf703"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p69d98e1482affca9"
+        },
+        {
+            "name": "pepca",
+            "value": "pc2d1d1c4a09bb65a"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pd49dda100c7f0852"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "volny",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "oknostyl",
+                "confidence": 16611862.3577414
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "volny",
+                "confidence": 1
+            }
+        ],
+        "domain_keywords": "oknostyl",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "oknostyl",
+        "plain_domain_detail": [
+            {
+                "domain": "oknostyl",
+                "confidence": 1
+            },
+            {
+                "domain": "avast",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "1 2014 2178 Smlouva o dilo proforma faktura",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": true,
+        "5_top_domains_id_0": 0,
+        "5_top_domains_percent_0": 1.0
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "pd49dda100c7f0852",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

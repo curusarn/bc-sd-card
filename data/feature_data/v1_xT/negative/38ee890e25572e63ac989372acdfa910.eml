@@ -1,0 +1,114 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "module": "ill",
+            "score": 1.1
+        }
+    ],
+    "pepca": "p54d52bcab7291f07",
+    "first10words": " mailing Zbozi Letaky Strazce Nakupni seznam Obchodni centra Mapa slev Mobilni aplikace ",
+    "pepca_style": "",
+    "pepca_inline_style": "p8925948911e77291",
+    "word_count": 404,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Vase registrace na serveru AkcniCeny cz",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.1,
+    "phishing": {},
+    "header_from": "akcniceny@akcniceny.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/38ee890e25572e63ac989372acdfa910.eml",
+    "attachments": [],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p54d52bcab7291f07"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p8925948911e77291"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "vratnepenize"
+            },
+            {
+                "confidence": 2,
+                "domain": "akcniceny"
+            },
+            {
+                "confidence": 1,
+                "domain": "retailinfo"
+            },
+            {
+                "confidence": 1,
+                "domain": "obydleni"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "akcniceny",
+        "plain_domain": "vratnepenize",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 124295190.933598,
+                "domain": "akcniceny"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "akcniceny",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [
+            {
+                "confidence": 7,
+                "domain": "akcniceny"
+            }
+        ],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": " 420 222 212 199 podpora akcniceny cz www AkcniCeny cz www oBydleni cz www VratnePenize cz www retailinfo cz ",
+    "lang": "cs"
+}

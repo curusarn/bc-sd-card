@@ -1,0 +1,137 @@
+{
+    "phashes": [
+        {
+            "value": "pf40bca4a6edebc1f",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p02f2fc9f8723e2c8",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p5c7eaa7cc0373f2a",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pf9cd8793d7366ff9",
+            "name": "pepca"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "Ivo.Cernohorsky@mubea.com",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/f8f8ccc65b667e667bea919ea8e3f2ed.eml",
+    "attachments": [
+        {
+            "size": 1591,
+            "name": "24670249.gif",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "0__=4EBBF73CDFA8C96F8f9e8a93df9386@mubea.com",
+            "sumphash": "0b5a1ca2879136a35dbeb400af034d73",
+            "pepca": "pf40bca4a6edebc1f",
+            "mime_type": "image/gif"
+        },
+        {
+            "size": 4920,
+            "name": "24274754.gif",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "1__=4EBBF73CDFA8C96F8f9e8a93df9386@mubea.com",
+            "sumphash": "c01a5b4c28841dff5aa070b18cedd7d3",
+            "pepca": "p02f2fc9f8723e2c8",
+            "mime_type": "image/gif"
+        },
+        {
+            "name": "SKMBT_C36014121511441.pdf",
+            "mime_type": "application/pdf",
+            "cte": "BASE64",
+            "flags": 0,
+            "lang": "un",
+            "cid": "5E97__=4EBBF73CDFA8C96F8f9e8a93df9386@mubea.com",
+            "size": 483455,
+            "pepca": "p5c7eaa7cc0373f2a",
+            "sumphash": "e6c453625a0d7e5cd391046546843e6a"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "pepca": "pf9cd8793d7366ff9",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": "ssage is confidential and intended only for the person s named above If you have received this message by mistake please notify me immediately ",
+    "subject": "objednavka",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 103294829.945222,
+                "domain": "ebay"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "ebay",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "mubea",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "mubea"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " See attached file SKMBT C36014121511441 pdf S pratelskym pozdravem Mit freundlichen Gru en Ivo Cernohorsky ZBF",
+    "lang": "de",
+    "pepcatotal": 0,
+    "word_count": 152,
+    "adscore": 0,
+    "spamscore": 1
+}

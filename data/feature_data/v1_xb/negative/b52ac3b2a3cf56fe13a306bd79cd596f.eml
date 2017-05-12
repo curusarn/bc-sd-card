@@ -1,0 +1,110 @@
+{
+    "phashes": [
+        {
+            "value": "p05d18ae58bb2b74d",
+            "name": "pepca"
+        },
+        {
+            "value": "p25dfe2e5dd31555e",
+            "name": "pepca_style"
+        },
+        {
+            "value": "pb69e1528d1a38d60",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "newsletter@bestonline.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/b52ac3b2a3cf56fe13a306bd79cd596f.eml",
+    "unsub_link_candidates": [
+        "http://innovativebusiness.us8.list-manage.com/subscribe/confirm?u=a1b1e2bab8e08498792208296&id=33fd52fe69&e=8737c0eac0",
+        "http://www.mailchimp.com/monkey-rewards/?utm_source=freemium_newsletter&utm_medium=email&utm_campaign=monkey_rewards&aid=a1b1e2bab8e08498792208296&afl=1"
+    ],
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "pepca": "p05d18ae58bb2b74d",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "p25dfe2e5dd31555e",
+    "last10words": " mate otazky tykajici se teto databaze kontaktujte prosim tomas sykora innovativebusiness cz ",
+    "subject": "Newslettery registrace z webu Prosim potvrdte prihlaseni k odberu",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 1,
+                "domain": "sam73"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 2573237.638131,
+                "domain": "fdb"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "sam73",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "fdb",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 3,
+    "pepca_inline_style": "pb69e1528d1a38d60",
+    "unsub_link_texts": [
+        "prosit potvrdit prihlaseni k odber kliknout zde pro potvrzeni vas prihlaseni do nas databaze pokud byt tento email obdrzet omylem smazit jej",
+        " email marketing powered by mailchimp mailchimp email marketing "
+    ],
+    "unsub_link": "http://www.mailchimp.com/monkey-rewards/?utm_source=freemium_newsletter&utm_medium=email&utm_campaign=monkey_rewards&aid=a1b1e2bab8e08498792208296&afl=1",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Newslettery registrace z webu Prosim potvrdte prihlaseni k odberu Kliknete zde pro potvrzeni Vase",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 124,
+    "adscore": 0,
+    "spamscore": 1
+}

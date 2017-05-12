@@ -1,0 +1,124 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "module": "ill",
+            "score": 1.1
+        }
+    ],
+    "pepca": "p2d127926372fa89e",
+    "first10words": " Vazeny zakazniku dekujeme Vam za Vas zajem a vytvoreni objednavky kterou jsme uspesne prijali Platbu bankovn",
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "word_count": 201,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Vase objednavka",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.1,
+    "phishing": {
+        "5_top_domains_percent_2": 0.16666666666666666,
+        "5_top_domains_id_2": 0,
+        "5_top_domains_percent_3": 0.16666666666666666,
+        "5_top_domains_id_1": 0,
+        "5_top_domains_id_3": 2,
+        "5_top_domains_percent_4": 0.16666666666666666,
+        "5_top_domains_id_0": 0,
+        "5_top_domains_percent_1": 0.16666666666666666,
+        "5_top_domains_percent_0": 0.16666666666666666,
+        "5_top_domains_id_4": 2
+    },
+    "header_from": "platby@amplion.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/fb2085a161baf8a0f24453cbefa3d4d6.eml.eml",
+    "attachments": [
+        {
+            "size": 11727,
+            "mime_type": "image/gif",
+            "flags": 0,
+            "pepca": "p6cb90673d6f9af14",
+            "cid": "wrsbge8mv3",
+            "cte": "BASE64",
+            "sumphash": "56b5b5fcb50995d64f827dd982e745af",
+            "name": "reminder-header.gif"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p6cb90673d6f9af14"
+        },
+        {
+            "name": "pepca",
+            "value": "p2d127926372fa89e"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 2,
+                "domain": "amplion"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "masterinter",
+        "plain_domain": "amplion",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 38236843.485264,
+                "domain": "masterinter"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "amplion",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [
+            {
+                "confidence": 1,
+                "domain": "amplion"
+            }
+        ],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": " tykajici se uplatneni budou uvedeny na tomto poukazu Vas Amplion www amplion cz Hlasime slevy kazdy den ",
+    "lang": "cs"
+}

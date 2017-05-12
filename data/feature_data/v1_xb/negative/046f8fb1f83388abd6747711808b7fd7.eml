@@ -1,0 +1,108 @@
+{
+    "phashes": [
+        {
+            "value": "p33309e04b5e20c07",
+            "name": "pepca"
+        },
+        {
+            "value": "p31df7bb275272990",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "email_notify@merry-cherry.com",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/046f8fb1f83388abd6747711808b7fd7.eml",
+    "attachments": [],
+    "contains_list_header": true,
+    "last10words": "low the link http merry cherry com unsubscribe php Always here to assist you Merry Cherry com Support Team http merry cherry com ",
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "long_subject"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.5
+            ],
+            "score": 1.5
+        }
+    ],
+    "phishing": {
+        "ner_domain_detected": true
+    },
+    "pepca_style": "",
+    "pepca": "p33309e04b5e20c07",
+    "subject": "David 17 ladies liked and emailed you on 22 01 2015",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 16,
+                "domain": "merry-cherry"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 819342666.36281,
+                "domain": "merry-cherry"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "merry-cherry",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "merry-cherry",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "merry-cherry",
+        "plain_domain_detail": [
+            {
+                "confidence": 2,
+                "domain": "merry-cherry"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p31df7bb275272990",
+    "list_unsubscribe_urls": [
+        "mailto:unsubscribe@merry-cherry.com?subject=Unsubscribe_2806561"
+    ],
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Hello David Today is a lucky day These wonderful ladies want to start talking to you New messages from S",
+    "lang": "en",
+    "pepcatotal": 0,
+    "word_count": 787,
+    "adscore": 0,
+    "spamscore": 1.5
+}

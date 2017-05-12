@@ -1,0 +1,97 @@
+{
+    "phashes": [
+        {
+            "value": "pe7cc044bc8de4c8f",
+            "name": "pepca"
+        },
+        {
+            "value": "pc9c2eb782a70e300",
+            "name": "pepca_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "info@pikatec.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/75cd9fa4a53ec7659cab6d08352cea99.eml",
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "pepca": "pe7cc044bc8de4c8f",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "pc9c2eb782a70e300",
+    "last10words": "turacni udaje Adresa Pod Javory 6 Mesto Blansko PSC 67801 Zeme Ceska Republika Pikatec http www pikatec cz ",
+    "subject": "Registrace uzivatele",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 6897392.67629912,
+                "domain": "vshosting"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "vshosting",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "pikatec",
+        "plain_domain_detail": [
+            {
+                "confidence": 2,
+                "domain": "pikatec"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " http www pikatec cz Registrace uzivatele http www pikatec cz info pikatec cz 27 10 2014 21 34 23 Registrace uzivatel",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 82,
+    "adscore": 0,
+    "spamscore": 1
+}

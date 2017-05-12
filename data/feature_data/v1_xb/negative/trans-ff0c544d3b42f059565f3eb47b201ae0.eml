@@ -1,0 +1,104 @@
+{
+    "phashes": [
+        {
+            "value": "p1a2d685cf28c3c7e",
+            "name": "pepca"
+        },
+        {
+            "value": "pbe1cb96a21d26e73",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "eshop@molo-sport.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/trans-ff0c544d3b42f059565f3eb47b201ae0.eml",
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "pepca": "p1a2d685cf28c3c7e",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": "lefon 420 841 111 119 Email eshop molo sport cz S pranim hezkeho dne Tym molo sport cz 2015 Molo sport lifestyle ",
+    "subject": "Zmena stavu objednavky Prijato",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 1,
+                "domain": "molo-sport"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 14617648.978404,
+                "domain": "molo-sport"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "molo-sport",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "molo-sport",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "molo-sport",
+        "plain_domain_detail": [
+            {
+                "confidence": 2,
+                "domain": "molo-sport"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "pbe1cb96a21d26e73",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Zmena stavu objednavky Prijato Pri problemech se zobrazenim kliknete ZDE pro online verzi Vazeny zakazni",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 129,
+    "adscore": 0,
+    "spamscore": 1.1
+}

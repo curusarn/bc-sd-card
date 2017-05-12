@@ -1,0 +1,105 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "missing_message_id"
+            ],
+            "module": "ill",
+            "score": 2
+        }
+    ],
+    "pepca": "p18ba9cd903286c37",
+    "first10words": " GOOD DAY PLEASE VIEW ATTACHED MESSAGE THANKS NOTE we cannot respond to any wrong information received in our database because we will verify yo",
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "word_count": 55,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "YOUR FUNDS ARE DUE",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 2,
+    "phishing": {
+        "5_top_domains_percent_0": 1.0,
+        "5_top_domains_id_0": 0
+    },
+    "header_from": "mail@likdd.com",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/high-phishscore/80d26a2e1ac3a041ad110c7716e15f2f.eml",
+    "attachments": [
+        {
+            "size": 4434,
+            "mime_type": "text/html",
+            "flags": 0,
+            "pepca": "p73800d118583c4ce",
+            "cte": "BASE64",
+            "sumphash": "29df897393fc69056a4cf6cd79083ffe",
+            "name": "wumt1.html"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p73800d118583c4ce"
+        },
+        {
+            "name": "pepca",
+            "value": "p18ba9cd903286c37"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "aweber",
+        "plain_domain": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 59580915.0094306,
+                "domain": "aweber"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "tful account owner before we make any transfer to you RESPONSE SHOULD BE MADE IMMEDIATELY BEFORE IT WILL BE TOO LATE Sincerely Western Union Team",
+    "lang": "en"
+}

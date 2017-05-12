@@ -1,0 +1,106 @@
+{
+    "phashes": [
+        {
+            "value": "pe2596835014f924a",
+            "name": "pepca"
+        },
+        {
+            "value": "p844f287dd5d521a8",
+            "name": "pepca_style"
+        },
+        {
+            "value": "p2c4910b25b2b1019",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "noreply@gt3themes.com",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/060fdd593859df7f3156188d4dab0f34.eml",
+    "attachments": [],
+    "contains_list_header": true,
+    "last10words": "70 Dunridge Cir East Dundee 60118 United States unsubscribe from this list update subscription preferences ",
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "phishing": {
+        "ner_domain_detected": true
+    },
+    "pepca_style": "p844f287dd5d521a8",
+    "pepca": "pe2596835014f924a",
+    "subject": "SOHO New Photo WordPress Theme",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 3,
+                "domain": "sam73"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 150900024.531581,
+                "domain": "mcsv"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "sam73",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "mcsv",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p2c4910b25b2b1019",
+    "list_unsubscribe_urls": [
+        "mailto:unsubscribe-b257158362e792b53627cd38b-ed22cafec0-f7851ab120@mailin1.us2.mcsv.net?subject=unsubscribe",
+        "http://themedev.us5.list-manage1.com/unsubscribe?u=b257158362e792b53627cd38b&id=31bd15f2ef&e=f7851ab120&c=ed22cafec0"
+    ],
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " SOHO New Photo WordPress Theme View this email in your browser ",
+    "lang": "en",
+    "pepcatotal": 0,
+    "word_count": 402,
+    "adscore": 0,
+    "spamscore": 1
+}

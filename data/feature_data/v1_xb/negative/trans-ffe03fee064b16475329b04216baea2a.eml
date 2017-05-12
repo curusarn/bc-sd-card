@@ -1,0 +1,103 @@
+{
+    "phashes": [
+        {
+            "value": "p2fabd95be20eb426",
+            "name": "pepca"
+        },
+        {
+            "value": "pa3b870b26ca78fc3",
+            "name": "pepca_style"
+        },
+        {
+            "value": "p3fd269618701bb45",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "kucerova@mkprofinails.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/trans-ffe03fee064b16475329b04216baea2a.eml",
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "pepca": "p2fabd95be20eb426",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "pa3b870b26ca78fc3",
+    "last10words": "ofinails tel 777 041 406 email kucerova mkprofinails cz Dekujeme a tesime se na dalsi spolupraci MK Profinails ",
+    "subject": "Odeslani objednavky c 150357",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 14,
+                "domain": "mkprofinails"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 14080312.853304,
+                "domain": "mkprofinails"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "mkprofinails",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "mkprofinails",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 9,
+    "pepca_inline_style": "p3fd269618701bb45",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " MK Profinails Vazeny zakaznik Vase objednavka c 150357 ze dne 12 1 2015 byla dnes odeslana Ob",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 613,
+    "adscore": 0,
+    "spamscore": 1.1
+}

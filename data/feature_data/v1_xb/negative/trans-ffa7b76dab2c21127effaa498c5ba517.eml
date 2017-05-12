@@ -1,0 +1,116 @@
+{
+    "phashes": [
+        {
+            "value": "p61e3896d82bb1921",
+            "name": "pepca"
+        },
+        {
+            "value": "pb5c1c09c8e03497b",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "objednavky@asker.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/trans-ffa7b76dab2c21127effaa498c5ba517.eml",
+    "unsub_link_candidates": [
+        "http://www.asker.cz/obchodni-podminky-eshopu?date=2015-01-12"
+    ],
+    "attachments": [
+        {
+            "size": 0,
+            "name": "logo.png",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "logo.gif",
+            "sumphash": "dc5b5ace27d0916fed08dfee55dd0748",
+            "mime_type": "image/gif"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "pepca": "p61e3896d82bb1921",
+    "phishing": {
+        "ner_domain_detected": true
+    },
+    "pepca_style": "",
+    "last10words": "ojetin 75201 Zpusob dopravy dobirka Ceskou postou Zpusob platby Bankovnim prevodem 1410667 ",
+    "subject": "Oznameni o expedici zbozi z objednavky 1410667",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 63728072.47544,
+                "domain": "masterinter"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "masterinter",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "asker",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "asker"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "pb5c1c09c8e03497b",
+    "unsub_link_texts": [
+        " obchodny podminka platny pro tento objednavka"
+    ],
+    "unsub_link": "http://www.asker.cz/obchodni-podminky-eshopu?date=2015-01-12",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Oznameni o expedici zbozi z objednavky 1410667 Oznameni o expedici zbozi z objednavky 1410667 Stav objednavk",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 351,
+    "adscore": 0,
+    "spamscore": 1.1
+}

@@ -1,0 +1,108 @@
+{
+    "phashes": [
+        {
+            "value": "p175b6f4600602f19",
+            "name": "pepca"
+        },
+        {
+            "value": "pa6b9bcda692ab203",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "info@kalhotky-podprsenky.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/a50b144ea0fd2aa937e3be0bb6bd0bc1.eml",
+    "unsub_link_candidates": [
+        "http://www.kalhotky-podprsenky.cz/newsletter-nastaveni?hash=4c3f4c56d5b71b9699031b5913ab2c2a"
+    ],
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id",
+                "long_subject"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1,
+                0.5
+            ],
+            "score": 1.6
+        }
+    ],
+    "pepca": "p175b6f4600602f19",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": "gistrace pro zasilani novinek kliknete prosim na tento odkaz Formular byl odeslan z adresy http www kalhotky podprsenky cz ",
+    "subject": "Potvrzeni registrace pro zasilani novinek z www kalhotky podprsenky cz",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 6924736.1508,
+                "domain": "gamepark"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "gamepark",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "kalhotky-podprsenky",
+        "plain_domain_detail": [
+            {
+                "confidence": 2,
+                "domain": "kalhotky-podprsenky"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "pa6b9bcda692ab203",
+    "unsub_link_texts": [
+        "cz pro potvrzeni registrace pro zasilani novinka kliknout prosit na tento odkaz "
+    ],
+    "unsub_link": "http://www.kalhotky-podprsenky.cz/newsletter-nastaveni?hash=4c3f4c56d5b71b9699031b5913ab2c2a",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 2,
+    "first10words": " Potvrzeni registrace pro zasilani novinek z www kalhotky podprsenky cz Potvrzeni registrace pro zasilani novinek z www kalhotky",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 42,
+    "adscore": 0,
+    "spamscore": 1.6
+}

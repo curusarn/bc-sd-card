@@ -1,0 +1,114 @@
+{
+    "phashes": [
+        {
+            "value": "p645694a9bde7376e",
+            "name": "pepca"
+        },
+        {
+            "value": "pa5e1a5e1103281e0",
+            "name": "pepca_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "x@o7.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/trans-fe954103250989807af8878112c79ec8.eml",
+    "attachments": [
+        {
+            "size": 0,
+            "name": "logo2.png",
+            "cte": "BASE64",
+            "flags": 0,
+            "sumphash": "dc5b5ace27d0916fed08dfee55dd0748",
+            "mime_type": "image/png"
+        },
+        {
+            "size": 0,
+            "name": "i_tel.png",
+            "cte": "BASE64",
+            "flags": 0,
+            "sumphash": "dc5b5ace27d0916fed08dfee55dd0748",
+            "mime_type": "image/png"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "pepca": "p645694a9bde7376e",
+    "phishing": {
+        "ner_domain_detected": true
+    },
+    "pepca_style": "pa5e1a5e1103281e0",
+    "last10words": "ogu 8 00 22 00 Tento e mail je odesilan automaticky neni mozne na nej odpovedet Kontaktujte nas na info oriflame ",
+    "subject": "E mailove potvrzeni objednavky",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 16131774.302396,
+                "domain": "o7"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "o7",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "oriflame",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "oriflame"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Potvrzeni objednavky Pro nejlepsi zobrazeni tohoto e mailu kliknete zde Dekujeme Vam za podani objednavky ",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 561,
+    "adscore": 0,
+    "spamscore": 1
+}

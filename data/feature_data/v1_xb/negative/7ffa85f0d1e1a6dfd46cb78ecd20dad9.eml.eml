@@ -1,0 +1,108 @@
+{
+    "phashes": [
+        {
+            "value": "p9afd2ff433f4f0b6",
+            "name": "pepca"
+        },
+        {
+            "value": "p673d233a39ff8dd1",
+            "name": "pepca_style"
+        },
+        {
+            "value": "p2412100f332d832c",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "zakaznici@rohlik.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/7ffa85f0d1e1a6dfd46cb78ecd20dad9.eml.eml",
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "pepca": "p9afd2ff433f4f0b6",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "p673d233a39ff8dd1",
+    "last10words": "ail se snazime odpovidat okamzite 2014 Rohlik cz jakoukoli vasi zpetnou vazbu radi uvitame na zakaznici rohlik cz ",
+    "subject": "Objednavka z Rohlik cz 1004444585",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 30,
+                "domain": "rohlik"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 19456926.30164,
+                "domain": "danone"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "rohlik",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "danone",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "rohlik",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "rohlik"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p2412100f332d832c",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Potvrzeni objednavky 1004444585 Potvrzeni objednavky 1004444585 Karolina Mullerova te",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 556,
+    "adscore": 0,
+    "spamscore": 1.1
+}

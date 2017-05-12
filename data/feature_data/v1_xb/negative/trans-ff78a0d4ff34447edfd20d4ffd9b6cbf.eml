@@ -1,0 +1,115 @@
+{
+    "phashes": [
+        {
+            "value": "p8109694e2cce8b63",
+            "name": "pepca"
+        },
+        {
+            "value": "p83eea237c4c4373c",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "neodpovidat@amio.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/trans-ff78a0d4ff34447edfd20d4ffd9b6cbf.eml",
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "pepca": "p8109694e2cce8b63",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": " Provozovatel obchodu Dasi s r o Krenova 3 602 00 Brno IC 26970449 DIC CZ26970449 ",
+    "subject": "Prijeti objednavky c 201500881 www amio cz",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 3,
+                "domain": "polaria"
+            },
+            {
+                "confidence": 3,
+                "domain": "aquapalace"
+            },
+            {
+                "confidence": 3,
+                "domain": "gmail"
+            },
+            {
+                "confidence": 3,
+                "domain": "centrum"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 63728072.47544,
+                "domain": "masterinter"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "polaria",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "masterinter",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "amio",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "amio"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p83eea237c4c4373c",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " www amio cz Vazena pani vazeny pane dekujeme za Vasi objednavku a timto potvrzujeme jeji prij",
+    "resent": true,
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 380,
+    "adscore": 0,
+    "spamscore": 1
+}

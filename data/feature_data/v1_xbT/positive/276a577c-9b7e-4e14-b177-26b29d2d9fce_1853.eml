@@ -1,0 +1,111 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pe5a5f99fe1109b58",
+    "last10words": "Bank Direct please delete this notice Copyright 2007 The Fifth Third Bank USA Direct All Rights Reserved ",
+    "pepca_style_total": 0,
+    "header_from": "operate_op-875jmt@53.com",
+    "first10words": " The 53 rd USA Login Verification Procedure Dear The 53rd Bank USA Direct member Our Technical Subdivi",
+    "attachments": [
+        {
+            "name": "sjf002.gif",
+            "pepca": "p29de26e5dc90c03a",
+            "cte": "BASE64",
+            "mime_type": "image/gif",
+            "cid": "002101c7833a$4ea1a34a$0201a8c0@microsof-0a5d19",
+            "size": 2832,
+            "flags": 0,
+            "sumphash": "b48ff06a6833e2639506b8601a4c4d83"
+        }
+    ],
+    "word_count": 197,
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/1853.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p29de26e5dc90c03a"
+        },
+        {
+            "name": "pepca",
+            "value": "pe5a5f99fe1109b58"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pff76926e0da9004c"
+        }
+    ],
+    "spamscore": 1.6,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "aweber",
+                "confidence": 66458600.1814833
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "aweber",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "en",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "The Fifth Third Bank USA Commercial Banking Strongly Recommends REF 5319",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "pff76926e0da9004c",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging",
+                "long_subject"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1,
+                0.5
+            ],
+            "score": 1.6,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

@@ -1,0 +1,105 @@
+{
+    "phashes": [
+        {
+            "value": "pa5c8139ccfcbd4d8",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p03ab1d068ebb3ff7",
+            "name": "pepca"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "customersupport_5232343fx@etrade.com",
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/402.eml",
+    "attachments": [
+        {
+            "size": 7193,
+            "name": "befoul.gif",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "20VHLIB41O",
+            "sumphash": "a7074dc2a02564002dab4c6bb0a63b32",
+            "pepca": "pa5c8139ccfcbd4d8",
+            "mime_type": "image/gif"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "long_subject"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.5
+            ],
+            "score": 1.5
+        }
+    ],
+    "pepca": "p03ab1d068ebb3ff7",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": "es involved Annie had dismounted the Lawnboy and had been standing frozen her tented fingers pressed against the peaks of her breasts devote ",
+    "subject": "E TRADE Financial urgent security notification Thu 25 Jan 2007 00 00 57 0100",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 45108939.7878786,
+                "domain": "aweber"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "aweber",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " So it s that same old game again isn t it contemplate carbonaceous Is it all cut up in that trunk his wife won t let out of her s",
+    "lang": "en",
+    "pepcatotal": 0,
+    "word_count": 127,
+    "adscore": 0,
+    "spamscore": 1.5
+}

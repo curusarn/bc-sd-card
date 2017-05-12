@@ -1,0 +1,104 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "module": "ill",
+            "score": 1
+        }
+    ],
+    "pepca": "pe209454b269b40bf",
+    "first10words": " Facebook Mily uzivateli Misa Vase heslo k Facebooku bylo obnoveno pomoci e mailove adresy misasrbova centrum cz dne 1 listopad 20",
+    "pepca_style": "",
+    "pepca_inline_style": "p42424c62c9a5e751",
+    "word_count": 256,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Obnoveni hesla k Facebooku",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1,
+    "list_unsubscribe_urls": [
+        "https://www.facebook.com/o.php?k=AS26QPOC-77xGKfR&u=100001476256276&mid=abeb2c8G5af368782214G0G18eG3e771f6f"
+    ],
+    "phishing": {},
+    "header_from": "notification+zj4o2ojoo=_9@facebookmail.com",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/72618d058aa6c04d41715413b51231e5.eml",
+    "attachments": [],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pe209454b269b40bf"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p42424c62c9a5e751"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "facebook"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "ebay",
+        "plain_domain": "facebook",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 27543795.8669938,
+                "domain": "ebay"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "facebookmail",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [
+            {
+                "confidence": 1.02856363814912,
+                "domain": "facebookmail"
+            }
+        ],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "contains_list_header": true,
+    "precedence": 3,
+    "last10words": "va byla odeslana na adresu xsrbm07 vse cz na vasi zadost Facebook Inc Attention Department 415 PO Box 10005 Palo Alto CA 94303 ",
+    "lang": "cs"
+}

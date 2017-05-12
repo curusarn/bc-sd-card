@@ -1,0 +1,130 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p0231ece4a5b3f6a8",
+    "last10words": "roby piva Prohlidka parku a barokniho detenickeho zamku s baroknimi a renesancnimi malbami ",
+    "pepca_style_total": 0,
+    "header_from": "janaburi@centrum.cz",
+    "first10words": " Ahoj holky preposilam potvrzenou rezervaci Detenic Janicka Puvodni zprava ",
+    "attachments": [
+        {
+            "name": "image001.jpg",
+            "pepca": "pc3c2c976841ee087",
+            "cte": "BASE64",
+            "mime_type": "image/jpeg",
+            "cid": "4fb30af@multimail",
+            "size": 7729,
+            "flags": 0,
+            "sumphash": "1070f29ad2b0799876abe0150c285007"
+        },
+        {
+            "name": "image002.jpg",
+            "pepca": "pb2acef166ad39715",
+            "cte": "BASE64",
+            "mime_type": "image/jpeg",
+            "cid": "137ff31@multimail",
+            "size": 1534,
+            "flags": 0,
+            "sumphash": "11b54bef9bc3a86f7bcb7fc170eda9b0"
+        }
+    ],
+    "word_count": 497,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/13dfc4bad481a857af7ede17f8a83ca2.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "pc3c2c976841ee087"
+        },
+        {
+            "name": "att-pepca",
+            "value": "pb2acef166ad39715"
+        },
+        {
+            "name": "pepca",
+            "value": "p0231ece4a5b3f6a8"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p58fcb8e0456c9347"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "firotour",
+                "confidence": 35660097.75159
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "firotour",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "zamekdetenice",
+        "plain_domain_detail": [
+            {
+                "domain": "zamekdetenice",
+                "confidence": 1
+            },
+            {
+                "domain": "detenice",
+                "confidence": 3
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Fwd RE objednavka na 15 4 2015",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "p58fcb8e0456c9347",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

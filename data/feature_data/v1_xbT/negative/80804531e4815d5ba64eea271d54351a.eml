@@ -1,0 +1,134 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pc998558da497ea62",
+    "last10words": " indirectly from accessing any of the attached files which may contain a virus or the like ",
+    "pepca_style_total": 0,
+    "header_from": "tomas.kozusnik@ec-logistics.cz",
+    "first10words": " Super dekuji S pozdravem Tomas Kozusnik Ostrava Dispecer mezin",
+    "attachments": [
+        {
+            "name": "image002.jpg",
+            "pepca": "p31d9080d8bdddc5f",
+            "cte": "BASE64",
+            "mime_type": "image/jpeg",
+            "cid": "image002.jpg@01D0185C.DEA1FC00",
+            "size": 34391,
+            "flags": 0,
+            "sumphash": "13eb6aa22b8a7a15ab24b493195cabee"
+        },
+        {
+            "name": "image003.jpg",
+            "pepca": "p31d9080d8bdddc5f",
+            "cte": "BASE64",
+            "mime_type": "image/jpeg",
+            "cid": "image003.jpg@01D0185C.DEA1FC00",
+            "size": 34392,
+            "flags": 0,
+            "sumphash": "a534e2fe222c0de85a6e73dbbf052f19"
+        }
+    ],
+    "word_count": 800,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/80804531e4815d5ba64eea271d54351a.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p31d9080d8bdddc5f"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p31d9080d8bdddc5f"
+        },
+        {
+            "name": "pepca",
+            "value": "pc998558da497ea62"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p1fa014ba879b1236"
+        }
+    ],
+    "spamscore": 1.6,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "clamav",
+                "confidence": 687394889.952
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "clamav",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "ec-logistics",
+        "plain_domain_detail": [
+            {
+                "domain": "ec-logistics",
+                "confidence": 2
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "RE Objednavka Prepravy CZ 560 02 Ceska Trebova CZ 628 00 Brno 1x pal cca 170kg Nakladka i Vykladka 15 12",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": true,
+        "5_top_domains_id_0": 0,
+        "5_top_domains_id_1": 0,
+        "5_top_domains_percent_1": 0.3333333333333333,
+        "5_top_domains_percent_0": 0.6666666666666666
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "p1fa014ba879b1236",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id",
+                "long_subject"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1,
+                0.5
+            ],
+            "score": 1.6,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

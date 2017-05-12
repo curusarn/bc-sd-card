@@ -1,0 +1,104 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pd2e69ca674f11cc4",
+    "last10words": " mob 420 776 569 749 web www vasetopeni cz e mail info vasetopeni cz Internetovy obchod s kamennou zakladnou od roku 1997 ",
+    "pepca_style_total": 0,
+    "header_from": "info@vasetopeni.cz",
+    "first10words": " Vase Topeni Online prodej Registrace noveho zakaznika Dobry den dekujeme Vam za registraci na nasem serveru Vase Topeni On",
+    "attachments": [],
+    "word_count": 78,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/8b74960da55aed88d7e6bd20c41e5bea.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pd2e69ca674f11cc4"
+        },
+        {
+            "name": "pepca_style",
+            "value": "pcedd3b7bb36aeca5"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "vasetopeni",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "realcity",
+                "confidence": 4616241.57668
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "vasetopeni",
+                "confidence": 1
+            }
+        ],
+        "domain_keywords": "realcity",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "vasetopeni",
+        "plain_domain_detail": [
+            {
+                "domain": "vasetopeni",
+                "confidence": 2
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Vase Topeni Online prodej Registrace noveho zakaznika",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "pcedd3b7bb36aeca5",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

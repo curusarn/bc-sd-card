@@ -1,0 +1,153 @@
+{
+    "phashes": [
+        {
+            "value": "p08b40dbc7bacd82b",
+            "name": "pepca"
+        },
+        {
+            "value": "p02f5e9ff5106e8d2",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "ds@vyssihradek.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/trans-fec4a4c85c037b9a6f644713501835b3.eml",
+    "attachments": [
+        {
+            "size": 0,
+            "name": "image001.jpg",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "F652619E2BFD4E8CAE8D34F97FE5A4A8@Marketa",
+            "sumphash": "dc5b5ace27d0916fed08dfee55dd0748",
+            "mime_type": "image/jpeg"
+        },
+        {
+            "size": 0,
+            "name": "image002.png",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "5E3EC645FCD24D0B83AB269958A69AB9@Marketa",
+            "sumphash": "dc5b5ace27d0916fed08dfee55dd0748",
+            "mime_type": "image/png"
+        },
+        {
+            "size": 0,
+            "name": "image003.png",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "59E9DA76E52642CB9FAC839FAEE71F7E@Marketa",
+            "sumphash": "dc5b5ace27d0916fed08dfee55dd0748",
+            "mime_type": "image/png"
+        },
+        {
+            "size": 0,
+            "name": "cenova-nab\u00eddka-doporucena-maloobchod.pdf",
+            "cte": "BASE64",
+            "flags": 0,
+            "sumphash": "dc5b5ace27d0916fed08dfee55dd0748",
+            "mime_type": "text/plain"
+        },
+        {
+            "size": 0,
+            "name": "cenova-nabidka-zamestnanci.pdf",
+            "cte": "BASE64",
+            "flags": 0,
+            "sumphash": "dc5b5ace27d0916fed08dfee55dd0748",
+            "mime_type": "text/plain"
+        },
+        {
+            "size": 0,
+            "name": "cenova-nabidka-velkoobchod.pdf",
+            "cte": "BASE64",
+            "flags": 0,
+            "sumphash": "dc5b5ace27d0916fed08dfee55dd0748",
+            "mime_type": "text/plain"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "pepca": "p08b40dbc7bacd82b",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": "i druzstvo Sokolovska 129 50 186 00 Praha 8 Tel 420 734 178 197 E mail prazirna fair bio cz Web www fair bio cz ",
+    "subject": "objednavka kavy",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 21475533.21582,
+                "domain": "slevy4u"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "slevy4u",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "vyssihradek",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "vyssihradek"
+            },
+            {
+                "confidence": 2,
+                "domain": "fair-bio"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p02f5e9ff5106e8d2",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Pekny den A kdo bude mit zajem o objednavku kavy zA prazirny at se mi ozve do patku 16 1 2015",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 542,
+    "adscore": 0,
+    "spamscore": 1
+}

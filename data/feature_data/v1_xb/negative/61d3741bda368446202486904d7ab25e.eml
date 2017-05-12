@@ -1,0 +1,99 @@
+{
+    "phashes": [
+        {
+            "value": "pf914f00d402e1aa2",
+            "name": "pepca"
+        },
+        {
+            "value": "pa4670e38f3d799c1",
+            "name": "pepca_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "info@vataonline.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/61d3741bda368446202486904d7ab25e.eml",
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "pepca": "pf914f00d402e1aa2",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "pa4670e38f3d799c1",
+    "last10words": "e heslo Na zaklade zadosti na nasem webu Vam bylo vygenerovano nove heslo k Vasemu uzivatelskemu uctu heslo PcOHeXJI ",
+    "subject": "VATAonline cz nove heslo",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 6415498.30089,
+                "domain": "skype"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "skype",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "vataonline",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "vataonline"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 1,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " VATAonline cz nove heslo Na zaklade zadosti na nasem webu Vam bylo vygenerovano nove heslo k Vasemu uzivatelskemu uctu ",
+    "lang": "cs",
+    "pepcatotal": 1,
+    "word_count": 26,
+    "adscore": 0,
+    "spamscore": 1.1
+}

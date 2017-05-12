@@ -1,0 +1,165 @@
+{
+    "phashes": [
+        {
+            "value": "p32410c9588f71388",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p13f36d8c25fde45e",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p60f619a1b0d8c659",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p53f9b0ab2f92058c",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p95db8b0f12080ced",
+            "name": "pepca"
+        },
+        {
+            "value": "p11eb22209312a246",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "recepce@intersign.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/951d9ef40e120f589462e62258d3c383.eml",
+    "attachments": [
+        {
+            "size": 3295,
+            "name": "image001.jpg",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "image001.jpg@01D0185F.3AD43590",
+            "sumphash": "0bc3d447c35c008d13c9c11022f8af21",
+            "pepca": "p32410c9588f71388",
+            "mime_type": "image/jpeg"
+        },
+        {
+            "size": 4760,
+            "name": "image002.jpg",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "image002.jpg@01D0185F.3AD43590",
+            "sumphash": "2bf3e367c9c8ed64d1636427a56e47a6",
+            "pepca": "p13f36d8c25fde45e",
+            "mime_type": "image/jpeg"
+        },
+        {
+            "size": 3468,
+            "name": "image003.jpg",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "image003.jpg@01D0185F.3AD43590",
+            "sumphash": "1ed14fe55c004e73e8b50a2696fae5ee",
+            "pepca": "p60f619a1b0d8c659",
+            "mime_type": "image/jpeg"
+        },
+        {
+            "first10words": "Faktura danovy doklad Zaloha neni danovy doklad cislo Dodavatel INTERSIGN",
+            "size": 172541,
+            "mime_type": "application/pdf",
+            "cte": "BASE64",
+            "flags": 0,
+            "lang": "cs",
+            "name": "3141132_Z.pdf",
+            "pepca": "p53f9b0ab2f92058c",
+            "sumphash": "3212ac81885ff65ce26e1f811e907f32"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "pepca": "p95db8b0f12080ced",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": " Dekujeme Provozovatel e shopu INTERSIGN s r o Libusska 258 109 142 00 Praha 4 IC 28912748 DIC CZ28912748 ",
+    "subject": "faktura k proplaceni prevodem predem",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 99190763.112,
+                "domain": "totaljobsmail"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "totaljobsmail",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "pera-waterman",
+        "plain_domain_detail": [
+            {
+                "confidence": 3,
+                "domain": "pera-waterman"
+            },
+            {
+                "confidence": 3,
+                "domain": "pero-parker"
+            },
+            {
+                "confidence": 2,
+                "domain": "zapiky"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p11eb22209312a246",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Dobry den zasilam fakturu k proplaceni Vyroba bude zahajena Zakazka bude expedovana Montaz bude provedena po jejim za",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 1004,
+    "adscore": 0,
+    "spamscore": 1.1
+}

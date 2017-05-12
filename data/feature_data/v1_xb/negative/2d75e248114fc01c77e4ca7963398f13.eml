@@ -1,0 +1,123 @@
+{
+    "phashes": [
+        {
+            "value": "p4715962b715a544f",
+            "name": "pepca"
+        },
+        {
+            "value": "p468554068c149993",
+            "name": "pepca_style"
+        },
+        {
+            "value": "p4bd3e517a29e02fc",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "support@happystudio.com",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/2d75e248114fc01c77e4ca7963398f13.eml",
+    "unsub_link_candidates": [
+        "http://0twg.mj.is/link/0twg/tl20u14/6/h8EZg4vKSw09Wi4s7bGJ7A/aHR0cDovL3d3dy5oYXBweXN0dWRpby5jb206ODAvUGFyZW50L1BhbmVsL1Rlcm1zP2xhbmdjb2RlPWNzJmNvdW50cnljb2RlPWN6"
+    ],
+    "attachments": [],
+    "contains_list_header": true,
+    "last10words": " Loga McDonald s Happy The Happy Meal Happy Studio jsou ochranne znamky a spolecnosti McDonald s ",
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "evil_script",
+                "from_missmatch",
+                "html_a_href_camouflaging",
+                "html_ent_text_plain"
+            ],
+            "subscores": [
+                1,
+                0.1,
+                0.0,
+                0.1,
+                4.1
+            ],
+            "score": 5.3
+        }
+    ],
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "p468554068c149993",
+    "pepca": "p4715962b715a544f",
+    "subject": "HappyStudio com Potvrzeni Registrace Ditete",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 13,
+                "domain": "happystudio"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 9930366.50509,
+                "domain": "er0tickykontakt5"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "happystudio",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "er0tickykontakt5",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "happystudio",
+        "plain_domain_detail": [
+            {
+                "confidence": 2,
+                "domain": "happystudio"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p4bd3e517a29e02fc",
+    "unsub_link_texts": [
+        " obchodny podminka "
+    ],
+    "list_unsubscribe_urls": [
+        "mailto:unsub-c8b433d2.0twg.tl20u14@bnc.mailjet.com"
+    ],
+    "unsub_link": "http://0twg.mj.is/link/0twg/tl20u14/6/h8EZg4vKSw09Wi4s7bGJ7A/aHR0cDovL3d3dy5oYXBweXN0dWRpby5jb206ODAvUGFyZW50L1BhbmVsL1Rlcm1zP2xhbmdjb2RlPWNzJmNvdW50cnljb2RlPWN6",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " HAPPYSTUDIO COM POTVRZENI REGISTRACE DITETE Aktivujte ucet sveho ditete ",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 638,
+    "adscore": 0,
+    "spamscore": 5.3
+}

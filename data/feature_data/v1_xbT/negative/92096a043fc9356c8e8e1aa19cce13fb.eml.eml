@@ -1,0 +1,169 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p87660f6e84797cba",
+    "last10words": " nastaveno 06B A A 2004 2015 SoNet spol s r o POSMan v1 4 12 1 2015 ",
+    "pepca_style_total": 0,
+    "header_from": "eposman@sonet.cz",
+    "first10words": " Objednavka c EBAO15010421 servisni zasah Provozovna 2044902507 SLA STA A ",
+    "attachments": [
+        {
+            "name": "rb-logo.gif",
+            "pepca": "p9f1d910b25bc487e",
+            "cte": "BASE64",
+            "mime_type": "image/gif",
+            "cid": "/srv/tomcat/eposman/logo/eba/rb-logo.gif",
+            "size": 2753,
+            "flags": 0,
+            "sumphash": "e5bcd3da35dd3091efb0e4bb19bc2361"
+        },
+        {
+            "name": "eposmanlogo_small3.jpg",
+            "pepca": "p1bef6c283f33f15d",
+            "cte": "BASE64",
+            "mime_type": "image/jpeg",
+            "cid": "/srv/tomcat/eposman/logo/eba/eposmanlogo_small3.jpg",
+            "size": 10377,
+            "flags": 0,
+            "sumphash": "208306f37588290400cd6717cb689e37"
+        },
+        {
+            "mime_type": "application/pdf",
+            "name": "ATTCH_EBAR15010488_SU.pdf",
+            "first10words": "Protokol o servisnim zasahu Objednavka c EBAO EBAO SoNet spol",
+            "pepca": "pd3d267c0c861d805",
+            "lang": "cs",
+            "cte": "BASE64",
+            "size": 113668,
+            "flags": 0,
+            "sumphash": "a3440cda2759d34b2ddd6ada03495c6d"
+        },
+        {
+            "mime_type": "application/pdf",
+            "name": "ATTCH_EBAO15010421_SU.pdf",
+            "first10words": "Objednavka servisniho zasahu Objednavka c EBAO EBAO SoNet spol s",
+            "pepca": "p48f0bcc54b4cb589",
+            "lang": "cs",
+            "cte": "BASE64",
+            "size": 103983,
+            "flags": 0,
+            "sumphash": "b3e143ea8d4bbcfc9d67e83d96f8fefb"
+        },
+        {
+            "mime_type": "application/pdf",
+            "name": "ATTCH_EBAR15010488_TR.pdf",
+            "first10words": "Protokol o skoleni Obsluha platebniho terminalu a akceptace platebnich karet",
+            "pepca": "p9b40f67e83adbbf3",
+            "lang": "cs",
+            "cte": "BASE64",
+            "size": 112996,
+            "flags": 0,
+            "sumphash": "3031e6c18fb6c1edc7fb2cfbde89f82a"
+        }
+    ],
+    "word_count": 314,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/92096a043fc9356c8e8e1aa19cce13fb.eml.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p9f1d910b25bc487e"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p1bef6c283f33f15d"
+        },
+        {
+            "name": "att-pepca",
+            "value": "pd3d267c0c861d805"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p48f0bcc54b4cb589"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p9b40f67e83adbbf3"
+        },
+        {
+            "name": "pepca",
+            "value": "p87660f6e84797cba"
+        }
+    ],
+    "spamscore": 1.5,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "topsleva",
+                "confidence": 16164338.8117
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "topsleva",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "sonet",
+        "plain_domain_detail": [
+            {
+                "domain": "sonet",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Objednavka c EBAO15010421 servisni zasah Obchod kompresory Ceske Budejovice Nemanicka 436 7 ICO 14498553",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "long_subject"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.5
+            ],
+            "score": 1.5,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

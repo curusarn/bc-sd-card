@@ -1,0 +1,139 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "module": "ill",
+            "score": 1.1
+        }
+    ],
+    "pepca": "p6f426db7c67aab63",
+    "first10words": " Dekujeme za zaslanou objednavku Po zpracovani objednavky nasim obchodnim oddelenim obdrzite na email zavazne potvrzeni s d",
+    "pepca_style": "p376e0853d0ceabb4",
+    "pepca_inline_style": "p68f33c050ae2e687",
+    "unsub_link": "http://www.supersektor.cz/vse-o-nakupu",
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Objednavka c 15125629785 z www supersektor cz",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.1,
+    "word_count": 256,
+    "phishing": {},
+    "header_from": "info@supersektor.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/34c8abea554d79a9691d5220fe023e55.eml",
+    "attachments": [
+        {
+            "size": 102043,
+            "mime_type": "application/pdf",
+            "flags": 0,
+            "pepca": "p5ac8019ba2eae479",
+            "first10words": "Obchodni podminky Supersektor Obchodni podminky SUPERSEKTOR s r o obchodni",
+            "cte": "BASE64",
+            "sumphash": "8f8c32cec4b601adf8ec376ce74954c6",
+            "name": "Obchodni podminky Supersektor.pdf",
+            "lang": "cs"
+        },
+        {
+            "size": 143534,
+            "mime_type": "application/pdf",
+            "flags": 0,
+            "pepca": "p3e1d6965de1d5d7d",
+            "first10words": "Odstoupeni spotrebitele od smlouvy do dni od prevzeti zbozi Provozovna",
+            "cte": "BASE64",
+            "sumphash": "4341969acecce93da7137d2e97bb96ee",
+            "name": "Odstoupeni od smlouvy.pdf",
+            "lang": "cs"
+        }
+    ],
+    "adscore": 0,
+    "unsub_link_texts": [
+        "odkaz na obchodny podminka "
+    ],
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p5ac8019ba2eae479"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p3e1d6965de1d5d7d"
+        },
+        {
+            "name": "pepca",
+            "value": "p6f426db7c67aab63"
+        },
+        {
+            "name": "pepca_style",
+            "value": "p376e0853d0ceabb4"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p68f33c050ae2e687"
+        }
+    ],
+    "unsub_link_candidates": [
+        "http://www.supersektor.cz/vse-o-nakupu"
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "supersektor"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "masterinter",
+        "plain_domain": "supersektor",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 25491228.990176,
+                "domain": "masterinter"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "ma je zapsana v OR od 17 cervna 2008 spis veden u KS v Brne oddil C vlozka 59001 Poznamka Odkaz na obchodni podminky ",
+    "lang": "cs"
+}

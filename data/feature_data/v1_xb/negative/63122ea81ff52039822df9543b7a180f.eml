@@ -1,0 +1,118 @@
+{
+    "phashes": [
+        {
+            "value": "pf0ab060ac437451a",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p35596dd86df41a3b",
+            "name": "pepca"
+        },
+        {
+            "value": "p34db56723b0c611d",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "ludek.burian@adacpneu.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/63122ea81ff52039822df9543b7a180f.eml",
+    "attachments": [
+        {
+            "size": 8492,
+            "name": "logo_mail.jpg",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "swift-1418640512548ebc8098d56.0@www.adac-pneu.cz",
+            "sumphash": "c25c4ee2944683d464f9f8f2f2eb6dee",
+            "pepca": "pf0ab060ac437451a",
+            "mime_type": "image/jpeg"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "pepca": "p35596dd86df41a3b",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": "epublika 583285414 Zprava od zakaznika Zadna zprava ADACPNEU s r o funguje na systemu PrestaShop ",
+    "subject": " ADACPNEU s r o Nova objednavka 006553",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 10123435.1449986,
+                "domain": "vshosting"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "vshosting",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "adac-pneu",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "adac-pneu"
+            },
+            {
+                "confidence": 1,
+                "domain": "prestashop"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p34db56723b0c611d",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Vypis nove objednavky c id order z obchodu ADACPNEU s r o Zakaznik Libor Niederle vytvoril novou objednavku ",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 257,
+    "adscore": 0,
+    "spamscore": 1.1
+}

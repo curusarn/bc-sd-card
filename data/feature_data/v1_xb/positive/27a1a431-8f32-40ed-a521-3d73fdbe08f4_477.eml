@@ -1,0 +1,109 @@
+{
+    "phashes": [
+        {
+            "value": "pdccde32bab8d19cb",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p8eba8fc61e8134d5",
+            "name": "pepca"
+        },
+        {
+            "value": "p0b7a91d0689750ee",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "technical_department-id-708ziy@bbandt.com",
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/477.eml",
+    "attachments": [
+        {
+            "size": 2220,
+            "name": "lyz942.gif",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "000601c1934b$d9a5566a$d03204bd@particul-op97hf",
+            "sumphash": "502e1e8ff8eddee7cbe29a1996c189f8",
+            "pepca": "pdccde32bab8d19cb",
+            "mime_type": "image/gif"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "pepca": "p8eba8fc61e8134d5",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": "tomer of the BB T please ignore this notification Copyright C 2007 BB T Company USA All Rights Reserved ",
+    "subject": "BB T CashManager On line Confirmation Process",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 58314268.50908,
+                "domain": "mcsv"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "mcsv",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p0b7a91d0689750ee",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Branch Banking and Trust US Login Confirmation Procedure Dear Branch Banking and Trust CashManager On line member ",
+    "lang": "en",
+    "pepcatotal": 0,
+    "word_count": 197,
+    "adscore": 0,
+    "spamscore": 1.1
+}

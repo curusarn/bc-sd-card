@@ -1,0 +1,161 @@
+{
+    "pepca_inline_style_total": 4,
+    "pepca": "p31281658ec03c2ce",
+    "last10words": "trovana v Anglii a Walesu pod cislem CRN 7540255 se sidlem na adrese Media Village 131 151 Great Titchfield Street Londyn W1W 5BB ",
+    "universalprobes": [
+        {
+            "key": "ps-from_mismatch",
+            "value": "1"
+        },
+        {
+            "key": "ps-unsub_link",
+            "value": "1"
+        },
+        {
+            "key": "ps-many_emails",
+            "value": "1"
+        }
+    ],
+    "list_unsubscribe_urls": [
+        "mailto:unsubscribe+8_2522913664929459200_16_480112@badoo.com?subject=YgOKKchM3mPgEEp4Dvsi9vu7IAnkuzqLXbEHmqDK4lE"
+    ],
+    "dkstatus": {},
+    "header_from": "noreply@badoo.com",
+    "spfstatus": {},
+    "contains_list_header": true,
+    "lang": "cs",
+    "attachments": [],
+    "word_count": 139,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/b2691257998f096422167513b9a0ab7a.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p31281658ec03c2ce"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pc7ad7d0d0a5d2bff"
+        }
+    ],
+    "spamscore": 2,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "badoo",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "badoo",
+                "confidence": 200579670.83895
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "badoo",
+                "confidence": 1
+            }
+        ],
+        "domain_keywords": "badoo",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "pepcatotal": 4,
+    "adNotches": [
+        {
+            "name": [
+                "images_in_subject"
+            ],
+            "subscores": [
+                5
+            ],
+            "score": 5,
+            "module": "ill"
+        }
+    ],
+    "dmarc_status": {},
+    "phish_score": -2.5,
+    "domainstat": {},
+    "precedence": 3,
+    "extractedEmailsTotalCount": {},
+    "subject": " Dokoncete vasi Badoo registraci ",
+    "unsub_link_texts": [
+        "pokud si neprat dostavat zadny dalsi zprava od badoo paka kliknout zde a odhlasit se"
+    ],
+    "adscore": 5,
+    "first10words": " Dokoncete vasi Badoo registraci Jste skoro tam Chcete li dokoncit vasi registraci a poznavat super lidi na Badoo pak kl",
+    "unsub_link": "https://eu1.badoo.com/impersonation.phtml?lang_id=16&email=laika77%40seznam.cz&block_code=02baac&m=8&mid=544ff9130000003c0010004604606613023e8cb60000&g=0-0-1",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "unsub_link_candidates": [
+        "https://eu1.badoo.com/impersonation.phtml?lang_id=16&email=laika77%40seznam.cz&block_code=02baac&m=8&mid=544ff9130000003c0010004604606613023e8cb60000&g=0-0-1"
+    ],
+    "domainstat_themes": {},
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "images_in_subject"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                1
+            ],
+            "score": 2,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1,
+    "theme": {},
+    "pepca_style_total": 0,
+    "phNotches": [
+        {
+            "name": [
+                "from_mismatch",
+                "phisheable",
+                "unsub_link",
+                "many_emails"
+            ],
+            "subscores": [
+                1,
+                0.5,
+                -2,
+                -2
+            ],
+            "score": -2.5,
+            "module": "phish-score"
+        }
+    ],
+    "pepca_inline_style": "pc7ad7d0d0a5d2bff"
+}

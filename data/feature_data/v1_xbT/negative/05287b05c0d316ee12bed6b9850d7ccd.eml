@@ -1,0 +1,109 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pdbd64d592f560b1a",
+    "last10words": "cz 420 774 897 927 Vseobecne obchodni podminky I Formular pro odstoupeni od kupni smlouvy ",
+    "pepca_style_total": 0,
+    "unsub_link_texts": [
+        " vseobecny obchodny podminka i"
+    ],
+    "header_from": "info@top-armyshop.cz",
+    "unsub_link_candidates": [
+        "http://www.top-armyshop.cz/obchodni-podminky"
+    ],
+    "first10words": " Dobry den Vase objednavka c 572201 vytvorena 12 12 2014 16 49 05 byla prave odeslana Obsah objednavky Pro",
+    "attachments": [],
+    "word_count": 223,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/05287b05c0d316ee12bed6b9850d7ccd.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pdbd64d592f560b1a"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pb0ba2328284164e2"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "top-armyshop",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "infopraca",
+                "confidence": 14658946.25494
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "top-armyshop",
+                "confidence": 2
+            }
+        ],
+        "domain_keywords": "infopraca",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "top-armyshop",
+        "plain_domain_detail": [
+            {
+                "domain": "top-armyshop",
+                "confidence": 2
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Objednavka c 572201 odeslana",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "unsub_link": "http://www.top-armyshop.cz/obchodni-podminky",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "pb0ba2328284164e2",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

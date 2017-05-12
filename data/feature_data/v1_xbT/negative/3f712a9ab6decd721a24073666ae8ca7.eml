@@ -1,0 +1,114 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p1fb225c74ca47c04",
+    "last10words": "Sent Monday December 15 2014 9 29 AM To jicinska nh styl plzen cz Subject andelicek A A ",
+    "pepca_style_total": 0,
+    "header_from": "mendlova@styl-plzen.cz",
+    "first10words": " A Original Message From Marcela Jicinska To Vaclava Mendlova Sent Monday December 15 2014 9 53 AM Sub",
+    "attachments": [
+        {
+            "name": "image002.jpg",
+            "pepca": "pe34d364f228c6e92",
+            "cte": "BASE64",
+            "mime_type": "image/jpeg",
+            "cid": "7E791E83A6594705A88692982AC35CAF@styl.plzen.cz",
+            "size": 1221,
+            "flags": 0,
+            "sumphash": "f9dd6ec999c98b6cbbf139f4073b20d9"
+        }
+    ],
+    "word_count": 287,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/3f712a9ab6decd721a24073666ae8ca7.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "pe34d364f228c6e92"
+        },
+        {
+            "name": "pepca",
+            "value": "p1fb225c74ca47c04"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pf5ad34f27d1746fa"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "drmax",
+                "confidence": 6744771.4155
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "drmax",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "styl-plzen",
+        "plain_domain_detail": [
+            {
+                "domain": "styl-plzen",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Fw andelicek objednavka",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "pf5ad34f27d1746fa",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

@@ -1,0 +1,102 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pdf5b18be9703d551",
+    "last10words": "0x162 0x15 0x11652857 0x7226 0x6 rev function 0x3921 0x5992 0x3332 0x495 0x956 0x85 0x596 0x44225519 0x83540397 0x30673385 0x4 ",
+    "pepca_style_total": 0,
+    "header_from": "corporateservice.ref670448286.cm@nationalcity.com",
+    "first10words": " Dear National City business client The National City Corporate Customer Service requests you to complete the National City Busine",
+    "attachments": [],
+    "word_count": 349,
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/529.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pdf5b18be9703d551"
+        }
+    ],
+    "spamscore": 1.6,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "mcsv",
+                "confidence": 25560319.95042
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "mcsv",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "en",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "urgent security notification for client of the National City mess id M130192410422 ",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": true,
+        "5_top_domains_id_1": 1,
+        "5_top_domains_percent_1": 0.14285714285714285,
+        "5_top_domains_percent_3": 0.14285714285714285,
+        "5_top_domains_id_0": 0,
+        "5_top_domains_percent_0": 0.14285714285714285,
+        "5_top_domains_id_4": 0,
+        "5_top_domains_id_2": 0,
+        "5_top_domains_percent_4": 0.14285714285714285,
+        "5_top_domains_percent_2": 0.14285714285714285,
+        "5_top_domains_id_3": 1
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging",
+                "long_subject"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1,
+                0.5
+            ],
+            "score": 1.6,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

@@ -1,0 +1,109 @@
+{
+    "phashes": [
+        {
+            "value": "p054e21a535383ab7",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p879f3fd886f6faef",
+            "name": "pepca"
+        },
+        {
+            "value": "pff76926e0da9004c",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "technical_support-op_46rj@53.com",
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/1819.eml",
+    "attachments": [
+        {
+            "size": 2782,
+            "name": "ecs433.gif",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "000b01c77d72$cb481f96$0301010a@RohoruaFamily",
+            "sumphash": "e882f7d03c3ecdea52185d0a59ebf0c3",
+            "pepca": "p054e21a535383ab7",
+            "mime_type": "image/gif"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "pepca": "p879f3fd886f6faef",
+    "phishing": {
+        "ner_domain_detected": true
+    },
+    "pepca_style": "",
+    "last10words": " The 53 rd USA Direct please disregard this notice Copyright 2007 The Fifth Third Bank All Rights Reserved ",
+    "subject": "Fifth Third USA Commercial Banking Online Banking Service Upgrade",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 38271292.7594323,
+                "domain": "aweber"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "aweber",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "pff76926e0da9004c",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Fifth Third Treasury Management Login Confirmation Procedure Dear 53 rd USA user Our Maintenance Subd",
+    "lang": "en",
+    "pepcatotal": 0,
+    "word_count": 191,
+    "adscore": 0,
+    "spamscore": 1.1
+}

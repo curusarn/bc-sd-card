@@ -1,0 +1,122 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "module": "ill",
+            "score": 1
+        }
+    ],
+    "pepca": "pa1991f329ca68772",
+    "first10words": " fiestasiestaman Dobry den fiestasiestaman Heslo vaseho uctu Google fiestasiestaman gmail com bylo nedavno ",
+    "pepca_style": "",
+    "pepca_inline_style": "pd40d04ccf081efae",
+    "word_count": 182,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Heslo uctu Google bylo zmeneno",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1,
+    "phishing": {
+        "5_top_domains_percent_0": 1.0,
+        "5_top_domains_id_0": 0
+    },
+    "header_from": "no-reply@accounts.google.com",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/2de45239c608ee0ee3f592b853c4a252.eml",
+    "attachments": [
+        {
+            "size": 2357,
+            "mime_type": "image/png",
+            "flags": 0,
+            "pepca": "p9532579ebfc512df",
+            "cid": "google",
+            "cte": "BASE64",
+            "sumphash": "3b20f5759b4a7902c9ca6600ec3d5a37",
+            "name": "google.png"
+        },
+        {
+            "size": 1119,
+            "mime_type": "image/jpeg",
+            "flags": 0,
+            "pepca": "pf05ec638bf58f8df",
+            "cid": "profilephoto",
+            "cte": "BASE64",
+            "sumphash": "ad9397117f8253368133dbe78d9cdd53",
+            "name": "profilephoto.jpeg"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p9532579ebfc512df"
+        },
+        {
+            "name": "att-pepca",
+            "value": "pf05ec638bf58f8df"
+        },
+        {
+            "name": "pepca",
+            "value": "pa1991f329ca68772"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pd40d04ccf081efae"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "google",
+        "plain_domain": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 115375406.411959,
+                "domain": "google"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "nach ve sluzbe nebo uctu Google ktere pouzivate AS 2014 Google Inc 1600 Amphitheatre Parkway Mountain View CA 94043 USA ",
+    "lang": "cs"
+}

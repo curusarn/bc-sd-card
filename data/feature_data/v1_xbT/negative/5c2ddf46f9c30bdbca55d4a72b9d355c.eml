@@ -1,0 +1,101 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p39b7cd4a90fe87a2",
+    "last10words": " Anext Ulice c p Suche myto 1 Mesto Bratislava PSC 81103 Telefon 421904655209 E mail martin atrip sk ",
+    "pepca_style_total": 0,
+    "header_from": "dampex@seznam.cz",
+    "first10words": " Rekapitulace zmena registrace zakaznika Vazeny zakazniku zmena Vasi registrace v e shopu na www dampex cz probehl",
+    "attachments": [],
+    "word_count": 215,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/5c2ddf46f9c30bdbca55d4a72b9d355c.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p39b7cd4a90fe87a2"
+        },
+        {
+            "name": "pepca_style",
+            "value": "p1e0295f6aad7b365"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p1a7767cf020a0e98"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "zlavydnes",
+                "confidence": 10938990.68806
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "zlavydnes",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "dampex",
+        "plain_domain_detail": [
+            {
+                "domain": "dampex",
+                "confidence": 2
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Rekapitulace zmena registrace zakaznika",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "p1e0295f6aad7b365",
+    "pepca_inline_style": "p1a7767cf020a0e98",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

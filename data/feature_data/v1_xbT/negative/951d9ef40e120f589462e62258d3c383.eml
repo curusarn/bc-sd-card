@@ -1,0 +1,165 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p95db8b0f12080ced",
+    "last10words": " Dekujeme Provozovatel e shopu INTERSIGN s r o Libusska 258 109 142 00 Praha 4 IC 28912748 DIC CZ28912748 ",
+    "pepca_style_total": 0,
+    "header_from": "recepce@intersign.cz",
+    "first10words": " Dobry den zasilam fakturu k proplaceni Vyroba bude zahajena Zakazka bude expedovana Montaz bude provedena po jejim za",
+    "attachments": [
+        {
+            "name": "image001.jpg",
+            "pepca": "p32410c9588f71388",
+            "cte": "BASE64",
+            "mime_type": "image/jpeg",
+            "cid": "image001.jpg@01D0185F.3AD43590",
+            "size": 3295,
+            "flags": 0,
+            "sumphash": "0bc3d447c35c008d13c9c11022f8af21"
+        },
+        {
+            "name": "image002.jpg",
+            "pepca": "p13f36d8c25fde45e",
+            "cte": "BASE64",
+            "mime_type": "image/jpeg",
+            "cid": "image002.jpg@01D0185F.3AD43590",
+            "size": 4760,
+            "flags": 0,
+            "sumphash": "2bf3e367c9c8ed64d1636427a56e47a6"
+        },
+        {
+            "name": "image003.jpg",
+            "pepca": "p60f619a1b0d8c659",
+            "cte": "BASE64",
+            "mime_type": "image/jpeg",
+            "cid": "image003.jpg@01D0185F.3AD43590",
+            "size": 3468,
+            "flags": 0,
+            "sumphash": "1ed14fe55c004e73e8b50a2696fae5ee"
+        },
+        {
+            "mime_type": "application/pdf",
+            "name": "3141132_Z.pdf",
+            "first10words": "Faktura danovy doklad Zaloha neni danovy doklad cislo Dodavatel INTERSIGN",
+            "pepca": "p53f9b0ab2f92058c",
+            "lang": "cs",
+            "cte": "BASE64",
+            "size": 172541,
+            "flags": 0,
+            "sumphash": "3212ac81885ff65ce26e1f811e907f32"
+        }
+    ],
+    "word_count": 1004,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/951d9ef40e120f589462e62258d3c383.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p32410c9588f71388"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p13f36d8c25fde45e"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p60f619a1b0d8c659"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p53f9b0ab2f92058c"
+        },
+        {
+            "name": "pepca",
+            "value": "p95db8b0f12080ced"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p11eb22209312a246"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "totaljobsmail",
+                "confidence": 99190763.112
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "totaljobsmail",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "pera-waterman",
+        "plain_domain_detail": [
+            {
+                "domain": "pera-waterman",
+                "confidence": 3
+            },
+            {
+                "domain": "pero-parker",
+                "confidence": 3
+            },
+            {
+                "domain": "zapiky",
+                "confidence": 2
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "faktura k proplaceni prevodem predem",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "p11eb22209312a246",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

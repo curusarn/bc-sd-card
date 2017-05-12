@@ -1,0 +1,109 @@
+{
+    "phashes": [
+        {
+            "value": "p2e0ef7105c2e52bf",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p84088183b18baa8f",
+            "name": "pepca"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "objednavky@filmnadvd.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/15060c51c9cc64a11c15fc65b98ba9ab.eml",
+    "attachments": [
+        {
+            "first10words": "Faktura cislo Vladimir Daniel Faktura danovy doklad cislo Dodavatel Vladimir",
+            "size": 82178,
+            "mime_type": "application/pdf",
+            "cte": "BASE64",
+            "flags": 0,
+            "lang": "cs",
+            "name": "faktura1412130086.pdf",
+            "pepca": "p2e0ef7105c2e52bf",
+            "sumphash": "ce6a3087b29ae9b87a55c21a001f87c9"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "pepca": "p84088183b18baa8f",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": " a prejeme spoustu zabavy Ohodnotte obchod pro ostatni nakupujici bude to trvat jen minutku dekujeme http www zbozi cz obchod 64690 ",
+    "subject": "FilmNaDVD cz Vase objednavka c 1412130086 byla odeslana",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 50982457.980352,
+                "domain": "masterinter"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "masterinter",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "filmnadvd",
+        "plain_domain_detail": [
+            {
+                "confidence": 2,
+                "domain": "filmnadvd"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " FilmNaDVD cz Vase objednavka c 1412130086 byla odeslana Vazeny z",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 98,
+    "adscore": 0,
+    "spamscore": 1
+}

@@ -1,0 +1,107 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "module": "ill",
+            "score": 1.1
+        }
+    ],
+    "pepca": "pac81cc1085887c10",
+    "first10words": " Dobry den Zuzko posilam fakturu za listopad 2014 Na leden mam predbezniu objednavku na rotogym bude jeste Pani reditelka by ",
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "word_count": 71,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Faktura za listopad 2014",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.1,
+    "phishing": {
+        "5_top_domains_percent_0": 1.0,
+        "5_top_domains_id_0": 0
+    },
+    "header_from": "Alena.Neshybova@seznam.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/c34a2179b70367a44ad208eab98d2b82.eml",
+    "attachments": [
+        {
+            "size": 702494,
+            "mime_type": "application/pdf",
+            "flags": 0,
+            "pepca": "pa7c3e150ebeb6ff6",
+            "cid": "m14a4d8b88adm1249",
+            "cte": "BASE64",
+            "sumphash": "c7950a2a455d4a4fc988efe33bace2d4",
+            "name": "skenov\u00e1n\u00ed0018.pdf",
+            "lang": "un"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "pa7c3e150ebeb6ff6"
+        },
+        {
+            "name": "pepca",
+            "value": "pac81cc1085887c10"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "euvikendy",
+        "plain_domain": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 304404.895356,
+                "domain": "euvikendy"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": " skolek me poukazalo na leden s tim ze budou nakuupvat z provizoria Snad mam fakturu dobre Preji hezky den Alena ",
+    "lang": "cs"
+}

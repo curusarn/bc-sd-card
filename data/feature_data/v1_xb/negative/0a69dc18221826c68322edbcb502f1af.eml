@@ -1,0 +1,108 @@
+{
+    "phashes": [
+        {
+            "value": "p22166657a34ef910",
+            "name": "pepca"
+        },
+        {
+            "value": "pbb9ed945900c20d1",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "info@gopass.sk",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/0a69dc18221826c68322edbcb502f1af.eml",
+    "attachments": [],
+    "contains_list_header": true,
+    "last10words": " GoPass e shop www gopass sk info gopass sk 0850 122 155 421 220 510 448 ",
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca": "p22166657a34ef910",
+    "subject": "Zabudnute heslo",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 10,
+                "domain": "reserved"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 25202252.80321,
+                "domain": "gopass"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "reserved",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "gopass",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "gopass",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "gopass"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "pbb9ed945900c20d1",
+    "list_unsubscribe_urls": [
+        "info@gopass.sk"
+    ],
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Zabudnute heslo Nezobrazuje sa Vam tento email spravne Pozrite si ho vo svojom prehliadaci ",
+    "lang": "sk",
+    "pepcatotal": 0,
+    "word_count": 212,
+    "adscore": 0,
+    "spamscore": 1.1
+}

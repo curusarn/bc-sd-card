@@ -1,0 +1,99 @@
+{
+    "phashes": [
+        {
+            "value": "pf33b715737dfd098",
+            "name": "pepca"
+        },
+        {
+            "value": "p2813c95d4b345249",
+            "name": "pepca_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "info@obleceni-pro.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/trans-ff4f83ef636d261dcd05833c779ca206.eml",
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "pepca": "pf33b715737dfd098",
+    "phishing": {
+        "ner_domain_detected": true
+    },
+    "pepca_style": "p2813c95d4b345249",
+    "last10words": " 1 0 00 Kc 0 00 0 00 Kc 24 79 30 00 Kc 81 82 99 01 Kc 325 62 394 00 Obleceni pro cz ",
+    "subject": "Vyexpedovani objednavky Obleceni pro cz",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 3625771.01341,
+                "domain": "auto-doplnky"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "auto-doplnky",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "obleceni-pro",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "obleceni-pro"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " 26326 LUBEGOR company s r o 491612266 Horicky 88 777405351 55205 Horicky 28762525 info obleceni p",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 284,
+    "adscore": 0,
+    "spamscore": 1.1
+}

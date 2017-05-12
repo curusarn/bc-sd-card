@@ -1,0 +1,113 @@
+{
+    "phashes": [
+        {
+            "value": "pf50381d2d090c1cc",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p9b0eec9c640fe3c3",
+            "name": "pepca"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "strechymv@seznam.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/038052f6fbc6b76275bdc82214813b95.eml",
+    "attachments": [
+        {
+            "size": 169,
+            "name": "info.vcf",
+            "cte": "QPRINT",
+            "flags": 0,
+            "sumphash": "e51f6e5abed6404eda69410f5a496900",
+            "pepca": "pf50381d2d090c1cc",
+            "mime_type": "text/x-vcard"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "pepca": "p9b0eec9c640fe3c3",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": "rosim jaka je cena dilu a jejich dostupnost Dekuji Jiri Dvorak Pavlov 11 391 43 Mlada Vozice tel 602 490 741 ",
+    "subject": "Fwd Re Objednavka",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 4654372.343727,
+                "domain": "profesia"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "profesia",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "lanordica",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "lanordica"
+            },
+            {
+                "confidence": 1,
+                "domain": "top-el"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Tak mi to objednejte Dodani na dobirku oba dily najednou Dekuji Dvorak Puvodni zprava Od",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 169,
+    "adscore": 0,
+    "spamscore": 1.1
+}

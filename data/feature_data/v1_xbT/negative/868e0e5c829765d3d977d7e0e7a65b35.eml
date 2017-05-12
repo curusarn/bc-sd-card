@@ -1,0 +1,151 @@
+{
+    "pepca_inline_style_total": 4,
+    "pepca": "p4e342d11fa581c47",
+    "last10words": " si neprejes dostavat zadne dalsi zpravy od spolecnosti Or Not Limited pak se z prijmu nasich zprav odhlas kliknutim zde ",
+    "universalprobes": [
+        {
+            "key": "ps-from_mismatch",
+            "value": "1"
+        },
+        {
+            "key": "ps-unsub_link",
+            "value": "1"
+        },
+        {
+            "key": "ps-many_emails",
+            "value": "1"
+        }
+    ],
+    "list_unsubscribe_urls": [
+        "mailto:unsubscribe+371_2528797403239883776_16_0de036@badoo.com?subject=nRTNtL/hEilfR4f9NUApkN8/f/RI2nZC/ElsFjrawdg"
+    ],
+    "dkstatus": {},
+    "header_from": "noreply@badoo.com",
+    "spfstatus": {},
+    "contains_list_header": true,
+    "lang": "cs",
+    "attachments": [],
+    "word_count": 144,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/868e0e5c829765d3d977d7e0e7a65b35.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p4e342d11fa581c47"
+        },
+        {
+            "name": "pepca_style",
+            "value": "p23042ce5731b7872"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p1f2a8e819ffbeb31"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "badoo",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "badoo",
+                "confidence": 111988174.49539
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "badoo",
+                "confidence": 1
+            }
+        ],
+        "domain_keywords": "badoo",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "pepcatotal": 3,
+    "dmarc_status": {},
+    "phish_score": -2.5,
+    "domainstat": {},
+    "precedence": 3,
+    "extractedEmailsTotalCount": {},
+    "subject": "Dokonci registraci na Badoo",
+    "unsub_link_texts": [
+        "zadny dalsi zprava od spolecnost or nota limited paka se z prijem nasi zprava odhlasit kliknuti zde "
+    ],
+    "adscore": 0,
+    "first10words": " Dokonci registraci na Badoo Chces li dokoncit svoji Badoo registraci nasleduj tento odkaz Dokoncit registraci ",
+    "unsub_link": "https://fb-eu1.badoo.com/impersonation.phtml?lang_id=16&email=magda.balazova%40email.cz&block_code=077b46&m=371&mid=545295fa0000003c00100046046302fa038885920000&g=0-0-1",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "p23042ce5731b7872",
+    "unsub_link_candidates": [
+        "https://fb-eu1.badoo.com/impersonation.phtml?lang_id=16&email=magda.balazova%40email.cz&block_code=077b46&m=371&mid=545295fa0000003c00100046046302fa038885920000&g=0-0-1"
+    ],
+    "domainstat_themes": {},
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1,
+    "theme": {},
+    "pepca_style_total": 4,
+    "phNotches": [
+        {
+            "name": [
+                "from_mismatch",
+                "phisheable",
+                "unsub_link",
+                "many_emails"
+            ],
+            "subscores": [
+                1,
+                0.5,
+                -2,
+                -2
+            ],
+            "score": -2.5,
+            "module": "phish-score"
+        }
+    ],
+    "pepca_inline_style": "p1f2a8e819ffbeb31"
+}

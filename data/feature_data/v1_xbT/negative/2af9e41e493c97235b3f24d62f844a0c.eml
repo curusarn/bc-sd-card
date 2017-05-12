@@ -1,0 +1,108 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p852e2a4b611d6926",
+    "last10words": " webovych strankach S pozdravem tym Answear cz Tato zprava byla odeslana automaticky pres internetovy obchod answear cz ",
+    "pepca_style_total": 0,
+    "header_from": "info@answear.cz",
+    "first10words": " Answear Potvrzeni o zmene hesla pro uzivatele Marie Rozsypalkova Vitejte Marie Rozsypalkova Dne 31 10 2014 ",
+    "attachments": [],
+    "word_count": 122,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/2af9e41e493c97235b3f24d62f844a0c.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p852e2a4b611d6926"
+        },
+        {
+            "name": "pepca_style",
+            "value": "p6d51cd054987ba79"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p37a99060f9527a89"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "answear",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "answear",
+                "confidence": 44892026.543608
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "answear",
+                "confidence": 1
+            }
+        ],
+        "domain_keywords": "answear",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "answear",
+        "plain_domain_detail": [
+            {
+                "domain": "answear",
+                "confidence": 3
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Potvrzeni o zmene hesla pro uzivatele Marie Rozsypalkova",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "p6d51cd054987ba79",
+    "pepca_inline_style": "p37a99060f9527a89",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

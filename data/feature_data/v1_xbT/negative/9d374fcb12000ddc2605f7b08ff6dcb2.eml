@@ -1,0 +1,124 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p9e4cb7ff42eee072",
+    "last10words": "k dispozici na nasem webu S pratelskym pozdravem Prazska energetika a s ",
+    "pepca_style_total": 0,
+    "unsub_link_texts": [
+        "  e mail"
+    ],
+    "header_from": "zima@das.cz",
+    "unsub_link_candidates": [
+        "tel:%2B420%C2%A0602%20365%20043"
+    ],
+    "first10words": " Pozdrav od plynaren J From Hasanbegovic Sabahudin mailto shasanbegovic nvision group com Sent Mond",
+    "attachments": [
+        {
+            "cte": "BASE64",
+            "name": "Faktura plin Centropol 2014.pdf",
+            "pepca": "p274808cbc8787115",
+            "flags": 0,
+            "mime_type": "application/pdf",
+            "cid": "D52B2D8240EA0147A2193BF221B05A14@eurprd05.prod.outlook.com",
+            "size": 2139312,
+            "lang": "un",
+            "sumphash": "142beba5b17c78991924660bd59d8ac4"
+        }
+    ],
+    "word_count": 947,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/9d374fcb12000ddc2605f7b08ff6dcb2.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p274808cbc8787115"
+        },
+        {
+            "name": "pepca",
+            "value": "p9e4cb7ff42eee072"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p9bf37b14b960b2fe"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "centropol",
+                "confidence": 13294559.419532
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "centropol",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "sitronics",
+        "plain_domain_detail": [
+            {
+                "domain": "sitronics",
+                "confidence": 2
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "FW FW Faktura Centropol",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "unsub_link": "tel:%2B420%C2%A0602%20365%20043",
+    "phishing": {
+        "ner_domain_detected": true,
+        "5_top_domains_id_0": 0,
+        "5_top_domains_id_1": 1,
+        "5_top_domains_percent_1": 0.5,
+        "5_top_domains_percent_0": 0.5
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "p9bf37b14b960b2fe",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

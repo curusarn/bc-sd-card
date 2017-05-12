@@ -1,0 +1,112 @@
+{
+    "phashes": [
+        {
+            "value": "p2629e7da2dbab535",
+            "name": "pepca"
+        },
+        {
+            "value": "p12811dfdb7947c3e",
+            "name": "pepca_style"
+        },
+        {
+            "value": "p1caea09a50e544a6",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "info@auto-doplnky.com",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/11ae9c6e739c904ccb11714e5d7de5ec.eml",
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "pepca": "p2629e7da2dbab535",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "p12811dfdb7947c3e",
+    "last10words": "resa FIO Nadrazni 39 Ostrava 702 00 www fio cz Komentar Bez komentare www auto doplnky com ",
+    "subject": "Vase objednavka 20886",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 4,
+                "domain": "auto-doplnky"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 33960842.763138,
+                "domain": "auto-doplnky"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "auto-doplnky",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "auto-doplnky",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "auto-doplnky",
+        "plain_domain_detail": [
+            {
+                "confidence": 2,
+                "domain": "auto-doplnky"
+            },
+            {
+                "confidence": 1,
+                "domain": "fio"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p1caea09a50e544a6",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Autodoplnky Ostrava Dobry den potvrzujeme prijeti Vasi objednavky cislo 20886 Rekapitulace objednav",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 330,
+    "adscore": 0,
+    "spamscore": 1.1
+}

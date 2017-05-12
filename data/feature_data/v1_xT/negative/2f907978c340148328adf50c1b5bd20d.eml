@@ -1,0 +1,135 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "module": "ill",
+            "score": 1
+        }
+    ],
+    "pepca": "",
+    "pepca_style": "",
+    "phNotches": [
+        {
+            "subscores": [
+                1,
+                1,
+                -2
+            ],
+            "name": [
+                "from_mismatch",
+                "attachments",
+                "many_emails"
+            ],
+            "module": "phish-score",
+            "score": 0.0
+        }
+    ],
+    "dmarc_status": {},
+    "pepca_inline_style": "",
+    "unsub_link": {},
+    "pepca_style_total": 0,
+    "phish_score": 0.0,
+    "domainstat": {},
+    "domainstat_themes": {},
+    "subject": "Precteno Objednavka",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1,
+    "word_count": 18,
+    "phishing": {},
+    "universalprobes": [
+        {
+            "key": "ps-from_mismatch",
+            "value": "1"
+        },
+        {
+            "key": "ps-attachments",
+            "value": "1"
+        },
+        {
+            "key": "ps-many_emails",
+            "value": "1"
+        }
+    ],
+    "header_from": "objednavky@gurmeko.eu",
+    "first10words": " Zprava byla prectena dne 15 prosince 2014 10 49 35 UTC ",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/2f907978c340148328adf50c1b5bd20d.eml",
+    "attachments": [
+        {
+            "size": 296,
+            "mime_type": "message/disposition-notification",
+            "flags": 0,
+            "pepca": "p28a7697ee235f2c7",
+            "cte": "PLAIN",
+            "sumphash": "1d13e0cc7514ccbbae43ec72fdc351d7",
+            "name": ""
+        }
+    ],
+    "adscore": 0,
+    "extractedEmailsTotalCount": {},
+    "dkstatus": {},
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p28a7697ee235f2c7"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "utc",
+        "plain_domain": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 832811.8302676,
+                "domain": "utc"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": " Zprava byla prectena dne 15 prosince 2014 10 49 35 UTC ",
+    "theme": {},
+    "spfstatus": {},
+    "pepca_small": "pea955290ca359b77",
+    "lang": "cs"
+}

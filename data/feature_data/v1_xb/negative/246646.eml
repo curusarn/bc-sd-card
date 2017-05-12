@@ -1,0 +1,105 @@
+{
+    "phashes": [
+        {
+            "value": "p7c9a078f09cad38b",
+            "name": "pepca"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "noreply@mailings.playa-games.com",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/246646.eml",
+    "unsub_link_candidates": [
+        "http://mail.playa-games.com/unsubscribe.php?pgcheck=dab1a80e409f97e5132485f969829c25&email=svecomilka@seznam.cz"
+    ],
+    "attachments": [],
+    "contains_list_header": true,
+    "last10words": "H Alstertor 9 D 20095 Hamburg Support http s24 sfgame cz support CEO Hannes Beuck Amtsgericht Hamburg HRB 109725 VAT ID DE815081395 ",
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca": "p7c9a078f09cad38b",
+    "subject": "Overte e mailovou adresu prave ted ",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 158941021.1417,
+                "domain": "brm24"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "brm24",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "sfgame",
+        "plain_domain_detail": [
+            {
+                "confidence": 2,
+                "domain": "sfgame"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "unsub_link_texts": [
+        "pokud nechtit od my nadale dostavat e mail kliknout zde "
+    ],
+    "list_unsubscribe_urls": [
+        "mailto:mail+1-20067-296618-832138458-5a870032892ba6dc337c44ecb3b1fd5d@unsubscribe.brm24.de",
+        "http://mailings.playa-games.com/U?20067-453666-296618-72062-832138458"
+    ],
+    "unsub_link": "http://mail.playa-games.com/unsubscribe.php?pgcheck=dab1a80e409f97e5132485f969829c25&email=svecomilka@seznam.cz",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Zdravim kokos 300000 vitejte v Shakes Fidget The Game Zucasnete se vzrusujiciho dobrodruzstvi a soutezte proti vasim protih",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 103,
+    "adscore": 0,
+    "spamscore": 1
+}

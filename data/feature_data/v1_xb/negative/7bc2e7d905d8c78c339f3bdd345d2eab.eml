@@ -1,0 +1,112 @@
+{
+    "phashes": [
+        {
+            "value": "pad2f6d63c1005f82",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p1288424b2493fe39",
+            "name": "pepca"
+        },
+        {
+            "value": "p7b881fb82551c339",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "info@prolekare.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/7bc2e7d905d8c78c339f3bdd345d2eab.eml",
+    "attachments": [
+        {
+            "size": 1451,
+            "name": "logo-prolekare.gif",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "logo-prolekare",
+            "sumphash": "ca8ebf76395e015a80e6ef745ef4cdf2",
+            "pepca": "pad2f6d63c1005f82",
+            "mime_type": "image/gif"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "pepca": "p1288424b2493fe39",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": "olikaletem archivu zpravodaj s nejnovejsimi studiemi napric specializacemi kongresove zpravodajstvi Cela sluzba a vstup je zdarma ",
+    "subject": "Dokonceni registrace na proLekare cz",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 10549160.5656236,
+                "domain": "meditorial"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "meditorial",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "prolekare",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "prolekare"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p7b881fb82551c339",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Dokonceni registrace na proLekare cz Dobry den pane doktore pro dokonceni registrace kliknete na tento odkaz h",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 149,
+    "adscore": 0,
+    "spamscore": 1
+}

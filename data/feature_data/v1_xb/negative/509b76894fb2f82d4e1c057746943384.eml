@@ -1,0 +1,170 @@
+{
+    "phashes": [
+        {
+            "value": "pe0ea0552d491a790",
+            "name": "pepca"
+        }
+    ],
+    "precedence": 3,
+    "phNotches": [
+        {
+            "module": "phish-score",
+            "name": [
+                "from_mismatch",
+                "phish_keyword",
+                "subject_phish_keyword",
+                "unsub_link",
+                "phish_form",
+                "many_emails",
+                "not-phishing"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.0,
+                -2,
+                2.5,
+                -2,
+                -1
+            ],
+            "score": -1.5
+        }
+    ],
+    "header_from": "noreply@mailings.playa-games.com",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/509b76894fb2f82d4e1c057746943384.eml",
+    "extractedEmailsTotalCount": {},
+    "theme": {},
+    "unsub_link_candidates": [
+        "http://mail.playa-games.com/unsubscribe.php?pgcheck=b62c0b34f9e0b12045c71599a2d6bf5f&email=dan.randek@seznam.cz"
+    ],
+    "attachments": [],
+    "contains_list_header": true,
+    "last10words": "H Alstertor 9 D 20095 Hamburg Support http s14 sfgame cz support CEO Hannes Beuck Amtsgericht Hamburg HRB 109725 VAT ID DE815081395 ",
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "subject": "Vase heslo",
+    "pepca_style": "",
+    "pepca": "pe0ea0552d491a790",
+    "dkstatus": {},
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 132556038.71384,
+                "domain": "brm24"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "brm24",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "sfgame",
+        "plain_domain_detail": [
+            {
+                "confidence": 2,
+                "domain": "sfgame"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "domainstat_themes": {},
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "unsub_link_texts": [
+        "pokud nechtit od my nadale dostavat e mail kliknout zde "
+    ],
+    "list_unsubscribe_urls": [
+        "mailto:mail+1-20067-296617-840943492-01d7300cdd1cf6c65fc47af8f58f9767@unsubscribe.brm24.de",
+        "http://mailings.playa-games.com/U?20067-453666-296617-72061-840943492"
+    ],
+    "spfstatus": {},
+    "unsub_link": "http://mail.playa-games.com/unsubscribe.php?pgcheck=b62c0b34f9e0b12045c71599a2d6bf5f&email=dan.randek@seznam.cz",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 2,
+    "pepca_inline_style_total": 0,
+    "first10words": " Zdravim HT Skilla Vase heslo bylo zmeneno Vase prihlasovaci udaje Jmeno HT Skilla Heslo 49q986152j Pokud jste nezadal",
+    "universalprobes": [
+        {
+            "key": "ps-from_mismatch",
+            "value": "1"
+        },
+        {
+            "key": "ps-phish_keyword",
+            "value": "['heslo', 'heslo', 'heslo']"
+        },
+        {
+            "key": "ps-subject_phish_keyword",
+            "value": "['heslo']"
+        },
+        {
+            "key": "ps-unsub_link",
+            "value": "1"
+        },
+        {
+            "key": "ps-phish_form",
+            "value": "1"
+        },
+        {
+            "key": "ps-many_emails",
+            "value": "1"
+        },
+        {
+            "key": "ps-most-suspicious-links",
+            "value": "[]"
+        },
+        {
+            "key": "ps-not-phishing",
+            "value": "1"
+        }
+    ],
+    "domainstat": {},
+    "lang": "cs",
+    "pepcatotal": 3,
+    "word_count": 86,
+    "adscore": 0,
+    "dmarc_status": {},
+    "spamscore": 1
+}

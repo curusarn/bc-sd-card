@@ -1,0 +1,112 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pf3492c58ec37a41f",
+    "last10words": " si neprejes dostavat zadne dalsi zpravy od spolecnosti Or Not Limited pak se z prijmu nasich zprav odhlas kliknutim zde ",
+    "list_unsubscribe_urls": [
+        "mailto:unsubscribe+367_2533969893791279616_16_904a1e@badoo.com?subject=uvJeZm6o0OB0GjebPvQRDaslpjCRbL7yF/7EotkgV48"
+    ],
+    "unsub_link_texts": [
+        "zadny dalsi zprava od spolecnost or nota limited paka se z prijem nasi zprava odhlasit kliknuti zde "
+    ],
+    "header_from": "noreply@hotornot.com",
+    "contains_list_header": true,
+    "pepcatotal": 0,
+    "attachments": [],
+    "word_count": 168,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/c489e36fe324412898e0c996de10644c.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pf3492c58ec37a41f"
+        },
+        {
+            "name": "pepca_style",
+            "value": "p23042ce5731b7872"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p7c5a779506895849"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "hotornot",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "ulozto",
+                "confidence": 24220180.07079
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "hotornot",
+                "confidence": 5
+            }
+        ],
+        "domain_keywords": "ulozto",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Tvoje nove heslo na Hot or Not",
+    "adscore": 0,
+    "first10words": " Tvoje nove heslo na Hot or Not Tvoje heslo bylo uspesne zmeneno Zde jsou tve nove prihlasovaci udaje uloz si j",
+    "unsub_link": "https://eu1.hotornot.com/impersonation.phtml?lang_id=16&email=danvers%40email.cz&block_code=f43778&m=367&mid=5454e2060000003c0010004604654f0600af7b550000&g=0-0-1",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "p23042ce5731b7872",
+    "unsub_link_candidates": [
+        "https://eu1.hotornot.com/impersonation.phtml?lang_id=16&email=danvers%40email.cz&block_code=f43778&m=367&mid=5454e2060000003c0010004604654f0600af7b550000&g=0-0-1"
+    ],
+    "pepca_inline_style": "p7c5a779506895849",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1,
+    "pepca_style_total": 0
+}

@@ -1,0 +1,101 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.5
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "long_subject"
+            ],
+            "module": "ill",
+            "score": 1.5
+        }
+    ],
+    "pepca": "p08f5c83ed0e5f3d5",
+    "first10words": " Dobry den pane Spacku Dekujeme za zaslani cislo uctu Platbu obdrzite pristi tyden na ucet Prejeme hezky den P",
+    "pepca_style": "",
+    "pepca_inline_style": "pf80e7603680d8b94",
+    "word_count": 939,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Re Objednane vouchery objednavka c 4162572014 Nakupvakci cz 14 12 14 14 31",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.5,
+    "phishing": {},
+    "header_from": "asistentka@nakupvakci.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/92c06c1f684bc020f0dcf52b1ad55671.eml",
+    "attachments": [],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p08f5c83ed0e5f3d5"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pf80e7603680d8b94"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "grand-hotel"
+            },
+            {
+                "confidence": 2,
+                "domain": "nakupvakci"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "slevyplus",
+        "plain_domain": "grand-hotel",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 678265878.8006,
+                "domain": "slevyplus"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "ora www nakupvakci cz Garuma s r o IC 24817066 DIC CZ 24817066 Osobni odber sekce Moda a luxus 8 18 hodin Tel 777 660 337 774 026 966 ",
+    "lang": "cs"
+}

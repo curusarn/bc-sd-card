@@ -1,0 +1,102 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "module": "ill",
+            "score": 1
+        }
+    ],
+    "pepca": "pd1f0fe0a30f00d8f",
+    "first10words": " Dobry den nase firma prijima stale vice faktur nasich dodavatelu zbozi a sluzeb formou faktur danovych dokladu zasilanych el",
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "word_count": 109,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Faktura 14FV012555",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1,
+    "phishing": {},
+    "header_from": "patkova@vfs.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/b4c00d807ac904ed8339b83798ce4f3d.eml.eml",
+    "attachments": [
+        {
+            "size": 74121,
+            "mime_type": "application/pdf",
+            "flags": 0,
+            "pepca": "pe97b49147d5e7679",
+            "first10words": "dobropis opravny danovy doklad cislo FV Dodavatel VFS Trading s",
+            "cte": "BASE64",
+            "sumphash": "d5b2c51f18ced07168eaee58c65a2335",
+            "name": "15544478__FV_Predpis_14FV012555.pdf",
+            "lang": "cs"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "pe97b49147d5e7679"
+        },
+        {
+            "name": "pepca",
+            "value": "pd1f0fe0a30f00d8f"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "masterinter",
+        "plain_domain": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 12745614.495088,
+                "domain": "masterinter"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "ovana faktura splnuje vsechny nalezitosti stanovene zakonem o ucetnictvi zakonem o DPH a dalsimi zakony a predpisy Martina Patkova",
+    "lang": "cs"
+}

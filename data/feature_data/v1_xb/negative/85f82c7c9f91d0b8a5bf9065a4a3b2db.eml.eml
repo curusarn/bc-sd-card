@@ -1,0 +1,207 @@
+{
+    "phashes": [
+        {
+            "value": "p73852830c2a55425",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pcbf27aaf366dfc7d",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pa510d6ac5563a7cc",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p8d67e29026a27107",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p4bb6708a57c51b10",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p9cfe9fa9a6a120aa",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p6ff9f477c5034902",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p0af5f673d9980be4",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pf5a0ce57acfd478c",
+            "name": "pepca"
+        },
+        {
+            "value": "p9859ed3e16770bd6",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "lenka.hrabcova@email.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/85f82c7c9f91d0b8a5bf9065a4a3b2db.eml.eml",
+    "attachments": [
+        {
+            "size": 4231,
+            "name": "image",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "fba1ec86399651ec1d8863eae9f44ef9",
+            "sumphash": "6771ba57209ea428658602b9a0ad6086",
+            "pepca": "p73852830c2a55425",
+            "mime_type": "image/gif"
+        },
+        {
+            "size": 1110,
+            "name": "image",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "fba10fb3b0a768bcd4547d4709ae61c0",
+            "sumphash": "b40900420625da842f3a8783120dc6ea",
+            "pepca": "pcbf27aaf366dfc7d",
+            "mime_type": "image/jpeg"
+        },
+        {
+            "size": 1122,
+            "name": "image",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "fba0a9766ca7a1636800639eba0de8c0",
+            "sumphash": "3059e3e81e853f61b4f000a0157f39e3",
+            "pepca": "pa510d6ac5563a7cc",
+            "mime_type": "image/jpeg"
+        },
+        {
+            "size": 1099,
+            "name": "image",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "fbac3d8b36117cbe25e7c4ba83a31293",
+            "sumphash": "9ca120bedd4a0701f0310dc1f8dc20c3",
+            "pepca": "p8d67e29026a27107",
+            "mime_type": "image/jpeg"
+        },
+        {
+            "size": 1070,
+            "name": "image",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "fba8e833fdd981f9f7f7cb3bece6aed5",
+            "sumphash": "d012248ff602a14926e8cbbbc73f14cc",
+            "pepca": "p4bb6708a57c51b10",
+            "mime_type": "image/jpeg"
+        },
+        {
+            "size": 1095,
+            "name": "image",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "fba275b09eee6bd0416372860d7e1e71",
+            "sumphash": "6ae4e9d1749e95f61715229af91efa36",
+            "pepca": "p9cfe9fa9a6a120aa",
+            "mime_type": "image/jpeg"
+        },
+        {
+            "size": 1123,
+            "name": "image",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "fba75007dad5b8fd9860e0bc9845a613",
+            "sumphash": "da4fd069288a14429b1c4003bff82052",
+            "pepca": "p6ff9f477c5034902",
+            "mime_type": "image/jpeg"
+        },
+        {
+            "size": 1144,
+            "name": "image",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "fbab04d05a001b0c29e96bd51924257f",
+            "sumphash": "db410ab3e949e9db506c305d7bee59cb",
+            "pepca": "p0af5f673d9980be4",
+            "mime_type": "image/jpeg"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "pepca": "pf5a0ce57acfd478c",
+    "phishing": {
+        "ner_domain_detected": true
+    },
+    "pepca_style": "",
+    "last10words": "25 Vranovice Ceska republika Nobilis Tilia s r o tel 420 412 383 421 e mail info nobilis cz IC 25497006 ",
+    "subject": "Re Vase objednavka 33905 ",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 76473686.9705281,
+                "domain": "masterinter"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "masterinter",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p9859ed3e16770bd6",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Dobry den nize uvedena objednavka se mi nepodarila zaplatit kartou Doslo k nejake chybe a dle informaci na vasich strankach pi",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 677,
+    "adscore": 0,
+    "spamscore": 1.1
+}

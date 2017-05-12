@@ -1,0 +1,99 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1,
+                0.5
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id",
+                "long_subject"
+            ],
+            "module": "ill",
+            "score": 1.6
+        }
+    ],
+    "pepca": "pf564b4c73efcce51",
+    "first10words": " Potvrzeni o registraci ucastnika na akci Integrovane dite zak v prostredi ceskeho skolstvi aktualni otazky Nazev kurzu ",
+    "pepca_style": "",
+    "pepca_inline_style": "p8e4b8ec831d1453a",
+    "word_count": 176,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Potvrzeni o registraci ucastnika na akci Integrovane dite zak v prostredi ceskeho skolstvi aktualni otazky",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.6,
+    "phishing": {},
+    "header_from": "info@cvlk.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/81dd677c80041bcb70448e6eca065ca0.eml",
+    "attachments": [],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pf564b4c73efcce51"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p8e4b8ec831d1453a"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 2,
+                "domain": "cvlk"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "skoleni-kurzy",
+        "plain_domain": "cvlk",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 20394234.5345154,
+                "domain": "skoleni-kurzy"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "Pasirska 72 prispevkova organizace Tato zprava byla vygenerovana automaticky IS EVA na serveru www cvlk cz Neodpovidejte na ni ",
+    "lang": "cs"
+}

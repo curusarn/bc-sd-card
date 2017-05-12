@@ -1,0 +1,119 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "module": "ill",
+            "score": 1.1
+        }
+    ],
+    "pepca": "p944477cc47887aaa",
+    "first10words": " Dobry den obdrzeli jsme Vasi objednavku nasich vyrobku Dekujeme Vam za nakup a zasilame rekapitulaci Seznam Vami objednaneho",
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "word_count": 423,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Prijata objednavka",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.1,
+    "phishing": {},
+    "header_from": "info@zdravapokozka.com",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/d4c768b427b288ccc3a7fdcb4f4b9a6a.eml",
+    "attachments": [
+        {
+            "size": 80830,
+            "mime_type": "application/pdf",
+            "flags": 0,
+            "pepca": "pa2bbf8e6f0e9d9df",
+            "first10words": "Untitled OBCHODNI PODMINKY Provozovatel Michal Barborik se sidlem Praha Nad",
+            "cte": "BASE64",
+            "sumphash": "32b98d2d21191364890d98761a8d0b8e",
+            "name": "OBCHODNI-PODMINKY.pdf",
+            "lang": "cs"
+        },
+        {
+            "size": 521589,
+            "mime_type": "application/pdf",
+            "flags": 0,
+            "pepca": "peb2283b503a0b40e",
+            "first10words": "propozycja sponsoringu czytelniczki na ok?adki Formular pro vymenu ci vraceni",
+            "cte": "BASE64",
+            "sumphash": "ee885245ed5f28e8eca0bf5475305435",
+            "name": "reklamacni-formular_ZP.pdf",
+            "lang": "cs"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "pa2bbf8e6f0e9d9df"
+        },
+        {
+            "name": "att-pepca",
+            "value": "peb2283b503a0b40e"
+        },
+        {
+            "name": "pepca",
+            "value": "p944477cc47887aaa"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "masterinter",
+        "plain_domain": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 12745614.495088,
+                "domain": "masterinter"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "kojeni reknete o nas take svym pratelum Stav zpracovani vasi objednavky muzete sledovat po prihlaseni v ZAKAZNICKE SEKCI ",
+    "lang": "cs"
+}

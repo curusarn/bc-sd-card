@@ -1,0 +1,149 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p197a729bad29c635",
+    "last10words": "jte nas na facebooku VIVANTIS a s Skolni namesti 14 537 01 Chrudim II ICO 25977687 DIC CZ25977687 ",
+    "pepca_style_total": 0,
+    "header_from": "info@prozdravi.cz",
+    "first10words": " Prijeti objednavky Prijali jsme Vasi objednavku cislo 1146417060 dne 15 12 2014 v 18 00 Vazeny zaka",
+    "attachments": [
+        {
+            "mime_type": "application/pdf",
+            "name": "VIVANTIS_Obchodni_podminky_2014.pdf",
+            "first10words": "OBCHODNI PODMINKY spolecnosti VIVANTIS a s OBECNA USTANOVENI Tyto obchodni",
+            "pepca": "p82ca1cf7b225fe58",
+            "lang": "cs",
+            "cte": "BASE64",
+            "size": 59386,
+            "flags": 0,
+            "sumphash": "a326ef3ef92dbc5b4b53c71f49d535cf"
+        },
+        {
+            "mime_type": "application/vnd.ms-excel",
+            "name": "VIVANTIS_Odstoupeni_od_smlouvy_2014.xls",
+            "first10words": "List Formular pro odstoupeni od kupni smlouvy Vyplnte prosim tento",
+            "pepca": "p7b379020d3bd6849",
+            "lang": "cs",
+            "cte": "BASE64",
+            "size": 12800,
+            "flags": 0,
+            "sumphash": "45b7d08f2c4d6c8de63666d742609d7b"
+        }
+    ],
+    "word_count": 423,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/8b69d3dc9fc1d71031e07de521df79f0.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p82ca1cf7b225fe58"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p7b379020d3bd6849"
+        },
+        {
+            "name": "pepca",
+            "value": "p197a729bad29c635"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p8f59bb0b02b36763"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "parfemy",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "vshosting",
+                "confidence": 64395189.9536425
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "parfemy",
+                "confidence": 5
+            }
+        ],
+        "domain_keywords": "vshosting",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "nakupnicentrum",
+        "plain_domain_detail": [
+            {
+                "domain": "nakupnicentrum",
+                "confidence": 1
+            },
+            {
+                "domain": "prozdravi",
+                "confidence": 2
+            },
+            {
+                "domain": "vivantis",
+                "confidence": 1
+            },
+            {
+                "domain": "modnidoplnky",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "objednavka z prozdravi cz",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": true,
+        "5_top_domains_id_0": 0,
+        "5_top_domains_percent_0": 1.0
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "p8f59bb0b02b36763",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

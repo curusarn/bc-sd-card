@@ -1,0 +1,114 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p26f890cc216fa5bd",
+    "last10words": "ru a verime ze budete s nasimi sluzbami spokojeni Vase i hrackarstvi i hrackarstvi http www i hrackarstvi cz ",
+    "pepca_style_total": 0,
+    "header_from": "info@i-hrackarstvi.cz",
+    "first10words": " Zprava z i hrackarstvi Dobry den p Kancnerova Prubeh Vasi objednavky 49649 Vase objednavka b",
+    "attachments": [
+        {
+            "name": "logo.jpg",
+            "pepca": "p15ac077df823b695",
+            "cte": "BASE64",
+            "mime_type": "image/jpeg",
+            "cid": "swift-1410210753540e1bc103bfa.2@www.i-hrackarstvi.cz",
+            "size": 12741,
+            "flags": 0,
+            "sumphash": "866a09966576d883aa0b42a28a7d9060"
+        }
+    ],
+    "word_count": 125,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/248405.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p15ac077df823b695"
+        },
+        {
+            "name": "pepca",
+            "value": "p26f890cc216fa5bd"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pb16037c996d9a240"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "masterinter",
+                "confidence": 25491228.990176
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "masterinter",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "i-hrackarstvi",
+        "plain_domain_detail": [
+            {
+                "domain": "i-hrackarstvi",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": " i hrackarstvi Probiha priprava objednavky",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "pb16037c996d9a240",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

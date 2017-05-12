@@ -1,0 +1,116 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "module": "ill",
+            "score": 1
+        }
+    ],
+    "pepca": "p4a7d895fca73a311",
+    "first10words": " Vazeny zakazniku dekujeme Vam za objednavku zbozi prostrednictvim internetoveho obchodu SportObchod cz Tato objednavka byla",
+    "pepca_style": "",
+    "pepca_inline_style": "p3f96e6da2d0a9546",
+    "word_count": 255,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Objednavka v internetovem obchode SportObchod cz",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1,
+    "phishing": {},
+    "header_from": "info@sportobchod.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/85204f79d40b6cddef2fca3f2b3c9039.eml",
+    "attachments": [
+        {
+            "size": 201631,
+            "mime_type": "application/pdf",
+            "flags": 0,
+            "pepca": "pcb23ae90b647a495",
+            "first10words": "obchodni podminky Obchodni podminky platne od pro www sportobchod cz",
+            "cte": "BASE64",
+            "sumphash": "fb597d8116e67954de729f64ea79d541",
+            "name": "obchodni_podminky.pdf",
+            "lang": "cs"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "pcb23ae90b647a495"
+        },
+        {
+            "name": "pepca",
+            "value": "p4a7d895fca73a311"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p3f96e6da2d0a9546"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 4,
+                "domain": "sportobchod"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "sportobchod",
+        "plain_domain": "sportobchod",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 87063984.720818,
+                "domain": "sportobchod"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "sportobchod",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [
+            {
+                "confidence": 1,
+                "domain": "sportobchod"
+            }
+        ],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "Obchod cz s r o Cechynska 16 602 00 Brno IC 26904241 DIC CZ26904241 Vsechny ceny jsou konecne vcetne DPH v prislusne sazbe ",
+    "lang": "cs"
+}

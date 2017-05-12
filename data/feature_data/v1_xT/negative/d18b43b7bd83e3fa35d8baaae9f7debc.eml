@@ -1,0 +1,98 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "module": "ill",
+            "score": 1
+        }
+    ],
+    "pepca": "pbb08b190f4e35ed4",
+    "first10words": " Vase prihlasovaci udaje na server Pervers cz spojene s e mailovu adresou chcitohned2525 seznam cz jsou Jmeno MATEJ Heslo MISPULKA1 Pro aktiva",
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "unsub_link": "http://www.pervers.cz",
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Znovuzaslani hesla pro www Pervers cz",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1,
+    "word_count": 36,
+    "phishing": {},
+    "header_from": "info@pervers.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/d18b43b7bd83e3fa35d8baaae9f7debc.eml",
+    "attachments": [],
+    "adscore": 0,
+    "unsub_link_texts": [
+        "  omlouvat se pokud byt tento e mail obdrzet nedopatreni vy ten pervers"
+    ],
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pbb08b190f4e35ed4"
+        }
+    ],
+    "unsub_link_candidates": [
+        "http://www.pervers.cz"
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "pervers"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "svete",
+        "plain_domain": "pervers",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 3607876.58867,
+                "domain": "svete"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "vers cz Loc reg Confirm 121508 hash 121508 33dd0b5d21b501b0e9e3ade04 Omlouvame se pokud jste tento e mail obdrzeli nedopatrenim Vas tym Pervers cz",
+    "lang": "cs"
+}

@@ -1,0 +1,126 @@
+{
+    "phashes": [
+        {
+            "value": "p450bbddaaef3184d",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pa45bcc63fcda0cd0",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p7c3b11f134a5e5bf",
+            "name": "pepca"
+        },
+        {
+            "value": "peb20989953582ac8",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "daria@atexkom.com",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/3b702debf840983729c13142c986e18f.eml",
+    "attachments": [
+        {
+            "size": 7278,
+            "name": "image",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "e946f296a747d3dcd3a272c940e35231",
+            "sumphash": "bf7097751e98092538ed8ef4c33beb07",
+            "pepca": "p450bbddaaef3184d",
+            "mime_type": "image/gif"
+        },
+        {
+            "size": 1150,
+            "name": "image",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "e94a49f44568393c4c108aba0e9ef355",
+            "sumphash": "68e8e38eefc485b38bc978564470130e",
+            "pepca": "pa45bcc63fcda0cd0",
+            "mime_type": "image/jpeg"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "pepca": "p7c3b11f134a5e5bf",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": "ka Zde je Vase pouceni o odvolani provozovatel ATEXKOM s r o Celakovskeho 3 4 77900 Olomouc IC 27855635 DIC CZ27855635 ",
+    "subject": "Vase objednavka 15782 ",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 38236843.485264,
+                "domain": "masterinter"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "masterinter",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "enka",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "enka"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "peb20989953582ac8",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Vase objednavka Dekujeme mnohokrat za Vasi objednavku Objednavku jsme prijali a probiha jeji zpracovani Po",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 307,
+    "adscore": 0,
+    "spamscore": 1
+}

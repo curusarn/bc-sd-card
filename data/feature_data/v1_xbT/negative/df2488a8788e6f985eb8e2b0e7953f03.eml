@@ -1,0 +1,156 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pc972a5c349c3e08e",
+    "last10words": "72 Jsme drziteli certifikatu CZ AEOF 0900E5 Navstivte nase internetove stranky http www nieten cz A ",
+    "pepca_style_total": 0,
+    "header_from": "martina.boudova@nieten.cz",
+    "first10words": " Dobry den A prosim mohl by mi nekdo pomoci ohledne upresneni faktury a storna vA priloze ",
+    "attachments": [
+        {
+            "name": "image001.jpg",
+            "pepca": "p9500d34af036a212",
+            "cte": "BASE64",
+            "mime_type": "image/jpeg",
+            "cid": "image001.jpg@01D01845.3A302C30",
+            "size": 4461,
+            "flags": 0,
+            "sumphash": "80b4ad9c9f2576a3f93bcdbec3cd13f3"
+        },
+        {
+            "name": "image002.jpg",
+            "pepca": "pdb978f2bf682aa5d",
+            "cte": "BASE64",
+            "mime_type": "image/jpeg",
+            "cid": "image002.jpg@01D01845.3A302C30",
+            "size": 1677,
+            "flags": 0,
+            "sumphash": "645b2f68971d15da1c353c0c232e9d66"
+        },
+        {
+            "cte": "BASE64",
+            "name": "4853_001.pdf",
+            "pepca": "pc8b11b96ad79d133",
+            "flags": 0,
+            "mime_type": "application/pdf",
+            "size": 61258,
+            "lang": "un",
+            "sumphash": "509f441826b8eab98e8af50b571b43c8"
+        },
+        {
+            "cte": "BASE64",
+            "name": "4854_001.pdf",
+            "pepca": "pc4c70fcbce7c1523",
+            "flags": 0,
+            "mime_type": "application/pdf",
+            "size": 58594,
+            "lang": "un",
+            "sumphash": "f5a9820d96d2fb204f477a6cc9aefb2f"
+        }
+    ],
+    "word_count": 348,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/df2488a8788e6f985eb8e2b0e7953f03.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p9500d34af036a212"
+        },
+        {
+            "name": "att-pepca",
+            "value": "pdb978f2bf682aa5d"
+        },
+        {
+            "name": "att-pepca",
+            "value": "pc8b11b96ad79d133"
+        },
+        {
+            "name": "att-pepca",
+            "value": "pc4c70fcbce7c1523"
+        },
+        {
+            "name": "pepca",
+            "value": "pc972a5c349c3e08e"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p0e09ca4d4c19dca3"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "nieten",
+                "confidence": 12571142.7828482
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "nieten",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "nieten",
+        "plain_domain_detail": [
+            {
+                "domain": "nieten",
+                "confidence": 3
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "faktura storno fa Intrastat 11 2014",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": true,
+        "5_top_domains_id_0": 0,
+        "5_top_domains_percent_0": 1.0
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "p0e09ca4d4c19dca3",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

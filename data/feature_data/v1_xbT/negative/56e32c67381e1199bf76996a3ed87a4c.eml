@@ -1,0 +1,116 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pcbec01c197e5ce5e",
+    "last10words": "uctu na CoolSoutez cz pod Vasi e mailovou adresou V tomto pripade nam tuto zalezitost nahlaste na info coolsoutez cz Dekujeme ",
+    "list_unsubscribe_urls": [
+        "mailto:unsubscribe@email-server.cz?subject=odhlasit&body=odhlasit:<l.leona@seznam.cz"
+    ],
+    "header_from": "coolsoutez@coolsoutez.cz",
+    "contains_list_header": true,
+    "pepcatotal": 0,
+    "attachments": [
+        {
+            "name": "",
+            "pepca": "pe14ac0782ecdb307",
+            "cte": "BASE64",
+            "mime_type": "image/png",
+            "cid": "photo0",
+            "size": 8267,
+            "flags": 0,
+            "sumphash": "62bee5efa6dbaba33243a67cc551b390"
+        }
+    ],
+    "word_count": 78,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/56e32c67381e1199bf76996a3ed87a4c.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "pe14ac0782ecdb307"
+        },
+        {
+            "name": "pepca",
+            "value": "pcbec01c197e5ce5e"
+        }
+    ],
+    "spamscore": 2.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "benaughty",
+                "confidence": 4662190.9252958
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "benaughty",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "coolsoutez",
+        "plain_domain_detail": [
+            {
+                "domain": "coolsoutez",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Nove heslo k vasemu uctu",
+    "adscore": 0,
+    "first10words": " Dobry den zazadali jste o zaslani noveho hesla pro Vas uzivatelsky ucet vedeny pod e mailovou adresou l leona seznam cz V",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging",
+                "missing_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1,
+                1
+            ],
+            "score": 2.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1,
+    "pepca_style_total": 0
+}

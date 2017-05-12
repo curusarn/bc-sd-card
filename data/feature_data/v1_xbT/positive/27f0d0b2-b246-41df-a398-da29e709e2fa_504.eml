@@ -1,0 +1,107 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p8d01c23bcedcd8a1",
+    "last10words": "6 0x24838674 0x93507477 QH6 0x10 close exe end 1SO1 hex CEV source P2Q T8XM 24E GWB HPGZ 3RF close 0x14 0x1 0x1 0x40880626 ",
+    "pepca_style_total": 0,
+    "header_from": "service.refHZ44143608.cm@bbt.com",
+    "first10words": " 0x8 0x9752 MQSW 0x85240910 0x716 0x24838674 0x93507477 QH6 0x10 close exe end 1SO1 hex CEV source P2Q T8XM 24E GWB ",
+    "attachments": [
+        {
+            "name": "damascus.gif",
+            "pepca": "p965afc05125dd658",
+            "cte": "BASE64",
+            "mime_type": "image/gif",
+            "cid": "LXNEYHZXHD",
+            "size": 9531,
+            "flags": 0,
+            "sumphash": "a21d99644090bd66d5ce0f384b665338"
+        }
+    ],
+    "word_count": 32,
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/504.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p965afc05125dd658"
+        },
+        {
+            "name": "pepca",
+            "value": "p8d01c23bcedcd8a1"
+        }
+    ],
+    "spamscore": 1.5,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "exe",
+                "confidence": 2937392.78843
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "exe",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "en",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "BB T customer service confirm your online account access mess id t42775149745430 ",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": true,
+        "5_top_domains_id_0": 1,
+        "5_top_domains_percent_0": 1.0
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "long_subject"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.5
+            ],
+            "score": 1.5,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

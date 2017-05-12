@@ -1,0 +1,170 @@
+{
+    "phashes": [
+        {
+            "value": "pef797b6099e8996b",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pc7530c26e7173a5b",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p5e93045d6378dbe0",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p0ce4103e95bda609",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p6f923148f63382b2",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p60df095ec8e3dc8a",
+            "name": "pepca"
+        },
+        {
+            "value": "pade9040b1e1c5c5f",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "objednavky@dedra.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/258488.eml",
+    "attachments": [
+        {
+            "size": 287,
+            "name": "mainbody-bottom.png",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "b8mfznf9av@www.dedra.cz",
+            "sumphash": "42a0759840a0975f8ecbbe9f9ada6cac",
+            "pepca": "pef797b6099e8996b",
+            "mime_type": "image/png"
+        },
+        {
+            "size": 2061,
+            "name": "facebook.png",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "ca9ef88dr6@www.dedra.cz",
+            "sumphash": "a24632d8dc693ab1f2d21b2a81365ee3",
+            "pepca": "pc7530c26e7173a5b",
+            "mime_type": "image/png"
+        },
+        {
+            "size": 2049,
+            "name": "twitter.png",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "58mlenr4qd@www.dedra.cz",
+            "sumphash": "39e903b43adf49d902ea1a768b9b41e7",
+            "pepca": "p5e93045d6378dbe0",
+            "mime_type": "image/png"
+        },
+        {
+            "size": 5774,
+            "name": "main-logo.png",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "2fmyc7009g@www.dedra.cz",
+            "sumphash": "0dabe0a7e113482013e780c6eeedbdc3",
+            "pepca": "p0ce4103e95bda609",
+            "mime_type": "image/png"
+        },
+        {
+            "size": 282,
+            "name": "mainbody-top.png",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "ixgq1jy8wk@www.dedra.cz",
+            "sumphash": "5f58ebd90ec63b45c6708f697482f931",
+            "pepca": "p6f923148f63382b2",
+            "mime_type": "image/png"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "pepca": "p60df095ec8e3dc8a",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": "m o Vasi maximalni spokojenost S pozdravem Vase DEDRA Copyright 2011 Dedra Vsechna prava vyhrazena ",
+    "subject": "DEDRA INNOVATIONS prijeti objednavky",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 25491228.990176,
+                "domain": "masterinter"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "masterinter",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "dedra",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "dedra"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "pade9040b1e1c5c5f",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Najdete nas na techto socialnich sitich Dobry den dekujeme Vam za Vasi objednavk",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 569,
+    "adscore": 0,
+    "spamscore": 1.1
+}

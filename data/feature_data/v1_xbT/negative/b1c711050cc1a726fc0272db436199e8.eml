@@ -1,0 +1,180 @@
+{
+    "pepca_inline_style_total": 3,
+    "pepca": "pfda0594307bfa3e9",
+    "last10words": "chodni reditel Laetitia Pateau be2 je registrovanou znackou spolecnosti OPG Online Personals Group AG v mnoha zemich sveta ",
+    "universalprobes": [
+        {
+            "key": "ps-from_mismatch",
+            "value": "1"
+        },
+        {
+            "key": "ps-phish_keyword",
+            "value": "['heslo', 'heslo', 'heslo', 'heslo', 'heslo']"
+        },
+        {
+            "key": "ps-subject_phish_keyword",
+            "value": "['heslo']"
+        },
+        {
+            "key": "ps-phish_form",
+            "value": "1"
+        },
+        {
+            "key": "ps-camouflaged_href",
+            "value": "Url(norm=http://email3.be2.com/H?a=C9X7DMYkTwrs8SA9MKJY8uPnGHxKLJ142gjtS5kGd41ALfY&temp_str_2=OyFbQVBK, source=None) | Url(norm=http://be2.cz, source=txt)"
+        },
+        {
+            "key": "ps-html_a_href_camouflaging",
+            "value": "1"
+        },
+        {
+            "key": "ps-many_emails",
+            "value": "1"
+        },
+        {
+            "key": "ps-most-suspicious-links",
+            "value": "[]"
+        },
+        {
+            "key": "ps-not-phishing",
+            "value": "1"
+        }
+    ],
+    "list_unsubscribe_urls": [
+        "dummy"
+    ],
+    "dkstatus": {},
+    "header_from": "be2-czechia@email3.be2.com",
+    "spfstatus": {},
+    "contains_list_header": true,
+    "lang": "cs",
+    "attachments": [],
+    "word_count": 346,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/b1c711050cc1a726fc0272db436199e8.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pfda0594307bfa3e9"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p17ebbf19c7192ba4"
+        }
+    ],
+    "spamscore": 1.2,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "be2",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "be2",
+                "confidence": 80091159.6356294
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "be2",
+                "confidence": 12
+            }
+        ],
+        "domain_keywords": "be2",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "be2",
+        "plain_domain_detail": [
+            {
+                "domain": "be2",
+                "confidence": 2
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "pepcatotal": 3,
+    "dmarc_status": {},
+    "phish_score": 5.25,
+    "domainstat": {},
+    "precedence": 3,
+    "extractedEmailsTotalCount": {},
+    "subject": "Vase heslo na be2",
+    "adscore": 0,
+    "first10words": " be2 seasonal offer Zmente sve heslo Tuto zpravu jste prijali jelikoz emailova adresa tygrradek seznam cz byla zaregistrov",
+    "unsub_link": {},
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "domainstat_themes": {},
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1,
+                0.1
+            ],
+            "score": 1.2,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1,
+    "theme": {},
+    "pepca_style_total": 0,
+    "phNotches": [
+        {
+            "name": [
+                "from_mismatch",
+                "phish_keyword",
+                "subject_phish_keyword",
+                "phish_form",
+                "html_a_href_camouflaging",
+                "many_emails",
+                "not-phishing"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.0,
+                2.5,
+                1,
+                -2,
+                -1
+            ],
+            "score": 1.5,
+            "module": "phish-score"
+        }
+    ],
+    "pepca_inline_style": "p17ebbf19c7192ba4"
+}

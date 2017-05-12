@@ -1,0 +1,113 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "module": "ill",
+            "score": 1
+        }
+    ],
+    "pepca": "p6839a78ebf5aa4bf",
+    "first10words": " Vase objednavka byla dorucena O schvaleni objednavky budete informovani Dekujeme za projevenou duveru a prejeme Vam prijemny den Toto je ",
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "word_count": 23,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "objednavka",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1,
+    "phishing": {},
+    "header_from": "objednavky@pegres.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/trans-688b9fd74073ef2b27c4fdfaa108dadd.eml",
+    "attachments": [
+        {
+            "sumphash": "dc5b5ace27d0916fed08dfee55dd0748",
+            "mime_type": "text/html",
+            "flags": 0,
+            "size": 0,
+            "cte": "BASE64",
+            "name": ""
+        },
+        {
+            "size": 6479,
+            "mime_type": "text/html",
+            "flags": 0,
+            "pepca": "pc3f2467a6dd6255c",
+            "cte": "BASE64",
+            "sumphash": "eeb5855652fd671ccd4612d7fdca8d62",
+            "name": "objednavka.html"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "pc3f2467a6dd6255c"
+        },
+        {
+            "name": "pepca",
+            "value": "p6839a78ebf5aa4bf"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "pegres"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "tsbohemia",
+        "plain_domain": "pegres",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 600906.61023,
+                "domain": "tsbohemia"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "y budete informovani Dekujeme za projevenou duveru a prejeme Vam prijemny den Toto je automaticka odpoved http www pegres cz ",
+    "lang": "cs"
+}

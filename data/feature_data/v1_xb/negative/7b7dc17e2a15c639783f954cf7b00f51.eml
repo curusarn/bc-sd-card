@@ -1,0 +1,102 @@
+{
+    "phashes": [
+        {
+            "value": "p10c2b5fb0a145edd",
+            "name": "pepca"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "info@matrace-bazyl.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/7b7dc17e2a15c639783f954cf7b00f51.eml",
+    "unsub_link_candidates": [
+        "http://www.matrace-bazyl.cz"
+    ],
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "pepca": "p10c2b5fb0a145edd",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": "ripade tel 420 775 021 998 Vzhledem k mnozstvi objednavek prosime veskerou komunikaci provadejte prez email E mail info matrace bazyl cz",
+    "subject": "www matrace bazyl cz Dekujeme za registraci",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 21231883.025018,
+                "domain": "matrace-bazyl"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "matrace-bazyl",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "matrace-bazyl",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "matrace-bazyl"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "unsub_link_texts": [
+        "  vas e mail"
+    ],
+    "unsub_link": "http://www.matrace-bazyl.cz",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Dekujeme za registraci www matrace bazyl cz Muzete se prihlasit ke svemu uctu na teto strance http www matrace bazyl cz Vas e mai",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 59,
+    "adscore": 0,
+    "spamscore": 1.1
+}

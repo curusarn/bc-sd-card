@@ -1,0 +1,93 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p9a0b6e170a14f521",
+    "last10words": "vurcu portalu DUMy cz Na tento e mail prosim neodpovidejte Informace a otazky k uvedenemu mailu smerujte na adresu pomoc dumy cz ",
+    "pepca_style_total": 0,
+    "header_from": "dumy@dumy.cz",
+    "first10words": " Dobry den byla zaznamenana zadost o zaslani noveho hesla z Vaseho uzivatelskeho uctu na portale DUMy cz Pro vstup do v",
+    "attachments": [],
+    "word_count": 71,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/a33cbbc280de041051916f9b6be3469b.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p9a0b6e170a14f521"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "benaughty",
+                "confidence": 4662190.9252958
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "benaughty",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "dumy",
+        "plain_domain_detail": [
+            {
+                "domain": "dumy",
+                "confidence": 3
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Zadost o zmenu hesla",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

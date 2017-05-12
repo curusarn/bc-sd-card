@@ -1,0 +1,140 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "",
+    "last10words": "ose 1LZH 35I KDR9 B3V OM6F common Y0IR CRW SH2W source hex 0x5544 0x74431589 0x3 0x573 0x972 0x58430332 0x0802 0x46274851 ",
+    "universalprobes": [
+        {
+            "key": "ps-from_mismatch",
+            "value": "1"
+        },
+        {
+            "key": "ps-attachments",
+            "value": "1"
+        },
+        {
+            "key": "ps-many_emails",
+            "value": "1"
+        }
+    ],
+    "pepca_style_total": 0,
+    "precedence": 3,
+    "dkstatus": {},
+    "header_from": "clientservice.ref177963801.cm@bbt.com",
+    "spfstatus": {},
+    "pepcatotal": 0,
+    "attachments": [
+        {
+            "name": "crematory.gif",
+            "pepca": "p965afc05125dd658",
+            "cte": "BASE64",
+            "mime_type": "image/gif",
+            "cid": "6VV4SDDY0B",
+            "size": 9520,
+            "flags": 0,
+            "sumphash": "0f64fd54cf05c35eca9256a2547ace0b"
+        }
+    ],
+    "word_count": 56,
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/1831.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p965afc05125dd658"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "stackexchange",
+                "confidence": 1431038.79235
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "stackexchange",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "dmarc_status": {},
+    "phish_score": 0.0,
+    "domainstat": {},
+    "pepca_small": "p179efc1b78d1ae8f",
+    "extractedEmailsTotalCount": {},
+    "subject": "Confirmation Required mess id AE451125399P ",
+    "adscore": 0,
+    "first10words": " 0x119 0x33 0x83 0x31108560 0x64 0x5390 0x95057603 0x83 0x9799 0x8 0x8067 0x476 0x1085 hex 0x55058183 0x74 0x66 sta",
+    "unsub_link": {},
+    "phishing": {
+        "ner_domain_detected": true,
+        "5_top_domains_id_0": 1,
+        "5_top_domains_percent_0": 1.0
+    },
+    "pepca_style": "",
+    "domainstat_themes": {},
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1,
+    "theme": {},
+    "lang": "un",
+    "phNotches": [
+        {
+            "name": [
+                "from_mismatch",
+                "attachments",
+                "many_emails"
+            ],
+            "subscores": [
+                1,
+                1,
+                -2
+            ],
+            "score": 0.0,
+            "module": "phish-score"
+        }
+    ],
+    "pepca_inline_style": ""
+}

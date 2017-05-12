@@ -1,0 +1,149 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pb432772e6df41987",
+    "last10words": "se s nami spojit kliknete na tento odkaz Pokud nechcete dostavat z nasi stranky zadne dalsi zpravy kliknete na tento odkaz ",
+    "pepca_style_total": 0,
+    "unsub_link_texts": [
+        "chtit li se s my spojit kliknout na tento odkaz ",
+        "pokud nechtit dostavat z nas stranka zadny dalsi zprava kliknout na tento odkaz "
+    ],
+    "header_from": "no-reply@gamedesire.com",
+    "unsub_link_candidates": [
+        "http://www.ipad.gamedesire.com/?dd=4&n=11",
+        "http://www.ipad.gamedesire.com/index.html?dd=1&n=25&action=block_email&pid=34164555&time=1414529921&permission=system&gd_sig=79055e355bf22c44255d16098ec70c7b"
+    ],
+    "first10words": " Ahoj tropiko1 Podali jste si zadost o resetovani hesla na GameDesire resetovat heslo Bu",
+    "attachments": [
+        {
+            "name": "gd_new.png",
+            "pepca": "p93bee925240af0a8",
+            "cte": "BASE64",
+            "mime_type": "image/png",
+            "cid": "gd_new.png",
+            "size": 4819,
+            "flags": 0,
+            "sumphash": "d36ce4ea920745973c9c5f04ff2d6415"
+        },
+        {
+            "name": "facebook_ico.png",
+            "pepca": "p86bf12297d2e9be8",
+            "cte": "BASE64",
+            "mime_type": "image/png",
+            "cid": "facebook_ico.png",
+            "size": 1534,
+            "flags": 0,
+            "sumphash": "c1969fb0b92a7f96f0ac50ae14c3aa3e"
+        },
+        {
+            "name": "twitter_ico.png",
+            "pepca": "p5d3accd60932a728",
+            "cte": "BASE64",
+            "mime_type": "image/png",
+            "cid": "twitter_ico.png",
+            "size": 1757,
+            "flags": 0,
+            "sumphash": "b3313e5dfe9b06a109181d33fc18ea73"
+        }
+    ],
+    "word_count": 145,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/b6020aaa3ed7ae8ef23877974d1f11f2.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p93bee925240af0a8"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p86bf12297d2e9be8"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p5d3accd60932a728"
+        },
+        {
+            "name": "pepca",
+            "value": "pb432772e6df41987"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p3193c79428c7dffc"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "mcsv",
+                "confidence": 10256637.2474413
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "mcsv",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "gamedesire",
+        "plain_domain_detail": [
+            {
+                "domain": "gamedesire",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Ztracene heslo",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "unsub_link": "http://www.ipad.gamedesire.com/index.html?dd=1&n=25&action=block_email&pid=34164555&time=1414529921&permission=system&gd_sig=79055e355bf22c44255d16098ec70c7b",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "p3193c79428c7dffc",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

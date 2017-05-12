@@ -1,0 +1,143 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1,
+                0.1,
+                0.5
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging",
+                "foreign_message_id",
+                "long_subject"
+            ],
+            "module": "ill",
+            "score": 1.7
+        }
+    ],
+    "pepca": "p1e64abcf239ca7a1",
+    "first10words": " Kristyna Vrabelova faktura za Doprava zbozi na trase Pribor Holesov ze dne 07 11 2014 na castku 1 694 00 Kc Dobry den",
+    "pepca_style": "",
+    "pepca_inline_style": "pc7e5ebf1cda2e4bb",
+    "word_count": 764,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "FW Kristyna Vrabelova faktura za Doprava zbozi na trase Pribor Holesov ze dne 07 11 2014 na castku 1 694 00 Kc",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.7,
+    "phishing": {
+        "5_top_domains_percent_0": 1.0,
+        "5_top_domains_id_0": 0
+    },
+    "header_from": "E.Fendrichova@primuslaundry.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/c30ad0bc56737376646fcafa8474cb87.eml",
+    "attachments": [
+        {
+            "size": 2946,
+            "mime_type": "image/gif",
+            "flags": 0,
+            "pepca": "p5cc44c9a4f2badca",
+            "cid": "image001.gif@01D0185C.E7F67150",
+            "cte": "BASE64",
+            "sumphash": "676f93dc292e7dd7d139915207f28524",
+            "name": "image001.gif"
+        },
+        {
+            "size": 160065,
+            "mime_type": "application/pdf",
+            "flags": 0,
+            "pepca": "pde3aaeeeb11e5b0d",
+            "first10words": "Platba Bankovni ucet Odberatel Mistecka Pribor Ceska republika Primus CE",
+            "cte": "BASE64",
+            "sumphash": "b4482ada0e11e1c0c5fd45f5a562ba45",
+            "name": "Vydana faktura - 20140346.pdf",
+            "lang": "cs"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p5cc44c9a4f2badca"
+        },
+        {
+            "name": "att-pepca",
+            "value": "pde3aaeeeb11e5b0d"
+        },
+        {
+            "name": "pepca",
+            "value": "p1e64abcf239ca7a1"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pc7e5ebf1cda2e4bb"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 2,
+                "domain": "money"
+            },
+            {
+                "confidence": 1,
+                "domain": "idoklad"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "aweber",
+        "plain_domain": "money",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 78697074.8110004,
+                "domain": "aweber"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "idoklad",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [
+            {
+                "confidence": 3,
+                "domain": "idoklad"
+            }
+        ],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": " www idoklad cz www money cz 2014 CIGLER SOFTWARE a s ",
+    "lang": "cs"
+}

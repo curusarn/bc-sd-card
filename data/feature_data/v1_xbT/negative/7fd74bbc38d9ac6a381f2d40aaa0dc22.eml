@@ -1,0 +1,112 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pbf929a552f5228d7",
+    "last10words": " A P Prosim zvazte zda je nutne tisknout tento email s ohledem na zivotni prostredi A A ",
+    "pepca_style_total": 0,
+    "header_from": "kittnerova@industroprofil.cz",
+    "first10words": " A Dobry den Objednavam obedy na tento tyden A PondeliaSaSaSaS menu c 3 ",
+    "attachments": [
+        {
+            "name": "image003.jpg",
+            "pepca": "p8efddce71688434a",
+            "cte": "BASE64",
+            "mime_type": "image/jpeg",
+            "cid": "image003.jpg@01D0185D.33C50740",
+            "size": 8635,
+            "flags": 0,
+            "sumphash": "b19c5f11a3fb0bc57642c6e69862accf"
+        }
+    ],
+    "word_count": 236,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/7fd74bbc38d9ac6a381f2d40aaa0dc22.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p8efddce71688434a"
+        },
+        {
+            "name": "pepca",
+            "value": "pbf929a552f5228d7"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pe4f9d47852c79e8b"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "zsjilovska",
+                "confidence": 8260034.94294
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "zsjilovska",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "industroprofil",
+        "plain_domain_detail": [
+            {
+                "domain": "industroprofil",
+                "confidence": 2
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "objednavka tento tyden",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "pe4f9d47852c79e8b",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

@@ -1,0 +1,101 @@
+{
+    "phashes": [
+        {
+            "value": "p89d57b3761eb1238",
+            "name": "pepca"
+        },
+        {
+            "value": "pbf0a1a4edfef7a81",
+            "name": "pepca_style"
+        },
+        {
+            "value": "p1a7767cf020a0e98",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "e-shop@hygoservisbrno.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/22a541c17c75cc8e2e8378164cd6bb0a.eml",
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "pepca": "p89d57b3761eb1238",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "pbf0a1a4edfef7a81",
+    "last10words": " Ulice c p Masarykovo nam 230 23 Mesto Podivin PSC 69145 Telefon 519 344 207 E mail zs podivin seznam cz ",
+    "subject": "Rekapitulace zmena registrace zakaznika",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 4809306.93398,
+                "domain": "chaps"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "chaps",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "hygoservisbrno",
+        "plain_domain_detail": [
+            {
+                "confidence": 2,
+                "domain": "hygoservisbrno"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p1a7767cf020a0e98",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Rekapitulace zmena registrace zakaznika Vazeny zakazniku zmena Vasi registrace v e shopu na www hygoservisbrno cz ",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 225,
+    "adscore": 0,
+    "spamscore": 1
+}

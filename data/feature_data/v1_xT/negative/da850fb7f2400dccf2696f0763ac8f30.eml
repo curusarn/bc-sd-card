@@ -1,0 +1,111 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "module": "ill",
+            "score": 1
+        }
+    ],
+    "pepca": "p5ab56c6c5159c474",
+    "first10words": " Objednavka c 8185770001 viz pripojeny soubor odeslana z www aplikace Zoner inShop TisknuLevne cz na adrese www TisknuLevne cz Potvrzeni obje",
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "word_count": 155,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Vase objednavka c 8185770001",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1,
+    "phishing": {},
+    "header_from": "info@tisknulevne.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/da850fb7f2400dccf2696f0763ac8f30.eml",
+    "attachments": [
+        {
+            "size": 34573,
+            "mime_type": "application/pdf",
+            "flags": 0,
+            "pepca": "p84415cb6e635565e",
+            "first10words": "Obchodn ? podm? nky TisknuLevne cz ledna Obecna ustanoven ?",
+            "cte": "BASE64",
+            "sumphash": "57e2d6c351db0a9fb4e1f064e9aa1dcc",
+            "name": "Obchodni_Podm\u00ednky_TisknuLevne.pdf",
+            "lang": "cs"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p84415cb6e635565e"
+        },
+        {
+            "name": "pepca",
+            "value": "p5ab56c6c5159c474"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 2,
+                "domain": "tisknulevne"
+            },
+            {
+                "confidence": 1,
+                "domain": "zasilkovna"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "tisknulevne",
+        "plain_domain": "tisknulevne",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 40792059.417325,
+                "domain": "tisknulevne"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "ZORNENI Objednane zbozi si muzete vyzvednout az po jeho ulozeni u partnera Vyskladneni Vaseho zbozi bude oznameno SMS zpravou a emailem Poznamka ",
+    "lang": "cs"
+}

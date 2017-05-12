@@ -1,0 +1,114 @@
+{
+    "phashes": [
+        {
+            "value": "p904c237c739b812c",
+            "name": "pepca"
+        },
+        {
+            "value": "pcdae8cfd67e91013",
+            "name": "pepca_style"
+        },
+        {
+            "value": "pd219770f204e68ae",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "contact@dollarphotoclub.com",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/12c720c5d2a6616caccf823382210764.eml",
+    "attachments": [],
+    "contains_list_header": true,
+    "last10words": " Unsubscribe Change email address Privacy policy Copyright Dollar Photo Club 2014 All rights reserved ",
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "pcdae8cfd67e91013",
+    "pepca": "p904c237c739b812c",
+    "subject": "Dollar Photo Club obnoveni hesla",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 1,
+                "domain": "dollarphotoclub"
+            },
+            {
+                "confidence": 1,
+                "domain": "fotolia"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 173934085.068235,
+                "domain": "aweber"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "dollarphotoclub",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "aweber",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "dollarphotoclub",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "dollarphotoclub"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "pd219770f204e68ae",
+    "list_unsubscribe_urls": [
+        "mailto:unsub-a02a9544.lmlh.tsl79n8@bnc.mailjet.com"
+    ],
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Account recovery link enclosed Dobry den pozadal a jste o obnoveni hesla k Vasemu uctu akozeluh ",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 170,
+    "adscore": 0,
+    "spamscore": 1
+}

@@ -1,0 +1,111 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p2dd0295a3080e172",
+    "last10words": "ni spojeni 1103978006 1111 zapsana v obchodnim registru Okresniho soudu Bratislava I Oddil Sro Vlozka cislo 67928 B ",
+    "pepca_style_total": 0,
+    "unsub_link_texts": [
+        "pokud si neprat dostavat nasi e mail kliknout prosit zde vyplnit formular a kliknout na odhlasit"
+    ],
+    "header_from": "info@stilago.cz",
+    "unsub_link_candidates": [
+        "http://unsubscribe.studio-moderna.com/?uem=drapeta@seznam.cz&site_id=495&lang=CZ"
+    ],
+    "first10words": " Vase heslo pro vstup na stranky Stilago Dobry den potvrzujeme vam uspesnou zmenu vaseho vstupniho hesla d",
+    "attachments": [],
+    "word_count": 258,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/67a51a984b921a22425098455c42d0cf.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p2dd0295a3080e172"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pe356323ff2100f5d"
+        }
+    ],
+    "spamscore": 2,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "stilago",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "stilago",
+                "confidence": 99136703.2003833
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "stilago",
+                "confidence": 2
+            }
+        ],
+        "domain_keywords": "stilago",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "stilago",
+        "plain_domain_detail": [
+            {
+                "domain": "stilago",
+                "confidence": 2
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Zmena hesla na Stilago cz",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "unsub_link": "http://unsubscribe.studio-moderna.com/?uem=drapeta@seznam.cz&site_id=495&lang=CZ",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "pe356323ff2100f5d",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "missing_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                1
+            ],
+            "score": 2,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

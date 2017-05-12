@@ -1,0 +1,115 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pd886c901c78e3f04",
+    "last10words": "daje je snadne Chci se odhlasit Mate dotaz nebo pripominku Kontaktujte nas info kurzyatac cz ",
+    "pepca_style_total": 2,
+    "unsub_link_texts": [
+        " chtit se odhlasit mit dotaz nebo pripominka",
+        " email marketing powered by mailchimp mailchimp email marketing "
+    ],
+    "header_from": "info@kurzyatac.cz",
+    "unsub_link_candidates": [
+        "http://kurzyatac.us2.list-manage.com/unsubscribe?u=247b4eaf1315ccd1524b5d386&id=98bd5152e7&e=8be3f3d64e",
+        "http://www.mailchimp.com/monkey-rewards/?utm_source=freemium_newsletter&utm_medium=email&utm_campaign=monkey_rewards&aid=247b4eaf1315ccd1524b5d386&afl=1"
+    ],
+    "first10words": " Pruvodce wellness Vase registrace do Zpravodaje Martina Jelinka byla potvrzena dekujeme za Vas zaj",
+    "attachments": [],
+    "word_count": 185,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/a3b12a60842a39a71d30020c40ba7833.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pd886c901c78e3f04"
+        },
+        {
+            "name": "pepca_style",
+            "value": "p25dfe2e5dd31555e"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p40020dd29bc3ab0a"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "sam73",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "zapakatel",
+                "confidence": 18793423.8654
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "sam73",
+                "confidence": 2
+            }
+        ],
+        "domain_keywords": "zapakatel",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "kurzyatac",
+        "plain_domain_detail": [
+            {
+                "domain": "kurzyatac",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Pruvodce wellness Dekujeme za registraci",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "unsub_link": "http://www.mailchimp.com/monkey-rewards/?utm_source=freemium_newsletter&utm_medium=email&utm_campaign=monkey_rewards&aid=247b4eaf1315ccd1524b5d386&afl=1",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "p25dfe2e5dd31555e",
+    "pepca_inline_style": "p40020dd29bc3ab0a",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

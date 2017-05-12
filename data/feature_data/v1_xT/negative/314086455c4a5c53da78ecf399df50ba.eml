@@ -1,0 +1,124 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "module": "ill",
+            "score": 1
+        }
+    ],
+    "pepca": "p36a17ab54f8acb43",
+    "first10words": " Online seznamka Prejeme prijemny den Dekujeme ze jste se rozhodli stat nasim clenem Vazime si Vasi prizne",
+    "pepca_style": "",
+    "pepca_inline_style": "p26e26bec1b7c0b9c",
+    "word_count": 159,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Uspesna registrace",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1,
+    "phishing": {},
+    "header_from": "info@vedvou.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/314086455c4a5c53da78ecf399df50ba.eml",
+    "attachments": [
+        {
+            "size": 6472,
+            "mime_type": "image/png",
+            "flags": 0,
+            "pepca": "p9fa7403087d1f352",
+            "cid": "ma1",
+            "cte": "BASE64",
+            "sumphash": "0c4871de4aa2c5b2713505d75c4a32ec",
+            "name": "1414479951544f404f2f4afimg1.png"
+        },
+        {
+            "size": 14898,
+            "mime_type": "image/png",
+            "flags": 0,
+            "pepca": "pa7df27a2e9968dcb",
+            "cid": "ma2",
+            "cte": "BASE64",
+            "sumphash": "12e3847dece8881f27c31862a29a8bd8",
+            "name": "1414479951544f404f2f529img2.png"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p9fa7403087d1f352"
+        },
+        {
+            "name": "att-pepca",
+            "value": "pa7df27a2e9968dcb"
+        },
+        {
+            "name": "pepca",
+            "value": "p36a17ab54f8acb43"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p26e26bec1b7c0b9c"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 3,
+                "domain": "vedvou"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "datingfactory",
+        "plain_domain": "vedvou",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 29861189.6921436,
+                "domain": "datingfactory"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "e u nas najdete svuj ideal Tym Vedvou cz e mail info vedvou cz telefon 420 777 53 77 50 vedvou cz ",
+    "lang": "cs"
+}

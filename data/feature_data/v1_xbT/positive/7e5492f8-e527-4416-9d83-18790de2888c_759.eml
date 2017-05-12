@@ -1,0 +1,150 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p71faf776ab5bcceb",
+    "last10words": " Zusaetzliche Mitteilungen Die oben aufgefA hrten Leistungen beziehen sich ausschlieAlich auf Ihre Anmeldung unter www ebay de ",
+    "pepca_style_total": 0,
+    "header_from": "endofitem@ebay.de",
+    "first10words": " A A Guten Tag hier ist eine Zusammenfassung der Kontoaktivitaeten seit Ihrer letzten Rechnung In der",
+    "attachments": [
+        {
+            "name": "logoEbay.gif",
+            "pepca": "p9464ada248fe0bab",
+            "cte": "BASE64",
+            "mime_type": "image/gif",
+            "cid": "003c01c68a5d$f4a47cd0$bd0111ac@ebay.de",
+            "size": 1556,
+            "flags": 0,
+            "sumphash": "a4980353f18db5d2dd28625da79a481c"
+        },
+        {
+            "name": "Ebay-Rechnung.pdf.zip",
+            "pepca": "pcf5125e1ae287af0",
+            "cte": "BASE64",
+            "mime_type": "application/zip",
+            "size": 7211,
+            "flags": 0,
+            "sumphash": "d827a219c6e29b1491c0f7acbebc44d8"
+        },
+        {
+            "mime_type": "application/octet-stream",
+            "name": "Ebay-Rechnung.pdf.exe",
+            "first10words": "MZ yy ?? I LI This program cannot be run",
+            "pepca": "p78d84b8903b46626",
+            "lang": "un",
+            "cte": "PLAIN",
+            "exe_pepcas": [
+                ".text:p3b42a6a463e96e69",
+                ".rsrc:p05716a5d6a0fb602"
+            ],
+            "size": 13824,
+            "flags": 3,
+            "sumphash": "0b96794221dd304f425d05a80493c9d1"
+        }
+    ],
+    "word_count": 263,
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/759.eml",
+    "phashes": [
+        {
+            "name": "att-pepca:exe-sec",
+            "value": ".text:p3b42a6a463e96e69"
+        },
+        {
+            "name": "att-pepca:exe-sec",
+            "value": ".rsrc:p05716a5d6a0fb602"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p9464ada248fe0bab"
+        },
+        {
+            "name": "att-pepca-risky",
+            "value": "pcf5125e1ae287af0"
+        },
+        {
+            "name": "att-pepca-risky",
+            "value": "p78d84b8903b46626"
+        },
+        {
+            "name": "pepca",
+            "value": "p71faf776ab5bcceb"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "ebay",
+                "confidence": 5851621621.23832
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "ebay",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "ebay",
+        "plain_domain_detail": [
+            {
+                "domain": "ebay",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "de",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "EBAY",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

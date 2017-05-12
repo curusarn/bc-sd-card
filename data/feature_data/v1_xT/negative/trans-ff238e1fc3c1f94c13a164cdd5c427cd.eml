@@ -1,0 +1,130 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "module": "ill",
+            "score": 1
+        }
+    ],
+    "pepca": "p29e46f0e7c4013e8",
+    "first10words": " POTVRZENI O PRIJETI OBJEDNAVKY U CK Dobry den Vase smlouva o zajezdu byla zaslana do cestovni kancelare KM Travel Tva",
+    "pepca_style": "",
+    "pepca_inline_style": "p9e9ca9919c44ada2",
+    "word_count": 212,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Potvrzeni prijeti zavazne objednavky",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1,
+    "phishing": {
+        "5_top_domains_id_0": 0,
+        "5_top_domains_percent_1": 0.3333333333333333,
+        "5_top_domains_percent_0": 0.6666666666666666,
+        "5_top_domains_id_1": 1
+    },
+    "header_from": "monika.kordikova@invia.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/trans-ff238e1fc3c1f94c13a164cdd5c427cd.eml",
+    "attachments": [
+        {
+            "sumphash": "dc5b5ace27d0916fed08dfee55dd0748",
+            "mime_type": "text/plain",
+            "flags": 0,
+            "size": 0,
+            "cte": "BASE64",
+            "name": "confirm_from_ck_tutor_voucher.jpg"
+        },
+        {
+            "sumphash": "dc5b5ace27d0916fed08dfee55dd0748",
+            "mime_type": "text/plain",
+            "flags": 0,
+            "size": 0,
+            "cte": "BASE64",
+            "name": "confirm_from_ck_guide_voucher_2015.pdf"
+        },
+        {
+            "sumphash": "dc5b5ace27d0916fed08dfee55dd0748",
+            "mime_type": "text/plain",
+            "flags": 0,
+            "size": 0,
+            "cte": "BASE64",
+            "name": "voucher_faktor_100_3093829.pdf"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p29e46f0e7c4013e8"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p9e9ca9919c44ada2"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 2,
+                "domain": "invia"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "invia",
+        "plain_domain": "invia",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 166814396.162099,
+                "domain": "invia"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "travelon",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [
+            {
+                "confidence": 1,
+                "domain": "travelon"
+            }
+        ],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "ww invia cz Tip Invia Vsechny zajezdy Invia jsou pojisteny Faktorem 100 garance ze Vase dovolena neskonci na letisti ",
+    "lang": "cs"
+}

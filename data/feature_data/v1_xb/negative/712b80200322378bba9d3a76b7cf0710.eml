@@ -1,0 +1,97 @@
+{
+    "phashes": [
+        {
+            "value": "pc7e86ac3d53005fb",
+            "name": "pepca"
+        },
+        {
+            "value": "p9a255f044fd027e3",
+            "name": "pepca_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "info@kartografie.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/712b80200322378bba9d3a76b7cf0710.eml",
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "pepca": "pc7e86ac3d53005fb",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "p9a255f044fd027e3",
+    "last10words": "vem Kartografie PRAHA a s Ostrovni 126 30 Praha 1 110 00 Tel 221 969 446 info kartografie cz Datum 29 10 2014 18 00 59 ",
+    "subject": "Potvrzeni registrace kartografie cz http www kartografie cz ",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 7067265.44269,
+                "domain": "jenprace"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "jenprace",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "kartografie",
+        "plain_domain_detail": [
+            {
+                "confidence": 2,
+                "domain": "kartografie"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 2,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Vazeny zakazniku Vazeny zakazniku potvrzujeme Vasi uspesnou registraci do internetove prodejny kartografie cz http ",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 200,
+    "adscore": 0,
+    "spamscore": 1
+}

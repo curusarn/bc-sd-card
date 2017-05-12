@@ -1,0 +1,143 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p6b123e2e1bf5e857",
+    "last10words": " Please consider your environmental responsibility before printing this e mail A A A ",
+    "pepca_style_total": 0,
+    "header_from": "Marek.Rysavy@CZ.nestle.com",
+    "resent": true,
+    "first10words": " A A Marek Rysavy Mistr elektroudrzby Electro Maitenance Zora Factory ",
+    "attachments": [
+        {
+            "name": "image001.png",
+            "pepca": "p060a7dfe201bd0fd",
+            "cte": "BASE64",
+            "mime_type": "image/png",
+            "cid": "image001.png@01D0185D.2D9C7D80",
+            "size": 20919,
+            "flags": 0,
+            "sumphash": "603f64e2969a5ba4ee2864a08bb1df1a"
+        },
+        {
+            "name": "image003.jpg",
+            "pepca": "p4b1498826a8cfbf7",
+            "cte": "BASE64",
+            "mime_type": "image/jpeg",
+            "cid": "image003.jpg@01D0185D.2DAF6940",
+            "size": 1927,
+            "flags": 0,
+            "sumphash": "8a74a6de3b93068751d5609c209163ff"
+        },
+        {
+            "mime_type": "application/pdf",
+            "name": "PO.pdf",
+            "first10words": "Dokument Kodex Nestle Dodavatele shrnuje podminky podnikatelskeho chovani ktere od",
+            "pepca": "p4fd37f7048ea1900",
+            "lang": "cs",
+            "cte": "BASE64",
+            "cid": "F8A1FE9C4B14424F971584BF50ED959C@nestle.com",
+            "size": 70617,
+            "flags": 0,
+            "sumphash": "82df6841f7e576b3000951aa7275b7ce"
+        }
+    ],
+    "word_count": 531,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/c22b9a1565e9dab7126a2b8cbb9cc8a7.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p060a7dfe201bd0fd"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p4b1498826a8cfbf7"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p4fd37f7048ea1900"
+        },
+        {
+            "name": "pepca",
+            "value": "p6b123e2e1bf5e857"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pa0c352d3359e30aa"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "clamav",
+                "confidence": 114565814.992
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "clamav",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "nestle",
+        "plain_domain_detail": [
+            {
+                "domain": "nestle",
+                "confidence": 2
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Objednavka Nestle4546088486",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "pa0c352d3359e30aa",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

@@ -1,0 +1,108 @@
+{
+    "phashes": [
+        {
+            "value": "p1299ef178889d748",
+            "name": "pepca"
+        },
+        {
+            "value": "p1af399cc294394b2",
+            "name": "pepca_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "obchod@semo.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/trans-fe74cb9334a0f451e544380026a7b1e0.eml",
+    "attachments": [
+        {
+            "size": 84,
+            "name": "objc_1074720150113.csv",
+            "cte": "BASE64",
+            "flags": 0,
+            "sumphash": "2f7cd6ccad89a5c8d8aa3ae6db1c31a3",
+            "mime_type": "text/comma-separated-values"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "pepca": "p1299ef178889d748",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "p1af399cc294394b2",
+    "last10words": " Postovne A 120 Kc Cena k platbe celkem 423 00 Kc radku 5 mnozstvi 10 ",
+    "subject": "Internetova objednavka SEMO c 1074720150113",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 12745614.495088,
+                "domain": "masterinter"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "masterinter",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "semo",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "semo"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Objednavka SEMO OBJEDNAVKA C 1074720150113 Dekujeme za Vasi objednavku c 1074720150113 ze dne 13 01 2015 Tento automaticky e",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 386,
+    "adscore": 0,
+    "spamscore": 1.1
+}

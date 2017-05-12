@@ -1,0 +1,108 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pbbea5d81d0178b5a",
+    "last10words": "mame radi spam Ak mate otazky o tomto zozname prosim kontaktujte info bratilicious com ",
+    "pepca_style_total": 0,
+    "header_from": "info@bratilicious.com",
+    "first10words": " Bratilicious VIP Club Prosim potvrd VIP registraciu Ano prihlaste sa ma do tohto zoznamu ",
+    "attachments": [],
+    "word_count": 135,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/7751a03af6a1d6d4c7af5b784ea595d2.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pbbea5d81d0178b5a"
+        },
+        {
+            "name": "pepca_style",
+            "value": "pc502829c1f2b7e64"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p455add39e86215db"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "sam73",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "tykadla",
+                "confidence": 4843864.58318
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "sam73",
+                "confidence": 2
+            }
+        ],
+        "domain_keywords": "tykadla",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "bratilicious",
+        "plain_domain_detail": [
+            {
+                "domain": "bratilicious",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "sk",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Bratilicious VIP Club Potvrd svoju registraciu",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "pc502829c1f2b7e64",
+    "pepca_inline_style": "p455add39e86215db",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

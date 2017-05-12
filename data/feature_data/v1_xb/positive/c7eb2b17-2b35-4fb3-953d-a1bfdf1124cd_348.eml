@@ -1,0 +1,105 @@
+{
+    "phashes": [
+        {
+            "value": "p12c0cb094e994945",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p65e683b0b4babb39",
+            "name": "pepca"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "support-reference94706362514993id@53.com",
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/348.eml",
+    "attachments": [
+        {
+            "size": 8144,
+            "name": "antiquated.gif",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "JBNH35FUBX",
+            "sumphash": "76c049990162a713923d7624b4d37f5f",
+            "pepca": "p12c0cb094e994945",
+            "mime_type": "image/gif"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "long_subject"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.5
+            ],
+            "score": 1.5
+        }
+    ],
+    "pepca": "p65e683b0b4babb39",
+    "phishing": {
+        "ner_domain_detected": true
+    },
+    "pepca_style": "",
+    "last10words": "the three days in August she had spent up there on the stand in Denver he thought that she had really confessed to everything addressograph ",
+    "subject": "Fifth Third Bank Email user example com Verification Mon 18 Sep 2006 07 24 39 0500",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 120958539.726851,
+                "domain": "aweber"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "aweber",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " But that isn t right either codomain arcsine That was where Annie really had gone crazy Dull dirty half shine oh boy yo",
+    "lang": "en",
+    "pepcatotal": 0,
+    "word_count": 225,
+    "adscore": 0,
+    "spamscore": 1.5
+}

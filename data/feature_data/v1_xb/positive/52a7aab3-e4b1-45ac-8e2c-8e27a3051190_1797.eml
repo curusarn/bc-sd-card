@@ -1,0 +1,118 @@
+{
+    "phashes": [
+        {
+            "value": "peae9d938564ec463",
+            "name": "att-pepca-risky"
+        },
+        {
+            "value": "pfc780d257c0d38af",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pec5339c6d19a830d",
+            "name": "pepca"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "smith@serverendp.ssh",
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/1797.eml",
+    "attachments": [
+        {
+            "size": 63602,
+            "name": "xyrt.zip",
+            "cte": "BASE64",
+            "flags": 0,
+            "sumphash": "4b2661040ee0ba9cc6fda5e9635e5687",
+            "pepca": "peae9d938564ec463",
+            "mime_type": "application/zip"
+        },
+        {
+            "first10words": "MZPELai ?n aaMEWFOA aAOuUSeO EaA B ? P ysu Eys",
+            "size": 63488,
+            "mime_type": "application/octet-stream",
+            "cte": "PLAIN",
+            "exe_pepcas": [],
+            "lang": "un",
+            "name": "xyrt.pif",
+            "sumphash": "0f715616096e595e33f8c65712540a78",
+            "pepca": "pfc780d257c0d38af",
+            "flags": 3
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "pepca": "pec5339c6d19a830d",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": "s oi O pso oe vUxI kru uDiJiZfAU O y H wUn OGo 2OuG UO O aO q AazLzOL a H q MI ",
+    "subject": "Status",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 43930847.8748,
+                "domain": "stepstone"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "stepstone",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " i Up ake IA K ua U g 8kY PnY ZP KQu lBi I O uZ ifi F N BIeaouuE EZY ",
+    "lang": "un",
+    "pepcatotal": 0,
+    "word_count": 23,
+    "adscore": 0,
+    "spamscore": 1
+}

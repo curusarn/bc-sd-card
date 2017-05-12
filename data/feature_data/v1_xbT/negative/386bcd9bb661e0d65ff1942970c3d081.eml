@@ -1,0 +1,122 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p1a6819c8efa76540",
+    "last10words": "Vasi prizen MEGADARKY CZ MEGADARKY CZ http www megadarky cz MEGADARKY CZ funguje na systemu PrestaShop ",
+    "pepca_style_total": 0,
+    "header_from": "obchod@megadarky.cz",
+    "first10words": " Zprava z MEGADARKY CZ Dobry den p Peskova Vase nove prihlasovaci udaje E mail natka praha",
+    "attachments": [
+        {
+            "name": "logo.jpg",
+            "pepca": "p8d35d48c316eb6be",
+            "cte": "BASE64",
+            "mime_type": "image/jpeg",
+            "cid": "swift-141473750054532e5c4d532.0@www.megadarky.cz",
+            "size": 13759,
+            "flags": 0,
+            "sumphash": "f0b6d2488890ea2c9970990cf58c98ca"
+        }
+    ],
+    "word_count": 77,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/386bcd9bb661e0d65ff1942970c3d081.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p8d35d48c316eb6be"
+        },
+        {
+            "name": "pepca",
+            "value": "p1a6819c8efa76540"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p496faa5c217a5a24"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "megadarky",
+                "confidence": 2695795.64677
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "megadarky",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "prestashop",
+        "plain_domain_detail": [
+            {
+                "domain": "prestashop",
+                "confidence": 1
+            },
+            {
+                "domain": "megadarky",
+                "confidence": 1
+            },
+            {
+                "domain": "rky",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Vase heslo",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "p496faa5c217a5a24",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

@@ -1,0 +1,123 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p6767ecfe1f26f745",
+    "last10words": "155 087 E mail rezervace chefparade cz Web www chefparade cz MilujuSushi cz vse co jste chteli vedet o sushi ",
+    "pepca_style_total": 0,
+    "unsub_link_texts": [
+        " milujusushi cz vse co byt chtit vedet o sushi"
+    ],
+    "header_from": "potvrzeni@chefparade.cz",
+    "unsub_link_candidates": [
+        "http://milujusushi.cz/"
+    ],
+    "first10words": " Dobry den dekujeme za Vas zajem o nase kurzy vareni Poukaz Vam zasleme elektronicky v priloze po prijeti platby na nas ucet",
+    "attachments": [
+        {
+            "name": "logo.gif",
+            "pepca": "p63abb523055c81c6",
+            "cte": "BASE64",
+            "mime_type": "image/gif",
+            "cid": "1001",
+            "size": 6224,
+            "flags": 0,
+            "sumphash": "774295a86eb9c2b22e73e17bf27c8e0c"
+        }
+    ],
+    "word_count": 213,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/c512ffc74073c583e3914e6703d7dbb1.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p63abb523055c81c6"
+        },
+        {
+            "name": "pepca",
+            "value": "p6767ecfe1f26f745"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p2f958a9b29a010f9"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "booking",
+                "confidence": 10684546.63187
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "booking",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "chefparade",
+        "plain_domain_detail": [
+            {
+                "domain": "chefparade",
+                "confidence": 1
+            },
+            {
+                "domain": "milujusushi",
+                "confidence": 2
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Objednavka Darkoveho poukazu",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "unsub_link": "http://milujusushi.cz/",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "p2f958a9b29a010f9",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

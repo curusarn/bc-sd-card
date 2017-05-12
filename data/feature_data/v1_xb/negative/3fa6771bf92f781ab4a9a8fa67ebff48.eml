@@ -1,0 +1,114 @@
+{
+    "phashes": [
+        {
+            "value": "p20864c44528a1294",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p59ee00cc51a13f92",
+            "name": "pepca"
+        },
+        {
+            "value": "p47a7e2eec2dce68b",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "dergelova@post.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/3fa6771bf92f781ab4a9a8fa67ebff48.eml",
+    "attachments": [
+        {
+            "size": 2700,
+            "name": "image001.gif",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "image001.gif@01D01844.B563E550",
+            "sumphash": "485384191fd02aac22f9a40af33da961",
+            "pepca": "p20864c44528a1294",
+            "mime_type": "image/gif"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "pepca": "p59ee00cc51a13f92",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": " 10 00 19 00 O pripraveni objednavky budete informovani mailem Muzete si ji zobrazit kliknutim na odkaz ",
+    "subject": "RE Factory Outlet Objednavka 33806",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 88447021.5167,
+                "domain": "booking"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "booking",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "factoryoutlet",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "factoryoutlet"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p47a7e2eec2dce68b",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " dekuji za vstricnost hezky den Dergelova Puvodni zprava Od Factory Outlet shop factoryoutlet cz ",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 785,
+    "adscore": 0,
+    "spamscore": 1.1
+}

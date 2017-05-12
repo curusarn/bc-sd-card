@@ -1,0 +1,112 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p82133aaea876baff",
+    "last10words": "zdarma Dekujeme za Vasi objednavku Za tym Patro Group Obchodni tym e mail objednavky patro cz Tel 420 570 570 170 ",
+    "pepca_style_total": 0,
+    "header_from": "objednavky@patro.cz",
+    "first10words": " Dobry den Vase objednavka c 614083279 byla uspesne zaregistrovana informacnim systemem skupiny internetovych obchodu ",
+    "attachments": [
+        {
+            "name": "head_w.jpg",
+            "pepca": "pc27fb03bcf599cc9",
+            "cte": "BASE64",
+            "mime_type": "image/jpeg",
+            "cid": "head_w.jpg@d97b699cee2d22417d46303f2caafba4",
+            "size": 15153,
+            "flags": 0,
+            "sumphash": "1f7e8b567961c768595eb66eed97595c"
+        }
+    ],
+    "word_count": 177,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/1cdd69ff20d692a6c0b19aa7cd280417.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "pc27fb03bcf599cc9"
+        },
+        {
+            "name": "pepca",
+            "value": "p82133aaea876baff"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p0419c7c3d5ebe589"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "patro",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "patro",
+                "confidence": 8009034.40558338
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "patro",
+                "confidence": 3
+            }
+        ],
+        "domain_keywords": "patro",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Vase objednavka byla zaregistrovana 614083279",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "p0419c7c3d5ebe589",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

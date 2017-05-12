@@ -1,0 +1,109 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pad6df6f32d9876ca",
+    "last10words": " www fbsystem cz Dobry den pane Brzaku zasilam Vam nabidku na nastroje snad se Vam to bude libit S pozdravem Zdenek Kaspar Canela CZ",
+    "pepca_style_total": 0,
+    "header_from": "info@canela.cz",
+    "first10words": " Original Message From Kaspar mailto kaspar canela cz Sent Tuesday November 18 2014 8 31 PM To info canela cz Subject objednavka",
+    "attachments": [
+        {
+            "name": "nab\u00eddka FB syst\u00e9m.xlsx",
+            "pepca": "p70647c09492cac0a",
+            "cte": "BASE64",
+            "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml",
+            "size": 14562,
+            "flags": 0,
+            "sumphash": "e28502037c1b4c87838a277c07a11ec0"
+        }
+    ],
+    "word_count": 73,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/55d0cf52d0b0f2864ef399d2b869c979.eml.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p70647c09492cac0a"
+        },
+        {
+            "name": "pepca",
+            "value": "pad6df6f32d9876ca"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "martin-kaspar",
+                "confidence": 1787148.711926
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "martin-kaspar",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "fbsystem",
+        "plain_domain_detail": [
+            {
+                "domain": "fbsystem",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "FW objednavka od zakaznika",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

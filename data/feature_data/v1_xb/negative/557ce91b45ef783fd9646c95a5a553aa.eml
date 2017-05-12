@@ -1,0 +1,103 @@
+{
+    "phashes": [
+        {
+            "value": "peabb968d82ea8553",
+            "name": "pepca"
+        },
+        {
+            "value": "p8a1a48c6b5c41e47",
+            "name": "pepca_style"
+        },
+        {
+            "value": "pc38fdd1805b4b784",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "posta@bonprix.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/557ce91b45ef783fd9646c95a5a553aa.eml",
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "pepca": "peabb968d82ea8553",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "p8a1a48c6b5c41e47",
+    "last10words": "ni Pro kontakt se zakaznickym centrem piste na posta bonprix cz bonprix posta Ostrava 2 P O BOX 12 70212 Ostrava ",
+    "subject": "Zmena hesla",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 2,
+                "domain": "bonprix"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 157672311.172497,
+                "domain": "bonprix"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "bonprix",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "bonprix",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "pc38fdd1805b4b784",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Subskrypcja newslettera Muj ucet ZENA PRADLO MUZ DITE OBUV A DOPLNKY ",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 200,
+    "adscore": 0,
+    "spamscore": 1.1
+}

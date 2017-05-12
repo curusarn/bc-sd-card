@@ -1,0 +1,174 @@
+{
+    "phashes": [
+        {
+            "value": "pff153415a73b8d3f",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p8ee4a365f876345e",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p6e2f96f22d65350a",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p2cefd55c6a2996c9",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p624b972698cd082b",
+            "name": "pepca"
+        },
+        {
+            "value": "p4d0c0db367802ccc",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "no-reply@costa-coffee.info",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/a8817607950dafdf489b92059f37adeb.eml",
+    "attachments": [
+        {
+            "size": 2628,
+            "name": "top-border.gif",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "61618b2df43b290041bdd8b0971fb7f3",
+            "sumphash": "18a7f6210879dec5ea592e5cd2a617fc",
+            "pepca": "pff153415a73b8d3f",
+            "mime_type": "image/gif"
+        },
+        {
+            "size": 1727,
+            "name": "costa-logo-email.png",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "f71cacc8262cc6979652bc872dd9b206",
+            "sumphash": "82f63c3e2a3889376892c949191cf7f2",
+            "pepca": "p8ee4a365f876345e",
+            "mime_type": "image/gif"
+        },
+        {
+            "size": 667,
+            "name": "fb.png",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "350bb9b4492e3f107519917dbd199e19",
+            "sumphash": "28890d2aa07598c568b9759170eadf15",
+            "pepca": "p6e2f96f22d65350a",
+            "mime_type": "image/png"
+        },
+        {
+            "size": 64,
+            "name": "footer-line-left.gif",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "2c197538e7783cddf3857030d694864f",
+            "sumphash": "b6eec6c12a9ca28325de04fa330d221a",
+            "mime_type": "image/gif"
+        },
+        {
+            "size": 65,
+            "name": "footer-line-right.gif",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "dff24d25cb8f29c1606ff154f3cf5961",
+            "sumphash": "a8f9546cf098ff5519a9b5c3e08d9f88",
+            "mime_type": "image/gif"
+        },
+        {
+            "size": 2654,
+            "name": "bottom-border.gif",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "26605d8ed448b32ffb1e1ccccb5c77c0",
+            "sumphash": "6d59c73e66c9adce2e5680bafc3b305e",
+            "pepca": "p2cefd55c6a2996c9",
+            "mime_type": "image/gif"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "pepca": "p624b972698cd082b",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": " Dobry den Vase heslo je simona Prihlaste se prosim zde Dekujeme Vase Costa Coffee ",
+    "subject": "Costa Club Zapomenute heslo",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 5112192.8672,
+                "domain": "club-opel"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "club-opel",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "costa-coffee",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "costa-coffee"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p4d0c0db367802ccc",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Costa Coffee Club Costa Coffee Club Dobry den Vase heslo je simona Prihlaste se prosim zde ",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 85,
+    "adscore": 0,
+    "spamscore": 1.1
+}

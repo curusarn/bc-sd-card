@@ -1,0 +1,102 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.5
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "long_subject"
+            ],
+            "module": "ill",
+            "score": 1.5
+        }
+    ],
+    "pepca": "p5cd4fb8e20b96d0d",
+    "first10words": " Ordermail Cislo objednavky 3077834 20150113105603250 C zakaznika 131071 Datum objednavky 13 1 2015 10 56 03 C zbo",
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "word_count": 169,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Vase objednavka z 13 1 2015 10 56 03 Cislo objednavky 20150113105603250 Cislo zakazky 3077834",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.5,
+    "phishing": {},
+    "header_from": "noreply@carparts-cat.com",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/trans-ff6a09848a58e902703ef82249cfaeff.eml",
+    "attachments": [
+        {
+            "size": 2114,
+            "mime_type": "text/plain",
+            "flags": 0,
+            "pepca": "pc9259581e0e87f53",
+            "cte": "QPRINT",
+            "sumphash": "a87e595ddc30903a516ac7b01b08d823",
+            "name": "Order3077834-20150113105603250.xml"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "pc9259581e0e87f53"
+        },
+        {
+            "name": "pepca",
+            "value": "p5cd4fb8e20b96d0d"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "booking",
+        "plain_domain": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 88447021.5167,
+                "domain": "booking"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "racni adresa SUBA s r o SUBA s r o Slamenikova 23 614 00 Brno C zakaznika 131071 Telefon 607226538 e mail lada200 seznam cz ",
+    "lang": "cs"
+}

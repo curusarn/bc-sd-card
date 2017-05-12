@@ -1,0 +1,153 @@
+{
+    "phashes": [
+        {
+            "value": "p23efcb49a94c4e98",
+            "name": "pepca"
+        },
+        {
+            "value": "p230bed23ae13a8fd",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "phNotches": [
+        {
+            "module": "phish-score",
+            "name": [
+                "from_mismatch",
+                "phish_keyword",
+                "subject_phish_keyword",
+                "many_emails",
+                "phishing"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.0,
+                -2,
+                8
+            ],
+            "score": 7
+        }
+    ],
+    "header_from": "sbazar-neodpovidat@consultant.com",
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/Boris-49570925/bf2d343df33604be9cd926cad7c5a5b5.eml",
+    "extractedEmailsTotalCount": {},
+    "theme": {},
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "last10words": "dkaz nize ziskat pristup http loveronaldo7 com fag sbazar nnovy4 Uspesny prodej vam preje Vas Sbazar cz tym ",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "subject": "Vas ucet je pozastaven ",
+    "pepca_style": "",
+    "pepca": "p23efcb49a94c4e98",
+    "dkstatus": {},
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 3607876.58867,
+                "domain": "svete"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "svete",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "sbazar",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "sbazar"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "domainstat_themes": {},
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p230bed23ae13a8fd",
+    "spfstatus": {},
+    "unsub_link": {},
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 11,
+    "pepca_inline_style_total": 0,
+    "first10words": " Dobry den Vas Sbazar cz ucet byl pozastaven Prosim kliknete na odkaz nize ziskat pristup http loveronaldo7 com fag ",
+    "universalprobes": [
+        {
+            "key": "ps-from_mismatch",
+            "value": "1"
+        },
+        {
+            "key": "ps-phish_keyword",
+            "value": "['\\xc3\\xba\\xc4\\x8det', 'pozastaven', 'z\\xc3\\xadskat']"
+        },
+        {
+            "key": "ps-subject_phish_keyword",
+            "value": "['\\xc3\\xba\\xc4\\x8det', 'pozastaven']"
+        },
+        {
+            "key": "ps-many_emails",
+            "value": "1"
+        },
+        {
+            "key": "ps-most-suspicious-links",
+            "value": "[]"
+        },
+        {
+            "key": "ps-phishing",
+            "value": "1"
+        }
+    ],
+    "domainstat": {},
+    "lang": "cs",
+    "pepcatotal": 3,
+    "word_count": 63,
+    "adscore": 0,
+    "dmarc_status": {},
+    "spamscore": 1.1
+}

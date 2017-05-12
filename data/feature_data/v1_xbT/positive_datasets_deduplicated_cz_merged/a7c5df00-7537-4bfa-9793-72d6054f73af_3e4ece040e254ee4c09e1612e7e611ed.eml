@@ -1,0 +1,112 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p1559bfda9b725131",
+    "last10words": "ce cz http obchod pksvice cz emai info pksvice cz Nechcete li dostavat emaily o novych nabidkach kliknete zde ",
+    "pepca_style_total": 0,
+    "unsub_link_texts": [
+        " info pksvice cz nechtit li dostavat email o novych nabidka",
+        "nechtit li dostavat email o novych nabidka kliknout zde "
+    ],
+    "header_from": "info@pksvice.cz",
+    "unsub_link_candidates": [
+        "mailto:info@pksvice.cz?subject=Reakce%20na%20email%20z%20nab%C3%ADdkou",
+        "http://89.187.130.138/user/update.php?email=abuse@email.cz&code=1e148b7ea077b6fb942cc39af9bd58b5"
+    ],
+    "first10words": " Pri nespravnem zobrazeni emailu kliknete zde Ocenujete originalitu a radi potesite sve blizke peknym darkem ",
+    "attachments": [],
+    "word_count": 89,
+    "email_path": "/mfs/replicated/datasets/phishing/datasets/deduplicated_cz_phish_merged/3e4ece040e254ee4c09e1612e7e611ed.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p1559bfda9b725131"
+        },
+        {
+            "name": "pepca_style",
+            "value": "p06b598b579c67886"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p6a58eec2832ef233"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "datingfactory",
+                "confidence": 7138118.63964125
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "datingfactory",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "pksvice",
+        "plain_domain_detail": [
+            {
+                "domain": "pksvice",
+                "confidence": 3
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Originalni svice pro Vas",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "unsub_link": "http://89.187.130.138/user/update.php?email=abuse@email.cz&code=1e148b7ea077b6fb942cc39af9bd58b5",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "p06b598b579c67886",
+    "pepca_inline_style": "p6a58eec2832ef233",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

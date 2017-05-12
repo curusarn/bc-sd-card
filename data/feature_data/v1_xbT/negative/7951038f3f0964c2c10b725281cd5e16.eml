@@ -1,0 +1,119 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p3233bf16f5ee0bee",
+    "last10words": " E mail byl odeslan z Kopirka Equita Aficio MP C4502 Datum skenovani 11 12 2014 15 35 04 0100 Dotazy na equita equita cz ",
+    "pepca_style_total": 0,
+    "unsub_link_texts": [
+        "bartakuv bartakuv equita cz e mail byt odeslan z kopirka equita aficio mp c"
+    ],
+    "header_from": "bartakova@equita.cz",
+    "unsub_link_candidates": [
+        "mailto:bartakova@equita.cz"
+    ],
+    "first10words": " Dobry den pane inzenyre v priloze posilam fakturu ktera Vam chybi pokud Vam ji poslal jiz nas pan reditel prosim bert",
+    "attachments": [
+        {
+            "cte": "BASE64",
+            "name": "201412111535.pdf",
+            "pepca": "pd544fd5d9d20352b",
+            "flags": 0,
+            "mime_type": "application/pdf",
+            "size": 343190,
+            "lang": "un",
+            "sumphash": "a3ae57fb0a5099606bfef6d81ad0d0d9"
+        }
+    ],
+    "word_count": 119,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/7951038f3f0964c2c10b725281cd5e16.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "pd544fd5d9d20352b"
+        },
+        {
+            "name": "pepca",
+            "value": "p3233bf16f5ee0bee"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "cas",
+                "confidence": 2516504.53876787
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "cas",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "equita",
+        "plain_domain_detail": [
+            {
+                "domain": "equita",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Faktura 2012188",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "unsub_link": "mailto:bartakova@equita.cz",
+    "phishing": {
+        "ner_domain_detected": true,
+        "5_top_domains_id_0": 0,
+        "5_top_domains_percent_0": 1.0
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

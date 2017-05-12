@@ -1,0 +1,117 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p7cb3ee604c472d54",
+    "last10words": "20 267 218 218 Kontakty Pokud od nas nechcete dostavat dalsi zpravy kliknete ZDE ",
+    "pepca_style_total": 0,
+    "unsub_link_texts": [
+        " kontakt pokud od my nechtit dostavat dalsi zprava kliknout",
+        "pokud od my nechtit dostavat dalsi zprava kliknout zde "
+    ],
+    "header_from": "info@fortunamail.eu",
+    "unsub_link_candidates": [
+        "http://tracker.fortunamail.eu/l.ashx?c=7fd645cf-1b51-42b7-ad21-c2d7eb0fa62e&r=638BA435-708B-403A-AD52-2319482FAE71",
+        "http://tracker.fortunamail.eu/l.ashx?c=c6a94c9d-f5ef-4940-a302-098c9fa6713a&r=638BA435-708B-403A-AD52-2319482FAE71"
+    ],
+    "first10words": " Hra o pul milionu k MS je tady zaciname jiz v patek Prihlasovaci jmeno okesek Cislo sml",
+    "attachments": [],
+    "word_count": 312,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/2a80a1314afae8d7dc3ed5e5c2d719f3.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p7cb3ee604c472d54"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p55f764026682bf51"
+        }
+    ],
+    "spamscore": 2.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "fortunamail",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "viwefix",
+                "confidence": 11162374.54212
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "fortunamail",
+                "confidence": 4
+            }
+        ],
+        "domain_keywords": "viwefix",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "ifortuna",
+        "plain_domain_detail": [
+            {
+                "domain": "ifortuna",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Dokoncete registraci u Fortuny uz chybi jen podpis smlouvy ",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "unsub_link": "http://tracker.fortunamail.eu/l.ashx?c=c6a94c9d-f5ef-4940-a302-098c9fa6713a&r=638BA435-708B-403A-AD52-2319482FAE71",
+    "phishing": {
+        "ner_domain_detected": true,
+        "5_top_domains_id_0": 0,
+        "5_top_domains_percent_0": 1.0
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "p55f764026682bf51",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging",
+                "missing_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1,
+                1
+            ],
+            "score": 2.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

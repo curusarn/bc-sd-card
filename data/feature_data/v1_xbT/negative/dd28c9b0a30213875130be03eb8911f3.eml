@@ -1,0 +1,102 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pa9f8b57e348f0dbe",
+    "last10words": " Zprava byla prectena dne 15 prosince 2014 11 48 04 GMT 01 00 Praha Bratislava Budapest Belehrad Ljubljana ",
+    "pepca_style_total": 0,
+    "header_from": "necas@abner.cz",
+    "first10words": " Zprava byla prectena dne 15 prosince 2014 11 48 04 GMT 01 00 Praha Bratislava Budapest Belehrad Ljubljana ",
+    "attachments": [
+        {
+            "name": "",
+            "pepca": "p7aad41005a8353c3",
+            "cte": "PLAIN",
+            "mime_type": "message/disposition-notification",
+            "size": 211,
+            "flags": 0,
+            "sumphash": "8a7e90e25e7711b100ed9bcee6b665bb"
+        }
+    ],
+    "word_count": 23,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/dd28c9b0a30213875130be03eb8911f3.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p7aad41005a8353c3"
+        },
+        {
+            "name": "pepca",
+            "value": "pa9f8b57e348f0dbe"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "zlavydnes",
+                "confidence": 1640920.64573
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "zlavydnes",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Precteno objednavka vypalku",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

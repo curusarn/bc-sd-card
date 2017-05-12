@@ -1,0 +1,105 @@
+{
+    "phashes": [
+        {
+            "value": "p9031756e4a472c51",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p6511d927ff2e1f0d",
+            "name": "pepca"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "reference_id_116.cust@53.com",
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/338.eml",
+    "attachments": [
+        {
+            "size": 7706,
+            "name": "U53TGU.PNG",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "006901c6c827$9a1cb450$6c822ecf@B1MIOC",
+            "sumphash": "f688f021cee76ea3d4d1045ffa24da11",
+            "pepca": "p9031756e4a472c51",
+            "mime_type": "image/png"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "long_subject"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.5
+            ],
+            "score": 1.5
+        }
+    ],
+    "pepca": "p6511d927ff2e1f0d",
+    "phishing": {
+        "ner_domain_detected": true
+    },
+    "pepca_style": "",
+    "last10words": " cop hind cod song coke dixy rise skip pace atop how fall Turk fast cusp tar sap envy in pill heir push sat Bull spiv leak feed mad cold wisp ",
+    "subject": "Fifth Third Bank urgent security notice Fri 25 Aug 2006 09 19 44 0060 ",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 66112310.1165229,
+                "domain": "aweber"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "aweber",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " skin clip wag pie tick odor rude holm kind foil lute hoop wit don t cod hex hawk sell nee zoom spry lisp swop pro try flam vise ",
+    "lang": "un",
+    "pepcatotal": 0,
+    "word_count": 439,
+    "adscore": 0,
+    "spamscore": 1.5
+}

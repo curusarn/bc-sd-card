@@ -1,0 +1,101 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p7de5240ca3bf5400",
+    "last10words": "esla kontaktujte z kaznickou podporu Vyhledejte n s Copyright 2013 Canon Europa N V ",
+    "pepca_style_total": 0,
+    "header_from": "DoNotReply@canon-europe.com",
+    "first10words": " Va e nov heslo Dobr den D kujeme v m za v po adavek na resetov n hesla Va e nov heslo j",
+    "attachments": [],
+    "word_count": 135,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/3439071b43b721505d6ff487ca2ca2ad.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p7de5240ca3bf5400"
+        },
+        {
+            "name": "pepca_style",
+            "value": "pe7d5fa6c9031201b"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pe00c72abf06ca6f5"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "canon-europe",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "mcsv",
+                "confidence": 10256637.2474413
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "canon-europe",
+                "confidence": 4
+            }
+        ],
+        "domain_keywords": "mcsv",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Vase nove heslo",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "pe7d5fa6c9031201b",
+    "pepca_inline_style": "pe00c72abf06ca6f5",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

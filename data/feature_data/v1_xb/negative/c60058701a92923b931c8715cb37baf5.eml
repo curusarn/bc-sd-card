@@ -1,0 +1,123 @@
+{
+    "phashes": [
+        {
+            "value": "p62fbb396e359bcdf",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p5d823255a11be9c9",
+            "name": "pepca"
+        },
+        {
+            "value": "p91e20d1ef6f567fe",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "MartinSadek@seznam.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/c60058701a92923b931c8715cb37baf5.eml",
+    "attachments": [
+        {
+            "size": 62,
+            "name": "",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "part1.00060805.04000208@vssped.cz",
+            "sumphash": "10204e73b62c924f061c21f016f66384",
+            "mime_type": "image/gif"
+        },
+        {
+            "size": 10931,
+            "name": "",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "part3.06050204.07030309@vssped.cz",
+            "sumphash": "87c0a73f59e3e264d88e6ab7348ff90b",
+            "pepca": "p62fbb396e359bcdf",
+            "mime_type": "image/gif"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "pepca": "p5d823255a11be9c9",
+    "phishing": {
+        "ner_domain_detected": true
+    },
+    "pepca_style": "",
+    "last10words": "1288 1 405 01 Decin Czech Republic T 420 412 558 215 F 420 412 511 489 M 420 736 769 323 www vssped cz ",
+    "subject": "Fwd obj 14 8483 vracena faktura za prepravu",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 11398931.636507,
+                "domain": "stepstone"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "stepstone",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "vssped",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "vssped"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p91e20d1ef6f567fe",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Puvodni zprava Od Vera Stranska stranska vssped cz Komu martinsadek seznam cz Datum 15 12 2014 11 46 01 Pre",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 201,
+    "adscore": 0,
+    "spamscore": 1.1
+}

@@ -1,0 +1,121 @@
+{
+    "phashes": [
+        {
+            "value": "pa2bbf8e6f0e9d9df",
+            "name": "att-pepca"
+        },
+        {
+            "value": "peb2283b503a0b40e",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p944477cc47887aaa",
+            "name": "pepca"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "info@zdravapokozka.com",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/d4c768b427b288ccc3a7fdcb4f4b9a6a.eml",
+    "attachments": [
+        {
+            "first10words": "Untitled OBCHODNI PODMINKY Provozovatel Michal Barborik se sidlem Praha Nad",
+            "size": 80830,
+            "mime_type": "application/pdf",
+            "cte": "BASE64",
+            "flags": 0,
+            "lang": "cs",
+            "name": "OBCHODNI-PODMINKY.pdf",
+            "pepca": "pa2bbf8e6f0e9d9df",
+            "sumphash": "32b98d2d21191364890d98761a8d0b8e"
+        },
+        {
+            "first10words": "propozycja sponsoringu czytelniczki na ok?adki Formular pro vymenu ci vraceni",
+            "size": 521589,
+            "mime_type": "application/pdf",
+            "cte": "BASE64",
+            "flags": 0,
+            "lang": "cs",
+            "name": "reklamacni-formular_ZP.pdf",
+            "pepca": "peb2283b503a0b40e",
+            "sumphash": "ee885245ed5f28e8eca0bf5475305435"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "pepca": "p944477cc47887aaa",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": "kojeni reknete o nas take svym pratelum Stav zpracovani vasi objednavky muzete sledovat po prihlaseni v ZAKAZNICKE SEKCI ",
+    "subject": "Prijata objednavka",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 12745614.495088,
+                "domain": "masterinter"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "masterinter",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Dobry den obdrzeli jsme Vasi objednavku nasich vyrobku Dekujeme Vam za nakup a zasilame rekapitulaci Seznam Vami objednaneho",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 423,
+    "adscore": 0,
+    "spamscore": 1.1
+}

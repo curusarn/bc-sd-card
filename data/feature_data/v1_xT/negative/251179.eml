@@ -1,0 +1,193 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "missing_message_id"
+            ],
+            "module": "ill",
+            "score": 2
+        }
+    ],
+    "pepca": "p911f23afb2d8ce84",
+    "first10words": " Potvrzeni objednavky Usetreno cz Potvrzeni objednavky Vazeny zakazniku dekujeme za ",
+    "pepca_style": "",
+    "pepca_inline_style": "p2840ecbc3bf4911c",
+    "word_count": 209,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Usetreno cz Potvrzeni objednavky O a2f9667338 ",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 2,
+    "phishing": {
+        "5_top_domains_percent_2": 0.3333333333333333,
+        "5_top_domains_id_0": 0,
+        "5_top_domains_percent_1": 0.3333333333333333,
+        "5_top_domains_percent_0": 0.3333333333333333,
+        "5_top_domains_id_1": 1,
+        "5_top_domains_id_2": 2
+    },
+    "header_from": "info@usetreno.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/251179.eml",
+    "attachments": [
+        {
+            "size": 1764,
+            "mime_type": "image/png",
+            "flags": 0,
+            "pepca": "p5030676691575c74",
+            "cid": "3ffd4844cc3579855c2e69eefd73ac26",
+            "cte": "BASE64",
+            "sumphash": "a0c68aa7cd7dcaf96f228b8f3a61963e",
+            "name": "img0.png"
+        },
+        {
+            "size": 2888,
+            "mime_type": "image/png",
+            "flags": 0,
+            "pepca": "p0d57c90cbc26def2",
+            "cid": "e233f218a90b7a00b94b7f533a98c0a2",
+            "cte": "BASE64",
+            "sumphash": "69951fdba9bfb17455a5fa594c3e02e4",
+            "name": "img1.png"
+        },
+        {
+            "size": 1132,
+            "mime_type": "image/png",
+            "flags": 0,
+            "pepca": "p2c960f27d2bf4185",
+            "cid": "65bd2c9b931f057d7307dfaaa8d5c433",
+            "cte": "BASE64",
+            "sumphash": "884af520ac44b6f3d3c643da28d78291",
+            "name": "img2.png"
+        },
+        {
+            "size": 1838,
+            "mime_type": "image/png",
+            "flags": 0,
+            "pepca": "p13b9368ad2fae7d8",
+            "cid": "b1f8db03513912254d185addce84c7e0",
+            "cte": "BASE64",
+            "sumphash": "226d6d38d9041cec18a80dc058d51e79",
+            "name": "img3.png"
+        },
+        {
+            "size": 2003,
+            "mime_type": "image/png",
+            "flags": 0,
+            "pepca": "p85a8f62d77f3ca65",
+            "cid": "e65ec4bdc2715d88073196a9f97f38a3",
+            "cte": "BASE64",
+            "sumphash": "bfa7b37ff77119e8fa19d9ea67b2786e",
+            "name": "img4.png"
+        },
+        {
+            "sumphash": "09ac8cf3ea85064bfcce6c235beaa872",
+            "mime_type": "image/png",
+            "flags": 0,
+            "size": 327,
+            "cid": "72063e323017608e53250125d54da8e2",
+            "cte": "BASE64",
+            "name": "img5.png"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p5030676691575c74"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p0d57c90cbc26def2"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p2c960f27d2bf4185"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p13b9368ad2fae7d8"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p85a8f62d77f3ca65"
+        },
+        {
+            "name": "pepca",
+            "value": "p911f23afb2d8ce84"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p2840ecbc3bf4911c"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 2,
+                "domain": "usetreno"
+            },
+            {
+                "confidence": 2,
+                "domain": "eno"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "cemail",
+        "plain_domain": "usetreno",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 10895180.8894,
+                "domain": "cemail"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "usetreno",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [
+            {
+                "confidence": 1,
+                "domain": "usetreno"
+            }
+        ],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "etreno cz Vam prinasi spolecnost AdFinance s r o IC 24684295 DIC CZ24684295 Jemnicka 1138 1 140 00 Praha 4 ",
+    "lang": "cs"
+}

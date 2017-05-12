@@ -1,0 +1,109 @@
+{
+    "phashes": [
+        {
+            "value": "padf02aeee162c017",
+            "name": "pepca"
+        },
+        {
+            "value": "pf24a95c2b4e9af8b",
+            "name": "pepca_style"
+        },
+        {
+            "value": "pe33662e992973c13",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "objednavky@dekoraceprodeti.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/trans-ffd322feea33ff68e815576a728c05a7.eml",
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "pepca": "padf02aeee162c017",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "pf24a95c2b4e9af8b",
+    "last10words": " S pozdravem za firmu Katerina Zahradnikova Jaroslav Zahradnik ",
+    "subject": "58 Expedice objednavky PPL",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 8591190.10623,
+                "domain": "ppl"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "ppl",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "fototapeta",
+        "plain_domain_detail": [
+            {
+                "confidence": 2,
+                "domain": "fototapeta"
+            },
+            {
+                "confidence": 1,
+                "domain": "dekoraceprodeti"
+            },
+            {
+                "confidence": 1,
+                "domain": "ppl"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "pe33662e992973c13",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Expedice Vasi objednavky Dobry den Vase objednavka c 1421095092 ze dne 12 01 2015 na serveru dekoraceprodeti cz ",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 185,
+    "adscore": 0,
+    "spamscore": 1
+}

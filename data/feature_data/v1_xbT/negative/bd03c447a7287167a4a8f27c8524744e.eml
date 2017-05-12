@@ -1,0 +1,94 @@
+{
+    "pepca_inline_style_total": 1,
+    "pepca": "p253bf92f357be8bf",
+    "last10words": "erovan automaticky na zaklade podane elektronicke Zadosti o zmenu hesla Neodpovidejte na nej na Vase podnety nebude nikdo reagovat ",
+    "pepca_style_total": 0,
+    "header_from": "info@moggis.cz",
+    "first10words": " SOUKROMA VYSOKA SKOLA EKONOMICKA ZNOJMO s r o 29 10 2014 9 06 32 Zadala jste o zmenu prihlasovaciho hesla do informacniho",
+    "attachments": [],
+    "word_count": 144,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/bd03c447a7287167a4a8f27c8524744e.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p253bf92f357be8bf"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pd4868c6658e2ab58"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "viwefix",
+                "confidence": 7185225.54392
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "viwefix",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Zadost o zmenu hesla v informacnim systemu",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "pd4868c6658e2ab58",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

@@ -1,0 +1,112 @@
+{
+    "phashes": [
+        {
+            "value": "p2c182435185385ed",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p5b829dfb42308cdb",
+            "name": "pepca"
+        },
+        {
+            "value": "p41aea5bdc3b6116c",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "info@pepa.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/49a5fe25dfacbc7e364cf9a34b6d821d.eml",
+    "attachments": [
+        {
+            "size": 33426,
+            "name": "pepa-email.png",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "footerlogo",
+            "sumphash": "c90aba031329a066e665b527a9db662c",
+            "pepca": "p2c182435185385ed",
+            "mime_type": "image/png"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "pepca": "p5b829dfb42308cdb",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": "ska 6 110 00 Praha 1 Mobil 420 608 115 570 Tel 420 226 210 530 Fax 420 226 210 532 E novy pepa cz www pepa cz ",
+    "subject": "Nove heslo Pepa cz 27 10 14 0 00",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 12238488.73206,
+                "domain": "zendesk"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "zendesk",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "pepa",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "pepa"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p41aea5bdc3b6116c",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Vazeny obchodni partnere pro kontrolu voucheru prosim vyuzivejte rozhrani http www pepa cz overeni voucheru Prihlasovaci ",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 285,
+    "adscore": 0,
+    "spamscore": 1
+}

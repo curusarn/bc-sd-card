@@ -1,0 +1,115 @@
+{
+    "phashes": [
+        {
+            "value": "pa3b86a123c5bfec4",
+            "name": "pepca"
+        },
+        {
+            "value": "pf16521503f818ad8",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "evelina@bigbrands.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/34d0c128cd57914367f6b84d25d1b619.eml",
+    "unsub_link_candidates": [
+        "https://www.bigbrands.cz/zmena-odberu.html?id=1138502&mID=3861&action=management&hash=d4ee1c54466bbc86fa5382454ec85ca5",
+        "https://www.bigbrands.cz/letak.html?id=1138502&mID=3861&hash=d4ee1c54466bbc86fa5382454ec85ca5"
+    ],
+    "attachments": [],
+    "contains_list_header": true,
+    "last10words": " mailu info bigbrands cz nebo na telefonu 222 531 721 Po Pa 8 30 16 00 BigBrands K Cervenemu dvoru 2132 24 13000 Praha 3 ",
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca": "pa3b86a123c5bfec4",
+    "subject": "BigBrands Dokoncete registraci a ziskejte slevy na skvele znacky",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 4,
+                "domain": "bigbrands"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 52599791.583146,
+                "domain": "bigbrands"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "bigbrands",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "bigbrands",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "bigbrands",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "bigbrands"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "pf16521503f818ad8",
+    "unsub_link_texts": [
+        " odhlasit upravit odber novinka nevidet obrazek",
+        " kliknout zde "
+    ],
+    "list_unsubscribe_urls": [
+        "mailto:unsubscribe@bigbrands.cz?subject=Unsubscribe"
+    ],
+    "unsub_link": "https://www.bigbrands.cz/letak.html?id=1138502&mID=3861&hash=d4ee1c54466bbc86fa5382454ec85ca5",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Tento email byl zaslan na jankahruzalka seznam cz Odhlasit upravit odber novinek Nevidite obrazky Kliknete zde ",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 190,
+    "adscore": 0,
+    "spamscore": 1
+}

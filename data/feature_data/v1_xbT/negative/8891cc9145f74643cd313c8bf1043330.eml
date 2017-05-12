@@ -1,0 +1,116 @@
+{
+    "pepca_inline_style_total": 1,
+    "pepca": "p7a271ea29d17e16c",
+    "last10words": " 291 route d Arlon L 1150 Lucembursko Obchodni rejstrik B 158 155 VAT ID LU24547210 Clen spravni rady Laetitia Pateau ",
+    "pepca_style_total": 0,
+    "unsub_link_texts": [
+        "jestlize od my v budoucno nechtit dostavat zadny email kliknout prosit zde ",
+        "jestlize od my v budoucno nechtit dostavat zadny email kliknout prosit zde "
+    ],
+    "header_from": "service@c-date.cz",
+    "contains_list_header": true,
+    "first10words": " Vzrusujici dobrodruzstvi ceka prave na Vas V zajmu bezproblemoveho dorucovani zprav si prosim pridejte adresu",
+    "attachments": [],
+    "word_count": 330,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/8891cc9145f74643cd313c8bf1043330.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p7a271ea29d17e16c"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pe207b19015c60096"
+        }
+    ],
+    "spamscore": 1.2,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "erovie",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "be2",
+                "confidence": 28206758.1590894
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "erovie",
+                "confidence": 4.16495213444227
+            }
+        ],
+        "domain_keywords": "be2",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "c-date",
+        "plain_domain_detail": [
+            {
+                "domain": "c-date",
+                "confidence": 2
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Potvrdte prosim Vasi registraci u C date ",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "unsub_link": "https://app2.c-date.com/notification_change.html?login=true&account=8C463E8CFFA2753887837549D2490394&MID=cz_CZ:NF:00:00:RegCo2&ds=20141029&uid=3LPB267GLNOSS6R3HZTA",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "unsub_link_candidates": [
+        "https://app2.c-date.com/notification_change.html?login=true&account=8C463E8CFFA2753887837549D2490394&MID=cz_CZ:NF:00:00:RegCo2&ds=20141029&uid=3LPB267GLNOSS6R3HZTA",
+        "https://app2.c-date.com/notification_change.html?login=true&account=8C463E8CFFA2753887837549D2490394&MID=cz_CZ:NF:00:00:RegCo2&ds=20141029&uid=3LPB267GLNOSS6R3HZTA"
+    ],
+    "pepca_inline_style": "pe207b19015c60096",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1,
+                0.1
+            ],
+            "score": 1.2,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

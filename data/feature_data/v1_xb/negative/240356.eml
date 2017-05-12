@@ -1,0 +1,136 @@
+{
+    "phashes": [
+        {
+            "value": "pd54227606ee0bcbe",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pb7af2a59d14fe082",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p5c1525fb6beb71f0",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pac34d7f0796af079",
+            "name": "pepca"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "no-reply@toptrans.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/240356.eml",
+    "attachments": [
+        {
+            "first10words": "Zasilatelsky prikaz cislo listu Prehled zasilek predavanych Toptransu dne cislo",
+            "size": 46369,
+            "mime_type": "application/pdf",
+            "cte": "BASE64",
+            "flags": 0,
+            "lang": "cs",
+            "name": "zasilatelsky_prikaz_70240714_720.pdf",
+            "pepca": "pd54227606ee0bcbe",
+            "sumphash": "54636d478f61ec0e0576ad06f20fc63c"
+        },
+        {
+            "first10words": "SEDLACKOVA ERIKA OPLOT PRESTICE Datum Termin Standard Hmotnost kg Cislo",
+            "size": 24474,
+            "mime_type": "application/pdf",
+            "cte": "BASE64",
+            "flags": 0,
+            "lang": "cs",
+            "name": "stitky_70240714_720.pdf",
+            "pepca": "pb7af2a59d14fe082",
+            "sumphash": "4bbace491e3a37cf68569bd90cf744a0"
+        },
+        {
+            "first10words": "Zasilatelsky prikaz SOUPISKA Listu zasilatelskeho prikazu Prehled zasilek predavanych Toptransu",
+            "size": 7928,
+            "mime_type": "application/pdf",
+            "cte": "BASE64",
+            "flags": 0,
+            "lang": "cs",
+            "name": "soupiska_70240714_720.pdf",
+            "pepca": "p5c1525fb6beb71f0",
+            "sumphash": "526cbaa3cc317e0bdff67ceeaab06f38"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "pepca": "pac34d7f0796af079",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": "em programu Na tento e mail prosim neodpovidejte neni monitorovan je generovan automaticky S pranim prijemneho dne Toptrans EU a s ",
+    "subject": "Potvrzeni o odeslani objednavek 70240714 720",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 21973796.716123,
+                "domain": "toptrans"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "toptrans",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Vazeny zakazniku dekujeme Vam za Vas zasilatelsky prikaz v nasem objednavkovem systemu ktery byl prijat ke zpracovani V pr",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 105,
+    "adscore": 0,
+    "spamscore": 1.1
+}

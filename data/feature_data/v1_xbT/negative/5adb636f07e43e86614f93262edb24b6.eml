@@ -1,0 +1,93 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p477597774ed16f2e",
+    "last10words": "ka 0x 0x 0x 0x 0x c 1 0x 1x 1x 0x 0x c 2 0x 1x 0x 3x 3x c 3 0x 1x 2x 0x 0x c 4 0x 0x 0x 0x 0x ",
+    "pepca_style_total": 0,
+    "header_from": "objednavky@jidelnauzimaku.cz",
+    "first10words": " Na webu www jidelnauzimaku cz byla zadana nasledujici objednavka Marketa Tereza Hudeckova Oaza se saunou MaTeHu 777668068 oazamate",
+    "attachments": [],
+    "word_count": 129,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/5adb636f07e43e86614f93262edb24b6.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p477597774ed16f2e"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "zsjilovska",
+                "confidence": 4955001.99737
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "zsjilovska",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "jidelnauzimaku",
+        "plain_domain_detail": [
+            {
+                "domain": "jidelnauzimaku",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Objednavka Oaza se saunou MaTeHu",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

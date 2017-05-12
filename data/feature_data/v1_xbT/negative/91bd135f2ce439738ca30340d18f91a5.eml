@@ -1,0 +1,151 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p1c4441274e48896f",
+    "last10words": "CZECHDECOTEAM Tato zprava byla zkontrolovana na viry programem Avast Antivirus www avast com ",
+    "pepca_style_total": 0,
+    "header_from": "info@eco-design.cz",
+    "first10words": " Dobry den dnes expedujeme Vasi objednavku svitidla Vam budou dorucena v utery 16 12 2014 2xBOX V priloze naleznete fakturu De",
+    "attachments": [
+        {
+            "name": "logo-deco-team.jpg",
+            "pepca": "p91650d12cc5684b4",
+            "cte": "BASE64",
+            "mime_type": "image/jpeg",
+            "cid": "part4.05020003.02060006@eco-design.cz",
+            "size": 9033,
+            "flags": 0,
+            "sumphash": "eaacad65087b67f0602e469d5f32de57"
+        },
+        {
+            "name": "eco-design-banner.jpg",
+            "pepca": "pdf56a22c700a2d42",
+            "cte": "BASE64",
+            "mime_type": "image/jpeg",
+            "cid": "part5.00040005.01060803@eco-design.cz",
+            "size": 12000,
+            "flags": 0,
+            "sumphash": "f8bb8e1e453bcbdc9ccb0cc4590eb505"
+        },
+        {
+            "mime_type": "application/pdf",
+            "name": "SKMBT_C22414121513090.pdf",
+            "first10words": "KMBT C",
+            "lang": "un",
+            "cte": "BASE64",
+            "size": 457385,
+            "flags": 0,
+            "sumphash": "75b250e812aa3e1340991ad0745cd7f3"
+        }
+    ],
+    "word_count": 89,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/91bd135f2ce439738ca30340d18f91a5.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p91650d12cc5684b4"
+        },
+        {
+            "name": "att-pepca",
+            "value": "pdf56a22c700a2d42"
+        },
+        {
+            "name": "pepca",
+            "value": "p1c4441274e48896f"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pb172cbfc1066b290"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "volny",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "freelancer",
+                "confidence": 41181221.1679788
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "volny",
+                "confidence": 1
+            }
+        ],
+        "domain_keywords": "freelancer",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "czechdecoteam",
+        "plain_domain_detail": [
+            {
+                "domain": "czechdecoteam",
+                "confidence": 1
+            },
+            {
+                "domain": "avast",
+                "confidence": 2
+            },
+            {
+                "domain": "eco-design",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Expedice faktura",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "pb172cbfc1066b290",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

@@ -1,0 +1,113 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p5d6ade5c19895a11",
+    "last10words": "r an Bord und Mangel des Schiffes haftet a A Besuchen Sie unsere neue Website unter www ids logistik de ",
+    "pepca_style_total": 0,
+    "header_from": "Alfons_Perner@ids-logistik.de",
+    "first10words": " Zdravim A posilam objednavku A S pozdravem A i A Alfons Pe",
+    "attachments": [
+        {
+            "mime_type": "application/pdf",
+            "name": "IDS-Ladeauftrag 17.12.2014 CZ-Pilnikov - DE-G\u00f6ttingen.pdf",
+            "first10words": "IDS Ladeauftrag CZ Pilnikov DE Gottingen Tel Fax CZ Telefon",
+            "pepca": "pa4dd74bf0daca206",
+            "lang": "de",
+            "cte": "BASE64",
+            "size": 25361,
+            "flags": 0,
+            "sumphash": "6becfbbd84dc0ca0992560aa57126c04"
+        }
+    ],
+    "word_count": 360,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/701cf4318571dfe86c407dc001082b5c.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "pa4dd74bf0daca206"
+        },
+        {
+            "name": "pepca",
+            "value": "p5d6ade5c19895a11"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p791f758c72bad8f0"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "ebay",
+                "confidence": 308883971.028022
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "ebay",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "ids-logistik",
+        "plain_domain_detail": [
+            {
+                "domain": "ids-logistik",
+                "confidence": 2
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "de",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Objednavka nakladky 17 12 2014 Pilnikov DE 37077 Gottingen",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "p791f758c72bad8f0",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

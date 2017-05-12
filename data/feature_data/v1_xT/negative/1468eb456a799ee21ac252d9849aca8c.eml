@@ -1,0 +1,114 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging"
+            ],
+            "module": "ill",
+            "score": 1.1
+        }
+    ],
+    "pepca": "p558a20f1a8fcd825",
+    "first10words": " Dekujeme za registraci na Restu cz www restu cz Dekujeme za registraci na Restu cz Dobry den dekuj",
+    "pepca_style": "p0e574b79aa4a5056",
+    "pepca_inline_style": "p4ba8a50d4fbcab49",
+    "word_count": 199,
+    "pepca_style_total": 1,
+    "phish_score": 0,
+    "subject": "Dekujeme za registraci",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.1,
+    "phishing": {},
+    "header_from": "info@restu.cz",
+    "pepca_inline_style_total": 1,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/1468eb456a799ee21ac252d9849aca8c.eml",
+    "attachments": [],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p558a20f1a8fcd825"
+        },
+        {
+            "name": "pepca_style",
+            "value": "p0e574b79aa4a5056"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p4ba8a50d4fbcab49"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "cz"
+            },
+            {
+                "confidence": 2,
+                "domain": "restu"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "restu",
+        "plain_domain": "cz",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 99669957.83716,
+                "domain": "restu"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "restu",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [
+            {
+                "confidence": 1,
+                "domain": "restu"
+            },
+            {
+                "confidence": 1,
+                "domain": "topsrovnani"
+            }
+        ],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 1,
+    "precedence": 3,
+    "last10words": "it a napiste nam na info restu cz nebo nam zavolejte na telefonni cislo 420 232 000 444 Po Ne 11 00 20 00 Restu 2014 ",
+    "lang": "cs"
+}

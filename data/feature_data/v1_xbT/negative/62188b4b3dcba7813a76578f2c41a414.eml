@@ -1,0 +1,149 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p57d5ce77d67c2607",
+    "last10words": "ci kod S pozdravem https www bodovka eu index php option com users view reset layout confirm token ce7928977a1ec50b637dccf3e8182c36 Itemid 121",
+    "universalprobes": [
+        {
+            "key": "ps-from_mismatch",
+            "value": "1"
+        },
+        {
+            "key": "ps-phish_keyword",
+            "value": "['obnoven\\xc3\\xad', 'heslo', '\\xc3\\xba\\xc4\\x8det', 'obnoven\\xc3\\xad', 'heslo', 'potvrdit', 'obnoven\\xc3\\xad', 'heslo', 'confirm']"
+        },
+        {
+            "key": "ps-subject_phish_keyword",
+            "value": "['obnoven\\xc3\\xad', 'heslo']"
+        },
+        {
+            "key": "ps-many_emails",
+            "value": "1"
+        },
+        {
+            "key": "ps-most-suspicious-links",
+            "value": "[]"
+        },
+        {
+            "key": "ps-not-phishing",
+            "value": "1"
+        }
+    ],
+    "pepca_style_total": 0,
+    "dkstatus": {},
+    "header_from": "no-reply@komtesa.com",
+    "spfstatus": {},
+    "pepca_inline_style": "",
+    "pepcatotal": 3,
+    "attachments": [],
+    "word_count": 47,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/62188b4b3dcba7813a76578f2c41a414.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p57d5ce77d67c2607"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "s1now",
+                "confidence": 17158814.703
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "s1now",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "bodovka",
+        "plain_domain_detail": [
+            {
+                "domain": "bodovka",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "dmarc_status": {},
+    "phish_score": 2.25,
+    "domainstat": {},
+    "precedence": 3,
+    "extractedEmailsTotalCount": {},
+    "subject": "Pozadavek na obnoveni hesla pro Bodovka eu",
+    "adscore": 0,
+    "first10words": " Dobry den Byl proveden pozadavek na obnoveni hesla k uctu Bodovka eu K dokonceni obnoveni hesla je treba pozadavek potvrdit overovac",
+    "unsub_link": {},
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "domainstat_themes": {},
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1,
+    "theme": {},
+    "lang": "cs",
+    "phNotches": [
+        {
+            "name": [
+                "from_mismatch",
+                "phish_keyword",
+                "subject_phish_keyword",
+                "many_emails",
+                "not-phishing"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.0,
+                -2,
+                -1
+            ],
+            "score": -2,
+            "module": "phish-score"
+        }
+    ]
+}

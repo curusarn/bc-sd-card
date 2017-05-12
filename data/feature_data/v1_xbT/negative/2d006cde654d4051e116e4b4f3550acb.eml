@@ -1,0 +1,106 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p28f62271173a014b",
+    "last10words": "bozi Sara Anenska 3 46601 Jablonec nad Nisou IC 64366880 DIC CZ7409101854 Telefon 420 483 311 473 www penezenky tasky cz ",
+    "pepca_style_total": 0,
+    "header_from": "info@sara-jbc.cz",
+    "first10words": " Objednavka c 201407547 Prijata 15 12 2014 11 47 Odkaz na detail objednavky v administraci http www penezenky t",
+    "attachments": [],
+    "word_count": 188,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/2d006cde654d4051e116e4b4f3550acb.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p28f62271173a014b"
+        },
+        {
+            "name": "pepca_style",
+            "value": "pae3ba4364686915f"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pa38ec8d69717a177"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "sara-jbc",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "masterinter",
+                "confidence": 25491228.990176
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "sara-jbc",
+                "confidence": 1
+            }
+        ],
+        "domain_keywords": "masterinter",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "penezenky-tasky",
+        "plain_domain_detail": [
+            {
+                "domain": "penezenky-tasky",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Penezenky Tasky cz Objednavka c 201407547",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "pae3ba4364686915f",
+    "pepca_inline_style": "pa38ec8d69717a177",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

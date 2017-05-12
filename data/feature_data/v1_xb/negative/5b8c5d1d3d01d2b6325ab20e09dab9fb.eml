@@ -1,0 +1,108 @@
+{
+    "phashes": [
+        {
+            "value": "p445fb81b9d796ecf",
+            "name": "pepca"
+        },
+        {
+            "value": "p13716930631eada8",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "klub@fokusoptik.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/5b8c5d1d3d01d2b6325ab20e09dab9fb.eml",
+    "unsub_link_candidates": [
+        "http://klub.fokusoptik.cz/email/l/8694a45169178ca9b5abe488af/86db62a4e9d/?u=http%3A%2F%2Fklub.fokusoptik.cz%2Femail%2Fu%2F8694a45169178ca9b5abe488af"
+    ],
+    "attachments": [],
+    "contains_list_header": true,
+    "last10words": " 182 00 Praha 8 zapsana v obchodnim rejstriku MS v Praze oddil B vlozka 5161 IC 25639854 ",
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "phishing": {
+        "ner_domain_detected": true
+    },
+    "pepca_style": "",
+    "pepca": "p445fb81b9d796ecf",
+    "subject": "Aktualizace hesla",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 14,
+                "domain": "fokusoptik"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 11357414.001124,
+                "domain": "fokusoptik"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "fokusoptik",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "fokusoptik",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p13716930631eada8",
+    "unsub_link_texts": [
+        "cz neprat li si aby vy byt obchodny sdeleni odesilatel nadale zasilan kliknout zde "
+    ],
+    "list_unsubscribe_urls": [
+        "klub@fokusoptik.cz"
+    ],
+    "unsub_link": "http://klub.fokusoptik.cz/email/l/8694a45169178ca9b5abe488af/86db62a4e9d/?u=http%3A%2F%2Fklub.fokusoptik.cz%2Femail%2Fu%2F8694a45169178ca9b5abe488af",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Aktualizace hesla Vazena slecno Hajkova pokud chcete ziskat nebo aktualizov",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 239,
+    "adscore": 0,
+    "spamscore": 1
+}

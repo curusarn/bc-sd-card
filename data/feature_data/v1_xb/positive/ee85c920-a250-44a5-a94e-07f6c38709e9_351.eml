@@ -1,0 +1,105 @@
+{
+    "phashes": [
+        {
+            "value": "p2fd2051fb42ef507",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p2e2ddedea3fe3f93",
+            "name": "pepca"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "support_refnum_863276666107316@southtrust.com",
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing0/351.eml",
+    "attachments": [
+        {
+            "size": 7377,
+            "name": "dialup.GIF",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "part1.09050509.00040605@support_id_89817158@southtrust.com",
+            "sumphash": "0606126f995cc2fd853110ebee28d570",
+            "pepca": "p2fd2051fb42ef507",
+            "mime_type": "image/gif"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "long_subject"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.5
+            ],
+            "score": 1.5
+        }
+    ],
+    "pepca": "p2e2ddedea3fe3f93",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": " Australian Open in 1992 MGM Radio What s up ",
+    "subject": "Verify Your Details With SouthTrust Bank Sun 22 May 2005 13 21 14 0200 ",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 12439855.7225236,
+                "domain": "aweber"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "aweber",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Australian Open in 1992 MGM Radio What s up ",
+    "lang": "en",
+    "pepcatotal": 0,
+    "word_count": 10,
+    "adscore": 0,
+    "spamscore": 1.5
+}

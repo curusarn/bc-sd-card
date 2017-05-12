@@ -1,0 +1,127 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p27dd70b67f2fe940",
+    "last10words": "tner empatia cz ZDE se muzet ODHLASIT Mrzi nas ze se nase cesty rozchazeji ale prejeme Vam hodne stesti ",
+    "list_unsubscribe_urls": [
+        "=?UTF-8?B?aHR0cDovL2FwcC5zbWFydGU4ZjYuZXUvcHVibGk=?="
+    ],
+    "unsub_link_texts": [
+        " pokud o informace dale nestat kliknuti zde odhlasit jejich odber ivan a miluska matousovi www",
+        " zde se muzet odhlasit "
+    ],
+    "header_from": "partner@empatia.cz",
+    "contains_list_header": true,
+    "pepcatotal": 0,
+    "attachments": [],
+    "word_count": 472,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/62fc7369402527d625df919bc5d2657a.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p27dd70b67f2fe940"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "paa0022fd3a7550ea"
+        }
+    ],
+    "spamscore": 1.2,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "vyprodejskladu",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "topsleva",
+                "confidence": 16164338.8117
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "vyprodejskladu",
+                "confidence": 3
+            }
+        ],
+        "domain_keywords": "topsleva",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "harmonickevztahy",
+        "plain_domain_detail": [
+            {
+                "domain": "harmonickevztahy",
+                "confidence": 2
+            },
+            {
+                "domain": "empatia",
+                "confidence": 2
+            },
+            {
+                "domain": "zakladycelostnihozdravi",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Dekujeme za registraci do PPP Empatia",
+    "adscore": 0,
+    "first10words": " Dekujeme za registraci do PPP Empatia Zobrazit email s obrazky Zlepsete si zivot ve zdravi vztazich a fina",
+    "unsub_link": "http://app.smarte8f6.eu/public/unsubscribe/autoresponder?u=6a625961-adaa-11e2-afe8-002590a1e88e&c=75221b4c-61a5-11e4-acb5-002590a1e85a&j=dcdb7335-b5a4-11e2-afe8-002590a1e88e",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "unsub_link_candidates": [
+        "http://app.smarte8f6.eu/public/open/alink/6a625961-adaa-11e2-afe8-002590a1e88e_75221b4c-61a5-11e4-acb5-002590a1e85a_933d0d35-b643-11e2-9d2a-002590a1e732",
+        "http://app.smarte8f6.eu/public/unsubscribe/autoresponder?u=6a625961-adaa-11e2-afe8-002590a1e88e&c=75221b4c-61a5-11e4-acb5-002590a1e85a&j=dcdb7335-b5a4-11e2-afe8-002590a1e88e"
+    ],
+    "pepca_inline_style": "paa0022fd3a7550ea",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1,
+                0.1
+            ],
+            "score": 1.2,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1,
+    "pepca_style_total": 0
+}

@@ -1,0 +1,94 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pd580ab2ab2628be8",
+    "last10words": "dotisk programu kina na leden 2015 do nasich A1 bianco plakatu pocet 80 ks termin do 19 12 Zdravi Dalimil Neveceral ",
+    "pepca_style_total": 0,
+    "header_from": "vavrin@tiskarnarentis.cz",
+    "first10words": " Dobre dopoledne pane Nevecerale OK daky za objednavku potvrzuzji a zavadim do vyroby ",
+    "attachments": [],
+    "word_count": 117,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/09e2a44cc6fd5a2f4b23cb2c3ef30858.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pd580ab2ab2628be8"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p77b2848190c68eef"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "jtw",
+                "confidence": 249145.107032
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "jtw",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "RE objednavka dotisku programu kina",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "p77b2848190c68eef",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

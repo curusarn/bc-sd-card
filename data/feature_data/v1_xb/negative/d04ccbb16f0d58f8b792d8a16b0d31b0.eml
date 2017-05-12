@@ -1,0 +1,102 @@
+{
+    "phashes": [
+        {
+            "value": "pcacd7a1e3cddaebc",
+            "name": "pepca"
+        },
+        {
+            "value": "p97046f5c1226b455",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "no-reply@rdio.com",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/d04ccbb16f0d58f8b792d8a16b0d31b0.eml",
+    "attachments": [],
+    "contains_list_header": true,
+    "last10words": "nt St Suite 200 San Francisco CA 94103 If you would like to unsubscribe and stop receiving these emails unsublink tag ",
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca": "pcacd7a1e3cddaebc",
+    "subject": "Obnovujeme vase heslo do sluzby Rdio",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 95237010.2572346,
+                "domain": "aweber"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "aweber",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "rdio",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "rdio"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p97046f5c1226b455",
+    "list_unsubscribe_urls": [
+        "http://email.rdio.com/wf/unsubscribe?upn=6vk8yHFlpGSAriKFBIntG7bktA91aeRtfmtRW7JoOxryKGxyaPj-2Bp7e33Qqzy-2BxuQLtzzo1KDrjbyYdKnvjUgPySq5HkOEE77ODT73B84ZdMTFGYeXhBhUZeDtcx6ThhoDtFEUx-2BJ4nfFTeu-2Fz7s-2B8JnQsikvoFMirung-2BnCvv2gZjk9rZENomyCvvGc7rSXK3M8Y65OfjWBYcjieTBymFdWLihkevK4f4GdUs23fic8QYqwrwSFnYAsvp0iFtHzyC8n1jIXuofHgxHo-2FQXzYQ-3D-3D",
+        "mailto:unsubscribe@email.rdio.com?subject=http://email.rdio.com/wf/unsubscribe*q*upn=6vk8yHFlpGSAriKFBIntG7bktA91aeRtfmtRW7JoOxryKGxyaPj-2Bp7e33Qqzy-2BxuQLtzzo1KDrjbyYdKnvjUgPySq5HkOEE77ODT73B84ZdMTFGYeXhBhUZeDtcx6ThhoDtFEUx-2BJ4nfFTeu-2Fz7s-2B8JnQsikvoFMirung-2BnCvv2gZjk9rZENomyCvvGc7rSXK3M8Y65OfjWBYcjieTBymFdWLihkevK4f4GdUs23fic8QYqwrwSFnYAsvp0iFtHzyC8n1jIXuofHgxHo-2FQXzYQ-3D-3D"
+    ],
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Chcete li resetovat heslo ke sluzbe Rdio kliknete na tento odkaz http www rdio com account reset password 61",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 122,
+    "adscore": 0,
+    "spamscore": 1
+}

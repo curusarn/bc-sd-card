@@ -1,0 +1,116 @@
+{
+    "pepca_inline_style_total": 1,
+    "pepca": "pba19827ec1bb84ea",
+    "last10words": "ento pozadavek neprovedli vy nebo nevite o co se jedna muzete tento e mail klidne ignorovat Kupi cz akce a slevy z vaseho obchodu ",
+    "pepca_style_total": 1,
+    "header_from": "noreply@kupi.cz",
+    "first10words": " Obnoveni hesla na Kupi cz Obnoveni hesla na Kupi cz Pro obnoveni zapomenuteho hesla na www kupi cz kliknete na nasledujici odka",
+    "attachments": [
+        {
+            "name": "logo",
+            "pepca": "pdbf07bec42033c1c",
+            "cte": "BASE64",
+            "mime_type": "image/png",
+            "cid": "logo",
+            "size": 1196,
+            "flags": 0,
+            "sumphash": "a78fa5a8a33a0303a8776d455921978b"
+        }
+    ],
+    "word_count": 85,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/5e9dd4d270483a0922a76deea80edc71.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "pdbf07bec42033c1c"
+        },
+        {
+            "name": "pepca",
+            "value": "pba19827ec1bb84ea"
+        },
+        {
+            "name": "pepca_style",
+            "value": "p49203e0c22def1c5"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p1012f990f119f0fc"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "skype",
+                "confidence": 2138499.43363
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "skype",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "kupi",
+        "plain_domain_detail": [
+            {
+                "domain": "kupi",
+                "confidence": 3
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Obnoveni hesla na Kupi cz",
+    "adscore": 0,
+    "pepcatotal": 1,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "p49203e0c22def1c5",
+    "pepca_inline_style": "p1012f990f119f0fc",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

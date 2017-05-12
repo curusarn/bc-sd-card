@@ -1,0 +1,135 @@
+{
+    "phashes": [
+        {
+            "value": "p1762f214b75780fd",
+            "name": "pepca"
+        },
+        {
+            "value": "pda53ece3683d8d81",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "sales@automedik.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/trans-fe92003e3e2dec20510cf5adda903adf.eml",
+    "attachments": [
+        {
+            "size": 0,
+            "name": "light.png",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "6uv2ckhyhz@bazar.automedik.cz",
+            "sumphash": "dc5b5ace27d0916fed08dfee55dd0748",
+            "mime_type": "image/png"
+        },
+        {
+            "size": 0,
+            "name": "contact.png",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "nnoudqlnbb@bazar.automedik.cz",
+            "sumphash": "dc5b5ace27d0916fed08dfee55dd0748",
+            "mime_type": "image/png"
+        },
+        {
+            "size": 0,
+            "name": "head.png",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "w6rx6e18gw@bazar.automedik.cz",
+            "sumphash": "dc5b5ace27d0916fed08dfee55dd0748",
+            "mime_type": "image/png"
+        },
+        {
+            "size": 0,
+            "name": "vop-bazar-automedik.pdf",
+            "cte": "BASE64",
+            "flags": 0,
+            "sumphash": "dc5b5ace27d0916fed08dfee55dd0748",
+            "mime_type": "application/pdf"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "pepca": "p1762f214b75780fd",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": " Provozovatel obchodu Jiri Jares Delnicka 5 170 00 Praha 7 IC 71855203 DIC CZ8309180451 ",
+    "subject": "Prijeti objednavky c 12823",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 76473686.9705281,
+                "domain": "masterinter"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "masterinter",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "automedik",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "automedik"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "pda53ece3683d8d81",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Prijeti objednavky c 12823 Dekujeme za vasi objednavku kterou jsme v poradku prijali Protoze s",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 358,
+    "adscore": 0,
+    "spamscore": 1.1
+}

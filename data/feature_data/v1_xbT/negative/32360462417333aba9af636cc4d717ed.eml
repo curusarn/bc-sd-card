@@ -1,0 +1,109 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pfe3cb38bcd0434c7",
+    "last10words": " www tamron de Geschaftsfuhrer Peter Rosenthal Amtsgericht Koln HRB 19910 UST IdNr DE 122806428 ",
+    "pepca_style_total": 0,
+    "header_from": "noreply@5years.tamron.eu",
+    "first10words": " Tamron Vazeny a Marian Volcek prosim kliknete na nasledujici odkaz pro potvrzeni spravnosti emailove adresy uvedene p",
+    "attachments": [],
+    "word_count": 122,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/32360462417333aba9af636cc4d717ed.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pfe3cb38bcd0434c7"
+        },
+        {
+            "name": "pepca_style",
+            "value": "pe6c5801739aaff09"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p5f83b7c35eaf6f10"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "stepstone",
+                "confidence": 96968311.6088
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "stepstone",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "tamron",
+        "plain_domain_detail": [
+            {
+                "domain": "tamron",
+                "confidence": 2
+            },
+            {
+                "domain": "penta",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Prosim potvrdte svou registraci",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": true,
+        "5_top_domains_id_0": 0,
+        "5_top_domains_percent_0": 1.0
+    },
+    "pepca_style": "pe6c5801739aaff09",
+    "pepca_inline_style": "p5f83b7c35eaf6f10",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

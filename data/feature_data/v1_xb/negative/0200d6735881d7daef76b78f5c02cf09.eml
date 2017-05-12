@@ -1,0 +1,105 @@
+{
+    "phashes": [
+        {
+            "value": "pe0e78870709ef105",
+            "name": "pepca"
+        },
+        {
+            "value": "p0d8486798b4cdaca",
+            "name": "pepca_style"
+        },
+        {
+            "value": "pca31296ab619af91",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "deals@livingsocial.com",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/0200d6735881d7daef76b78f5c02cf09.eml",
+    "attachments": [],
+    "contains_list_header": true,
+    "last10words": "lick here Delivered by LivingSocial 1445 New York Ave NW Washington DC USA Need help Have feedback Feel free to contact us ",
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "p0d8486798b4cdaca",
+    "pepca": "pe0e78870709ef105",
+    "subject": "Voice Over Classes",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 40,
+                "domain": "livingsocial"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 719741868.165095,
+                "domain": "livingsocial"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "livingsocial",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "livingsocial",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "pca31296ab619af91",
+    "list_unsubscribe_urls": [
+        "mailto:unsubscribe-g_6KB44D2UT6SRNLB8CU5F6KTMM0CNHOQEUNO4051J34C8OMGDI060====@bounces.livingsocial.com"
+    ],
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " LivingSocial And buy and redeem your deal on the go with our mobile app Shop easy shop happy Boston Metrowest ",
+    "lang": "en",
+    "pepcatotal": 0,
+    "word_count": 1312,
+    "adscore": 0,
+    "spamscore": 1
+}

@@ -1,0 +1,93 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "module": "ill",
+            "score": 1
+        }
+    ],
+    "pepca": "pc854e8407f0c979f",
+    "first10words": " Proces registrace do sluzby Woko byl dokoncen Nasleduje seznam registrovanych adres a vysledek jejich registrace http www beedol cz 2014 sprav",
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "unsub_link": "http://www.woko.cz",
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Woko proces registrace byl dokoncen",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1,
+    "word_count": 66,
+    "phishing": {},
+    "header_from": "registrace@woko.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/5b9f5d996f048b20479d464bcbf94d23.eml",
+    "attachments": [],
+    "adscore": 0,
+    "unsub_link_texts": [
+        "b podrobnejsi informace o sluzba najit na adresa  kde moct take sledovany zrusit pripadnout modifikovat svuj ucet"
+    ],
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pc854e8407f0c979f"
+        }
+    ],
+    "unsub_link_candidates": [
+        "http://www.woko.cz"
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "woko",
+        "plain_domain": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 55291415.0109,
+                "domain": "woko"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 2,
+    "last10words": "sluzbe najdete na adrese http www woko cz kde muzete take sledovani zrusit pripadne modifikovat svuj ucet Za sluzbu Woko Vam prejeme hezky den ",
+    "lang": "cs"
+}

@@ -1,0 +1,139 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p4294faf898c64b70",
+    "last10words": " SOFT COTTON s r o Tel 420 777 665 111 info softcotton cz www softcotton cz www softcotton eu www softcotton sk www luisamoretti cz ",
+    "pepca_style_total": 0,
+    "header_from": "info@softcotton.cz",
+    "first10words": " Vazeny zakazniku Vase objednavka cislo 106556 byla uspesne prijata nasim automatickym objednavkovym systemem V prilo",
+    "attachments": [
+        {
+            "name": "106556.html",
+            "pepca": "p4299c12c5653589f",
+            "cte": "BASE64",
+            "mime_type": "text/html",
+            "size": 7013,
+            "flags": 0,
+            "sumphash": "259a021cb1e0738a591a911c27f9498b"
+        },
+        {
+            "name": "obchodni-podminky.html",
+            "pepca": "peb2755c287cabbff",
+            "cte": "BASE64",
+            "mime_type": "text/html",
+            "size": 36207,
+            "flags": 0,
+            "sumphash": "d416a83538c110805079fb92b9e2b32a"
+        },
+        {
+            "name": "formular-pro-odstupeni-od-ks.html",
+            "pepca": "p4e9641a5d548190a",
+            "cte": "BASE64",
+            "mime_type": "text/html",
+            "size": 392,
+            "flags": 0,
+            "sumphash": "c1fefac8deffe1c82c394548a4c72082"
+        }
+    ],
+    "word_count": 38,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/trans-8cbb01c42779375bcfdc8fb31c427df0.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p4299c12c5653589f"
+        },
+        {
+            "name": "att-pepca",
+            "value": "peb2755c287cabbff"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p4e9641a5d548190a"
+        },
+        {
+            "name": "pepca",
+            "value": "p4294faf898c64b70"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "viwefix",
+                "confidence": 5581187.27106
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "viwefix",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "softcotton",
+        "plain_domain_detail": [
+            {
+                "domain": "softcotton",
+                "confidence": 3
+            },
+            {
+                "domain": "luisamoretti",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Objednavka prijata",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

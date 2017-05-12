@@ -1,0 +1,110 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "module": "ill",
+            "score": 1
+        }
+    ],
+    "pepca": "p0a8708d2d4a634c8",
+    "first10words": " Dekujeme za Vas nakup v Tescu Cislo objednavky 13224 42519 Zpusob platby Platba kartou pri prevzet",
+    "pepca_style": "",
+    "pepca_inline_style": "p85baa3135e303383",
+    "unsub_link": "http://nakup.itesco.cz/cs-CZ/Order/MyOrder",
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Potvrzeni objednavky Vaseho nakupu v Tesco",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1,
+    "word_count": 987,
+    "phishing": {
+        "5_top_domains_percent_0": 1.0,
+        "5_top_domains_id_0": 0
+    },
+    "header_from": "potravinyonline@itesco.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/trans-fea547d29f676cf35f7fe3e4b06970b9.eml",
+    "attachments": [],
+    "adscore": 0,
+    "unsub_link_texts": [
+        "vasi objednavka moct zmenit nebo zrusit v sekce muj objednavka "
+    ],
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p0a8708d2d4a634c8"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p85baa3135e303383"
+        }
+    ],
+    "unsub_link_candidates": [
+        "http://nakup.itesco.cz/cs-CZ/Order/MyOrder"
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "itesco"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "tesco-europe",
+        "plain_domain": "itesco",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 389950716.666803,
+                "domain": "tesco-europe"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "itesco",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [
+            {
+                "confidence": 14,
+                "domain": "itesco"
+            }
+        ],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": " Centralni kancelar Vrsovicka 1527 68b Praha 100 00 Vrsovice Praha 10 DIC CZ699000759 iTesco cz 2012 ",
+    "lang": "cs"
+}

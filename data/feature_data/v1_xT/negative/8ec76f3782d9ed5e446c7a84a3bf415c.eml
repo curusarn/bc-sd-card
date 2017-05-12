@@ -1,0 +1,120 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "module": "ill",
+            "score": 1
+        }
+    ],
+    "pepca": "p091c063b39b7d913",
+    "first10words": " Objednavka c 201407547 Prijata 15 12 2014 11 47 Vazeny zakazniku dekujeme za Vasi objednavku a zasi",
+    "pepca_style": "pae3ba4364686915f",
+    "pepca_inline_style": "pa38ec8d69717a177",
+    "word_count": 209,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Penezenky Tasky cz Objednavka c 201407547",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1,
+    "phishing": {},
+    "header_from": "info@sara-jbc.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/8ec76f3782d9ed5e446c7a84a3bf415c.eml",
+    "attachments": [
+        {
+            "size": 81863,
+            "mime_type": "application/pdf",
+            "flags": 0,
+            "pepca": "p9df3b6150a8bc60c",
+            "first10words": "Informace Obchodni podminky obchodni spolecnosti Jakub Jezek se sidlem Na",
+            "cte": "BASE64",
+            "sumphash": "f9ede429c001c1b0b06ce0fde31661f1",
+            "name": "obchodni-podminky.pdf",
+            "lang": "cs"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p9df3b6150a8bc60c"
+        },
+        {
+            "name": "pepca",
+            "value": "p091c063b39b7d913"
+        },
+        {
+            "name": "pepca_style",
+            "value": "pae3ba4364686915f"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pa38ec8d69717a177"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "penezenky-tasky"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "masterinter",
+        "plain_domain": "penezenky-tasky",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 25491228.990176,
+                "domain": "masterinter"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "sara-jbc",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [
+            {
+                "confidence": 1,
+                "domain": "sara-jbc"
+            }
+        ],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "bozi Sara Anenska 3 46601 Jablonec nad Nisou IC 64366880 DIC CZ7409101854 Telefon 420 483 311 473 www penezenky tasky cz ",
+    "lang": "cs"
+}

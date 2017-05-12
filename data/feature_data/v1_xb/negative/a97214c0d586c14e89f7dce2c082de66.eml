@@ -1,0 +1,99 @@
+{
+    "phashes": [
+        {
+            "value": "p937351fc4e107d9a",
+            "name": "pepca"
+        },
+        {
+            "value": "p4b43e9052e0330fd",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "info@lmc.lmcg2.eu",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/a97214c0d586c14e89f7dce2c082de66.eml",
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "pepca": "p937351fc4e107d9a",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": " vyhodnocovat a nasledne Vas budeme informovat o dalsim postupu S pranim pekneho dne Tym Employee Guidance LMC s r o ",
+    "subject": "Potvrzeni registrace na pozici TELESALES REPRESENTATIVE 4 hodiny denne",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 3,
+                "domain": "jobs"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 2972272.51977,
+                "domain": "jobs"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "jobs",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "jobs",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p4b43e9052e0330fd",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 1,
+    "first10words": " Vazena pani Winkova dekujeme Vam za projeveny zajem o pozici TELESALES REPRESENTATIVE 4 hodiny denne Vami zas",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 77,
+    "adscore": 0,
+    "spamscore": 1.1
+}

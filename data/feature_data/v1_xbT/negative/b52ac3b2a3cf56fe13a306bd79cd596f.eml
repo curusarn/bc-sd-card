@@ -1,0 +1,110 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p05d18ae58bb2b74d",
+    "last10words": " mate otazky tykajici se teto databaze kontaktujte prosim tomas sykora innovativebusiness cz ",
+    "pepca_style_total": 3,
+    "unsub_link_texts": [
+        "prosit potvrdit prihlaseni k odber kliknout zde pro potvrzeni vas prihlaseni do nas databaze pokud byt tento email obdrzet omylem smazit jej",
+        " email marketing powered by mailchimp mailchimp email marketing "
+    ],
+    "header_from": "newsletter@bestonline.cz",
+    "unsub_link_candidates": [
+        "http://innovativebusiness.us8.list-manage.com/subscribe/confirm?u=a1b1e2bab8e08498792208296&id=33fd52fe69&e=8737c0eac0",
+        "http://www.mailchimp.com/monkey-rewards/?utm_source=freemium_newsletter&utm_medium=email&utm_campaign=monkey_rewards&aid=a1b1e2bab8e08498792208296&afl=1"
+    ],
+    "first10words": " Newslettery registrace z webu Prosim potvrdte prihlaseni k odberu Kliknete zde pro potvrzeni Vase",
+    "attachments": [],
+    "word_count": 124,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/b52ac3b2a3cf56fe13a306bd79cd596f.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p05d18ae58bb2b74d"
+        },
+        {
+            "name": "pepca_style",
+            "value": "p25dfe2e5dd31555e"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pb69e1528d1a38d60"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "sam73",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "fdb",
+                "confidence": 2573237.638131
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "sam73",
+                "confidence": 1
+            }
+        ],
+        "domain_keywords": "fdb",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Newslettery registrace z webu Prosim potvrdte prihlaseni k odberu",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "unsub_link": "http://www.mailchimp.com/monkey-rewards/?utm_source=freemium_newsletter&utm_medium=email&utm_campaign=monkey_rewards&aid=a1b1e2bab8e08498792208296&afl=1",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "p25dfe2e5dd31555e",
+    "pepca_inline_style": "pb69e1528d1a38d60",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

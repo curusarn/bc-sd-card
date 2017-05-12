@@ -1,0 +1,114 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1,
+                1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging",
+                "missing_message_id"
+            ],
+            "module": "ill",
+            "score": 2.1
+        }
+    ],
+    "pepca": "p42a4c4040130eec6",
+    "first10words": " Dobry den gratulujeme Prave jste dokoncili registraci na CoolSoutez cz Vase prihlasovaci udaje Web http coolsoutez",
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "word_count": 33,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Registrace dokoncena",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 2.1,
+    "list_unsubscribe_urls": [
+        "mailto:unsubscribe@email-server.cz?subject=odhlasit&body=odhlasit:<sitronil@seznam.cz"
+    ],
+    "phishing": {},
+    "header_from": "coolsoutez@coolsoutez.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/07f27207fab41b7c90e501ec3541ad34.eml",
+    "attachments": [
+        {
+            "size": 8267,
+            "mime_type": "image/png",
+            "flags": 0,
+            "pepca": "pe14ac0782ecdb307",
+            "cid": "photo0",
+            "cte": "BASE64",
+            "sumphash": "62bee5efa6dbaba33243a67cc551b390",
+            "name": ""
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "pe14ac0782ecdb307"
+        },
+        {
+            "name": "pepca",
+            "value": "p42a4c4040130eec6"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "coolsoutez"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "coolsoutez",
+        "plain_domain": "coolsoutez",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 3514770.58769141,
+                "domain": "coolsoutez"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "contains_list_header": true,
+    "precedence": 3,
+    "last10words": "sitronil seznam cz Heslo kozenka Dekujeme Web CoolSoutez cz E mail info coolsoutez cz Facebook Facebook com coolsoutez ",
+    "lang": "cs"
+}

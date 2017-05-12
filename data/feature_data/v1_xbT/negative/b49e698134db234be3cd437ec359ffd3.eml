@@ -1,0 +1,104 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p375599d634a2a93e",
+    "last10words": "l moze obsahovat reklamu Dating Factory s r o 3 poschodie 207 Regent Street Londyn W1B 3HH Velka Britania ",
+    "list_unsubscribe_urls": [
+        "mailto:unsubscribe+1365017564.45518270.26462635.18@mass.datingfactory.com",
+        "http://sukat.sk/support/unsubscribe/0045518270002srz4ef82c6dd40bc245f970d974690b66de/1365017564.45518270.26462635.18?linkId=77"
+    ],
+    "header_from": "noreply@mass.datingfactory.com",
+    "contains_list_header": true,
+    "pepcatotal": 0,
+    "attachments": [],
+    "word_count": 263,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/b49e698134db234be3cd437ec359ffd3.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p375599d634a2a93e"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pf22c454365e6cbb8"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "datingfactory",
+                "confidence": 127080126.890619
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "datingfactory",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "sukat",
+        "plain_domain_detail": [
+            {
+                "domain": "sukat",
+                "confidence": 2
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "sk",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "lexi Vase heslo na Sukat sk",
+    "adscore": 0,
+    "first10words": " lexi Vase heslo na Sukat sk Ak chcete mat vsetky spravy dorucene do Vasej e mailovej schranky pridajte prosim Sukat ",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "pf22c454365e6cbb8",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1,
+    "pepca_style_total": 0
+}

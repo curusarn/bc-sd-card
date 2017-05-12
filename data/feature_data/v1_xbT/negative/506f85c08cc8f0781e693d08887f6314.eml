@@ -1,0 +1,127 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p9f24078a7d764eb4",
+    "last10words": " Martin Melich jednatel nITram systems s r o info nitramsystems cz GSM 602 346 185 ",
+    "pepca_style_total": 0,
+    "header_from": "irina.paramonova@email.cz",
+    "first10words": " Dobry den posilam fakturu pokladni doklad S pozdravem Ing Irina",
+    "attachments": [
+        {
+            "mime_type": "application/pdf",
+            "name": "Faktura_140400001 nov.pdf",
+            "first10words": "Faktura FAKTURA DANOVY DOKLAD c IC Standale Aero s r",
+            "pepca": "pd83da94f211992be",
+            "lang": "cs",
+            "cte": "BASE64",
+            "cid": "m14a4d8eb831m4859",
+            "size": 32353,
+            "flags": 0,
+            "sumphash": "28b91cbe06d99a57dfe5fd54ccd7adc1"
+        },
+        {
+            "mime_type": "application/pdf",
+            "name": "Pokladn\u00ed_doklad_14HP00006 nov.pdf",
+            "first10words": "Pokladni doklad Pokladna Hlavni pokladna Firma Standale Aero s r",
+            "pepca": "pa0a41264874ed9cc",
+            "lang": "cs",
+            "cte": "BASE64",
+            "cid": "m14a4d8ec08cm4bf7",
+            "size": 20276,
+            "flags": 0,
+            "sumphash": "a9583d951e024373a97d20a656df267a"
+        }
+    ],
+    "word_count": 219,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/506f85c08cc8f0781e693d08887f6314.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "pd83da94f211992be"
+        },
+        {
+            "name": "att-pepca",
+            "value": "pa0a41264874ed9cc"
+        },
+        {
+            "name": "pepca",
+            "value": "p9f24078a7d764eb4"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pbc8fd191664ea563"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "makro",
+                "confidence": 4457411.306802
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "makro",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Re FW faktura",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "pbc8fd191664ea563",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

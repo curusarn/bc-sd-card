@@ -1,0 +1,106 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p59c1170c2b713881",
+    "last10words": "vku O jejim stavu Vas budeme informovat Sledujte i nase pravidelne AKCNI nabidky Generovano systemem FastCentrik ",
+    "pepca_style_total": 0,
+    "header_from": "info@sauber.cz",
+    "first10words": " Dobry den pokud Vam neprisla odpoved stala se nekde chyba prosim udelejte objednavku znovu Na Vase jmeno zadnou objednav",
+    "attachments": [],
+    "word_count": 433,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/9afaa9cff1902ca8663ab0c5482b09ba.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p59c1170c2b713881"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pcd2ee190157fdd8e"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "topkraft",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "stepstone",
+                "confidence": 48484155.8044
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "topkraft",
+                "confidence": 1
+            }
+        ],
+        "domain_keywords": "stepstone",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "fastcentrik",
+        "plain_domain_detail": [
+            {
+                "domain": "fastcentrik",
+                "confidence": 1
+            },
+            {
+                "domain": "sauber",
+                "confidence": 3
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Re Objednavka",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "pcd2ee190157fdd8e",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

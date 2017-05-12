@@ -1,0 +1,109 @@
+{
+    "phashes": [
+        {
+            "value": "pa6cf47688e4baa73",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p8cac7180d0cd1749",
+            "name": "pepca"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "obchod@toneracek.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/trans-db8e27a314c503128658a94e28904282.eml",
+    "attachments": [
+        {
+            "size": 9895,
+            "name": "objednavka.html",
+            "cte": "BASE64",
+            "flags": 0,
+            "sumphash": "049b188db619f00cc154eaa25696fda7",
+            "pepca": "pa6cf47688e4baa73",
+            "mime_type": "text/html"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "missing_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                1
+            ],
+            "score": 2
+        }
+    ],
+    "pepca": "p8cac7180d0cd1749",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": " a bude vyrizena v nejblizsim moznem terminu o jejim stavu Vas budeme informovat Vas Toneracek Generovano systemem FastCentrik ",
+    "subject": "Objednavka",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 1276494.18913,
+                "domain": "jhmobil"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "jhmobil",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "toneracek",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "toneracek"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Dekujeme za nakup na www toneracek cz Vase objednavka byla uspesne prijata a bude vyrizena v nejblizsim moznem terminu o jeji",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 29,
+    "adscore": 0,
+    "spamscore": 2
+}

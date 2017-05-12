@@ -1,0 +1,106 @@
+{
+    "phashes": [
+        {
+            "value": "pc5afc5574da82611",
+            "name": "pepca"
+        },
+        {
+            "value": "p42424c62c9a5e751",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "notification+zj4yctsa62t9@facebookmail.com",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/6bda7fa678b76d32a9b8d568aaf71911.eml",
+    "attachments": [],
+    "contains_list_header": true,
+    "last10words": " odeslana na adresu zetochapetr gmail com na vasi zadost Facebook Inc Attention Department 415 PO Box 10005 Palo Alto CA 94303 ",
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca": "pc5afc5574da82611",
+    "subject": "Obnoveni hesla k Facebooku",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 1.02856363814912,
+                "domain": "facebookmail"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 46128058.593054,
+                "domain": "gruper"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "facebookmail",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "gruper",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "facebook",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "facebook"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p42424c62c9a5e751",
+    "list_unsubscribe_urls": [
+        "https://www.facebook.com/o.php?k=AS1pK7hCXAx2iBGj&u=100004505689028&mid=abb2aa8G5af41d099bc4G0G18eG2078871b"
+    ],
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Facebook Mily uzivateli Petr Vase heslo k Facebooku bylo obnoveno pomoci e mailove adresy zetochapetr gmail com dne 29 rijen 2014",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 262,
+    "adscore": 0,
+    "spamscore": 1
+}

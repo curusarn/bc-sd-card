@@ -1,0 +1,101 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging"
+            ],
+            "module": "ill",
+            "score": 1.1
+        }
+    ],
+    "pepca": "p0e3d2093020ebc32",
+    "first10words": " TopSleva cz Zpravodaj Srovnavame vice nez 5 000 skvelych nabidek tracking TOP SLEVA CZ Srovnavame vice ne",
+    "pepca_style": "",
+    "pepca_inline_style": "p7b9ae22257bcfef4",
+    "word_count": 182,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Dokoncete registraci na portalu TopSleva cz",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.1,
+    "phishing": {},
+    "header_from": "info@topsleva.cz",
+    "pepca_inline_style_total": 4,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/c477d466ac6e4fda6a95d33bfd0dc362.eml",
+    "attachments": [],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p0e3d2093020ebc32"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p7b9ae22257bcfef4"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "sleva"
+            },
+            {
+                "confidence": 4,
+                "domain": "topsleva"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "topsleva",
+        "plain_domain": "sleva",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 38227977.106519,
+                "domain": "topsleva"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 1,
+    "precedence": 3,
+    "last10words": "nim hezkeho dne Tym TopSleva cz 2013 5DM cz Prokopska 297 10 Prague Prague 11800 Czech Republic ",
+    "lang": "cs"
+}

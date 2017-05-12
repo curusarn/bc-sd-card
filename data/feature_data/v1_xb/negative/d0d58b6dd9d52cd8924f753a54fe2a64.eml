@@ -1,0 +1,98 @@
+{
+    "phashes": [
+        {
+            "value": "p92e5c72f29368c92",
+            "name": "pepca"
+        },
+        {
+            "value": "p1a972e87c6f08968",
+            "name": "pepca_style"
+        },
+        {
+            "value": "p21125bb927185ea9",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "objednavky@designtricka.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/d0d58b6dd9d52cd8924f753a54fe2a64.eml",
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "pepca": "p92e5c72f29368c92",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "p1a972e87c6f08968",
+    "last10words": "Cena bez DPH Cena celkem 294m Kolace white 01 M 357 1 357 432 Platba 41 50 Doprava posta 74 90 Celkem 572 ",
+    "subject": "Re Objednavka designtricka cislo 140706",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 12745614.495088,
+                "domain": "masterinter"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "masterinter",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 1,
+    "pepca_inline_style": "p21125bb927185ea9",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 1,
+    "first10words": " Dobry den Informujeme ze dnes expedujeme Vasi zasilku Dorazit by mela nejpozdeji do 2 pracovnich dnu Preji hezky den a pohodov",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 196,
+    "adscore": 0,
+    "spamscore": 1.1
+}

@@ -1,0 +1,128 @@
+{
+    "phashes": [
+        {
+            "value": "p2feccc33b1362b3e",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p5a31506c1bff4d87",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p6cf748485628b2b6",
+            "name": "pepca"
+        },
+        {
+            "value": "p9cfd7f41535f9eea",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "gaborova@inisoft.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/ede0196993beb74dab86f082386de24a.eml",
+    "attachments": [
+        {
+            "size": 2129,
+            "name": "image001.jpg",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "image001.jpg@01D0185D.27C98DD0",
+            "sumphash": "db38f11bac4f2acee77b81bc697150e3",
+            "pepca": "p2feccc33b1362b3e",
+            "mime_type": "image/jpeg"
+        },
+        {
+            "first10words": "Fast Report Document FAKTURA DANOVY DOKLAD C variabilni symbol konstantni",
+            "size": 72407,
+            "mime_type": "application/pdf",
+            "cte": "BASE64",
+            "flags": 0,
+            "lang": "cs",
+            "name": "Faktura.pdf",
+            "pepca": "p5a31506c1bff4d87",
+            "sumphash": "0b16726513d9e0878fd28a64d3206193"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "pepca": "p6cf748485628b2b6",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": "A 944 gaborova inisoft cz A A A A A A A A A A A http www inisoft cz A A ",
+    "subject": "Faktura",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 2754032.3970564,
+                "domain": "inisoft"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "inisoft",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "inisoft",
+        "plain_domain_detail": [
+            {
+                "confidence": 2,
+                "domain": "inisoft"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p9cfd7f41535f9eea",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Dobry den pani Kaniova A dle domluvy Vam vA priloze zasilam opravenou fakturu c 348068 A S",
+    "resent": true,
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 120,
+    "adscore": 0,
+    "spamscore": 1
+}

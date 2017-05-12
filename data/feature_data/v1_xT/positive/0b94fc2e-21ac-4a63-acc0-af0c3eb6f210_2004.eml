@@ -1,0 +1,105 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "module": "ill",
+            "score": 1
+        }
+    ],
+    "pepca": "p294950a2e0fe86c3",
+    "first10words": " Regions Bank USA Corporate Banking Login Authorization Procedure Dear The Regions Bank US Treasury Management membe",
+    "pepca_style": "",
+    "pepca_inline_style": "pa6a9d51c99ec020c",
+    "word_count": 202,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Important Banking Service Message From Regions Bank Treasury Management",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1,
+    "phishing": {},
+    "header_from": "security_refnum-951jec@regions.com",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/2004.eml",
+    "attachments": [
+        {
+            "size": 4109,
+            "mime_type": "image/gif",
+            "flags": 0,
+            "pepca": "p7aa4cc0ec4d90406",
+            "cid": "001d01c79c74$6bc769de$6ce4ac4c@johnny5",
+            "cte": "BASE64",
+            "sumphash": "a3c8ba11e1372d8a4408eebe1b73bc2d",
+            "name": "loe040.gif"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p7aa4cc0ec4d90406"
+        },
+        {
+            "name": "pepca",
+            "value": "p294950a2e0fe86c3"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pa6a9d51c99ec020c"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "mcsv",
+        "plain_domain": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 70837788.5140908,
+                "domain": "mcsv"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "ment please ignore this email Copyright 2007 The Regions Bank USA Commercial Banking All Rights Reserved ",
+    "lang": "en"
+}

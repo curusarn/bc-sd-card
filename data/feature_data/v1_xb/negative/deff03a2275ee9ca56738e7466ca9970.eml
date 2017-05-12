@@ -1,0 +1,151 @@
+{
+    "phashes": [
+        {
+            "value": "p7a60ec90259f0af0",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p6f79d77a626f4b4b",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p6d4db8fe493643c7",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pcef21d7dd9774961",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p895e0775a3f2c2a4",
+            "name": "pepca"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "darina.koubkova@tnt.com",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/deff03a2275ee9ca56738e7466ca9970.eml",
+    "attachments": [
+        {
+            "size": 10864,
+            "name": "",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "_4_06B87F98067F4B60003B5C86C1257DAF",
+            "sumphash": "aff5613d88e161c6764e12f6a3890603",
+            "pepca": "p7a60ec90259f0af0",
+            "mime_type": "image/png"
+        },
+        {
+            "size": 27048,
+            "name": "",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "_4_06B8819C067F4B60003B5C86C1257DAF",
+            "sumphash": "24087e5da6b6d61dea887d95daf18ceb",
+            "pepca": "p6f79d77a626f4b4b",
+            "mime_type": "image/png"
+        },
+        {
+            "first10words": "VDD ID Point NO Lhuta posledni den Poznamky OsvobozeniOznaceni Kontrola",
+            "size": 66794,
+            "mime_type": "application/pdf",
+            "cte": "BASE64",
+            "flags": 0,
+            "lang": "cs",
+            "name": "VDD ID 86964 - Point - NO.pdf",
+            "pepca": "p6d4db8fe493643c7",
+            "sumphash": "09004bec6f979ef2ace50484aa757b00"
+        },
+        {
+            "size": 106497,
+            "name": "KMBT_163_01775.pdf",
+            "cte": "BASE64",
+            "flags": 0,
+            "lang": "un",
+            "sumphash": "0cf849da1c349bd8872257e018f008d6",
+            "pepca": "pcef21d7dd9774961",
+            "mime_type": "application/pdf"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "pepca": "p895e0775a3f2c2a4",
+    "phishing": {
+        "ner_domain_detected": true
+    },
+    "pepca_style": "",
+    "last10words": " Print black and white and double sided where possible ",
+    "subject": "vdd faktura dnesni Norsko",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 114565814.992,
+                "domain": "clamav"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "clamav",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "tnt",
+        "plain_domain_detail": [
+            {
+                "confidence": 2,
+                "domain": "tnt"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " S pozdravem Kind regards Darina Koubkova Special Services Agent Special Services T 420 257 083",
+    "lang": "en",
+    "pepcatotal": 0,
+    "word_count": 159,
+    "adscore": 0,
+    "spamscore": 1
+}

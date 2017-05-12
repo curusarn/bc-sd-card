@@ -1,0 +1,153 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p08b40dbc7bacd82b",
+    "last10words": "i druzstvo Sokolovska 129 50 186 00 Praha 8 Tel 420 734 178 197 E mail prazirna fair bio cz Web www fair bio cz ",
+    "pepca_style_total": 0,
+    "header_from": "ds@vyssihradek.cz",
+    "first10words": " Pekny den A kdo bude mit zajem o objednavku kavy zA prazirny at se mi ozve do patku 16 1 2015",
+    "attachments": [
+        {
+            "name": "image001.jpg",
+            "cte": "BASE64",
+            "mime_type": "image/jpeg",
+            "cid": "F652619E2BFD4E8CAE8D34F97FE5A4A8@Marketa",
+            "size": 0,
+            "flags": 0,
+            "sumphash": "dc5b5ace27d0916fed08dfee55dd0748"
+        },
+        {
+            "name": "image002.png",
+            "cte": "BASE64",
+            "mime_type": "image/png",
+            "cid": "5E3EC645FCD24D0B83AB269958A69AB9@Marketa",
+            "size": 0,
+            "flags": 0,
+            "sumphash": "dc5b5ace27d0916fed08dfee55dd0748"
+        },
+        {
+            "name": "image003.png",
+            "cte": "BASE64",
+            "mime_type": "image/png",
+            "cid": "59E9DA76E52642CB9FAC839FAEE71F7E@Marketa",
+            "size": 0,
+            "flags": 0,
+            "sumphash": "dc5b5ace27d0916fed08dfee55dd0748"
+        },
+        {
+            "name": "cenova-nab\u00eddka-doporucena-maloobchod.pdf",
+            "cte": "BASE64",
+            "mime_type": "text/plain",
+            "size": 0,
+            "flags": 0,
+            "sumphash": "dc5b5ace27d0916fed08dfee55dd0748"
+        },
+        {
+            "name": "cenova-nabidka-zamestnanci.pdf",
+            "cte": "BASE64",
+            "mime_type": "text/plain",
+            "size": 0,
+            "flags": 0,
+            "sumphash": "dc5b5ace27d0916fed08dfee55dd0748"
+        },
+        {
+            "name": "cenova-nabidka-velkoobchod.pdf",
+            "cte": "BASE64",
+            "mime_type": "text/plain",
+            "size": 0,
+            "flags": 0,
+            "sumphash": "dc5b5ace27d0916fed08dfee55dd0748"
+        }
+    ],
+    "word_count": 542,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/trans-fec4a4c85c037b9a6f644713501835b3.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p08b40dbc7bacd82b"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p02f5e9ff5106e8d2"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "slevy4u",
+                "confidence": 21475533.21582
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "slevy4u",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "vyssihradek",
+        "plain_domain_detail": [
+            {
+                "domain": "vyssihradek",
+                "confidence": 1
+            },
+            {
+                "domain": "fair-bio",
+                "confidence": 2
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "objednavka kavy",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "p02f5e9ff5106e8d2",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

@@ -1,0 +1,122 @@
+{
+    "phashes": [
+        {
+            "value": "p3701ece4d67abe0d",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p0f6d2caa4092173c",
+            "name": "pepca"
+        },
+        {
+            "value": "p605e69c54e854e86",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "Dagmar.O@seznam.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/6da4a1306b5df1c093c139a70d0fdf57.eml",
+    "attachments": [
+        {
+            "size": 3674,
+            "name": "4094697.jpg",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "4094697.jpg",
+            "sumphash": "a51f453fea34e4b639461aaeac739227",
+            "pepca": "p3701ece4d67abe0d",
+            "mime_type": "image/jpeg"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "pepca": "p0f6d2caa4092173c",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": "2014 23 16 si stahnete ve formatu PDF zde http mtec mimishop cz podminky php pdf 1 verze 1418336172 jazyk cs IP 188 75 190 36 ",
+    "subject": "Re Objednavka Dagmar Grobarova",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 71164400.6804159,
+                "domain": "superhosting"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "superhosting",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "mimishop",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "mimishop"
+            },
+            {
+                "confidence": 1,
+                "domain": "de"
+            },
+            {
+                "confidence": 1,
+                "domain": "kinder-autohaus"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p605e69c54e854e86",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Dekuji D G Puvodni zprava Od Werner Weisker mtec email cz Komu Dagmar Grobarova Olivova Dagmar O sezna",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 421,
+    "adscore": 0,
+    "spamscore": 1.1
+}

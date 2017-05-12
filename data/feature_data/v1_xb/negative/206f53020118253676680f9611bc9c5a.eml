@@ -1,0 +1,110 @@
+{
+    "phashes": [
+        {
+            "value": "p436c246cb22b6210",
+            "name": "pepca"
+        },
+        {
+            "value": "pafac73842127513a",
+            "name": "pepca_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "info@balonky.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/206f53020118253676680f9611bc9c5a.eml",
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "pepca": "p436c246cb22b6210",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "pafac73842127513a",
+    "last10words": " Pro prihlaseni pouzijte svuj e mail a heslo Prihlasit Datum 29 10 2014 13 36 42 Platforma aPilot www apilot cz ",
+    "subject": "Dekujeme za registraci www balonky cz",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 1,
+                "domain": "balonky"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 2955438.690822,
+                "domain": "plus500"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "balonky",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "plus500",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "balonky",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "balonky"
+            },
+            {
+                "confidence": 1,
+                "domain": "td"
+            },
+            {
+                "confidence": 1,
+                "domain": "apilot"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Balonky s r o www balonky cz Dekujeme za vasi registraci Byl a jste uspesne zaregistrovan a jako",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 85,
+    "adscore": 0,
+    "spamscore": 1
+}

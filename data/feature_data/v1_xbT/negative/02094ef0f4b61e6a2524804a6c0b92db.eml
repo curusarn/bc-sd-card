@@ -1,0 +1,116 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p27901860475d1d42",
+    "last10words": "td Beacon House 10 Waterfront Business Park Station Approach Fleet Hampshire GU51 3TX Registered in England and Wales no 4790429 ",
+    "pepca_style_total": 0,
+    "header_from": "admin@cv-library.co.uk",
+    "first10words": " CV Library Jobs by Email Your New Job Alerts from CV Library co uk Home Search Jobs ",
+    "attachments": [],
+    "word_count": 2522,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/02094ef0f4b61e6a2524804a6c0b92db.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p27901860475d1d42"
+        },
+        {
+            "name": "pepca_style",
+            "value": "p4f315b4681da8a07"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p85a3eabf787733c8"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "cv-library",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "s1now",
+                "confidence": 996537871.3421
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "cv-library",
+                "confidence": 7
+            }
+        ],
+        "domain_keywords": "s1now",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "cv-library",
+        "plain_domain_detail": [
+            {
+                "domain": "cv-library",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "en",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "3 new matching jobs from CV Library",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": true,
+        "5_top_domains_id_1": 0,
+        "5_top_domains_percent_1": 0.2857142857142857,
+        "5_top_domains_percent_3": 0.14285714285714285,
+        "5_top_domains_id_0": 0,
+        "5_top_domains_percent_0": 0.2857142857142857,
+        "5_top_domains_id_4": 3,
+        "5_top_domains_id_2": 1,
+        "5_top_domains_percent_4": 0.14285714285714285,
+        "5_top_domains_percent_2": 0.14285714285714285,
+        "5_top_domains_id_3": 2
+    },
+    "pepca_style": "p4f315b4681da8a07",
+    "pepca_inline_style": "p85a3eabf787733c8",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

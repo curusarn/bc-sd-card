@@ -1,0 +1,98 @@
+{
+    "phashes": [
+        {
+            "value": "p6e1f23cd67fba65d",
+            "name": "pepca"
+        },
+        {
+            "value": "p49d0ebbb33e17fa7",
+            "name": "pepca_style"
+        },
+        {
+            "value": "pcbd1b2d2347f5739",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "verification@accounts.firefox.com",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/1f38d504923ad9fb93b7efac38a95304.eml",
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "pepca": "p6e1f23cd67fba65d",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "p49d0ebbb33e17fa7",
+    "last10words": "i jej nevyzadali muzete jej ignorovat Tento e mail byl zaslan automaticky Pokud jste si jej nevyzadali nemusite nic delat ",
+    "subject": "Obnovit heslo",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 2736194.117526,
+                "domain": "skvelarada"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "skvelarada",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "pcbd1b2d2347f5739",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Firefox Accounts Jste si jisti Potvrdte prosim obnoveni hesla pro tlapina seznam cz Potvrdte prosim obn",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 106,
+    "adscore": 0,
+    "spamscore": 1.1
+}

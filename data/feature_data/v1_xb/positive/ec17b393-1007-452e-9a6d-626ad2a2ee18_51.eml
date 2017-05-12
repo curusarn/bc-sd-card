@@ -1,0 +1,104 @@
+{
+    "phashes": [
+        {
+            "value": "p2fd2051fb42ef507",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p53daf762d4e9b672",
+            "name": "pepca"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "support_refnum_654341@southtrust.com",
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/20051114/51.eml",
+    "attachments": [
+        {
+            "size": 7374,
+            "name": "covariant.GIF",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "part1.09000803.06070907@supprefnum63248@southtrust.com",
+            "sumphash": "d9c5c6e6cac2cd186af45cdc0bed040e",
+            "pepca": "p2fd2051fb42ef507",
+            "mime_type": "image/gif"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "pepca": "p53daf762d4e9b672",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": " in 1823 Rock Music Web Ramadan History ",
+    "subject": "SOUTHTRUST BANK SPECIAL ANNOUNCE",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 2431519.14227,
+                "domain": "mclub"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "mclub",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " in 1823 Rock Music Web Ramadan History ",
+    "resent": true,
+    "lang": "en",
+    "pepcatotal": 0,
+    "word_count": 9,
+    "adscore": 0,
+    "spamscore": 1
+}

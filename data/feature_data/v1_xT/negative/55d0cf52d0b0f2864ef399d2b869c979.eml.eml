@@ -1,0 +1,107 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "module": "ill",
+            "score": 1.1
+        }
+    ],
+    "pepca": "pad6df6f32d9876ca",
+    "first10words": " Original Message From Kaspar mailto kaspar canela cz Sent Tuesday November 18 2014 8 31 PM To info canela cz Subject objednavka",
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "word_count": 73,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "FW objednavka od zakaznika",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.1,
+    "phishing": {},
+    "header_from": "info@canela.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/55d0cf52d0b0f2864ef399d2b869c979.eml.eml",
+    "attachments": [
+        {
+            "size": 14562,
+            "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml",
+            "flags": 0,
+            "pepca": "p70647c09492cac0a",
+            "cte": "BASE64",
+            "sumphash": "e28502037c1b4c87838a277c07a11ec0",
+            "name": "nab\u00eddka FB syst\u00e9m.xlsx"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p70647c09492cac0a"
+        },
+        {
+            "name": "pepca",
+            "value": "pad6df6f32d9876ca"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "fbsystem"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "martin-kaspar",
+        "plain_domain": "fbsystem",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 1787148.711926,
+                "domain": "martin-kaspar"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": " www fbsystem cz Dobry den pane Brzaku zasilam Vam nabidku na nastroje snad se Vam to bude libit S pozdravem Zdenek Kaspar Canela CZ",
+    "lang": "cs"
+}

@@ -1,0 +1,111 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p1cdf86ca07638484",
+    "last10words": "4 Lenka Krenkova 775 100 464 FT Stavby s r o Lenka Krenkova 775 100 464 FT Stavby s r o ",
+    "pepca_style_total": 0,
+    "header_from": "pytlic.eko@seznam.cz",
+    "first10words": " tak snad konecne dneska jsem jak telefonni ustredna Puvodni zprava ",
+    "attachments": [
+        {
+            "mime_type": "application/pdf",
+            "name": "FO 2014114.PDF",
+            "first10words": "Visual FoxPro CISLO ZBOZI NAZEV MNOZSTVI MJ CENA MJ DPH",
+            "pepca": "p60c12efd8c63ecb5",
+            "lang": "cs",
+            "cte": "BASE64",
+            "cid": "m14a4d909b1em1345",
+            "size": 69600,
+            "flags": 0,
+            "sumphash": "c44a288c522ac490b89c1df5b765f0fd"
+        }
+    ],
+    "word_count": 153,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/69f96dca8b84012266e275db324ca7c7.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p60c12efd8c63ecb5"
+        },
+        {
+            "name": "pepca",
+            "value": "p1cdf86ca07638484"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pf4aa86b51a4e1b04"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "bonuszbrigad",
+                "confidence": 41813719.12404
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "bonuszbrigad",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Re Faktura vydana poznamka",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "pf4aa86b51a4e1b04",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

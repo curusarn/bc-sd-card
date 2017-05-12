@@ -1,0 +1,119 @@
+{
+    "phashes": [
+        {
+            "value": "p0b1ccefbeef84559",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p188db857c35a6431",
+            "name": "pepca"
+        },
+        {
+            "value": "p60abb5175a647137",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "obchod@obchudecek.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/b6be5416df7cba89cb843aae55d8224d.eml",
+    "unsub_link_candidates": [
+        "http://www.obchudecek.cz/formular.php?akce=login&hsid=594b966b85f78bd413e4fda7b69496c8&os=2"
+    ],
+    "attachments": [
+        {
+            "size": 16442,
+            "name": "hlavicka_mail.png",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "obchudecek_logo",
+            "sumphash": "12ebc22730724d452e1a840b06b1bc84",
+            "pepca": "p0b1ccefbeef84559",
+            "mime_type": "image/png"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "pepca": "p188db857c35a6431",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": "i s delsi zarukou nez 24mes se vzdy resi v souladu s platnym reklamacnim radem viz Vseobecne reklamacni podminky ",
+    "subject": "Objednavka prijeti",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 63728072.47544,
+                "domain": "masterinter"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "masterinter",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "obchudecek",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "obchudecek"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p60abb5175a647137",
+    "unsub_link_texts": [
+        " opravit udaj o odberatel odberatel"
+    ],
+    "unsub_link": "http://www.obchudecek.cz/formular.php?akce=login&hsid=594b966b85f78bd413e4fda7b69496c8&os=2",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Obchudecek Cenik zbozi 18 let na trhu IT A A A 13 let e shop Prodejna VV brothers s r o Jecminkova 10 7",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 417,
+    "adscore": 0,
+    "spamscore": 1
+}

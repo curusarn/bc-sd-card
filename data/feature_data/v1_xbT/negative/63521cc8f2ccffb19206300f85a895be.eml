@@ -1,0 +1,108 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pd7d70c8b7c4bfc39",
+    "last10words": "evedene na standardni smlouvu z rezimu TWIST Automaticky generovano na e mail neodpovidejte Vytvoreno 3 11 2014 v 14 14 ",
+    "pepca_style_total": 0,
+    "header_from": "mobily@e-cirkev.cz",
+    "first10words": " Dekujeme za vasi registraci do systemu CMS Jana Turkova dekujeme za Vasi registraci k jejiz dokonceni je v pripade ze jste ",
+    "attachments": [
+        {
+            "mime_type": "application/pdf",
+            "name": "cms-dalsi-pokyny.pdf",
+            "first10words": "Vstupenka Jana Turkova Rohacova Praha janicka turkova seznam cz t",
+            "pepca": "ped48f60336ed3991",
+            "lang": "cs",
+            "cte": "BASE64",
+            "size": 843677,
+            "flags": 0,
+            "sumphash": "ee84e85b13d06805d7b3d9d42c1de23d"
+        }
+    ],
+    "word_count": 160,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/63521cc8f2ccffb19206300f85a895be.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "ped48f60336ed3991"
+        },
+        {
+            "name": "pepca",
+            "value": "pd7d70c8b7c4bfc39"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p9a2d82897b3c2a8f"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "cbre",
+                "confidence": 4528769.10128
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "cbre",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Potvrzeni nove registrace",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "p9a2d82897b3c2a8f",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

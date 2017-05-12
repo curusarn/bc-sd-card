@@ -1,0 +1,108 @@
+{
+    "phashes": [
+        {
+            "value": "pb44c2b8112896b1b",
+            "name": "pepca"
+        },
+        {
+            "value": "pa299ee199617f7f2",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "info@gopass.sk",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/024ebb111b3dcbe8ec7c5087e4a2ecbb.eml",
+    "attachments": [],
+    "contains_list_header": true,
+    "last10words": "late novinky z programu GOPASS dostavat mozete sa odhlasit kliknutim na tento link 2014 Tatry mountain resorts a s ",
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca": "pb44c2b8112896b1b",
+    "subject": "Potvrdenie registracie a overenie Vasho e mailu",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 19,
+                "domain": "reserved"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 33198587.2727912,
+                "domain": "gopass"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "reserved",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "gopass",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "gopass",
+        "plain_domain_detail": [
+            {
+                "confidence": 2,
+                "domain": "gopass"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "pa299ee199617f7f2",
+    "list_unsubscribe_urls": [
+        "info@gopass.sk"
+    ],
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Potvrdenie registracie a overenie Vasho e mailu Pokial sa Vam tento email nezobrazil spravne kliknite sem ",
+    "lang": "sk",
+    "pepcatotal": 0,
+    "word_count": 345,
+    "adscore": 0,
+    "spamscore": 1.1
+}

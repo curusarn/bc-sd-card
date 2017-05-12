@@ -1,0 +1,108 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p30e7bd19461dfbc2",
+    "last10words": "20 California St 4th Floor San Francisco CA 94111 Kalifornie USA V pripade jakychkoliv dotazu nebo pripominek kontaktuj nas ",
+    "list_unsubscribe_urls": [
+        "http://unsub.email.dynect.net/unsub??h=tiMleQXvuhEImexOqszKOVsrvZcbqz83WJJU7V927U7OAdsnXgODvL7JmYryY3ytFoD9JmX19UM4A5FWI0Z1RyjtxY6d4C%2Bbi=20150112134950.07BA160730B3%40mail6-08-pao.dyndns.comx=MHw3NzU3MDc6MjAxNS0wMS0xMl9TSElQTUVOVF9QUk9DRVNTRUQ7",
+        "mailto:unsubscribe@dynect-email.com?subject=tiMleQXvuhEImexOqszKOVsrvZcbqz83WJJU7V927U7OAdsnXgODvL7JmYryY3ytFoD9JmX19UM4A5FWI0Z1RyjtxY6d4C%2Bb&message_id=20150112134950.07BA160730B3%40mail6-08-pao.dyndns.com&x_headers==MHw3NzU3MDc6MjAxNS0wMS0xMl9TSElQTUVOVF9QUk9DRVNTRUQ7"
+    ],
+    "header_from": "notification@wish.com",
+    "contains_list_header": true,
+    "pepcatotal": 0,
+    "attachments": [],
+    "word_count": 263,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/7ab8ec16b8d27bca6415e271a92183cc.eml.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p30e7bd19461dfbc2"
+        },
+        {
+            "name": "pepca_style",
+            "value": "pcc09e35d32c5d5d1"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p26de839caf28c270"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "wish",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "wish",
+                "confidence": 25468859.457466
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "wish",
+                "confidence": 5.57711076226896
+            }
+        ],
+        "domain_keywords": "wish",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Tva objednavka Wish byla zpracovana ",
+    "adscore": 0,
+    "first10words": " Tva objednavka Wish byla zpracovana Ahoj Lenka Obchod pripravuje tvou objednavku k odeslani Ocekava se",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "pcc09e35d32c5d5d1",
+    "pepca_inline_style": "p26de839caf28c270",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1,
+    "pepca_style_total": 0
+}

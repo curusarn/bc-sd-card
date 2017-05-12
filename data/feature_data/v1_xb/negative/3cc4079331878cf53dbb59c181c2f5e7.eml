@@ -1,0 +1,115 @@
+{
+    "phashes": [
+        {
+            "value": "p55f6eed0b5380052",
+            "name": "pepca"
+        },
+        {
+            "value": "p5a4b4849780a88fc",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "noreply@mass.datingfactory.com",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/3cc4079331878cf53dbb59c181c2f5e7.eml",
+    "unsub_link_candidates": [
+        "http://amateri-cz.cz/support/unsubscribe/0003787314002ppmb7acf436c759801a2dbf24bde327c46a/1366031445.3787314.26486213.18?linkId=2"
+    ],
+    "attachments": [],
+    "contains_list_header": true,
+    "last10words": "o email muze obsahovat inzerci Dating Factory s r o 3 patro 207 Regent Street Londyn W1B 3HH Velka Britanie ",
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca": "p55f6eed0b5380052",
+    "subject": "Blondak Vase heslo na amateri cz cz",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 197454508.303946,
+                "domain": "datingfactory"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "datingfactory",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "amateri-cz",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "amateri-cz"
+            },
+            {
+                "confidence": 1,
+                "domain": "muamateri-cz"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p5a4b4849780a88fc",
+    "unsub_link_texts": [
+        "pokud byt si nezalozit tento ucet odhlasit se zde "
+    ],
+    "list_unsubscribe_urls": [
+        "mailto:unsubscribe+1366031445.3787314.26486213.18@mass.datingfactory.com",
+        "http://amateri-cz.cz/support/unsubscribe/0003787314002ppmb7acf436c759801a2dbf24bde327c46a/1366031445.3787314.26486213.18?linkId=77"
+    ],
+    "unsub_link": "http://amateri-cz.cz/support/unsubscribe/0003787314002ppmb7acf436c759801a2dbf24bde327c46a/1366031445.3787314.26486213.18?linkId=2",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Blondak Vase heslo na amateri cz cz Chcete li mit vsechny zpravy dorucene do Vasi e mailove schranky pridejte pros",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 262,
+    "adscore": 0,
+    "spamscore": 1.1
+}

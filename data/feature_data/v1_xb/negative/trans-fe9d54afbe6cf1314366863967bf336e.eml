@@ -1,0 +1,113 @@
+{
+    "phashes": [
+        {
+            "value": "pbfa7dedf06001b51",
+            "name": "pepca"
+        },
+        {
+            "value": "p5093a024d9d82245",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "obchod@vokberoun.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/trans-fe9d54afbe6cf1314366863967bf336e.eml",
+    "attachments": [
+        {
+            "size": 0,
+            "name": "logo_mail-1.jpg",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "swift-142115844554b5282d1d39d.4@vok-beroun.cz",
+            "sumphash": "dc5b5ace27d0916fed08dfee55dd0748",
+            "mime_type": "image/jpeg"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "pepca": "pbfa7dedf06001b51",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": " muzete sledovat sve objednavky prostrednictvim Sledovani pro navstevniky Vok Beroun funguje v systemu PrestaShop ",
+    "subject": " Vok Beroun Potvrzeni objednavky",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 238719902.3405,
+                "domain": "fordaq"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "fordaq",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "prestashop",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "prestashop"
+            },
+            {
+                "confidence": 1,
+                "domain": "vok-beroun"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p5093a024d9d82245",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Dobry den Lubos klazar Dekujeme Vam za nakup v obchode Vok Beroun Detaily objednavky Objed",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 2425,
+    "adscore": 0,
+    "spamscore": 1.1
+}

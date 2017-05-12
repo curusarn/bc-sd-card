@@ -1,0 +1,101 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "module": "ill",
+            "score": 1
+        }
+    ],
+    "pepca": "pbfcc6f7c98d66274",
+    "first10words": " 0x7687 0x79 0x48 0x09693045 0x5568 0x6521 0x0 cvs PK5 2Z6 serv 03Y V59 media revision FYTF DDB update FSK LKY start",
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "word_count": 45,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "important message message id 1613489754 ",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1,
+    "phishing": {},
+    "header_from": "businessservice.refd761089308.cm@bbt.com",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/476.eml",
+    "attachments": [
+        {
+            "size": 9528,
+            "mime_type": "image/gif",
+            "flags": 0,
+            "pepca": "p965afc05125dd658",
+            "cid": "3RWKBTXRRC",
+            "cte": "BASE64",
+            "sumphash": "e77420f42c0ac3cdcc4b01541e9cce38",
+            "name": "bonus.gif"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p965afc05125dd658"
+        },
+        {
+            "name": "pepca",
+            "value": "pbfcc6f7c98d66274"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "mcsv",
+        "plain_domain": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 15948539.7645305,
+                "domain": "mcsv"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "LKY start dec api GDBK PKIF 0x1 0x0 0x59 0x06822717 0x58 0x6 0x81514407 0x856 0x2857 0x25033094 0x3 0x06 0x6 0x421 0x271 ",
+    "lang": "un"
+}

@@ -1,0 +1,114 @@
+{
+    "phashes": [
+        {
+            "value": "p5358544e36c9344a",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p8b8654db978b2d2f",
+            "name": "pepca"
+        },
+        {
+            "value": "paaa3e489edd034a3",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "objednavky@eva.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/86d659bffd0f1a956bc279291dfed5ba.eml",
+    "attachments": [
+        {
+            "size": 4646,
+            "name": "logo.png",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "logo",
+            "sumphash": "839e1815cf06823d19a781a6c7a6fcc0",
+            "pepca": "p5358544e36c9344a",
+            "mime_type": "image/jpeg"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "pepca": "p8b8654db978b2d2f",
+    "phishing": {
+        "ner_domain_detected": true
+    },
+    "pepca_style": "",
+    "last10words": "dava zbozi jiz od roku 2000 Tento e mail jste obdrzeli na zaklade registrace nebo realizovane objednavky v obchode www eva cz ",
+    "subject": "Obnoveni zapomenuteho hesla",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 13727073.7226596,
+                "domain": "freelancer"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "freelancer",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "eva",
+        "plain_domain_detail": [
+            {
+                "confidence": 3,
+                "domain": "eva"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "paaa3e489edd034a3",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Demystifying Email Design Obnoveni zapomenuteho hesla Vazeny zakazniku Na serveru EVA byl zadan pozadavek na obno",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 224,
+    "adscore": 0,
+    "spamscore": 1.1
+}

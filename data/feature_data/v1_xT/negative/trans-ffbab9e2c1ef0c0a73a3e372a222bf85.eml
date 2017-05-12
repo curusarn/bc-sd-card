@@ -1,0 +1,126 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "module": "ill",
+            "score": 1
+        }
+    ],
+    "pepca": "p4f30f0b59f66b261",
+    "first10words": " newsletter Hezky den prave jsme odeslali zbozi z vasi objednavky rezervaci c 201441983 Zasilka bude d",
+    "pepca_style": "p23aa4ad1bc699f8d",
+    "pepca_inline_style": "pc8e58881012d837c",
+    "word_count": 331,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "BRUMLA CZ Vase objednavka c 201441983 byla vyexpedovana",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1,
+    "phishing": {},
+    "header_from": "info@brumla.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/trans-ffbab9e2c1ef0c0a73a3e372a222bf85.eml",
+    "attachments": [
+        {
+            "sumphash": "dc5b5ace27d0916fed08dfee55dd0748",
+            "mime_type": "image/gif",
+            "flags": 0,
+            "size": 0,
+            "cid": "pic1.gif",
+            "cte": "BASE64",
+            "name": ""
+        },
+        {
+            "sumphash": "dc5b5ace27d0916fed08dfee55dd0748",
+            "mime_type": "image/gif",
+            "flags": 0,
+            "size": 0,
+            "cid": "pic2.gif",
+            "cte": "BASE64",
+            "name": ""
+        },
+        {
+            "sumphash": "dc5b5ace27d0916fed08dfee55dd0748",
+            "mime_type": "text/plain",
+            "flags": 0,
+            "size": 0,
+            "cte": "BASE64",
+            "name": "fa720.pdf"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p4f30f0b59f66b261"
+        },
+        {
+            "name": "pepca_style",
+            "value": "p23aa4ad1bc699f8d"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pc8e58881012d837c"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 2,
+                "domain": "brumla"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "brumla",
+        "plain_domain": "brumla",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 102356603.673382,
+                "domain": "brumla"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "kujeme za Vasi duveru a verime ze se k nam brzy a rad a vratite Detsky second hand BRUMLA CZ www brumla cz ",
+    "lang": "cs"
+}

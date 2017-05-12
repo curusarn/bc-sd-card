@@ -1,0 +1,104 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p50e22e77ebc1bfda",
+    "last10words": "mohli ve zpracovani Vasi objednavky vzorku zdarma pokracovat S pozdravem Pharma Nord ",
+    "pepca_style_total": 0,
+    "header_from": "noreply@pharmanord.com",
+    "first10words": " Dekujeme Vam ze jste se rozhodli vyzkouset pripravek Pharma Nord Pharma Nord Dekujeme Vam z",
+    "attachments": [],
+    "word_count": 127,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/04869865ee87c842fe26f51b992f7db5.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p50e22e77ebc1bfda"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p4b9f3c407efd97fe"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "pharmanord",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "tuev-nord",
+                "confidence": 1521686.995324
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "pharmanord",
+                "confidence": 2
+            }
+        ],
+        "domain_keywords": "tuev-nord",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "pharmanord",
+        "plain_domain_detail": [
+            {
+                "domain": "pharmanord",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Potvrdte prosim Vasi e mailovou adresu",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "p4b9f3c407efd97fe",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

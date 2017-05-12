@@ -1,0 +1,106 @@
+{
+    "phashes": [
+        {
+            "value": "p2a226b210946e348",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pa4e6f1549077013e",
+            "name": "pepca"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "bronislava.vlckova@brandproduct.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/ae2d58c63af1a0e7d06d83fe7003b0a4.eml.eml",
+    "attachments": [
+        {
+            "first10words": "Objednavka Forma uhrady Odberatel Brand product s r o KAMIROS",
+            "size": 77530,
+            "mime_type": "application/pdf",
+            "cte": "BASE64",
+            "flags": 0,
+            "lang": "cs",
+            "name": "Objedn\u00e1vka_15VO0045.pdf",
+            "pepca": "p2a226b210946e348",
+            "sumphash": "c24c551d7b761aeff4336dc65dd9229b"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "pepca": "pa4e6f1549077013e",
+    "phishing": {
+        "ner_domain_detected": true
+    },
+    "pepca_style": "",
+    "last10words": "meriz 767 01 tel 573342514 fax 573342515 mobil 725017295 e mail bronislava vlckova brandproduct cz skype brandproducts r o ",
+    "subject": "storno nova objednavka",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 18856392.9904097,
+                "domain": "skype"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "skype",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Prosim o storno objednane palety Harmasanu Namisto toho potrebujeme paletu Jumba 28 cm jednov Dekuji Bronislava Vlckova ",
+    "lang": "un",
+    "pepcatotal": 0,
+    "word_count": 36,
+    "adscore": 0,
+    "spamscore": 1.1
+}

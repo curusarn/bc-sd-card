@@ -1,0 +1,106 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pe209454b269b40bf",
+    "last10words": "odeslana na adresu dennytothova gmail com na vasi zadost Facebook Inc Attention Department 415 PO Box 10005 Palo Alto CA 94303 ",
+    "list_unsubscribe_urls": [
+        "https://www.facebook.com/o.php?k=AS1IZjkoesvcyZwZ&u=100000105286565&mid=ab90b35G5af316c0cba5G0G18eG2478135a"
+    ],
+    "header_from": "notification+zrdoc1fl1ic1@facebookmail.com",
+    "contains_list_header": true,
+    "pepcatotal": 0,
+    "attachments": [],
+    "word_count": 256,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/4dd7e4c8cb355af6ba6be15f506c086f.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pe209454b269b40bf"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p42424c62c9a5e751"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "facebookmail",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "ebay",
+                "confidence": 27543795.8669938
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "facebookmail",
+                "confidence": 1.02856363814912
+            }
+        ],
+        "domain_keywords": "ebay",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "facebook",
+        "plain_domain_detail": [
+            {
+                "domain": "facebook",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Obnoveni hesla k Facebooku",
+    "adscore": 0,
+    "first10words": " Facebook Mily uzivateli Denisa Vase heslo k Facebooku bylo obnoveno pomoci e mailove adresy dennytothova gmail com dne 28 rijen 2",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "p42424c62c9a5e751",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1,
+    "pepca_style_total": 0
+}

@@ -1,0 +1,103 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p84255f209c99ad76",
+    "last10words": "0256634a3fea8 Po navstiveni odkazu pro reset hesla Vam bude zaslano nove nahodne hesla k Vasemu uctu www kavakav cz ",
+    "pepca_style_total": 1,
+    "header_from": "info@kava-kav.cz",
+    "first10words": " Kava Kav Dobry den pokud chcete resetovat Vase heslo kliknete na nasledujici odkaz Vas zakaznicky uc",
+    "attachments": [],
+    "word_count": 86,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/8b1ef49ee1ff3213134958ec1d0806ff.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p84255f209c99ad76"
+        },
+        {
+            "name": "pepca_style",
+            "value": "p12811dfdb7947c3e"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p7dab36fd972a4c64"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "viwefix",
+                "confidence": 15902002.47933
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "viwefix",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "kavakav",
+        "plain_domain_detail": [
+            {
+                "domain": "kavakav",
+                "confidence": 2
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Reset hesla do zakaznickeho uctu",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "p12811dfdb7947c3e",
+    "pepca_inline_style": "p7dab36fd972a4c64",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

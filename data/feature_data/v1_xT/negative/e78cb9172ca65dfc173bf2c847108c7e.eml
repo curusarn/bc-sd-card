@@ -1,0 +1,151 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "module": "ill",
+            "score": 1.1
+        }
+    ],
+    "pepca": "p4031c9311954d71c",
+    "first10words": " Dobry den pani Vejnarova dekujeme za Vasi objednavku Zitra zavolame predem pred dodanim zbozi V priloze Vam zasilame foto po",
+    "pepca_style": "",
+    "pepca_inline_style": "pf47f3b6a7c0af190",
+    "word_count": 291,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Re objednavka snidanovy set",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.1,
+    "phishing": {
+        "5_top_domains_id_0": 0,
+        "5_top_domains_percent_1": 0.5,
+        "5_top_domains_percent_0": 0.5,
+        "5_top_domains_id_1": 1
+    },
+    "header_from": "ahaba.haushalt@email.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/e78cb9172ca65dfc173bf2c847108c7e.eml",
+    "attachments": [
+        {
+            "size": 216958,
+            "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "flags": 0,
+            "pepca": "p9d0011aa70c78fc3",
+            "first10words": "BL BL Sada dilna keramicka x salek ml x podsalek",
+            "cid": "m14a4d8d566dm6c6",
+            "cte": "BASE64",
+            "sumphash": "dccdaaf73b8edf3b5668565af1c6591b",
+            "name": "sada keramick\u00e1 BL2038.docx",
+            "lang": "un"
+        },
+        {
+            "size": 120092,
+            "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "flags": 0,
+            "pepca": "p35fe5a479289e895",
+            "first10words": "BL porcelanova sada dilna x salek ml x podsalek x",
+            "cid": "m14a4d8d86bem6cc",
+            "cte": "BASE64",
+            "sumphash": "b4fe9d6928c7c33ddbd4f8cb617ebf91",
+            "name": "BL 2039 3     porcel\u00e1nov\u00e1 sada 30 d\u00edln\u00e1.docx",
+            "lang": "un"
+        },
+        {
+            "size": 132363,
+            "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "flags": 0,
+            "pepca": "p798e26074c6216f3",
+            "first10words": "BL Sada dilna keramicka x salek ml x podsalek x",
+            "cid": "m14a4d8dae72m6d2",
+            "cte": "BASE64",
+            "sumphash": "37b10b7c65b4d3eb7773bfe97b694f98",
+            "name": "BL 2038.docx",
+            "lang": "cs"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p9d0011aa70c78fc3"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p35fe5a479289e895"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p798e26074c6216f3"
+        },
+        {
+            "name": "pepca",
+            "value": "p4031c9311954d71c"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pf47f3b6a7c0af190"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 2,
+                "domain": "gepard"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "masterinter",
+        "plain_domain": "gepard",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 25491228.990176,
+                "domain": "masterinter"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": " Jana Vejnarova Stefanikova 52 Praha 5 tel 257322000 l 26 www gepard cz ",
+    "lang": "cs"
+}

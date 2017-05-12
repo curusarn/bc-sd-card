@@ -1,0 +1,93 @@
+{
+    "phashes": [
+        {
+            "value": "p6724c65923574103",
+            "name": "pepca"
+        }
+    ],
+    "precedence": 1,
+    "header_from": "ge@linuxbox.org",
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing2/525.eml",
+    "attachments": [],
+    "contains_list_header": true,
+    "last10words": " botnets mailing list To report a botnet PRIVATELY please email c2report isotf org http www whitestar linuxbox org mailman listinfo botnets",
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "phishing": {
+        "ner_domain_detected": true
+    },
+    "pepca_style": "",
+    "pepca": "p6724c65923574103",
+    "subject": "Re botnets botnet is mare d",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 33129489.789499,
+                "domain": "qth"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "qth",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "list_unsubscribe_urls": [
+        "http://www.whitestar.linuxbox.org/mailman/listinfo/botnets",
+        "mailto:botnets-request@whitestar.linuxbox.org?subject=unsubscribe"
+    ],
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " To report a botnet PRIVATELY please email c2report isotf org Jay Lists wrote To report a botnet PRIVATELY please email c2report iso",
+    "lang": "en",
+    "pepcatotal": 0,
+    "word_count": 66,
+    "adscore": 0,
+    "spamscore": 1
+}

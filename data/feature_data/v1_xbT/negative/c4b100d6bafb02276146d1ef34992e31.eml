@@ -1,0 +1,116 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p236bcd50a9f097ef",
+    "last10words": " Mokeeva Volkova ",
+    "pepca_style_total": 0,
+    "header_from": "ds@euro-touch.com",
+    "first10words": " ",
+    "attachments": [
+        {
+            "name": "image001.jpg",
+            "pepca": "pd74402556cfb0655",
+            "cte": "BASE64",
+            "mime_type": "image/jpeg",
+            "cid": "image001.jpg@01D0185C.F7B18AD0",
+            "size": 5617,
+            "flags": 0,
+            "sumphash": "42f2fb84e368bf0af755bfaebbcaa2b9"
+        }
+    ],
+    "word_count": 228,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/c4b100d6bafb02276146d1ef34992e31.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "pd74402556cfb0655"
+        },
+        {
+            "name": "pepca",
+            "value": "p236bcd50a9f097ef"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p699f0e248ad901d5"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "kuponator",
+                "confidence": 70546975.3588
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "kuponator",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "euro-touch",
+        "plain_domain_detail": [
+            {
+                "domain": "euro-touch",
+                "confidence": 2
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "en",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "RE Objednavka Empire 16 12 STM 2x",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": true,
+        "5_top_domains_id_0": 0,
+        "5_top_domains_percent_0": 1.0
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "p699f0e248ad901d5",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

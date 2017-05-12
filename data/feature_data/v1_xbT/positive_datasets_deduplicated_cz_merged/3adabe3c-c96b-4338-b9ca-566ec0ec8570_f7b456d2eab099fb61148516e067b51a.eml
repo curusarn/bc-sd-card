@@ -1,0 +1,151 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p03887e7404b4bc28",
+    "last10words": "ikaz k uhrade vyrozumeni o zahajeni exekuce a vypucet povinnosti najdete v prilozenych souborech Za spravnost vyhotoveni Anna Zitova",
+    "pepca_style_total": 0,
+    "header_from": "bandwagons@2zsfm.applet.cz",
+    "first10words": " VYZVA K UHRADE DLUZNEHO PLNENI PRED PROVEDENIM EXEKUCE Soudni exekutor Grosam Jan JUDr Exekutorsky urad Sokolov mesto IC 270841",
+    "attachments": [
+        {
+            "name": "prikaz1589A54132842974.zip",
+            "pepca": "p7c156c9eb1c9c187",
+            "cte": "BASE64",
+            "mime_type": "application/zip",
+            "size": 34790,
+            "flags": 0,
+            "sumphash": "666f622df9c725d818d649385cf3ed42"
+        },
+        {
+            "mime_type": "application/octet-stream",
+            "name": "prikaz-18.08.2014-signed_7A3994A6626086292.scr",
+            "first10words": "MZ s I LI That program cannot be run in",
+            "pepca": "pb9b7ef16f8045ccd",
+            "lang": "un",
+            "cte": "PLAIN",
+            "exe_pepcas": [
+                ".text:p565e4c53c25967e5",
+                ".data:pf0be7baaac1d3edf",
+                ".rdata:p9235695883aade3c",
+                ".bss:p0a64fdb4e55c9481",
+                ".idata:p1a8cb58f09c97cda",
+                ".rsrc:p2257757453be9ead"
+            ],
+            "size": 58880,
+            "flags": 3,
+            "sumphash": "87b2fc05be7c3d4963b0b57e74ad08af"
+        }
+    ],
+    "word_count": 202,
+    "email_path": "/mfs/replicated/datasets/phishing/datasets/deduplicated_cz_phish_merged/f7b456d2eab099fb61148516e067b51a.eml",
+    "phashes": [
+        {
+            "name": "att-pepca:exe-sec",
+            "value": ".text:p565e4c53c25967e5"
+        },
+        {
+            "name": "att-pepca:exe-sec",
+            "value": ".data:pf0be7baaac1d3edf"
+        },
+        {
+            "name": "att-pepca:exe-sec",
+            "value": ".rdata:p9235695883aade3c"
+        },
+        {
+            "name": "att-pepca:exe-sec",
+            "value": ".bss:p0a64fdb4e55c9481"
+        },
+        {
+            "name": "att-pepca:exe-sec",
+            "value": ".idata:p1a8cb58f09c97cda"
+        },
+        {
+            "name": "att-pepca:exe-sec",
+            "value": ".rsrc:p2257757453be9ead"
+        },
+        {
+            "name": "att-pepca-risky",
+            "value": "p7c156c9eb1c9c187"
+        },
+        {
+            "name": "att-pepca",
+            "value": "pb9b7ef16f8045ccd"
+        },
+        {
+            "name": "pepca",
+            "value": "p03887e7404b4bc28"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "exekuce",
+                "confidence": 19395127.4680324
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "exekuce",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Exekucni prikaz 018598 2014 537",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

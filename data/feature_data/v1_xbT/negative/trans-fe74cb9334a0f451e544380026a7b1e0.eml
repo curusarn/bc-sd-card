@@ -1,0 +1,108 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p1299ef178889d748",
+    "last10words": " Postovne A 120 Kc Cena k platbe celkem 423 00 Kc radku 5 mnozstvi 10 ",
+    "pepca_style_total": 0,
+    "header_from": "obchod@semo.cz",
+    "first10words": " Objednavka SEMO OBJEDNAVKA C 1074720150113 Dekujeme za Vasi objednavku c 1074720150113 ze dne 13 01 2015 Tento automaticky e",
+    "attachments": [
+        {
+            "name": "objc_1074720150113.csv",
+            "cte": "BASE64",
+            "mime_type": "text/comma-separated-values",
+            "size": 84,
+            "flags": 0,
+            "sumphash": "2f7cd6ccad89a5c8d8aa3ae6db1c31a3"
+        }
+    ],
+    "word_count": 386,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/trans-fe74cb9334a0f451e544380026a7b1e0.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p1299ef178889d748"
+        },
+        {
+            "name": "pepca_style",
+            "value": "p1af399cc294394b2"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "masterinter",
+                "confidence": 12745614.495088
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "masterinter",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "semo",
+        "plain_domain_detail": [
+            {
+                "domain": "semo",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Internetova objednavka SEMO c 1074720150113",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "p1af399cc294394b2",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

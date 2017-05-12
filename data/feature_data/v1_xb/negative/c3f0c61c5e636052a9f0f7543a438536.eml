@@ -1,0 +1,112 @@
+{
+    "phashes": [
+        {
+            "value": "p52397960ee785adc",
+            "name": "pepca"
+        },
+        {
+            "value": "p0dd0aac1dab55ebe",
+            "name": "pepca_style"
+        },
+        {
+            "value": "pcd02f1740c66392c",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "noreply@plus500.com",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/c3f0c61c5e636052a9f0f7543a438536.eml",
+    "unsub_link_candidates": [
+        "http://sndgrd.plus500.com/wf/click?upn=LWNpzcRuG9rmx6UskeIJVxg4MvtY1pmsBWyi0gl-2B-2FyIrb9Lt9uhR1JpwMz-2FnFQJkMsy5EO2MLxmyvYsNXMxnAA-3D-3D_ufZmpBI6XlC-2BVsu5hICUFIx8NcuBYUgtCGKq7b3b-2BjaxHB9es3CFItus2cagTaJeLypU5QScbrBccHq3e3gaTu4h1ObVeIE2lsWIRAc5j0yCVdrrcVYqtL2kp85AY2gDKh1o9oPeAi8VNFhd1FqLMxpmxPAKtfkdgcLQHUtG7zQSXHaAfLN-2FBl4eY4YU-2FNSs5jZ8C8gxlsOFJloiu9-2BuO8u-2BQ-2F-2FCKPiMuOz-2B9-2FCX2O-2B0wWBvlKwk7wlixe1UhXdlp0PtpjFKvx1uNYXPy765vg-3D-3D",
+        "http://sndgrd.plus500.com/wf/click?upn=LWNpzcRuG9rmx6UskeIJV0eZutf7PhELiwPuq-2B6eeZi2KsoQkpwD1XloeIdtKXdvbNvpgs89D5rRf8aBWF-2FG7M8BHIRxChWO-2Bi20LM7VpVoW2I-2B8qBcbHwZT8NmuBhnm_ufZmpBI6XlC-2BVsu5hICUFIx8NcuBYUgtCGKq7b3b-2BjaxHB9es3CFItus2cagTaJeLypU5QScbrBccHq3e3gaTn35fs6fN3-2Bvrs1Smk2bl-2BqYxHTcdoLlPdXBKJjJyeWlKd-2FEMxCLQKYx-2FSxXgiqoucyV-2F51o3i-2BDhBeqYN5VWVVTcMfp7uTIANIyyakv7xxUuFnViz5dDwX-2BZ3M4S9IolYNYCWqkgLzQj8XqrMk01npK5LD2VuVPIGJiRgdjVN8BV-2BtoXV1mzE-2B7nsGOA1TYGg-3D-3D"
+    ],
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "pepca": "p52397960ee785adc",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "p0dd0aac1dab55ebe",
+    "last10words": "u Registracni cislo Urad pro financni spravu 509909 Kliknete zde pro zruseni odberu zprav ",
+    "subject": "Vase nove heslo",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 8,
+                "domain": "plus500"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 41153722.879568,
+                "domain": "plus500"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "plus500",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "plus500",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "pcd02f1740c66392c",
+    "unsub_link_texts": [
+        " linkedin linkedin tento e mail byt obdrzet proto ze pouzivat obchodny platforma plus a v predvolba mit",
+        "kliknout zde pro zruseni odber zprava "
+    ],
+    "unsub_link": "http://sndgrd.plus500.com/wf/click?upn=LWNpzcRuG9rmx6UskeIJV0eZutf7PhELiwPuq-2B6eeZi2KsoQkpwD1XloeIdtKXdvbNvpgs89D5rRf8aBWF-2FG7M8BHIRxChWO-2Bi20LM7VpVoW2I-2B8qBcbHwZT8NmuBhnm_ufZmpBI6XlC-2BVsu5hICUFIx8NcuBYUgtCGKq7b3b-2BjaxHB9es3CFItus2cagTaJeLypU5QScbrBccHq3e3gaTn35fs6fN3-2Bvrs1Smk2bl-2BqYxHTcdoLlPdXBKJjJyeWlKd-2FEMxCLQKYx-2FSxXgiqoucyV-2F51o3i-2BDhBeqYN5VWVVTcMfp7uTIANIyyakv7xxUuFnViz5dDwX-2BZ3M4S9IolYNYCWqkgLzQj8XqrMk01npK5LD2VuVPIGJiRgdjVN8BV-2BtoXV1mzE-2B7nsGOA1TYGg-3D-3D",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Plus500 Mechanismus svetoveho obchodu Vase nove heslo je zqhgcb Pro",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 299,
+    "adscore": 0,
+    "spamscore": 1.1
+}

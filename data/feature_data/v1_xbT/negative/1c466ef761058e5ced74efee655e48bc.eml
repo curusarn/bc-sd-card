@@ -1,0 +1,143 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "ped8548574ef61c0d",
+    "last10words": " www mitrenga cz A A A A A A A A A A A A A A A A A A A ",
+    "pepca_style_total": 0,
+    "header_from": "servis@mitrenga.cz",
+    "first10words": " Dobry den A VA priloze Vam zasilam fakturu za dopravu kA oprave cisterny Meprozet Dekuji A ",
+    "attachments": [
+        {
+            "name": "image001.jpg",
+            "pepca": "p24b254bf27f7ae39",
+            "cte": "BASE64",
+            "mime_type": "image/jpeg",
+            "cid": "image001.jpg@01D0185C.3D999E80",
+            "size": 3266,
+            "flags": 0,
+            "sumphash": "67761731cfe24e680e44bb6aa5d0389c"
+        },
+        {
+            "name": "image002.jpg",
+            "pepca": "pfefc7d6615eacc09",
+            "cte": "BASE64",
+            "mime_type": "image/jpeg",
+            "cid": "image002.jpg@01D0185C.3D999E80",
+            "size": 2563,
+            "flags": 0,
+            "sumphash": "898014f053613d567ce524d5e5c133c3"
+        },
+        {
+            "mime_type": "application/pdf",
+            "name": "Faktura 22142372.PDF",
+            "first10words": "Dod u t MTTRENGA Kiiv nky Brno provozovna Stiitez okr",
+            "pepca": "p0719c38ddfdd7c63",
+            "lang": "un",
+            "cte": "BASE64",
+            "size": 887669,
+            "flags": 0,
+            "sumphash": "1e21dafa83f46d00f6ed4f5fa06879fd"
+        }
+    ],
+    "word_count": 185,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/1c466ef761058e5ced74efee655e48bc.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p24b254bf27f7ae39"
+        },
+        {
+            "name": "att-pepca",
+            "value": "pfefc7d6615eacc09"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p0719c38ddfdd7c63"
+        },
+        {
+            "name": "pepca",
+            "value": "ped8548574ef61c0d"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pbdf52e8e88477cbc"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "pizzaprotebe",
+                "confidence": 1112421.72469
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "pizzaprotebe",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "mitrenga",
+        "plain_domain_detail": [
+            {
+                "domain": "mitrenga",
+                "confidence": 2
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Faktura",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "pbdf52e8e88477cbc",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

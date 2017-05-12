@@ -1,0 +1,112 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "module": "ill",
+            "score": 1.1
+        }
+    ],
+    "pepca": "pc37a17600c6f47dd",
+    "first10words": " Postbank Online Banking Sehr geehrter Kunde Unser neues Schutzystem kann Ihnen helfen A ftere betrA gerischen Transaktionen",
+    "pepca_style": "",
+    "pepca_inline_style": "p446bfc7d74596148",
+    "word_count": 128,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Identifizierung des Kunden von der Postbank Ref 451 ",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.1,
+    "phishing": {},
+    "header_from": "Kontounterstutzung-19@postbank.de",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/20051114/175.eml",
+    "attachments": [
+        {
+            "size": 894,
+            "mime_type": "image/gif",
+            "flags": 0,
+            "pepca": "p8987cbd0d5054834",
+            "cid": "ca11a2e9ebd5$c0ea7a00$aa0a281b@postbank.de",
+            "cte": "BASE64",
+            "sumphash": "42f6279cd11ba0ccbe1f407ddae92b6c",
+            "name": "wgjwkb.gif"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p8987cbd0d5054834"
+        },
+        {
+            "name": "pepca",
+            "value": "pc37a17600c6f47dd"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p446bfc7d74596148"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "postbank"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "ebay",
+        "plain_domain": "postbank",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 219998147.10672,
+                "domain": "ebay"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "g id 2135443 Mon 22 Aug 200504 02 20accuracy Copyright A 2005A A Deutsche Postbank AG A A Alle Rechte sind vorbehalten ",
+    "lang": "de"
+}

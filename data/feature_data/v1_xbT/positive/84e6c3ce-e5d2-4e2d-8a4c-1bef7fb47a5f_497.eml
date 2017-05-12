@@ -1,0 +1,111 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p07bd1f6355b16bea",
+    "last10words": "O7 X4H serv 0SV SG3K FA0 SII hex revision start Z2Z0 C5L root 0x29 0x91 0x4 0x257 0x13 0x0149 0x7663 0x550 0x7 0x74821544 ",
+    "pepca_style_total": 0,
+    "header_from": "service.refud170882020398fd.cm@bbt.com",
+    "first10words": " 0x442 0x34 0x02 0x056 0x781 0x2603 0x28 0x689 0x3 NT0M 0x47603317 0x2 0x1554 0x41794325 0x3 0x6 0x52 E0ZE 79TP tm",
+    "attachments": [
+        {
+            "name": "cargill.gif",
+            "pepca": "p965afc05125dd658",
+            "cte": "BASE64",
+            "mime_type": "image/gif",
+            "cid": "554S7SLK7E",
+            "size": 9536,
+            "flags": 0,
+            "sumphash": "45b013bca865003430bdabb377f32211"
+        }
+    ],
+    "word_count": 51,
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/497.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p965afc05125dd658"
+        },
+        {
+            "name": "pepca",
+            "value": "p07bd1f6355b16bea"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "friday-ad",
+                "confidence": 1510815.1364
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "friday-ad",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "un",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Confirm your identity message id 8416078109332 ",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": true,
+        "5_top_domains_id_1": 0,
+        "5_top_domains_percent_1": 0.25,
+        "5_top_domains_percent_3": 0.25,
+        "5_top_domains_id_0": 1,
+        "5_top_domains_percent_0": 0.25,
+        "5_top_domains_id_2": 1,
+        "5_top_domains_percent_2": 0.25,
+        "5_top_domains_id_3": 0
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

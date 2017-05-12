@@ -1,0 +1,104 @@
+{
+    "phashes": [
+        {
+            "value": "pa0851f4284801e3d",
+            "name": "pepca"
+        },
+        {
+            "value": "pc7fa29a5c3e165bf",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "express@studentagency.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/249341.eml",
+    "unsub_link_candidates": [
+        "https://jizdenky.studentagency.cz/Settings"
+    ],
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "pepca": "pa0851f4284801e3d",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": "opravy spolecnosti STUDENT AGENCY Pokud nechcete automaticky dostavat emaily o zmenach v rezervacich provedte zmenu v sekci nastaveni ",
+    "subject": "Zaplaceni doplnkovych sluzeb k jizdence 3222427202",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 37427573.18645,
+                "domain": "studentagency"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "studentagency",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "studentagency",
+        "plain_domain_detail": [
+            {
+                "confidence": 2,
+                "domain": "studentagency"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "pc7fa29a5c3e165bf",
+    "unsub_link_texts": [
+        "pokud nechtit automaticky dostavat email o zmena v rezervace provest zmena v sekce nastaveni "
+    ],
+    "unsub_link": "https://jizdenky.studentagency.cz/Settings",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Zaplaceni doplnkovych sluzeb k jizdence 3222427202 Sluzba Stav Parkovani v Zabrehu ZDARMA Platny Platne od 11 9 14 7 14",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 119,
+    "adscore": 0,
+    "spamscore": 1
+}

@@ -1,0 +1,118 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pf19c780788e9ce85",
+    "last10words": "nformace od ESET NOD32 Antivirus verze databaze 10999 20150112 Tuto zpravu proveril ESET NOD32 Antivirus http www eset cz ",
+    "pepca_style_total": 0,
+    "header_from": "fakturace@climbing.cz",
+    "first10words": " Dobry den bunda konecne dorazila Behem zitrka Vam vystavim fakturu a zbozi odeslu ",
+    "attachments": [
+        {
+            "name": "image001.png",
+            "pepca": "p974c60182fa8f342",
+            "cte": "BASE64",
+            "mime_type": "image/png",
+            "cid": "image001.png@01D02E77.02593110",
+            "size": 3898,
+            "flags": 0,
+            "sumphash": "8137f2408a77f190408b4839e86a9e8c"
+        }
+    ],
+    "word_count": 457,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/1a524b49e43caa0d07673a47f7cfddf9.eml.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p974c60182fa8f342"
+        },
+        {
+            "name": "pepca",
+            "value": "pf19c780788e9ce85"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p60206fac417c733d"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "eset",
+                "confidence": 88810086.862278
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "eset",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "climbing",
+        "plain_domain_detail": [
+            {
+                "domain": "climbing",
+                "confidence": 2
+            },
+            {
+                "domain": "eset",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "RE objednavka",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "p60206fac417c733d",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

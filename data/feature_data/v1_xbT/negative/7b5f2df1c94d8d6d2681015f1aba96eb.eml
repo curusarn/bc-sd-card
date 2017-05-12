@@ -1,0 +1,110 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p682820115ec60692",
+    "last10words": "secka 852 66 190 00 Praha 9 Prosek zapsana v obchodnim rejstriku Mestskeho soudu v Praze oddil C vlozka 88159 IC 26698714 ",
+    "list_unsubscribe_urls": [
+        "klub@reserved.cz"
+    ],
+    "unsub_link_texts": [
+        "  neprat li si aby vy byt obchodny sdeleni odesilatel nadale zasilan kliknout",
+        "neprat li si aby vy byt obchodny sdeleni odesilatel nadale zasilan kliknout zde "
+    ],
+    "header_from": "klub@reserved.cz",
+    "contains_list_header": true,
+    "pepcatotal": 0,
+    "attachments": [],
+    "word_count": 414,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/7b5f2df1c94d8d6d2681015f1aba96eb.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p682820115ec60692"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pfe7fff0b8bda08fc"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "reserved",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "mcsv",
+                "confidence": 30075146.0241123
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "reserved",
+                "confidence": 26
+            }
+        ],
+        "domain_keywords": "mcsv",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Aktualizace hesla",
+    "adscore": 0,
+    "first10words": " Aktualizace hesla Pri potizich se zobrazenim otevrete webovou verzi Aktualni pocet bodu 3598 bod",
+    "unsub_link": "http://www.reserved.cz/email/l/8c89b96e3658dbf35d681ffc43/88c1329b938/?u=http%3A%2F%2Fwww.reserved.cz%2Femail%2Fu%2F8c89b96e3658dbf35d681ffc43",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "unsub_link_candidates": [
+        "http://www.reserved.cz/email/l/8c89b96e3658dbf35d681ffc43/8ec4e199b3d/?u=https%3A%2F%2Fwww.reserved.cz%2Fkontakt.html",
+        "http://www.reserved.cz/email/l/8c89b96e3658dbf35d681ffc43/88c1329b938/?u=http%3A%2F%2Fwww.reserved.cz%2Femail%2Fu%2F8c89b96e3658dbf35d681ffc43"
+    ],
+    "pepca_inline_style": "pfe7fff0b8bda08fc",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1,
+    "pepca_style_total": 0
+}

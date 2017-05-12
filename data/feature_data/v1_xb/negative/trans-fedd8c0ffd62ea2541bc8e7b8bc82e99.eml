@@ -1,0 +1,104 @@
+{
+    "phashes": [
+        {
+            "value": "p0055a67609e7eb11",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p49c6a9d6241d465d",
+            "name": "pepca"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "noreply@carparts-cat.com",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/trans-fedd8c0ffd62ea2541bc8e7b8bc82e99.eml",
+    "attachments": [
+        {
+            "size": 1140,
+            "name": "Order3077984-20150113111955194.xml",
+            "cte": "BASE64",
+            "flags": 0,
+            "sumphash": "c1ed152669fb8a305939dc4b863331cd",
+            "pepca": "p0055a67609e7eb11",
+            "mime_type": "text/plain"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "long_subject"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.5
+            ],
+            "score": 1.5
+        }
+    ],
+    "pepca": "p49c6a9d6241d465d",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": " Jitka Pivonkova Jitka Pivonkova Hodonin 5 67971 Lysice C zakaznika 201864 Telefon 603 456 549 e mail autodilyblansko seznam cz ",
+    "subject": "Vase objednavka z 13 1 2015 11 19 55 Cislo objednavky 20150113111955194 Cislo zakazky 3077984",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 38236843.485264,
+                "domain": "masterinter"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "masterinter",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Ordermail Cislo objednavky 3077984 20150113111955194 C zakaznika 201864 Datum objednavky 13 1 2015 11 19 55 C zbo",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 114,
+    "adscore": 0,
+    "spamscore": 1.5
+}

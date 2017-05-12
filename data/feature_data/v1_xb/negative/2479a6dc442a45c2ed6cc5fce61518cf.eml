@@ -1,0 +1,122 @@
+{
+    "phashes": [
+        {
+            "value": "pc9c590b32262cdc9",
+            "name": "pepca"
+        },
+        {
+            "value": "pc7ad7d0d0a5d2bff",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "noreply@blendr.com",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/2479a6dc442a45c2ed6cc5fce61518cf.eml",
+    "unsub_link_candidates": [
+        "http://eu1.blendr.com/impersonation.phtml?lang_id=16&email=msms1%40seznam.cz&block_code=b1df1a&m=8&mid=545805140000003c0010004d0468721403bfdafe0000&g=0-0-1"
+    ],
+    "attachments": [],
+    "contains_list_header": true,
+    "last10words": "trovana v Anglii a Walesu pod cislem CRN 7540255 se sidlem na adrese Media Village 131 151 Great Titchfield Street Londyn W1W 5BB ",
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "images_in_subject"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                1
+            ],
+            "score": 2
+        }
+    ],
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca": "pc9c590b32262cdc9",
+    "subject": " Dokoncete vasi Blendr registraci ",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 1,
+                "domain": "badoo"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 133088442.44334,
+                "domain": "badoo"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "badoo",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "badoo",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "pc7ad7d0d0a5d2bff",
+    "unsub_link_texts": [
+        "neprat li si jiz od badoo dostavat dalsi e mail kliknout zde a odhlasit se"
+    ],
+    "list_unsubscribe_urls": [
+        "mailto:unsubscribe+8_2541033663843662848_16_169dc5@badoo.com?subject=w+cComi7urDaRNhNeAlAnDEOlLsexJ6OjtQnrZ9EMpo"
+    ],
+    "unsub_link": "http://eu1.blendr.com/impersonation.phtml?lang_id=16&email=msms1%40seznam.cz&block_code=b1df1a&m=8&mid=545805140000003c0010004d0468721403bfdafe0000&g=0-0-1",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "adNotches": [
+        {
+            "module": "ill",
+            "name": [
+                "images_in_subject"
+            ],
+            "subscores": [
+                5
+            ],
+            "score": 5
+        }
+    ],
+    "pepca_inline_style_total": 0,
+    "first10words": " Dokoncete vasi Blendr registraci Jste skoro tam Chcete li dokoncit vasi registraci a poznavat super lidi na Blendr pak ",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 142,
+    "adscore": 5,
+    "spamscore": 2
+}

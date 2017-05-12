@@ -1,0 +1,122 @@
+{
+    "phashes": [
+        {
+            "value": "p186259fd5acc63f9",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pcb8d9f0270e74f77",
+            "name": "pepca"
+        },
+        {
+            "value": "pbd6e4392817c15ab",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "malyhorak@seznam.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/eab0894367b23ae4e37e1ebd466dccf0.eml",
+    "attachments": [
+        {
+            "first10words": "Head Stock Unit KOAX The hydraulic unit consists of particular",
+            "name": "AJ-Podklady pro p\u0159eklad 508311.doc",
+            "mime_type": "application/msword",
+            "cte": "BASE64",
+            "flags": 0,
+            "lang": "en",
+            "cid": "m14a4d8f1689m520",
+            "size": 28672,
+            "pepca": "p186259fd5acc63f9",
+            "sumphash": "f69878a6dd570c8fc43eabe03f79c2d8"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1,
+                0.1
+            ],
+            "score": 1.2
+        }
+    ],
+    "pepca": "pcb8d9f0270e74f77",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": " HYDAC spol s r o Tel 420 381 201 662 tupova pavlina hydac cz www hydac cz ",
+    "subject": "Re objednavka prekladu 508311",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 3268237.11925832,
+                "domain": "hydac"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "hydac",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "hydac",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "hydac"
+            },
+            {
+                "confidence": 1,
+                "domain": "technickypreklad"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "pbd6e4392817c15ab",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Vazena pani Tupova zasilam predmetny preklad vysel mi celkem na 1 0 NS takze tradicne prosim o potvrzeni ci vyvrace",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 132,
+    "adscore": 0,
+    "spamscore": 1.2
+}

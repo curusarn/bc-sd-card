@@ -1,0 +1,135 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "module": "ill",
+            "score": 1.1
+        }
+    ],
+    "pepca": "p3b66c9916f63fc4e",
+    "first10words": " Vazeny zakazniku dekujeme Vam za provedeny nakup v nasem e shopu Timto e mailem potvrzujeme ze jsme v poradku obdr",
+    "pepca_style": "",
+    "pepca_inline_style": "p358c30b0a6e5ad3d",
+    "word_count": 265,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Objednavka zbozi 2014001575",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.1,
+    "phishing": {},
+    "header_from": "info@obchodhracek.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/a3276febfa99a5eafabe69b7210bf186.eml",
+    "attachments": [
+        {
+            "size": 63709,
+            "mime_type": "image/jpeg",
+            "flags": 0,
+            "pepca": "p4c13a2ba8bcc280a",
+            "cid": "logoimg",
+            "cte": "BASE64",
+            "sumphash": "a5999558bd8d5487c2697b15a5ca84f4",
+            "name": "logo_newsletter.jpg"
+        },
+        {
+            "size": 1050,
+            "mime_type": "image/jpeg",
+            "flags": 0,
+            "pepca": "pfb2b48b979d140a0",
+            "cid": "logodoprava",
+            "cte": "BASE64",
+            "sumphash": "b317f2a2ea61c1a7ca0bf48bfc0ffbfa",
+            "name": "1405262572_small_32.png"
+        },
+        {
+            "size": 2096,
+            "mime_type": "image/jpeg",
+            "flags": 0,
+            "pepca": "pdc5ed038b7683157",
+            "cid": "logoplatba",
+            "cte": "BASE64",
+            "sumphash": "ede839ca9f71597c6dc9e485651c497d",
+            "name": "1403208974_small_32.png"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p4c13a2ba8bcc280a"
+        },
+        {
+            "name": "att-pepca",
+            "value": "pfb2b48b979d140a0"
+        },
+        {
+            "name": "att-pepca",
+            "value": "pdc5ed038b7683157"
+        },
+        {
+            "name": "pepca",
+            "value": "p3b66c9916f63fc4e"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p358c30b0a6e5ad3d"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "masterinter",
+        "plain_domain": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 50982457.980352,
+                "domain": "masterinter"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": " prevzeti zbozi Uctovana polozka cena Zbozi 459 00Kc Cena za dopravu 119 00Kc Zbyva uhradit 578 00Kc ",
+    "lang": "cs"
+}

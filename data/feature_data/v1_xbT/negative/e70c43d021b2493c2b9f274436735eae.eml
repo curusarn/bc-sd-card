@@ -1,0 +1,133 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pcf1263a5922c6a5a",
+    "last10words": "a cena vc DPH 5 499 Kc POZNAMKA Potvrzenim objednavky zakaznik souhlasil s obchodnimi podminkami ",
+    "pepca_style_total": 0,
+    "header_from": "obchod@wap-cz.cz",
+    "first10words": " Dobry den na nasem ucte je v teto chvili pouze castka bez dopravy 5 499 Kc Pokud chcete stroje poslat je tr",
+    "attachments": [
+        {
+            "name": "image003.png",
+            "pepca": "p7adba4a23597c593",
+            "cte": "BASE64",
+            "mime_type": "image/png",
+            "cid": "image003.png@01D01857.B4A97450",
+            "size": 3119,
+            "flags": 0,
+            "sumphash": "3ebcd0418f2ae819e894936ce0ffa0dc"
+        },
+        {
+            "mime_type": "application/pdf",
+            "name": "14464.pdf",
+            "first10words": "Brankovice Marcela Trundova Valesova Zahradni Brankovice Wap CZ s r",
+            "pepca": "p09a71ad77df56494",
+            "lang": "cs",
+            "cte": "QPRINT",
+            "size": 33717,
+            "flags": 0,
+            "sumphash": "2f63c1c1df4a342b7e47f5d098795f8d"
+        }
+    ],
+    "word_count": 917,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/e70c43d021b2493c2b9f274436735eae.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p7adba4a23597c593"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p09a71ad77df56494"
+        },
+        {
+            "name": "pepca",
+            "value": "pcf1263a5922c6a5a"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p28a590edbf6ffca8"
+        }
+    ],
+    "spamscore": 1.6,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "masterinter",
+                "confidence": 25491228.990176
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "masterinter",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "wap-cz",
+        "plain_domain_detail": [
+            {
+                "domain": "wap-cz",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "FW Objednavka obchod wap cz cz 9914121201 Celkova cena 5 499CZK",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": true,
+        "5_top_domains_id_0": 0,
+        "5_top_domains_percent_0": 1.0
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "p28a590edbf6ffca8",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id",
+                "long_subject"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1,
+                0.5
+            ],
+            "score": 1.6,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

@@ -1,0 +1,130 @@
+{
+    "phashes": [
+        {
+            "value": "pe2517214f14e62c1",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pae241ef40722c444",
+            "name": "pepca"
+        },
+        {
+            "value": "pb8784ee70f77d0af",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "jitulinaX@seznam.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/bbe94ee1a1e214512f142c69c9ceba8c.eml",
+    "unsub_link_candidates": [
+        "mailto:porcal.m@seznam.cz"
+    ],
+    "attachments": [
+        {
+            "size": 4565,
+            "name": "1409750.jpg",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "596193841",
+            "sumphash": "2237a2bcfee720a1d8adb6d911600313",
+            "pepca": "pe2517214f14e62c1",
+            "mime_type": "image/jpeg"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "pepca": "pae241ef40722c444",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": "622535 jazyk cs Tato zprava neobsahuje viry ani jiny skodlivy kod avast Antivirus je aktivni ",
+    "subject": "Re FW Objednavka z E shopu Orisek",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 1,
+                "domain": "volny"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 25491228.990176,
+                "domain": "masterinter"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "volny",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "masterinter",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "avast",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "avast"
+            },
+            {
+                "confidence": 1,
+                "domain": "ek"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "pb8784ee70f77d0af",
+    "unsub_link_texts": [
+        "zpusob odber osobni odber zpusob uhrada osobni odber odberatel miroslav porcal kounov cr e mail porcal m seznam cz telefon dorucovaci adresa miroslav porcal kounov cr dodavatel obuv janin hracka orisek orisek minicka logisticky"
+    ],
+    "unsub_link": "mailto:porcal.m@seznam.cz",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Ano prosim odber v Kralupech od 15hod Dekuji Puvodni zprava Od hrackyorisek hrackyorisek orisek eu Komu ",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 746,
+    "adscore": 0,
+    "spamscore": 1.1
+}

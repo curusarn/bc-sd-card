@@ -1,0 +1,97 @@
+{
+    "phashes": [
+        {
+            "value": "p9793a60e475b2897",
+            "name": "pepca"
+        },
+        {
+            "value": "pb060cc4c6d5d2923",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 2,
+    "header_from": "noreply-62aa6334@plus.google.com",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/6c822baa8f67040a10418c92d921df36.eml",
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "pepca": "p9793a60e475b2897",
+    "phishing": {
+        "ner_domain_detected": true
+    },
+    "pepca_style": "",
+    "last10words": "su do sveho profilu nepridal muzete tuto zpravu ignorovat Google Inc 1600 Amphitheatre Pkwy Mountain View CA 94043 USA ",
+    "subject": "Overeni e mailove adresy mp pce seznam cz",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 1,
+                "domain": "youtube"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 50250633.8681593,
+                "domain": "google"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "youtube",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "google",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "pb060cc4c6d5d2923",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Vazeny Milos Polak kliknete na tlacitko pro overeni a overte adresu mp pce seznam cz ve svem profilu Google Overit Dekujem",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 87,
+    "adscore": 0,
+    "spamscore": 1
+}

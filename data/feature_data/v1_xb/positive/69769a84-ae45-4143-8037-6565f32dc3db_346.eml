@@ -1,0 +1,103 @@
+{
+    "phashes": [
+        {
+            "value": "p12c0cb094e994945",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p044de2ad4b715fbc",
+            "name": "pepca"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "customerssupport_40191897id@53.com",
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/346.eml",
+    "attachments": [
+        {
+            "size": 8143,
+            "name": "bicker.gif",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "JDNCJ1VNM9",
+            "sumphash": "c4cdc93c161cb7ce7f0cd26e5221e7fc",
+            "pepca": "p12c0cb094e994945",
+            "mime_type": "image/gif"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "pepca": "p044de2ad4b715fbc",
+    "phishing": {
+        "ner_domain_detected": true
+    },
+    "pepca_style": "",
+    "last10words": "eep again It ran down the sides tasted the fluid that had pooled along the outer edge of the paper pile and shot up yellow counterintuitive ",
+    "subject": "Important notice from Fifth Third Bank",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 44820383.4806638,
+                "domain": "ebay"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "ebay",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " In my job I saw dozens of people die hundreds now that I think about it befallen ainu The pages stuttered through his fingers ",
+    "lang": "en",
+    "pepcatotal": 0,
+    "word_count": 142,
+    "adscore": 0,
+    "spamscore": 1
+}

@@ -1,0 +1,112 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p5dd30efdaaa7980a",
+    "last10words": "mail cz Tento e mail jsi dostal protoze ses zaregistroval do Goodgame Empire Copyright 2014 Goodgame Studios VOP Ochrana dat ",
+    "list_unsubscribe_urls": [
+        "http://ref.goodgame.com/r/link/5d222II6fdfc0355II605275b1d000000II78c33c006352a60bII7005ccccfII3/ref.goodgame.com%2Fr%2Funsubscribe%2F0II605275b1d000000II78c33c006352a60bII7005ccccfII3"
+    ],
+    "unsub_link_texts": [
+        "jit pokud uzit nechtit dostavat e mail od goodgame moct je odhlasit "
+    ],
+    "header_from": "mail@news.goodgame.com",
+    "contains_list_header": true,
+    "pepcatotal": 0,
+    "attachments": [],
+    "word_count": 863,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/258832.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p5dd30efdaaa7980a"
+        },
+        {
+            "name": "pepca_style",
+            "value": "peea719699bae3358"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p73eb4b9c727efc7c"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "goodgame",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "emsmtp",
+                "confidence": 158580020.67739
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "goodgame",
+                "confidence": 17
+            }
+        ],
+        "domain_keywords": "emsmtp",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Hraci Oukland Dave potvrd svoji adresu",
+    "adscore": 0,
+    "first10words": " Hraci Oukland Dave potvrd svoji adresu Ahoj Oukland Dave Dekujeme ti za registraci v Goodgame Empire Ab",
+    "unsub_link": "http://ref.goodgame.com/r/link/28f6cII6fdfc013eII605275b1d000000II78c33c006352a60bII7005ccccfII3/1409274f7920b9a71a509e",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "peea719699bae3358",
+    "unsub_link_candidates": [
+        "http://ref.goodgame.com/r/link/28f6cII6fdfc013eII605275b1d000000II78c33c006352a60bII7005ccccfII3/1409274f7920b9a71a509e"
+    ],
+    "pepca_inline_style": "p73eb4b9c727efc7c",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1,
+    "pepca_style_total": 0
+}

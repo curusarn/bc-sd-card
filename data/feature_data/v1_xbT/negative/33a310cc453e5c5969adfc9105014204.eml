@@ -1,0 +1,112 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p814d1582570d4090",
+    "last10words": "kajici se naseho e mailoveho seznamu nevahejte nas kontaktovat e kucharky prakulproduction cz ",
+    "pepca_style_total": 0,
+    "unsub_link_texts": [
+        " email marketing powered by mailchimp mailchimp email marketing "
+    ],
+    "header_from": "e-kucharky@prakulproduction.cz",
+    "unsub_link_candidates": [
+        "http://www.mailchimp.com/monkey-rewards/?utm_source=freemium_newsletter&utm_medium=email&utm_campaign=monkey_rewards&aid=011a5387cce037c65169c0689&afl=1"
+    ],
+    "first10words": " Prakul e Kucharky E Kucharky od PRAKUL Production Edice elektronickych kucharek pro Vas iPad iPhone",
+    "attachments": [],
+    "word_count": 154,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/33a310cc453e5c5969adfc9105014204.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p814d1582570d4090"
+        },
+        {
+            "name": "pepca_style",
+            "value": "p25dfe2e5dd31555e"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pc2daf062bc422af8"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "snowboardel",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "raketa",
+                "confidence": 4789251.0077
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "snowboardel",
+                "confidence": 1
+            },
+            {
+                "domain": "sam73",
+                "confidence": 1
+            }
+        ],
+        "domain_keywords": "raketa",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Prosim potvrdte svou registraci",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "unsub_link": "http://www.mailchimp.com/monkey-rewards/?utm_source=freemium_newsletter&utm_medium=email&utm_campaign=monkey_rewards&aid=011a5387cce037c65169c0689&afl=1",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "p25dfe2e5dd31555e",
+    "pepca_inline_style": "pc2daf062bc422af8",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

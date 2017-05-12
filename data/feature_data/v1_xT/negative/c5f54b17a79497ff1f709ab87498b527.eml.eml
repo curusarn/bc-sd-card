@@ -1,0 +1,188 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "missing_message_id"
+            ],
+            "module": "ill",
+            "score": 2
+        }
+    ],
+    "pepca": "p473f77429ebffc82",
+    "first10words": " Objednavka kompletni Cspujcky cz Objednavka kompletni Vazeny zakazniku dekujeme v",
+    "pepca_style": "",
+    "pepca_inline_style": "p2720de0b642077d1",
+    "word_count": 259,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Cspujcky cz Objednavka kompletni O a59aec80ad ",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 2,
+    "phishing": {},
+    "header_from": "info@usetreno.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/c5f54b17a79497ff1f709ab87498b527.eml.eml",
+    "attachments": [
+        {
+            "size": 1764,
+            "mime_type": "image/png",
+            "flags": 0,
+            "pepca": "p5030676691575c74",
+            "cid": "3ffd4844cc3579855c2e69eefd73ac26",
+            "cte": "BASE64",
+            "sumphash": "a0c68aa7cd7dcaf96f228b8f3a61963e",
+            "name": "img0.png"
+        },
+        {
+            "size": 923,
+            "mime_type": "image/png",
+            "flags": 0,
+            "pepca": "pd93592b2d889369d",
+            "cid": "e233f218a90b7a00b94b7f533a98c0a2",
+            "cte": "BASE64",
+            "sumphash": "d68e9bf05312223fbfb1099e3486f63b",
+            "name": "img1.png"
+        },
+        {
+            "size": 1838,
+            "mime_type": "image/png",
+            "flags": 0,
+            "pepca": "p13b9368ad2fae7d8",
+            "cid": "65bd2c9b931f057d7307dfaaa8d5c433",
+            "cte": "BASE64",
+            "sumphash": "226d6d38d9041cec18a80dc058d51e79",
+            "name": "img2.png"
+        },
+        {
+            "size": 2003,
+            "mime_type": "image/png",
+            "flags": 0,
+            "pepca": "p85a8f62d77f3ca65",
+            "cid": "b1f8db03513912254d185addce84c7e0",
+            "cte": "BASE64",
+            "sumphash": "bfa7b37ff77119e8fa19d9ea67b2786e",
+            "name": "img3.png"
+        },
+        {
+            "sumphash": "09ac8cf3ea85064bfcce6c235beaa872",
+            "mime_type": "image/png",
+            "flags": 0,
+            "size": 327,
+            "cid": "e65ec4bdc2715d88073196a9f97f38a3",
+            "cte": "BASE64",
+            "name": "img4.png"
+        },
+        {
+            "size": 147879,
+            "mime_type": "application/pdf",
+            "flags": 0,
+            "pepca": "p67cdfd9501f92444",
+            "first10words": "Potvrzeni zamestnavatele o vysi pracovniho prijmu zamestnance nehodici se skrtnete",
+            "cid": "1c2c775729b1a5b1bf7016a6d03a1802",
+            "cte": "BASE64",
+            "sumphash": "ff6640686d6032c05fac87651611ac6e",
+            "name": "CS_potvrzeni_o_prijmu.pdf",
+            "lang": "cs"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p5030676691575c74"
+        },
+        {
+            "name": "att-pepca",
+            "value": "pd93592b2d889369d"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p13b9368ad2fae7d8"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p85a8f62d77f3ca65"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p67cdfd9501f92444"
+        },
+        {
+            "name": "pepca",
+            "value": "p473f77429ebffc82"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p2720de0b642077d1"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 2,
+                "domain": "cspujcky"
+            },
+            {
+                "confidence": 2,
+                "domain": "ky"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "zendesk",
+        "plain_domain": "cspujcky",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 5456925.98405967,
+                "domain": "zendesk"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "usetreno",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [
+            {
+                "confidence": 1,
+                "domain": "usetreno"
+            }
+        ],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "pujcky cz Vam prinasi spolecnost AdFinance s r o IC 24684295 DIC CZ24684295 Jemnicka 1138 1 140 00 Praha 4 ",
+    "lang": "cs"
+}

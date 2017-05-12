@@ -1,0 +1,97 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pf6443c4dfa481cd0",
+    "last10words": "ezky den Kolektiv pracovniku FUNKIDS cz Jsme Vam k dispozici v pracovnich dnech od 9 00 do 16 00 hodin na telefonni cisle 733 734 440 ",
+    "pepca_style_total": 1,
+    "header_from": "objednavky@funkids.cz",
+    "first10words": " Dobry den Dekujeme Vam za nakup na www funkids cz Vase objednavka byla uspesne vytvorena pod cislem 148134 dne 15 12 2014 ",
+    "attachments": [],
+    "word_count": 185,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/ed2944639bd51976346773bc78250e37.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pf6443c4dfa481cd0"
+        },
+        {
+            "name": "pepca_style",
+            "value": "p69f529fc3bb5dd73"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "funkids",
+                "confidence": 21536144.752721
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "funkids",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "funkids",
+        "plain_domain_detail": [
+            {
+                "domain": "funkids",
+                "confidence": 2
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "FUNKIDS cz Nova objednavka",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "p69f529fc3bb5dd73",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

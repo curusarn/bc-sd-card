@@ -1,0 +1,113 @@
+{
+    "phashes": [
+        {
+            "value": "p55f6eed0b5380052",
+            "name": "pepca"
+        },
+        {
+            "value": "p84a39e7871e6bfd3",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "noreply@mass.datingfactory.com",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/6d3c60a5ec0718fd73497d4041c28d4e.eml",
+    "unsub_link_candidates": [
+        "http://www.vip.lehkysex.cz/support/unsubscribe/0031466091002vcn21c8226e8d6acf90c76949de705bf884/1362797395.31466091.26437109.18?linkId=2",
+        "http://www.vip.lehkysex.cz/home/?linkId=3&authId=0031466091002vcn21c8226e8d6acf90c76949de705bf884&refMailId=1362797395"
+    ],
+    "attachments": [],
+    "contains_list_header": true,
+    "last10words": "o email muze obsahovat inzerci Dating Factory s r o 3 patro 207 Regent Street Londyn W1B 3HH Velka Britanie ",
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca": "p55f6eed0b5380052",
+    "subject": "dont vory Vase heslo na LehkySex",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 197454508.303946,
+                "domain": "datingfactory"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "datingfactory",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "lehkysex",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "lehkysex"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p84a39e7871e6bfd3",
+    "unsub_link_texts": [
+        "pokud byt si nezalozit tento ucet odhlasit se zde ",
+        " lehkysex dont vor vasi heslo na lehkysex drahy a dont vor nedavno byt pozadat o detail"
+    ],
+    "list_unsubscribe_urls": [
+        "mailto:unsubscribe+1362797395.31466091.26437109.18@mass.datingfactory.com",
+        "http://www.vip.lehkysex.cz/support/unsubscribe/0031466091002vcn21c8226e8d6acf90c76949de705bf884/1362797395.31466091.26437109.18?linkId=77"
+    ],
+    "unsub_link": "http://www.vip.lehkysex.cz/home/?linkId=3&authId=0031466091002vcn21c8226e8d6acf90c76949de705bf884&refMailId=1362797395",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " dont vory Vase heslo na LehkySex Chcete li mit vsechny zpravy dorucene do Vasi e mailove schranky pridejte prosim",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 265,
+    "adscore": 0,
+    "spamscore": 1.1
+}

@@ -1,0 +1,151 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p8cf1fce94f6ff16a",
+    "last10words": "vu neodpovidejte Na teto adrese neprijimame e maily proto nebudeme moci zareagovat Potrebujete pomoc Zavolejte nam ",
+    "pepca_style_total": 0,
+    "header_from": "donotreply@mcafee.com",
+    "first10words": " McAfee SafeKey Ziskejte pomoc s obnovenim hesla Ahoj Je nam lito ze jste zapomneli heslo do aplikace McAfee Saf",
+    "attachments": [
+        {
+            "name": "spacer.gif",
+            "pepca": "pdc9acc191ecbed78",
+            "cte": "BASE64",
+            "mime_type": "image/gif",
+            "cid": "ebbd0cafe0a1436dc9224d2b95b862fc",
+            "size": 1093,
+            "flags": 0,
+            "sumphash": "75176bab9b36170b40f27be74f1ca0a6"
+        },
+        {
+            "name": "logo.gif",
+            "pepca": "pc8c01710db845c02",
+            "cte": "BASE64",
+            "mime_type": "image/gif",
+            "cid": "38bfb11bf48fc2f56d2ca2d796d0b0af",
+            "size": 4154,
+            "flags": 0,
+            "sumphash": "a2a18178829df2cc629b326e001cd43e"
+        },
+        {
+            "name": "help_icon.gif",
+            "pepca": "p1d69457e3713823f",
+            "cte": "BASE64",
+            "mime_type": "image/gif",
+            "cid": "6a65c49f40bfa6a3a88deef27bf63c43",
+            "size": 1974,
+            "flags": 0,
+            "sumphash": "c4f41b9a98126074263e2a364eaeb9e8"
+        },
+        {
+            "name": "icn_phone.png",
+            "pepca": "p3453005f1e146358",
+            "cte": "BASE64",
+            "mime_type": "image/png",
+            "cid": "188cc4522355bc862c1146e7d26ef597",
+            "size": 2195,
+            "flags": 0,
+            "sumphash": "fa27d70212dd5d7d8c87b0e9e8ac0e4c"
+        }
+    ],
+    "word_count": 185,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/06c8ccd583bf224fcfc137bf6a659a55.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "pdc9acc191ecbed78"
+        },
+        {
+            "name": "att-pepca",
+            "value": "pc8c01710db845c02"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p1d69457e3713823f"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p3453005f1e146358"
+        },
+        {
+            "name": "pepca",
+            "value": "p8cf1fce94f6ff16a"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pf28d0c0cb728fb6a"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "mcafee",
+                "confidence": 126680403.0852
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "mcafee",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 2,
+    "subject": "Ziskejte pomoc s obnovenim hesla",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "pf28d0c0cb728fb6a",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

@@ -1,0 +1,153 @@
+{
+    "phashes": [
+        {
+            "value": "p3e83c3b48048dadb",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p945fbabfcd20d706",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p82e8745b34220135",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pe645df62c03080b9",
+            "name": "pepca"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "access@citibank.com",
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing2/545.eml",
+    "attachments": [
+        {
+            "size": 1588,
+            "name": "cbuslogo.gif",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "802c7506d88a$29bfdcb0$07fbb0fd@citibank.com",
+            "sumphash": "73f08f05fc5ec2352361735aa2dd95eb",
+            "pepca": "p3e83c3b48048dadb",
+            "mime_type": "image/gif"
+        },
+        {
+            "size": 708,
+            "name": "citilog4.gif",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "0e8bbcc5fac9$fe6c8f39$ec901f91@citibank.com",
+            "sumphash": "2ae0af247d415bc0fd5c811eff18fab0",
+            "pepca": "p945fbabfcd20d706",
+            "mime_type": "image/gif"
+        },
+        {
+            "size": 369,
+            "name": "footlogo.gif",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "09378229839c$aeb8e896$2183b4a0@citibank.com",
+            "sumphash": "bcf539e47f67f39457c8da98afdeb6b9",
+            "mime_type": "image/gif"
+        },
+        {
+            "size": 1452,
+            "name": "mem_citi.gif",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "3ccc7b19eb69$cfab9333$71d9bef4@citibank.com",
+            "sumphash": "6d914b5be04200b106a22f2990f1c8c5",
+            "pepca": "p82e8745b34220135",
+            "mime_type": "image/gif"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1,
+                0.1
+            ],
+            "score": 1.2
+        }
+    ],
+    "pepca": "pe645df62c03080b9",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": "tibank Texas N A Member FDIC Citi com Citigroup Privacy Promise Terms Conditions Copyright A 2006 Citibank ",
+    "subject": "Citibank Online Access Agreement",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 156142558.54293,
+                "domain": "citibank"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "citibank",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "citi",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "citi"
+            },
+            {
+                "confidence": 1,
+                "domain": "lawases"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Citibank Online Access Agreement A A A Dear Citibank customer A A A We are letting you know",
+    "lang": "en",
+    "pepcatotal": 0,
+    "word_count": 220,
+    "adscore": 0,
+    "spamscore": 1.2
+}

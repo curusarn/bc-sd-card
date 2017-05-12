@@ -1,0 +1,102 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p8506e7fffdfab4fe",
+    "last10words": "te tento link http ask fm remind reset 1b86c514bb49c1c61c59a86892be04ec V socialnych sietach Ask fm Twitter Facebook ",
+    "pepca_style_total": 0,
+    "header_from": "noreply@ask.fm",
+    "first10words": " Dostali sme tvoju poziadavku na obnovenie Ask fm informacii o ucte Vase uzivatelske meno lumpice Na odpovedani",
+    "attachments": [],
+    "word_count": 54,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/c49fa3737e4e5f7c1346c5ff27b55315.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p8506e7fffdfab4fe"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p3682a7ea1a1b8368"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "ask",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "ask",
+                "confidence": 64978864.0737298
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "ask",
+                "confidence": 1
+            }
+        ],
+        "domain_keywords": "ask",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "ask",
+        "plain_domain_detail": [
+            {
+                "domain": "ask",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "sk",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Link na zmenu hesla",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "p3682a7ea1a1b8368",
+    "notches": [
+        {
+            "name": [
+                "missing_date",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

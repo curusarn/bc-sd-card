@@ -1,0 +1,116 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pc6585ea8174bb0aa",
+    "last10words": " 129 00 Kc 129 00 Kc Celkem k uhrade 809 00 Kc Komentar Bez komentare www levnekup cz ",
+    "pepca_style_total": 0,
+    "unsub_link_texts": [
+        " bb m e mail"
+    ],
+    "header_from": "levnekup@email.cz",
+    "unsub_link_candidates": [
+        "http://www.cpost.cz/cz/nastroje/sledovani-zasilky.php?barcode=BB1595208465M&locale=CZ&go=ok"
+    ],
+    "first10words": " LEVNE KUP CZ Dobry den Vase objednavka cislo 2753 je stornovana Kontaktni udaje E mail vesinka93 seznam cz Tel 72592",
+    "attachments": [],
+    "word_count": 245,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/488adca1c9ed026879dfb93053474f5a.eml.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pc6585ea8174bb0aa"
+        },
+        {
+            "name": "pepca_style",
+            "value": "p12811dfdb7947c3e"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p2065fd1f5b8138d9"
+        }
+    ],
+    "spamscore": 1.2,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "masterinter",
+                "confidence": 12745614.495088
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "masterinter",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "levnekup",
+        "plain_domain_detail": [
+            {
+                "domain": "levnekup",
+                "confidence": 2
+            },
+            {
+                "domain": "kup",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Vase objednavka byla stornovana",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "unsub_link": "http://www.cpost.cz/cz/nastroje/sledovani-zasilky.php?barcode=BB1595208465M&locale=CZ&go=ok",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "p12811dfdb7947c3e",
+    "pepca_inline_style": "p2065fd1f5b8138d9",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1,
+                0.1
+            ],
+            "score": 1.2,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

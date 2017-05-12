@@ -1,0 +1,115 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p5c958956ecaea571",
+    "last10words": "ovy obchod tel 733 716 300 http www bryle online cz Tato zprava byla zkontrolovana na viry programem Avast Antivirus http www avast com",
+    "pepca_style_total": 0,
+    "header_from": "info@bryle-online.cz",
+    "first10words": " Dobry den v priloze zasilam proforma fakturu k objednavce 24985 dle telefonicke domluvy Preji prijemny den S pozdravem Gabriel",
+    "attachments": [
+        {
+            "mime_type": "application/pdf",
+            "name": "Faktura24985.pdf",
+            "first10words": "Faktura Faktura cislo Konstantni symbol Variabilni symbol HS objednavka Datum",
+            "pepca": "p14e9b421dfd612fa",
+            "lang": "cs",
+            "cte": "BASE64",
+            "size": 31065,
+            "flags": 0,
+            "sumphash": "acf0e8a33def7c528cc9af040430330c"
+        }
+    ],
+    "word_count": 34,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/ebbea922261dc9fd1a41095fadcb7123.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p14e9b421dfd612fa"
+        },
+        {
+            "name": "pepca",
+            "value": "p5c958956ecaea571"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "digitalriver",
+                "confidence": 6848734.94758
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "digitalriver",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "bryle-online",
+        "plain_domain_detail": [
+            {
+                "domain": "bryle-online",
+                "confidence": 1
+            },
+            {
+                "domain": "avast",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Proforma faktura",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

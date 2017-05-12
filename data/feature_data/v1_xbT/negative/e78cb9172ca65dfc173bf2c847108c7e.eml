@@ -1,0 +1,152 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p4031c9311954d71c",
+    "last10words": " Jana Vejnarova Stefanikova 52 Praha 5 tel 257322000 l 26 www gepard cz ",
+    "pepca_style_total": 0,
+    "header_from": "ahaba.haushalt@email.cz",
+    "first10words": " Dobry den pani Vejnarova dekujeme za Vasi objednavku Zitra zavolame predem pred dodanim zbozi V priloze Vam zasilame foto po",
+    "attachments": [
+        {
+            "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "name": "sada keramick\u00e1 BL2038.docx",
+            "first10words": "BL BL Sada dilna keramicka x salek ml x podsalek",
+            "pepca": "p9d0011aa70c78fc3",
+            "lang": "un",
+            "cte": "BASE64",
+            "cid": "m14a4d8d566dm6c6",
+            "size": 216958,
+            "flags": 0,
+            "sumphash": "dccdaaf73b8edf3b5668565af1c6591b"
+        },
+        {
+            "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "name": "BL 2039 3     porcel\u00e1nov\u00e1 sada 30 d\u00edln\u00e1.docx",
+            "first10words": "BL porcelanova sada dilna x salek ml x podsalek x",
+            "pepca": "p35fe5a479289e895",
+            "lang": "un",
+            "cte": "BASE64",
+            "cid": "m14a4d8d86bem6cc",
+            "size": 120092,
+            "flags": 0,
+            "sumphash": "b4fe9d6928c7c33ddbd4f8cb617ebf91"
+        },
+        {
+            "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "name": "BL 2038.docx",
+            "first10words": "BL Sada dilna keramicka x salek ml x podsalek x",
+            "pepca": "p798e26074c6216f3",
+            "lang": "cs",
+            "cte": "BASE64",
+            "cid": "m14a4d8dae72m6d2",
+            "size": 132363,
+            "flags": 0,
+            "sumphash": "37b10b7c65b4d3eb7773bfe97b694f98"
+        }
+    ],
+    "word_count": 291,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/e78cb9172ca65dfc173bf2c847108c7e.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p9d0011aa70c78fc3"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p35fe5a479289e895"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p798e26074c6216f3"
+        },
+        {
+            "name": "pepca",
+            "value": "p4031c9311954d71c"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pf47f3b6a7c0af190"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "masterinter",
+                "confidence": 25491228.990176
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "masterinter",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "gepard",
+        "plain_domain_detail": [
+            {
+                "domain": "gepard",
+                "confidence": 2
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Re objednavka snidanovy set",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": true,
+        "5_top_domains_id_0": 0,
+        "5_top_domains_id_1": 1,
+        "5_top_domains_percent_1": 0.5,
+        "5_top_domains_percent_0": 0.5
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "pf47f3b6a7c0af190",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

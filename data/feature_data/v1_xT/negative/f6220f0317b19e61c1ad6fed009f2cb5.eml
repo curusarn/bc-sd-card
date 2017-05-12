@@ -1,0 +1,111 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "missing_message_id"
+            ],
+            "module": "ill",
+            "score": 2
+        }
+    ],
+    "pepca": "p891d43d6cd204104",
+    "first10words": " Dobry den potvrzujeme Vam doruceni Vasi objednavky kterou naleznete v priloze tohoto e mailu Objednavka bude ihned predana ke z",
+    "pepca_style": "",
+    "pepca_inline_style": "p830cb1de7cc98620",
+    "word_count": 183,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Objednavka 2034761 z www levne knizky cz",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 2,
+    "phishing": {},
+    "header_from": "info@levne-knizky.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/f6220f0317b19e61c1ad6fed009f2cb5.eml",
+    "attachments": [
+        {
+            "size": 13017,
+            "mime_type": "text/html",
+            "flags": 0,
+            "pepca": "p078fcbdbd764bd48",
+            "cte": "BASE64",
+            "sumphash": "4eb3cdf7f1457d01e100792de90271f0",
+            "name": "objednavka.html"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p078fcbdbd764bd48"
+        },
+        {
+            "name": "pepca",
+            "value": "p891d43d6cd204104"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p830cb1de7cc98620"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "levne-knizky"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "masterinter",
+        "plain_domain": "levne-knizky",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 25491228.990176,
+                "domain": "masterinter"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "zne dobe a samozrejme Vam nebudeme uctovat zadne dalsi poplatky ani postovne Generovano systemem FastCentrik ",
+    "lang": "cs"
+}

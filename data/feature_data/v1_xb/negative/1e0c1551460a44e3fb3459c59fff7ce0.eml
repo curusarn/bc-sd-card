@@ -1,0 +1,104 @@
+{
+    "phashes": [
+        {
+            "value": "p375599d634a2a93e",
+            "name": "pepca"
+        },
+        {
+            "value": "pf22c454365e6cbb8",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "noreply@mass.datingfactory.com",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/1e0c1551460a44e3fb3459c59fff7ce0.eml",
+    "attachments": [],
+    "contains_list_header": true,
+    "last10words": "l moze obsahovat reklamu Dating Factory s r o 3 poschodie 207 Regent Street Londyn W1B 3HH Velka Britania ",
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca": "p375599d634a2a93e",
+    "subject": "mariosummer Vase heslo na Sukat sk",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 127080126.890619,
+                "domain": "datingfactory"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "datingfactory",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "sukat",
+        "plain_domain_detail": [
+            {
+                "confidence": 2,
+                "domain": "sukat"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "pf22c454365e6cbb8",
+    "list_unsubscribe_urls": [
+        "mailto:unsubscribe+1371314096.44594358.26564339.18@mass.datingfactory.com",
+        "http://sukat.sk/support/unsubscribe/0044594358002wquc3ea1a783d78f5c95ca4c1c136a0b600/1371314096.44594358.26564339.18?linkId=77"
+    ],
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " mariosummer Vase heslo na Sukat sk Ak chcete mat vsetky spravy dorucene do Vasej e mailovej schranky pridajte prosim",
+    "lang": "sk",
+    "pepcatotal": 0,
+    "word_count": 263,
+    "adscore": 0,
+    "spamscore": 1.1
+}

@@ -1,0 +1,114 @@
+{
+    "phashes": [
+        {
+            "value": "p15ac077df823b695",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p26f890cc216fa5bd",
+            "name": "pepca"
+        },
+        {
+            "value": "pb16037c996d9a240",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "info@i-hrackarstvi.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/248405.eml",
+    "attachments": [
+        {
+            "size": 12741,
+            "name": "logo.jpg",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "swift-1410210753540e1bc103bfa.2@www.i-hrackarstvi.cz",
+            "sumphash": "866a09966576d883aa0b42a28a7d9060",
+            "pepca": "p15ac077df823b695",
+            "mime_type": "image/jpeg"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "pepca": "p26f890cc216fa5bd",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": "ru a verime ze budete s nasimi sluzbami spokojeni Vase i hrackarstvi i hrackarstvi http www i hrackarstvi cz ",
+    "subject": " i hrackarstvi Probiha priprava objednavky",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 25491228.990176,
+                "domain": "masterinter"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "masterinter",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "i-hrackarstvi",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "i-hrackarstvi"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "pb16037c996d9a240",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Zprava z i hrackarstvi Dobry den p Kancnerova Prubeh Vasi objednavky 49649 Vase objednavka b",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 125,
+    "adscore": 0,
+    "spamscore": 1.1
+}

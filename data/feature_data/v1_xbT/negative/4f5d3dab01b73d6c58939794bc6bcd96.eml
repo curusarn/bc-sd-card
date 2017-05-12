@@ -1,0 +1,106 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p08059d6ecb2f4168",
+    "last10words": " v prilohach z duvodu zabezpeceni Zkontrolujte nastaveni zabezpeceni sveho e mailoveho programu a overte zpusob zpracovani priloh ",
+    "pepca_style_total": 0,
+    "header_from": "martina.bokova@meprofi.cz",
+    "first10words": " Zprava je pripravena k odeslani s nasledujicimi prilohami obsahujicimi soubor nebo odkaz Zalohova faktura 140800008 Poznamka E ma",
+    "attachments": [
+        {
+            "mime_type": "application/pdf",
+            "name": "Z\u00e1lohov\u00e1_faktura_140800008.pdf",
+            "first10words": "Zalohova faktura Maintenance Equipment PROFI CZ s r o ZALOHOVA",
+            "pepca": "p9c4316f595ba4e3f",
+            "lang": "cs",
+            "cte": "BASE64",
+            "size": 133768,
+            "flags": 0,
+            "sumphash": "9cd479d86dbd2182bb827580243ba216"
+        }
+    ],
+    "word_count": 35,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/4f5d3dab01b73d6c58939794bc6bcd96.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p9c4316f595ba4e3f"
+        },
+        {
+            "name": "pepca",
+            "value": "p08059d6ecb2f4168"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "datator",
+                "confidence": 2586027.7299105
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "datator",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Odesilani e mailu Zalohova faktura 140800008",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

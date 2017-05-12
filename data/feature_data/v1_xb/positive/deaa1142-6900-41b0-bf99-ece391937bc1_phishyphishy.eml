@@ -1,0 +1,119 @@
+{
+    "phashes": [
+        {
+            "value": "pe66e7ce596a0e9c9",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p840c72ba47b0e121",
+            "name": "pepca"
+        },
+        {
+            "value": "pc90462cf7cdc1fec",
+            "name": "pepca_style"
+        },
+        {
+            "value": "p1be55f8f530553e0",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "official@ail.com",
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/actual/data/10_2015/phishyphishy.eml",
+    "attachments": [
+        {
+            "size": 66609,
+            "name": "new case.html",
+            "cte": "BASE64",
+            "flags": 0,
+            "sumphash": "bc8142614c64b7997f9a1a92b83e8d25",
+            "pepca": "pe66e7ce596a0e9c9",
+            "mime_type": "text/html"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "evil_script",
+                "from_missmatch",
+                "missing_message_id"
+            ],
+            "subscores": [
+                1,
+                0.1,
+                0.0,
+                1
+            ],
+            "score": 2.1
+        }
+    ],
+    "pepca": "p840c72ba47b0e121",
+    "phishing": {
+        "ner_domain_detected": true
+    },
+    "pepca_style": "pc90462cf7cdc1fec",
+    "last10words": " Registered office 22 24 Boulevard Royal L 2449 Luxemburg RCS Luxemburg B 118 349 PayPal Email ID PP1781 bcef392ddec56 ",
+    "subject": "We just need to confirm your billing address",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 7,
+                "domain": "paypal"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 805418074.011367,
+                "domain": "paypal"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "paypal",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "paypal",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p1be55f8f530553e0",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Reference PP 001 903 423 670 Accoun",
+    "lang": "en",
+    "pepcatotal": 0,
+    "word_count": 389,
+    "adscore": 0,
+    "spamscore": 2.1
+}

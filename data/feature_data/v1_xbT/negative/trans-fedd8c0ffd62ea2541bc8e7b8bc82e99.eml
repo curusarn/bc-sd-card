@@ -1,0 +1,104 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p49c6a9d6241d465d",
+    "last10words": " Jitka Pivonkova Jitka Pivonkova Hodonin 5 67971 Lysice C zakaznika 201864 Telefon 603 456 549 e mail autodilyblansko seznam cz ",
+    "pepca_style_total": 0,
+    "header_from": "noreply@carparts-cat.com",
+    "first10words": " Ordermail Cislo objednavky 3077984 20150113111955194 C zakaznika 201864 Datum objednavky 13 1 2015 11 19 55 C zbo",
+    "attachments": [
+        {
+            "name": "Order3077984-20150113111955194.xml",
+            "pepca": "p0055a67609e7eb11",
+            "cte": "BASE64",
+            "mime_type": "text/plain",
+            "size": 1140,
+            "flags": 0,
+            "sumphash": "c1ed152669fb8a305939dc4b863331cd"
+        }
+    ],
+    "word_count": 114,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/trans-fedd8c0ffd62ea2541bc8e7b8bc82e99.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p0055a67609e7eb11"
+        },
+        {
+            "name": "pepca",
+            "value": "p49c6a9d6241d465d"
+        }
+    ],
+    "spamscore": 1.5,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "masterinter",
+                "confidence": 38236843.485264
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "masterinter",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Vase objednavka z 13 1 2015 11 19 55 Cislo objednavky 20150113111955194 Cislo zakazky 3077984",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "long_subject"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.5
+            ],
+            "score": 1.5,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

@@ -1,0 +1,114 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging"
+            ],
+            "module": "ill",
+            "score": 1.1
+        }
+    ],
+    "pepca": "p0ca99c2cf6f74bf8",
+    "first10words": " Potvrd registraci a hraj Nezobrazuje se Vam logo a obrazky Tisk Vitame Te u CHANC",
+    "pepca_style": "",
+    "pepca_inline_style": "p47fd30ff7cb77da2",
+    "unsub_link": "http://user.mailkit.eu/mc/CECQVWCWLUQVQQQUVCVUIQQISYSBZFXD",
+    "word_count": 121,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Potvrd registraci a hraj ",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.1,
+    "list_unsubscribe_urls": [
+        "mailto:CECQVWCWLUQVQQQUVCVUIQQISYSBZFXD.owner@unsub.mailkit.eu",
+        "http://user.mailkit.eu/mc/CECQVWCWLUQVQQQUVCVUIQQISYSBZFXD"
+    ],
+    "phishing": {},
+    "header_from": "info@chance.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/60fc29f7ba018db60f0b98a40a8d1489.eml",
+    "attachments": [],
+    "adscore": 0,
+    "unsub_link_texts": [
+        " odhlasit odber novinka a tip infolinka"
+    ],
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p0ca99c2cf6f74bf8"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p47fd30ff7cb77da2"
+        }
+    ],
+    "unsub_link_candidates": [
+        "http://user.mailkit.eu/mc/CECQVWCWLUQVQQQUVCVUIQQISYSBZFXD"
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "chance"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "mcsv",
+        "plain_domain": "chance",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 10256637.2474413,
+                "domain": "mcsv"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "tipsport",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [
+            {
+                "confidence": 2,
+                "domain": "tipsport"
+            }
+        ],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "contains_list_header": true,
+    "precedence": 2,
+    "last10words": "folinka 233 090 831 Tento email ma charakter obchodniho sdeleni Copyright 2014 CHANCE a s Vsechna prava vyhrazena ",
+    "lang": "cs"
+}

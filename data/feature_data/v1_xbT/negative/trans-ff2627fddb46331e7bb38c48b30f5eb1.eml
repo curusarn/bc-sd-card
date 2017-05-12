@@ -1,0 +1,104 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pdac0248924387d97",
+    "last10words": "volat na telefonni cislo ktere jste uvedli do formulare Prejeme hezky den Mihocar s r o Generovano systemem FastCentrik ",
+    "pepca_style_total": 0,
+    "header_from": "mihocar@seznam.cz",
+    "first10words": " Dekujeme za Vasi objednavku Nyni ji nasi zamestnanci zpracuji a pri nejasnostech Vam muzou psat na Vas e mail nebo volat na telefo",
+    "attachments": [
+        {
+            "name": "objednavka.html",
+            "pepca": "pa14378d14230ff26",
+            "cte": "BASE64",
+            "mime_type": "text/html",
+            "size": 10334,
+            "flags": 0,
+            "sumphash": "aad1ff795d48fa51d23ad395d46533cb"
+        }
+    ],
+    "word_count": 35,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/trans-ff2627fddb46331e7bb38c48b30f5eb1.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "pa14378d14230ff26"
+        },
+        {
+            "name": "pepca",
+            "value": "pdac0248924387d97"
+        }
+    ],
+    "spamscore": 2,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "cemail",
+                "confidence": 2519378.35163
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "cemail",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Objednavka c 291655 na eshopu Mihocar s r o ",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "missing_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                1
+            ],
+            "score": 2,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

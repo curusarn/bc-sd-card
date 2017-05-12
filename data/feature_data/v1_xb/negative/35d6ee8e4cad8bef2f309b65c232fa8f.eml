@@ -1,0 +1,136 @@
+{
+    "phashes": [
+        {
+            "value": "p616542ea77ff2af9",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p9df3b6150a8bc60c",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pc8a7b6bfe089c37f",
+            "name": "pepca"
+        },
+        {
+            "value": "pd4de7806120523e5",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "obchod@nabytek-forliving.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/35d6ee8e4cad8bef2f309b65c232fa8f.eml",
+    "attachments": [
+        {
+            "first10words": "Objednavka Objednano Objednavka WEB stranka V pripade problemu nas kontaktujtena",
+            "size": 33400,
+            "mime_type": "application/pdf",
+            "cte": "BASE64",
+            "flags": 0,
+            "lang": "cs",
+            "name": "WEB201405078.pdf",
+            "pepca": "p616542ea77ff2af9",
+            "sumphash": "3aa16acf71a11be730ad8eee3a3dcc99"
+        },
+        {
+            "first10words": "Vseobecne obchodni podminky Obchodni spolecnosti Forliving s r o se",
+            "size": 67780,
+            "mime_type": "application/pdf",
+            "cte": "BASE64",
+            "flags": 0,
+            "lang": "cs",
+            "name": "vseobecne-obchodni-podminky.pdf",
+            "pepca": "p9df3b6150a8bc60c",
+            "sumphash": "a8f8699a7d526ffa703c5aa76544a02c"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1,
+                0.1
+            ],
+            "score": 1.2
+        }
+    ],
+    "pepca": "pc8a7b6bfe089c37f",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": "g cz Tento email Vam byl zaslan na zaklade Vasi objednavky WEB201405078 z webu Nabytek FORLIVING cz ze dne 14 12 2014 16 54 ",
+    "subject": "Objednavka WEB201405078 byla prijata",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 12745614.495088,
+                "domain": "masterinter"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "masterinter",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "nabytek-forliving",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "nabytek-forliving"
+            },
+            {
+                "confidence": 1,
+                "domain": "forliving"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "pd4de7806120523e5",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Objednavka WEB201405078 byla prijata Nabytek FORLIVING cz Objednavka WEB201405078 Vazeny zakazniku Vase ob",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 141,
+    "adscore": 0,
+    "spamscore": 1.2
+}

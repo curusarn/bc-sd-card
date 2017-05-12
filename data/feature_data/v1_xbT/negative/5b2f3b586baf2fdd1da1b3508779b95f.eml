@@ -1,0 +1,112 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pbe7e05cd410d2b2e",
+    "last10words": " hesla Dejte nam vedet Pokud toto neni vas ucet muzete odebereme z nej vas e mail ",
+    "list_unsubscribe_urls": [
+        "https://www.facebook.com/o.php?k=AS2LvDCPQdyftEnP&e=k.lara.dvor%40gmail.com&mid=HMTgwMzA5MjQ5OmsubGFyYS5kdm9yQGdtYWlsLmNvbTo1ODQ"
+    ],
+    "unsub_link_texts": [
+        "pokud toto nebyt vas ucet moct odebrat z on vas e mail "
+    ],
+    "header_from": "no-reply@mail.instagram.com",
+    "contains_list_header": true,
+    "pepcatotal": 0,
+    "attachments": [],
+    "word_count": 219,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/5b2f3b586baf2fdd1da1b3508779b95f.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pbe7e05cd410d2b2e"
+        },
+        {
+            "name": "pepca_style",
+            "value": "pcfe600315c3a575a"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pc43692bd27aac727"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "facebookmail",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "skype",
+                "confidence": 8553997.73452
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "facebookmail",
+                "confidence": 1.02856363814912
+            }
+        ],
+        "domain_keywords": "skype",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Obnovit heslo",
+    "adscore": 0,
+    "first10words": " Facebook Mily uzivateli klaraadd Obdrzeli jsme zadost o obnoveni vaseho hesla na Instagramu Obnovit heslo Pokud tuto zprav",
+    "unsub_link": "https://instagram.com/accounts/remove/report_wrong_email/gqlja1/3wc-c28eb0a7cd39cdf6492e/QIf4Wjp6/ay5sYXJhLmR2b3JAZ21haWwuY29t/",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "pcfe600315c3a575a",
+    "unsub_link_candidates": [
+        "https://instagram.com/accounts/remove/report_wrong_email/gqlja1/3wc-c28eb0a7cd39cdf6492e/QIf4Wjp6/ay5sYXJhLmR2b3JAZ21haWwuY29t/"
+    ],
+    "pepca_inline_style": "pc43692bd27aac727",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1,
+    "pepca_style_total": 1
+}

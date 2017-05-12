@@ -1,0 +1,115 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "module": "ill",
+            "score": 1
+        }
+    ],
+    "pepca": "pecba3e3fc9a772db",
+    "first10words": " Mily zakazniku gratulujeme Vase registrace v internetovem obchode Lekarna cz probehla uspesne Zmenu ",
+    "pepca_style": "",
+    "pepca_inline_style": "p0bc7860b6452a0e0",
+    "unsub_link": "http://emailing.lekarna.cz/rsps/ct/c/2064/r/1048958/l/5981",
+    "word_count": 387,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Registrace na Lekarna cz",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1,
+    "list_unsubscribe_urls": [
+        "http://emailing.lekarna.cz/rsps/lu/c/2064/r/1048958/e/149"
+    ],
+    "phishing": {},
+    "header_from": "novinky@lekarna.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/248886.eml",
+    "attachments": [],
+    "adscore": 0,
+    "unsub_link_texts": [
+        "zmena udaj moct provest po prihlaseni v sekce muj ucet "
+    ],
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pecba3e3fc9a772db"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p0bc7860b6452a0e0"
+        }
+    ],
+    "unsub_link_candidates": [
+        "http://emailing.lekarna.cz/rsps/ct/c/2064/r/1048958/l/5981"
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 2,
+                "domain": "lekarna"
+            },
+            {
+                "confidence": 1,
+                "domain": "rny"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "masterinter",
+        "plain_domain": "lekarna",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 12745614.495088,
+                "domain": "masterinter"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "lekarna",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [
+            {
+                "confidence": 10,
+                "domain": "lekarna"
+            }
+        ],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "contains_list_header": true,
+    "precedence": 3,
+    "last10words": " 101 111 h ttp www lekarna cz Odesilatelem Obchodniho sdeleni je Pears Health Cyber s r o ",
+    "lang": "cs"
+}

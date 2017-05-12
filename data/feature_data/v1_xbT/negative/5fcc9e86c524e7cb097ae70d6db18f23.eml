@@ -1,0 +1,118 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pd239f83da02d1e10",
+    "last10words": "i adresa Ulice PSC Mesto Galerie U Betlemske kaple 2010 ",
+    "pepca_style_total": 0,
+    "header_from": "jbk@volny.cz",
+    "first10words": " Galerie U Betlemske kaple Dobry den omlouvam se za zpozdeni obraz je pripraveny k vyzvednuti v galerii Kdyby bylo zamceno tak prosi",
+    "attachments": [
+        {
+            "name": "",
+            "pepca": "pa54094dbf73e5f29",
+            "cte": "BASE64",
+            "mime_type": "image/png",
+            "cid": "9E0D685D03794B72854179E76996C20B@UBKHP",
+            "size": 255,
+            "flags": 0,
+            "sumphash": "4da78252ccbe87dea33bfe0f7d6dde6f"
+        }
+    ],
+    "word_count": 793,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/5fcc9e86c524e7cb097ae70d6db18f23.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "pa54094dbf73e5f29"
+        },
+        {
+            "name": "pepca",
+            "value": "pd239f83da02d1e10"
+        },
+        {
+            "name": "pepca_style",
+            "value": "pafb8c7aa19693441"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p00261be60473b700"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "masterinter",
+                "confidence": 89219301.4656161
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "masterinter",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "galerieubetlemskekaple",
+        "plain_domain_detail": [
+            {
+                "domain": "galerieubetlemskekaple",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Re Re 4 Galerie U Betlemske kaple objednavka zbozi",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "pafb8c7aa19693441",
+    "pepca_inline_style": "p00261be60473b700",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

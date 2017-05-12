@@ -1,0 +1,129 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "module": "ill",
+            "score": 1
+        }
+    ],
+    "pepca": "p6785dacce9826a4f",
+    "first10words": " Dobry den v priloze Vam zasilame objednavku na D M koberce vc dalsich praci s tim souvisejicich dle ",
+    "pepca_style": "",
+    "pepca_inline_style": "p5761ab2e57da18fb",
+    "word_count": 244,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "RE Cenova nabidka objednavka TES",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1,
+    "phishing": {
+        "5_top_domains_percent_2": 0.25,
+        "5_top_domains_id_2": 2,
+        "5_top_domains_percent_3": 0.25,
+        "5_top_domains_id_1": 1,
+        "5_top_domains_id_3": 3,
+        "5_top_domains_id_0": 0,
+        "5_top_domains_percent_1": 0.25,
+        "5_top_domains_percent_0": 0.25
+    },
+    "header_from": "rhalamicek@tes.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/ee1da748447b0808b364f4fa3782b2d0.eml",
+    "attachments": [
+        {
+            "size": 1095,
+            "mime_type": "image/jpeg",
+            "flags": 0,
+            "pepca": "p12e34c7f90b206cb",
+            "cid": "image001.jpg@01D0185C.E6779980",
+            "cte": "BASE64",
+            "sumphash": "e3980d6a9abb98e7a494625f73224b28",
+            "name": "image001.jpg"
+        },
+        {
+            "sumphash": "383907da20b286d2aba33de82bef5e63",
+            "mime_type": "application/pdf",
+            "flags": 0,
+            "size": 326009,
+            "first10words": "KM C e",
+            "cte": "BASE64",
+            "name": "poU1001736.pdf",
+            "lang": "un"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p12e34c7f90b206cb"
+        },
+        {
+            "name": "pepca",
+            "value": "p6785dacce9826a4f"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p5761ab2e57da18fb"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 2,
+                "domain": "tes"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "tes",
+        "plain_domain": "tes",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 15201307.5098591,
+                "domain": "tes"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "raskova 691 755 01 Vsetin IC 24815276 DIC CZ24815276 Zapsana u rejstrikoveho soudu v Ostrave v oddilu C vlozka 52829 ",
+    "lang": "cs"
+}

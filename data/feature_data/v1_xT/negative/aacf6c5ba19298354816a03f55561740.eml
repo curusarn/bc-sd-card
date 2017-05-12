@@ -1,0 +1,103 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "module": "ill",
+            "score": 1.1
+        }
+    ],
+    "pepca": "p5d51a12c1e3811d1",
+    "first10words": " Dobry den v priloze posilam objednavku Dekuji Stiborova Lukas Poncar 603 28 63 28 LUMIAL Milan Poncar Kosova Hora 273 ic 4",
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "word_count": 17,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "objednavka",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.1,
+    "phishing": {},
+    "header_from": "poncar1@post.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/aacf6c5ba19298354816a03f55561740.eml",
+    "attachments": [
+        {
+            "size": 210980,
+            "mime_type": "image/jpeg",
+            "flags": 0,
+            "pepca": "p33f930dd97ce8ab7",
+            "cid": "m14a4d905bbfma09b",
+            "cte": "BASE64",
+            "sumphash": "9a2e5f4e27acc9bd2b587045e07b2011",
+            "name": "SCAN_20141215_113419640.jpg"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p33f930dd97ce8ab7"
+        },
+        {
+            "name": "pepca",
+            "value": "p5d51a12c1e3811d1"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "kutnahora",
+        "plain_domain": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 292156.5042396,
+                "domain": "kutnahora"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "lam objednavku Dekuji Stiborova Lukas Poncar 603 28 63 28 LUMIAL Milan Poncar Kosova Hora 273 ic 47060433 dic cz6011010445 ",
+    "lang": "cs"
+}

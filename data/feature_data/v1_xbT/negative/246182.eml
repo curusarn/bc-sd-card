@@ -1,0 +1,126 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pd0b1f709f7d2b3e6",
+    "last10words": "am Maciej Zielinski Pal Christian Mortensen James Deeny Spolecnost zapsana v OR vedenem Mestskym soudem v Praze oddil C vlozka 146644 ",
+    "pepca_style_total": 0,
+    "unsub_link_texts": [
+        " vseobecny obchodny podminka "
+    ],
+    "header_from": "info@narodnipokladnice.cz",
+    "unsub_link_candidates": [
+        "http://www.narodnipokladnice.cz/obchodnipodminky"
+    ],
+    "first10words": " Potvrzeni objednavky ze stranek Narodni Pokladnice V pripade jakychkoliv dotazu volejte 810 100 500 Vazen",
+    "attachments": [
+        {
+            "name": "5c1f5fedb9efa38b18bc8e89d5ac7e4d.jpg",
+            "pepca": "p028dc2f89556ca59",
+            "cte": "BASE64",
+            "mime_type": "image/jpeg",
+            "cid": "5c1f5fedb9efa38b18bc8e89d5ac7e4d",
+            "size": 65199,
+            "flags": 0,
+            "sumphash": "aec1c5f3621ed2826d8c99f4f617755c"
+        }
+    ],
+    "word_count": 246,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/246182.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p028dc2f89556ca59"
+        },
+        {
+            "name": "pepca",
+            "value": "pd0b1f709f7d2b3e6"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pe6a1c6823c530fe4"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "narodnipokladnice",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "narodnipokladnice",
+                "confidence": 18296268.750993
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "narodnipokladnice",
+                "confidence": 1
+            }
+        ],
+        "domain_keywords": "narodnipokladnice",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "narodnipokladnice",
+        "plain_domain_detail": [
+            {
+                "domain": "narodnipokladnice",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Potvrzeni Vasi rezervace emise",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "unsub_link": "http://www.narodnipokladnice.cz/obchodnipodminky",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "pe6a1c6823c530fe4",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

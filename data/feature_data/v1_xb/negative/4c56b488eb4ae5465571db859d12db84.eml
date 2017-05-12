@@ -1,0 +1,134 @@
+{
+    "phashes": [
+        {
+            "value": "p2dbb6d713d8d1782",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p1ae6ebd42a19e112",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p74e1affc1f0840f8",
+            "name": "pepca"
+        },
+        {
+            "value": "pd4e3c5cb8dda5d3a",
+            "name": "pepca_style"
+        },
+        {
+            "value": "p8fad2e4bfac608bc",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "info@naradi-pro.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/4c56b488eb4ae5465571db859d12db84.eml",
+    "attachments": [
+        {
+            "first10words": "Faktura FAKTURA DANOVY DOKLAD c FV Ondrej Cizek Variabilni symbol",
+            "size": 63148,
+            "mime_type": "application/pdf",
+            "cte": "BASE64",
+            "flags": 0,
+            "lang": "cs",
+            "name": "Faktura_14_FV1457.pdf",
+            "pepca": "p2dbb6d713d8d1782",
+            "sumphash": "e60ade85025e9dd97934db153487b64b"
+        },
+        {
+            "first10words": "Dodaci list DODACI LIST K FAKTURE c FV Dodavatel Ondrej",
+            "size": 54514,
+            "mime_type": "application/pdf",
+            "cte": "BASE64",
+            "flags": 0,
+            "lang": "cs",
+            "name": "Dodac\u00ed_list_14_FV1457.pdf",
+            "pepca": "p1ae6ebd42a19e112",
+            "sumphash": "65388f85e435b80208639ebfe77ab515"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "pepca": "p74e1affc1f0840f8",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "pd4e3c5cb8dda5d3a",
+    "last10words": "l 604 587 769 www naradi pro cz Fakturacni udaje Ondrej Cizek Stafova 1121 Horice 508 01 ICO 87391643 DIC CZ9105033443 ",
+    "subject": "Re Faktura",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 6751213.2411078,
+                "domain": "vshosting"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "vshosting",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "naradi-pro",
+        "plain_domain_detail": [
+            {
+                "confidence": 2,
+                "domain": "naradi-pro"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p8fad2e4bfac608bc",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Puvodni zprava Od Ondrej Cizek cizek17 seznam cz Komu info naradi pro cz Odeslano 15 12 2014 10 45 1",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 248,
+    "adscore": 0,
+    "spamscore": 1.1
+}

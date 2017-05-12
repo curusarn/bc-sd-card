@@ -1,0 +1,115 @@
+{
+    "phashes": [
+        {
+            "value": "pb7b7c95c67a864cf",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pac6ad6ca02f252e7",
+            "name": "pepca"
+        },
+        {
+            "value": "p1447926600abed5a",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "info@hodinky-365.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/051e46946a4bd277c03b723d5a215b87.eml.eml",
+    "attachments": [
+        {
+            "first10words": "Safe Trade s r o se sidlem Slevarenska Ostrava Marianske",
+            "size": 177964,
+            "mime_type": "application/pdf",
+            "cte": "BASE64",
+            "flags": 0,
+            "lang": "cs",
+            "name": "VOP-hodinky-365.pdf",
+            "pepca": "pb7b7c95c67a864cf",
+            "sumphash": "529d99f934f24c427a79098426787c5a"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "pepca": "pac6ad6ca02f252e7",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": " CZ28638581 Spolecnost Safe Trade s r o je zapsana v obchodnim rejstriku vedenem Krajskym soudem v Ostrave oddil C vlozka 36127 ",
+    "subject": "Nova objednavka",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 38236843.485264,
+                "domain": "masterinter"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "masterinter",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "hodinky-365",
+        "plain_domain_detail": [
+            {
+                "confidence": 2,
+                "domain": "hodinky-365"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p1447926600abed5a",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Vazeny zakazniku Vase objednavka z internetoveho obchodu www hodinky 365 cz byla ulozena do systemu pod cislem 39346 Registro",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 275,
+    "adscore": 0,
+    "spamscore": 1.1
+}

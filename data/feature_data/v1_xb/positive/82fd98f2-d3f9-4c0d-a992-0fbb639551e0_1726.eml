@@ -1,0 +1,103 @@
+{
+    "phashes": [
+        {
+            "value": "pdd988d7ea5ad5cc2",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pd5a59f22b7edc39b",
+            "name": "pepca"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "refid_id260938187072329ib@bbt.com",
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/1726.eml",
+    "attachments": [
+        {
+            "size": 7847,
+            "name": "aureomycin.gif",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "1V3GY1VNLW",
+            "sumphash": "8d38728a5c235c4a3d82572ad53e2082",
+            "pepca": "pdd988d7ea5ad5cc2",
+            "mime_type": "image/gif"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "pepca": "pd5a59f22b7edc39b",
+    "phishing": {
+        "ner_domain_detected": true
+    },
+    "pepca_style": "",
+    "last10words": " or if anything really was Annie on the other hand had never been in better spirits than she was during that sunny early spring week balboa ",
+    "subject": "Confirm Your Identity ",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 54432705.8054815,
+                "domain": "aweber"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "aweber",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " I m waiting bushmaster curriculum Realism was not necessary fairness was This was a question which had occurred to him ",
+    "lang": "en",
+    "pepcatotal": 0,
+    "word_count": 118,
+    "adscore": 0,
+    "spamscore": 1
+}

@@ -1,0 +1,125 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "module": "ill",
+            "score": 1
+        }
+    ],
+    "pepca": "pfded01b663a23d66",
+    "first10words": " Ahoj Simco v priloze zasilam objednavku Diky za vyrizeni Nikca U Zlateho retrivra obchod uzlatehoretrivra cz K",
+    "pepca_style": "",
+    "pepca_inline_style": "p9ba12e1ecf27671a",
+    "word_count": 67,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "resent": true,
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1,
+    "phishing": {},
+    "header_from": "obchod@uzlatehoretrivra.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/cde1fcd1d6949debec7c647e74760b76.eml",
+    "attachments": [
+        {
+            "size": 68992,
+            "mime_type": "application/pdf",
+            "flags": 0,
+            "pepca": "pdc0c5230dc4d82c8",
+            "first10words": "OBJEDNAVKA c ODBERATEL DODAVATEL Jaroslav Musil Miroslav Weber mlyn Pesvice",
+            "cte": "BASE64",
+            "sumphash": "71feb3014bd2d525d9e15a70e412e77a",
+            "name": "Objednavka c. 229-14.pdf",
+            "lang": "cs"
+        }
+    ],
+    "adscore": 0,
+    "subject": "Objednavka zbozi",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "pdc0c5230dc4d82c8"
+        },
+        {
+            "name": "pepca",
+            "value": "pfded01b663a23d66"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p9ba12e1ecf27671a"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "uzlatehoretrivra"
+            },
+            {
+                "confidence": 2,
+                "domain": "avast"
+            },
+            {
+                "confidence": 1,
+                "domain": "cezar"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "digitalriver",
+        "plain_domain": "uzlatehoretrivra",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 8430240.90326,
+                "domain": "digitalriver"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "volny",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [
+            {
+                "confidence": 1,
+                "domain": "volny"
+            }
+        ],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": " 1991 2013 Breaker Software Tato zprava byla zkontrolovana na viry programem Avast Antivirus www avast com ",
+    "lang": "cs"
+}

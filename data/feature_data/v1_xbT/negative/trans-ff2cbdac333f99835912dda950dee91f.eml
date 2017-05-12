@@ -1,0 +1,126 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p87edc09b79a6cbe5",
+    "last10words": " 00 20 00 Provozovatel obchodu HP TRONIC Zlin spol s r o Prstne Kutiky 637 Zlin PSC 760 01 IC 49973053 DIC CZ49973053 ",
+    "pepca_style_total": 0,
+    "unsub_link_texts": [
+        "vic naleznout v obchodni podminka pro rezervace a osobni odber zbozi na prodejna euronics zde "
+    ],
+    "header_from": "info@euronics.cz",
+    "unsub_link_candidates": [
+        "http://www.euronics.cz/obchodni-podminky/t-82/"
+    ],
+    "first10words": " Cislo objednavky 1700126747 Vazeny zakazniku dekujeme za nakup v internetovem obchode EURONICS cz Vasi o",
+    "attachments": [
+        {
+            "name": "OP_2014-10-3.pdf",
+            "cte": "BASE64",
+            "mime_type": "text/plain",
+            "size": 0,
+            "flags": 0,
+            "sumphash": "dc5b5ace27d0916fed08dfee55dd0748"
+        }
+    ],
+    "word_count": 436,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/trans-ff2cbdac333f99835912dda950dee91f.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p87edc09b79a6cbe5"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pfb38424bd7d318d2"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "euronics",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "euronics",
+                "confidence": 209221599.292258
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "euronics",
+                "confidence": 1
+            }
+        ],
+        "domain_keywords": "euronics",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "euronics",
+        "plain_domain_detail": [
+            {
+                "domain": "euronics",
+                "confidence": 3
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Potvrzeni prijeti objednavky rezervace cislo 1700126747",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "unsub_link": "http://www.euronics.cz/obchodni-podminky/t-82/",
+    "phishing": {
+        "ner_domain_detected": true,
+        "5_top_domains_id_2": 1,
+        "5_top_domains_id_1": 0,
+        "5_top_domains_percent_1": 0.125,
+        "5_top_domains_percent_2": 0.125,
+        "5_top_domains_id_0": 0,
+        "5_top_domains_percent_0": 0.75
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "pfb38424bd7d318d2",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

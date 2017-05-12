@@ -1,0 +1,121 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p2cf69c9263202fa7",
+    "last10words": "se sidlem na adrese 5400 LBJ Freeway Suite 500 Dallas TX 75240 USA C O 407 St John Street London EC1V 4EX Velka Britanie ",
+    "list_unsubscribe_urls": [
+        "mailto:leave-fc7f15797661037c777b28313958-fdfa15757164037977137775-fe65167073640d7a7516-fec715777267017c-ffce15@leave.mail.hotels.com"
+    ],
+    "unsub_link_texts": [
+        " chtit zrusit odber tento sdeleni "
+    ],
+    "header_from": "info@mail.hotels.com",
+    "contains_list_header": true,
+    "pepcatotal": 0,
+    "attachments": [],
+    "word_count": 1005,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/5de1cae7173d04e16c6c20fac75e2e78.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p2cf69c9263202fa7"
+        },
+        {
+            "name": "pepca_style",
+            "value": "p6eacf383e2d2b83e"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pb405b687a639b6eb"
+        }
+    ],
+    "spamscore": 1.6,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "hotels",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "topsleva",
+                "confidence": 113754696.427068
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "hotels",
+                "confidence": 21
+            }
+        ],
+        "domain_keywords": "topsleva",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "hotels",
+        "plain_domain_detail": [
+            {
+                "domain": "hotels",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Dekujeme ze jste se zaregistrovali k odberu e mailu od spolecnosti Hotels com",
+    "adscore": 0,
+    "first10words": " Domovska stranka Nabidky hotelu Zakaznicka sluzba Zobrazit v prohlizeci ",
+    "unsub_link": "http://click.mail.hotels.com/?qs=9d3977d8f5cad7ba1bea0b63df7827c3b22cc7c0c44338fe4140dbdd817cdb58fd02c6b1b24b94dc68e580abf1943f9a",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "p6eacf383e2d2b83e",
+    "unsub_link_candidates": [
+        "http://click.mail.hotels.com/?qs=9d3977d8f5cad7ba1bea0b63df7827c3b22cc7c0c44338fe4140dbdd817cdb58fd02c6b1b24b94dc68e580abf1943f9a"
+    ],
+    "pepca_inline_style": "pb405b687a639b6eb",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id",
+                "long_subject"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1,
+                0.5
+            ],
+            "score": 1.6,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1,
+    "pepca_style_total": 0
+}

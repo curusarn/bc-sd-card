@@ -1,0 +1,222 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "module": "ill",
+            "score": 1
+        }
+    ],
+    "pepca": "p8e982c58711d4908",
+    "first10words": " Nove heslo Dobry den na Vasi zadost zasilame nove vygenerovane heslo k uctu ZUm",
+    "pepca_style": "",
+    "pepca_inline_style": "pb4297a2de80741df",
+    "word_count": 121,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Nove heslo",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1,
+    "phishing": {},
+    "header_from": "mailing@zumail.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/41976be0d829e137dd715c0912da87f7.eml",
+    "attachments": [
+        {
+            "size": 9973,
+            "mime_type": "image/png",
+            "flags": 0,
+            "pepca": "pe6a6ec81e6a04fd3",
+            "cid": "545757a93a901",
+            "cte": "BASE64",
+            "sumphash": "11cfa9dd1104021f07c6ba5193ea947a",
+            "name": "head-1-cz.png"
+        },
+        {
+            "size": 1087,
+            "mime_type": "image/png",
+            "flags": 0,
+            "pepca": "p65fa33afa7b1672a",
+            "cid": "545757a93a9a3",
+            "cte": "BASE64",
+            "sumphash": "2396997766cdb097765e3167dd372093",
+            "name": "head-2.png"
+        },
+        {
+            "size": 8711,
+            "mime_type": "image/png",
+            "flags": 0,
+            "pepca": "p1715afe5c6bf68ee",
+            "cid": "545757a93aa3b",
+            "cte": "BASE64",
+            "sumphash": "350703ff54c4eb9ddd4a528129ee3ca5",
+            "name": "new_password.png"
+        },
+        {
+            "size": 851,
+            "mime_type": "image/png",
+            "flags": 0,
+            "pepca": "p23434e7437efbce9",
+            "cid": "545757a93aadf",
+            "cte": "BASE64",
+            "sumphash": "2504d0d9bd78573e05615fbc182c6b9e",
+            "name": "head-3.png"
+        },
+        {
+            "size": 1472,
+            "mime_type": "image/png",
+            "flags": 0,
+            "pepca": "p1206b5b2853d43db",
+            "cid": "545757a93ab73",
+            "cte": "BASE64",
+            "sumphash": "c678c76f48374db2127d4b593dd53216",
+            "name": "head-4.png"
+        },
+        {
+            "size": 3149,
+            "mime_type": "image/png",
+            "flags": 0,
+            "pepca": "p5f958058683e6092",
+            "cid": "545757a93ac07",
+            "cte": "BASE64",
+            "sumphash": "15d77c92cb66b380b0d5a674f5848bf2",
+            "name": "top-1.png"
+        },
+        {
+            "size": 3166,
+            "mime_type": "image/png",
+            "flags": 0,
+            "pepca": "p5bcd6c1d1e49346a",
+            "cid": "545757a93ac9e",
+            "cte": "BASE64",
+            "sumphash": "6f2b91c6eec7a6dd6875cd3d12652a73",
+            "name": "top-2.png"
+        },
+        {
+            "size": 4841,
+            "mime_type": "image/png",
+            "flags": 0,
+            "pepca": "pc652fd35a67d1173",
+            "cid": "545757a93ad2f",
+            "cte": "BASE64",
+            "sumphash": "e127af5d3ad38e0877a4bbbc4e1630f2",
+            "name": "foot-1.png"
+        },
+        {
+            "size": 5595,
+            "mime_type": "image/png",
+            "flags": 0,
+            "pepca": "p92f0fbc9b7707f74",
+            "cid": "545757a93adc6",
+            "cte": "BASE64",
+            "sumphash": "2b47bdd2779914a6fbba8e64d1f7d471",
+            "name": "foot-2.png"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "pe6a6ec81e6a04fd3"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p65fa33afa7b1672a"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p1715afe5c6bf68ee"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p23434e7437efbce9"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p1206b5b2853d43db"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p5f958058683e6092"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p5bcd6c1d1e49346a"
+        },
+        {
+            "name": "att-pepca",
+            "value": "pc652fd35a67d1173"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p92f0fbc9b7707f74"
+        },
+        {
+            "name": "pepca",
+            "value": "p8e982c58711d4908"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pb4297a2de80741df"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "zumail"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "skype",
+        "plain_domain": "zumail",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 8553997.73452,
+                "domain": "skype"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "ail je zaslan uzivateli ZUmail mhmhmh seznam cz Pro prihlaseni do sveho uctu pokracujte zde Chcete nas kontaktovat ",
+    "lang": "cs"
+}

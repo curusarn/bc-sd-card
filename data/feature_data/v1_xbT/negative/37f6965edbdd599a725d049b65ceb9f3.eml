@@ -1,0 +1,113 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p6538780d09ab2a2a",
+    "last10words": "nete se na nasi napovedu voyo nova cz faq http voyo nova cz predplatne confirm ct2 2ebe58eb8483fec9184e01ed9be0698001a39c67 lilikami ",
+    "pepca_style_total": 0,
+    "header_from": "nobody@nova.cz",
+    "first10words": " Vazeny uzivateli Dekujeme za Vasi registraci na VOYO cz Touto emailovou zpravou potvrzujeme registraci Vaseho uzivatelskeho ",
+    "attachments": [],
+    "word_count": 85,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/37f6965edbdd599a725d049b65ceb9f3.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p6538780d09ab2a2a"
+        }
+    ],
+    "spamscore": 1.2,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "cme-network",
+                "confidence": 70422975.0300557
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "cme-network",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "blog",
+        "plain_domain_detail": [
+            {
+                "domain": "blog",
+                "confidence": 2
+            },
+            {
+                "domain": "galerie",
+                "confidence": 2
+            },
+            {
+                "domain": "voyo",
+                "confidence": 2
+            },
+            {
+                "domain": "nova",
+                "confidence": 4
+            },
+            {
+                "domain": "tn",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Potvrzeni registrace",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1,
+                0.1
+            ],
+            "score": 1.2,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

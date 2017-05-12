@@ -1,0 +1,108 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "module": "ill",
+            "score": 1
+        }
+    ],
+    "pepca": "p278c2983034f991c",
+    "first10words": " Objednavka z www mountfield cz cislo 960146204 potvrzeni Dobry den Zbozi na Vasi objednavce bylo rezervovano a objedna",
+    "pepca_style": "p6f97320f1152c681",
+    "pepca_inline_style": "pd41ee3abb22318bf",
+    "word_count": 405,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Objednavka z www mountfield cz cislo 960146204 potvrzeni",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1,
+    "phishing": {
+        "5_top_domains_percent_2": 0.16666666666666666,
+        "5_top_domains_id_2": 2,
+        "5_top_domains_percent_3": 0.16666666666666666,
+        "5_top_domains_id_1": 0,
+        "5_top_domains_id_3": 1,
+        "5_top_domains_id_0": 0,
+        "5_top_domains_percent_1": 0.16666666666666666,
+        "5_top_domains_percent_0": 0.5
+    },
+    "header_from": "eshop@mountfield.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/8a58bde4f44839ac7f49ff51c02ff346.eml",
+    "attachments": [],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p278c2983034f991c"
+        },
+        {
+            "name": "pepca_style",
+            "value": "p6f97320f1152c681"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pd41ee3abb22318bf"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "mountfield"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "masterinter",
+        "plain_domain": "mountfield",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 89219301.4656161,
+                "domain": "masterinter"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "10 Novy stav konta po realizaci objednavky 10 Dekujeme za vasi objednavku a prejeme Vam prijemny den Vas Mountfield ",
+    "lang": "cs"
+}

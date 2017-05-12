@@ -1,0 +1,130 @@
+{
+    "phashes": [
+        {
+            "value": "p0c1d56b2afae2b8c",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pfc3fc164f0ca7b5f",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p2f60fdeca9a10f0a",
+            "name": "pepca"
+        },
+        {
+            "value": "p9e97dfd8137bfa21",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "hana.vysoudilova@cez.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/d6300c0ebb9aa8453492ce5afbf744ec.eml",
+    "attachments": [
+        {
+            "size": 1582,
+            "name": "inline001.jpg",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "inline001.jpg",
+            "sumphash": "d8d060344deaeac37bd1f0c20a2b8c76",
+            "pepca": "p0c1d56b2afae2b8c",
+            "mime_type": "image/jpeg"
+        },
+        {
+            "first10words": "d data samba pdf dzs h r p fs preseml",
+            "name": "68601730_7140175622_faktura.pdf",
+            "mime_type": "application/pdf",
+            "cte": "BASE64",
+            "flags": 0,
+            "lang": "cs",
+            "cid": "A15EF464CADE87488F602D9604BA383A@cez.cz",
+            "size": 75106,
+            "pepca": "pfc3fc164f0ca7b5f",
+            "sumphash": "63e93a04a566564a5d3d5569554cdf8c"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "pepca": "p2f60fdeca9a10f0a",
+    "phishing": {
+        "ner_domain_detected": true
+    },
+    "pepca_style": "",
+    "last10words": "hodnenou nabidku CEZ ICT Services a s NA TENTO E MAIL PROSIM NEODPOVIDEJTE JE GENEROVAN APLIKACI TISKU ",
+    "subject": "FW CEZ ICTS vyuctovani za sluzby 68601730 7140175622 faktura 11 2014",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 229131629.984,
+                "domain": "clamav"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "clamav",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "cez",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "cez"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p9e97dfd8137bfa21",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Electronic letter A A Hana Vysoudilova referent Call Centra II A ",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 433,
+    "adscore": 0,
+    "spamscore": 1.1
+}

@@ -1,0 +1,118 @@
+{
+    "phashes": [
+        {
+            "value": "peedd6fcd68c141ad",
+            "name": "att-pepca-risky"
+        },
+        {
+            "value": "pb51a2dfd074deeb9",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p40a4aa6ad480d327",
+            "name": "pepca"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "service@domain.com",
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing0/337.eml",
+    "attachments": [
+        {
+            "size": 29666,
+            "name": "qvpkc.zip",
+            "cte": "BASE64",
+            "flags": 0,
+            "sumphash": "675ca7b84099948f199f0890df0645f1",
+            "pepca": "peedd6fcd68c141ad",
+            "mime_type": "application/zip"
+        },
+        {
+            "first10words": "MZPELrUa ?ZaMEWFNA rRNuUSeO pnqrRlpA T P su E s R",
+            "size": 29550,
+            "mime_type": "application/octet-stream",
+            "cte": "PLAIN",
+            "exe_pepcas": [],
+            "lang": "un",
+            "name": "qvpkc.pif",
+            "sumphash": "b44718abf37ccfc14e7caf10d322e499",
+            "pepca": "pb51a2dfd074deeb9",
+            "flags": 3
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "pepca": "p40a4aa6ad480d327",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": " To safeguard your email account from possible termination Please follow the instructions in the attached file ",
+    "subject": "Security measures",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 14305082.6583221,
+                "domain": "paypal"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "paypal",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " To safeguard your email account from possible termination Please follow the instructions in the attached file ",
+    "lang": "en",
+    "pepcatotal": 0,
+    "word_count": 16,
+    "adscore": 0,
+    "spamscore": 1
+}

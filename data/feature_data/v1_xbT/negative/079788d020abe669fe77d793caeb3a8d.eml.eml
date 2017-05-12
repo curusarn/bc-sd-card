@@ -1,0 +1,107 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "ped58ae16e29da0b5",
+    "last10words": "silam novou opravenou jsem toho spoustu nenapsal mel jsem to na jinem papire Prace UTP Renek Ahoj zasilam fa Renek ",
+    "pepca_style_total": 0,
+    "header_from": "rene.macat@seznam.cz",
+    "first10words": " Cau Petre dne 4 1 2015 jsem ti posilal novou opravenou fakturu na 883 kc starou jsi mel zahodit a vcera mi od Pavly prisla cast",
+    "attachments": [
+        {
+            "mime_type": "application/pdf",
+            "name": "Fa.Sklen\u00e1\u0159 Petr 21.12.2014.pdf",
+            "first10words": "Fa Sklenar Petr Po cet stran Strana FAKTURA Dodavatel I",
+            "pepca": "pcf1e7bd9862b3c6d",
+            "lang": "cs",
+            "cte": "BASE64",
+            "cid": "m14ad44146f8mbdf",
+            "size": 24004,
+            "flags": 0,
+            "sumphash": "edf98bdd2972f5c6bbbd329b62663074"
+        }
+    ],
+    "word_count": 55,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/079788d020abe669fe77d793caeb3a8d.eml.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "pcf1e7bd9862b3c6d"
+        },
+        {
+            "name": "pepca",
+            "value": "ped58ae16e29da0b5"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "zatrolene-hry",
+                "confidence": 384479.345045
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "zatrolene-hry",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Re Faktura",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

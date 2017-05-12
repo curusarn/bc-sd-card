@@ -1,0 +1,110 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p33309e04b5e20c07",
+    "last10words": "low the link http merry cherry com unsubscribe php Always here to assist you Merry Cherry com Support Team http merry cherry com ",
+    "list_unsubscribe_urls": [
+        "mailto:unsubscribe@merry-cherry.com?subject=Unsubscribe_2806561"
+    ],
+    "header_from": "email_notify@merry-cherry.com",
+    "contains_list_header": true,
+    "pepcatotal": 0,
+    "attachments": [],
+    "word_count": 787,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/046f8fb1f83388abd6747711808b7fd7.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p33309e04b5e20c07"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p31df7bb275272990"
+        }
+    ],
+    "spamscore": 1.5,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "merry-cherry",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "merry-cherry",
+                "confidence": 819342666.36281
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "merry-cherry",
+                "confidence": 16
+            }
+        ],
+        "domain_keywords": "merry-cherry",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "merry-cherry",
+        "plain_domain_detail": [
+            {
+                "domain": "merry-cherry",
+                "confidence": 2
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "en",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "David 17 ladies liked and emailed you on 22 01 2015",
+    "adscore": 0,
+    "first10words": " Hello David Today is a lucky day These wonderful ladies want to start talking to you New messages from S",
+    "phishing": {
+        "ner_domain_detected": true,
+        "5_top_domains_id_0": 0,
+        "5_top_domains_percent_0": 1.0
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "p31df7bb275272990",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "long_subject"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.5
+            ],
+            "score": 1.5,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1,
+    "pepca_style_total": 0
+}

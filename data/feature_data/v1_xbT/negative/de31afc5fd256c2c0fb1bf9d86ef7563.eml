@@ -1,0 +1,133 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p1e6c92c7caff354c",
+    "last10words": "i spolecnosti Plzenska energetika a s jakekoliv zavazky nebo povinnosti neni li vyslovne v textu zpravy odesilatele uvedeno jinak ",
+    "pepca_style_total": 0,
+    "unsub_link_texts": [
+        " www pe cz tata zprava byt odeslan obchodny spolecnost plzenska energetika a"
+    ],
+    "header_from": "mvales@pe.cz",
+    "resent": true,
+    "first10words": " A A A A A A A A A A A A A A A A Dobry den A A A A A A A A A A ",
+    "attachments": [
+        {
+            "name": "image001.png",
+            "pepca": "p65eb61bb25ea12bd",
+            "cte": "BASE64",
+            "mime_type": "image/png",
+            "cid": "image001.png@01D0185D.036D6330",
+            "size": 5422,
+            "flags": 0,
+            "sumphash": "040a935dbb197aad4a497a8024caa087"
+        },
+        {
+            "name": "DPS_042_EKA_instalater.jpeg",
+            "pepca": "p9c9f486be42766fe",
+            "cte": "BASE64",
+            "mime_type": "image/jpeg",
+            "size": 594460,
+            "flags": 0,
+            "sumphash": "0139e803256230393ff6f146fdc198d0"
+        }
+    ],
+    "word_count": 245,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/de31afc5fd256c2c0fb1bf9d86ef7563.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p65eb61bb25ea12bd"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p9c9f486be42766fe"
+        },
+        {
+            "name": "pepca",
+            "value": "p1e6c92c7caff354c"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pc417e827f7e98ad3"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "ave",
+                "confidence": 8936966.037132
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "ave",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "pe",
+        "plain_domain_detail": [
+            {
+                "domain": "pe",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Objednavka oprav",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "unsub_link": "http://www.pe.cz",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "unsub_link_candidates": [
+        "http://www.pe.cz"
+    ],
+    "pepca_inline_style": "pc417e827f7e98ad3",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

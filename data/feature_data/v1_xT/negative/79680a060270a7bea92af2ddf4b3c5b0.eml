@@ -1,0 +1,156 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.1,
+                0.0,
+                4.1
+            ],
+            "name": [
+                "date_in_past",
+                "evil_script",
+                "from_missmatch",
+                "html_ent_text_plain"
+            ],
+            "module": "ill",
+            "score": 5.2
+        }
+    ],
+    "pepca": "",
+    "pepca_style": "p468554068c149993",
+    "phNotches": [
+        {
+            "subscores": [
+                1,
+                -2,
+                -2
+            ],
+            "name": [
+                "from_mismatch",
+                "unsub_link",
+                "many_emails"
+            ],
+            "module": "phish-score",
+            "score": -3
+        }
+    ],
+    "dmarc_status": {},
+    "pepca_inline_style": "pc85f5df9a39356e4",
+    "unsub_link": "http://0twg.mj.is/link/0twg/z9g7955/4/NyKeRck_VI2sok_yHCh34w/aHR0cDovL3d3dy5oYXBweXN0dWRpby5jb20vUGFyZW50L1BhbmVsL1Rlcm1zP2xhbmdjb2RlPWNzJmNvdW50cnljb2RlPWN6",
+    "word_count": 155,
+    "pepca_style_total": 0,
+    "phish_score": -3,
+    "domainstat": {},
+    "domainstat_themes": {},
+    "subject": "Vitejte v Happy Studiu dokonceni registrace rodice",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 5.2,
+    "precedence": 3,
+    "phishing": {},
+    "universalprobes": [
+        {
+            "key": "ps-from_mismatch",
+            "value": "1"
+        },
+        {
+            "key": "ps-unsub_link",
+            "value": "1"
+        },
+        {
+            "key": "ps-many_emails",
+            "value": "1"
+        }
+    ],
+    "header_from": "support@happystudio.com",
+    "first10words": " ",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/79680a060270a7bea92af2ddf4b3c5b0.eml",
+    "attachments": [],
+    "adscore": 0,
+    "extractedEmailsTotalCount": {},
+    "dkstatus": {},
+    "unsub_link_texts": [
+        " obchodny podminka "
+    ],
+    "phashes": [
+        {
+            "name": "pepca_style",
+            "value": "p468554068c149993"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pc85f5df9a39356e4"
+        }
+    ],
+    "unsub_link_candidates": [
+        "http://0twg.mj.is/link/0twg/z9g7955/4/NyKeRck_VI2sok_yHCh34w/aHR0cDovL3d3dy5oYXBweXN0dWRpby5jb20vUGFyZW50L1BhbmVsL1Rlcm1zP2xhbmdjb2RlPWNzJmNvdW50cnljb2RlPWN6"
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "nr-data"
+            },
+            {
+                "confidence": 1,
+                "domain": "nreum"
+            },
+            {
+                "confidence": 1,
+                "domain": "newrelic"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "",
+        "plain_domain": "nr-data",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "happystudio",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [
+            {
+                "confidence": 6,
+                "domain": "happystudio"
+            }
+        ],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "contains_list_header": true,
+    "list_unsubscribe_urls": [
+        "mailto:unsub-8b17b053.0twg.z9g7955@bnc.mailjet.com"
+    ],
+    "last10words": " ",
+    "theme": {},
+    "spfstatus": {},
+    "pepca_small": "p0bcedf77fd113405",
+    "lang": "cs"
+}

@@ -1,0 +1,102 @@
+{
+    "phashes": [
+        {
+            "value": "p8cd523ef0fd9bc08",
+            "name": "pepca"
+        },
+        {
+            "value": "p2ff0f793d3c5ab18",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "info@firefly-poledance.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/1215d106ff958b21129f6209c927d436.eml",
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "pepca": "p8cd523ef0fd9bc08",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": "Y2olXGkeIAE4WyO login kinterovak 40seznam cz Tanecni studio Firefly www firefly poledance cz info firefly poledance cz ",
+    "subject": " Firefly pole dance Vytvoreni noveho hesla",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 1,
+                "domain": "topsrovnani"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 13884182.31777,
+                "domain": "oilpaintjane"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "topsrovnani",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "oilpaintjane",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "firefly-poledance",
+        "plain_domain_detail": [
+            {
+                "confidence": 2,
+                "domain": "firefly-poledance"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p2ff0f793d3c5ab18",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Nekdo pozadal o vytvoreni noveho hesla pro nasledujici ucet http www firefly poledance cz Uzivatelske jmeno kinterovak se",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 47,
+    "adscore": 0,
+    "spamscore": 1
+}

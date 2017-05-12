@@ -1,0 +1,109 @@
+{
+    "phashes": [
+        {
+            "value": "pd6fea37bb7228f6d",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p58b59e895a08a941",
+            "name": "pepca"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "info@engelbert-strauss.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/71d1a6dd65998ab4c8708790c39e10c5.eml",
+    "attachments": [
+        {
+            "first10words": "Dekujeme za Vasi objednavku Dodaci lhuta je dnu Jednotkova cenacislo",
+            "size": 34265,
+            "mime_type": "application/pdf",
+            "cte": "BASE64",
+            "flags": 0,
+            "lang": "cs",
+            "name": "P\u0159\u00edloha.pdf",
+            "pepca": "pd6fea37bb7228f6d",
+            "sumphash": "b53f48329eaf02c96bea5be6c9ecb711"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "pepca": "p58b59e895a08a941",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": "r computer Internet e mails are not necessarily secure The sender does not accept responsibility for changes made to this message after it was sent ",
+    "subject": "objednavka 48960",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 229131629.984,
+                "domain": "clamav"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "clamav",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "engelbert-strauss",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "engelbert-strauss"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Vazeny pane Zajdliku posilam Vam potvrzeni objednavky S pranim hezkeho dne Cibulova Mariana engelbert strauss s r o Cechova ",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 133,
+    "adscore": 0,
+    "spamscore": 1
+}

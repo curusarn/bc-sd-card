@@ -1,0 +1,127 @@
+{
+    "phashes": [
+        {
+            "value": "p6df98aa57b7a32ba",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p39993ef399321c0d",
+            "name": "pepca"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "objednavky@superdiskont.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/4467198eef39a6b1f40e6acfdc35e2e7.eml",
+    "attachments": [
+        {
+            "size": 21615,
+            "name": "objednavka_31084800.html",
+            "cte": "BASE64",
+            "flags": 0,
+            "sumphash": "a099e7d52e495d439f1701521156a516",
+            "pepca": "p6df98aa57b7a32ba",
+            "mime_type": "text/html"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "evil_script",
+                "from_missmatch",
+                "missing_message_id"
+            ],
+            "subscores": [
+                1,
+                0.1,
+                0.0,
+                1
+            ],
+            "score": 2.1
+        }
+    ],
+    "pepca": "p39993ef399321c0d",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": "eni k Vasemu uctu sledovat take v sekci Prehled objednavek Obchodni dum SuperDiskont cz E shop powered by ShopCentrik",
+    "subject": "Objednavka c 31084800 ze SuperDISKONT cz",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 23516002.616813,
+                "domain": "superdiskont"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "superdiskont",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "trampoliny-jumpking",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "trampoliny-jumpking"
+            },
+            {
+                "confidence": 2,
+                "domain": "superdiskont"
+            },
+            {
+                "confidence": 2,
+                "domain": "fiskars-shop"
+            },
+            {
+                "confidence": 2,
+                "domain": "leifheit-shop"
+            },
+            {
+                "confidence": 2,
+                "domain": "kancelarska-kresla"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Vazeny zakazniku dekujeme za Vasi objednavku kterou jste prave potvrdil a v obchodnim dome SuperDISKONT cz ktery je provozov",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 117,
+    "adscore": 0,
+    "spamscore": 2.1
+}

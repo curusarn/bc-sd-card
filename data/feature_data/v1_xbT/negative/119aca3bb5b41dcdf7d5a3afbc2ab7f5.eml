@@ -1,0 +1,117 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pb7406c5de886a637",
+    "last10words": "enem odkazu kontaktuje nas prosim na podpora slevopark cz 2013 Slevopark cz vsechna prava vyhrazena ",
+    "pepca_style_total": 0,
+    "unsub_link_texts": [
+        "nastavit si odber pro sve mesto zde ",
+        "pokud chtit odhlasit odber vsechen e mail kliknout prosit na nasledujici odkaz ",
+        "vy z nejaky duvod nedarit odhlasit odber na vyse uvedeny odkaz kontaktovat my prosit na podpora slevopark cz "
+    ],
+    "header_from": "info@slevopark.cz",
+    "unsub_link_candidates": [
+        "http://www.slevopark.cz/cs_cz/newsletter/index.php?code=",
+        "http://www.slevopark.cz/cs_cz/account/unsubscribe.php?code=",
+        "mailto:podpora@slevopark.cz"
+    ],
+    "first10words": " Obnoveni zapomenuteho hesla Slevopark cz Vazeny zakazniku Pozadal a jste o odnoveni h",
+    "attachments": [],
+    "word_count": 240,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/119aca3bb5b41dcdf7d5a3afbc2ab7f5.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pb7406c5de886a637"
+        },
+        {
+            "name": "pepca_style",
+            "value": "p309021053002aef7"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p1bf80d1fb3d298a9"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "slevopark",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "slevopark",
+                "confidence": 15372268.1135231
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "slevopark",
+                "confidence": 1
+            }
+        ],
+        "domain_keywords": "slevopark",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "slevopark",
+        "plain_domain_detail": [
+            {
+                "domain": "slevopark",
+                "confidence": 3
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Slevopark cz zapomenute heslo",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "unsub_link": "mailto:podpora@slevopark.cz",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "p309021053002aef7",
+    "pepca_inline_style": "p1bf80d1fb3d298a9",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

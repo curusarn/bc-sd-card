@@ -1,0 +1,121 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p5602924806cbf7c3",
+    "last10words": "UJE o 30 DNI PALMER s r o Tel 421 2 33014006 9 Fax 421 2 20910805 Web www palmer sk",
+    "pepca_style_total": 0,
+    "header_from": "Vlastimil.Kubanek@palmer.sk",
+    "first10words": " POZOR doklady zasielajte vyhradne na nasu postovu adresu PALMER s r o Hlavna 30 900 31 Stupava Slovensko ATTENTION PLEASE NOTE invo",
+    "attachments": [
+        {
+            "cte": "BASE64",
+            "name": "Objedn\u00e1vka - Dopravcovi - 1214-2-161.PDF",
+            "pepca": "p69f22dc719d8ca98",
+            "flags": 0,
+            "mime_type": "application/pdf",
+            "size": 62458,
+            "lang": "un",
+            "sumphash": "d762a4537a5bd2f99c6f093dd76a004d"
+        },
+        {
+            "name": "1214-2-161.XML",
+            "pepca": "pf8e75c30959a66e1",
+            "cte": "BASE64",
+            "mime_type": "application/xml",
+            "size": 3226,
+            "flags": 0,
+            "sumphash": "79068561a74e406953c4bbf33af3516a"
+        }
+    ],
+    "word_count": 86,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/6a8e23e3025aceef941f4a6716d99c4f.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p69f22dc719d8ca98"
+        },
+        {
+            "name": "att-pepca",
+            "value": "pf8e75c30959a66e1"
+        },
+        {
+            "name": "pepca",
+            "value": "p5602924806cbf7c3"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "zlavydnes",
+                "confidence": 22040626.24272
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "zlavydnes",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "palmer",
+        "plain_domain_detail": [
+            {
+                "domain": "palmer",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "sk",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Objednavka Dopravcovi 1214 2 161",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

@@ -1,0 +1,124 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pc4ff0ebb643a3ee6",
+    "last10words": "nkovy ru Seznamte se se Zamkem Zinkovy na Youtube a Facebooku ",
+    "pepca_style_total": 0,
+    "header_from": "recepce@zamekzinkovy.cz",
+    "first10words": " Vazena pani Prokesova Dekujeme za Vas zajem o ubytovani Jsme radi ze se na nas opet obracit",
+    "attachments": [
+        {
+            "name": "image001.jpg",
+            "pepca": "p54e8961ab340ac21",
+            "cte": "BASE64",
+            "mime_type": "image/jpeg",
+            "cid": "image001.jpg@01D01850.41A6DFD0",
+            "size": 4327,
+            "flags": 0,
+            "sumphash": "a2d5f5f065e40811386d0dcaa98b791f"
+        }
+    ],
+    "word_count": 580,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/dbb43bc1b86ba953faac050314788e3a.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p54e8961ab340ac21"
+        },
+        {
+            "name": "pepca",
+            "value": "pc4ff0ebb643a3ee6"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p85ec06254786abf5"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "firotour",
+                "confidence": 100704773.56997
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "firotour",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "zamokzinkovy",
+        "plain_domain_detail": [
+            {
+                "domain": "zamokzinkovy",
+                "confidence": 2
+            },
+            {
+                "domain": "schlosszinkovy",
+                "confidence": 2
+            },
+            {
+                "domain": "zamekzinkovy",
+                "confidence": 2
+            },
+            {
+                "domain": "chateauzinkovy",
+                "confidence": 2
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "FW darkovy poukaz objednavka",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "p85ec06254786abf5",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

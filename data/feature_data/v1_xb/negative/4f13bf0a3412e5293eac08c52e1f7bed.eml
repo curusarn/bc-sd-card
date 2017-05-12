@@ -1,0 +1,109 @@
+{
+    "phashes": [
+        {
+            "value": "p987ab1a04c9c0af9",
+            "name": "pepca"
+        },
+        {
+            "value": "p99d89c50a8649118",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "noreply@notifications.skype.com",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/4f13bf0a3412e5293eac08c52e1f7bed.eml",
+    "unsub_link_candidates": [
+        "https://go.skype.com/email.unsubscribe?user=robinkoula&token=8a4135f39b"
+    ],
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "pepca": "p987ab1a04c9c0af9",
+    "phishing": {
+        "ner_domain_detected": true
+    },
+    "pepca_style": "",
+    "last10words": "oga a symbol S jsou ochranne znamky spolecnosti Skype Skype Communications S A R L 23 29 Rives de Clausen L 2165 Luxembourg ",
+    "subject": "Heslo bylo uspesne zmeneno",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 2,
+                "domain": "skype"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 370132787.192895,
+                "domain": "skype"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "skype",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "skype",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "skype",
+        "plain_domain_detail": [
+            {
+                "confidence": 4,
+                "domain": "skype"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p99d89c50a8649118",
+    "unsub_link_texts": [
+        " odhlasit odber skype neumoznovat tisnovy volani"
+    ],
+    "unsub_link": "https://go.skype.com/email.unsubscribe?user=robinkoula&token=8a4135f39b",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 1,
+    "first10words": " Skype Tento e mail byl odeslan automaticky proto na nej neodpovidejte Vazeny uzivateli robinkoula ",
+    "lang": "cs",
+    "pepcatotal": 1,
+    "word_count": 370,
+    "adscore": 0,
+    "spamscore": 1
+}

@@ -1,0 +1,111 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pdeff464e5f763234",
+    "last10words": "ni spojeni 1103978006 1111 zapsana v obchodnim registru Okresniho soudu Bratislava I Oddil Sro Vlozka cislo 67928 B ",
+    "pepca_style_total": 0,
+    "unsub_link_texts": [
+        "pokud si neprat dostavat nasi e mail kliknout prosit zde vyplnit formular a kliknout na odhlasit"
+    ],
+    "header_from": "info@stilago.cz",
+    "unsub_link_candidates": [
+        "http://unsubscribe.studio-moderna.com/?uem=daisy1811@seznam.cz&site_id=495&lang=CZ"
+    ],
+    "first10words": " Stilago Zadost o obnoveni hesla Dobry den z adresy daisy1811 seznam cz jsme zaznamenali zadost o ",
+    "attachments": [],
+    "word_count": 227,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/65984c55817b5466b7541594470f3c02.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pdeff464e5f763234"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p55edced8273b9276"
+        }
+    ],
+    "spamscore": 2,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "stilago",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "stilago",
+                "confidence": 114684811.487927
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "stilago",
+                "confidence": 1
+            }
+        ],
+        "domain_keywords": "stilago",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "stilago",
+        "plain_domain_detail": [
+            {
+                "domain": "stilago",
+                "confidence": 3
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Zadost o zmenu hesla v e shopu Stilago",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "unsub_link": "http://unsubscribe.studio-moderna.com/?uem=daisy1811@seznam.cz&site_id=495&lang=CZ",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "p55edced8273b9276",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "missing_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                1
+            ],
+            "score": 2,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

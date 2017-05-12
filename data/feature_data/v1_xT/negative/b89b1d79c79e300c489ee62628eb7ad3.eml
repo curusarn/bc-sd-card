@@ -1,0 +1,106 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "module": "ill",
+            "score": 1
+        }
+    ],
+    "pepca": "pf068d3c806a6ee07",
+    "first10words": " SALESmanago e mail Dobry den Dekujeme za prihlaseni se k newsletteru na strankach ZnamyLekar cz Kliknete na odkaz",
+    "pepca_style": "",
+    "pepca_inline_style": "p6944107ea06aa669",
+    "unsub_link": "https://www.salesmanago.pl/optIn.htm?uid=88834417-32b9-44ed-b665-7551b375286b&sec=398a349629d59a68776d3e223ef1a157c524cdd10d201e7c48171c27de9e429b&co=a0ee43c8-a8cf-4ac6-8733-e9c1548cc087&redirect=http%3A%2F%2Flekar.znamylekar.cz&tags=CZ_Formularz_newsletter_optin&smclient=88834417-32b9-44ed-b665-7551b375286b&smconv=form-confirmation&smlid=1&utm_source=salesmanago&utm_medium=smtp&utm_campaign=default",
+    "word_count": 41,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Potvrzeni o registraci na newsletter na webu ZnamyLekar cz",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1,
+    "list_unsubscribe_urls": [
+        "&auto=true"
+    ],
+    "phishing": {},
+    "header_from": "info@znamylekar.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/b89b1d79c79e300c489ee62628eb7ad3.eml",
+    "attachments": [],
+    "adscore": 0,
+    "unsub_link_texts": [
+        "cz kliknout na odkaz nize pro potvrzeni ze chtit dostavat newsletter s pozdrav znamylekar"
+    ],
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pf068d3c806a6ee07"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p6944107ea06aa669"
+        }
+    ],
+    "unsub_link_candidates": [
+        "https://www.salesmanago.pl/optIn.htm?uid=88834417-32b9-44ed-b665-7551b375286b&sec=398a349629d59a68776d3e223ef1a157c524cdd10d201e7c48171c27de9e429b&co=a0ee43c8-a8cf-4ac6-8733-e9c1548cc087&redirect=http%3A%2F%2Flekar.znamylekar.cz&tags=CZ_Formularz_newsletter_optin&smclient=88834417-32b9-44ed-b665-7551b375286b&smconv=form-confirmation&smlid=1&utm_source=salesmanago&utm_medium=smtp&utm_campaign=default"
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "morezliav",
+        "plain_domain": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 5004811.96068,
+                "domain": "morezliav"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "yves-rocher",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [
+            {
+                "confidence": 1,
+                "domain": "yves-rocher"
+            }
+        ],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "contains_list_header": true,
+    "precedence": 3,
+    "last10words": "te na odkaz nize pro potvrzeni ze chcete dostavat newsletter S pozdravem ZnamyLekar cz Najdete lekare a domluvte navstevu ",
+    "lang": "cs"
+}

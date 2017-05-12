@@ -1,0 +1,108 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "evil_script",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "module": "ill",
+            "score": 1.2
+        }
+    ],
+    "pepca": "pf11922f8f98bf5cb",
+    "first10words": " Protect customers our priority pit cerveny seznam cz We ve added a safety net for buying and selling ",
+    "pepca_style": "p25e46cde0b1c0560",
+    "pepca_inline_style": "paadf2cd6a0c59dac",
+    "word_count": 517,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "please check your account paypal remove limitation ",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.2,
+    "phishing": {
+        "5_top_domains_id_0": 0,
+        "5_top_domains_percent_1": 0.16666666666666666,
+        "5_top_domains_percent_0": 0.8333333333333334,
+        "5_top_domains_id_1": 0
+    },
+    "header_from": "costumers@us-web1.cpanel-dns.com",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/actual/data/before_04_2015/c13c78c593c8d2e862b9a2fe0abccaed.eml",
+    "attachments": [],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pf11922f8f98bf5cb"
+        },
+        {
+            "name": "pepca_style",
+            "value": "p25e46cde0b1c0560"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "paadf2cd6a0c59dac"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "paypal",
+        "plain_domain": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 618885654.300141,
+                "domain": "paypal"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "paypal",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [
+            {
+                "confidence": 8,
+                "domain": "paypal"
+            }
+        ],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "avascript activate javascript activate javascript activate javascript activate javascript activate javascript activate javascript ",
+    "lang": "en"
+}

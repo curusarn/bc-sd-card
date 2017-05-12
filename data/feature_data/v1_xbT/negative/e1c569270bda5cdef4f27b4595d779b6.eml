@@ -1,0 +1,101 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p2fa02067b903fc3b",
+    "last10words": "louha 188 35 412 01 Litomerice telefon 420 777 267 902 WWW http www spodni pradlo darka cz e mail alena andrsova seznam cz ",
+    "pepca_style_total": 0,
+    "header_from": "alena.andrsova@seznam.cz",
+    "first10words": " Spodni pradlo Darka Objednavka Jmeno Iva Pacikova Fakturacni adresa A A A A A A A A A A A A A det",
+    "attachments": [],
+    "word_count": 256,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/e1c569270bda5cdef4f27b4595d779b6.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p2fa02067b903fc3b"
+        },
+        {
+            "name": "pepca_style",
+            "value": "p32b63521b83a058c"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p8ef703ac65d7fffe"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "masterinter",
+                "confidence": 25491228.990176
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "masterinter",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "spodni-pradlo-darka",
+        "plain_domain_detail": [
+            {
+                "domain": "spodni-pradlo-darka",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Objednavka zbozi z www spodni pradlo darka cz",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "p32b63521b83a058c",
+    "pepca_inline_style": "p8ef703ac65d7fffe",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

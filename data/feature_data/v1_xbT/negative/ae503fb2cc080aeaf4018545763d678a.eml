@@ -1,0 +1,108 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p09b9f08bb53ea164",
+    "last10words": " Zapomenute heslo Email mvbv seznam cz Nove heslo xr00k Copyright 2006 2014 Nepisto cz ",
+    "pepca_style_total": 0,
+    "header_from": "zakaznik@nepisto.cz",
+    "first10words": " Zapomenute heslo Email mvbv seznam cz Nove heslo xr00k Copyright 2006 2014 Nepisto cz",
+    "attachments": [],
+    "word_count": 70,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/ae503fb2cc080aeaf4018545763d678a.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p09b9f08bb53ea164"
+        },
+        {
+            "name": "pepca_style",
+            "value": "p58841cef352c4de2"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p5e13203b245ea77d"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "brno",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "mcsv",
+                "confidence": 10256637.2474413
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "brno",
+                "confidence": 2
+            }
+        ],
+        "domain_keywords": "mcsv",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "nepisto",
+        "plain_domain_detail": [
+            {
+                "domain": "nepisto",
+                "confidence": 2
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Zapomenute heslo",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "p58841cef352c4de2",
+    "pepca_inline_style": "p5e13203b245ea77d",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

@@ -1,0 +1,102 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p26db621500eca78c",
+    "last10words": " info freshlabels cz 420 777 077 700 Freshlabels s r o Zelena 2870 Teplice IC 22793593 ",
+    "pepca_style_total": 0,
+    "header_from": "info@freshlabels.cz",
+    "first10words": " Originalni damska moda a panske obleceni boty a doplnky 420 777 077 700 Dostala se k nam Vas",
+    "attachments": [],
+    "word_count": 142,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/cf0baeb3959233d88eaad5697910609f.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p26db621500eca78c"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p23b914d07ced706b"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "freshlabels",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "freshlabels",
+                "confidence": 7744273.5099553
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "freshlabels",
+                "confidence": 5
+            }
+        ],
+        "domain_keywords": "freshlabels",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "freshlabels",
+        "plain_domain_detail": [
+            {
+                "domain": "freshlabels",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Zmena hesla",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "p23b914d07ced706b",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

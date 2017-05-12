@@ -1,0 +1,158 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pd08e9ac5146e4056",
+    "last10words": "i svarovani Jak vybrat tu spravnou Aku vrtacku Jak spravne do lesku vylestit kovy plasty a laky ",
+    "pepca_style_total": 0,
+    "header_from": "obchod@maister.cz",
+    "first10words": " Dobry den zbozi mame skladem je pripraveno k vyzvednuti na prodejne v Karlovych Varech dle objednavky viz nize S pozdravem",
+    "attachments": [
+        {
+            "name": "",
+            "pepca": "p05628f7f93541dfb",
+            "cte": "BASE64",
+            "mime_type": "image/gif",
+            "cid": "part1.06080607.00030101@maister.cz",
+            "size": 2642,
+            "flags": 0,
+            "sumphash": "eee4102ca5a756b713e289570ec1be9a"
+        },
+        {
+            "name": "",
+            "pepca": "p331fb7a8f77ee058",
+            "cte": "BASE64",
+            "mime_type": "image/jpeg",
+            "cid": "part2.08080806.03040004@maister.cz",
+            "size": 2891,
+            "flags": 0,
+            "sumphash": "b351f5dfd69e3fd3b20068d7cd4345a7"
+        }
+    ],
+    "word_count": 562,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/ae8172777831dac61e2cde0f07db6dd3.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p05628f7f93541dfb"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p331fb7a8f77ee058"
+        },
+        {
+            "name": "pepca",
+            "value": "pd08e9ac5146e4056"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p20fffc3c81f4d5fa"
+        }
+    ],
+    "spamscore": 1.2,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "masterinter",
+                "confidence": 50982457.980352
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "masterinter",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "jak-koupit-sverak",
+        "plain_domain_detail": [
+            {
+                "domain": "jak-koupit-sverak",
+                "confidence": 1
+            },
+            {
+                "domain": "jak-se-kupuje-samostmivaci-kukla-svarovaci",
+                "confidence": 1
+            },
+            {
+                "domain": "vrtak",
+                "confidence": 1
+            },
+            {
+                "domain": "maister",
+                "confidence": 2
+            },
+            {
+                "domain": "keramicke-kotouce",
+                "confidence": 1
+            },
+            {
+                "domain": "jak-koupit-zebrik",
+                "confidence": 1
+            },
+            {
+                "domain": "zavitnik",
+                "confidence": 1
+            },
+            {
+                "domain": "lesteni-kovu",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Re Vase objednavka 1862 ",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "p20fffc3c81f4d5fa",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1,
+                0.1
+            ],
+            "score": 1.2,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

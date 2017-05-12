@@ -1,0 +1,104 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "pb3f241c708be25a2",
+    "last10words": "m 3 ks 40 gr lift krem 2 ks 40 gr lift krem s kyselinou HA 1 ks 50 ml plet serum PERLA ",
+    "pepca_style_total": 0,
+    "header_from": "ajurvedakamila@gmail.com",
+    "first10words": " Ahoj Lenko posilam objednavku Dekuji Kamila 2 ks 200 ml mandlovy olej 1 ks 1 l cistici mleko c s 1 ks",
+    "attachments": [],
+    "word_count": 147,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/57817946efdf287ecd859231b0096fe9.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pb3f241c708be25a2"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "youtube",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "avon",
+                "confidence": 6872000.506545
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "youtube",
+                "confidence": 1
+            }
+        ],
+        "domain_keywords": "avon",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "omlaz",
+        "plain_domain_detail": [
+            {
+                "domain": "omlaz",
+                "confidence": 1
+            },
+            {
+                "domain": "lift",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "un",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "objednavka Aryanveda",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

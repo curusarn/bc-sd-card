@@ -1,0 +1,150 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p606089cd9c5a4f28",
+    "last10words": " IC 257 84 684 DIC CZ 257 84 684 Lekarna cz Tam me maji radi www lekarna cz krasny den preje Jana ",
+    "pepca_style_total": 0,
+    "unsub_link_texts": [
+        "to je mozny zde v priloha naleznout aktualni obchodny podminka a informace o podminka odstoupeni od kupny smlouva"
+    ],
+    "header_from": "obchod@lekarna.cz",
+    "unsub_link_candidates": [
+        "http://www.lekarna.cz/shop.php?action=cancel_order&order_id=562389914&s=14c8664b2682ef69f4a6f5cef301cb8b"
+    ],
+    "first10words": " Objednavka c 562389914 Mila klientko mily kliente dekujeme za Vasi objednavku na Lekarna cz H",
+    "attachments": [
+        {
+            "mime_type": "application/pdf",
+            "name": "vseobecne-obchodni-podminky.pdf",
+            "first10words": "Obchodni podminky Obchodni podminky spolecnosti PEARS HEALTH CYBER s r",
+            "pepca": "p954a7c36143ecdf0",
+            "lang": "cs",
+            "cte": "BASE64",
+            "size": 114799,
+            "flags": 0,
+            "sumphash": "c671d672fd1b682ee621a537ab1ce3dd"
+        },
+        {
+            "mime_type": "application/pdf",
+            "name": "informace-o-podminkach-odstoupeni-od-kupni-smlouvy.pdf",
+            "first10words": "Informace o podminkach odstoupeni od kupni smlouvy Pravo odstoupit od",
+            "pepca": "pb093a20c54d9a2af",
+            "lang": "cs",
+            "cte": "BASE64",
+            "size": 91034,
+            "flags": 0,
+            "sumphash": "a266970b8c7a9d17c6605422400ed737"
+        }
+    ],
+    "word_count": 724,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/5286c47c1ed8c730b62d1600754c52f1.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p954a7c36143ecdf0"
+        },
+        {
+            "name": "att-pepca",
+            "value": "pb093a20c54d9a2af"
+        },
+        {
+            "name": "pepca",
+            "value": "p606089cd9c5a4f28"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pc76537188763a9f1"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "lekarna",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "lekarna",
+                "confidence": 45790272.709028
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "lekarna",
+                "confidence": 3
+            }
+        ],
+        "domain_keywords": "lekarna",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "lekarna",
+        "plain_domain_detail": [
+            {
+                "domain": "lekarna",
+                "confidence": 2
+            },
+            {
+                "domain": "rna",
+                "confidence": 1
+            },
+            {
+                "domain": "rny",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Objednavka c 562389914",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "unsub_link": "http://www.lekarna.cz/shop.php?action=cancel_order&order_id=562389914&s=14c8664b2682ef69f4a6f5cef301cb8b",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "pc76537188763a9f1",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

@@ -1,0 +1,111 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "module": "ill",
+            "score": 1.1
+        }
+    ],
+    "pepca": "p86340c008595b62e",
+    "first10words": " Objednavka 1411018289 na strankach www artedio cz Dobry den dekujeme Vam za Vasi objednavku c 1411018289 Vase objednavka",
+    "pepca_style": "",
+    "pepca_inline_style": "pd2089192e38efa45",
+    "word_count": 147,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Objednavka 1411018289 na strankach www artedio cz",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.1,
+    "phishing": {},
+    "header_from": "info@artedio.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/7fe4ebec824eefb8e19a114b5c99d14c.eml",
+    "attachments": [
+        {
+            "size": 7269,
+            "mime_type": "text/html",
+            "flags": 0,
+            "pepca": "p6a86a95263983204",
+            "cte": "BASE64",
+            "sumphash": "8e2dc71dc6b9d0e84af1bebb7ad95a1d",
+            "name": "objednavka1411018289.html"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p6a86a95263983204"
+        },
+        {
+            "name": "pepca",
+            "value": "p86340c008595b62e"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pd2089192e38efa45"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "artedio"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "topsleva",
+        "plain_domain": "artedio",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 16164338.8117,
+                "domain": "topsleva"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "TML soubory Objednavka byla prijata a zaregistrovana do systemu na strankach www artedio cz z IP adresy 109 224 70 28 ",
+    "lang": "cs"
+}

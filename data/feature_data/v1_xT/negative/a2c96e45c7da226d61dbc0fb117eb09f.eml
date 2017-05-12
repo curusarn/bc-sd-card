@@ -1,0 +1,100 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "module": "ill",
+            "score": 1
+        }
+    ],
+    "pepca": "p58f2f6aef41b8462",
+    "first10words": " Dokoncete registraci uctu Rdio Jeste posledni rychly krok a muzete zacit objevovat a prehrav",
+    "pepca_style": "",
+    "pepca_inline_style": "p55f24185344cb0a0",
+    "word_count": 147,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Dokoncit registraci u sluzby Rdio",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1,
+    "list_unsubscribe_urls": [
+        "http://email.rdio.com/wf/unsubscribe?upn=aOHLpqLjAhgvtXyHMs-2B9UoPhC9RCkCJ9Y1gad6scrcyxhDOOO92JlnUkXC2VzDwvqf2AT3wMtloZIetaapOZblzJyOmki1swPX8fTtHgwmjaYsSb5TnM0g-2BExWSC3zClYEdRe98tdgpTZLrtd89CflvGmUpbgK-2BLxBQddYd-2BJvg551EL-2BaNwLFyq5C-2FfBRqX1ifax-2BrMXPQK46ORRooSgZennOTjiOEQpti6hegcyunsqrR5LxJPbTKPTLudq-2B5K",
+        "mailto:unsubscribe@email.rdio.com?subject=http://email.rdio.com/wf/unsubscribe*q*upn=aOHLpqLjAhgvtXyHMs-2B9UoPhC9RCkCJ9Y1gad6scrcyxhDOOO92JlnUkXC2VzDwvqf2AT3wMtloZIetaapOZblzJyOmki1swPX8fTtHgwmjaYsSb5TnM0g-2BExWSC3zClYEdRe98tdgpTZLrtd89CflvGmUpbgK-2BLxBQddYd-2BJvg551EL-2BaNwLFyq5C-2FfBRqX1ifax-2BrMXPQK46ORRooSgZennOTjiOEQpti6hegcyunsqrR5LxJPbTKPTLudq-2B5K"
+    ],
+    "phishing": {},
+    "header_from": "no-reply@rdio.com",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/a2c96e45c7da226d61dbc0fb117eb09f.eml",
+    "attachments": [],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p58f2f6aef41b8462"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p55f24185344cb0a0"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "rdio"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "aweber",
+        "plain_domain": "rdio",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 95237010.2572346,
+                "domain": "aweber"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "contains_list_header": true,
+    "precedence": 3,
+    "last10words": "nt St Suite 200 San Francisco CA 94103 If you would like to unsubscribe and stop receiving these emails unsublink tag ",
+    "lang": "cs"
+}

@@ -1,0 +1,105 @@
+{
+    "phashes": [
+        {
+            "value": "pdd988d7ea5ad5cc2",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pe8fa3c44e6105ded",
+            "name": "pepca"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "manager_406369580772581ib@bbt.com",
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/1694.eml",
+    "attachments": [
+        {
+            "size": 7844,
+            "name": "caine.gif",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "C848A185K5",
+            "sumphash": "11ff525b12f431cba52913272075bc9a",
+            "pepca": "pdd988d7ea5ad5cc2",
+            "mime_type": "image/gif"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "long_subject"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.5
+            ],
+            "score": 1.5
+        }
+    ],
+    "pepca": "pe8fa3c44e6105ded",
+    "phishing": {
+        "ner_domain_detected": true
+    },
+    "pepca_style": "",
+    "last10words": "he floor She would find them if she took it into her head to turn the mattress he supposed but that was a chance he was prepared to take be ",
+    "subject": "BB T important security update Tue 20 Mar 2007 03 06 24 0800 ",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 48252373.4163737,
+                "domain": "aweber"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "aweber",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Kirsten is saying Make a new plan Stan billion derogate It was a skunk There were lots of sardines in those flat rect",
+    "lang": "en",
+    "pepcatotal": 0,
+    "word_count": 100,
+    "adscore": 0,
+    "spamscore": 1.5
+}

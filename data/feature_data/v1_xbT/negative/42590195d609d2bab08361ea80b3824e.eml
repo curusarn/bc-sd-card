@@ -1,0 +1,103 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p6918035ec81acfa8",
+    "last10words": " ReporterShop V pripade odpovedi na tento email zachovavejte prosim historii zprav Usnadnite tim budouci komunikaci s Vami ",
+    "pepca_style_total": 0,
+    "header_from": "asistentka@e-reporter.cz",
+    "first10words": " Reportershop cz objev svuj styl Prave jsme prijali zadost o nove heslo Heslo si obnovis kliknutim",
+    "attachments": [],
+    "word_count": 90,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/42590195d609d2bab08361ea80b3824e.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p6918035ec81acfa8"
+        },
+        {
+            "name": "pepca_style",
+            "value": "p2df2b039d9818d0a"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pd4ae6f31cc79c3ee"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "mcsv",
+                "confidence": 10256637.2474413
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "mcsv",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "reportershop",
+        "plain_domain_detail": [
+            {
+                "domain": "reportershop",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "ReporterShop cz Obnoveni hesla",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "p2df2b039d9818d0a",
+    "pepca_inline_style": "pd4ae6f31cc79c3ee",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

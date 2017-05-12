@@ -1,0 +1,111 @@
+{
+    "phashes": [
+        {
+            "value": "p5f93e03c409849b6",
+            "name": "pepca"
+        },
+        {
+            "value": "p7f92689b3f41bba9",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 2,
+    "header_from": "ad@arenabonus.com",
+    "email_path": "/mfs/replicated/datasets/phishing/datasets/deduplicated_cz_phish_merged/47691aff947ae039c846f18879137b04.eml",
+    "unsub_link_candidates": [
+        "http://edmbonus.com/unsub?l=cz&sid=48435c535d98a239c65938201400048560&cid=6ea9ab1baa0efb9e1291400048560"
+    ],
+    "attachments": [],
+    "contains_list_header": true,
+    "last10words": "me Zavolejte jeste dnes Pokud nechcete dostavat dalsi e maily zde se muzete odhlasit ",
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca": "p5f93e03c409849b6",
+    "subject": "Za jediny vikend muzete zhubnout i 2 5 kg",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [
+            {
+                "confidence": 8,
+                "domain": "arenabonus"
+            }
+        ],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 21965423.9374,
+                "domain": "stepstone"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "arenabonus",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "stepstone",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p7f92689b3f41bba9",
+    "unsub_link_texts": [
+        "pokud nechtit dostavat dalsi e mail zde se moct odhlasit "
+    ],
+    "list_unsubscribe_urls": [
+        "http://edmbonus.com/unsub?l=cz&sid=48435c535d98a239c65938201400048560&cid=6ea9ab1baa0efb9e1291400048560",
+        "mailto:bounce@edmpoint.com"
+    ],
+    "unsub_link": "http://edmbonus.com/unsub?l=cz&sid=48435c535d98a239c65938201400048560&cid=6ea9ab1baa0efb9e1291400048560",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Nove Lecba c 1 bez rizika snizujici pocet obeznich li di ve Spojenych statec",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 526,
+    "adscore": 0,
+    "spamscore": 1.1
+}

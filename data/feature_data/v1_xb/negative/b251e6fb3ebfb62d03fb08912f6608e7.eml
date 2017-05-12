@@ -1,0 +1,102 @@
+{
+    "phashes": [
+        {
+            "value": "p85972102f48fe053",
+            "name": "pepca"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "info@nejremeslnici.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/b251e6fb3ebfb62d03fb08912f6608e7.eml",
+    "unsub_link_candidates": [
+        "http://www.nejremeslnici.cz/email_validation_requests/6f4cb2ca34568137092cbc540a243b99370245e4?fp=1"
+    ],
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "pepca": "p85972102f48fe053",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": "cbc540a243b99370245e4 fp 1 a stisknete Enter Uspesny den preje Vas tym NejRemeslnici cz 775 910 028 nebo 775 370 317 ",
+    "subject": "Zapomenute heslo NejRemeslnici cz",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 12052471.19228,
+                "domain": "nejremeslnici"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "nejremeslnici",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "nejremeslnici",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "nejremeslnici"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "unsub_link_texts": [
+        "kliknout na tento link "
+    ],
+    "unsub_link": "http://www.nejremeslnici.cz/email_validation_requests/6f4cb2ca34568137092cbc540a243b99370245e4?fp=1",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Dobry den na webu NejRemeslnici jsme dostali pozadavek na prihlaseni pres jednorazovy klic z duvodu zapomenuteho he",
+    "lang": "cs",
+    "pepcatotal": 1,
+    "word_count": 59,
+    "adscore": 0,
+    "spamscore": 1.1
+}

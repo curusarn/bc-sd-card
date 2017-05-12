@@ -1,0 +1,105 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "module": "ill",
+            "score": 1
+        }
+    ],
+    "pepca": "pebe656fcad132130",
+    "first10words": " KELLY CZ PRAHA9 faktura 3140292710 vystavena 15 12 2014 11 47 pro ALFAOMEGA CAR spol s r o ",
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "word_count": 48,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Faktura 3140292710",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1,
+    "phishing": {},
+    "header_from": "obchod.praha9@autokelly.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/82f1345f063092b96ec216a2e287eee0.eml",
+    "attachments": [
+        {
+            "size": 907,
+            "mime_type": "text/comma-separated-values",
+            "flags": 0,
+            "pepca": "p20cff94d8c9bb740",
+            "cte": "QPRINT",
+            "sumphash": "02f78f5a0c39e750b3be92d526200c14",
+            "name": "3140292710.csv"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p20cff94d8c9bb740"
+        },
+        {
+            "name": "pepca",
+            "value": "pebe656fcad132130"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "kelly"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "care",
+        "plain_domain": "kelly",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 6182759.66537,
+                "domain": "care"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": " filtr vzduchovy STARLINE 4 21 78 00 377 52 Celkem 1341 26 Kc bez DPH 1623 00 vcetne DPH Forma uhrady v hotovosti Vystavil a Jana Rejlkova",
+    "lang": "cs"
+}

@@ -1,0 +1,108 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p3d274ec988f67ee4",
+    "last10words": "publika s r o Karlovo nam 16 120 00 Praha 2 Tel 498 880 027 E mail info kredito24 cz Internet www kredito24 cz ",
+    "pepca_style_total": 0,
+    "header_from": "info@kredito24.com",
+    "first10words": " Kredito24 Zobrazuje se zprava spatne Kliknete sem Pridejte info kredito24 cz do sveho adresare ",
+    "attachments": [],
+    "word_count": 312,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/3692b3b6562e14d13b5dd02fc3a92caf.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p3d274ec988f67ee4"
+        },
+        {
+            "name": "pepca_style",
+            "value": "p4297570626951351"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p5cd0bb1ba5034be5"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "kredito24",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "kredito24",
+                "confidence": 9775086.856859
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "kredito24",
+                "confidence": 18
+            }
+        ],
+        "domain_keywords": "kredito24",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "kredito24",
+        "plain_domain_detail": [
+            {
+                "domain": "kredito24",
+                "confidence": 3
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Dobry den Obnovte prosim sve heslo",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "p4297570626951351",
+    "pepca_inline_style": "p5cd0bb1ba5034be5",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

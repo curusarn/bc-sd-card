@@ -1,0 +1,109 @@
+{
+    "phashes": [
+        {
+            "value": "pb5f3bebcdc3d947f",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p64983506ec49d175",
+            "name": "pepca"
+        },
+        {
+            "value": "p917067ce59f52a6a",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "BednarovaVeronika1@seznam.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/c046d346b5d64e10bfc279b3cc8b4214.eml",
+    "attachments": [
+        {
+            "size": 22223,
+            "name": "dort ko\u010dka.jpg",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "m14a4d8c9642m61b",
+            "sumphash": "6bf14f43d9cb2a63b1f81a97bcdfa921",
+            "pepca": "pb5f3bebcdc3d947f",
+            "mime_type": "image/jpeg"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "pepca": "p64983506ec49d175",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": "otazy nevahejte mne kontaktovat zpet Krejcova Veronika tel 724 750 158 ",
+    "subject": "Fwd Objednavka dortu",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 2926154.69879,
+                "domain": "elektro-obojky"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "elektro-obojky",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "p917067ce59f52a6a",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Jen male upresneni roku samozrejme tento rok 2014 prepisovala jsem pouze drivejsi mail Puvodni zprava ",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 147,
+    "adscore": 0,
+    "spamscore": 1.1
+}

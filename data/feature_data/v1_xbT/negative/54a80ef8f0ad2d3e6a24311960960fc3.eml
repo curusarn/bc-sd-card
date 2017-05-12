@@ -1,0 +1,131 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p011645b0fcd94e88",
+    "last10words": "email zoltan zsebi rafinanzorbico hu www orbico com A A www rafinanzorbico hu A A ",
+    "pepca_style_total": 0,
+    "header_from": "zoltan.zsebi@rafinanzorbico.hu",
+    "first10words": " D obry de n A A V prilohe Vam posielame fakturu v elektronickom formate Papierovu form",
+    "attachments": [
+        {
+            "name": "image001.png",
+            "pepca": "p66122c181de34843",
+            "cte": "BASE64",
+            "mime_type": "image/png",
+            "cid": "image001.png@01D0185C.E9C1E280",
+            "size": 6662,
+            "flags": 0,
+            "sumphash": "5dfbd17511d81c78870db2fce6f347f4"
+        },
+        {
+            "mime_type": "application/pdf",
+            "name": "Elberry_51241167.pdf",
+            "first10words": "FAKTURA DANOVY DOKLAD Strana ELBERRY s r o Rafinanz Orbico",
+            "pepca": "pc8830d400c5f0103",
+            "lang": "cs",
+            "cte": "BASE64",
+            "size": 140159,
+            "flags": 0,
+            "sumphash": "8e8260fa3e7792a6eb6867be2a9195b8"
+        }
+    ],
+    "word_count": 177,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/54a80ef8f0ad2d3e6a24311960960fc3.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p66122c181de34843"
+        },
+        {
+            "name": "att-pepca",
+            "value": "pc8830d400c5f0103"
+        },
+        {
+            "name": "pepca",
+            "value": "p011645b0fcd94e88"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p00e34065b5e6f19c"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "stop",
+                "confidence": 3902996.61414
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "stop",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "orbico",
+        "plain_domain_detail": [
+            {
+                "domain": "orbico",
+                "confidence": 2
+            },
+            {
+                "domain": "rafinanzorbico",
+                "confidence": 2
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "sk",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Faktura",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "p00e34065b5e6f19c",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

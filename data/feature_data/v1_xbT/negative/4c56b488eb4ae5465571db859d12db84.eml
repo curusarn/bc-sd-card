@@ -1,0 +1,134 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p74e1affc1f0840f8",
+    "last10words": "l 604 587 769 www naradi pro cz Fakturacni udaje Ondrej Cizek Stafova 1121 Horice 508 01 ICO 87391643 DIC CZ9105033443 ",
+    "pepca_style_total": 0,
+    "header_from": "info@naradi-pro.cz",
+    "first10words": " Puvodni zprava Od Ondrej Cizek cizek17 seznam cz Komu info naradi pro cz Odeslano 15 12 2014 10 45 1",
+    "attachments": [
+        {
+            "mime_type": "application/pdf",
+            "name": "Faktura_14_FV1457.pdf",
+            "first10words": "Faktura FAKTURA DANOVY DOKLAD c FV Ondrej Cizek Variabilni symbol",
+            "pepca": "p2dbb6d713d8d1782",
+            "lang": "cs",
+            "cte": "BASE64",
+            "size": 63148,
+            "flags": 0,
+            "sumphash": "e60ade85025e9dd97934db153487b64b"
+        },
+        {
+            "mime_type": "application/pdf",
+            "name": "Dodac\u00ed_list_14_FV1457.pdf",
+            "first10words": "Dodaci list DODACI LIST K FAKTURE c FV Dodavatel Ondrej",
+            "pepca": "p1ae6ebd42a19e112",
+            "lang": "cs",
+            "cte": "BASE64",
+            "size": 54514,
+            "flags": 0,
+            "sumphash": "65388f85e435b80208639ebfe77ab515"
+        }
+    ],
+    "word_count": 248,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/4c56b488eb4ae5465571db859d12db84.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p2dbb6d713d8d1782"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p1ae6ebd42a19e112"
+        },
+        {
+            "name": "pepca",
+            "value": "p74e1affc1f0840f8"
+        },
+        {
+            "name": "pepca_style",
+            "value": "pd4e3c5cb8dda5d3a"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p8fad2e4bfac608bc"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "vshosting",
+                "confidence": 6751213.2411078
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "vshosting",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "naradi-pro",
+        "plain_domain_detail": [
+            {
+                "domain": "naradi-pro",
+                "confidence": 2
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Re Faktura",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "pd4e3c5cb8dda5d3a",
+    "pepca_inline_style": "p8fad2e4bfac608bc",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

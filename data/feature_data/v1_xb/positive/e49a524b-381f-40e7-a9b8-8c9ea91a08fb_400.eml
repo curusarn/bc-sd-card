@@ -1,0 +1,103 @@
+{
+    "phashes": [
+        {
+            "value": "p792a20b24e7abc5a",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pf29096bf94f35aef",
+            "name": "pepca"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "clientservice-id14863ver@security.53.com",
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/400.eml",
+    "attachments": [
+        {
+            "size": 10310,
+            "name": "corvus.gif",
+            "cte": "BASE64",
+            "flags": 0,
+            "cid": "HGNBTF3YK1",
+            "sumphash": "5936feb5e2c1bca6eff6cb40aa4c9443",
+            "pepca": "p792a20b24e7abc5a",
+            "mime_type": "image/gif"
+        }
+    ],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1
+        }
+    ],
+    "pepca": "pf29096bf94f35aef",
+    "phishing": {
+        "ner_domain_detected": true
+    },
+    "pepca_style": "",
+    "last10words": "I meant he could see her push ing bales of hay out of the loft with the heel of her boot could see them tumbling to the barn floor allentown ",
+    "subject": "Fifth Third Bank Notification",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 103739326.438147,
+                "domain": "aweber"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "aweber",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " He would know the real stuff when he found it demurring compost A closer look had shown him a wide white stripe up the cat s back ",
+    "lang": "en",
+    "pepcatotal": 0,
+    "word_count": 193,
+    "adscore": 0,
+    "spamscore": 1
+}

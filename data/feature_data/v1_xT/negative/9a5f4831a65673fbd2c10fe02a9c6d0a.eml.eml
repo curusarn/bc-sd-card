@@ -1,0 +1,104 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "module": "ill",
+            "score": 1.1
+        }
+    ],
+    "pepca": "pf76e708da58568f4",
+    "first10words": " Dobry den V pripade ze tato faktura obsahuje jine nez Vami objednane zbozi kontaktujte nas e mailem na is profitpraha cz radi Va",
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "word_count": 55,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "faktura vydana FV215100156",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.1,
+    "phishing": {},
+    "header_from": "profitpraha@tpnet.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/9a5f4831a65673fbd2c10fe02a9c6d0a.eml.eml",
+    "attachments": [
+        {
+            "size": 177891,
+            "mime_type": "application/pdf",
+            "flags": 0,
+            "pepca": "p9e4947a146873996",
+            "first10words": "FV Odeslano elektronicky Mob Dodavatel Profit sdruzeni Michal Maly Lustenicka",
+            "cte": "BASE64",
+            "sumphash": "b049bfeca88abc6535a400fd540ae49b",
+            "name": "_Faktura vydan\u00e1 - PROFIT-FV215100156.pdf",
+            "lang": "cs"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p9e4947a146873996"
+        },
+        {
+            "name": "pepca",
+            "value": "pf76e708da58568f4"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "masterinter",
+        "plain_domain": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 12745614.495088,
+                "domain": "masterinter"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "prodlene nas o tom prosim informujte emailem na is profitpraha cz Dekujeme Profit o s Strakonicka 876 Praha 5 Velka Chuchle PSC 15900",
+    "lang": "cs"
+}

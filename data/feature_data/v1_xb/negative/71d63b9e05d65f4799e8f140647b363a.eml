@@ -1,0 +1,99 @@
+{
+    "phashes": [
+        {
+            "value": "p0e2aec2b4a74472f",
+            "name": "pepca"
+        },
+        {
+            "value": "p9a255f044fd027e3",
+            "name": "pepca_style"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "info@e-detskysvet.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/71d63b9e05d65f4799e8f140647b363a.eml",
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "long_subject"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.5
+            ],
+            "score": 1.5
+        }
+    ],
+    "pepca": "p0e2aec2b4a74472f",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "p9a255f044fd027e3",
+    "last10words": "ejna Detsky svet Tyrsova 2896 Zatec 438 01 Tel 737 92 02 02 607 57 64 03 info e detskysvet cz Datum 03 11 2014 16 16 20 ",
+    "subject": "Potvrzeni registrace e Detsky svet http www e detskysvet cz ",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 7067265.44269,
+                "domain": "jenprace"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "jenprace",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "e-detskysvet",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "e-detskysvet"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 4,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Vazeny zakazniku Vazeny zakazniku potvrzujeme Vasi uspesnou registraci do internetove prodejny e Detsky svet htt",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 222,
+    "adscore": 0,
+    "spamscore": 1.5
+}

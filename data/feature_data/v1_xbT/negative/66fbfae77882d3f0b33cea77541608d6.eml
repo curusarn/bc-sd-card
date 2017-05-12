@@ -1,0 +1,110 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p1bb2b6ccaf2867f8",
+    "last10words": "nete na tlacitko vyse Pro vice informaci muzete kontaktovat marketing ketodiet cz ",
+    "pepca_style_total": 0,
+    "unsub_link_texts": [
+        " kliknout zde pro potvrzeni vas prihlaseni do nas databaze pokud byt tento email obdrzet a omylem jednoduse jej vymazat",
+        " email marketing powered by mailchimp mailchimp email marketing "
+    ],
+    "header_from": "marketing@ketodiet.cz",
+    "unsub_link_candidates": [
+        "http://ketodiet.us7.list-manage.com/subscribe/confirm?u=7733ac0baa255a23da2b87099&id=c56c788067&e=f58ac14537",
+        "http://www.mailchimp.com/monkey-rewards/?utm_source=freemium_newsletter&utm_medium=email&utm_campaign=monkey_rewards&aid=7733ac0baa255a23da2b87099&afl=1"
+    ],
+    "first10words": " Newsletter KetoDiet Prihlaseni k newsletteru Tato stranka byla prelozena automaticky Zobrazit v puvodni",
+    "attachments": [],
+    "word_count": 133,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/66fbfae77882d3f0b33cea77541608d6.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p1bb2b6ccaf2867f8"
+        },
+        {
+            "name": "pepca_style",
+            "value": "p25dfe2e5dd31555e"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p3faaee75f9f0974b"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "sam73",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "ketodiet",
+                "confidence": 42333982.7708
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "sam73",
+                "confidence": 1
+            }
+        ],
+        "domain_keywords": "ketodiet",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Newsletter KetoDiet Potvrzeni registrace",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "unsub_link": "http://www.mailchimp.com/monkey-rewards/?utm_source=freemium_newsletter&utm_medium=email&utm_campaign=monkey_rewards&aid=7733ac0baa255a23da2b87099&afl=1",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "p25dfe2e5dd31555e",
+    "pepca_inline_style": "p3faaee75f9f0974b",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

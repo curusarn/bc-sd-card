@@ -1,0 +1,115 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p5b1fdb84e7c5a4ef",
+    "last10words": " Uzivatelske jmeno v3 ladypopular com x Kristyna x v3 ladypopular cz x Kristyna x ",
+    "list_unsubscribe_urls": [
+        "http://xs-software.net/crm/unsubscribe.php?mail=kikijakoubkova.001@seznam.cz&hash=76c6d3edd2523ac5f9ad710fbfdb0caa"
+    ],
+    "unsub_link_texts": [
+        "  ahoj x"
+    ],
+    "header_from": "noreply@xssoftgames.com",
+    "contains_list_header": true,
+    "pepcatotal": 0,
+    "attachments": [],
+    "word_count": 212,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/c1f2c34096d4946d5771bdec1f22d8f7.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p5b1fdb84e7c5a4ef"
+        },
+        {
+            "name": "pepca_style",
+            "value": "pd56c0b091c883783"
+        }
+    ],
+    "spamscore": 2,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "xssoftgames",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "xssoftgames",
+                "confidence": 9424739.108814
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "xssoftgames",
+                "confidence": 3
+            }
+        ],
+        "domain_keywords": "xssoftgames",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "ladypopular",
+        "plain_domain_detail": [
+            {
+                "domain": "ladypopular",
+                "confidence": 3
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Zapomneli jste heslo Lady Popular Modni Arenu ",
+    "adscore": 0,
+    "first10words": " Forgotten password in Ladypopular Ahoj x Kristyna x Tento e mail jste obdrzela proto",
+    "unsub_link": "#",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "pd56c0b091c883783",
+    "unsub_link_candidates": [
+        "#"
+    ],
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "missing_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                1
+            ],
+            "score": 2,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1,
+    "pepca_style_total": 2
+}

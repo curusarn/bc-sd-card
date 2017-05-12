@@ -1,0 +1,113 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p3717fa29f661ff16",
+    "last10words": " Dekujeme za nakup na Geekshop cz If you d like to unsubscribe and stop receiving these emails click here ",
+    "list_unsubscribe_urls": [
+        "http://clicktrack.sendgrid.com/wf/unsubscribe?upn=UGYMqlrIS80-2BooHbz8cAct1tPWcNtTFrJHgBwZ775eNV8bU4BTv5MFjHdc2PmPZ-2Fu-2FyTn4DrdqZaak-2B3DKBVpspG-2F-2FV1LnoNld5Loo3e9Sa7KWSsz6cANYNJKcjiDR7eAqsgK7uzEAUjljNbx6qNneqLVCG522Y07TR3ZCRMJ0q-2BA8jezpEtPm5poBZ6TJZeEZJSmSm8eZOh6Oj5kwoFUg-3D-3D",
+        "mailto:unsubscribe@sendgrid.me?subject=http://clicktrack.sendgrid.com/wf/unsubscribe*q*upn=UGYMqlrIS80-2BooHbz8cAct1tPWcNtTFrJHgBwZ775eNV8bU4BTv5MFjHdc2PmPZ-2Fu-2FyTn4DrdqZaak-2B3DKBVpspG-2F-2FV1LnoNld5Loo3e9Sa7KWSsz6cANYNJKcjiDR7eAqsgK7uzEAUjljNbx6qNneqLVCG522Y07TR3ZCRMJ0q-2BA8jezpEtPm5poBZ6TJZeEZJSmSm8eZOh6Oj5kwoFUg-3D-3D"
+    ],
+    "header_from": "objednavky@geekshop.cz",
+    "contains_list_header": true,
+    "pepcatotal": 0,
+    "attachments": [],
+    "word_count": 214,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/dabb97cbe1a02f9a91298f3d682a00e4.eml",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p3717fa29f661ff16"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p7168c8195a9107ea"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "starstable",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "aweber",
+                "confidence": 110878091.933974
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "starstable",
+                "confidence": 1
+            },
+            {
+                "domain": "gmail",
+                "confidence": 1
+            }
+        ],
+        "domain_keywords": "aweber",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "geekshop",
+        "plain_domain_detail": [
+            {
+                "domain": "geekshop",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Geekshop Vase objednavka 7780 z Geekshop cz byla odeslana",
+    "adscore": 0,
+    "first10words": " Geekshop cz Vase objednavka byla odeslana Vase posledni objednavka na Geekshop cz byla doko",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "p7168c8195a9107ea",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1,
+    "pepca_style_total": 0
+}

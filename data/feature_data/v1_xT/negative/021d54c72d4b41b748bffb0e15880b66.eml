@@ -1,0 +1,124 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging"
+            ],
+            "module": "ill",
+            "score": 1.1
+        }
+    ],
+    "pepca": "p93d04ec062c95fd1",
+    "first10words": " Hi Petr Depending on your schedule training could be on the 16th morning or afternoon you have to count abou",
+    "pepca_style": "",
+    "pepca_inline_style": "pbf337f0f5a70b7a8",
+    "word_count": 1272,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "RE cadenced order",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.1,
+    "phishing": {},
+    "header_from": "katell.lagadec@pool-technologie.fr",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/021d54c72d4b41b748bffb0e15880b66.eml",
+    "attachments": [
+        {
+            "sumphash": "dc5b5ace27d0916fed08dfee55dd0748",
+            "mime_type": "image/gif",
+            "flags": 0,
+            "size": 0,
+            "cid": "image001.gif@01D0371B.AB49F5A0",
+            "cte": "BASE64",
+            "name": "image001.gif"
+        },
+        {
+            "sumphash": "dc5b5ace27d0916fed08dfee55dd0748",
+            "mime_type": "image/gif",
+            "flags": 0,
+            "size": 0,
+            "cid": "image002.gif@01D0371B.AB49F5A0",
+            "cte": "BASE64",
+            "name": "image002.gif"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p93d04ec062c95fd1"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pbf337f0f5a70b7a8"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "confidence": 2,
+                "domain": "kawana"
+            },
+            {
+                "confidence": 3,
+                "domain": "pool-technologie"
+            },
+            {
+                "confidence": 1,
+                "domain": "pooltechnika"
+            }
+        ],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "amazon",
+        "plain_domain": "kawana",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 72495257.2535643,
+                "domain": "amazon"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "ol Technologie 2014 ici Consulter notre catalogue Kawana 2014 ici ",
+    "lang": "en"
+}

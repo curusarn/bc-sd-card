@@ -1,0 +1,140 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p65d9ea6f1d42a4a0",
+    "last10words": "ternet Shop s r o Videnska 101 119 619 00 Brno Ceska republika tel 530 514 000 fax 541511835 ICO 27609057 DIC CZ27609057 ",
+    "pepca_style_total": 0,
+    "header_from": "info@parfums.cz",
+    "first10words": " Dobry den dekujeme za Vas nakup na www parfums cz Vasi objednavku jsme prijali a nasi pracovnici ji zacali zpracovavat Jakmile ",
+    "attachments": [
+        {
+            "name": "order.html",
+            "pepca": "p537ed0984b13e9db",
+            "cte": "BASE64",
+            "mime_type": "text/html",
+            "size": 4412,
+            "flags": 0,
+            "sumphash": "a45be6399fec848ed9d76e6c8ab7873c"
+        },
+        {
+            "name": "obchodni-podminky-internet-shop.html",
+            "pepca": "p637661339190b8df",
+            "cte": "BASE64",
+            "mime_type": "text/html",
+            "size": 24615,
+            "flags": 0,
+            "sumphash": "2c925cc7a5c97253bd2f5be7d9897280"
+        }
+    ],
+    "word_count": 323,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/270717.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p537ed0984b13e9db"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p637661339190b8df"
+        },
+        {
+            "name": "pepca",
+            "value": "p65d9ea6f1d42a4a0"
+        }
+    ],
+    "spamscore": 1.5,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "parfums",
+                "confidence": 43094015.3881062
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "parfums",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "pricemania",
+        "plain_domain_detail": [
+            {
+                "domain": "pricemania",
+                "confidence": 1
+            },
+            {
+                "domain": "silver",
+                "confidence": 1
+            },
+            {
+                "domain": "parfums",
+                "confidence": 3
+            },
+            {
+                "domain": "heureka",
+                "confidence": 1
+            },
+            {
+                "domain": "cz",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Potvrzeni Vasi objednavky cislo 101835608 na www parfums cz darek pro Vas ",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": true,
+        "5_top_domains_id_0": 0,
+        "5_top_domains_percent_0": 1.0
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "long_subject"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.5
+            ],
+            "score": 1.5,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

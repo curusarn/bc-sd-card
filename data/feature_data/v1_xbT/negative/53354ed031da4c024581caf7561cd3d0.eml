@@ -1,0 +1,116 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p5ec3b09c1a0fd406",
+    "last10words": "Kc Postovne 150 Kc Celkem 1 630 Kc Marediving Potapecske vybaveni MARES pouziva OpenCart ",
+    "pepca_style_total": 0,
+    "header_from": "rove@volny.cz",
+    "first10words": " Marediving Potapecske vybaveni MARES Objednavka 3843 Dekujeme za Vas zajem o zbozi z internetoveho obchodu M",
+    "attachments": [
+        {
+            "name": "logo_mares_diving.jpg",
+            "pepca": "pafec62e72cd7ef39",
+            "cte": "BASE64",
+            "mime_type": "image/jpeg",
+            "cid": "logo_mares_diving.jpg",
+            "size": 35661,
+            "flags": 0,
+            "sumphash": "a4e03e892738cf084e834fa224f7b73b"
+        }
+    ],
+    "word_count": 224,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/53354ed031da4c024581caf7561cd3d0.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "pafec62e72cd7ef39"
+        },
+        {
+            "name": "pepca",
+            "value": "p5ec3b09c1a0fd406"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p5645c398a83de37e"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "masterinter",
+                "confidence": 38236843.485264
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "masterinter",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "marediving",
+        "plain_domain_detail": [
+            {
+                "domain": "marediving",
+                "confidence": 1
+            },
+            {
+                "domain": "opencart",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "Marediving Potapecske vybaveni MARES Objednavka 3843",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "p5645c398a83de37e",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

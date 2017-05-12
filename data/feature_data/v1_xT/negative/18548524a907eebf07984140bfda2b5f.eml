@@ -1,0 +1,105 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "module": "ill",
+            "score": 1.1
+        }
+    ],
+    "pepca": "pc2c1d601b1aec872",
+    "first10words": " Za minulou dekuji a posilam jeste jednu postovne bude 49 Diky B Puvodni zprava Od zs",
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "word_count": 48,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Fwd objednavka",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.1,
+    "phishing": {},
+    "header_from": "Boket@seznam.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/18548524a907eebf07984140bfda2b5f.eml",
+    "attachments": [
+        {
+            "size": 38912,
+            "mime_type": "application/msword",
+            "flags": 0,
+            "pepca": "p69dbf5373d5b0b0f",
+            "first10words": "PROBLEMY VE SKOLSTVI O B",
+            "cid": "m14a4d80ddbam13106",
+            "cte": "BASE64",
+            "sumphash": "33b9a636cde563c80131848108b72e01",
+            "name": "priloha-3.doc",
+            "lang": "cs"
+        }
+    ],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p69dbf5373d5b0b0f"
+        },
+        {
+            "name": "pepca",
+            "value": "pc2c1d601b1aec872"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "superhosting",
+        "plain_domain": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 4014199.6349083,
+                "domain": "superhosting"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "precedence": 3,
+    "last10words": "ana Drancakova Mgr Zuzana Drancakova reditelka ZS a MS ZS a MS Cehnice okres Strakonice 387 52 Cehnice 105 tel 383 389 128 ",
+    "lang": "cs"
+}

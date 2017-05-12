@@ -1,0 +1,95 @@
+{
+    "phashes": [
+        {
+            "value": "p3ce6e50c889a7bb7",
+            "name": "pepca"
+        }
+    ],
+    "precedence": 3,
+    "header_from": "info@pujckybezurocne.cz",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/5ab7f7a9ac7fe8479ad9894c401ac2eb.eml",
+    "attachments": [],
+    "notches": [
+        {
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1
+        }
+    ],
+    "pepca": "p3ce6e50c889a7bb7",
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "last10words": "ujckybezurocne cz nezadali tento email prosim ignorujte Vas team PUJCKYBEZUROCNE cz info pujckybezurocne cz tel 775324081 ",
+    "subject": "Potvrzujici registracni email PujckyBezurocne cz",
+    "senders": {
+        "log_ecnt_log_idf_log_tidf": "",
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "src_revert_detail": [],
+        "idf_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt-w_duc": "",
+        "domain_keywords_detail": [
+            {
+                "confidence": 4924291.90611,
+                "domain": "jaws-users"
+            }
+        ],
+        "ttf_w_duc": "",
+        "cnt-pow_w_duc_detail": [],
+        "src_revert": "",
+        "cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "jaws-users",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "idf": "",
+        "tf_log_idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "ttf_w_duc_detail": [],
+        "plain_domain": "pujckybezurocne",
+        "plain_domain_detail": [
+            {
+                "confidence": 2,
+                "domain": "pujckybezurocne"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "log_ecnt_idf_detail": []
+    },
+    "pepca_style_total": 0,
+    "pepca_inline_style": "",
+    "rcpts_count": 1,
+    "content": "CONTENT_DEFAULT",
+    "phish_score": 0,
+    "pepca_inline_style_total": 0,
+    "first10words": " Vitame Vas na serveru PujckyBezurocne cz Prvni krok k ziskani bezurocne pujcky je uspesne za Vami Vase prihlasovaci jmeno j",
+    "lang": "cs",
+    "pepcatotal": 0,
+    "word_count": 53,
+    "adscore": 0,
+    "spamscore": 1.1
+}

@@ -1,0 +1,106 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "module": "ill",
+            "score": 1.1
+        }
+    ],
+    "pepca": "p39460b9e9a4cff62",
+    "first10words": " Westwing Password reset ZMENA HESLA Vitejte Uzivatel Chcete zm",
+    "pepca_style": "p0aefde3472a08319",
+    "pepca_inline_style": "pc69900b53fde1ea2",
+    "word_count": 267,
+    "pepca_style_total": 0,
+    "phish_score": 0,
+    "subject": "Westwing cz Zmena hesla",
+    "content": "CONTENT_DEFAULT",
+    "spamscore": 1.1,
+    "list_unsubscribe_urls": [
+        "http://n.westwing.cz/public/list_unsubscribe.jsp?action=listUnsubscribe&gid=1900034096&uid=19080419340&mid=1900083175&siglistunsub=PFFDNNJHEEJNCDBE&errorPage=/public/list_unsubscribe.jsp",
+        "mailto:listunsubscribe-1900034096-1900083175-19080419340@n.westwing.cz"
+    ],
+    "phishing": {},
+    "header_from": "service@n.westwing.cz",
+    "pepca_inline_style_total": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/13b53cc4827cf627be1b460198aa6ee5.eml",
+    "attachments": [],
+    "adscore": 0,
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p39460b9e9a4cff62"
+        },
+        {
+            "name": "pepca_style",
+            "value": "p0aefde3472a08319"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pc69900b53fde1ea2"
+        }
+    ],
+    "senders": {
+        "log_cnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "idf": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "plain_domain_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt-w_duc": "",
+        "domain_keywords": "westwing",
+        "plain_domain": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 52143279.1372848,
+                "domain": "westwing"
+            }
+        ],
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "src_revert": "westwing",
+        "tf_log_idf_detail": [],
+        "cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "tf_log_idf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert_detail": [
+            {
+                "confidence": 8,
+                "domain": "westwing"
+            }
+        ],
+        "log_ecnt_idf": ""
+    },
+    "rcpts_count": 1,
+    "pepcatotal": 0,
+    "contains_list_header": true,
+    "precedence": 3,
+    "last10words": " 2014 Westwing Home Living vsechna prava vyhrazena Westwing Home Living GmbH ",
+    "lang": "cs"
+}

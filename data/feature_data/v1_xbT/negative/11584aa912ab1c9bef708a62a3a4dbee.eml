@@ -1,0 +1,117 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p79d87bd0e4d3a2de",
+    "last10words": "o 3030093 Datum 15 12 2014 Uhrzeit 11 49 DULEZITE UPOZORNENI Toto je automaticky systemovy e mail Odpoved neni mozna 2 1 1 5600 ",
+    "pepca_style_total": 0,
+    "header_from": "noreply@dvse.de",
+    "first10words": " Uzivatel 170174 Spolecnik a cislo prodejniho mista 170174 Nazev firmy Pavel LEMOCH Jmeno Pavel Lemoch majitel Ulice Trocnovska 55",
+    "attachments": [
+        {
+            "name": "order.xml",
+            "pepca": "pb96879337ec662f0",
+            "cte": "BASE64",
+            "mime_type": "application/xml",
+            "size": 1518,
+            "flags": 0,
+            "sumphash": "b663528eaac074d77c5c8138010d2a2a"
+        },
+        {
+            "mime_type": "application/pdf",
+            "name": "Potvrzen\u00ed objedn\u00e1vky_170174_20141215_114942.pdf",
+            "first10words": "Potvrzeni objednavky firma Pavel LEMOCH Datum Dodavatel dat Cislo vyrobku",
+            "pepca": "p91af7df09f4bf471",
+            "lang": "cs",
+            "cte": "BASE64",
+            "size": 56818,
+            "flags": 0,
+            "sumphash": "27c32309581e36de0669cd01cf5a0a7e"
+        }
+    ],
+    "word_count": 48,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/11584aa912ab1c9bef708a62a3a4dbee.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "pb96879337ec662f0"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p91af7df09f4bf471"
+        },
+        {
+            "name": "pepca",
+            "value": "p79d87bd0e4d3a2de"
+        }
+    ],
+    "spamscore": 1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "skyscanner",
+                "confidence": 3003801.74819
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "skyscanner",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "",
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": " utocora Objednavka 15 12 2014 Uzivatel 170174",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}

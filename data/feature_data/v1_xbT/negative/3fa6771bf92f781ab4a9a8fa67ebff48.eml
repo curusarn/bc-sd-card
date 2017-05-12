@@ -1,0 +1,114 @@
+{
+    "pepca_inline_style_total": 0,
+    "pepca": "p59ee00cc51a13f92",
+    "last10words": " 10 00 19 00 O pripraveni objednavky budete informovani mailem Muzete si ji zobrazit kliknutim na odkaz ",
+    "pepca_style_total": 0,
+    "header_from": "dergelova@post.cz",
+    "first10words": " dekuji za vstricnost hezky den Dergelova Puvodni zprava Od Factory Outlet shop factoryoutlet cz ",
+    "attachments": [
+        {
+            "name": "image001.gif",
+            "pepca": "p20864c44528a1294",
+            "cte": "BASE64",
+            "mime_type": "image/gif",
+            "cid": "image001.gif@01D01844.B563E550",
+            "size": 2700,
+            "flags": 0,
+            "sumphash": "485384191fd02aac22f9a40af33da961"
+        }
+    ],
+    "word_count": 785,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/3fa6771bf92f781ab4a9a8fa67ebff48.eml",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p20864c44528a1294"
+        },
+        {
+            "name": "pepca",
+            "value": "p59ee00cc51a13f92"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p47a7e2eec2dce68b"
+        }
+    ],
+    "spamscore": 1.1,
+    "senders": {
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "ttf_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "src_revert": "",
+        "log_cnt-w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "cnt-pow4_w_duc": "",
+        "tf_log_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "domain_keywords_detail": [
+            {
+                "domain": "booking",
+                "confidence": 88447021.5167
+            }
+        ],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf": "",
+        "src_revert_detail": [],
+        "domain_keywords": "booking",
+        "log_cnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "idf_detail": [],
+        "log_cnt-pow4_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "plain_domain": "factoryoutlet",
+        "plain_domain_detail": [
+            {
+                "domain": "factoryoutlet",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "ettf_w_duc": "",
+        "log_cnt-pow_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc_detail": []
+    },
+    "lang": "cs",
+    "phish_score": 0,
+    "precedence": 3,
+    "subject": "RE Factory Outlet Objednavka 33806",
+    "adscore": 0,
+    "pepcatotal": 0,
+    "phishing": {
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "pepca_inline_style": "p47a7e2eec2dce68b",
+    "notches": [
+        {
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "rcpts_count": 1
+}
