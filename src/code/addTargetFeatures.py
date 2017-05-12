@@ -30,18 +30,22 @@ def formatDomain(string):
 
 def getFeatureMode(opt):
     m = "_"
-    if opt.removeOriginalFeatures:
-        m += "x"
     if opt.boolFeature:
         m += "b"
-    if opt.targetFeature:
-        m += "T"
-    if opt.linkMismatchFeature:
+    if opt.linkMismatchFeatureB:
+        m += "l"
+    if opt.linkMismatchFeatureA:
         m += "L"
+    if opt.top1Feature:
+        m += "t"
+    if opt.top5Feature:
+        m += "T"
+    if opt.removeOriginalFeatures:
+        m += "x"
     return m
 
 
-def isDomainDetected(targetData):
+def boolFeature(targetData):
     if len(targetData["targets"]) != 0:
         return True
     return False
@@ -49,19 +53,18 @@ def isDomainDetected(targetData):
 
 TARGETS_DICT = {}
 NEXT_TARGET_ID = 0
-def generateTargetFeature(targetData, TARGETS_DICT, NEXT_TARGET_ID):
+def topNFeature(targetData, TARGETS_DICT, NEXT_TARGET_ID, n):
     feature = {}
-    for x,pair in enumerate(targetData["targets"][:5]):
+    for x,pair in enumerate(targetData["targets"][:n]):
         target = pair[0]
         if target not in TARGETS_DICT:
             TARGETS_DICT[target] = NEXT_TARGET_ID
             NEXT_TARGET_ID += 1
-        feature["5_top_domains_id_"+str(x)] = TARGETS_DICT[target]
-        feature["5_top_domains_percent_"+str(x)] = pair[1]
+        feature[str(n)+"_top_domains_id_"+str(x)] = TARGETS_DICT[target]
+        feature[str(n)+"_top_domains_percent_"+str(x)] = pair[1]
     return feature
 
-
-def linkMismatchFeature(targetData, links, HIST_HREF, HIST_SRC):
+def linkMismatchFeatureA(targetData, links, HIST_HREF, HIST_SRC):
     if not len(links):
         # no links -> no bad links
         return 0
@@ -95,6 +98,34 @@ def linkMismatchFeature(targetData, links, HIST_HREF, HIST_SRC):
     return 0
     
 
+def linkMismatchFeatureB(targetData, links, HIST_HREF, HIST_SRC):
+    if not len(links):
+        # no links -> no bad links
+        return 0
+    targets = []
+    for pair in targetData["targets"]:
+        if pair[1] < 0.4:
+            break
+        target = pair[0]
+        if target in HIST_HREF:
+            targets.append(target)
+
+    if not len(targets):
+        # no target -> no feature
+        return -1
+    for link in links:
+        if not len(link):
+            continue
+        for target in targets:
+            hrefs = HIST_HREF[target]
+            #srcs = HIST_SRC[target]
+            lookupLen = len(hrefs)
+            if lookupLen > 10:
+                lookupLen = int(lookupLen/2)
+            if formatDomain(link) in hrefs[:lookupLen]:
+                return 0
+    return 1
+    
 
 
 
@@ -114,10 +145,14 @@ parser.add_argument("-v","--dataVersion", type=int, default=None,
 # features
 parser.add_argument("-b", "--boolFeature", action="count", default=0,
                     help="Add bool feature")
-parser.add_argument("-t", "--targetFeature", action="count", default=0,
+parser.add_argument("-l", "--linkMismatchFeatureB", action="count", default=0,
+                    help="Add benevolent link mismatch feature")
+parser.add_argument("-L", "--linkMismatchFeatureA", action="count", default=0,
+                    help="Add agressive link mismatch feature")
+parser.add_argument("-t", "--top1Feature", action="count", default=0,
+                    help="Add top 1 target feature")
+parser.add_argument("-T", "--top5Feature", action="count", default=0,
                     help="Add top 5 target feature")
-parser.add_argument("-l", "--linkMismatchFeature", action="count", default=0,
-                    help="Add link mismatch feature")
 parser.add_argument("-x", "--removeOriginalFeatures", action="count", default=0,
                     help="Remove original features")
 parser.add_argument("-d", "--debug", action="count", default=0,
@@ -139,7 +174,7 @@ opt = parser.parse_args()
 version = "v" + str(opt.dataVersion)
 featureMode = getFeatureMode(opt)
 if featureMode == "_":
-    print("Choose at least one feature! (eg. '-b', '-t', '-bt', ...)")
+    print("Choose at least one feature! (eg. '-b', '-t', '-blLtTx', ...)")
     sys.exit(3)
 
 path = os.path.join(DATA_PATH, version)
@@ -197,20 +232,31 @@ for x,dirName in enumerate(sorted(os.listdir(targetPath))):
 
         # add bool feature
         if opt.boolFeature: 
-            data["phishing"]["ner_domain_detected"] = isDomainDetected(
-                                                                targetData)
+            data["phishing"]["ner_domain_detected"] = boolFeature(targetData)
 
+        # add top 1 target feature
+        if opt.top1Feature: 
+            data["phishing"].update(topNFeature(targetData,
+                                                TARGETS_DICT,
+                                                NEXT_TARGET_ID,
+                                                1))
         # add top 5 target feature
-        if opt.targetFeature: 
-            data["phishing"].update(generateTargetFeature(targetData,
-                                                          TARGETS_DICT,
-                                                          NEXT_TARGET_ID))
-        if opt.linkMismatchFeature:
-            data["phishing"]["ner_link_mismatch"] = linkMismatchFeature(
-                                                    targetData,
-                                                    data["extractedHrefUrls"],
-                                                    HIST_HREF, HIST_SRC)
+        if opt.top5Feature: 
+            data["phishing"].update(topNFeature(targetData,
+                                                TARGETS_DICT,
+                                                NEXT_TARGET_ID,
+                                                5))
+        if opt.linkMismatchFeatureA:
+            data["phishing"]["argessive_link_mismatch"] = linkMismatchFeatureA(
+                                                      targetData,
+                                                      data["extractedHrefUrls"],
+                                                      HIST_HREF, HIST_SRC)
 
+        if opt.linkMismatchFeatureB:
+            data["phishing"]["benevolent_link_mismatch"] = linkMismatchFeatureB(
+                                                      targetData,
+                                                      data["extractedHrefUrls"],
+                                                      HIST_HREF, HIST_SRC)
         if opt.debug > 1: 
             print("Feature data:") 
             pprint.pprint(data["phishing"])
