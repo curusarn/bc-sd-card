@@ -6,6 +6,7 @@ import sys, argparse
 import os
 import pprint
 
+
 def getFeatureMode(b, t):
     m = "_"
     if b:
@@ -33,8 +34,8 @@ def generateTargetFeature(targetData, TARGETS_DICT, NEXT_TARGET_ID):
         feature["5_top_domains_percent_"+str(x)] = pair[1]
     return feature
 
-DATA_PATH = "feature_data"
-#FIRMYCZ_CACHE_PATH = "organizations/firmyCzCache.pkl"
+SRC_PATH = os.path.dirname(os.path.realpath(__file__))
+DATA_PATH = os.path.join(SRC_PATH,"../../data/feature_data")
 
 # argument parsing
 parser = argparse.ArgumentParser()
