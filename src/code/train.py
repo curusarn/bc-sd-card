@@ -20,6 +20,7 @@ class ShowHelpOnErrorParser(argparse.ArgumentParser):
 
 SRC_PATH = os.path.dirname(os.path.realpath(__file__))
 DATA_PATH = os.path.join(SRC_PATH,"../../data/feature_data")
+RES_PATH = os.path.join(SRC_PATH,"../../results")
 
 parser = ShowHelpOnErrorParser()
 parser.add_argument("data", type=str,
@@ -52,7 +53,7 @@ def vectorize(x):
     arr = dv.fit_transform(x)
     feature_names = dv.get_feature_names()
     print("features {}".format(feature_names))
-    filename = "feature_names"+SUFFIX+".json"
+    filename = os.path.join(RES_PATH,"feature_names"+SUFFIX+".json")
     with open(filename, "w") as f:
         f.write(json.dumps(dv.get_feature_names()))
         print("Features stored to {}".format(filename))
@@ -73,7 +74,7 @@ if __name__ == "__main__":
     print("Starting training")
     model = clf.fit(x_train, y_train)
     print("Model trained")
-    model_file = "model"+SUFFIX+".pkl"
+    model_file = os.path.join(RES_PATH,"model"+SUFFIX+".pkl")
     pickle.dump(model, open(model_file, "wb"))
     print("Model stored to {}".format(model_file))
     print()
@@ -85,7 +86,7 @@ if __name__ == "__main__":
     report += '\n'
     report += classification_report(y_test, predicted)
     print(report)
-    report_file = "report"+SUFFIX+".txt"
+    report_file = os.path.join(RES_PATH,"report"+SUFFIX+".txt")
     with open(report_file, "w") as f:
         f.write(report)
     print("Report stored to {}".format(report_file))
