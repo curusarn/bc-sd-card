@@ -7,11 +7,13 @@ import os
 import pprint
 
 
-def getFeatureMode(b, t):
+def getFeatureMode(opt):
     m = "_"
-    if b:
+    if opt.removeOriginalFeatures:
+        m += "x"
+    if opt.boolFeature:
         m += "b"
-    if t:
+    if opt.targetFeature:
         m += "T"
     return m
 
@@ -48,6 +50,8 @@ parser.add_argument("-b", "--boolFeature", action="count", default=0,
                     help="Add bool feature")
 parser.add_argument("-t", "--targetFeature", action="count", default=0,
                     help="Add top 5 target feature")
+parser.add_argument("-x", "--removeOriginalFeatures", action="count", default=0,
+                    help="Remove original features")
 parser.add_argument("-d", "--debug", action="count", default=0,
                     help="Debug mode - write debug prints, "
                          "'-dd' - write more debug prints.")
@@ -65,7 +69,7 @@ parser.add_argument("-e", "--noOverwrite", action="count", default=0,
 opt = parser.parse_args()
 
 version = "v" + str(opt.dataVersion)
-featureMode = getFeatureMode(opt.boolFeature, opt.targetFeature)
+featureMode = getFeatureMode(opt)
 if featureMode == "_":
     print("Choose at least one feature! (eg. '-b', '-t', '-bt', ...)")
     sys.exit(3)
@@ -81,6 +85,9 @@ if not os.path.exists(outPath):
     os.makedirs(outPath)
 
 noProcessed = 0
+noFiles = opt.numberOfFiles
+if opt.skipFiles:
+    noFiles += opt.skipFiles
 for x,dirName in enumerate(sorted(os.listdir(targetPath))):
     for name in os.listdir(os.path.join(targetPath,dirName)):
         f = os.path.join(dirName,name)
@@ -91,7 +98,7 @@ for x,dirName in enumerate(sorted(os.listdir(targetPath))):
         if opt.skipFiles and noProcessed < opt.skipFiles:
             continue
 
-        if noProcessed > opt.numberOfFiles:
+        if noProcessed > noFiles:
             break
 
         if opt.debug:
@@ -116,6 +123,10 @@ for x,dirName in enumerate(sorted(os.listdir(targetPath))):
         with open(targetFilePath,'r') as target_file:    
             targetData = json.load(target_file)
 
+        # remove all original features 
+        if opt.removeOriginalFeatures:
+            data["phishing"].clear()
+
         # add bool feature
         if opt.boolFeature: 
             data["phishing"]["ner_domain_detected"] = isDomainDetected(
@@ -128,7 +139,7 @@ for x,dirName in enumerate(sorted(os.listdir(targetPath))):
                                                           NEXT_TARGET_ID))
         if opt.debug > 1: 
             print("Feature data:") 
-            pprint.pprint(data)
+            pprint.pprint(data["phishing"])
 
         if not opt.dryRun:
             outParent = os.path.dirname(outFilePath)

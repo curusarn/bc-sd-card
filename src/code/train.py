@@ -41,7 +41,8 @@ def load_data():
             try:
                 d = json.load(open(i, "r"))
                 phish = d.get("phishing", {})
-                phish.pop("suspicious_links")
+                if "suspicious_links" in phish:
+                    phish.pop("suspicious_links")
                 data.append((phish, cls))
             except Exception as e:
                 print(e, file=sys.stderr)
