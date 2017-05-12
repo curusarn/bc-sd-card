@@ -1,0 +1,226 @@
+{
+    "spf_dom_policy_registry": "Policy not found",
+    "precedence": 3,
+    "contains_list_header": true,
+    "extractedSrcUrlsDomainCount": 1,
+    "extractedTxtUrlsDomainCount": 1,
+    "html_tr_tag_count": 18,
+    "extractedEmailsCardinality": 0,
+    "spfstatus_hfrom": "SPF_NONE",
+    "rcpts_count": 1,
+    "header_total_count": 16,
+    "dkstatus": "FAIL",
+    "extractedSrcUrlsTotalCount": 5,
+    "html_tag_total_count": 197,
+    "ahref_total_count": 7,
+    "pepca_style": "",
+    "ahref_camouflage_count": 0,
+    "extractedTxtUrlsCardinality": 2,
+    "content": "CONTENT_DEFAULT",
+    "html_td_tag_count": 26,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/67f8a522a15da34eb6c557c4a774038a.eml",
+    "spamscore": 1.1,
+    "extractedSrcUrlsCardinality": 5,
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p2511c7002295e064"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pdca22ffe6bbcf36d"
+        }
+    ],
+    "list_unsubscribe_urls": [
+        "http://app.smartk5k7.cz/unsubscribe.php?id=NU1ETzNJVFBCWmlNelVETjl3a0psVlRObE5tTmtaek0wUURNNFFXTWhGV05tWkROaGxUWTRRek40VVdZaEpXUERaeU0za3pNMmN6TngwVFQ%3D"
+    ],
+    "now": 1494598299,
+    "html_in_text_plain_count": 0,
+    "last10words": "si neprejete dostavat tyto emaily odhlaste se Odebrat me ze seznamu Dle zakona je toto obchodni sdeleni ",
+    "spf_domain_policy": "UNKNOWN",
+    "dkim_count": 1,
+    "unsub_link_texts": [
+        "zprava dostavat jelikoz byt drive na vy ziskat souhlasny kontakt nebo byt se prihlasit na jak fotit miminko pokud si neprat dostavat tyt email odhlasit se",
+        "pokud si neprat dostavat tyt email odhlasit se odebrat ja z seznam "
+    ],
+    "rfcid_is_invalid": false,
+    "list_unsubscribe_mailto_count": 0,
+    "pepcatotal": 0,
+    "word_count": 253,
+    "html_script_tag_count": 0,
+    "dkim_efrom_match": 0,
+    "unsub_link_candidates": [
+        "http://app.smartk5k7.cz/link.php?M=17763973&A=27839&L=42745&F=H",
+        "http://app.smartk5k7.cz/unsubscribe.php?id=NU1ETzNJVFBCWmlNelVETjl3a0psVlRObE5tTmtaek0wUURNNFFXTWhGV05tWkROaGxUWTRRek40VVdZaEpXUERaeU0za3pNMmN6TngwVFQ%3D"
+    ],
+    "extractedEmails": [],
+    "spfstatus": "NONE",
+    "phish_score": 0,
+    "date_difference": -79909647,
+    "extractedTxtUrls": [
+        "http://app.smartk5k7.cz/display.php?id=PT13TTFjVE05RWtKeU1UTjAwRFRta3pNNGNqTTlNbEpsVlRObE5tTmtaek0wUURNNFFXTWhGV05tWkROaGxUWTRRe",
+        "http://app.smartk5k7.cz/display.php?id=PT13TTFjVE05RWtKeU1UTjAwRFRta3pNNGNqTTlNbEpsVlRObE5tTmtaek0wUURNNFFXTWhGV05tWkROaGxUWTRRe"
+    ],
+    "list_unsubscribe_total_count": 1,
+    "dkim_passed_count": 0,
+    "extractedHrefUrlsDomainCount": 1,
+    "first10words": " Template Mate problemy se zobrazenim tohoto e mailu Kliknete http app smartk5k7 cz display php id PT13TTFjVE05RWtKeU",
+    "pepca": "p2511c7002295e064",
+    "pepca_style_total": 0,
+    "unsub_link": "http://app.smartk5k7.cz/unsubscribe.php?id=NU1ETzNJVFBCWmlNelVETjl3a0psVlRObE5tTmtaek0wUURNNFFXTWhGV05tWkROaGxUWTRRek40VVdZaEpXUERaeU0za3pNMmN6TngwVFQ%3D",
+    "extractedEmailsTotalCount": 0,
+    "rfcid_is_foreign": 1,
+    "attachments": [],
+    "dkStatusDetail": "DKIM_STAT_NOKEY",
+    "header_from_count": 1,
+    "mime_children_types": [
+        "text/plain",
+        "text/html"
+    ],
+    "subject": "Dekuji za registraci",
+    "dkdomain": "",
+    "senders": {
+        "domain_keywords": "auto1",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "idf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt-pow4_w_duc": "",
+        "plain_domain_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "tf_log_idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "plain_domain": "",
+        "domain_keywords_detail": [
+            {
+                "domain": "auto1",
+                "confidence": 10922500.0228
+            }
+        ],
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt_idf": "",
+        "tf_log_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "skolanavyku",
+                "confidence": 5
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_cnt-w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert": "skolanavyku"
+    },
+    "dkim_hfrom_match": 0,
+    "header_reply_to_count": 1,
+    "list_unsubscribe_http_count": 1,
+    "extractedSrcUrls": [
+        "http://app.smartk5k7.cz/admin/resources/email_templates/Shopping%20Cart/Art%20and%20Framing/images/shdw_top.gif",
+        "http://app.smartk5k7.cz/admin/resources/email_templates/Shopping%20Cart/Art%20and%20Framing/images/shdw_left.gif",
+        "http://app.smartk5k7.cz/admin/temp/templates/2391/emailsablona.jpg",
+        "http://app.smartk5k7.cz/admin/resources/email_templates/Shopping%20Cart/Art%20and%20Framing/images/shdw_right.gif",
+        "http://app.smartk5k7.cz/open.php?M=17763973&L=4532&A=27839&F=H&image=.jpg"
+    ],
+    "subject_image_count": 0,
+    "extractedHrefUrlsTotalCount": 6,
+    "dk_statuses": [
+        {
+            "status": "FAIL",
+            "domain": "",
+            "statusDetail": "DKIM_STAT_NOKEY"
+        }
+    ],
+    "from_match": 0,
+    "lang": "cs",
+    "extractedHrefUrls": [
+        "http://app.smartk5k7.cz/link.php?M=17763973&A=27839&L=39244&F=H",
+        "http://app.smartk5k7.cz/link.php?M=17763973&A=27839&L=40308&F=H",
+        "http://app.smartk5k7.cz/link.php?M=17763973&A=27839&L=39753&F=H",
+        "http://app.smartk5k7.cz/link.php?M=17763973&A=27839&L=42745&F=H",
+        "http://app.smartk5k7.cz/unsubscribe.php?id=NU1ETzNJVFBCWmlNelVETjl3a0psVlRObE5tTmtaek0wUURNNFFXTWhGV05tWkROaGxUWTRRek40VVdZaEpXU"
+    ],
+    "pepca_inline_style": "pdca22ffe6bbcf36d",
+    "self_send": 0,
+    "ahref_verbal_count": 6,
+    "extractedTxtUrlsTotalCount": 2,
+    "subject_word_count": 3,
+    "extractedEmailsDomainCount": 0,
+    "header_from": "info@jakfotitmiminka.cz",
+    "mime_root_type": "multipart/alternative",
+    "rfcid_length": 56,
+    "mime_children_count": 2,
+    "extractedHrefUrlsCardinality": 6,
+    "adscore": 0,
+    "dkim_signs_cnt": 1,
+    "spamtrap_hit": false,
+    "spf_status_registry": "Status not found",
+    "pepca_inline_style_total": 0,
+    "phishing": {
+        "body_richness": 0.210833333333333,
+        "num_black_sheep_link": -1,
+        "subject_richness": 0.136363636363636,
+        "max_num_slashes_urls": 1,
+        "num_https_urls": 0,
+        "camouflage": 0,
+        "ner_domain_detected": false,
+        "html_form": 0,
+        "num_subdomain_phish": 0,
+        "num_external_links": 10,
+        "fake_https": 0,
+        "num_html_script_tags": 0,
+        "num_freehost_urls": 0,
+        "num_phish_keywords": 1,
+        "suspicious_links": [],
+        "num_sender_diff_url": 1,
+        "text_and_href": 1,
+        "subject_phish_keywords": 0,
+        "num_www_in_url_path": 0,
+        "num_domain_phish": 0,
+        "num_of_chars": 1199,
+        "num_ip_urls": 0,
+        "num_path_phish": 0,
+        "num_param_phish": 0,
+        "max_num_dots_urls": 3,
+        "num_tld_in_url_path": 0,
+        "is_html": true,
+        "num_black_sheep_link_phish": 0,
+        "num_non_80_port_urls": 0,
+        "num_text_forms": 8,
+        "num_black_sheep_link_global": -1,
+        "text_link_with_path": 2,
+        "num_shortened_urls": 0
+    },
+    "list_unsubscribe_invalid_count": 0
+}

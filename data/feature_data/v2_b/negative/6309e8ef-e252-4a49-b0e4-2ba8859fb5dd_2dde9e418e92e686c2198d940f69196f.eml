@@ -1,0 +1,231 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ]
+        }
+    ],
+    "extractedTxtUrls": [
+        "http://Teshop.cz."
+    ],
+    "spfstatus": "NONE",
+    "mime_root_type": "multipart/related",
+    "header_from_count": 1,
+    "now": 1494598222,
+    "dkim_efrom_match": 0,
+    "pepca_inline_style_total": 0,
+    "rcpts_count": 1,
+    "extractedEmailsTotalCount": 1,
+    "pepca_inline_style": "",
+    "pepca_style_total": 0,
+    "dkim_hfrom_match": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/2dde9e418e92e686c2198d940f69196f.eml",
+    "html_td_tag_count": 84,
+    "extractedHrefUrlsCardinality": 1,
+    "list_unsubscribe_mailto_count": 0,
+    "subject_word_count": 8,
+    "lang": "cs",
+    "precedence": 3,
+    "phishing": {
+        "num_html_script_tags": 0,
+        "num_text_forms": 5,
+        "fake_https": 0,
+        "is_html": true,
+        "num_non_80_port_urls": 0,
+        "num_https_urls": 0,
+        "num_of_chars": 1274,
+        "num_param_phish": 0,
+        "text_and_href": 0,
+        "body_richness": 0.206274509803922,
+        "text_link_with_path": 0,
+        "max_num_slashes_urls": 2,
+        "num_shortened_urls": 0,
+        "num_sender_diff_url": 0,
+        "num_ip_urls": 0,
+        "num_black_sheep_link": -1,
+        "subject_richness": 0.129032258064516,
+        "num_tld_in_url_path": 0,
+        "subject_phish_keywords": 0,
+        "num_black_sheep_link_global": -1,
+        "num_black_sheep_link_phish": 0,
+        "num_path_phish": 0,
+        "suspicious_links": [],
+        "html_form": 0,
+        "num_phish_keywords": 0,
+        "num_subdomain_phish": 0,
+        "num_domain_phish": 0,
+        "ner_domain_detected": false,
+        "camouflage": 0,
+        "num_freehost_urls": 0,
+        "num_external_links": 1,
+        "max_num_dots_urls": 2,
+        "num_www_in_url_path": 0
+    },
+    "spf_status_registry": "Status not found",
+    "rfcid_is_foreign": 0,
+    "from_match": 0,
+    "first10words": " Vazeny zakazniku dekujeme za Vas nakup na Teshop cz Timto e mailem potvrzujeme ze jsme 15 12 2014 11 47 45 prijali Vasi ",
+    "extractedTxtUrlsDomainCount": 1,
+    "spf_domain_policy": "UNKNOWN",
+    "header_total_count": 12,
+    "dkim_passed_count": 0,
+    "extractedTxtUrlsCardinality": 1,
+    "dkim_signs_cnt": 1,
+    "mime_children_types": [
+        "multipart/alternative",
+        "application/pdf",
+        "application/pdf"
+    ],
+    "ahref_verbal_count": 1,
+    "subject_image_count": 0,
+    "phish_score": 0,
+    "rfcid_is_invalid": false,
+    "dkstatus": "NEUTRAL",
+    "phashes": [
+        {
+            "value": "pf09c9b3bdcd48ca1",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pd7f6a28f00bb8c49",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p9c830d798b2e1a99",
+            "name": "pepca"
+        },
+        {
+            "value": "p205a7d59ff35a794",
+            "name": "pepca_style"
+        }
+    ],
+    "extractedTxtUrlsTotalCount": 1,
+    "self_send": 0,
+    "attachments": [
+        {
+            "sumphash": "c494b0febffe0ae3de3dd923181bc5dc",
+            "first10words": "Obchodni podminky internetoveho obchodu www teshop cz A Uvodni ustanoveni",
+            "cte": "BASE64",
+            "flags": 0,
+            "pepca": "pf09c9b3bdcd48ca1",
+            "cid": "Obchodni_podminky_internetoveho_obchodu_Teshop.cz.pdf@www.teshop.cz.a45669ad22",
+            "lang": "cs",
+            "mime_type": "application/pdf",
+            "size": 307261,
+            "name": "Obchodni_podminky_internetoveho_obchodu_Teshop.cz.pdf"
+        },
+        {
+            "sumphash": "c5e33b7c9962b2302d2a2748a78e4692",
+            "first10words": "Formular pro odstoupeni od smlouvy vyplnte tento formular a poslete",
+            "cte": "BASE64",
+            "flags": 0,
+            "pepca": "pd7f6a28f00bb8c49",
+            "cid": "Formular_pro_odstoupeni_od_kupni_smlouvy.pdf@www.teshop.cz.76775d8c9d",
+            "lang": "cs",
+            "mime_type": "application/pdf",
+            "size": 308496,
+            "name": "Formular_pro_odstoupeni_od_kupni_smlouvy.pdf"
+        }
+    ],
+    "html_tr_tag_count": 24,
+    "extractedEmails": [
+        "monika.leckesiova@seznam.cz"
+    ],
+    "html_tag_total_count": 226,
+    "mime_children_count": 3,
+    "spamtrap_hit": false,
+    "extractedEmailsDomainCount": 1,
+    "extractedHrefUrlsTotalCount": 1,
+    "spamscore": 1,
+    "ahref_total_count": 1,
+    "extractedEmailsCardinality": 1,
+    "list_unsubscribe_http_count": 0,
+    "dkim_count": 0,
+    "adscore": 0,
+    "pepca": "p9c830d798b2e1a99",
+    "dkStatusDetail": "NOT_SIGNED",
+    "html_script_tag_count": 0,
+    "date_difference": -75957757,
+    "html_in_text_plain_count": 0,
+    "pepca_style": "p205a7d59ff35a794",
+    "word_count": 263,
+    "rfcid_length": 50,
+    "spf_dom_policy_registry": "Policy not found",
+    "last10words": "tina 75622 Ceska republika E mail monika leckesiova seznam cz Telefon 420739572704 Vase poznamka ",
+    "extractedHrefUrls": [
+        "http://www.teshop.cz/kingston-micro-sdhc-16gb-class-10/"
+    ],
+    "spfstatus_hfrom": "SPF_SOFTFAIL",
+    "header_reply_to_count": 0,
+    "senders": {
+        "log_cnt_idf_detail": [],
+        "log_ecnt_idf_detail": [],
+        "tf_log_idf": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "cnt-pow4_w_duc_detail": [],
+        "ttf_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "src_revert": "",
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "plain_domain": "teshop",
+        "src_revert_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "teshop"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "tf_log_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 4714174.45827,
+                "domain": "victoriamilan"
+            }
+        ],
+        "domain_keywords": "victoriamilan",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt_idf": ""
+    },
+    "pepcatotal": 0,
+    "content": "CONTENT_DEFAULT",
+    "extractedSrcUrls": [],
+    "extractedHrefUrlsDomainCount": 1,
+    "subject": "TEshop cz Vase objednavka cislo 1418640465 byla prijata",
+    "list_unsubscribe_total_count": 0,
+    "dk_statuses": [
+        {
+            "statusDetail": "NOT_SIGNED",
+            "status": "NEUTRAL"
+        }
+    ],
+    "ahref_camouflage_count": 0,
+    "list_unsubscribe_invalid_count": 0,
+    "header_from": "objednavky@teshop.cz"
+}

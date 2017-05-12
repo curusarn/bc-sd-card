@@ -1,10 +1,31 @@
-# -*- coding: utf-8 -*-
-from __future__ import print_function
-
 import json
-import sys, argparse
+import sys
 import os
+import argparse
 import pprint
+
+
+def formatDomain(string):
+    if not len(string):
+        return string
+    buff = "" 
+    for i,char in enumerate(string):
+        buff += char
+        if i < 5:
+            continue
+        if buff[-4:] == "www.":
+            a = string[i+1:]
+            b = string[i+1:].split('/')[0]
+            return b 
+    for i,char in enumerate(string):
+        buff += char
+        if i < 5:
+            continue
+        if buff[-3:] == "://":
+            a = string[i+1:]
+            b = string[i+1:].split('/')[0]
+            return b
+    print("domain formating failed for <{0}>".format(string))
 
 
 def getFeatureMode(opt):
@@ -15,16 +36,19 @@ def getFeatureMode(opt):
         m += "b"
     if opt.targetFeature:
         m += "T"
+    if opt.linkMismatchFeature:
+        m += "L"
     return m
+
 
 def isDomainDetected(targetData):
     if len(targetData["targets"]) != 0:
         return True
     return False
 
+
 TARGETS_DICT = {}
 NEXT_TARGET_ID = 0
-
 def generateTargetFeature(targetData, TARGETS_DICT, NEXT_TARGET_ID):
     feature = {}
     for x,pair in enumerate(targetData["targets"][:5]):
@@ -36,8 +60,50 @@ def generateTargetFeature(targetData, TARGETS_DICT, NEXT_TARGET_ID):
         feature["5_top_domains_percent_"+str(x)] = pair[1]
     return feature
 
+
+def linkMismatchFeature(targetData, links, HIST_HREF, HIST_SRC):
+    if not len(links):
+        # no links -> no bad links
+        return 0
+    targets = []
+    for pair in targetData["targets"]:
+        if pair[1] < 0.4:
+            break
+        target = pair[0]
+        if target in HIST_HREF:
+            targets.append(target)
+
+    if not len(targets):
+        # no target -> no feature
+        return -1
+    for link in links:
+        if not len(link):
+            continue
+        linkFeature = 1
+        for target in targets:
+            hrefs = HIST_HREF[target]
+            #srcs = HIST_SRC[target]
+            lookupLen = len(hrefs)
+            if lookupLen > 10:
+                lookupLen = int(lookupLen/2)
+            if formatDomain(link) in hrefs[:lookupLen]:
+                linkFeature = 0
+                break
+        if linkFeature:
+            # link does not match any domain 
+            return 1
+    return 0
+    
+
+
+
+
 SRC_PATH = os.path.dirname(os.path.realpath(__file__))
 DATA_PATH = os.path.join(SRC_PATH,"../../data/feature_data")
+
+HIST_PATH = "/home/simonlet/git/nametag/historical_data_phishable"
+HIST_HREF = json.load(open(os.path.join(HIST_PATH,"sorted_href.json"))) 
+HIST_SRC = json.load(open(os.path.join(HIST_PATH,"sorted_src.json"))) 
 
 # argument parsing
 parser = argparse.ArgumentParser()
@@ -50,6 +116,8 @@ parser.add_argument("-b", "--boolFeature", action="count", default=0,
                     help="Add bool feature")
 parser.add_argument("-t", "--targetFeature", action="count", default=0,
                     help="Add top 5 target feature")
+parser.add_argument("-l", "--linkMismatchFeature", action="count", default=0,
+                    help="Add link mismatch feature")
 parser.add_argument("-x", "--removeOriginalFeatures", action="count", default=0,
                     help="Remove original features")
 parser.add_argument("-d", "--debug", action="count", default=0,
@@ -137,6 +205,12 @@ for x,dirName in enumerate(sorted(os.listdir(targetPath))):
             data["phishing"].update(generateTargetFeature(targetData,
                                                           TARGETS_DICT,
                                                           NEXT_TARGET_ID))
+        if opt.linkMismatchFeature:
+            data["phishing"]["ner_link_mismatch"] = linkMismatchFeature(
+                                                    targetData,
+                                                    data["extractedHrefUrls"],
+                                                    HIST_HREF, HIST_SRC)
+
         if opt.debug > 1: 
             print("Feature data:") 
             pprint.pprint(data["phishing"])

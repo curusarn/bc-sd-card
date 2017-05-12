@@ -1,0 +1,236 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ]
+        }
+    ],
+    "extractedTxtUrls": [
+        "http://NaTrampolinu.cz",
+        "http://NaTrampolinu.cz."
+    ],
+    "spfstatus": "NONE",
+    "mime_root_type": "multipart/mixed",
+    "header_from_count": 1,
+    "now": 1494598253,
+    "dkim_efrom_match": 0,
+    "pepca_inline_style_total": 0,
+    "rcpts_count": 1,
+    "extractedEmailsTotalCount": 1,
+    "pepca_inline_style": "p45e3a4d9f87b4576",
+    "pepca_style_total": 0,
+    "dkim_hfrom_match": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/451af1883e82e2b4737cce494842b3d7.eml",
+    "html_td_tag_count": 39,
+    "extractedHrefUrlsCardinality": 2,
+    "list_unsubscribe_mailto_count": 0,
+    "subject_word_count": 2,
+    "lang": "cs",
+    "precedence": 3,
+    "phishing": {
+        "num_html_script_tags": 0,
+        "num_text_forms": 0,
+        "fake_https": 0,
+        "is_html": true,
+        "num_non_80_port_urls": 0,
+        "num_https_urls": 0,
+        "num_of_chars": 1305,
+        "num_param_phish": 0,
+        "text_and_href": 0,
+        "body_richness": 0.167687595712098,
+        "text_link_with_path": 0,
+        "max_num_slashes_urls": 2,
+        "num_shortened_urls": 0,
+        "num_sender_diff_url": 1,
+        "num_ip_urls": 0,
+        "num_black_sheep_link": -1,
+        "subject_richness": 0.08,
+        "num_tld_in_url_path": 0,
+        "subject_phish_keywords": 0,
+        "num_black_sheep_link_global": -1,
+        "num_black_sheep_link_phish": 0,
+        "num_path_phish": 0,
+        "suspicious_links": [],
+        "html_form": 0,
+        "num_phish_keywords": 0,
+        "num_subdomain_phish": 0,
+        "num_domain_phish": 0,
+        "ner_domain_detected": false,
+        "camouflage": 0,
+        "num_freehost_urls": 0,
+        "num_external_links": 3,
+        "max_num_dots_urls": 2,
+        "num_www_in_url_path": 0
+    },
+    "spf_status_registry": "Status not found",
+    "rfcid_is_foreign": 0,
+    "from_match": 0,
+    "first10words": " NaTrampolinu cz Objednavka 2014000140 Dobry den dekujeme za Vas nakup na NaTrampolinu cz Timto e mailem potvrz",
+    "extractedTxtUrlsDomainCount": 1,
+    "spf_domain_policy": "UNKNOWN",
+    "header_total_count": 43,
+    "word_count": 219,
+    "dkim_passed_count": 0,
+    "extractedTxtUrlsCardinality": 2,
+    "dkim_signs_cnt": 1,
+    "mime_children_types": [
+        "text/html",
+        "application/pdf"
+    ],
+    "ahref_verbal_count": 2,
+    "subject_image_count": 0,
+    "phish_score": 0,
+    "rfcid_is_invalid": false,
+    "dkstatus": "NEUTRAL",
+    "unsub_link_texts": [
+        "dekovat klimes pokud se chtit podivat na svojit objednavka nebo provest platba kliknout prosit zde "
+    ],
+    "phashes": [
+        {
+            "value": "p015e153619eba1ad",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p53d8429a5c061893",
+            "name": "pepca"
+        },
+        {
+            "value": "pa657b9289cfd4e6a",
+            "name": "pepca_style"
+        },
+        {
+            "value": "p45e3a4d9f87b4576",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "extractedTxtUrlsTotalCount": 2,
+    "self_send": 0,
+    "attachments": [
+        {
+            "sumphash": "37a415b18256558c177b1b5f64c2c80d",
+            "first10words": "Objednavka Dodavatel Garden Life CZ s r o Dobsicka Praha",
+            "cte": "BASE64",
+            "flags": 0,
+            "pepca": "p015e153619eba1ad",
+            "lang": "cs",
+            "mime_type": "application/pdf",
+            "size": 58114,
+            "name": "objednavka_2014000140.pdf"
+        }
+    ],
+    "html_tr_tag_count": 18,
+    "extractedEmails": [
+        "lubos.klimes@okcolor.cz"
+    ],
+    "html_tag_total_count": 159,
+    "mime_children_count": 2,
+    "spamtrap_hit": false,
+    "extractedEmailsDomainCount": 1,
+    "extractedHrefUrlsTotalCount": 2,
+    "extractedSrcUrlsCardinality": 1,
+    "spamscore": 1,
+    "ahref_total_count": 2,
+    "extractedEmailsCardinality": 1,
+    "extractedSrcUrlsTotalCount": 1,
+    "dkim_count": 0,
+    "adscore": 0,
+    "pepca": "p53d8429a5c061893",
+    "dkStatusDetail": "NOT_SIGNED",
+    "unsub_link_candidates": [
+        "http://www.natrampolinu.cz/order/show?guid=0d98048f-915d-49bc-a2b2-ae70cc8bd479"
+    ],
+    "html_script_tag_count": 0,
+    "date_difference": -75957778,
+    "html_in_text_plain_count": 0,
+    "pepca_style": "pa657b9289cfd4e6a",
+    "resent": true,
+    "rfcid_length": 45,
+    "spf_dom_policy_registry": "Policy not found",
+    "pepcatotal": 0,
+    "last10words": "mpolinu cz Tento e mail je generovan automaticky prosime neodpovidejte na nej Generovano systemem FastCentrik ",
+    "extractedHrefUrls": [
+        "http://www.natrampolinu.cz/order/show?guid=0d98048f-915d-49bc-a2b2-ae70cc8bd479",
+        "http://www.fastcentrik.cz"
+    ],
+    "spfstatus_hfrom": "SPF_NEUTRAL",
+    "header_reply_to_count": 0,
+    "senders": {
+        "log_cnt_idf_detail": [],
+        "log_ecnt_idf_detail": [],
+        "tf_log_idf": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "cnt-pow4_w_duc_detail": [],
+        "ttf_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "src_revert": "",
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "plain_domain": "fastcentrik",
+        "src_revert_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "fastcentrik"
+            },
+            {
+                "confidence": 2,
+                "domain": "natrampolinu"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "tf_log_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 6486232.1718423,
+                "domain": "mall"
+            }
+        ],
+        "domain_keywords": "mall",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt_idf": ""
+    },
+    "dk_statuses": [
+        {
+            "statusDetail": "NOT_SIGNED",
+            "status": "NEUTRAL"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "extractedSrcUrls": [
+        "http://img.natrampolinu.cz/Images/logo.png"
+    ],
+    "list_unsubscribe_http_count": 0,
+    "unsub_link": "http://www.natrampolinu.cz/order/show?guid=0d98048f-915d-49bc-a2b2-ae70cc8bd479",
+    "extractedHrefUrlsDomainCount": 2,
+    "subject": "Objednavka 2014000140",
+    "list_unsubscribe_total_count": 0,
+    "extractedSrcUrlsDomainCount": 1,
+    "ahref_camouflage_count": 0,
+    "list_unsubscribe_invalid_count": 0,
+    "header_from": "info@natrampolinu.cz"
+}

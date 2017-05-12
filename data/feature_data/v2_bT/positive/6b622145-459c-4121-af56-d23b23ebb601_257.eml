@@ -1,0 +1,265 @@
+{
+    "domainstat_themes": {},
+    "precedence": 3,
+    "spf_domain_policy": "UNKNOWN",
+    "extractedSrcUrlsDomainCount": 1,
+    "extractedTxtUrlsDomainCount": 1,
+    "html_tr_tag_count": 31,
+    "universalprobes": [
+        {
+            "key": "ps-from_mismatch",
+            "value": "1"
+        },
+        {
+            "key": "ps-phish_keyword",
+            "value": "['account', 'security', 'access', 'account', 'accounts', 'verify', 'information', 'verify', 'information', 'secure', 'verify', 'information', 'account', 'update', 'account', 'password', 'access', 'account', 'password', 'information', 'protecting', 'fraud', 'security']"
+        },
+        {
+            "key": "ps-subject_phish_keyword",
+            "value": "['account']"
+        },
+        {
+            "key": "ps-phish_form",
+            "value": "1"
+        },
+        {
+            "key": "ps-most-suspicious-links",
+            "value": "[]"
+        },
+        {
+            "key": "ps-phishing",
+            "value": "1"
+        }
+    ],
+    "extractedEmailsCardinality": 0,
+    "pepca_style": "p28339071a3221888",
+    "rcpts_count": 1,
+    "header_total_count": 22,
+    "dkstatus": "NEUTRAL",
+    "extractedSrcUrlsTotalCount": 4,
+    "html_tag_total_count": 125,
+    "ahref_total_count": 2,
+    "spfstatus_hfrom": "SPF_SOFTFAIL",
+    "ahref_camouflage_count": 0,
+    "extractedTxtUrlsCardinality": 2,
+    "content": "CONTENT_DEFAULT",
+    "extractedTxtUrls": [
+        "http://www.paypal.com/).",
+        "http://www.paypal.com/securitytips"
+    ],
+    "phNotches": [
+        {
+            "subscores": [
+                1,
+                0.5,
+                0.0,
+                0.0,
+                2.5,
+                8
+            ],
+            "name": [
+                "from_mismatch",
+                "phisheable",
+                "phish_keyword",
+                "subject_phish_keyword",
+                "phish_form",
+                "phishing"
+            ],
+            "score": 12,
+            "module": "phish-score"
+        }
+    ],
+    "spamscore": 1.1,
+    "extractedSrcUrlsCardinality": 4,
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pc2ee58d7f95d930a"
+        },
+        {
+            "name": "pepca_style",
+            "value": "p28339071a3221888"
+        }
+    ],
+    "now": 1494597847,
+    "html_in_text_plain_count": 0,
+    "last10words": " in an email For more information on protecting yourself from fraud please review our Security Tips at http www paypal com securitytips ",
+    "dkim_count": 0,
+    "rfcid_is_invalid": false,
+    "list_unsubscribe_mailto_count": 0,
+    "pepcatotal": 4,
+    "domainstat": {},
+    "word_count": 301,
+    "html_script_tag_count": 0,
+    "dkim_efrom_match": 0,
+    "extractedEmails": [],
+    "spf_dom_policy_registry": "Policy not found",
+    "spfstatus": "NONE",
+    "phish_score": 16,
+    "date_difference": -356787588,
+    "html_td_tag_count": 35,
+    "list_unsubscribe_total_count": 0,
+    "dkim_passed_count": 0,
+    "extractedHrefUrlsDomainCount": 2,
+    "first10words": " Dear PayPal Member Your account has been randomly flagged in our system as a part of our routine security measu",
+    "pepca": "pc2ee58d7f95d930a",
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing2/257.eml",
+    "pepca_style_total": 4,
+    "unsub_link": {},
+    "extractedEmailsTotalCount": 0,
+    "rfcid_is_foreign": 1,
+    "attachments": [],
+    "dkStatusDetail": "NOT_SIGNED",
+    "header_from_count": 1,
+    "mime_children_types": [
+        "text/html"
+    ],
+    "subject": "PayPal Account KMM15704117V21840L0 ",
+    "senders": {
+        "domain_keywords": "paypal",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "idf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt-pow4_w_duc": "",
+        "plain_domain_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "tf_log_idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "plain_domain": "",
+        "domain_keywords_detail": [
+            {
+                "domain": "paypal",
+                "confidence": 1186890155.59101
+            }
+        ],
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt_idf": "",
+        "tf_log_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "paypal",
+                "confidence": 4
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_cnt-w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert": "paypal"
+    },
+    "dkim_hfrom_match": 0,
+    "header_reply_to_count": 0,
+    "list_unsubscribe_http_count": 0,
+    "extractedSrcUrls": [
+        "http://images.paypal.com/en_US/i/logo/email_logo.gif",
+        "http://images.paypal.com/images/pixel.gif",
+        "http://images.paypal.com/en_US/i/scr/pixel.gif",
+        "http://images.paypal.com/en_US/images/pixel.gif"
+    ],
+    "subject_image_count": 0,
+    "extractedHrefUrlsTotalCount": 3,
+    "dk_statuses": [
+        {
+            "status": "NEUTRAL",
+            "statusDetail": "NOT_SIGNED"
+        }
+    ],
+    "from_match": 0,
+    "lang": "en",
+    "extractedHrefUrls": [
+        "https://www.paypal.com/us",
+        "http://www.secure.paypal.com.bb2-us.info?cmd=login_access=1109785584",
+        "https://www.paypal.com/us/PREFS-NOTI"
+    ],
+    "pepca_inline_style": "",
+    "pepca_inline_style_total": 0,
+    "self_send": 0,
+    "ahref_verbal_count": 2,
+    "extractedTxtUrlsTotalCount": 2,
+    "subject_word_count": 3,
+    "extractedEmailsDomainCount": 0,
+    "header_from": "service@paypal.com",
+    "mime_root_type": "multipart/alternative",
+    "rfcid_length": 30,
+    "mime_children_count": 1,
+    "extractedHrefUrlsCardinality": 3,
+    "adscore": 0,
+    "dkim_signs_cnt": 1,
+    "spamtrap_hit": false,
+    "theme": {},
+    "spf_status_registry": "Status not found",
+    "phishing": {
+        "camouflage": 0,
+        "num_black_sheep_link": -1,
+        "subject_richness": 0.0810810810810811,
+        "max_num_slashes_urls": 2,
+        "num_https_urls": 2,
+        "body_richness": 0.214846538187009,
+        "ner_domain_detected": true,
+        "num_domain_phish": 0,
+        "num_subdomain_phish": 0,
+        "num_sender_diff_url": 1,
+        "phish_form": true,
+        "num_external_links": 7,
+        "fake_https": 0,
+        "5_top_domains_id_0": 0,
+        "num_html_script_tags": 0,
+        "num_freehost_urls": 0,
+        "num_phish_keywords": 23,
+        "suspicious_links": [],
+        "num_attachments": 0,
+        "text_and_href": 0,
+        "num_subject_phish_keywords": 1,
+        "subject_phish_keywords": 1,
+        "num_www_in_url_path": 0,
+        "html_form": 0,
+        "5_top_domains_percent_0": 1.0,
+        "num_of_chars": 1400,
+        "num_ip_urls": 0,
+        "num_path_phish": 0,
+        "num_param_phish": 0,
+        "max_num_dots_urls": 5,
+        "num_tld_in_url_path": 0,
+        "is_html": true,
+        "num_black_sheep_link_phish": 0,
+        "num_non_80_port_urls": 0,
+        "num_text_forms": 4,
+        "num_black_sheep_link_global": -1,
+        "text_link_with_path": 2,
+        "num_shortened_urls": 0
+    },
+    "dmarc_status": {},
+    "list_unsubscribe_invalid_count": 0
+}

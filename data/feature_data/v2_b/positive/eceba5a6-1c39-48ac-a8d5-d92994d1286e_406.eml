@@ -1,0 +1,202 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ]
+        }
+    ],
+    "extractedTxtUrls": [
+        "http://www.cuna-updatecenter.org/index.html"
+    ],
+    "spfstatus": "NONE",
+    "mime_root_type": "multipart/alternative",
+    "header_from_count": 1,
+    "now": 1494597817,
+    "dkim_efrom_match": 0,
+    "pepca_inline_style_total": 0,
+    "rcpts_count": 1,
+    "extractedEmailsTotalCount": 0,
+    "pepca_inline_style": "",
+    "pepca_style_total": 0,
+    "dkim_hfrom_match": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/20051114/406.eml",
+    "html_td_tag_count": 5,
+    "extractedHrefUrlsCardinality": 2,
+    "list_unsubscribe_mailto_count": 0,
+    "subject_word_count": 7,
+    "lang": "en",
+    "precedence": 3,
+    "phishing": {
+        "num_html_script_tags": 0,
+        "num_text_forms": 2,
+        "fake_https": 0,
+        "is_html": true,
+        "num_non_80_port_urls": 0,
+        "num_https_urls": 0,
+        "num_of_chars": 1765,
+        "num_param_phish": 0,
+        "text_and_href": 0,
+        "body_richness": 0.165345413363533,
+        "text_link_with_path": 1,
+        "max_num_slashes_urls": 1,
+        "num_shortened_urls": 0,
+        "num_sender_diff_url": 2,
+        "num_ip_urls": 0,
+        "num_black_sheep_link": -1,
+        "subject_richness": 0.162790697674419,
+        "num_tld_in_url_path": 0,
+        "subject_phish_keywords": 0,
+        "num_black_sheep_link_global": -1,
+        "num_black_sheep_link_phish": 0,
+        "num_path_phish": 0,
+        "suspicious_links": [],
+        "html_form": 0,
+        "num_phish_keywords": 16,
+        "num_subdomain_phish": 0,
+        "num_domain_phish": 0,
+        "ner_domain_detected": true,
+        "camouflage": 0,
+        "num_freehost_urls": 0,
+        "num_external_links": 3,
+        "max_num_dots_urls": 3,
+        "num_www_in_url_path": 0
+    },
+    "spf_status_registry": "Status not found",
+    "rfcid_is_foreign": 1,
+    "from_match": 0,
+    "first10words": " In attention of all Credit Union customers As the Internet and information technology enable us to expand our services we a",
+    "extractedTxtUrlsDomainCount": 1,
+    "spf_domain_policy": "UNKNOWN",
+    "header_total_count": 29,
+    "dkim_passed_count": 0,
+    "extractedTxtUrlsCardinality": 1,
+    "dkim_signs_cnt": 1,
+    "mime_children_types": [
+        "text/html"
+    ],
+    "ahref_verbal_count": 1,
+    "subject_image_count": 0,
+    "phish_score": 0,
+    "rfcid_is_invalid": false,
+    "dkstatus": "NEUTRAL",
+    "phashes": [
+        {
+            "value": "pfcebd98cc7b57d3c",
+            "name": "pepca"
+        }
+    ],
+    "extractedTxtUrlsTotalCount": 1,
+    "self_send": 0,
+    "attachments": [],
+    "html_tr_tag_count": 5,
+    "extractedEmails": [],
+    "html_tag_total_count": 66,
+    "mime_children_count": 1,
+    "spamtrap_hit": false,
+    "extractedEmailsDomainCount": 0,
+    "extractedHrefUrlsTotalCount": 2,
+    "extractedSrcUrlsCardinality": 1,
+    "spamscore": 1.1,
+    "ahref_total_count": 2,
+    "extractedEmailsCardinality": 0,
+    "extractedSrcUrlsTotalCount": 1,
+    "dkim_count": 0,
+    "adscore": 0,
+    "pepca": "pfcebd98cc7b57d3c",
+    "dkStatusDetail": "NOT_SIGNED",
+    "html_script_tag_count": 0,
+    "date_difference": -363164859,
+    "html_in_text_plain_count": 0,
+    "pepca_style": "",
+    "word_count": 292,
+    "rfcid_length": 32,
+    "spf_dom_policy_registry": "Policy not found",
+    "pepcatotal": 0,
+    "last10words": "g geographic locations Not all products and services are offered at all locations Copyright 2005 Credit Union National Association Inc",
+    "extractedHrefUrls": [
+        "http://www.cuna-updatecenter.org",
+        "http://www.creditunionsonline.com"
+    ],
+    "spfstatus_hfrom": "SPF_NONE",
+    "header_reply_to_count": 1,
+    "senders": {
+        "log_cnt_idf_detail": [],
+        "log_ecnt_idf_detail": [],
+        "tf_log_idf": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "cnt-pow4_w_duc_detail": [],
+        "ttf_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "src_revert": "",
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "plain_domain": "cuna-updatecenter",
+        "src_revert_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "cuna-updatecenter"
+            },
+            {
+                "confidence": 1,
+                "domain": "creditunionsonline"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "tf_log_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 100804381.641969,
+                "domain": "ebay"
+            }
+        ],
+        "domain_keywords": "ebay",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt_idf": ""
+    },
+    "dk_statuses": [
+        {
+            "statusDetail": "NOT_SIGNED",
+            "status": "NEUTRAL"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "extractedSrcUrls": [
+        "http://www.buy.cuna.org/images/anyadvise_button_idtheft.jpg"
+    ],
+    "list_unsubscribe_http_count": 0,
+    "extractedHrefUrlsDomainCount": 2,
+    "subject": "In attention of all Credit Union customers",
+    "list_unsubscribe_total_count": 0,
+    "extractedSrcUrlsDomainCount": 1,
+    "ahref_camouflage_count": 0,
+    "list_unsubscribe_invalid_count": 0,
+    "header_from": "security@creditunion.com"
+}

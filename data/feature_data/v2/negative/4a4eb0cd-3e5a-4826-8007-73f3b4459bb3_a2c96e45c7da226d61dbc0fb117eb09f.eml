@@ -1,0 +1,216 @@
+{
+    "adscore": 0, 
+    "ahref_camouflage_count": 0, 
+    "ahref_total_count": 5, 
+    "ahref_verbal_count": 2, 
+    "attachments": [], 
+    "contains_list_header": true, 
+    "content": "CONTENT_DEFAULT", 
+    "date_difference": -79798480, 
+    "dk_statuses": [
+        {
+            "domain": "email.rdio.com", 
+            "selector": "smtpapi", 
+            "status": "PASS"
+        }
+    ], 
+    "dkdomain": "email.rdio.com", 
+    "dkim_count": 1, 
+    "dkim_efrom_match": 0, 
+    "dkim_hfrom_match": 1, 
+    "dkim_passed_count": 1, 
+    "dkim_signs_cnt": 1, 
+    "dkselector": "smtpapi", 
+    "dkstatus": "PASS", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/a2c96e45c7da226d61dbc0fb117eb09f.eml", 
+    "extractedEmails": [
+        "help@rdio.com", 
+        "help@rdio.com."
+    ], 
+    "extractedEmailsCardinality": 2, 
+    "extractedEmailsDomainCount": 2, 
+    "extractedEmailsTotalCount": 2, 
+    "extractedHrefUrls": [
+        "http://email.rdio.com/wf/click?upn=hzf98cpMl-2FYdbbfbBr-2Beymusy9uMT2XV-2BFKaAV1kxiFvJ-2BVI2KjCT2h-2BkvVXlwzCckQvZYpIHmD5gFEuFpJ", 
+        "http://email.rdio.com/wf/click?upn=hzf98cpMl-2FYdbbfbBr-2BeyqEr5gdF0Eq0Dlcw-2BAIpF2uYcjDFgMvlNV0uz43VCIdKzJknsCwsr6usuyC-2FUFNma", 
+        "http://email.rdio.com/wf/click?upn=hzf98cpMl-2FYdbbfbBr-2BeyqEr5gdF0Eq0Dlcw-2BAIpF2uYcjDFgMvlNV0uz43VCIdKzJknsCwsr6usuyC-2FUFNma", 
+        "http://email.rdio.com/wf/click?upn=D4tgxxPs5-2BZJsybn8ldwkD5s-2FCz0-2F6qWJ3v05a87ABRgw5I1Fl7Ul7UKbpoPSBAKyxv3IRO9Mfk7OQuJs4BFIQ-", 
+        "http://email.rdio.com/wf/unsubscribe?upn=aOHLpqLjAhgvtXyHMs-2B9UoPhC9RCkCJ9Y1gad6scrcyxhDOOO92JlnUkXC2VzDwvpS83kCK3fWViEzyPcyqdX"
+    ], 
+    "extractedHrefUrlsCardinality": 5, 
+    "extractedHrefUrlsDomainCount": 1, 
+    "extractedHrefUrlsTotalCount": 5, 
+    "extractedSrcUrls": [
+        "http://www.rdio.com/media/images/emails/rdio2x.gif", 
+        "http://www.rdio.com/media/images/emails/complete_registration.gif", 
+        "http://email.rdio.com/wf/open?upn=aOHLpqLjAhgvtXyHMs-2B9UoPhC9RCkCJ9Y1gad6scrcyxhDOOO92JlnUkXC2VzDwv7ShWBESChZg4FHjleglCeuf6Gp2B"
+    ], 
+    "extractedSrcUrlsCardinality": 3, 
+    "extractedSrcUrlsDomainCount": 1, 
+    "extractedSrcUrlsTotalCount": 3, 
+    "extractedTxtUrls": [
+        "http://www.rdio.com/account/register/96ab3ebffade6b4a18dbf0af62dc56a625376db6/?utm_content=20141031&utm_source=email_signup_CZ", 
+        "http://help.rdio.com/"
+    ], 
+    "extractedTxtUrlsCardinality": 2, 
+    "extractedTxtUrlsDomainCount": 1, 
+    "extractedTxtUrlsTotalCount": 2, 
+    "first10words": " Dokoncete registraci uctu Rdio Jeste posledni rychly krok a muzete zacit objevovat a prehrav", 
+    "from_match": 0, 
+    "header_from": "no-reply@rdio.com", 
+    "header_from_count": 1, 
+    "header_reply_to_count": 0, 
+    "header_total_count": 17, 
+    "html_in_text_plain_count": 0, 
+    "html_script_tag_count": 0, 
+    "html_tag_total_count": 83, 
+    "html_td_tag_count": 14, 
+    "html_tr_tag_count": 14, 
+    "lang": "cs", 
+    "last10words": "nt St Suite 200 San Francisco CA 94103 If you would like to unsubscribe and stop receiving these emails unsublink tag ", 
+    "list_unsubscribe_http_count": 1, 
+    "list_unsubscribe_invalid_count": 0, 
+    "list_unsubscribe_mailto_count": 1, 
+    "list_unsubscribe_total_count": 2, 
+    "list_unsubscribe_urls": [
+        "http://email.rdio.com/wf/unsubscribe?upn=aOHLpqLjAhgvtXyHMs-2B9UoPhC9RCkCJ9Y1gad6scrcyxhDOOO92JlnUkXC2VzDwvqf2AT3wMtloZIetaapOZblzJyOmki1swPX8fTtHgwmjaYsSb5TnM0g-2BExWSC3zClYEdRe98tdgpTZLrtd89CflvGmUpbgK-2BLxBQddYd-2BJvg551EL-2BaNwLFyq5C-2FfBRqX1ifax-2BrMXPQK46ORRooSgZennOTjiOEQpti6hegcyunsqrR5LxJPbTKPTLudq-2B5K", 
+        "mailto:unsubscribe@email.rdio.com?subject=http://email.rdio.com/wf/unsubscribe*q*upn=aOHLpqLjAhgvtXyHMs-2B9UoPhC9RCkCJ9Y1gad6scrcyxhDOOO92JlnUkXC2VzDwvqf2AT3wMtloZIetaapOZblzJyOmki1swPX8fTtHgwmjaYsSb5TnM0g-2BExWSC3zClYEdRe98tdgpTZLrtd89CflvGmUpbgK-2BLxBQddYd-2BJvg551EL-2BaNwLFyq5C-2FfBRqX1ifax-2BrMXPQK46ORRooSgZennOTjiOEQpti6hegcyunsqrR5LxJPbTKPTLudq-2B5K"
+    ], 
+    "mime_children_count": 2, 
+    "mime_children_types": [
+        "text/plain", 
+        "text/html"
+    ], 
+    "mime_root_type": "multipart/alternative", 
+    "notches": [
+        {
+            "module": "ill", 
+            "name": [
+                "date_in_past", 
+                "from_missmatch"
+            ], 
+            "score": 1, 
+            "subscores": [
+                1, 
+                0.0
+            ]
+        }
+    ], 
+    "now": 1494598372, 
+    "pepca": "p58f2f6aef41b8462", 
+    "pepca_inline_style": "p55f24185344cb0a0", 
+    "pepca_inline_style_total": 0, 
+    "pepca_style": "", 
+    "pepca_style_total": 0, 
+    "pepcatotal": 0, 
+    "phashes": [
+        {
+            "name": "pepca", 
+            "value": "p58f2f6aef41b8462"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "p55f24185344cb0a0"
+        }
+    ], 
+    "phish_score": 0, 
+    "phishing": {
+        "body_richness": 0.166289592760181, 
+        "camouflage": 0, 
+        "fake_https": 0, 
+        "html_form": 0, 
+        "is_html": true, 
+        "max_num_dots_urls": 2, 
+        "max_num_slashes_urls": 4, 
+        "num_black_sheep_link": -1, 
+        "num_black_sheep_link_global": -1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_external_links": 8, 
+        "num_freehost_urls": 0, 
+        "num_html_script_tags": 0, 
+        "num_https_urls": 0, 
+        "num_ip_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "num_of_chars": 883, 
+        "num_param_phish": 0, 
+        "num_path_phish": 0, 
+        "num_phish_keywords": 2, 
+        "num_sender_diff_url": 0, 
+        "num_shortened_urls": 0, 
+        "num_subdomain_phish": 0, 
+        "num_text_forms": 9, 
+        "num_tld_in_url_path": 0, 
+        "num_www_in_url_path": 0, 
+        "subject_phish_keywords": 0, 
+        "subject_richness": 0.135135135135135, 
+        "suspicious_links": [], 
+        "text_and_href": 0, 
+        "text_link_with_path": 1
+    }, 
+    "precedence": 3, 
+    "rcpts_count": 1, 
+    "rfcid_is_foreign": 0, 
+    "rfcid_is_invalid": false, 
+    "rfcid_length": 44, 
+    "self_send": 0, 
+    "senders": {
+        "cnt-pow4_w_duc": "", 
+        "cnt-pow4_w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "domain_keywords": "aweber", 
+        "domain_keywords_detail": [
+            {
+                "confidence": 95237010.2572346, 
+                "domain": "aweber"
+            }
+        ], 
+        "ettf_w_duc": "", 
+        "ettf_w_duc_detail": [], 
+        "idf": "", 
+        "idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "log_cnt-w_duc_detail": [], 
+        "log_cnt_idf": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "log_ecnt_idf": "", 
+        "log_ecnt_idf_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "log_ecnt_log_idf_log_tidf": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "plain_domain": "rdio", 
+        "plain_domain_detail": [
+            {
+                "confidence": 1, 
+                "domain": "rdio"
+            }
+        ], 
+        "src_revert": "", 
+        "src_revert_detail": [], 
+        "tf_log_idf": "", 
+        "tf_log_idf_detail": [], 
+        "ttf_w_duc": "", 
+        "ttf_w_duc_detail": []
+    }, 
+    "spamscore": 1, 
+    "spamtrap_hit": false, 
+    "spf_dom_policy_registry": "Policy not found", 
+    "spf_domain_policy": "UNKNOWN", 
+    "spf_status_registry": "Status not found", 
+    "spfstatus": "NONE", 
+    "spfstatus_hfrom": "SPF_SOFTFAIL", 
+    "subject": "Dokoncit registraci u sluzby Rdio", 
+    "subject_image_count": 0, 
+    "subject_word_count": 5, 
+    "word_count": 147
+}

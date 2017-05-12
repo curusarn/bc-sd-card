@@ -1,0 +1,209 @@
+{
+    "adscore": 0, 
+    "ahref_camouflage_count": 0, 
+    "ahref_total_count": 2, 
+    "ahref_verbal_count": 1, 
+    "attachments": [], 
+    "content": "CONTENT_DEFAULT", 
+    "date_difference": -79570773, 
+    "dk_statuses": [
+        {
+            "domain": "scio.cz", 
+            "selector": "mail", 
+            "status": "PASS"
+        }
+    ], 
+    "dkdomain": "scio.cz", 
+    "dkim_count": 1, 
+    "dkim_efrom_match": 0, 
+    "dkim_hfrom_match": 1, 
+    "dkim_passed_count": 1, 
+    "dkim_signs_cnt": 1, 
+    "dkselector": "mail", 
+    "dkstatus": "PASS", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/1bd5e72448bfb402e9d3b65d97facebb.eml", 
+    "extractedEmails": [], 
+    "extractedEmailsCardinality": 0, 
+    "extractedEmailsDomainCount": 0, 
+    "extractedEmailsTotalCount": 0, 
+    "extractedHrefUrls": [
+        "http://www.scio.cz", 
+        "https://www.scio.cz/profil/zakaznikPrihlasit.asp?c=heslo&email=abraham01@seznam.cz&hash=e418871e496e1c0db25f16620e2644d9"
+    ], 
+    "extractedHrefUrlsCardinality": 2, 
+    "extractedHrefUrlsDomainCount": 1, 
+    "extractedHrefUrlsTotalCount": 2, 
+    "extractedSrcUrls": [
+        "http://www.scio.cz/images/email/logo/scio.png"
+    ], 
+    "extractedSrcUrlsCardinality": 1, 
+    "extractedSrcUrlsDomainCount": 1, 
+    "extractedSrcUrlsTotalCount": 1, 
+    "extractedTxtUrls": [
+        "http://www.scio.cz", 
+        "https://www.scio.cz/profil/zakaznikPrihlasit.asp?c=heslo&email=abraham01@seznam.cz&hash=e418871e496e1c0db25f16620e2644d9", 
+        "https://www.scio.cz/profil/zakaznikPrihlasit.asp?c=heslo&email=abraham01@seznam.cz&hash=e418871e496e1c0db25f16620e2644d9www.scio"
+    ], 
+    "extractedTxtUrlsCardinality": 3, 
+    "extractedTxtUrlsDomainCount": 1, 
+    "extractedTxtUrlsTotalCount": 3, 
+    "first10words": " Zadost o heslo Dobry den na zaklade vasi zadosti ze stranek www scio cz vam posilame odkaz pro zmenu hesla k Vasemu osobn", 
+    "from_match": 0, 
+    "header_from": "scio@scio.cz", 
+    "header_from_count": 1, 
+    "header_reply_to_count": 0, 
+    "header_total_count": 19, 
+    "html_in_text_plain_count": 0, 
+    "html_script_tag_count": 0, 
+    "html_tag_total_count": 28, 
+    "html_td_tag_count": 0, 
+    "html_tr_tag_count": 0, 
+    "lang": "cs", 
+    "last10words": " https www scio cz profil zakaznikPrihlasit asp c heslo email abraham01 seznam cz hash e418871e496e1c0db25f16620e2644d9 www scio cz s r o ", 
+    "list_unsubscribe_http_count": 0, 
+    "list_unsubscribe_invalid_count": 0, 
+    "list_unsubscribe_mailto_count": 0, 
+    "list_unsubscribe_total_count": 0, 
+    "mime_children_count": 2, 
+    "mime_children_types": [
+        "text/plain", 
+        "text/html"
+    ], 
+    "mime_root_type": "multipart/alternative", 
+    "notches": [
+        {
+            "module": "ill", 
+            "name": [
+                "date_in_past", 
+                "from_missmatch"
+            ], 
+            "score": 1, 
+            "subscores": [
+                1, 
+                0.0
+            ]
+        }
+    ], 
+    "now": 1494598195, 
+    "pepca": "p1d146ce97af6f918", 
+    "pepca_inline_style": "", 
+    "pepca_inline_style_total": 0, 
+    "pepca_style": "pbddfcf07f20273f9", 
+    "pepca_style_total": 2, 
+    "pepcatotal": 0, 
+    "phashes": [
+        {
+            "name": "pepca", 
+            "value": "p1d146ce97af6f918"
+        }, 
+        {
+            "name": "pepca_style", 
+            "value": "pbddfcf07f20273f9"
+        }
+    ], 
+    "phish_score": 0, 
+    "phishing": {
+        "body_richness": 0.112781954887218, 
+        "camouflage": 0, 
+        "fake_https": 0, 
+        "html_form": 0, 
+        "is_html": true, 
+        "max_num_dots_urls": 6, 
+        "max_num_slashes_urls": 2, 
+        "num_black_sheep_link": -1, 
+        "num_black_sheep_link_global": -1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_external_links": 3, 
+        "num_freehost_urls": 0, 
+        "num_html_script_tags": 0, 
+        "num_https_urls": 2, 
+        "num_ip_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "num_of_chars": 398, 
+        "num_param_phish": 0, 
+        "num_path_phish": 0, 
+        "num_phish_keywords": 4, 
+        "num_sender_diff_url": 0, 
+        "num_shortened_urls": 0, 
+        "num_subdomain_phish": 0, 
+        "num_text_forms": 1, 
+        "num_tld_in_url_path": 0, 
+        "num_www_in_url_path": 0, 
+        "subject_phish_keywords": 1, 
+        "subject_richness": 0.176470588235294, 
+        "suspicious_links": [], 
+        "text_and_href": 2, 
+        "text_link_with_path": 2
+    }, 
+    "precedence": 3, 
+    "rcpts_count": 1, 
+    "rfcid_is_foreign": 0, 
+    "rfcid_is_invalid": false, 
+    "rfcid_length": 43, 
+    "self_send": 0, 
+    "senders": {
+        "cnt-pow4_w_duc": "", 
+        "cnt-pow4_w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "domain_keywords": "scio", 
+        "domain_keywords_detail": [
+            {
+                "confidence": 33090453.4245, 
+                "domain": "scio"
+            }
+        ], 
+        "ettf_w_duc": "", 
+        "ettf_w_duc_detail": [], 
+        "idf": "", 
+        "idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "log_cnt-w_duc_detail": [], 
+        "log_cnt_idf": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "log_ecnt_idf": "", 
+        "log_ecnt_idf_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "log_ecnt_log_idf_log_tidf": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "plain_domain": "scio", 
+        "plain_domain_detail": [
+            {
+                "confidence": 1, 
+                "domain": "scio"
+            }
+        ], 
+        "src_revert": "scio", 
+        "src_revert_detail": [
+            {
+                "confidence": 1, 
+                "domain": "scio"
+            }
+        ], 
+        "tf_log_idf": "", 
+        "tf_log_idf_detail": [], 
+        "ttf_w_duc": "", 
+        "ttf_w_duc_detail": []
+    }, 
+    "spamscore": 1, 
+    "spamtrap_hit": false, 
+    "spf_dom_policy_registry": "Policy not found", 
+    "spf_domain_policy": "UNKNOWN", 
+    "spf_status_registry": "Status not found", 
+    "spfstatus": "NONE", 
+    "spfstatus_hfrom": "SPF_SOFTFAIL", 
+    "subject": "Zadost o heslo", 
+    "subject_image_count": 0, 
+    "subject_word_count": 3, 
+    "word_count": 45
+}

@@ -1,0 +1,222 @@
+{
+    "extractedHrefUrlsTotalCount": 9,
+    "dkim_efrom_match": 0,
+    "rcpts_count": 1,
+    "extractedEmailsTotalCount": 0,
+    "pepca_inline_style": "p99d89c50a8649118",
+    "subject": "Mate zmenene heslo k uctu Skype",
+    "header_reply_to_count": 0,
+    "precedence": 3,
+    "subject_word_count": 6,
+    "extractedHrefUrlsDomainCount": 1,
+    "from_match": 0,
+    "first10words": " Skype Tento e mail byl odeslan automaticky proto na nej neodpovidejte Vazeny uzivateli zuzaevka ",
+    "extractedTxtUrlsDomainCount": 1,
+    "header_total_count": 15,
+    "dkim_signs_cnt": 1,
+    "subject_image_count": 0,
+    "html_in_text_plain_count": 0,
+    "attachments": [],
+    "dkdomain": "",
+    "html_tr_tag_count": 16,
+    "unsub_link_texts": [
+        " odhlasit odber skype neumoznovat tisnovy volani"
+    ],
+    "extractedEmails": [],
+    "spamscore": 1,
+    "word_count": 391,
+    "extractedEmailsCardinality": 0,
+    "extractedSrcUrlsTotalCount": 2,
+    "dkim_count": 1,
+    "pepca": "p4c6362571cb588b1",
+    "date_difference": -79600894,
+    "unsub_link_candidates": [
+        "https://go.skype.com/email.unsubscribe?user=zuzaevka&token=6ad025d4a7"
+    ],
+    "phish_score": 0,
+    "resent": true,
+    "extractedHrefUrls": [
+        "http://api.skype.com/tracking/emails/click?m=7131000026541217651&go=help&x=intcmp%3DT_302-_-H-_-031114-_-help",
+        "http://api.skype.com/tracking/emails/click?m=7131000026541217651&go=tos&x=intcmp%3DT_302-_-H-_-031114-_-tos",
+        "http://api.skype.com/tracking/emails/click?m=7131000026541217651&go=privacy&x=intcmp%3DT_302-_-H-_-031114-_-privacy",
+        "https://go.skype.com/email.unsubscribe?user=zuzaevka&token=6ad025d4a7",
+        "http://api.skype.com/tracking/emails/click?m=7131000026541217651&go=community&x=intcmp%3DT_302-_-H-_-031114-_-community"
+    ],
+    "senders": {
+        "log_cnt_idf_detail": [],
+        "log_ecnt_idf_detail": [],
+        "tf_log_idf": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "cnt-pow4_w_duc_detail": [],
+        "ttf_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "src_revert": "skype",
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "plain_domain": "skype",
+        "src_revert_detail": [
+            {
+                "confidence": 2,
+                "domain": "skype"
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "plain_domain_detail": [
+            {
+                "confidence": 4,
+                "domain": "skype"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "tf_log_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 391127679.616934,
+                "domain": "skype"
+            }
+        ],
+        "domain_keywords": "skype",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt_idf": ""
+    },
+    "content": "CONTENT_DEFAULT",
+    "last10words": "oga a symbol S jsou ochranne znamky spolecnosti Skype Skype Communications S A R L 23 29 Rives de Clausen L 2165 Luxembourg ",
+    "pepcatotal": 0,
+    "header_from": "noreply@notifications.skype.com",
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ]
+        }
+    ],
+    "extractedTxtUrls": [
+        "https://secure.skype.com",
+        "http://www.skype.com",
+        "https://secure.skype.com."
+    ],
+    "mime_root_type": "multipart/alternative",
+    "header_from_count": 1,
+    "now": 1494598238,
+    "pepca_inline_style_total": 2,
+    "extractedHrefUrlsCardinality": 9,
+    "dkim_hfrom_match": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/39ef350f970f8b4447fec55dce630cdf.eml",
+    "html_td_tag_count": 18,
+    "pepca_style_total": 0,
+    "list_unsubscribe_mailto_count": 0,
+    "lang": "cs",
+    "phishing": {
+        "num_html_script_tags": 0,
+        "num_text_forms": 4,
+        "fake_https": 0,
+        "is_html": true,
+        "num_non_80_port_urls": 0,
+        "num_https_urls": 3,
+        "num_of_chars": 2536,
+        "num_param_phish": 0,
+        "text_and_href": 0,
+        "body_richness": 0.154119038234135,
+        "text_link_with_path": 0,
+        "max_num_slashes_urls": 3,
+        "num_shortened_urls": 0,
+        "num_sender_diff_url": 0,
+        "num_ip_urls": 0,
+        "num_black_sheep_link": -1,
+        "subject_richness": 0.157894736842105,
+        "num_tld_in_url_path": 0,
+        "subject_phish_keywords": 2,
+        "num_black_sheep_link_global": -1,
+        "num_black_sheep_link_phish": 0,
+        "num_path_phish": 0,
+        "suspicious_links": [],
+        "html_form": 0,
+        "num_phish_keywords": 18,
+        "num_subdomain_phish": 0,
+        "num_domain_phish": 0,
+        "ner_domain_detected": true,
+        "camouflage": 0,
+        "num_freehost_urls": 0,
+        "num_external_links": 7,
+        "max_num_dots_urls": 4,
+        "num_www_in_url_path": 0
+    },
+    "spf_status_registry": "Status not found",
+    "rfcid_is_foreign": 0,
+    "spf_domain_policy": "UNKNOWN",
+    "spfstatus_hfrom": "SPF_FAIL",
+    "dkim_passed_count": 0,
+    "extractedTxtUrlsCardinality": 3,
+    "spfstatus": "NONE",
+    "ahref_verbal_count": 10,
+    "self_send": 0,
+    "dkstatus": "FAIL",
+    "extractedTxtUrlsTotalCount": 3,
+    "html_tag_total_count": 133,
+    "extractedEmailsDomainCount": 0,
+    "spamtrap_hit": false,
+    "extractedSrcUrlsCardinality": 2,
+    "ahref_total_count": 10,
+    "adscore": 0,
+    "dkStatusDetail": "DKIM_STAT_NOKEY",
+    "html_script_tag_count": 0,
+    "list_unsubscribe_total_count": 0,
+    "mime_children_types": [
+        "text/plain",
+        "text/html"
+    ],
+    "unsub_link": "https://go.skype.com/email.unsubscribe?user=zuzaevka&token=6ad025d4a7",
+    "rfcid_length": 67,
+    "phashes": [
+        {
+            "value": "p4c6362571cb588b1",
+            "name": "pepca"
+        },
+        {
+            "value": "p99d89c50a8649118",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "spf_dom_policy_registry": "Policy not found",
+    "extractedSrcUrls": [
+        "http://www.skypeassets.com/i/common/images/icons/skype-logo.png",
+        "http://api.skype.com/tracking/emails/open/7131000026541217651.gif"
+    ],
+    "list_unsubscribe_http_count": 0,
+    "pepca_style": "",
+    "mime_children_count": 2,
+    "rfcid_is_invalid": false,
+    "extractedSrcUrlsDomainCount": 2,
+    "ahref_camouflage_count": 0,
+    "list_unsubscribe_invalid_count": 0,
+    "dk_statuses": [
+        {
+            "status": "FAIL",
+            "domain": "",
+            "statusDetail": "DKIM_STAT_NOKEY"
+        }
+    ]
+}

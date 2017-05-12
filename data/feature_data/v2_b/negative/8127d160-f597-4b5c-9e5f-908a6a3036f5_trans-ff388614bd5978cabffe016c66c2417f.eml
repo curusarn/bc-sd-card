@@ -1,0 +1,233 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.5
+            ],
+            "score": 1.5,
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "long_subject"
+            ]
+        }
+    ],
+    "extractedTxtUrls": [
+        "http://www.parfums.cz",
+        "http://www.silver.ag",
+        "http://parfums.cz",
+        "http://www.parfums.cz."
+    ],
+    "spfstatus": "NONE",
+    "mime_root_type": "multipart/mixed",
+    "header_from_count": 1,
+    "now": 1494598447,
+    "dkim_efrom_match": 0,
+    "pepca_inline_style_total": 0,
+    "rcpts_count": 1,
+    "extractedEmailsTotalCount": 1,
+    "pepca_inline_style": "",
+    "pepca_style_total": 0,
+    "dkim_hfrom_match": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/trans-ff388614bd5978cabffe016c66c2417f.eml",
+    "html_td_tag_count": 0,
+    "extractedHrefUrlsCardinality": 4,
+    "list_unsubscribe_mailto_count": 0,
+    "subject_word_count": 12,
+    "lang": "cs",
+    "precedence": 3,
+    "phishing": {
+        "num_html_script_tags": 0,
+        "num_text_forms": 4,
+        "fake_https": 0,
+        "is_html": true,
+        "num_non_80_port_urls": 0,
+        "num_https_urls": 2,
+        "num_of_chars": 2228,
+        "num_param_phish": 0,
+        "text_and_href": 1,
+        "body_richness": 0.131000448631673,
+        "text_link_with_path": 0,
+        "max_num_slashes_urls": 1,
+        "num_shortened_urls": 0,
+        "num_sender_diff_url": 2,
+        "num_ip_urls": 0,
+        "num_black_sheep_link": -1,
+        "subject_richness": 0.136363636363636,
+        "num_tld_in_url_path": 0,
+        "subject_phish_keywords": 1,
+        "num_black_sheep_link_global": -1,
+        "num_black_sheep_link_phish": 0,
+        "num_path_phish": 0,
+        "suspicious_links": [],
+        "html_form": 0,
+        "num_phish_keywords": 2,
+        "num_subdomain_phish": 0,
+        "num_domain_phish": 0,
+        "ner_domain_detected": true,
+        "camouflage": 0,
+        "num_freehost_urls": 0,
+        "num_external_links": 4,
+        "max_num_dots_urls": 3,
+        "num_www_in_url_path": 0
+    },
+    "spf_status_registry": "Status not found",
+    "rfcid_is_foreign": 0,
+    "from_match": 0,
+    "first10words": " Dobry den dekujeme za Vas nakup na www parfums cz Vasi objednavku jsme prijali a nasi pracovnici ji zacali zpracovavat",
+    "extractedTxtUrlsDomainCount": 2,
+    "spf_domain_policy": "UNKNOWN",
+    "header_total_count": 10,
+    "dkim_passed_count": 0,
+    "extractedTxtUrlsCardinality": 4,
+    "dkim_signs_cnt": 1,
+    "mime_children_types": [
+        "text/html",
+        "text/html",
+        "text/html"
+    ],
+    "ahref_verbal_count": 6,
+    "subject_image_count": 0,
+    "phish_score": 0,
+    "rfcid_is_invalid": false,
+    "dkstatus": "NEUTRAL",
+    "phashes": [
+        {
+            "value": "p537ed0984b13e9db",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p87c2e95e57431cbe",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p1b2bc1569f5a3a15",
+            "name": "pepca"
+        }
+    ],
+    "extractedTxtUrlsTotalCount": 4,
+    "self_send": 0,
+    "attachments": [
+        {
+            "mime_type": "text/html",
+            "cte": "BASE64",
+            "flags": 0,
+            "pepca": "p537ed0984b13e9db",
+            "sumphash": "aaf749e736d5c6d7f6f50e0c8a64d82d",
+            "size": 4552,
+            "name": "order.html"
+        },
+        {
+            "mime_type": "text/html",
+            "cte": "BASE64",
+            "flags": 0,
+            "pepca": "p87c2e95e57431cbe",
+            "sumphash": "a0893dbd7396566384cd1aa4a1695a06",
+            "size": 24626,
+            "name": "obchodni-podminky-internet-shop.html"
+        }
+    ],
+    "html_tr_tag_count": 0,
+    "extractedEmails": [
+        "info@parfums.cz"
+    ],
+    "html_tag_total_count": 83,
+    "mime_children_count": 3,
+    "spamtrap_hit": false,
+    "extractedEmailsDomainCount": 1,
+    "extractedHrefUrlsTotalCount": 4,
+    "spamscore": 1.5,
+    "ahref_total_count": 15,
+    "extractedEmailsCardinality": 1,
+    "list_unsubscribe_http_count": 0,
+    "dkim_count": 0,
+    "adscore": 0,
+    "pepca": "p1b2bc1569f5a3a15",
+    "dkStatusDetail": "NOT_SIGNED",
+    "html_script_tag_count": 0,
+    "date_difference": -73440501,
+    "html_in_text_plain_count": 0,
+    "pepca_style": "",
+    "word_count": 292,
+    "rfcid_length": 43,
+    "spf_dom_policy_registry": "Policy not found",
+    "last10words": " Internet Shop s r o Videnska 101 119 619 00 Brno Ceska republika tel 530 514 000 fax 541511835 ICO 27609057 DIC CZ27609057 ",
+    "extractedHrefUrls": [
+        "http://www.parfums.cz",
+        "https://www.silver.ag/?a_aid=PARFUMS",
+        "https://www.facebook.com/parfums.cz?ref=bookmarks",
+        "http://www.parfums.cz/"
+    ],
+    "spfstatus_hfrom": "SPF_SOFTFAIL",
+    "header_reply_to_count": 0,
+    "senders": {
+        "log_cnt_idf_detail": [],
+        "log_ecnt_idf_detail": [],
+        "tf_log_idf": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "cnt-pow4_w_duc_detail": [],
+        "ttf_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "src_revert": "",
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "plain_domain": "parfums",
+        "src_revert_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "plain_domain_detail": [
+            {
+                "confidence": 4,
+                "domain": "parfums"
+            },
+            {
+                "confidence": 1,
+                "domain": "silver"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "tf_log_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 52279680.9190319,
+                "domain": "parfums"
+            }
+        ],
+        "domain_keywords": "parfums",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt_idf": ""
+    },
+    "pepcatotal": 0,
+    "content": "CONTENT_DEFAULT",
+    "extractedSrcUrls": [],
+    "extractedHrefUrlsDomainCount": 3,
+    "subject": "Potvrzeni Vasi objednavky cislo 102122038 na www parfums cz darek pro Vas ",
+    "list_unsubscribe_total_count": 0,
+    "dk_statuses": [
+        {
+            "statusDetail": "NOT_SIGNED",
+            "status": "NEUTRAL"
+        }
+    ],
+    "ahref_camouflage_count": 0,
+    "list_unsubscribe_invalid_count": 0,
+    "header_from": "info@parfums.cz"
+}

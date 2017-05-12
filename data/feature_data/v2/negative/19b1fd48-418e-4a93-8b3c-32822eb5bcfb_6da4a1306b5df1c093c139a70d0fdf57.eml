@@ -1,0 +1,234 @@
+{
+    "adscore": 0, 
+    "ahref_camouflage_count": 0, 
+    "ahref_total_count": 3, 
+    "ahref_verbal_count": 1, 
+    "attachments": [
+        {
+            "cid": "4094697.jpg", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "image/jpeg", 
+            "name": "4094697.jpg", 
+            "pepca": "p3701ece4d67abe0d", 
+            "size": 3674, 
+            "sumphash": "a51f453fea34e4b639461aaeac739227"
+        }
+    ], 
+    "content": "CONTENT_DEFAULT", 
+    "date_difference": -75957783, 
+    "dkStatusDetail": "NOT_SIGNED", 
+    "dk_statuses": [
+        {
+            "status": "NEUTRAL", 
+            "statusDetail": "NOT_SIGNED"
+        }
+    ], 
+    "dkim_count": 0, 
+    "dkim_efrom_match": 0, 
+    "dkim_hfrom_match": 0, 
+    "dkim_passed_count": 0, 
+    "dkim_signs_cnt": 1, 
+    "dkstatus": "NEUTRAL", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/6da4a1306b5df1c093c139a70d0fdf57.eml", 
+    "extractedEmails": [
+        "dagmar.o@seznam.cz", 
+        "mtec@email.cz", 
+        "Dagmar.O@seznam.cz"
+    ], 
+    "extractedEmailsCardinality": 3, 
+    "extractedEmailsDomainCount": 2, 
+    "extractedEmailsTotalCount": 3, 
+    "extractedHrefUrls": [
+        "http://mtec.mimishop.cz/detail.php?zbozi=4094697", 
+        "http://mtec.mimishop.cz/objednavka.php?id=1772248&shop=561&datum=1418336172", 
+        "http://mtec.mimishop.cz/podminky.php?pdf=1&verze=1418336172&jazyk=cs"
+    ], 
+    "extractedHrefUrlsCardinality": 3, 
+    "extractedHrefUrlsDomainCount": 1, 
+    "extractedHrefUrlsTotalCount": 3, 
+    "extractedSrcUrls": [
+        "cid:4094697.jpg"
+    ], 
+    "extractedSrcUrlsCardinality": 1, 
+    "extractedSrcUrlsDomainCount": 0, 
+    "extractedSrcUrlsTotalCount": 1, 
+    "extractedTxtUrls": [
+        "http://mtec.mimishop.cz/podminky.php?pdf=1&verze=1418336172&jazyk=cs", 
+        "http://www.mtec.mimishop.cz", 
+        "http://www.detskeauto.de.vu", 
+        "http://www.mimibazar.cz/bazar.php?user=440225", 
+        "http://Kinder-Autohaus.EU"
+    ], 
+    "extractedTxtUrlsCardinality": 5, 
+    "extractedTxtUrlsDomainCount": 4, 
+    "extractedTxtUrlsTotalCount": 5, 
+    "first10words": " Dekuji D G Puvodni zprava Od Werner Weisker mtec email cz Komu Dagmar Grobarova Olivova Dagmar O sezna", 
+    "from_match": 0, 
+    "header_from": "Dagmar.O@seznam.cz", 
+    "header_from_count": 1, 
+    "header_reply_to_count": 0, 
+    "header_total_count": 11, 
+    "html_in_text_plain_count": 0, 
+    "html_script_tag_count": 0, 
+    "html_tag_total_count": 265, 
+    "html_td_tag_count": 48, 
+    "html_tr_tag_count": 18, 
+    "lang": "cs", 
+    "last10words": "2014 23 16 si stahnete ve formatu PDF zde http mtec mimishop cz podminky php pdf 1 verze 1418336172 jazyk cs IP 188 75 190 36 ", 
+    "list_unsubscribe_http_count": 0, 
+    "list_unsubscribe_invalid_count": 0, 
+    "list_unsubscribe_mailto_count": 0, 
+    "list_unsubscribe_total_count": 0, 
+    "mime_children_count": 2, 
+    "mime_children_types": [
+        "multipart/alternative", 
+        "image/jpeg"
+    ], 
+    "mime_root_type": "multipart/mixed", 
+    "notches": [
+        {
+            "module": "ill", 
+            "name": [
+                "date_in_past", 
+                "from_missmatch", 
+                "foreign_message_id"
+            ], 
+            "score": 1.1, 
+            "subscores": [
+                1, 
+                0.0, 
+                0.1
+            ]
+        }
+    ], 
+    "now": 1494598309, 
+    "pepca": "p0f6d2caa4092173c", 
+    "pepca_inline_style": "p605e69c54e854e86", 
+    "pepca_inline_style_total": 0, 
+    "pepca_style": "", 
+    "pepca_style_total": 0, 
+    "pepcatotal": 0, 
+    "phashes": [
+        {
+            "name": "att-pepca", 
+            "value": "p3701ece4d67abe0d"
+        }, 
+        {
+            "name": "pepca", 
+            "value": "p0f6d2caa4092173c"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "p605e69c54e854e86"
+        }
+    ], 
+    "phish_score": 0, 
+    "phishing": {
+        "body_richness": 0.136157826649418, 
+        "camouflage": 0, 
+        "fake_https": 0, 
+        "html_form": 0, 
+        "is_html": true, 
+        "max_num_dots_urls": 3, 
+        "max_num_slashes_urls": 1, 
+        "num_black_sheep_link": -1, 
+        "num_black_sheep_link_global": -1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_external_links": 3, 
+        "num_freehost_urls": 1, 
+        "num_html_script_tags": 0, 
+        "num_https_urls": 0, 
+        "num_ip_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "num_of_chars": 3091, 
+        "num_param_phish": 0, 
+        "num_path_phish": 0, 
+        "num_phish_keywords": 2, 
+        "num_sender_diff_url": 4, 
+        "num_shortened_urls": 0, 
+        "num_subdomain_phish": 0, 
+        "num_text_forms": 9, 
+        "num_tld_in_url_path": 0, 
+        "num_www_in_url_path": 0, 
+        "subject_phish_keywords": 0, 
+        "subject_richness": 0.108108108108108, 
+        "suspicious_links": [], 
+        "text_and_href": 1, 
+        "text_link_with_path": 2
+    }, 
+    "precedence": 3, 
+    "rcpts_count": 1, 
+    "rfcid_is_foreign": 1, 
+    "rfcid_is_invalid": false, 
+    "rfcid_length": 37, 
+    "self_send": 0, 
+    "senders": {
+        "cnt-pow4_w_duc": "", 
+        "cnt-pow4_w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "domain_keywords": "superhosting", 
+        "domain_keywords_detail": [
+            {
+                "confidence": 71164400.6804159, 
+                "domain": "superhosting"
+            }
+        ], 
+        "ettf_w_duc": "", 
+        "ettf_w_duc_detail": [], 
+        "idf": "", 
+        "idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "log_cnt-w_duc_detail": [], 
+        "log_cnt_idf": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "log_ecnt_idf": "", 
+        "log_ecnt_idf_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "log_ecnt_log_idf_log_tidf": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "plain_domain": "mimishop", 
+        "plain_domain_detail": [
+            {
+                "confidence": 1, 
+                "domain": "mimishop"
+            }, 
+            {
+                "confidence": 1, 
+                "domain": "de"
+            }, 
+            {
+                "confidence": 1, 
+                "domain": "kinder-autohaus"
+            }
+        ], 
+        "src_revert": "", 
+        "src_revert_detail": [], 
+        "tf_log_idf": "", 
+        "tf_log_idf_detail": [], 
+        "ttf_w_duc": "", 
+        "ttf_w_duc_detail": []
+    }, 
+    "spamscore": 1.1, 
+    "spamtrap_hit": false, 
+    "spf_dom_policy_registry": "Policy not found", 
+    "spf_domain_policy": "UNKNOWN", 
+    "spf_status_registry": "Status not found", 
+    "spfstatus": "NONE", 
+    "spfstatus_hfrom": "SPF_NEUTRAL", 
+    "subject": "Re Objednavka Dagmar Grobarova", 
+    "subject_image_count": 0, 
+    "subject_word_count": 4, 
+    "word_count": 421
+}

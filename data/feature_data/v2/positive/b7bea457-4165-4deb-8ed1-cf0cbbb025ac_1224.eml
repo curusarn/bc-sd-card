@@ -1,0 +1,202 @@
+{
+    "adscore": 0, 
+    "ahref_camouflage_count": 0, 
+    "ahref_total_count": 2, 
+    "ahref_verbal_count": 2, 
+    "attachments": [], 
+    "content": "CONTENT_DEFAULT", 
+    "date_difference": -341877822, 
+    "dkStatusDetail": "NOT_SIGNED", 
+    "dk_statuses": [
+        {
+            "status": "NEUTRAL", 
+            "statusDetail": "NOT_SIGNED"
+        }
+    ], 
+    "dkim_count": 0, 
+    "dkim_efrom_match": 0, 
+    "dkim_hfrom_match": 0, 
+    "dkim_passed_count": 0, 
+    "dkim_signs_cnt": 1, 
+    "dkstatus": "NEUTRAL", 
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing2/1224.eml", 
+    "extractedEmails": [], 
+    "extractedEmailsCardinality": 0, 
+    "extractedEmailsDomainCount": 0, 
+    "extractedEmailsTotalCount": 0, 
+    "extractedHrefUrls": [
+        "http://adsl-065-015-124-146.sip.jax.bellsouth.net:81/update/"
+    ], 
+    "extractedHrefUrlsCardinality": 1, 
+    "extractedHrefUrlsDomainCount": 1, 
+    "extractedHrefUrlsTotalCount": 1, 
+    "extractedSrcUrls": [
+        "http://images.paypal.com/en_US/i/logo/email_logo.gif", 
+        "http://images.paypal.com/en_US/i/scr/pixel.gif"
+    ], 
+    "extractedSrcUrlsCardinality": 2, 
+    "extractedSrcUrlsDomainCount": 1, 
+    "extractedSrcUrlsTotalCount": 2, 
+    "extractedTxtUrls": [
+        "https://www.paypal.com/us/securitytips", 
+        "https://www.paypal.com/us/securitytipsProtect"
+    ], 
+    "extractedTxtUrlsCardinality": 2, 
+    "extractedTxtUrlsDomainCount": 1, 
+    "extractedTxtUrlsTotalCount": 2, 
+    "first10words": " Protect Your Account Info Make sure you never provide your password to fraudulent websites PayPal", 
+    "from_match": 0, 
+    "header_from": "acc@paypal.com", 
+    "header_from_count": 1, 
+    "header_reply_to_count": 1, 
+    "header_total_count": 22, 
+    "html_in_text_plain_count": 0, 
+    "html_script_tag_count": 0, 
+    "html_tag_total_count": 143, 
+    "html_td_tag_count": 24, 
+    "html_tr_tag_count": 26, 
+    "lang": "en", 
+    "last10words": "assistance log in to your PayPal account and choose the Help link located in the top right corner of any PayPal page PayPal Email ID PP295 ", 
+    "list_unsubscribe_http_count": 0, 
+    "list_unsubscribe_invalid_count": 0, 
+    "list_unsubscribe_mailto_count": 0, 
+    "list_unsubscribe_total_count": 0, 
+    "mime_children_count": 1, 
+    "mime_children_types": [
+        "text/html"
+    ], 
+    "mime_root_type": "multipart/alternative", 
+    "notches": [
+        {
+            "module": "ill", 
+            "name": [
+                "date_in_past", 
+                "from_missmatch", 
+                "foreign_message_id"
+            ], 
+            "score": 1.1, 
+            "subscores": [
+                1, 
+                0.0, 
+                0.1
+            ]
+        }
+    ], 
+    "now": 1494597840, 
+    "pepca": "p6cc4503dbdd34d01", 
+    "pepca_inline_style": "", 
+    "pepca_inline_style_total": 0, 
+    "pepca_style": "pad14c4710b51a450", 
+    "pepca_style_total": 0, 
+    "pepcatotal": 0, 
+    "phashes": [
+        {
+            "name": "pepca", 
+            "value": "p6cc4503dbdd34d01"
+        }, 
+        {
+            "name": "pepca_style", 
+            "value": "pad14c4710b51a450"
+        }
+    ], 
+    "phish_score": 0, 
+    "phishing": {
+        "body_richness": 0.18720503408495, 
+        "camouflage": 0, 
+        "fake_https": 0, 
+        "html_form": 0, 
+        "is_html": true, 
+        "max_num_dots_urls": 4, 
+        "max_num_slashes_urls": 2, 
+        "num_black_sheep_link": -1, 
+        "num_black_sheep_link_global": -1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_external_links": 3, 
+        "num_freehost_urls": 0, 
+        "num_html_script_tags": 0, 
+        "num_https_urls": 2, 
+        "num_ip_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "num_of_chars": 1906, 
+        "num_param_phish": 0, 
+        "num_path_phish": 0, 
+        "num_phish_keywords": 31, 
+        "num_sender_diff_url": 1, 
+        "num_shortened_urls": 0, 
+        "num_subdomain_phish": 0, 
+        "num_text_forms": 10, 
+        "num_tld_in_url_path": 0, 
+        "num_www_in_url_path": 0, 
+        "subject_phish_keywords": 2, 
+        "subject_richness": 0.125, 
+        "suspicious_links": [], 
+        "text_and_href": 0, 
+        "text_link_with_path": 2
+    }, 
+    "precedence": 3, 
+    "rcpts_count": 1, 
+    "rfcid_is_foreign": 1, 
+    "rfcid_is_invalid": false, 
+    "rfcid_length": 37, 
+    "self_send": 0, 
+    "senders": {
+        "cnt-pow4_w_duc": "", 
+        "cnt-pow4_w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "domain_keywords": "paypal", 
+        "domain_keywords_detail": [
+            {
+                "confidence": 1280390089.67949, 
+                "domain": "paypal"
+            }
+        ], 
+        "ettf_w_duc": "", 
+        "ettf_w_duc_detail": [], 
+        "idf": "", 
+        "idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "log_cnt-w_duc_detail": [], 
+        "log_cnt_idf": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "log_ecnt_idf": "", 
+        "log_ecnt_idf_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "log_ecnt_log_idf_log_tidf": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "plain_domain": "", 
+        "plain_domain_detail": [], 
+        "src_revert": "paypal", 
+        "src_revert_detail": [
+            {
+                "confidence": 2, 
+                "domain": "paypal"
+            }
+        ], 
+        "tf_log_idf": "", 
+        "tf_log_idf_detail": [], 
+        "ttf_w_duc": "", 
+        "ttf_w_duc_detail": []
+    }, 
+    "spamscore": 1.1, 
+    "spamtrap_hit": false, 
+    "spf_dom_policy_registry": "Policy not found", 
+    "spf_domain_policy": "UNKNOWN", 
+    "spf_status_registry": "Status not found", 
+    "spfstatus": "NONE", 
+    "spfstatus_hfrom": "SPF_SOFTFAIL", 
+    "subject": "Update your PayPal account informations", 
+    "subject_image_count": 0, 
+    "subject_word_count": 5, 
+    "word_count": 357
+}

@@ -1,0 +1,271 @@
+{
+    "adscore": 0, 
+    "ahref_camouflage_count": 0, 
+    "ahref_total_count": 13, 
+    "ahref_verbal_count": 7, 
+    "attachments": [
+        {
+            "cid": "07ee58ec4446d89358de93c8adcf63da", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "image/gif", 
+            "name": "image", 
+            "pepca": "p4974af568e8736bc", 
+            "size": 5993, 
+            "sumphash": "ebe87ef44f3480e4ebf9f780792466be"
+        }, 
+        {
+            "cid": "07e546eaccfaee643e1b054c05e3e34d", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "image/jpeg", 
+            "name": "image", 
+            "pepca": "p3cc70a837f7fb981", 
+            "size": 17684, 
+            "sumphash": "192e8007fbb3c369a3da02dad97f2aa3"
+        }, 
+        {
+            "cid": "07e34f50012cb893e265e75aba14fc22", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "image/jpeg", 
+            "name": "image", 
+            "pepca": "p18b18afb46619f1f", 
+            "size": 5379, 
+            "sumphash": "28263da5bcb48982058aa1060462788f"
+        }, 
+        {
+            "cid": "07e75a0ea3f3b2a1b16b775e90768e5a", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "image/jpeg", 
+            "name": "image", 
+            "pepca": "p7072059f2fb5a8ee", 
+            "size": 6193, 
+            "sumphash": "0731ede181b1127822ecd6bc8eeddb0f"
+        }
+    ], 
+    "content": "CONTENT_DEFAULT", 
+    "date_difference": -84773612, 
+    "dkStatusDetail": "NOT_SIGNED", 
+    "dk_statuses": [
+        {
+            "status": "NEUTRAL", 
+            "statusDetail": "NOT_SIGNED"
+        }
+    ], 
+    "dkim_count": 0, 
+    "dkim_efrom_match": 0, 
+    "dkim_hfrom_match": 0, 
+    "dkim_passed_count": 0, 
+    "dkim_signs_cnt": 1, 
+    "dkstatus": "NEUTRAL", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/245828.eml", 
+    "extractedEmails": [
+        "info@decodoma.cz", 
+        "info@decoDoma.cz.", 
+        "Na.Ka@seznam.cz", 
+        "info@decodoma.cz."
+    ], 
+    "extractedEmailsCardinality": 4, 
+    "extractedEmailsDomainCount": 4, 
+    "extractedEmailsTotalCount": 4, 
+    "extractedHrefUrls": [
+        "http://www.decodoma.cz/index.php?shp=oxbaseshop&anid=3717999631e79bbcc67aae39117ca25f&cl=review&reviewuserhash=9accc4e2e228862ac", 
+        "http://www.decodoma.cz/Darek-zdarma-Damska-vesta-velikost-zadejte-do-poznamky-ve-4-kroku-kosiku.html", 
+        "http://www.decodoma.cz/index.php?shp=oxbaseshop&anid=dfb4876eb25328aff542ef38fbffb&cl=review&reviewuserhash=9accc4e2e228862ac10d", 
+        "http://www.decodoma.cz", 
+        "http://www.decoDoma.cz"
+    ], 
+    "extractedHrefUrlsCardinality": 9, 
+    "extractedHrefUrlsDomainCount": 1, 
+    "extractedHrefUrlsTotalCount": 9, 
+    "extractedSrcUrls": [
+        "cid:07ee58ec4446d89358de93c8adcf63da", 
+        "cid:07e546eaccfaee643e1b054c05e3e34d", 
+        "cid:07e34f50012cb893e265e75aba14fc22", 
+        "cid:07e75a0ea3f3b2a1b16b775e90768e5a"
+    ], 
+    "extractedSrcUrlsCardinality": 4, 
+    "extractedSrcUrlsDomainCount": 0, 
+    "extractedSrcUrlsTotalCount": 4, 
+    "extractedTxtUrls": [
+        "http://www.decodoma.cz"
+    ], 
+    "extractedTxtUrlsCardinality": 1, 
+    "extractedTxtUrlsDomainCount": 1, 
+    "extractedTxtUrlsTotalCount": 1, 
+    "first10words": " Potvrzeni prijeti objednavky Dekujeme mnohokrat za Vasi objednavku Objednavku jsme prijali a probiha jeji zpracovani ", 
+    "from_match": 0, 
+    "header_from": "info@decoDoma.cz", 
+    "header_from_count": 1, 
+    "header_reply_to_count": 1, 
+    "header_total_count": 12, 
+    "html_in_text_plain_count": 0, 
+    "html_script_tag_count": 0, 
+    "html_tag_total_count": 699, 
+    "html_td_tag_count": 110, 
+    "html_tr_tag_count": 30, 
+    "lang": "cs", 
+    "last10words": "i Jmeno a prijmeni kupujiciho Adresa kupujiciho V dne Podpis ", 
+    "list_unsubscribe_http_count": 0, 
+    "list_unsubscribe_invalid_count": 0, 
+    "list_unsubscribe_mailto_count": 0, 
+    "list_unsubscribe_total_count": 0, 
+    "mime_children_count": 5, 
+    "mime_children_types": [
+        "multipart/alternative", 
+        "image/gif", 
+        "image/jpeg", 
+        "image/jpeg", 
+        "image/jpeg"
+    ], 
+    "mime_root_type": "multipart/related", 
+    "notches": [
+        {
+            "module": "ill", 
+            "name": [
+                "date_in_past", 
+                "from_missmatch"
+            ], 
+            "score": 1, 
+            "subscores": [
+                1, 
+                0.0
+            ]
+        }
+    ], 
+    "now": 1494598204, 
+    "pepca": "pbeb233dfb9ceb1c0", 
+    "pepca_inline_style": "pe0fc98f11d2bbbcf", 
+    "pepca_inline_style_total": 0, 
+    "pepca_style": "", 
+    "pepca_style_total": 0, 
+    "pepcatotal": 0, 
+    "phashes": [
+        {
+            "name": "att-pepca", 
+            "value": "p4974af568e8736bc"
+        }, 
+        {
+            "name": "att-pepca", 
+            "value": "p3cc70a837f7fb981"
+        }, 
+        {
+            "name": "att-pepca", 
+            "value": "p18b18afb46619f1f"
+        }, 
+        {
+            "name": "att-pepca", 
+            "value": "p7072059f2fb5a8ee"
+        }, 
+        {
+            "name": "pepca", 
+            "value": "pbeb233dfb9ceb1c0"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "pe0fc98f11d2bbbcf"
+        }
+    ], 
+    "phish_score": 0, 
+    "phishing": {
+        "body_richness": 0.128633465044404, 
+        "camouflage": 0, 
+        "fake_https": 0, 
+        "html_form": 0, 
+        "is_html": true, 
+        "max_num_dots_urls": 3, 
+        "max_num_slashes_urls": 1, 
+        "num_black_sheep_link": -1, 
+        "num_black_sheep_link_global": -1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_external_links": 5, 
+        "num_freehost_urls": 0, 
+        "num_html_script_tags": 0, 
+        "num_https_urls": 0, 
+        "num_ip_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "num_of_chars": 25560, 
+        "num_param_phish": 0, 
+        "num_path_phish": 0, 
+        "num_phish_keywords": 41, 
+        "num_sender_diff_url": 0, 
+        "num_shortened_urls": 0, 
+        "num_subdomain_phish": 0, 
+        "num_text_forms": 2, 
+        "num_tld_in_url_path": 0, 
+        "num_www_in_url_path": 0, 
+        "subject_phish_keywords": 1, 
+        "subject_richness": 0.0952380952380952, 
+        "suspicious_links": [], 
+        "text_and_href": 1, 
+        "text_link_with_path": 0
+    }, 
+    "precedence": 3, 
+    "rcpts_count": 1, 
+    "rfcid_is_foreign": 0, 
+    "rfcid_is_invalid": false, 
+    "rfcid_length": 48, 
+    "self_send": 0, 
+    "senders": {
+        "cnt-pow4_w_duc": "", 
+        "cnt-pow4_w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "domain_keywords": "masterinter", 
+        "domain_keywords_detail": [
+            {
+                "confidence": 1032394774.10213, 
+                "domain": "masterinter"
+            }
+        ], 
+        "ettf_w_duc": "", 
+        "ettf_w_duc_detail": [], 
+        "idf": "", 
+        "idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "log_cnt-w_duc_detail": [], 
+        "log_cnt_idf": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "log_ecnt_idf": "", 
+        "log_ecnt_idf_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "log_ecnt_log_idf_log_tidf": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "plain_domain": "decodoma", 
+        "plain_domain_detail": [
+            {
+                "confidence": 2, 
+                "domain": "decodoma"
+            }
+        ], 
+        "src_revert": "", 
+        "src_revert_detail": [], 
+        "tf_log_idf": "", 
+        "tf_log_idf_detail": [], 
+        "ttf_w_duc": "", 
+        "ttf_w_duc_detail": []
+    }, 
+    "spamscore": 1, 
+    "spamtrap_hit": false, 
+    "spf_dom_policy_registry": "Policy not found", 
+    "spf_domain_policy": "UNKNOWN", 
+    "spf_status_registry": "Status not found", 
+    "spfstatus": "NONE", 
+    "spfstatus_hfrom": "SPF_SOFTFAIL", 
+    "subject": "Potvrzeni prijeti objednavky 34673 ", 
+    "subject_image_count": 0, 
+    "subject_word_count": 4, 
+    "word_count": 3288
+}

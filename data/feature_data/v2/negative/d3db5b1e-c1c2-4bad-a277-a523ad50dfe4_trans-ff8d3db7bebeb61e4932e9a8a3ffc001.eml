@@ -1,0 +1,237 @@
+{
+    "adscore": 0, 
+    "ahref_camouflage_count": 1, 
+    "ahref_total_count": 21, 
+    "ahref_verbal_count": 8, 
+    "attachments": [
+        {
+            "cid": "image001.jpg@01D02F1A.3599C730", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "image/jpeg", 
+            "name": "image001.jpg", 
+            "size": 0, 
+            "sumphash": "dc5b5ace27d0916fed08dfee55dd0748"
+        }
+    ], 
+    "content": "CONTENT_DEFAULT", 
+    "date_difference": -73456575, 
+    "dkStatusDetail": "NOT_SIGNED", 
+    "dk_statuses": [
+        {
+            "status": "NEUTRAL", 
+            "statusDetail": "NOT_SIGNED"
+        }
+    ], 
+    "dkim_count": 0, 
+    "dkim_efrom_match": 0, 
+    "dkim_hfrom_match": 0, 
+    "dkim_passed_count": 0, 
+    "dkim_signs_cnt": 1, 
+    "dkstatus": "NEUTRAL", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/trans-ff8d3db7bebeb61e4932e9a8a3ffc001.eml", 
+    "extractedEmails": [
+        "martina.nesvadbova@email.cz", 
+        "info@zdravotnicke-potreby.cz", 
+        "m.pomyjova@seznam.cz"
+    ], 
+    "extractedEmailsCardinality": 3, 
+    "extractedEmailsDomainCount": 3, 
+    "extractedEmailsTotalCount": 3, 
+    "extractedHrefUrls": [
+        "http://www.zdravotnicke-potreby.cz/8890-infra-lampa-efbe-ir808.html", 
+        "http://www.zdravotnicke-potreby.cz/20028-kartac-na-vlasy-masazni-vibracni-2-stupne-bi-22a.html", 
+        "http://www.zdravotnicke-potreby.cz/21292-lee-stafford-argan-oils-zazracny-vyzivujici-arganovy-olej-z-maroka-50-ml-lsmo1150.html", 
+        "http://www.zdravotnicke-potreby.cz/8221-podlozka-k-sezeni-cocka-33-cm.html", 
+        "http://www.zdravotnicke-potreby.cz/20041-termosacek-pro-krk-a-ramena-50x18-cm-sjh-601.html"
+    ], 
+    "extractedHrefUrlsCardinality": 15, 
+    "extractedHrefUrlsDomainCount": 4, 
+    "extractedHrefUrlsTotalCount": 15, 
+    "extractedSrcUrls": [
+        "cid:image001.jpg@01D02F1A.3599C730"
+    ], 
+    "extractedSrcUrlsCardinality": 1, 
+    "extractedSrcUrlsDomainCount": 0, 
+    "extractedSrcUrlsTotalCount": 1, 
+    "extractedTxtUrls": [
+        "http://www.rozarka-turnov.cz", 
+        "http://ZDRAVOTNICKE-POTREBY.CZ", 
+        "http://zdravotnicke-potreby.cz", 
+        "http://www.mojeBenefity.cz.", 
+        "http://Turnovwww.zdravotnicke-potreby.cz"
+    ], 
+    "extractedTxtUrlsCardinality": 11, 
+    "extractedTxtUrlsDomainCount": 4, 
+    "extractedTxtUrlsTotalCount": 11, 
+    "first10words": " Dobry den pani Pomyjova jeste je nutne upresnit variantu korektoru vyboceneho palce tzn jeho velikost a zda ho potrebuj", 
+    "from_match": 0, 
+    "header_from": "zp-turnov@email.cz", 
+    "header_from_count": 1, 
+    "header_reply_to_count": 0, 
+    "header_total_count": 15, 
+    "html_in_text_plain_count": 0, 
+    "html_script_tag_count": 0, 
+    "html_tag_total_count": 976, 
+    "html_td_tag_count": 160, 
+    "html_tr_tag_count": 80, 
+    "lang": "cs", 
+    "last10words": " 2571 Kc Dopravne 119 Kc Cena celkem s DPH 2690 Kc ", 
+    "list_unsubscribe_http_count": 0, 
+    "list_unsubscribe_invalid_count": 0, 
+    "list_unsubscribe_mailto_count": 0, 
+    "list_unsubscribe_total_count": 0, 
+    "mime_children_count": 2, 
+    "mime_children_types": [
+        "multipart/alternative", 
+        "image/jpeg"
+    ], 
+    "mime_root_type": "multipart/related", 
+    "notches": [
+        {
+            "module": "ill", 
+            "name": [
+                "date_in_past", 
+                "from_missmatch", 
+                "html_a_href_camouflaging", 
+                "foreign_message_id"
+            ], 
+            "score": 1.2, 
+            "subscores": [
+                1, 
+                0.0, 
+                0.1, 
+                0.1
+            ]
+        }
+    ], 
+    "now": 1494598450, 
+    "pepca": "pbbadda0f4508788d", 
+    "pepca_inline_style": "p9cc15682d20c6646", 
+    "pepca_inline_style_total": 0, 
+    "pepca_style": "", 
+    "pepca_style_total": 0, 
+    "pepcatotal": 0, 
+    "phashes": [
+        {
+            "name": "pepca", 
+            "value": "pbbadda0f4508788d"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "p9cc15682d20c6646"
+        }
+    ], 
+    "phish_score": 0, 
+    "phishing": {
+        "body_richness": 0.193836455962178, 
+        "camouflage": 1, 
+        "fake_https": 0, 
+        "html_form": 0, 
+        "is_html": true, 
+        "max_num_dots_urls": 5, 
+        "max_num_slashes_urls": 2, 
+        "num_black_sheep_link": -1, 
+        "num_black_sheep_link_global": -1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_external_links": 5, 
+        "num_freehost_urls": 0, 
+        "num_html_script_tags": 0, 
+        "num_https_urls": 0, 
+        "num_ip_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "num_of_chars": 5710, 
+        "num_param_phish": 0, 
+        "num_path_phish": 0, 
+        "num_phish_keywords": 3, 
+        "num_sender_diff_url": 4, 
+        "num_shortened_urls": 0, 
+        "num_subdomain_phish": 0, 
+        "num_text_forms": 7, 
+        "num_tld_in_url_path": 0, 
+        "num_www_in_url_path": 0, 
+        "subject_phish_keywords": 1, 
+        "subject_richness": 0.140350877192982, 
+        "suspicious_links": [], 
+        "text_and_href": 7, 
+        "text_link_with_path": 0
+    }, 
+    "precedence": 3, 
+    "rcpts_count": 1, 
+    "rfcid_is_foreign": 1, 
+    "rfcid_is_invalid": false, 
+    "rfcid_length": 34, 
+    "self_send": 0, 
+    "senders": {
+        "cnt-pow4_w_duc": "", 
+        "cnt-pow4_w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "domain_keywords": "masterinter", 
+        "domain_keywords_detail": [
+            {
+                "confidence": 76473686.9705281, 
+                "domain": "masterinter"
+            }
+        ], 
+        "ettf_w_duc": "", 
+        "ettf_w_duc_detail": [], 
+        "idf": "", 
+        "idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "log_cnt-w_duc_detail": [], 
+        "log_cnt_idf": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "log_ecnt_idf": "", 
+        "log_ecnt_idf_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "log_ecnt_log_idf_log_tidf": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "plain_domain": "zdravotnicke-potreby", 
+        "plain_domain_detail": [
+            {
+                "confidence": 6, 
+                "domain": "zdravotnicke-potreby"
+            }, 
+            {
+                "confidence": 2, 
+                "domain": "mojebenefity"
+            }, 
+            {
+                "confidence": 2, 
+                "domain": "rozarka-turnov"
+            }, 
+            {
+                "confidence": 1, 
+                "domain": "forcare"
+            }
+        ], 
+        "src_revert": "", 
+        "src_revert_detail": [], 
+        "tf_log_idf": "", 
+        "tf_log_idf_detail": [], 
+        "ttf_w_duc": "", 
+        "ttf_w_duc_detail": []
+    }, 
+    "spamscore": 1.2, 
+    "spamtrap_hit": false, 
+    "spf_dom_policy_registry": "Policy not found", 
+    "spf_domain_policy": "UNKNOWN", 
+    "spf_status_registry": "Status not found", 
+    "spfstatus": "NONE", 
+    "spfstatus_hfrom": "SPF_NEUTRAL", 
+    "subject": "RE Potvrzeni objednavky z WWW ZDRAVOTNICKE POTREBY CZ", 
+    "subject_image_count": 0, 
+    "subject_word_count": 8, 
+    "word_count": 1107
+}

@@ -1,0 +1,215 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ]
+        }
+    ],
+    "extractedTxtUrls": [
+        "http://Geni.com"
+    ],
+    "spfstatus": "NONE",
+    "mime_root_type": "multipart/alternative",
+    "header_from_count": 1,
+    "now": 1494598270,
+    "dkim_efrom_match": 0,
+    "pepca_inline_style_total": 0,
+    "rcpts_count": 1,
+    "extractedEmailsTotalCount": 0,
+    "pepca_inline_style": "pa5db9b2f4e151efd",
+    "pepca_style_total": 0,
+    "dkselector": "dynect",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/5525d38fddac92e12cfa4d202f32b5ec.eml",
+    "html_td_tag_count": 12,
+    "extractedHrefUrlsCardinality": 2,
+    "list_unsubscribe_mailto_count": 1,
+    "subject_word_count": 6,
+    "lang": "en",
+    "precedence": 3,
+    "phishing": {
+        "num_html_script_tags": 0,
+        "num_text_forms": 6,
+        "fake_https": 0,
+        "is_html": true,
+        "num_non_80_port_urls": 0,
+        "num_https_urls": 0,
+        "num_of_chars": 322,
+        "num_param_phish": 0,
+        "text_and_href": 0,
+        "body_richness": 0.247678018575851,
+        "text_link_with_path": 0,
+        "max_num_slashes_urls": 2,
+        "num_shortened_urls": 0,
+        "num_sender_diff_url": 0,
+        "num_ip_urls": 0,
+        "num_black_sheep_link": -1,
+        "subject_richness": 0.171428571428571,
+        "num_tld_in_url_path": 0,
+        "subject_phish_keywords": 1,
+        "num_black_sheep_link_global": -1,
+        "num_black_sheep_link_phish": 0,
+        "num_path_phish": 0,
+        "suspicious_links": [],
+        "html_form": 0,
+        "num_phish_keywords": 0,
+        "num_subdomain_phish": 0,
+        "num_domain_phish": 0,
+        "ner_domain_detected": false,
+        "camouflage": 0,
+        "num_freehost_urls": 0,
+        "num_external_links": 4,
+        "max_num_dots_urls": 3,
+        "num_www_in_url_path": 0
+    },
+    "spf_status_registry": "Status not found",
+    "rfcid_is_foreign": 1,
+    "from_match": 0,
+    "first10words": " Budovani Celosvetoveho Rodokmenu Vazena Jano Dekujeme Vam za nastaveni trvaleho hesla Kind regards",
+    "extractedTxtUrlsDomainCount": 1,
+    "spf_domain_policy": "UNKNOWN",
+    "header_total_count": 21,
+    "dkim_passed_count": 1,
+    "extractedTxtUrlsCardinality": 1,
+    "dkim_signs_cnt": 1,
+    "list_unsubscribe_urls": [
+        "mailto:fbl@geni.com"
+    ],
+    "mime_children_types": [
+        "text/plain",
+        "text/html"
+    ],
+    "ahref_verbal_count": 1,
+    "subject_image_count": 0,
+    "phish_score": 0,
+    "rfcid_is_invalid": false,
+    "dkstatus": "PASS",
+    "phashes": [
+        {
+            "value": "p7222573adb2edd74",
+            "name": "pepca"
+        },
+        {
+            "value": "pa5db9b2f4e151efd",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "contains_list_header": true,
+    "self_send": 0,
+    "dkdomain": "geni.com",
+    "html_tr_tag_count": 10,
+    "extractedEmails": [],
+    "html_tag_total_count": 52,
+    "mime_children_count": 2,
+    "spamtrap_hit": false,
+    "extractedEmailsDomainCount": 0,
+    "extractedTxtUrlsTotalCount": 1,
+    "dk_statuses": [
+        {
+            "selector": "dynect",
+            "status": "PASS",
+            "domain": "geni.com"
+        }
+    ],
+    "extractedSrcUrlsCardinality": 2,
+    "senders": {
+        "log_cnt_idf_detail": [],
+        "log_ecnt_idf_detail": [],
+        "tf_log_idf": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "cnt-pow4_w_duc_detail": [],
+        "ttf_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "src_revert": "geni",
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "plain_domain": "geni",
+        "src_revert_detail": [
+            {
+                "confidence": 2,
+                "domain": "geni"
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "geni"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "tf_log_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 11978837.0149002,
+                "domain": "aweber"
+            }
+        ],
+        "domain_keywords": "aweber",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt_idf": ""
+    },
+    "spamscore": 1.1,
+    "ahref_total_count": 1,
+    "extractedEmailsCardinality": 0,
+    "extractedSrcUrlsTotalCount": 2,
+    "dkim_count": 1,
+    "adscore": 0,
+    "pepca": "p7222573adb2edd74",
+    "html_script_tag_count": 0,
+    "date_difference": -79939697,
+    "html_in_text_plain_count": 0,
+    "pepca_style": "",
+    "word_count": 80,
+    "rfcid_length": 65,
+    "spf_dom_policy_registry": "Policy not found",
+    "pepcatotal": 0,
+    "last10words": " You are currently signed up to receive emails of this type from Geni Odhlasit se Geni com P O Box 4015 Burbank CA 91503 USA ",
+    "extractedHrefUrls": [
+        "http://www.geni.com/c/bb814d1d38c8e59f23c1fde5951878b09078ca91",
+        "http://www.geni.com/account_settings/unsubscribe_confirm?e=avisis%40seznam.cz&h=4b84a5c13204b29e02306946f9bfc455&l=bb814d1d38c8e"
+    ],
+    "spfstatus_hfrom": "SPF_FAIL",
+    "header_reply_to_count": 1,
+    "dkim_hfrom_match": 1,
+    "attachments": [],
+    "content": "CONTENT_DEFAULT",
+    "extractedSrcUrls": [
+        "http://www.geni.com/logo/6000000029209226580/2b85edfaf0959dbf66974577a2fbfa84a38ba9a7/logo.png",
+        "http://www.geni.com/logo/6000000029209226580/d03655d54a5d0abe5865e1cd16d52b06dfd788e0/transparent.gif"
+    ],
+    "list_unsubscribe_http_count": 0,
+    "extractedHrefUrlsTotalCount": 2,
+    "extractedHrefUrlsDomainCount": 1,
+    "subject": "Vase heslo na Geni bylo nastaveno",
+    "list_unsubscribe_total_count": 1,
+    "extractedSrcUrlsDomainCount": 1,
+    "ahref_camouflage_count": 0,
+    "list_unsubscribe_invalid_count": 0,
+    "header_from": "no-reply@geni.com"
+}

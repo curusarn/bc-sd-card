@@ -1,0 +1,213 @@
+{
+    "adscore": 0, 
+    "ahref_camouflage_count": 0, 
+    "ahref_total_count": 13, 
+    "ahref_verbal_count": 0, 
+    "attachments": [], 
+    "content": "CONTENT_DEFAULT", 
+    "date_difference": -73431728, 
+    "dkStatusDetail": "NOT_SIGNED", 
+    "dk_statuses": [
+        {
+            "status": "NEUTRAL", 
+            "statusDetail": "NOT_SIGNED"
+        }
+    ], 
+    "dkim_count": 0, 
+    "dkim_efrom_match": 0, 
+    "dkim_hfrom_match": 0, 
+    "dkim_passed_count": 0, 
+    "dkim_signs_cnt": 1, 
+    "dkstatus": "NEUTRAL", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/trans-ff4293a28f035d40fe0a174101e935b1.eml", 
+    "extractedEmails": [
+        " info@vk-vysavace.sk", 
+        "krupa.pavel@seznam.cz", 
+        " kikvajs@gmail.com", 
+        "info@vk-vysavace.cz", 
+        "info@vk-vysavace.sk"
+    ], 
+    "extractedEmailsCardinality": 7, 
+    "extractedEmailsDomainCount": 4, 
+    "extractedEmailsTotalCount": 7, 
+    "extractedHrefUrls": [
+        "http://krupa.pa", 
+        "http://www.vk-vysavace.sk", 
+        "http://www.vk-vysavace.cz", 
+        "http://www.vk-vysavace.sk/objednavky/?ido=8f846f531083880cce809c3f9bade9e2"
+    ], 
+    "extractedHrefUrlsCardinality": 4, 
+    "extractedHrefUrlsDomainCount": 3, 
+    "extractedHrefUrlsTotalCount": 4, 
+    "extractedSrcUrls": [], 
+    "extractedTxtUrls": [
+        "http://www.vk-vysavace.sk", 
+        "http://www.vk-vysavace.cz", 
+        "http://www.vk-vysavace.sk/objednavky/?ido=8f846f531083880cce809c3f9bade9e2", 
+        "http://vk-vysavace.sk", 
+        "http://www.vk-vysavace.sk/objednavky/?ido=8f846f531083880cce809c3f9bade9e2------------------------------------------------------"
+    ], 
+    "extractedTxtUrlsCardinality": 6, 
+    "extractedTxtUrlsDomainCount": 3, 
+    "extractedTxtUrlsTotalCount": 6, 
+    "first10words": " Dobry vecer platbu jsem obdrzel a rozdil prevedl zpet na Vas ucet S pozdravem Pavel Krupa VK VYSAVACE VORWERK Bezrucova 74 4 ", 
+    "from_match": 0, 
+    "header_from": "krupa.pavel@seznam.cz", 
+    "header_from_count": 1, 
+    "header_reply_to_count": 0, 
+    "header_total_count": 11, 
+    "html_in_text_plain_count": 0, 
+    "html_script_tag_count": 0, 
+    "html_tag_total_count": 211, 
+    "html_td_tag_count": 0, 
+    "html_tr_tag_count": 0, 
+    "lang": "cs", 
+    "last10words": " Kontaktni udaje Telefon 0903373725 Kontaktni e mail kikvajs gmail com ", 
+    "list_unsubscribe_http_count": 0, 
+    "list_unsubscribe_invalid_count": 0, 
+    "list_unsubscribe_mailto_count": 0, 
+    "list_unsubscribe_total_count": 0, 
+    "mime_children_count": 2, 
+    "mime_children_types": [
+        "text/plain", 
+        "text/html"
+    ], 
+    "mime_root_type": "multipart/alternative", 
+    "notches": [
+        {
+            "module": "ill", 
+            "name": [
+                "date_in_past", 
+                "from_missmatch", 
+                "foreign_message_id"
+            ], 
+            "score": 1.1, 
+            "subscores": [
+                1, 
+                0.0, 
+                0.1
+            ]
+        }
+    ], 
+    "now": 1494598447, 
+    "pepca": "p717893e58caa3475", 
+    "pepca_inline_style": "pfbe0256fa9e59e5f", 
+    "pepca_inline_style_total": 0, 
+    "pepca_style": "", 
+    "pepca_style_total": 0, 
+    "pepcatotal": 0, 
+    "phashes": [
+        {
+            "name": "pepca", 
+            "value": "p717893e58caa3475"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "pfbe0256fa9e59e5f"
+        }
+    ], 
+    "phish_score": 0, 
+    "phishing": {
+        "body_richness": 0.0836245050081528, 
+        "camouflage": 0, 
+        "fake_https": 0, 
+        "html_form": 0, 
+        "is_html": true, 
+        "max_num_dots_urls": 2, 
+        "max_num_slashes_urls": 2, 
+        "num_black_sheep_link": -1, 
+        "num_black_sheep_link_global": -1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_external_links": 4, 
+        "num_freehost_urls": 0, 
+        "num_html_script_tags": 0, 
+        "num_https_urls": 0, 
+        "num_ip_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "num_of_chars": 4292, 
+        "num_param_phish": 0, 
+        "num_path_phish": 0, 
+        "num_phish_keywords": 3, 
+        "num_sender_diff_url": 2, 
+        "num_shortened_urls": 0, 
+        "num_subdomain_phish": 0, 
+        "num_text_forms": 17, 
+        "num_tld_in_url_path": 0, 
+        "num_www_in_url_path": 0, 
+        "subject_phish_keywords": 0, 
+        "subject_richness": 0.15, 
+        "suspicious_links": [], 
+        "text_and_href": 4, 
+        "text_link_with_path": 2
+    }, 
+    "precedence": 3, 
+    "rcpts_count": 1, 
+    "rfcid_is_foreign": 1, 
+    "rfcid_is_invalid": false, 
+    "rfcid_length": 38, 
+    "self_send": 0, 
+    "senders": {
+        "cnt-pow4_w_duc": "", 
+        "cnt-pow4_w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "domain_keywords": "masterinter", 
+        "domain_keywords_detail": [
+            {
+                "confidence": 89219301.4656161, 
+                "domain": "masterinter"
+            }
+        ], 
+        "ettf_w_duc": "", 
+        "ettf_w_duc_detail": [], 
+        "idf": "", 
+        "idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "log_cnt-w_duc_detail": [], 
+        "log_cnt_idf": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "log_ecnt_idf": "", 
+        "log_ecnt_idf_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "log_ecnt_log_idf_log_tidf": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "plain_domain": "krupa", 
+        "plain_domain_detail": [
+            {
+                "confidence": 1, 
+                "domain": "krupa"
+            }, 
+            {
+                "confidence": 3, 
+                "domain": "vk-vysavace"
+            }
+        ], 
+        "src_revert": "", 
+        "src_revert_detail": [], 
+        "tf_log_idf": "", 
+        "tf_log_idf_detail": [], 
+        "ttf_w_duc": "", 
+        "ttf_w_duc_detail": []
+    }, 
+    "spamscore": 1.1, 
+    "spamtrap_hit": false, 
+    "spf_dom_policy_registry": "Policy not found", 
+    "spf_domain_policy": "UNKNOWN", 
+    "spf_status_registry": "Status not found", 
+    "spfstatus": "NONE", 
+    "spfstatus_hfrom": "SPF_NEUTRAL", 
+    "subject": "Re ODP Prijeti objednavky 1500007 www vk vysavace sk", 
+    "subject_image_count": 0, 
+    "subject_word_count": 9, 
+    "word_count": 359
+}

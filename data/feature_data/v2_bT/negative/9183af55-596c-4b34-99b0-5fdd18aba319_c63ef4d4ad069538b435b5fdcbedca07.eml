@@ -1,0 +1,234 @@
+{
+    "spf_dom_policy_registry": "Policy not found",
+    "precedence": 2,
+    "contains_list_header": true,
+    "extractedSrcUrlsDomainCount": 2,
+    "extractedTxtUrlsDomainCount": 1,
+    "html_tr_tag_count": 10,
+    "extractedEmailsCardinality": 1,
+    "spfstatus_hfrom": "SPF_FAIL",
+    "rcpts_count": 1,
+    "header_total_count": 24,
+    "dkstatus": "PASS",
+    "extractedSrcUrlsTotalCount": 2,
+    "html_tag_total_count": 79,
+    "header_reply_to_count": 0,
+    "pepca_style": "",
+    "ahref_camouflage_count": 0,
+    "extractedTxtUrlsCardinality": 3,
+    "content": "CONTENT_DEFAULT",
+    "html_td_tag_count": 10,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/c63ef4d4ad069538b435b5fdcbedca07.eml",
+    "spamscore": 1,
+    "extractedSrcUrlsCardinality": 2,
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p082ac2a8dd28768a"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p7330d39c82255c92"
+        }
+    ],
+    "now": 1494598412,
+    "html_in_text_plain_count": 0,
+    "last10words": "aste se prosim zde Tento email ma charakter obchodniho sdeleni Copyright 2014 Tipsport a s Vsechna prava vyhrazena ",
+    "spf_domain_policy": "UNKNOWN",
+    "dkim_count": 1,
+    "unsub_link_texts": [
+        " podpora tipsport cz neprat li si nadale dostavat email od spolecnost tipsport",
+        "odhlasit se prosit zde ",
+        "copyright tipsport a s vsechen prav vyhrazen"
+    ],
+    "rfcid_is_invalid": false,
+    "list_unsubscribe_mailto_count": 0,
+    "pepcatotal": 1,
+    "word_count": 118,
+    "html_script_tag_count": 0,
+    "dkim_efrom_match": 0,
+    "unsub_link_candidates": [
+        "mailto:podpora@tipsport.cz",
+        "http://user.mailkit.eu/mc/CECQVIQWLMQUQQQUVCQQCMWQHJSODUEZ",
+        "http://track.mailkit.eu/mc/CECQVIQWLMQUQQQUVCQQCMWQANJLHZJN"
+    ],
+    "extractedEmails": [
+        "podpora@tipsport.cz"
+    ],
+    "spfstatus": "NONE",
+    "phish_score": 0,
+    "date_difference": -80198129,
+    "extractedTxtUrls": [
+        "https://www.tipsport.cz/ConfirmFirstLoginAction.do?id=11241097&code=JyPWnf3PIo1VCp2jRbIauEzbd",
+        "http://Tipsport.cz.",
+        "https://www.tipsport.cz/ConfirmFirstLoginAction.do?id=11241097&code=JyPWnf3PIo1VCp2jRbIauEzbdPlatnost"
+    ],
+    "list_unsubscribe_total_count": 0,
+    "dkim_passed_count": 1,
+    "extractedHrefUrlsDomainCount": 2,
+    "first10words": " Potvrzeni registrace u Tipsportu Nezobrazuje se Vam logo a obrazky Tisk Vazeny a pane pani Vanecek ",
+    "pepca": "p082ac2a8dd28768a",
+    "pepca_style_total": 0,
+    "unsub_link": "http://track.mailkit.eu/mc/CECQVIQWLMQUQQQUVCQQCMWQANJLHZJN",
+    "extractedEmailsTotalCount": 1,
+    "rfcid_is_foreign": 0,
+    "attachments": [],
+    "pepca_inline_style_total": 1,
+    "header_from_count": 1,
+    "mime_children_types": [
+        "text/plain",
+        "text/html"
+    ],
+    "subject": "Potvrzeni registrace u Tipsportu",
+    "dkdomain": "mailkit.eu",
+    "senders": {
+        "domain_keywords": "mailkit",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "idf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt-pow4_w_duc": "",
+        "plain_domain_detail": [
+            {
+                "domain": "tipsport",
+                "confidence": 1
+            }
+        ],
+        "log_cnt-pow_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "tf_log_idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "plain_domain": "tipsport",
+        "domain_keywords_detail": [
+            {
+                "domain": "mailkit",
+                "confidence": 26364775.562599
+            }
+        ],
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt_idf": "",
+        "tf_log_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "hotely",
+                "confidence": 1
+            },
+            {
+                "domain": "tipsport",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_cnt-w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert": "hotely"
+    },
+    "dkim_hfrom_match": 0,
+    "ahref_total_count": 9,
+    "list_unsubscribe_http_count": 0,
+    "extractedSrcUrls": [
+        "http://home.tipsport.cz/mailing/images.mailing/servisni.2014_headerslogem.png",
+        "http://track.mailkit.eu/mc/CECQVIQWLMQUQQQUVCQQCMWQWCFNFWMM"
+    ],
+    "subject_image_count": 0,
+    "extractedHrefUrlsTotalCount": 8,
+    "dk_statuses": [
+        {
+            "status": "PASS",
+            "selector": "mail",
+            "domain": "mailkit.eu"
+        }
+    ],
+    "from_match": 0,
+    "lang": "cs",
+    "extractedHrefUrls": [
+        "http://track.mailkit.eu/mc/CECQVIQWLMQUQQQUVCQQCMWQPHIDVMQJ",
+        "http://track.mailkit.eu/mc/CECQVIQWLMQUQQQUVCQQCMWQGVPQKBZJ",
+        "http://track.mailkit.eu/mc/CECQVIQWLMQUQQQUVCQQCMWQHIHOFBTD",
+        "http://user.mailkit.eu/mc/CECQVIQWLMQUQQQUVCQQCMWQHJSODUEZ",
+        "http://track.mailkit.eu/mc/CECQVIQWLMQUQQQUVCQQCMWQANJLHZJN"
+    ],
+    "pepca_inline_style": "p7330d39c82255c92",
+    "self_send": 0,
+    "ahref_verbal_count": 7,
+    "extractedTxtUrlsTotalCount": 3,
+    "subject_word_count": 4,
+    "extractedEmailsDomainCount": 1,
+    "header_from": "info@tipsport.cz",
+    "mime_root_type": "multipart/alternative",
+    "rfcid_length": 38,
+    "mime_children_count": 2,
+    "extractedHrefUrlsCardinality": 8,
+    "adscore": 0,
+    "dkim_signs_cnt": 1,
+    "spamtrap_hit": false,
+    "spf_status_registry": "Status not found",
+    "dkselector": "mail",
+    "phishing": {
+        "body_richness": 0.158176943699732,
+        "num_black_sheep_link": -1,
+        "subject_richness": 0.117647058823529,
+        "max_num_slashes_urls": 2,
+        "num_https_urls": 2,
+        "camouflage": 0,
+        "ner_domain_detected": true,
+        "html_form": 0,
+        "num_subdomain_phish": 0,
+        "num_external_links": 7,
+        "fake_https": 0,
+        "5_top_domains_id_0": 0,
+        "num_html_script_tags": 0,
+        "num_freehost_urls": 0,
+        "num_phish_keywords": 4,
+        "suspicious_links": [],
+        "num_sender_diff_url": 1,
+        "text_and_href": 1,
+        "subject_phish_keywords": 1,
+        "num_www_in_url_path": 0,
+        "num_domain_phish": 0,
+        "5_top_domains_percent_0": 1.0,
+        "num_of_chars": 745,
+        "num_ip_urls": 0,
+        "num_path_phish": 0,
+        "num_param_phish": 0,
+        "max_num_dots_urls": 3,
+        "num_tld_in_url_path": 0,
+        "is_html": true,
+        "num_black_sheep_link_phish": 0,
+        "num_non_80_port_urls": 0,
+        "num_text_forms": 29,
+        "num_black_sheep_link_global": -1,
+        "text_link_with_path": 2,
+        "num_shortened_urls": 0
+    },
+    "list_unsubscribe_invalid_count": 0
+}

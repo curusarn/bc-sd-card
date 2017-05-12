@@ -1,0 +1,270 @@
+{
+    "adscore": 0, 
+    "ahref_camouflage_count": 0, 
+    "ahref_total_count": 3, 
+    "ahref_verbal_count": 1, 
+    "attachments": [
+        {
+            "cid": "~WRD000.jpg", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "image/jpeg", 
+            "name": "~WRD000.jpg", 
+            "size": 823, 
+            "sumphash": "f3c3e3bccbec84e477c5d475b5553680"
+        }, 
+        {
+            "cid": "image001.jpg@01D0185D.2DAD4660", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "image/jpeg", 
+            "name": "image001.jpg", 
+            "pepca": "p01609e2f94de8d90", 
+            "size": 7707, 
+            "sumphash": "af8ba1044c487c36cd4d96f844db17ac"
+        }, 
+        {
+            "cid": "image002.jpg@01D0185D.2DAD4660", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "image/jpeg", 
+            "name": "image002.jpg", 
+            "pepca": "p519fe1e9708601a4", 
+            "size": 3007, 
+            "sumphash": "8dbf3fe14cccbd56a32d4b045977bffb"
+        }, 
+        {
+            "cid": "image003.png@01D0185D.2DAD4660", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "image/png", 
+            "name": "image003.png", 
+            "pepca": "p4feb93bdf7bd00b0", 
+            "size": 1377, 
+            "sumphash": "50cd73cd5b31139c25a121768a638c14"
+        }
+    ], 
+    "content": "CONTENT_DEFAULT", 
+    "date_difference": -75957781, 
+    "dkStatusDetail": "NOT_SIGNED", 
+    "dk_statuses": [
+        {
+            "status": "NEUTRAL", 
+            "statusDetail": "NOT_SIGNED"
+        }
+    ], 
+    "dkim_count": 0, 
+    "dkim_efrom_match": 0, 
+    "dkim_hfrom_match": 0, 
+    "dkim_passed_count": 0, 
+    "dkim_signs_cnt": 1, 
+    "dkstatus": "NEUTRAL", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/8e97066c289a85d94aaa57f7b8de9270.eml", 
+    "extractedEmails": [
+        "objednavky@wineworld.cz", 
+        "objednavky@wineworld.cz.", 
+        "ivca.x@email.cz", 
+        "objednavky@wineworld.czwww.WineWorld.CZ"
+    ], 
+    "extractedEmailsCardinality": 4, 
+    "extractedEmailsDomainCount": 4, 
+    "extractedEmailsTotalCount": 4, 
+    "extractedHrefUrls": [
+        "http://www.facebook.com/pages/WineWorldCZ/210398572347988", 
+        "http://www.wineworld.cz/", 
+        "http://www.wineworld.cz/portugalsko/madeira-sweet-3-years-old/"
+    ], 
+    "extractedHrefUrlsCardinality": 3, 
+    "extractedHrefUrlsDomainCount": 2, 
+    "extractedHrefUrlsTotalCount": 3, 
+    "extractedSrcUrls": [
+        "cid:image001.jpg@01D0185D.2DAD4660", 
+        "cid:image002.jpg@01D0185D.2DAD4660", 
+        "cid:image003.png@01D0185D.2DAD4660", 
+        "cid:~WRD000.jpg"
+    ], 
+    "extractedSrcUrlsCardinality": 4, 
+    "extractedSrcUrlsDomainCount": 0, 
+    "extractedSrcUrlsTotalCount": 4, 
+    "extractedTxtUrls": [
+        "http://WineWorld.CZ", 
+        "http://www.WineWorld.CZ", 
+        "http://WineWorld.cz"
+    ], 
+    "extractedTxtUrlsCardinality": 3, 
+    "extractedTxtUrlsDomainCount": 1, 
+    "extractedTxtUrlsTotalCount": 3, 
+    "first10words": " WineWorld CZ primy dovozce vin z celeho sveta Vazeny zakazniku Vase objednavka je pripravena k os", 
+    "from_match": 0, 
+    "header_from": "objednavky@wineworld.cz", 
+    "header_from_count": 1, 
+    "header_reply_to_count": 0, 
+    "header_total_count": 16, 
+    "html_in_text_plain_count": 0, 
+    "html_script_tag_count": 0, 
+    "html_tag_total_count": 929, 
+    "html_td_tag_count": 168, 
+    "html_tr_tag_count": 66, 
+    "lang": "cs", 
+    "last10words": " S pratelskymi pozdravy WineWorld CZ primy dovozce vin z celeho sveta tel 420 273 132 603 email objednavky wineworld cz ", 
+    "list_unsubscribe_http_count": 0, 
+    "list_unsubscribe_invalid_count": 0, 
+    "list_unsubscribe_mailto_count": 0, 
+    "list_unsubscribe_total_count": 0, 
+    "mime_children_count": 5, 
+    "mime_children_types": [
+        "multipart/alternative", 
+        "image/jpeg", 
+        "image/jpeg", 
+        "image/jpeg", 
+        "image/png"
+    ], 
+    "mime_root_type": "multipart/related", 
+    "notches": [
+        {
+            "module": "ill", 
+            "name": [
+                "date_in_past", 
+                "from_missmatch", 
+                "foreign_message_id", 
+                "long_subject"
+            ], 
+            "score": 1.6, 
+            "subscores": [
+                1, 
+                0.0, 
+                0.1, 
+                0.5
+            ]
+        }
+    ], 
+    "now": 1494598348, 
+    "pepca": "p3d763086268db82f", 
+    "pepca_inline_style": "pc78c245c751d2ade", 
+    "pepca_inline_style_total": 0, 
+    "pepca_style": "", 
+    "pepca_style_total": 0, 
+    "pepcatotal": 0, 
+    "phashes": [
+        {
+            "name": "att-pepca", 
+            "value": "p01609e2f94de8d90"
+        }, 
+        {
+            "name": "att-pepca", 
+            "value": "p519fe1e9708601a4"
+        }, 
+        {
+            "name": "att-pepca", 
+            "value": "p4feb93bdf7bd00b0"
+        }, 
+        {
+            "name": "pepca", 
+            "value": "p3d763086268db82f"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "pc78c245c751d2ade"
+        }
+    ], 
+    "phish_score": 0, 
+    "phishing": {
+        "body_richness": 0.265217391304348, 
+        "camouflage": 0, 
+        "fake_https": 0, 
+        "html_form": 0, 
+        "is_html": true, 
+        "max_num_dots_urls": 2, 
+        "max_num_slashes_urls": 3, 
+        "num_black_sheep_link": -1, 
+        "num_black_sheep_link_global": -1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_external_links": 3, 
+        "num_freehost_urls": 0, 
+        "num_html_script_tags": 0, 
+        "num_https_urls": 0, 
+        "num_ip_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "num_of_chars": 3449, 
+        "num_param_phish": 0, 
+        "num_path_phish": 0, 
+        "num_phish_keywords": 1, 
+        "num_sender_diff_url": 1, 
+        "num_shortened_urls": 0, 
+        "num_subdomain_phish": 0, 
+        "num_text_forms": 10, 
+        "num_tld_in_url_path": 0, 
+        "num_www_in_url_path": 0, 
+        "subject_phish_keywords": 0, 
+        "subject_richness": 0.130952380952381, 
+        "suspicious_links": [], 
+        "text_and_href": 0, 
+        "text_link_with_path": 0
+    }, 
+    "precedence": 3, 
+    "rcpts_count": 1, 
+    "rfcid_is_foreign": 1, 
+    "rfcid_is_invalid": false, 
+    "rfcid_length": 44, 
+    "self_send": 0, 
+    "senders": {
+        "cnt-pow4_w_duc": "", 
+        "cnt-pow4_w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "domain_keywords": "masterinter", 
+        "domain_keywords_detail": [
+            {
+                "confidence": 38236843.485264, 
+                "domain": "masterinter"
+            }
+        ], 
+        "ettf_w_duc": "", 
+        "ettf_w_duc_detail": [], 
+        "idf": "", 
+        "idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "log_cnt-w_duc_detail": [], 
+        "log_cnt_idf": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "log_ecnt_idf": "", 
+        "log_ecnt_idf_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "log_ecnt_log_idf_log_tidf": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "plain_domain": "wineworld", 
+        "plain_domain_detail": [
+            {
+                "confidence": 4, 
+                "domain": "wineworld"
+            }
+        ], 
+        "src_revert": "", 
+        "src_revert_detail": [], 
+        "tf_log_idf": "", 
+        "tf_log_idf_detail": [], 
+        "ttf_w_duc": "", 
+        "ttf_w_duc_detail": []
+    }, 
+    "spamscore": 1.6, 
+    "spamtrap_hit": false, 
+    "spf_dom_policy_registry": "Policy not found", 
+    "spf_domain_policy": "UNKNOWN", 
+    "spf_status_registry": "Status not found", 
+    "spfstatus": "NONE", 
+    "spfstatus_hfrom": "SPF_NONE", 
+    "subject": "RE WineWorld CZ primy dovozce vin z celeho sveta Objednavka 2014000077", 
+    "subject_image_count": 0, 
+    "subject_word_count": 11, 
+    "word_count": 915
+}

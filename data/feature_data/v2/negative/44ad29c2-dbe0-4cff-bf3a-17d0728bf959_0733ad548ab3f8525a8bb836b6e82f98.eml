@@ -1,0 +1,368 @@
+{
+    "adscore": 0, 
+    "ahref_camouflage_count": 0, 
+    "ahref_total_count": 1, 
+    "ahref_verbal_count": 0, 
+    "attachments": [
+        {
+            "cid": "01.jpg", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "image/jpeg", 
+            "name": "01.jpg", 
+            "pepca": "p58bcc1d69bffbbe5", 
+            "size": 1739, 
+            "sumphash": "a73587ad65191f724caa019ba5a5fb46"
+        }, 
+        {
+            "cid": "02.jpg", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "image/jpeg", 
+            "name": "02.jpg", 
+            "pepca": "pd6e55fddbab3ba17", 
+            "size": 1321, 
+            "sumphash": "6e32801cb1e3e90fd44c6b8c0e10343f"
+        }, 
+        {
+            "cid": "03.jpg", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "image/jpeg", 
+            "name": "03.jpg", 
+            "pepca": "pd6e55fddbab3ba17", 
+            "size": 1321, 
+            "sumphash": "070d27205965c4aba6e467d65edc3a36"
+        }, 
+        {
+            "cid": "04.jpg", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "image/jpeg", 
+            "name": "04.jpg", 
+            "pepca": "p1111241958267689", 
+            "size": 6755, 
+            "sumphash": "85ffaa0a2edcaf9f23afdc2e43068e56"
+        }, 
+        {
+            "cid": "05.jpg", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "image/jpeg", 
+            "name": "05.jpg", 
+            "pepca": "p88b348e2ad21eccc", 
+            "size": 1218, 
+            "sumphash": "bba439538a19f7374faf06c5b2bea094"
+        }, 
+        {
+            "cid": "06_ok.jpg", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "image/jpeg", 
+            "name": "06_ok.jpg", 
+            "pepca": "p262bf91836d49509", 
+            "size": 1747, 
+            "sumphash": "b06ce6baafd393da61d9cb3a7d3a727d"
+        }, 
+        {
+            "cid": "08.jpg", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "image/jpeg", 
+            "name": "08.jpg", 
+            "pepca": "p8f3c866de6f7afeb", 
+            "size": 1963, 
+            "sumphash": "f58964fec74b5b7e9c385d71bb8f3b72"
+        }, 
+        {
+            "cid": "09.jpg", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "image/jpeg", 
+            "name": "09.jpg", 
+            "pepca": "p0bfee79462bc7dcd", 
+            "size": 1204, 
+            "sumphash": "db8bfe4b7344e9ac638e68373188a978"
+        }, 
+        {
+            "cid": "10.jpg", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "image/jpeg", 
+            "name": "10.jpg", 
+            "pepca": "p2f029d50e0b9dcdf", 
+            "size": 1200, 
+            "sumphash": "00ae8bd1ec3c7d97491f0e34cfb20e68"
+        }, 
+        {
+            "cid": "11.jpg", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "image/jpeg", 
+            "name": "11.jpg", 
+            "pepca": "p8f3c866de6f7afeb", 
+            "size": 1744, 
+            "sumphash": "8d5479cf577102381cb69a9569564df1"
+        }, 
+        {
+            "cid": "tel.png", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "image/png", 
+            "name": "tel.png", 
+            "pepca": "pa10dac19af3b6312", 
+            "size": 1035, 
+            "sumphash": "a88e24303307d2b4bec22650d3b39b1b"
+        }
+    ], 
+    "content": "CONTENT_DEFAULT", 
+    "date_difference": -79560576, 
+    "dkStatusDetail": "NOT_SIGNED", 
+    "dk_statuses": [
+        {
+            "status": "NEUTRAL", 
+            "statusDetail": "NOT_SIGNED"
+        }
+    ], 
+    "dkim_count": 0, 
+    "dkim_efrom_match": 0, 
+    "dkim_hfrom_match": 0, 
+    "dkim_passed_count": 0, 
+    "dkim_signs_cnt": 1, 
+    "dkstatus": "NEUTRAL", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/0733ad548ab3f8525a8bb836b6e82f98.eml", 
+    "extractedEmails": [], 
+    "extractedEmailsCardinality": 0, 
+    "extractedEmailsDomainCount": 0, 
+    "extractedEmailsTotalCount": 0, 
+    "extractedHrefUrls": [
+        "https://www.spravcefinanci.cz"
+    ], 
+    "extractedHrefUrlsCardinality": 1, 
+    "extractedHrefUrlsDomainCount": 1, 
+    "extractedHrefUrlsTotalCount": 1, 
+    "extractedSrcUrls": [
+        "cid:08.jpg", 
+        "cid:09.jpg", 
+        "cid:tel.png", 
+        "cid:10.jpg", 
+        "cid:11.jpg"
+    ], 
+    "extractedSrcUrlsCardinality": 11, 
+    "extractedSrcUrlsDomainCount": 0, 
+    "extractedSrcUrlsTotalCount": 11, 
+    "extractedTxtUrls": [
+        "http://www.SpravceFinanci.cz"
+    ], 
+    "extractedTxtUrlsCardinality": 1, 
+    "extractedTxtUrlsDomainCount": 1, 
+    "extractedTxtUrlsTotalCount": 1, 
+    "first10words": " Vazeny kliente Vase heslo na www SpravceFinanci cz jsme uspesne zmenili Prejeme prijemn", 
+    "from_match": 0, 
+    "header_from": "info@spravcefinanci.cz", 
+    "header_from_count": 1, 
+    "header_reply_to_count": 1, 
+    "header_total_count": 12, 
+    "html_in_text_plain_count": 0, 
+    "html_script_tag_count": 0, 
+    "html_tag_total_count": 123, 
+    "html_td_tag_count": 48, 
+    "html_tr_tag_count": 20, 
+    "lang": "cs", 
+    "last10words": "555 Tesco Financni sluzby 840 022 111 Linka Premia 840 022 444 2014 Home Credit a s ", 
+    "list_unsubscribe_http_count": 0, 
+    "list_unsubscribe_invalid_count": 0, 
+    "list_unsubscribe_mailto_count": 0, 
+    "list_unsubscribe_total_count": 0, 
+    "mime_children_count": 12, 
+    "mime_children_types": [
+        "multipart/alternative", 
+        "image/jpeg", 
+        "image/jpeg", 
+        "image/jpeg", 
+        "image/jpeg", 
+        "image/jpeg", 
+        "image/jpeg", 
+        "image/jpeg", 
+        "image/jpeg", 
+        "image/jpeg", 
+        "image/jpeg", 
+        "image/png"
+    ], 
+    "mime_root_type": "multipart/related", 
+    "notches": [
+        {
+            "module": "ill", 
+            "name": [
+                "date_in_past", 
+                "from_missmatch"
+            ], 
+            "score": 1, 
+            "subscores": [
+                1, 
+                0.0
+            ]
+        }
+    ], 
+    "now": 1494598177, 
+    "pepca": "p5f939b23f031ae2e", 
+    "pepca_inline_style": "p862461ce906f56f5", 
+    "pepca_inline_style_total": 0, 
+    "pepca_style": "", 
+    "pepca_style_total": 0, 
+    "pepcatotal": 0, 
+    "phashes": [
+        {
+            "name": "att-pepca", 
+            "value": "p58bcc1d69bffbbe5"
+        }, 
+        {
+            "name": "att-pepca", 
+            "value": "pd6e55fddbab3ba17"
+        }, 
+        {
+            "name": "att-pepca", 
+            "value": "pd6e55fddbab3ba17"
+        }, 
+        {
+            "name": "att-pepca", 
+            "value": "p1111241958267689"
+        }, 
+        {
+            "name": "att-pepca", 
+            "value": "p88b348e2ad21eccc"
+        }, 
+        {
+            "name": "att-pepca", 
+            "value": "p262bf91836d49509"
+        }, 
+        {
+            "name": "att-pepca", 
+            "value": "p8f3c866de6f7afeb"
+        }, 
+        {
+            "name": "att-pepca", 
+            "value": "p0bfee79462bc7dcd"
+        }, 
+        {
+            "name": "att-pepca", 
+            "value": "p2f029d50e0b9dcdf"
+        }, 
+        {
+            "name": "att-pepca", 
+            "value": "p8f3c866de6f7afeb"
+        }, 
+        {
+            "name": "att-pepca", 
+            "value": "pa10dac19af3b6312"
+        }, 
+        {
+            "name": "pepca", 
+            "value": "p5f939b23f031ae2e"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "p862461ce906f56f5"
+        }
+    ], 
+    "phish_score": 0, 
+    "phishing": {
+        "body_richness": 0.35792349726776, 
+        "camouflage": 0, 
+        "fake_https": 0, 
+        "html_form": 0, 
+        "is_html": true, 
+        "max_num_dots_urls": 2, 
+        "max_num_slashes_urls": 0, 
+        "num_black_sheep_link": -1, 
+        "num_black_sheep_link_global": -1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_external_links": 1, 
+        "num_freehost_urls": 0, 
+        "num_html_script_tags": 0, 
+        "num_https_urls": 1, 
+        "num_ip_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "num_of_chars": 365, 
+        "num_param_phish": 0, 
+        "num_path_phish": 0, 
+        "num_phish_keywords": 1, 
+        "num_sender_diff_url": 0, 
+        "num_shortened_urls": 0, 
+        "num_subdomain_phish": 0, 
+        "num_text_forms": 0, 
+        "num_tld_in_url_path": 0, 
+        "num_www_in_url_path": 0, 
+        "subject_phish_keywords": 1, 
+        "subject_richness": 0.12, 
+        "suspicious_links": [], 
+        "text_and_href": 0, 
+        "text_link_with_path": 0
+    }, 
+    "precedence": 3, 
+    "rcpts_count": 1, 
+    "rfcid_is_foreign": 0, 
+    "rfcid_is_invalid": false, 
+    "rfcid_length": 77, 
+    "self_send": 0, 
+    "senders": {
+        "cnt-pow4_w_duc": "", 
+        "cnt-pow4_w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "domain_keywords": "tesco-europe", 
+        "domain_keywords_detail": [
+            {
+                "confidence": 31510189.0243, 
+                "domain": "tesco-europe"
+            }
+        ], 
+        "ettf_w_duc": "", 
+        "ettf_w_duc_detail": [], 
+        "idf": "", 
+        "idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "log_cnt-w_duc_detail": [], 
+        "log_cnt_idf": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "log_ecnt_idf": "", 
+        "log_ecnt_idf_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "log_ecnt_log_idf_log_tidf": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "plain_domain": "spravcefinanci", 
+        "plain_domain_detail": [
+            {
+                "confidence": 2, 
+                "domain": "spravcefinanci"
+            }
+        ], 
+        "src_revert": "", 
+        "src_revert_detail": [], 
+        "tf_log_idf": "", 
+        "tf_log_idf_detail": [], 
+        "ttf_w_duc": "", 
+        "ttf_w_duc_detail": []
+    }, 
+    "spamscore": 1, 
+    "spamtrap_hit": false, 
+    "spf_dom_policy_registry": "Policy not found", 
+    "spf_domain_policy": "UNKNOWN", 
+    "spf_status_registry": "Status not found", 
+    "spfstatus": "NONE", 
+    "spfstatus_hfrom": "SPF_SOFTFAIL", 
+    "subject": "Uspesna zmena hesla", 
+    "subject_image_count": 0, 
+    "subject_word_count": 3, 
+    "word_count": 131
+}

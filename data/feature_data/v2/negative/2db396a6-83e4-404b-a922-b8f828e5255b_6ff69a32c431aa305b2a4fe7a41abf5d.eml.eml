@@ -1,0 +1,235 @@
+{
+    "adscore": 0, 
+    "ahref_camouflage_count": 3, 
+    "ahref_total_count": 3, 
+    "ahref_verbal_count": 0, 
+    "attachments": [
+        {
+            "cid": "image001.jpg@01D02E77.0051EF60", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "image/jpeg", 
+            "name": "image001.jpg", 
+            "pepca": "pd2ddc5a49042d4fa", 
+            "size": 2128, 
+            "sumphash": "1663091a8ed367bf5c6eeff1b287ad40"
+        }
+    ], 
+    "content": "CONTENT_DEFAULT", 
+    "date_difference": -73527726, 
+    "dkStatusDetail": "NOT_SIGNED", 
+    "dk_statuses": [
+        {
+            "status": "NEUTRAL", 
+            "statusDetail": "NOT_SIGNED"
+        }
+    ], 
+    "dkim_count": 0, 
+    "dkim_efrom_match": 0, 
+    "dkim_hfrom_match": 0, 
+    "dkim_passed_count": 0, 
+    "dkim_signs_cnt": 1, 
+    "dkstatus": "NEUTRAL", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/6ff69a32c431aa305b2a4fe7a41abf5d.eml.eml", 
+    "extractedEmails": [
+        "vitkova@noviko.cz", 
+        "denisa.vitkova@henryschein.cz"
+    ], 
+    "extractedEmailsCardinality": 2, 
+    "extractedEmailsDomainCount": 2, 
+    "extractedEmailsTotalCount": 2, 
+    "extractedHrefUrls": [
+        "http://www.noviko-online.cz/", 
+        "http://www.noviko.cz/"
+    ], 
+    "extractedHrefUrlsCardinality": 2, 
+    "extractedHrefUrlsDomainCount": 2, 
+    "extractedHrefUrlsTotalCount": 2, 
+    "extractedSrcUrls": [
+        "cid:image001.jpg@01D02E77.0051EF60"
+    ], 
+    "extractedSrcUrlsCardinality": 1, 
+    "extractedSrcUrlsDomainCount": 0, 
+    "extractedSrcUrlsTotalCount": 1, 
+    "extractedTxtUrls": [
+        "http://www.hs-online.cz", 
+        "http://www.henryschein.cz"
+    ], 
+    "extractedTxtUrlsCardinality": 2, 
+    "extractedTxtUrlsDomainCount": 2, 
+    "extractedTxtUrlsTotalCount": 2, 
+    "first10words": " Dobry den Pro penize bych se zastavila ve ctvrtek 15 1 Mela by to byt faktura na 6273Kc a zA toho se odecte dobropis ", 
+    "from_match": 0, 
+    "header_from": "Denisa.Vitkova@henryschein.cz", 
+    "header_from_count": 1, 
+    "header_reply_to_count": 0, 
+    "header_total_count": 17, 
+    "html_in_text_plain_count": 0, 
+    "html_script_tag_count": 0, 
+    "html_tag_total_count": 124, 
+    "html_td_tag_count": 0, 
+    "html_tr_tag_count": 0, 
+    "lang": "en", 
+    "last10words": "dential and may be legally privileged It is intended solely for the addressee s Access to this e mail by anyone else is unauthorized ", 
+    "list_unsubscribe_http_count": 0, 
+    "list_unsubscribe_invalid_count": 0, 
+    "list_unsubscribe_mailto_count": 0, 
+    "list_unsubscribe_total_count": 0, 
+    "mime_children_count": 2, 
+    "mime_children_types": [
+        "multipart/alternative", 
+        "image/jpeg"
+    ], 
+    "mime_root_type": "multipart/related", 
+    "notches": [
+        {
+            "module": "ill", 
+            "name": [
+                "date_in_past", 
+                "from_missmatch", 
+                "html_a_href_camouflaging", 
+                "missing_message_id"
+            ], 
+            "score": 2.1, 
+            "subscores": [
+                1, 
+                0.0, 
+                0.1, 
+                1
+            ]
+        }
+    ], 
+    "now": 1494598311, 
+    "pepca": "p97c29c881da3326d", 
+    "pepca_inline_style": "p3b33dea3d42d22a2", 
+    "pepca_inline_style_total": 0, 
+    "pepca_style": "", 
+    "pepca_style_total": 0, 
+    "pepcatotal": 0, 
+    "phashes": [
+        {
+            "name": "att-pepca", 
+            "value": "pd2ddc5a49042d4fa"
+        }, 
+        {
+            "name": "pepca", 
+            "value": "p97c29c881da3326d"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "p3b33dea3d42d22a2"
+        }
+    ], 
+    "phish_score": 0, 
+    "phishing": {
+        "body_richness": 0.172444444444444, 
+        "camouflage": 1, 
+        "fake_https": 0, 
+        "html_form": 0, 
+        "is_html": true, 
+        "max_num_dots_urls": 2, 
+        "max_num_slashes_urls": 1, 
+        "num_black_sheep_link": -1, 
+        "num_black_sheep_link_global": -1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_external_links": 2, 
+        "num_freehost_urls": 0, 
+        "num_html_script_tags": 0, 
+        "num_https_urls": 0, 
+        "num_ip_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "num_of_chars": 1124, 
+        "num_param_phish": 0, 
+        "num_path_phish": 0, 
+        "num_phish_keywords": 2, 
+        "num_sender_diff_url": 3, 
+        "num_shortened_urls": 0, 
+        "num_subdomain_phish": 0, 
+        "num_text_forms": 4, 
+        "num_tld_in_url_path": 0, 
+        "num_www_in_url_path": 0, 
+        "subject_phish_keywords": 0, 
+        "subject_richness": 0.125, 
+        "suspicious_links": [], 
+        "text_and_href": 0, 
+        "text_link_with_path": 0
+    }, 
+    "precedence": 3, 
+    "rcpts_count": 1, 
+    "rfcid_is_foreign": 1, 
+    "rfcid_is_invalid": true, 
+    "rfcid_length": 0, 
+    "self_send": 0, 
+    "senders": {
+        "cnt-pow4_w_duc": "", 
+        "cnt-pow4_w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "domain_keywords": "s1now", 
+        "domain_keywords_detail": [
+            {
+                "confidence": 15146366.8399, 
+                "domain": "s1now"
+            }
+        ], 
+        "ettf_w_duc": "", 
+        "ettf_w_duc_detail": [], 
+        "idf": "", 
+        "idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "log_cnt-w_duc_detail": [], 
+        "log_cnt_idf": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "log_ecnt_idf": "", 
+        "log_ecnt_idf_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "log_ecnt_log_idf_log_tidf": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "plain_domain": "henryschein", 
+        "plain_domain_detail": [
+            {
+                "confidence": 1, 
+                "domain": "henryschein"
+            }, 
+            {
+                "confidence": 1, 
+                "domain": "hs-online"
+            }, 
+            {
+                "confidence": 1, 
+                "domain": "noviko-online"
+            }, 
+            {
+                "confidence": 1, 
+                "domain": "noviko"
+            }
+        ], 
+        "src_revert": "", 
+        "src_revert_detail": [], 
+        "tf_log_idf": "", 
+        "tf_log_idf_detail": [], 
+        "ttf_w_duc": "", 
+        "ttf_w_duc_detail": []
+    }, 
+    "spamscore": 2.1, 
+    "spamtrap_hit": false, 
+    "spf_dom_policy_registry": "Policy not found", 
+    "spf_domain_policy": "UNKNOWN", 
+    "spf_status_registry": "Status not found", 
+    "spfstatus": "NONE", 
+    "spfstatus_hfrom": "SPF_NONE", 
+    "subject": "faktura", 
+    "subject_image_count": 0, 
+    "subject_word_count": 1, 
+    "word_count": 194
+}

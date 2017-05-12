@@ -1,0 +1,278 @@
+{
+    "adscore": 0, 
+    "ahref_camouflage_count": 2, 
+    "ahref_total_count": 16, 
+    "ahref_verbal_count": 13, 
+    "attachments": [], 
+    "content": "CONTENT_DEFAULT", 
+    "date_difference": -73437119, 
+    "dkStatusDetail": "NOT_SIGNED", 
+    "dk_statuses": [
+        {
+            "status": "NEUTRAL", 
+            "statusDetail": "NOT_SIGNED"
+        }
+    ], 
+    "dkim_count": 0, 
+    "dkim_efrom_match": 0, 
+    "dkim_hfrom_match": 0, 
+    "dkim_passed_count": 0, 
+    "dkim_signs_cnt": 1, 
+    "dkstatus": "NEUTRAL", 
+    "dmarc_status": {}, 
+    "domainstat": {}, 
+    "domainstat_themes": {}, 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/trans-f83c0b39fee1f431b99dcc5f85019e78.eml", 
+    "extractedEmails": [
+        "posta@bonprix.cz"
+    ], 
+    "extractedEmailsCardinality": 1, 
+    "extractedEmailsDomainCount": 1, 
+    "extractedEmailsTotalCount": 1, 
+    "extractedHrefUrls": [
+        "http://ssl.hurra.com/TrackIt?tid=10008797C553PPC&url=[[http://mc.media4u.pl/redir.php?tid=1183&tag=orderconfirm&utag=bohumila.kr", 
+        "http://ssl.hurra.com/TrackIt?tid=10008797C553PPC&url=[[http://mc.media4u.pl/redir.php?tid=1183&tag=orderconfirm&utag=bohumila.kr", 
+        "http://www.facebook.com/bonprixCZ", 
+        "http://www.youtube.com/bonprix", 
+        "http://ssl.hurra.com/TrackIt?tid=10008797C553PPC&url=[[http://mc.media4u.pl/redir.php?tid=1183&tag=orderconfirm&utag=bohumila.kr"
+    ], 
+    "extractedHrefUrlsCardinality": 12, 
+    "extractedHrefUrlsDomainCount": 3, 
+    "extractedHrefUrlsTotalCount": 12, 
+    "extractedSrcUrls": [
+        "http://www.bonprix.cz/static/gfx/email/bonprix.png", 
+        "http://www.bonprix.cz/ims/0/0/0/0/0/4/6/8/3/3/inteligentne/928956/kozacky.jpg?h90", 
+        "http://www.bonprix.cz/static/gfx/email/footer/facebook.png", 
+        "http://www.bonprix.cz/static/gfx/email/footer/youtube.png", 
+        "http://mc.media4u.pl/view.php?tid=3797&tag=orderconfirm&utag=bohumila.kreckova@seznam.cz&ext_v_id=1ed3ce24756b6121&c=5a3d96&ver="
+    ], 
+    "extractedSrcUrlsCardinality": 5, 
+    "extractedSrcUrlsDomainCount": 2, 
+    "extractedSrcUrlsTotalCount": 5, 
+    "extractedTxtUrls": [
+        "http://www.bonprix.cz"
+    ], 
+    "extractedTxtUrlsCardinality": 1, 
+    "extractedTxtUrlsDomainCount": 1, 
+    "extractedTxtUrlsTotalCount": 1, 
+    "first10words": " Muj ucet ZENA PRADLO MUZ DITE OBUV A DOPLNKY DUM SALE ", 
+    "from_match": 0, 
+    "header_from": "posta@bonprix.cz", 
+    "header_from_count": 1, 
+    "header_reply_to_count": 0, 
+    "header_total_count": 13, 
+    "html_in_text_plain_count": 0, 
+    "html_script_tag_count": 0, 
+    "html_tag_total_count": 449, 
+    "html_td_tag_count": 158, 
+    "html_tr_tag_count": 80, 
+    "lang": "cs", 
+    "last10words": "i Pro kontakt se zakaznickym centrem piste na posta bonprix cz bonprix posta Ostrava 2 P O BOX 12 70212 Ostrava ", 
+    "list_unsubscribe_http_count": 0, 
+    "list_unsubscribe_invalid_count": 0, 
+    "list_unsubscribe_mailto_count": 0, 
+    "list_unsubscribe_total_count": 0, 
+    "mime_children_count": 0, 
+    "mime_children_types": [], 
+    "mime_root_type": "text/html", 
+    "notches": [
+        {
+            "module": "ill", 
+            "name": [
+                "date_in_past", 
+                "from_missmatch", 
+                "html_a_href_camouflaging", 
+                "foreign_message_id"
+            ], 
+            "score": 1.2, 
+            "subscores": [
+                1, 
+                0.0, 
+                0.1, 
+                0.1
+            ]
+        }
+    ], 
+    "now": 1494598440, 
+    "pepca": "pd6609f4eeab99422", 
+    "pepca_inline_style": "pdd61dc8e9a0a79bf", 
+    "pepca_inline_style_total": 4, 
+    "pepca_style": "", 
+    "pepca_style_total": 0, 
+    "pepcatotal": 3, 
+    "phNotches": [
+        {
+            "module": "phish-score", 
+            "name": [
+                "from_mismatch", 
+                "phisheable", 
+                "phish_keyword", 
+                "unsub_link", 
+                "html_a_href_camouflaging", 
+                "long-email"
+            ], 
+            "score": -1.5, 
+            "subscores": [
+                1, 
+                0.5, 
+                0.0, 
+                -2, 
+                1, 
+                -2
+            ]
+        }
+    ], 
+    "phashes": [
+        {
+            "name": "pepca", 
+            "value": "pd6609f4eeab99422"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "pdd61dc8e9a0a79bf"
+        }
+    ], 
+    "phish_score": 0.0, 
+    "phishing": {
+        "body_richness": 0.16826856108093, 
+        "camouflage": 1, 
+        "fake_https": 0, 
+        "href_camouflaging": true, 
+        "html_form": 0, 
+        "is_html": true, 
+        "long-email": true, 
+        "max_num_dots_urls": 10, 
+        "max_num_slashes_urls": 6, 
+        "num_attachments": 0, 
+        "num_black_sheep_link": -1, 
+        "num_black_sheep_link_global": -1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_external_links": 10, 
+        "num_freehost_urls": 0, 
+        "num_html_script_tags": 0, 
+        "num_https_urls": 0, 
+        "num_ip_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "num_of_chars": 7178, 
+        "num_param_phish": 0, 
+        "num_path_phish": 0, 
+        "num_phish_keywords": 3, 
+        "num_sender_diff_url": 3, 
+        "num_shortened_urls": 0, 
+        "num_subdomain_phish": 0, 
+        "num_subject_phish_keywords": 0, 
+        "num_text_forms": 0, 
+        "num_tld_in_url_path": 0, 
+        "num_www_in_url_path": 0, 
+        "subject_phish_keywords": 0, 
+        "subject_richness": 0.0952380952380952, 
+        "suspicious_links": [], 
+        "text_and_href": 0, 
+        "text_link_with_path": 0
+    }, 
+    "precedence": 3, 
+    "rcpts_count": 1, 
+    "rfcid_is_foreign": 1, 
+    "rfcid_is_invalid": false, 
+    "rfcid_length": 43, 
+    "self_send": 0, 
+    "senders": {
+        "cnt-pow4_w_duc": "", 
+        "cnt-pow4_w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "domain_keywords": "bonprix", 
+        "domain_keywords_detail": [
+            {
+                "confidence": 1253040577.46003, 
+                "domain": "bonprix"
+            }
+        ], 
+        "ettf_w_duc": "", 
+        "ettf_w_duc_detail": [], 
+        "idf": "", 
+        "idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "log_cnt-w_duc_detail": [], 
+        "log_cnt_idf": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "log_ecnt_idf": "", 
+        "log_ecnt_idf_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "log_ecnt_log_idf_log_tidf": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "plain_domain": "bonprix", 
+        "plain_domain_detail": [
+            {
+                "confidence": 1, 
+                "domain": "bonprix"
+            }
+        ], 
+        "src_revert": "bonprix", 
+        "src_revert_detail": [
+            {
+                "confidence": 5, 
+                "domain": "bonprix"
+            }
+        ], 
+        "tf_log_idf": "", 
+        "tf_log_idf_detail": [], 
+        "ttf_w_duc": "", 
+        "ttf_w_duc_detail": []
+    }, 
+    "spamscore": 1.2, 
+    "spamtrap_hit": false, 
+    "spf_dom_policy_registry": "Policy not found", 
+    "spf_domain_policy": "UNKNOWN", 
+    "spf_status_registry": "Status not found", 
+    "spfstatus": "NONE", 
+    "spfstatus_hfrom": "SPF_NONE", 
+    "subject": "Objednavka prijata", 
+    "subject_image_count": 0, 
+    "subject_word_count": 2, 
+    "theme": {}, 
+    "universalprobes": [
+        {
+            "key": "ps-from_mismatch", 
+            "value": "1"
+        }, 
+        {
+            "key": "ps-phish_keyword", 
+            "value": "['\\xc3\\xba\\xc4\\x8det', 'potvrdit', 'p\\xc5\\x99\\xc3\\xadstup']"
+        }, 
+        {
+            "key": "ps-unsub_link", 
+            "value": "1"
+        }, 
+        {
+            "key": "ps-camouflaged_href", 
+            "value": "Url(norm=http://ssl.hurra.com/TrackIt?tid=10008797C553PPC&url=[[http://mc.media4u.pl/redir.php?tid=1183&tag=orderconfirm&utag=bohumila.kreckova@seznam.cz&ext_r_id=1ed3ce24756b6121&c=50d343&ver=1&url=http://www.bonprix.cz/]]&kw=[[orderconfirm]], source=None) | Url(norm=http://www.bonprix.cz, source=txt)"
+        }, 
+        {
+            "key": "ps-html_a_href_camouflaging", 
+            "value": "1"
+        }, 
+        {
+            "key": "ps-long-email", 
+            "value": "1"
+        }
+    ], 
+    "unsub_link": "http://www.youtube.com/bonprix", 
+    "unsub_link_candidates": [
+        "http://www.youtube.com/bonprix"
+    ], 
+    "unsub_link_texts": [
+        " youtube nakupujici zakaznik obdrzet bezplatny katalog s nova obchodny nabidka"
+    ], 
+    "word_count": 1208
+}

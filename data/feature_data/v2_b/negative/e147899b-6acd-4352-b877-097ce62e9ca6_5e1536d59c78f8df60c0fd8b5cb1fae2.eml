@@ -1,0 +1,233 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ]
+        }
+    ],
+    "extractedTxtUrls": [
+        "http://Extrh.cz",
+        "http://Extrh.cz.",
+        "http://rExtrh.cz"
+    ],
+    "spfstatus": "NONE",
+    "mime_root_type": "multipart/alternative",
+    "header_from_count": 1,
+    "now": 1494598285,
+    "dkim_efrom_match": 0,
+    "pepca_inline_style_total": 0,
+    "rcpts_count": 1,
+    "extractedEmailsTotalCount": 0,
+    "pepca_inline_style": "pd66df3cf2e81d3fc",
+    "pepca_style_total": 0,
+    "dkselector": "wys",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/5e1536d59c78f8df60c0fd8b5cb1fae2.eml",
+    "html_td_tag_count": 30,
+    "extractedHrefUrlsCardinality": 5,
+    "list_unsubscribe_mailto_count": 0,
+    "subject_word_count": 5,
+    "lang": "cs",
+    "precedence": 3,
+    "phishing": {
+        "num_html_script_tags": 0,
+        "num_text_forms": 31,
+        "fake_https": 0,
+        "is_html": true,
+        "num_non_80_port_urls": 0,
+        "num_https_urls": 0,
+        "num_of_chars": 1523,
+        "num_param_phish": 0,
+        "text_and_href": 0,
+        "body_richness": 0.185695538057743,
+        "text_link_with_path": 0,
+        "max_num_slashes_urls": 1,
+        "num_shortened_urls": 0,
+        "num_sender_diff_url": 1,
+        "num_ip_urls": 0,
+        "num_black_sheep_link": -1,
+        "subject_richness": 0.147058823529412,
+        "num_tld_in_url_path": 0,
+        "subject_phish_keywords": 0,
+        "num_black_sheep_link_global": -1,
+        "num_black_sheep_link_phish": 0,
+        "num_path_phish": 0,
+        "suspicious_links": [],
+        "html_form": 0,
+        "num_phish_keywords": 5,
+        "num_subdomain_phish": 0,
+        "num_domain_phish": 0,
+        "ner_domain_detected": false,
+        "camouflage": 0,
+        "num_freehost_urls": 0,
+        "num_external_links": 9,
+        "max_num_dots_urls": 2,
+        "num_www_in_url_path": 0
+    },
+    "spf_status_registry": "Status not found",
+    "rfcid_is_foreign": 1,
+    "from_match": 0,
+    "first10words": " Dekujeme za registraci na Extrhu Nezobrazuje se vam e mail korektne Otevrete si ho v prohlizeci Dekujeme",
+    "extractedTxtUrlsDomainCount": 2,
+    "spf_domain_policy": "UNKNOWN",
+    "header_total_count": 17,
+    "dkim_passed_count": 1,
+    "extractedTxtUrlsCardinality": 3,
+    "dkim_signs_cnt": 1,
+    "mime_children_types": [
+        "text/plain",
+        "text/html"
+    ],
+    "ahref_verbal_count": 4,
+    "subject_image_count": 0,
+    "phish_score": 0,
+    "rfcid_is_invalid": false,
+    "dkstatus": "PASS",
+    "unsub_link_texts": [
+        " odhlasit odber extrh"
+    ],
+    "phashes": [
+        {
+            "value": "p39c613e742caaa2a",
+            "name": "pepca"
+        },
+        {
+            "value": "p6166473632a4b1b4",
+            "name": "pepca_style"
+        },
+        {
+            "value": "pd66df3cf2e81d3fc",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "extractedTxtUrlsTotalCount": 3,
+    "self_send": 0,
+    "dkdomain": "extrh.cz",
+    "html_tr_tag_count": 30,
+    "extractedEmails": [],
+    "html_tag_total_count": 161,
+    "mime_children_count": 2,
+    "spamtrap_hit": false,
+    "extractedEmailsDomainCount": 0,
+    "extractedHrefUrlsTotalCount": 5,
+    "dk_statuses": [
+        {
+            "selector": "wys",
+            "status": "PASS",
+            "domain": "extrh.cz"
+        }
+    ],
+    "extractedSrcUrlsCardinality": 4,
+    "senders": {
+        "log_cnt_idf_detail": [],
+        "log_ecnt_idf_detail": [],
+        "tf_log_idf": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "cnt-pow4_w_duc_detail": [],
+        "ttf_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "src_revert": "extrh",
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "plain_domain": "rextrh",
+        "src_revert_detail": [
+            {
+                "confidence": 4,
+                "domain": "extrh"
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "rextrh"
+            },
+            {
+                "confidence": 2,
+                "domain": "extrh"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "tf_log_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 20680869.00663,
+                "domain": "svethostingu-tmp"
+            }
+        ],
+        "domain_keywords": "svethostingu-tmp",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt_idf": ""
+    },
+    "spamscore": 1.1,
+    "ahref_total_count": 4,
+    "extractedEmailsCardinality": 0,
+    "extractedSrcUrlsTotalCount": 4,
+    "dkim_count": 1,
+    "adscore": 0,
+    "pepca": "p39c613e742caaa2a",
+    "unsub_link_candidates": [
+        "http://www.extrh.cz/?email_id=45&user_id=33968&urlpassed=W3Vuc3Vic2NyaWJlX2xpbmtd&controller=stats&hash=03bd12daa8bc31434ecedd2902c3df13&action=analyse&wysija-page=1&wysijap=subscriptions"
+    ],
+    "html_script_tag_count": 0,
+    "date_difference": -80194918,
+    "html_in_text_plain_count": 0,
+    "pepca_style": "p6166473632a4b1b4",
+    "word_count": 283,
+    "rfcid_length": 56,
+    "spf_dom_policy_registry": "Policy not found",
+    "pepcatotal": 0,
+    "last10words": "odni sdeleni pro registrovane uzivatele Extrh cz Kdykoliv se muzete odhlasit Odhlasit odber Extrh cz ",
+    "extractedHrefUrls": [
+        "http://www.extrh.cz/?email_id=45&user_id=33968&urlpassed=W3ZpZXdfaW5fYnJvd3Nlcl9saW5rXQ%3D%3D&controller=stats&action=analyse&wy",
+        "http://www.extrh.cz/?email_id=45&user_id=33968&urlpassed=aHR0cDovL3d3dy5leHRyaC5jei9kcmF6YmEtamUtbmVqYmV6cGVjbmVqc2ktenB1c29iLWt",
+        "http://www.extrh.cz/?email_id=45&user_id=33968&urlpassed=aHR0cDovL3d3dy5leHRyaC5jei93cC1jb250ZW50L3VwbG9hZHMvMjAxNC8wNC9Ob3Rhcnk",
+        "http://www.extrh.cz/?email_id=45&user_id=33968&urlpassed=aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL2V4dHJoLmN6P3V0bV9zb3VyY2U9d3lzaWphJnV",
+        "http://www.extrh.cz/?email_id=45&user_id=33968&urlpassed=W3Vuc3Vic2NyaWJlX2xpbmtd&controller=stats&hash=03bd12daa8bc31434ecedd29"
+    ],
+    "spfstatus_hfrom": "SPF_FAIL",
+    "header_reply_to_count": 1,
+    "dkim_hfrom_match": 1,
+    "attachments": [],
+    "content": "CONTENT_DEFAULT",
+    "extractedSrcUrls": [
+        "http://www.extrh.cz/wp-content/uploads/2014/04/camaro-icon1.png",
+        "http://www.extrh.cz/wp-content/uploads/wysija/dividers/solid.jpg",
+        "http://www.extrh.cz/wp-content/uploads/wysija/bookmarks/medium/10/facebook.png",
+        "http://www.extrh.cz/?email_id=45&user_id=33968&controller=stats&action=analyse&wysija-page=1&render=1&wysijap=subscriptions"
+    ],
+    "list_unsubscribe_http_count": 0,
+    "unsub_link": "http://www.extrh.cz/?email_id=45&user_id=33968&urlpassed=W3Vuc3Vic2NyaWJlX2xpbmtd&controller=stats&hash=03bd12daa8bc31434ecedd2902c3df13&action=analyse&wysija-page=1&wysijap=subscriptions",
+    "extractedHrefUrlsDomainCount": 1,
+    "subject": "Dekujeme za registraci na Extrhu",
+    "list_unsubscribe_total_count": 0,
+    "extractedSrcUrlsDomainCount": 1,
+    "ahref_camouflage_count": 0,
+    "list_unsubscribe_invalid_count": 0,
+    "header_from": "info@extrh.cz"
+}

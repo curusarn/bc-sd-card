@@ -1,0 +1,210 @@
+{
+    "date_difference": -80105338,
+    "html_td_tag_count": 0,
+    "extractedEmails": [
+        "podpora@bezvadata.cz"
+    ],
+    "list_unsubscribe_total_count": 0,
+    "from_match": 0,
+    "spfstatus_hfrom": "SPF_NONE",
+    "dkim_passed_count": 2,
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "extractedHrefUrlsDomainCount": 1,
+    "first10words": " BezvaData cz Uzivateli dannyjez na zaklade vyplneneho formulare na serveru BezvaData cz zasilame jednorazovy odkaz p",
+    "word_count": 71,
+    "pepca": "p1a7550e5035a2caa",
+    "extractedTxtUrlsTotalCount": 3,
+    "extractedTxtUrlsDomainCount": 1,
+    "pepcatotal": 0,
+    "pepca_style_total": 0,
+    "extractedEmailsTotalCount": 1,
+    "mime_root_type": "multipart/alternative",
+    "extractedEmailsCardinality": 1,
+    "extractedHrefUrlsTotalCount": 3,
+    "html_tr_tag_count": 0,
+    "pepca_style": "",
+    "pepca_inline_style_total": 1,
+    "header_from_count": 1,
+    "header_total_count": 20,
+    "precedence": 3,
+    "ahref_camouflage_count": 0,
+    "subject": "Obnoveni hesla na BezvaData cz",
+    "html_tag_total_count": 42,
+    "ahref_total_count": 4,
+    "extractedEmailsDomainCount": 1,
+    "dkim_hfrom_match": 0,
+    "dkstatus": "PASS",
+    "header_reply_to_count": 0,
+    "subject_image_count": 0,
+    "extractedTxtUrlsCardinality": 3,
+    "spf_status_registry": "Status not found",
+    "rfcid_is_foreign": 1,
+    "content": "CONTENT_DEFAULT",
+    "extractedSrcUrls": [],
+    "lang": "cs",
+    "extractedTxtUrls": [
+        "http://bezvadata.cz/uzivatel/obnoveni-hesla?_dokoncit=1&hash=68a2e7f2e27aca3186d612c361ac2466&hash2=01dcb6be601b251c5814d715c5ce",
+        "http://BezvaData.cz",
+        "http://bezvadata.cz"
+    ],
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/65de2afa240838fdd8b2b0b1f7186e8d.eml",
+    "spamscore": 1.1,
+    "attachments": [],
+    "dk_statuses": [
+        {
+            "status": "PASS",
+            "selector": "mandrill",
+            "domain": "mail129.wdc04.mandrillapp.com"
+        },
+        {
+            "status": "PASS",
+            "selector": "mandrill",
+            "domain": "mandrillapp.com"
+        }
+    ],
+    "dkdomain": "mail129.wdc04.mandrillapp.com",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p1a7550e5035a2caa"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pbbd8f27412935f37"
+        }
+    ],
+    "pepca_inline_style": "pbbd8f27412935f37",
+    "rcpts_count": 1,
+    "self_send": 0,
+    "now": 1494598297,
+    "mime_children_count": 2,
+    "ahref_verbal_count": 1,
+    "last10words": " Web http bezvadata cz E mail podpora bezvadata cz Bezva server pro nahravani a stahovani souboru bez omezeni rychlosti ",
+    "subject_word_count": 5,
+    "spf_domain_policy": "UNKNOWN",
+    "dkim_count": 2,
+    "rfcid_is_invalid": false,
+    "header_from": "podpora@bezvadata.cz",
+    "list_unsubscribe_mailto_count": 0,
+    "rfcid_length": 23,
+    "html_in_text_plain_count": 0,
+    "extractedHrefUrlsCardinality": 3,
+    "html_script_tag_count": 0,
+    "dkim_efrom_match": 0,
+    "adscore": 0,
+    "mime_children_types": [
+        "text/plain",
+        "text/html"
+    ],
+    "dkim_signs_cnt": 2,
+    "spfstatus": "NONE",
+    "extractedHrefUrls": [
+        "http://bezvadata.cz/uzivatel/obnoveni-hesla?_dokoncit=1&hash=68a2e7f2e27aca3186d612c361ac2466&hash2=01dcb6be601b251c5814d715c5ce",
+        "http://bezvadata.cz/info/kontakt",
+        "http://bezvadata.cz/"
+    ],
+    "spamtrap_hit": false,
+    "spf_dom_policy_registry": "Policy not found",
+    "list_unsubscribe_http_count": 0,
+    "dkselector": "mandrill",
+    "phishing": {
+        "body_richness": 0.108396946564885,
+        "num_black_sheep_link": -1,
+        "subject_richness": 0.15625,
+        "max_num_slashes_urls": 2,
+        "num_https_urls": 0,
+        "camouflage": 0,
+        "ner_domain_detected": false,
+        "html_form": 0,
+        "num_subdomain_phish": 0,
+        "num_external_links": 3,
+        "fake_https": 0,
+        "num_html_script_tags": 0,
+        "num_freehost_urls": 0,
+        "num_phish_keywords": 6,
+        "suspicious_links": [],
+        "num_sender_diff_url": 0,
+        "text_and_href": 1,
+        "subject_phish_keywords": 2,
+        "num_www_in_url_path": 0,
+        "num_domain_phish": 0,
+        "num_of_chars": 654,
+        "num_ip_urls": 0,
+        "num_path_phish": 0,
+        "num_param_phish": 0,
+        "max_num_dots_urls": 1,
+        "num_tld_in_url_path": 0,
+        "is_html": true,
+        "num_black_sheep_link_phish": 0,
+        "num_non_80_port_urls": 0,
+        "num_text_forms": 4,
+        "num_black_sheep_link_global": -1,
+        "text_link_with_path": 1,
+        "num_shortened_urls": 0
+    },
+    "senders": {
+        "domain_keywords": "zendesk",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "idf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt-pow4_w_duc": "",
+        "plain_domain_detail": [
+            {
+                "domain": "bezvadata",
+                "confidence": 3
+            }
+        ],
+        "log_cnt-pow_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "tf_log_idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "plain_domain": "bezvadata",
+        "domain_keywords_detail": [
+            {
+                "domain": "zendesk",
+                "confidence": 5456925.98405967
+            }
+        ],
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt_idf": "",
+        "tf_log_idf": "",
+        "src_revert_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_cnt-w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert": ""
+    },
+    "phish_score": 0,
+    "list_unsubscribe_invalid_count": 0
+}

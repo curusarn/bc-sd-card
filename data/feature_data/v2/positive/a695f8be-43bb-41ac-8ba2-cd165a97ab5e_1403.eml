@@ -1,0 +1,201 @@
+{
+    "adscore": 0, 
+    "ahref_camouflage_count": 0, 
+    "ahref_total_count": 0, 
+    "ahref_verbal_count": 0, 
+    "attachments": [
+        {
+            "cid": "006901c6b79a$d127a240$6c822ecf@X8WS0E", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "image/png", 
+            "name": "V35XZ67.PNG", 
+            "pepca": "p8243520f3297378e", 
+            "size": 8534, 
+            "sumphash": "3898a9ae35806fc7b8e0f0c26c6e3b9f"
+        }
+    ], 
+    "content": "CONTENT_DEFAULT", 
+    "date_difference": -339899546, 
+    "dkStatusDetail": "NOT_SIGNED", 
+    "dk_statuses": [
+        {
+            "status": "NEUTRAL", 
+            "statusDetail": "NOT_SIGNED"
+        }
+    ], 
+    "dkim_count": 0, 
+    "dkim_efrom_match": 0, 
+    "dkim_hfrom_match": 0, 
+    "dkim_passed_count": 0, 
+    "dkim_signs_cnt": 1, 
+    "dkstatus": "NEUTRAL", 
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing2/1403.eml", 
+    "extractedEmails": [], 
+    "extractedEmailsCardinality": 0, 
+    "extractedEmailsDomainCount": 0, 
+    "extractedEmailsTotalCount": 0, 
+    "extractedHrefUrls": [
+        "http://www.wellsfargo.com.asuhit.ws/startprocedure/"
+    ], 
+    "extractedHrefUrlsCardinality": 1, 
+    "extractedHrefUrlsDomainCount": 1, 
+    "extractedHrefUrlsTotalCount": 1, 
+    "extractedSrcUrls": [
+        "cid:006901c6b79a$d127a240$6c822ecf@X8WS0E"
+    ], 
+    "extractedSrcUrlsCardinality": 1, 
+    "extractedSrcUrlsDomainCount": 0, 
+    "extractedSrcUrlsTotalCount": 1, 
+    "first10words": " mom lewd sod kale I ve soak wand snob pit use jug dew mean wick dale your hoy rush card honk duly keen peer bout kerf boot chat ", 
+    "from_match": 0, 
+    "header_from": "reference-id_2576739id@wellsfargo.com", 
+    "header_from_count": 1, 
+    "header_reply_to_count": 0, 
+    "header_total_count": 21, 
+    "html_in_text_plain_count": 0, 
+    "html_script_tag_count": 0, 
+    "html_tag_total_count": 161, 
+    "html_td_tag_count": 0, 
+    "html_tr_tag_count": 0, 
+    "lang": "un", 
+    "last10words": "hide away airy dene name jail oxen barn our diet hit prim quantity limp ulna vale fell crab inky over kerf nap jib next poll his seal ally rag ", 
+    "list_unsubscribe_http_count": 0, 
+    "list_unsubscribe_invalid_count": 0, 
+    "list_unsubscribe_mailto_count": 0, 
+    "list_unsubscribe_total_count": 0, 
+    "mime_children_count": 2, 
+    "mime_children_types": [
+        "multipart/alternative", 
+        "image/png"
+    ], 
+    "mime_root_type": "multipart/related", 
+    "notches": [
+        {
+            "module": "ill", 
+            "name": [
+                "date_in_past", 
+                "from_missmatch", 
+                "long_subject"
+            ], 
+            "score": 1.5, 
+            "subscores": [
+                1, 
+                0.0, 
+                0.5
+            ]
+        }
+    ], 
+    "now": 1494597844, 
+    "pepca": "pfed46079253a0292", 
+    "pepca_inline_style": "", 
+    "pepca_inline_style_total": 0, 
+    "pepca_style": "", 
+    "pepca_style_total": 0, 
+    "pepcatotal": 0, 
+    "phashes": [
+        {
+            "name": "att-pepca", 
+            "value": "p8243520f3297378e"
+        }, 
+        {
+            "name": "pepca", 
+            "value": "pfed46079253a0292"
+        }
+    ], 
+    "phish_score": 0, 
+    "phishing": {
+        "body_richness": 0.239782016348774, 
+        "camouflage": 0, 
+        "fake_https": 0, 
+        "html_form": 0, 
+        "is_html": true, 
+        "max_num_dots_urls": 4, 
+        "max_num_slashes_urls": 2, 
+        "num_black_sheep_link": -1, 
+        "num_black_sheep_link_global": -1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_external_links": 1, 
+        "num_freehost_urls": 0, 
+        "num_html_script_tags": 0, 
+        "num_https_urls": 0, 
+        "num_ip_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "num_of_chars": 1834, 
+        "num_param_phish": 0, 
+        "num_path_phish": 0, 
+        "num_phish_keywords": 0, 
+        "num_sender_diff_url": 1, 
+        "num_shortened_urls": 0, 
+        "num_subdomain_phish": 0, 
+        "num_text_forms": 0, 
+        "num_tld_in_url_path": 0, 
+        "num_www_in_url_path": 0, 
+        "subject_phish_keywords": 1, 
+        "subject_richness": 0.177215189873418, 
+        "suspicious_links": [], 
+        "text_and_href": 0, 
+        "text_link_with_path": 0
+    }, 
+    "precedence": 3, 
+    "rcpts_count": 1, 
+    "rfcid_is_foreign": 0, 
+    "rfcid_is_invalid": false, 
+    "rfcid_length": 44, 
+    "self_send": 0, 
+    "senders": {
+        "cnt-pow4_w_duc": "", 
+        "cnt-pow4_w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "domain_keywords": "abc", 
+        "domain_keywords_detail": [
+            {
+                "confidence": 23945363.7602, 
+                "domain": "abc"
+            }
+        ], 
+        "ettf_w_duc": "", 
+        "ettf_w_duc_detail": [], 
+        "idf": "", 
+        "idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "log_cnt-w_duc_detail": [], 
+        "log_cnt_idf": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "log_ecnt_idf": "", 
+        "log_ecnt_idf_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "log_ecnt_log_idf_log_tidf": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "plain_domain": "", 
+        "plain_domain_detail": [], 
+        "src_revert": "", 
+        "src_revert_detail": [], 
+        "tf_log_idf": "", 
+        "tf_log_idf_detail": [], 
+        "ttf_w_duc": "", 
+        "ttf_w_duc_detail": []
+    }, 
+    "spamscore": 1.5, 
+    "spamtrap_hit": false, 
+    "spf_dom_policy_registry": "Policy not found", 
+    "spf_domain_policy": "UNKNOWN", 
+    "spf_status_registry": "Status not found", 
+    "spfstatus": "NONE", 
+    "spfstatus_hfrom": "SPF_FAIL", 
+    "subject": "0fficiaI Information For Wells Fargo CIients Fri 4 Aug 2006 07 51 38 0540 ", 
+    "subject_image_count": 0, 
+    "subject_word_count": 14, 
+    "word_count": 440
+}

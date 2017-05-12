@@ -1,0 +1,278 @@
+{
+    "adscore": 0, 
+    "ahref_camouflage_count": 0, 
+    "ahref_total_count": 2, 
+    "ahref_verbal_count": 0, 
+    "attachments": [
+        {
+            "cid": "image001.jpg@01D01859.EE4723E0", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "image/jpeg", 
+            "name": "image001.jpg", 
+            "pepca": "p7c63fa85fadeb8c1", 
+            "size": 27964, 
+            "sumphash": "7300b3c4f29b29f671fced56bd8011c1"
+        }, 
+        {
+            "cid": "image002.jpg@01D01859.EE4723E0", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "image/jpeg", 
+            "name": "image002.jpg", 
+            "pepca": "pb141b12cbf53abfd", 
+            "size": 1537, 
+            "sumphash": "764d4b6baf367aadd2c6a8a4ef99b271"
+        }, 
+        {
+            "cid": "image007.png@01D01859.EE4723E0", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "image/png", 
+            "name": "image007.png", 
+            "pepca": "p8cfa5d6903318329", 
+            "size": 110051, 
+            "sumphash": "ac390a83907c53285f30e623c947654d"
+        }, 
+        {
+            "cid": "image006.jpg@01D0185C.D99D58D0", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "image/jpeg", 
+            "name": "image006.jpg", 
+            "pepca": "pb141b12cbf53abfd", 
+            "size": 1537, 
+            "sumphash": "764d4b6baf367aadd2c6a8a4ef99b271"
+        }, 
+        {
+            "cid": "image008.png@01D0185C.D99D58D0", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "image/png", 
+            "name": "image008.png", 
+            "pepca": "p991f1057f1c3bbd6", 
+            "size": 110043, 
+            "sumphash": "d2367e316d71a8d185bc713494d92339"
+        }
+    ], 
+    "content": "CONTENT_DEFAULT", 
+    "date_difference": -75958003, 
+    "dkStatusDetail": "NOT_SIGNED", 
+    "dk_statuses": [
+        {
+            "status": "NEUTRAL", 
+            "statusDetail": "NOT_SIGNED"
+        }
+    ], 
+    "dkim_count": 0, 
+    "dkim_efrom_match": 0, 
+    "dkim_hfrom_match": 0, 
+    "dkim_passed_count": 0, 
+    "dkim_signs_cnt": 1, 
+    "dkstatus": "NEUTRAL", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/ec87e23f8f072d3e58c82f614d1c283f.eml", 
+    "extractedEmails": [], 
+    "extractedEmailsCardinality": 0, 
+    "extractedEmailsDomainCount": 0, 
+    "extractedEmailsTotalCount": 0, 
+    "extractedHrefUrls": [
+        "www.hormen.cz"
+    ], 
+    "extractedHrefUrlsCardinality": 1, 
+    "extractedHrefUrlsDomainCount": 0, 
+    "extractedHrefUrlsTotalCount": 1, 
+    "extractedSrcUrls": [
+        "cid:image006.jpg@01D0185C.D99D58D0", 
+        "cid:image008.png@01D0185C.D99D58D0", 
+        "cid:image002.jpg@01D01859.EE4723E0", 
+        "cid:image007.png@01D01859.EE4723E0"
+    ], 
+    "extractedSrcUrlsCardinality": 4, 
+    "extractedSrcUrlsDomainCount": 0, 
+    "extractedSrcUrlsTotalCount": 4, 
+    "extractedTxtUrls": [
+        "http://www.hormen.cz", 
+        "http://Brnowww.hormen.cz"
+    ], 
+    "extractedTxtUrlsCardinality": 2, 
+    "extractedTxtUrlsDomainCount": 1, 
+    "extractedTxtUrlsTotalCount": 2, 
+    "first10words": " Dobry den pane Houzare A kolegyne pani Herynkova Vam zavola ohledne nakladky zbozi ve vyrobe a termin jest", 
+    "from_match": 0, 
+    "header_from": "MZhor@hormen.cz", 
+    "header_from_count": 1, 
+    "header_reply_to_count": 0, 
+    "header_total_count": 20, 
+    "html_in_text_plain_count": 0, 
+    "html_script_tag_count": 0, 
+    "html_tag_total_count": 443, 
+    "html_td_tag_count": 8, 
+    "html_tr_tag_count": 4, 
+    "lang": "cs", 
+    "last10words": " s dodatkem nebo odchylkou se v souladu s ust 1740 odst 3 obcanskeho zakoniku vylucuje A A A ", 
+    "list_unsubscribe_http_count": 0, 
+    "list_unsubscribe_invalid_count": 0, 
+    "list_unsubscribe_mailto_count": 0, 
+    "list_unsubscribe_total_count": 0, 
+    "mime_children_count": 6, 
+    "mime_children_types": [
+        "multipart/alternative", 
+        "image/jpeg", 
+        "image/jpeg", 
+        "image/png", 
+        "image/jpeg", 
+        "image/png"
+    ], 
+    "mime_root_type": "multipart/related", 
+    "notches": [
+        {
+            "module": "ill", 
+            "name": [
+                "date_in_past", 
+                "from_missmatch"
+            ], 
+            "score": 1, 
+            "subscores": [
+                1, 
+                0.0
+            ]
+        }
+    ], 
+    "now": 1494598429, 
+    "pepca": "p4e65fbc72965e6d9", 
+    "pepca_inline_style": "p8da73b24f89e8850", 
+    "pepca_inline_style_total": 0, 
+    "pepca_style": "", 
+    "pepca_style_total": 0, 
+    "pepcatotal": 0, 
+    "phashes": [
+        {
+            "name": "att-pepca", 
+            "value": "p7c63fa85fadeb8c1"
+        }, 
+        {
+            "name": "att-pepca", 
+            "value": "pb141b12cbf53abfd"
+        }, 
+        {
+            "name": "att-pepca", 
+            "value": "p8cfa5d6903318329"
+        }, 
+        {
+            "name": "att-pepca", 
+            "value": "pb141b12cbf53abfd"
+        }, 
+        {
+            "name": "att-pepca", 
+            "value": "p991f1057f1c3bbd6"
+        }, 
+        {
+            "name": "pepca", 
+            "value": "p4e65fbc72965e6d9"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "p8da73b24f89e8850"
+        }
+    ], 
+    "phish_score": 0, 
+    "phishing": {
+        "body_richness": 0.176161722236808, 
+        "camouflage": 0, 
+        "fake_https": 0, 
+        "html_form": 0, 
+        "is_html": true, 
+        "max_num_dots_urls": 2, 
+        "max_num_slashes_urls": 0, 
+        "num_black_sheep_link": -1, 
+        "num_black_sheep_link_global": -1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_external_links": 1, 
+        "num_freehost_urls": 0, 
+        "num_html_script_tags": 0, 
+        "num_https_urls": 0, 
+        "num_ip_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "num_of_chars": 3808, 
+        "num_param_phish": 0, 
+        "num_path_phish": 0, 
+        "num_phish_keywords": 0, 
+        "num_sender_diff_url": 0, 
+        "num_shortened_urls": 0, 
+        "num_subdomain_phish": 0, 
+        "num_text_forms": 7, 
+        "num_tld_in_url_path": 0, 
+        "num_www_in_url_path": 0, 
+        "subject_phish_keywords": 0, 
+        "subject_richness": 0.138461538461538, 
+        "suspicious_links": [], 
+        "text_and_href": 0, 
+        "text_link_with_path": 0
+    }, 
+    "precedence": 3, 
+    "rcpts_count": 1, 
+    "rfcid_is_foreign": 0, 
+    "rfcid_is_invalid": false, 
+    "rfcid_length": 64, 
+    "self_send": 0, 
+    "senders": {
+        "cnt-pow4_w_duc": "", 
+        "cnt-pow4_w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "domain_keywords": "skype", 
+        "domain_keywords_detail": [
+            {
+                "confidence": 37712785.9808194, 
+                "domain": "skype"
+            }
+        ], 
+        "ettf_w_duc": "", 
+        "ettf_w_duc_detail": [], 
+        "idf": "", 
+        "idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "log_cnt-w_duc_detail": [], 
+        "log_cnt_idf": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "log_ecnt_idf": "", 
+        "log_ecnt_idf_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "log_ecnt_log_idf_log_tidf": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "plain_domain": "hormen", 
+        "plain_domain_detail": [
+            {
+                "confidence": 2, 
+                "domain": "hormen"
+            }
+        ], 
+        "src_revert": "", 
+        "src_revert_detail": [], 
+        "tf_log_idf": "", 
+        "tf_log_idf_detail": [], 
+        "ttf_w_duc": "", 
+        "ttf_w_duc_detail": []
+    }, 
+    "spamscore": 1, 
+    "spamtrap_hit": false, 
+    "spf_dom_policy_registry": "Policy not found", 
+    "spf_domain_policy": "UNKNOWN", 
+    "spf_status_registry": "Status not found", 
+    "spfstatus": "NONE", 
+    "spfstatus_hfrom": "SPF_NONE", 
+    "subject": "RE Objednavka 11471 CSOB Milady Horakove 5 NP montaz", 
+    "subject_image_count": 0, 
+    "subject_word_count": 9, 
+    "word_count": 671
+}

@@ -1,0 +1,214 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1,
+                4.1
+            ],
+            "score": 5.2,
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging",
+                "html_ent_text_plain"
+            ]
+        }
+    ],
+    "extractedTxtUrls": [
+        "http://www.rogelli.cz",
+        "http://Rogelli.cz"
+    ],
+    "spfstatus": "NONE",
+    "mime_root_type": "multipart/alternative",
+    "header_from_count": 1,
+    "now": 1494598227,
+    "dkim_efrom_match": 0,
+    "pepca_inline_style_total": 0,
+    "rcpts_count": 1,
+    "extractedEmailsTotalCount": 2,
+    "pepca_inline_style": "",
+    "pepca_style_total": 0,
+    "dkim_hfrom_match": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/32324de9fbd6c74900a41312c431baa8.eml",
+    "html_td_tag_count": 0,
+    "extractedHrefUrlsCardinality": 4,
+    "list_unsubscribe_mailto_count": 0,
+    "subject_word_count": 4,
+    "lang": "cs",
+    "precedence": 3,
+    "phishing": {
+        "num_html_script_tags": 0,
+        "num_text_forms": 8,
+        "fake_https": 0,
+        "is_html": true,
+        "num_non_80_port_urls": 0,
+        "num_https_urls": 1,
+        "num_of_chars": 666,
+        "num_param_phish": 0,
+        "text_and_href": 0,
+        "body_richness": 0.145427286356822,
+        "text_link_with_path": 0,
+        "max_num_slashes_urls": 2,
+        "num_shortened_urls": 0,
+        "num_sender_diff_url": 1,
+        "num_ip_urls": 0,
+        "num_black_sheep_link": -1,
+        "subject_richness": 0.148148148148148,
+        "num_tld_in_url_path": 0,
+        "subject_phish_keywords": 1,
+        "num_black_sheep_link_global": -1,
+        "num_black_sheep_link_phish": 0,
+        "num_path_phish": 0,
+        "suspicious_links": [],
+        "html_form": 0,
+        "num_phish_keywords": 5,
+        "num_subdomain_phish": 0,
+        "num_domain_phish": 0,
+        "ner_domain_detected": false,
+        "camouflage": 1,
+        "num_freehost_urls": 0,
+        "num_external_links": 7,
+        "max_num_dots_urls": 3,
+        "num_www_in_url_path": 0
+    },
+    "spf_status_registry": "Status not found",
+    "rfcid_is_foreign": 0,
+    "from_match": 0,
+    "first10words": " Dobry den zasilame Vam obnovene heslo Vase prihlasovaci udaje jsou Uzivatelske jmeno ",
+    "extractedTxtUrlsDomainCount": 1,
+    "spf_domain_policy": "UNKNOWN",
+    "header_total_count": 13,
+    "dkim_passed_count": 0,
+    "extractedTxtUrlsCardinality": 2,
+    "dkim_signs_cnt": 1,
+    "mime_children_types": [
+        "text/plain",
+        "multipart/alternative"
+    ],
+    "ahref_verbal_count": 2,
+    "subject_image_count": 0,
+    "phish_score": 0,
+    "rfcid_is_invalid": false,
+    "dkstatus": "NEUTRAL",
+    "phashes": [
+        {
+            "value": "pe57af0d72356e0b5",
+            "name": "pepca"
+        }
+    ],
+    "extractedTxtUrlsTotalCount": 2,
+    "self_send": 0,
+    "attachments": [],
+    "html_tr_tag_count": 0,
+    "extractedEmails": [
+        "info@rogelli.cz",
+        "dolezalobchod@seznam.cz"
+    ],
+    "html_tag_total_count": 63,
+    "mime_children_count": 2,
+    "spamtrap_hit": false,
+    "extractedEmailsDomainCount": 2,
+    "extractedHrefUrlsTotalCount": 4,
+    "extractedSrcUrlsCardinality": 3,
+    "spamscore": 5.2,
+    "ahref_total_count": 5,
+    "extractedEmailsCardinality": 2,
+    "extractedSrcUrlsTotalCount": 3,
+    "dkim_count": 0,
+    "adscore": 0,
+    "pepca": "pe57af0d72356e0b5",
+    "dkStatusDetail": "NOT_SIGNED",
+    "html_script_tag_count": 0,
+    "date_difference": -79914479,
+    "html_in_text_plain_count": 30,
+    "pepca_style": "",
+    "word_count": 97,
+    "rfcid_length": 46,
+    "spf_dom_policy_registry": "Policy not found",
+    "pepcatotal": 0,
+    "last10words": "rce 50 slevy na dalsi nakup Stante se fanouskem Rogelli cz na facebooku a ucastnete se soutezi o ceny a slevy ",
+    "extractedHrefUrls": [
+        "http://www.rogelli.cz/prihlaseni/",
+        "http://www.rogelli.cz/",
+        "https://www.facebook.com/Rogelli.cz?fref=ts",
+        "http://www.facebook.com/Rogelli.cz"
+    ],
+    "spfstatus_hfrom": "SPF_NEUTRAL",
+    "header_reply_to_count": 0,
+    "senders": {
+        "log_cnt_idf_detail": [],
+        "log_ecnt_idf_detail": [],
+        "tf_log_idf": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "cnt-pow4_w_duc_detail": [],
+        "ttf_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "src_revert": "rogelli",
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "plain_domain": "rogelli",
+        "src_revert_detail": [
+            {
+                "confidence": 3,
+                "domain": "rogelli"
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "plain_domain_detail": [
+            {
+                "confidence": 3,
+                "domain": "rogelli"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "tf_log_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 8583180.4035644,
+                "domain": "datingfactory"
+            }
+        ],
+        "domain_keywords": "datingfactory",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt_idf": ""
+    },
+    "dk_statuses": [
+        {
+            "statusDetail": "NOT_SIGNED",
+            "status": "NEUTRAL"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "extractedSrcUrls": [
+        "http://www.rogelli.cz/db/wysiwyg/Image/CZ/Exped-email/email-hlavicka.png",
+        "http://www.rogelli.cz/db/wysiwyg/Image/CZ/Exped-email/seda-linka-2.png",
+        "http://www.rogelli.cz/db/wysiwyg/Image/CZ/Exped-email/email-paticka2.png"
+    ],
+    "list_unsubscribe_http_count": 0,
+    "extractedHrefUrlsDomainCount": 2,
+    "subject": "Zadost o zaslani hesla",
+    "list_unsubscribe_total_count": 0,
+    "extractedSrcUrlsDomainCount": 1,
+    "ahref_camouflage_count": 1,
+    "list_unsubscribe_invalid_count": 0,
+    "header_from": "info@rogelli.cz"
+}

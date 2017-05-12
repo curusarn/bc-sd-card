@@ -1,0 +1,210 @@
+{
+    "adscore": 0, 
+    "ahref_camouflage_count": 0, 
+    "ahref_total_count": 0, 
+    "ahref_verbal_count": 0, 
+    "attachments": [
+        {
+            "cte": "BASE64", 
+            "flags": 0, 
+            "lang": "un", 
+            "mime_type": "application/pdf", 
+            "name": "FV 164, Novotná.pdf", 
+            "pepca": "p2212ec5bad7628be", 
+            "size": 234896, 
+            "sumphash": "96c432934f47d796346b4e2301c0c13f"
+        }
+    ], 
+    "content": "CONTENT_DEFAULT", 
+    "date_difference": -75957601, 
+    "dkStatusDetail": "NOT_SIGNED", 
+    "dk_statuses": [
+        {
+            "status": "NEUTRAL", 
+            "statusDetail": "NOT_SIGNED"
+        }
+    ], 
+    "dkim_count": 0, 
+    "dkim_efrom_match": 0, 
+    "dkim_hfrom_match": 0, 
+    "dkim_passed_count": 0, 
+    "dkim_signs_cnt": 1, 
+    "dkstatus": "NEUTRAL", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/15ba0ffd49a9206241a2e564d19f591b.eml", 
+    "extractedEmails": [
+        "info@bexte.cz", 
+        "3gc@seznam.cz"
+    ], 
+    "extractedEmailsCardinality": 2, 
+    "extractedEmailsDomainCount": 2, 
+    "extractedEmailsTotalCount": 2, 
+    "extractedHrefUrls": [], 
+    "extractedSrcUrls": [], 
+    "extractedTxtUrls": [
+        "http://www.bexte.cz", 
+        "http://www.eset.cz"
+    ], 
+    "extractedTxtUrlsCardinality": 2, 
+    "extractedTxtUrlsDomainCount": 2, 
+    "extractedTxtUrlsTotalCount": 2, 
+    "first10words": " Tak druhy pokus jen to zaokrouhleni je jine Tak konecne snad OK Kontaktni adresa Bexte s r o Karlovarska 814 115 Praha 6 16100 Ic ", 
+    "from_match": 0, 
+    "header_from": "info@bexte.cz", 
+    "header_from_count": 1, 
+    "header_reply_to_count": 0, 
+    "header_total_count": 16, 
+    "html_in_text_plain_count": 0, 
+    "html_script_tag_count": 0, 
+    "html_tag_total_count": 0, 
+    "html_td_tag_count": 0, 
+    "html_tr_tag_count": 0, 
+    "lang": "cs", 
+    "last10words": " Informace od ESET NOD32 Antivirus verze databaze 10877 20141215 Tuto zpravu proveril ESET NOD32 Antivirus http www eset cz", 
+    "list_unsubscribe_http_count": 0, 
+    "list_unsubscribe_invalid_count": 0, 
+    "list_unsubscribe_mailto_count": 0, 
+    "list_unsubscribe_total_count": 0, 
+    "mime_children_count": 2, 
+    "mime_children_types": [
+        "text/plain", 
+        "application/pdf"
+    ], 
+    "mime_root_type": "multipart/mixed", 
+    "notches": [
+        {
+            "module": "ill", 
+            "name": [
+                "date_in_past", 
+                "from_missmatch", 
+                "foreign_message_id"
+            ], 
+            "score": 1.1, 
+            "subscores": [
+                1, 
+                0.0, 
+                0.1
+            ]
+        }
+    ], 
+    "now": 1494598191, 
+    "pepca": "p43642fc0a9510565", 
+    "pepca_inline_style": "", 
+    "pepca_inline_style_total": 0, 
+    "pepca_style": "", 
+    "pepca_style_total": 0, 
+    "pepcatotal": 0, 
+    "phashes": [
+        {
+            "name": "att-pepca", 
+            "value": "p2212ec5bad7628be"
+        }, 
+        {
+            "name": "pepca", 
+            "value": "p43642fc0a9510565"
+        }
+    ], 
+    "phish_score": 0, 
+    "phishing": {
+        "body_richness": 0.122473246135553, 
+        "camouflage": 0, 
+        "fake_https": 0, 
+        "html_form": 0, 
+        "is_html": false, 
+        "max_num_dots_urls": 2, 
+        "max_num_slashes_urls": 0, 
+        "num_black_sheep_link": -1, 
+        "num_black_sheep_link_global": -1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_external_links": 0, 
+        "num_freehost_urls": 0, 
+        "num_html_script_tags": 0, 
+        "num_https_urls": 0, 
+        "num_ip_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "num_of_chars": 840, 
+        "num_param_phish": 0, 
+        "num_path_phish": 0, 
+        "num_phish_keywords": 0, 
+        "num_sender_diff_url": 1, 
+        "num_shortened_urls": 0, 
+        "num_subdomain_phish": 0, 
+        "num_text_forms": 1, 
+        "num_tld_in_url_path": 0, 
+        "num_www_in_url_path": 0, 
+        "subject_phish_keywords": 0, 
+        "subject_richness": 0.153846153846154, 
+        "suspicious_links": [], 
+        "text_and_href": 0, 
+        "text_link_with_path": 0
+    }, 
+    "precedence": 3, 
+    "rcpts_count": 1, 
+    "rfcid_is_foreign": 1, 
+    "rfcid_is_invalid": false, 
+    "rfcid_length": 41, 
+    "self_send": 0, 
+    "senders": {
+        "cnt-pow4_w_duc": "", 
+        "cnt-pow4_w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "domain_keywords": "eset", 
+        "domain_keywords_detail": [
+            {
+                "confidence": 29603362.287426, 
+                "domain": "eset"
+            }
+        ], 
+        "ettf_w_duc": "", 
+        "ettf_w_duc_detail": [], 
+        "idf": "", 
+        "idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "log_cnt-w_duc_detail": [], 
+        "log_cnt_idf": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "log_ecnt_idf": "", 
+        "log_ecnt_idf_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "log_ecnt_log_idf_log_tidf": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "plain_domain": "eset", 
+        "plain_domain_detail": [
+            {
+                "confidence": 1, 
+                "domain": "eset"
+            }, 
+            {
+                "confidence": 1, 
+                "domain": "bexte"
+            }
+        ], 
+        "src_revert": "", 
+        "src_revert_detail": [], 
+        "tf_log_idf": "", 
+        "tf_log_idf_detail": [], 
+        "ttf_w_duc": "", 
+        "ttf_w_duc_detail": []
+    }, 
+    "spamscore": 1.1, 
+    "spamtrap_hit": false, 
+    "spf_dom_policy_registry": "Policy not found", 
+    "spf_domain_policy": "UNKNOWN", 
+    "spf_status_registry": "Status not found", 
+    "spfstatus": "NONE", 
+    "spfstatus_hfrom": "SPF_NONE", 
+    "subject": "Re Faktura c 140100164", 
+    "subject_image_count": 0, 
+    "subject_word_count": 4, 
+    "word_count": 103
+}

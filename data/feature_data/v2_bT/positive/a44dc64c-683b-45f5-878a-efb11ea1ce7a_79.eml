@@ -1,0 +1,214 @@
+{
+    "date_difference": -370772104,
+    "html_td_tag_count": 37,
+    "list_unsubscribe_total_count": 0,
+    "precedence": 3,
+    "spfstatus_hfrom": "SPF_SOFTFAIL",
+    "dkim_passed_count": 0,
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "evil_script",
+                "from_missmatch",
+                "html_a_href_camouflaging"
+            ],
+            "score": 1.2,
+            "module": "ill"
+        }
+    ],
+    "extractedHrefUrlsDomainCount": 2,
+    "first10words": " eBay Suspension Need Help Dear value",
+    "word_count": 302,
+    "pepca": "p020c596d16f6a6c6",
+    "extractedSrcUrlsDomainCount": 1,
+    "last10words": "perty of their respective owners Use of this Web site constitutes acceptance of the eBay User Agreement and Privacy Policy ",
+    "extractedTxtUrlsDomainCount": 1,
+    "pepcatotal": 0,
+    "pepca_style_total": 0,
+    "extractedEmails": [],
+    "mime_root_type": "multipart/related",
+    "extractedEmailsCardinality": 0,
+    "extractedHrefUrlsTotalCount": 5,
+    "html_tr_tag_count": 28,
+    "pepca_style": "",
+    "dkStatusDetail": "NOT_SIGNED",
+    "header_from_count": 1,
+    "header_total_count": 24,
+    "dk_statuses": [
+        {
+            "status": "NEUTRAL",
+            "statusDetail": "NOT_SIGNED"
+        }
+    ],
+    "ahref_camouflage_count": 1,
+    "extractedSrcUrlsTotalCount": 5,
+    "html_tag_total_count": 188,
+    "header_reply_to_count": 1,
+    "extractedEmailsDomainCount": 0,
+    "dkim_hfrom_match": 0,
+    "dkstatus": "NEUTRAL",
+    "ahref_total_count": 4,
+    "subject_image_count": 0,
+    "extractedTxtUrlsCardinality": 1,
+    "spf_domain_policy": "UNKNOWN",
+    "spf_status_registry": "Status not found",
+    "rfcid_is_foreign": 0,
+    "content": "CONTENT_DEFAULT",
+    "extractedSrcUrls": [
+        "http://pics.ebaystatic.com/aw/pics/spacer.gif",
+        "http://pics.ebaystatic.com/aw/pics/register/HeaderRegister_387x40.gif",
+        "http://pics.ebaystatic.com/aw/pics/sitewide/leftLine_16x3.gif",
+        "http://pics.ebaystatic.com/aw/pics/listings/questionMark_14x14.gif",
+        "http://pics.ebaystatic.com/aw/pics/truste_button.gif"
+    ],
+    "lang": "en",
+    "extractedTxtUrls": [
+        "http://cgi1.ebay.com/aw-cgi/ebayISAPI.dll?UPdate"
+    ],
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/79.eml",
+    "spamscore": 1.2,
+    "attachments": [],
+    "extractedSrcUrlsCardinality": 5,
+    "from_match": 0,
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p020c596d16f6a6c6"
+        }
+    ],
+    "extractedHrefUrls": [
+        "http://pages.ebay.com/",
+        "http://pages.ebay.com/help/new/signin.html",
+        "http://cgi1-update09.zap3x.com/eBayISAPIdllSignIn_favoritenavid.uproduct.ppco_partnerId2ru.http_my.ebay.com_80_Fws2FeBayISAPI.dl",
+        "http://pages.ebay.com/help/policies/user-agreement.html",
+        "http://pages.ebay.com/help/policies/privacy-policy.html"
+    ],
+    "pepca_inline_style": "",
+    "pepca_inline_style_total": 0,
+    "self_send": 0,
+    "now": 1494597925,
+    "mime_children_count": 1,
+    "ahref_verbal_count": 3,
+    "extractedTxtUrlsTotalCount": 1,
+    "subject_word_count": 4,
+    "rcpts_count": 1,
+    "dkim_count": 0,
+    "rfcid_is_invalid": false,
+    "header_from": "aw-confirm@ebay.com",
+    "list_unsubscribe_mailto_count": 0,
+    "rfcid_length": 38,
+    "html_in_text_plain_count": 0,
+    "extractedHrefUrlsCardinality": 5,
+    "html_script_tag_count": 2,
+    "dkim_efrom_match": 0,
+    "adscore": 0,
+    "mime_children_types": [
+        "text/html"
+    ],
+    "dkim_signs_cnt": 1,
+    "spfstatus": "NONE",
+    "extractedEmailsTotalCount": 0,
+    "spamtrap_hit": false,
+    "spf_dom_policy_registry": "Policy not found",
+    "list_unsubscribe_http_count": 0,
+    "phishing": {
+        "body_richness": 0.23159509202454,
+        "num_black_sheep_link": -1,
+        "subject_richness": 0.0952380952380952,
+        "max_num_slashes_urls": 3,
+        "num_https_urls": 0,
+        "camouflage": 1,
+        "ner_domain_detected": true,
+        "html_form": 0,
+        "num_subdomain_phish": 0,
+        "num_external_links": 10,
+        "fake_https": 0,
+        "5_top_domains_id_0": 0,
+        "num_html_script_tags": 0,
+        "num_freehost_urls": 0,
+        "num_phish_keywords": 13,
+        "suspicious_links": [],
+        "num_sender_diff_url": 1,
+        "text_and_href": 0,
+        "subject_phish_keywords": 0,
+        "num_www_in_url_path": 0,
+        "num_domain_phish": 0,
+        "5_top_domains_percent_0": 1.0,
+        "num_of_chars": 1303,
+        "num_ip_urls": 0,
+        "num_path_phish": 0,
+        "num_param_phish": 0,
+        "max_num_dots_urls": 13,
+        "num_tld_in_url_path": 0,
+        "is_html": true,
+        "num_black_sheep_link_phish": 0,
+        "num_non_80_port_urls": 0,
+        "num_text_forms": 7,
+        "num_black_sheep_link_global": -1,
+        "text_link_with_path": 1,
+        "num_shortened_urls": 0
+    },
+    "senders": {
+        "domain_keywords": "ebay",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "idf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt-pow4_w_duc": "",
+        "plain_domain_detail": [
+            {
+                "domain": "ebay",
+                "confidence": 1
+            }
+        ],
+        "log_cnt-pow_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "tf_log_idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "plain_domain": "ebay",
+        "domain_keywords_detail": [
+            {
+                "domain": "ebay",
+                "confidence": 3639049601.92075
+            }
+        ],
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt_idf": "",
+        "tf_log_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "ebay",
+                "confidence": 5
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_cnt-w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert": "ebay"
+    },
+    "phish_score": 0,
+    "subject": " Urgent Safeharbor Department Notice ",
+    "list_unsubscribe_invalid_count": 0
+}

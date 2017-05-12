@@ -1,0 +1,218 @@
+{
+    "adscore": 0, 
+    "ahref_camouflage_count": 2, 
+    "ahref_total_count": 7, 
+    "ahref_verbal_count": 2, 
+    "attachments": [], 
+    "content": "CONTENT_DEFAULT", 
+    "date_difference": -79555493, 
+    "dkStatusDetail": "NOT_SIGNED", 
+    "dk_statuses": [
+        {
+            "status": "NEUTRAL", 
+            "statusDetail": "NOT_SIGNED"
+        }
+    ], 
+    "dkim_count": 0, 
+    "dkim_efrom_match": 0, 
+    "dkim_hfrom_match": 0, 
+    "dkim_passed_count": 0, 
+    "dkim_signs_cnt": 1, 
+    "dkstatus": "NEUTRAL", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/3b28c06e8ea8171f6577124ba5f5811b.eml", 
+    "extractedEmails": [], 
+    "extractedEmailsCardinality": 0, 
+    "extractedEmailsDomainCount": 0, 
+    "extractedEmailsTotalCount": 0, 
+    "extractedHrefUrls": [
+        "http://tn.nova.cz/", 
+        "http://tv.nova.cz/", 
+        "http://blog.cz/", 
+        "http://galerie.cz/", 
+        "http://tv.nova.cz/registrace/aktivace-uctu/terezadrhlikova/196c7b77a77ad26ad769860a252c04921353cc57?confirm=8c8c7171ad2a62ade74c"
+    ], 
+    "extractedHrefUrlsCardinality": 6, 
+    "extractedHrefUrlsDomainCount": 3, 
+    "extractedHrefUrlsTotalCount": 6, 
+    "extractedSrcUrls": [], 
+    "extractedTxtUrls": [
+        "http://Voyo.cz", 
+        "http://TN.cz", 
+        "http://Nova.cz", 
+        "http://Blog.cz", 
+        "http://Galerie.cz"
+    ], 
+    "extractedTxtUrlsCardinality": 6, 
+    "extractedTxtUrlsDomainCount": 5, 
+    "extractedTxtUrlsTotalCount": 6, 
+    "first10words": " Potvrzeni registrace uzivatelskeho uctu Touto emailovou zpravou potvrzujeme registraci Vaseho uzivatelskeho uctu na internetov", 
+    "from_match": 0, 
+    "header_from": "no-reply@nova.cz", 
+    "header_from_count": 1, 
+    "header_reply_to_count": 0, 
+    "header_total_count": 12, 
+    "html_in_text_plain_count": 0, 
+    "html_script_tag_count": 0, 
+    "html_tag_total_count": 38, 
+    "html_td_tag_count": 0, 
+    "html_tr_tag_count": 0, 
+    "lang": "cs", 
+    "last10words": "ttp tv nova cz registrace aktivace uctu terezadrhlikova 196c7b77a77ad26ad769860a252c04921353cc57 confirm 8c8c7171ad2a62ade74cfa6b68fb793b37274336 ", 
+    "list_unsubscribe_http_count": 0, 
+    "list_unsubscribe_invalid_count": 0, 
+    "list_unsubscribe_mailto_count": 0, 
+    "list_unsubscribe_total_count": 0, 
+    "mime_children_count": 2, 
+    "mime_children_types": [
+        "text/plain", 
+        "text/html"
+    ], 
+    "mime_root_type": "multipart/alternative", 
+    "notches": [
+        {
+            "module": "ill", 
+            "name": [
+                "date_in_past", 
+                "from_missmatch", 
+                "html_a_href_camouflaging", 
+                "foreign_message_id"
+            ], 
+            "score": 1.2, 
+            "subscores": [
+                1, 
+                0.0, 
+                0.1, 
+                0.1
+            ]
+        }
+    ], 
+    "now": 1494598239, 
+    "pepca": "p09b003929ce3c5d3", 
+    "pepca_inline_style": "", 
+    "pepca_inline_style_total": 0, 
+    "pepca_style": "", 
+    "pepca_style_total": 0, 
+    "pepcatotal": 0, 
+    "phashes": [
+        {
+            "name": "pepca", 
+            "value": "p09b003929ce3c5d3"
+        }
+    ], 
+    "phish_score": 0, 
+    "phishing": {
+        "body_richness": 0.107095046854083, 
+        "camouflage": 1, 
+        "fake_https": 0, 
+        "html_form": 0, 
+        "is_html": true, 
+        "max_num_dots_urls": 2, 
+        "max_num_slashes_urls": 4, 
+        "num_black_sheep_link": -1, 
+        "num_black_sheep_link_global": -1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_external_links": 5, 
+        "num_freehost_urls": 0, 
+        "num_html_script_tags": 0, 
+        "num_https_urls": 0, 
+        "num_ip_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "num_of_chars": 746, 
+        "num_param_phish": 0, 
+        "num_path_phish": 0, 
+        "num_phish_keywords": 11, 
+        "num_sender_diff_url": 4, 
+        "num_shortened_urls": 0, 
+        "num_subdomain_phish": 0, 
+        "num_text_forms": 0, 
+        "num_tld_in_url_path": 0, 
+        "num_www_in_url_path": 0, 
+        "subject_phish_keywords": 1, 
+        "subject_richness": 0.0909090909090909, 
+        "suspicious_links": [], 
+        "text_and_href": 1, 
+        "text_link_with_path": 1
+    }, 
+    "precedence": 3, 
+    "rcpts_count": 1, 
+    "rfcid_is_foreign": 1, 
+    "rfcid_is_invalid": false, 
+    "rfcid_length": 54, 
+    "self_send": 0, 
+    "senders": {
+        "cnt-pow4_w_duc": "", 
+        "cnt-pow4_w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "domain_keywords": "cme-network", 
+        "domain_keywords_detail": [
+            {
+                "confidence": 31165594.9323755, 
+                "domain": "cme-network"
+            }
+        ], 
+        "ettf_w_duc": "", 
+        "ettf_w_duc_detail": [], 
+        "idf": "", 
+        "idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "log_cnt-w_duc_detail": [], 
+        "log_cnt_idf": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "log_ecnt_idf": "", 
+        "log_ecnt_idf_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "log_ecnt_log_idf_log_tidf": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "plain_domain": "blog", 
+        "plain_domain_detail": [
+            {
+                "confidence": 2, 
+                "domain": "blog"
+            }, 
+            {
+                "confidence": 2, 
+                "domain": "galerie"
+            }, 
+            {
+                "confidence": 1, 
+                "domain": "voyo"
+            }, 
+            {
+                "confidence": 4, 
+                "domain": "nova"
+            }, 
+            {
+                "confidence": 1, 
+                "domain": "tn"
+            }
+        ], 
+        "src_revert": "", 
+        "src_revert_detail": [], 
+        "tf_log_idf": "", 
+        "tf_log_idf_detail": [], 
+        "ttf_w_duc": "", 
+        "ttf_w_duc_detail": []
+    }, 
+    "spamscore": 1.2, 
+    "spamtrap_hit": false, 
+    "spf_dom_policy_registry": "Policy not found", 
+    "spf_domain_policy": "UNKNOWN", 
+    "spf_status_registry": "Status not found", 
+    "spfstatus": "NONE", 
+    "spfstatus_hfrom": "SPF_FAIL", 
+    "subject": "Potvrzeni registrace", 
+    "subject_image_count": 0, 
+    "subject_word_count": 2, 
+    "word_count": 80
+}

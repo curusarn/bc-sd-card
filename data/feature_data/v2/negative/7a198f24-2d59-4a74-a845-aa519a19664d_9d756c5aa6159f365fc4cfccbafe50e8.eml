@@ -1,0 +1,209 @@
+{
+    "adscore": 0, 
+    "ahref_camouflage_count": 0, 
+    "ahref_total_count": 3, 
+    "ahref_verbal_count": 3, 
+    "attachments": [], 
+    "contains_list_header": true, 
+    "content": "CONTENT_DEFAULT", 
+    "date_difference": -79996334, 
+    "dk_statuses": [
+        {
+            "domain": "info.nutriklub.sk", 
+            "selector": "spop1024", 
+            "status": "PASS"
+        }
+    ], 
+    "dkdomain": "info.nutriklub.sk", 
+    "dkim_count": 1, 
+    "dkim_efrom_match": 0, 
+    "dkim_hfrom_match": 1, 
+    "dkim_passed_count": 1, 
+    "dkim_signs_cnt": 1, 
+    "dkselector": "spop1024", 
+    "dkstatus": "PASS", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/9d756c5aa6159f365fc4cfccbafe50e8.eml", 
+    "extractedEmails": [
+        "info@nutriklub.sk?subject=pomoc%20s%20dokon%C4%8Den%C3%ADm%20registr%C3%A1cie"
+    ], 
+    "extractedEmailsCardinality": 1, 
+    "extractedEmailsDomainCount": 1, 
+    "extractedEmailsTotalCount": 1, 
+    "extractedHrefUrls": [
+        "http://links.danone.mkt6092.com/ctt?kn=3&ms=NDcyOTUwMzES1&r=MTAwMTA1Nzc5NzU0S0&b=0&j=NTQzODAyMjIyS0&mt=1&rt=0", 
+        "http://links.danone.mkt6092.com/servlet/MailView?ms=NDcyOTUwMzES1&r=MTAwMTA1Nzc5NzU0S0&j=NTQzODAyMjIyS0&mt=1&rt=0", 
+        "http://links.danone.mkt6092.com/ctt?kn=5&ms=NDcyOTUwMzES1&r=MTAwMTA1Nzc5NzU0S0&b=0&j=NTQzODAyMjIyS0&mt=2&rj=NTQzODAyMjIyS0&rt=0", 
+        "http://links.danone.mkt6092.com/servlet/OneClickOptOutServlet?m=47295031&r=MTAwMTA1Nzc5NzU0S0&b=0&j=NTQzODAyMjIyS0&mt=1&rt=0"
+    ], 
+    "extractedHrefUrlsCardinality": 4, 
+    "extractedHrefUrlsDomainCount": 1, 
+    "extractedHrefUrlsTotalCount": 4, 
+    "extractedSrcUrls": [
+        "http://contentz.mkt6092.com/ra/2014/54688/10/47295031/nut-nl-profutura-03-cz_03-original.jpg", 
+        "http://contentz.mkt6092.com/ra/2014/54688/10/47295031/dokončiť.png_1.png", 
+        "http://contentz.mkt6092.com/ra/2014/54688/10/47295031/nedokoncena_reg_files_pregnant_05.jpg", 
+        "http://contentz.mkt6092.com/ra/2014/54688/10/47295031/nedokoncena_reg_files_pregnant_25.jpg", 
+        "http://links.danone.mkt6092.com/open/log/47295031/MTAwMTA1Nzc5NzU0S0/0/NTQzODAyMjIyS0/1/0"
+    ], 
+    "extractedSrcUrlsCardinality": 8, 
+    "extractedSrcUrlsDomainCount": 1, 
+    "extractedSrcUrlsTotalCount": 8, 
+    "first10words": " E mail sa nezobrazuje spravne Mila mamicka Jana dakuje", 
+    "from_match": 0, 
+    "header_from": "vase@info.nutriklub.sk", 
+    "header_from_count": 1, 
+    "header_reply_to_count": 1, 
+    "header_total_count": 18, 
+    "html_in_text_plain_count": 0, 
+    "html_script_tag_count": 0, 
+    "html_tag_total_count": 150, 
+    "html_td_tag_count": 44, 
+    "html_tr_tag_count": 26, 
+    "lang": "sk", 
+    "last10words": "ho vek alebo sa spojte s nasimi odbornikmi na live chatu Odhlasit sa z odoberania newslettera ", 
+    "list_unsubscribe_http_count": 0, 
+    "list_unsubscribe_invalid_count": 0, 
+    "list_unsubscribe_mailto_count": 1, 
+    "list_unsubscribe_total_count": 1, 
+    "list_unsubscribe_urls": [
+        "mailto:v-cnbkkdh_bheomepkck_cagjmdgo_cagjmdgo_a@bounce.danone.mkt6092.com?subject=Unsubscribe"
+    ], 
+    "mime_children_count": 1, 
+    "mime_children_types": [
+        "text/html"
+    ], 
+    "mime_root_type": "multipart/alternative", 
+    "notches": [
+        {
+            "module": "ill", 
+            "name": [
+                "date_in_past", 
+                "from_missmatch", 
+                "foreign_message_id"
+            ], 
+            "score": 1.1, 
+            "subscores": [
+                1, 
+                0.0, 
+                0.1
+            ]
+        }
+    ], 
+    "now": 1494598363, 
+    "pepca": "p2833f758abc26526", 
+    "pepca_inline_style": "p109d7cc9c4f31e14", 
+    "pepca_inline_style_total": 0, 
+    "pepca_style": "", 
+    "pepca_style_total": 0, 
+    "pepcatotal": 0, 
+    "phashes": [
+        {
+            "name": "pepca", 
+            "value": "p2833f758abc26526"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "p109d7cc9c4f31e14"
+        }
+    ], 
+    "phish_score": 0, 
+    "phishing": {
+        "body_richness": 0.252927400468384, 
+        "camouflage": 0, 
+        "fake_https": 0, 
+        "html_form": 0, 
+        "is_html": true, 
+        "max_num_dots_urls": 3, 
+        "max_num_slashes_urls": 2, 
+        "num_black_sheep_link": -1, 
+        "num_black_sheep_link_global": -1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_external_links": 9, 
+        "num_freehost_urls": 0, 
+        "num_html_script_tags": 0, 
+        "num_https_urls": 0, 
+        "num_ip_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "num_of_chars": 853, 
+        "num_param_phish": 0, 
+        "num_path_phish": 0, 
+        "num_phish_keywords": 0, 
+        "num_sender_diff_url": 1, 
+        "num_shortened_urls": 0, 
+        "num_subdomain_phish": 0, 
+        "num_text_forms": 1, 
+        "num_tld_in_url_path": 0, 
+        "num_www_in_url_path": 0, 
+        "subject_phish_keywords": 0, 
+        "subject_richness": 0.114754098360656, 
+        "suspicious_links": [], 
+        "text_and_href": 0, 
+        "text_link_with_path": 0
+    }, 
+    "precedence": 3, 
+    "rcpts_count": 1, 
+    "rfcid_is_foreign": 1, 
+    "rfcid_is_invalid": false, 
+    "rfcid_length": 58, 
+    "self_send": 0, 
+    "senders": {
+        "cnt-pow4_w_duc": "", 
+        "cnt-pow4_w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "domain_keywords": "silesnet", 
+        "domain_keywords_detail": [
+            {
+                "confidence": 13416305.45048, 
+                "domain": "silesnet"
+            }
+        ], 
+        "ettf_w_duc": "", 
+        "ettf_w_duc_detail": [], 
+        "idf": "", 
+        "idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "log_cnt-w_duc_detail": [], 
+        "log_cnt_idf": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "log_ecnt_idf": "", 
+        "log_ecnt_idf_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "log_ecnt_log_idf_log_tidf": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "plain_domain": "", 
+        "plain_domain_detail": [], 
+        "src_revert": "nutriklub", 
+        "src_revert_detail": [
+            {
+                "confidence": 8, 
+                "domain": "nutriklub"
+            }
+        ], 
+        "tf_log_idf": "", 
+        "tf_log_idf_detail": [], 
+        "ttf_w_duc": "", 
+        "ttf_w_duc_detail": []
+    }, 
+    "spamscore": 1.1, 
+    "spamtrap_hit": false, 
+    "spf_dom_policy_registry": "Policy not found", 
+    "spf_domain_policy": "UNKNOWN", 
+    "spf_status_registry": "Status not found", 
+    "spfstatus": "NONE", 
+    "spfstatus_hfrom": "SPF_FAIL", 
+    "subject": "Dokoncete registraci a ziskejte vyhody Nutriklubu ZDARMA ", 
+    "subject_image_count": 0, 
+    "subject_word_count": 7, 
+    "word_count": 216
+}

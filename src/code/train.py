@@ -43,6 +43,17 @@ def load_data():
                 phish = d.get("phishing", {})
                 if "suspicious_links" in phish:
                     phish.pop("suspicious_links")
+                phish.update({
+                    "extractedHrefUrlsDomainCount":
+                        d.get("extractedHrefUrlsDomainCount", 0),
+                    "extractedHrefUrlsTotalCount":
+                        d.get("extractedHrefUrlsTotalCount", 0),
+                    "extractedSrcUrlsDomainCount":
+                        d.get("extractedSrcUrlsDomainCount", 0),
+                    "extractedSrcUrlsTotalCount":
+                        d.get("extractedSrcUrlsTotalCount", 0),
+                    "word_count": d.get("word_count", 0),
+                })
                 data.append((phish, cls))
             except Exception as e:
                 print(e, file=sys.stderr)

@@ -1,0 +1,219 @@
+{
+    "adscore": 0, 
+    "ahref_camouflage_count": 0, 
+    "ahref_total_count": 5, 
+    "ahref_verbal_count": 4, 
+    "attachments": [], 
+    "content": "CONTENT_DEFAULT", 
+    "date_difference": -84870684, 
+    "dk_statuses": [
+        {
+            "domain": "slevomat.cz", 
+            "selector": "dkim", 
+            "status": "PASS"
+        }
+    ], 
+    "dkdomain": "slevomat.cz", 
+    "dkim_count": 1, 
+    "dkim_efrom_match": 0, 
+    "dkim_hfrom_match": 1, 
+    "dkim_passed_count": 1, 
+    "dkim_signs_cnt": 1, 
+    "dkselector": "dkim", 
+    "dkstatus": "PASS", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/244599.eml", 
+    "extractedEmails": [], 
+    "extractedEmailsCardinality": 0, 
+    "extractedEmailsDomainCount": 0, 
+    "extractedEmailsTotalCount": 0, 
+    "extractedHrefUrls": [
+        "https://www.slevomat.cz/?utm_medium=email&utm_source=vouchers&utm_campaign=vouchers&nt_id=1442743865&nt_h=ebfef7a89e14258ebeb6ae", 
+        "https://www.slevomat.cz/voucher/5784a40d3b24683b750802d2d82f1a63?nt_id=1442743865&nt_h=ebfef7a89e14258ebeb6ae2cf646a63fbe2b6a71&", 
+        "https://www.slevomat.cz/voucher/346d4fa3ba5724b6990e14299b02f52f?nt_id=1442743865&nt_h=ebfef7a89e14258ebeb6ae2cf646a63fbe2b6a71&", 
+        "https://www.slevomat.cz/ucet?utm_medium=email&utm_source=vouchers&utm_campaign=vouchers&nt_id=1442743865&nt_h=ebfef7a89e14258ebe", 
+        "https://www.slevomat.cz/kontakt?utm_medium=email&utm_source=vouchers&utm_campaign=vouchers&nt_id=1442743865&nt_h=ebfef7a89e14258"
+    ], 
+    "extractedHrefUrlsCardinality": 5, 
+    "extractedHrefUrlsDomainCount": 1, 
+    "extractedHrefUrlsTotalCount": 5, 
+    "extractedSrcUrls": [
+        "https://slevomat.sgcdn.cz/static/images/logo-email-s.png", 
+        "https://www.slevomat.cz/notification/read/1442743865?hash=ebfef7a89e14258ebeb6ae2cf646a63fbe2b6a71", 
+        "https://slevomat.sgcdn.cz/images/t/240/31/14/3114265-1145d2.jpg", 
+        "https://slevomat.sgcdn.cz/images/t/240/31/05/3105713-4bbfec.jpg"
+    ], 
+    "extractedSrcUrlsCardinality": 4, 
+    "extractedSrcUrlsDomainCount": 2, 
+    "extractedSrcUrlsTotalCount": 4, 
+    "extractedTxtUrls": [
+        "http://Slevomat.cz"
+    ], 
+    "extractedTxtUrlsCardinality": 1, 
+    "extractedTxtUrlsDomainCount": 1, 
+    "extractedTxtUrlsTotalCount": 1, 
+    "first10words": " Vas voucher Hezky den Dito Dekujeme za vas nakup Nize vam posilame shrnuti objednavky Vouchery a ", 
+    "from_match": 0, 
+    "header_from": "neodpovidejte@slevomat.cz", 
+    "header_from_count": 1, 
+    "header_reply_to_count": 0, 
+    "header_total_count": 16, 
+    "html_in_text_plain_count": 0, 
+    "html_script_tag_count": 0, 
+    "html_tag_total_count": 94, 
+    "html_td_tag_count": 10, 
+    "html_tr_tag_count": 6, 
+    "lang": "cs", 
+    "last10words": "il a SMS zpravu Vas Slevomat cz Zijte bohatsi zivot Mate dotaz Radi vam pomuzeme Prosim kontaktujte nas ", 
+    "list_unsubscribe_http_count": 0, 
+    "list_unsubscribe_invalid_count": 0, 
+    "list_unsubscribe_mailto_count": 0, 
+    "list_unsubscribe_total_count": 0, 
+    "mime_children_count": 2, 
+    "mime_children_types": [
+        "text/plain", 
+        "text/html"
+    ], 
+    "mime_root_type": "multipart/alternative", 
+    "notches": [
+        {
+            "module": "ill", 
+            "name": [
+                "date_in_past", 
+                "from_missmatch", 
+                "foreign_message_id"
+            ], 
+            "score": 1.1, 
+            "subscores": [
+                1, 
+                0.0, 
+                0.1
+            ]
+        }
+    ], 
+    "now": 1494598204, 
+    "pepca": "p6e67663b1a7acc42", 
+    "pepca_inline_style": "pf37e8addf78598d9", 
+    "pepca_inline_style_total": 0, 
+    "pepca_style": "pf6729eb342bdc4bf", 
+    "pepca_style_total": 4, 
+    "pepcatotal": 0, 
+    "phashes": [
+        {
+            "name": "pepca", 
+            "value": "p6e67663b1a7acc42"
+        }, 
+        {
+            "name": "pepca_style", 
+            "value": "pf6729eb342bdc4bf"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "pf37e8addf78598d9"
+        }
+    ], 
+    "phish_score": 0, 
+    "phishing": {
+        "body_richness": 0.171314741035857, 
+        "camouflage": 0, 
+        "fake_https": 0, 
+        "html_form": 0, 
+        "is_html": true, 
+        "max_num_dots_urls": 2, 
+        "max_num_slashes_urls": 2, 
+        "num_black_sheep_link": -1, 
+        "num_black_sheep_link_global": -1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_external_links": 9, 
+        "num_freehost_urls": 0, 
+        "num_html_script_tags": 0, 
+        "num_https_urls": 9, 
+        "num_ip_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "num_of_chars": 1003, 
+        "num_param_phish": 0, 
+        "num_path_phish": 0, 
+        "num_phish_keywords": 0, 
+        "num_sender_diff_url": 0, 
+        "num_shortened_urls": 0, 
+        "num_subdomain_phish": 0, 
+        "num_text_forms": 2, 
+        "num_tld_in_url_path": 0, 
+        "num_www_in_url_path": 0, 
+        "subject_phish_keywords": 0, 
+        "subject_richness": 0.142857142857143, 
+        "suspicious_links": [], 
+        "text_and_href": 0, 
+        "text_link_with_path": 0
+    }, 
+    "precedence": 3, 
+    "rcpts_count": 1, 
+    "rfcid_is_foreign": 1, 
+    "rfcid_is_invalid": false, 
+    "rfcid_length": 26, 
+    "self_send": 0, 
+    "senders": {
+        "cnt-pow4_w_duc": "", 
+        "cnt-pow4_w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "domain_keywords": "masterinter", 
+        "domain_keywords_detail": [
+            {
+                "confidence": 25491228.990176, 
+                "domain": "masterinter"
+            }
+        ], 
+        "ettf_w_duc": "", 
+        "ettf_w_duc_detail": [], 
+        "idf": "", 
+        "idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "log_cnt-w_duc_detail": [], 
+        "log_cnt_idf": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "log_ecnt_idf": "", 
+        "log_ecnt_idf_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "log_ecnt_log_idf_log_tidf": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "plain_domain": "slevomat", 
+        "plain_domain_detail": [
+            {
+                "confidence": 1, 
+                "domain": "slevomat"
+            }
+        ], 
+        "src_revert": "slevomat", 
+        "src_revert_detail": [
+            {
+                "confidence": 4, 
+                "domain": "slevomat"
+            }
+        ], 
+        "tf_log_idf": "", 
+        "tf_log_idf_detail": [], 
+        "ttf_w_duc": "", 
+        "ttf_w_duc_detail": []
+    }, 
+    "spamscore": 1.1, 
+    "spamtrap_hit": false, 
+    "spf_dom_policy_registry": "Policy not found", 
+    "spf_domain_policy": "UNKNOWN", 
+    "spf_status_registry": "Status not found", 
+    "spfstatus": "NONE", 
+    "spfstatus_hfrom": "SPF_NEUTRAL", 
+    "subject": "Vas voucher", 
+    "subject_image_count": 0, 
+    "subject_word_count": 2, 
+    "word_count": 172
+}

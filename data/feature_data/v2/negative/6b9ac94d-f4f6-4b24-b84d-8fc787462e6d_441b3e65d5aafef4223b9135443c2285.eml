@@ -1,0 +1,231 @@
+{
+    "adscore": 0, 
+    "ahref_camouflage_count": 0, 
+    "ahref_total_count": 3, 
+    "ahref_verbal_count": 2, 
+    "attachments": [], 
+    "contains_list_header": true, 
+    "content": "CONTENT_DEFAULT", 
+    "date_difference": -80076952, 
+    "dk_statuses": [
+        {
+            "domain": "mail134-15.atl141.mandrillapp.com", 
+            "selector": "mandrill", 
+            "status": "PASS"
+        }, 
+        {
+            "domain": "mandrillapp.com", 
+            "selector": "mandrill", 
+            "status": "PASS"
+        }
+    ], 
+    "dkdomain": "mail134-15.atl141.mandrillapp.com", 
+    "dkim_count": 2, 
+    "dkim_efrom_match": 0, 
+    "dkim_hfrom_match": 0, 
+    "dkim_passed_count": 2, 
+    "dkim_signs_cnt": 2, 
+    "dkselector": "mandrill", 
+    "dkstatus": "PASS", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/441b3e65d5aafef4223b9135443c2285.eml", 
+    "extractedEmails": [
+        "tklimitededition@seznam.cz"
+    ], 
+    "extractedEmailsCardinality": 1, 
+    "extractedEmailsDomainCount": 1, 
+    "extractedEmailsTotalCount": 1, 
+    "extractedHrefUrls": [
+        "http://mandrillapp.com/track/click/30191547/www.fitmaster.info?p=eyJzIjoiS0hDTkhMY1ItSmJXSUt1Vm94RGMyNjAwWlFRIiwidiI6MSwicCI6Int", 
+        "http://mandrillapp.com/track/click/30191547/mandrillapp.com?p=eyJzIjoiWlVoblFGU1I4TjMzcnhxaVZicVlfTmtUdmJJIiwidiI6MSwicCI6IntcIn"
+    ], 
+    "extractedHrefUrlsCardinality": 2, 
+    "extractedHrefUrlsDomainCount": 1, 
+    "extractedHrefUrlsTotalCount": 2, 
+    "extractedSrcUrls": [
+        "https://www.fitmaster.info/assets/mail/header-405a085ae6336e743e558e4c19b659d6.jpg", 
+        "http://mandrillapp.com/track/open.php?u=30191547&id=abc0a2ea020f42bf9e89d4567842d347"
+    ], 
+    "extractedSrcUrlsCardinality": 2, 
+    "extractedSrcUrlsDomainCount": 2, 
+    "extractedSrcUrlsTotalCount": 2, 
+    "extractedTxtUrls": [
+        "http://www.fabio-carneiro.com", 
+        "http://www.emailonacid.com/forum/viewthread/43/", 
+        "http://www.campaignmonitor.com/blog/post/3457/media-query-issues-in-yahoo-mail-mobile-email/", 
+        "http://developer.android.com/guide/webapps/targeting.html", 
+        "http://pugetworks.com/2011/04/css-media-queries-for-targeting-different-mobile-devices/"
+    ], 
+    "extractedTxtUrlsCardinality": 7, 
+    "extractedTxtUrlsDomainCount": 7, 
+    "extractedTxtUrlsTotalCount": 7, 
+    "first10words": " Your Message Subject or Title Ahoj Karolina Niekto si vyziadal email na zmenu hesla Mozes tak urobit kliknutim ", 
+    "from_match": 0, 
+    "header_from": "info@fitmaster.info", 
+    "header_from_count": 1, 
+    "header_reply_to_count": 1, 
+    "header_total_count": 21, 
+    "html_in_text_plain_count": 0, 
+    "html_script_tag_count": 0, 
+    "html_tag_total_count": 66, 
+    "html_td_tag_count": 10, 
+    "html_tr_tag_count": 10, 
+    "lang": "sk", 
+    "last10words": "sie a nevytvoris nove This email was sent to tklimitededition seznam cz unsubscribe from this list ", 
+    "list_unsubscribe_http_count": 0, 
+    "list_unsubscribe_invalid_count": 0, 
+    "list_unsubscribe_mailto_count": 1, 
+    "list_unsubscribe_total_count": 1, 
+    "list_unsubscribe_urls": [
+        "mailto:unsubscribe-md_30191547.544fe1d4.v1-abc0a2ea020f42bf9e89d4567842d347@mailin1.us2.mcsv.net?subject=unsub"
+    ], 
+    "mime_children_count": 2, 
+    "mime_children_types": [
+        "text/plain", 
+        "text/html"
+    ], 
+    "mime_root_type": "multipart/alternative", 
+    "notches": [
+        {
+            "module": "ill", 
+            "name": [
+                "date_in_past", 
+                "from_missmatch"
+            ], 
+            "score": 1, 
+            "subscores": [
+                1, 
+                0.0
+            ]
+        }
+    ], 
+    "now": 1494598252, 
+    "pepca": "p7df26612e9a71832", 
+    "pepca_inline_style": "pd2d9ec477068a1a0", 
+    "pepca_inline_style_total": 0, 
+    "pepca_style": "p0e8228717caae920", 
+    "pepca_style_total": 0, 
+    "pepcatotal": 0, 
+    "phashes": [
+        {
+            "name": "pepca", 
+            "value": "p7df26612e9a71832"
+        }, 
+        {
+            "name": "pepca_style", 
+            "value": "p0e8228717caae920"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "pd2d9ec477068a1a0"
+        }
+    ], 
+    "phish_score": 0, 
+    "phishing": {
+        "body_richness": 0.198731501057082, 
+        "camouflage": 0, 
+        "fake_https": 0, 
+        "html_form": 0, 
+        "is_html": true, 
+        "max_num_dots_urls": 3, 
+        "max_num_slashes_urls": 5, 
+        "num_black_sheep_link": -1, 
+        "num_black_sheep_link_global": -1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_external_links": 4, 
+        "num_freehost_urls": 0, 
+        "num_html_script_tags": 0, 
+        "num_https_urls": 2, 
+        "num_ip_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "num_of_chars": 472, 
+        "num_param_phish": 0, 
+        "num_path_phish": 0, 
+        "num_phish_keywords": 2, 
+        "num_sender_diff_url": 8, 
+        "num_shortened_urls": 0, 
+        "num_subdomain_phish": 0, 
+        "num_text_forms": 16, 
+        "num_tld_in_url_path": 0, 
+        "num_www_in_url_path": 0, 
+        "subject_phish_keywords": 0, 
+        "subject_richness": 0.142857142857143, 
+        "suspicious_links": [], 
+        "text_and_href": 0, 
+        "text_link_with_path": 5
+    }, 
+    "precedence": 3, 
+    "rcpts_count": 1, 
+    "rfcid_is_foreign": 0, 
+    "rfcid_is_invalid": false, 
+    "rfcid_length": 81, 
+    "self_send": 0, 
+    "senders": {
+        "cnt-pow4_w_duc": "", 
+        "cnt-pow4_w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "domain_keywords": "aweber", 
+        "domain_keywords_detail": [
+            {
+                "confidence": 95237010.2572346, 
+                "domain": "aweber"
+            }
+        ], 
+        "ettf_w_duc": "", 
+        "ettf_w_duc_detail": [], 
+        "idf": "", 
+        "idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "log_cnt-w_duc_detail": [], 
+        "log_cnt_idf": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "log_ecnt_idf": "", 
+        "log_ecnt_idf_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "log_ecnt_log_idf_log_tidf": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "plain_domain": "fabio-carneiro", 
+        "plain_domain_detail": [
+            {
+                "confidence": 1, 
+                "domain": "fabio-carneiro"
+            }, 
+            {
+                "confidence": 1, 
+                "domain": "mailchimp"
+            }
+        ], 
+        "src_revert": "topsrovnani", 
+        "src_revert_detail": [
+            {
+                "confidence": 1, 
+                "domain": "topsrovnani"
+            }
+        ], 
+        "tf_log_idf": "", 
+        "tf_log_idf_detail": [], 
+        "ttf_w_duc": "", 
+        "ttf_w_duc_detail": []
+    }, 
+    "spamscore": 1, 
+    "spamtrap_hit": false, 
+    "spf_dom_policy_registry": "Policy not found", 
+    "spf_domain_policy": "UNKNOWN", 
+    "spf_status_registry": "Status not found", 
+    "spfstatus": "NONE", 
+    "spfstatus_hfrom": "SPF_NEUTRAL", 
+    "subject": "Instrukcie na obnovu hesla", 
+    "subject_image_count": 0, 
+    "subject_word_count": 4, 
+    "word_count": 94
+}

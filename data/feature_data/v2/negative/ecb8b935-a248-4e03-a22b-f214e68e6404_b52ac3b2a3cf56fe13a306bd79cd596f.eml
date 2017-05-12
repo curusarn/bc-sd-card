@@ -1,0 +1,216 @@
+{
+    "adscore": 0, 
+    "ahref_camouflage_count": 0, 
+    "ahref_total_count": 2, 
+    "ahref_verbal_count": 1, 
+    "attachments": [], 
+    "content": "CONTENT_DEFAULT", 
+    "date_difference": -80167170, 
+    "dk_statuses": [
+        {
+            "domain": "mail1.mcsignup.com", 
+            "selector": "mandrill", 
+            "status": "PASS"
+        }, 
+        {
+            "domain": "mandrillapp.com", 
+            "selector": "mandrill", 
+            "status": "PASS"
+        }
+    ], 
+    "dkdomain": "mail1.mcsignup.com", 
+    "dkim_count": 2, 
+    "dkim_efrom_match": 0, 
+    "dkim_hfrom_match": 0, 
+    "dkim_passed_count": 2, 
+    "dkim_signs_cnt": 2, 
+    "dkselector": "mandrill", 
+    "dkstatus": "PASS", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/b52ac3b2a3cf56fe13a306bd79cd596f.eml", 
+    "extractedEmails": [
+        "tomas.sykora@innovativebusiness.cz"
+    ], 
+    "extractedEmailsCardinality": 1, 
+    "extractedEmailsDomainCount": 1, 
+    "extractedEmailsTotalCount": 1, 
+    "extractedHrefUrls": [
+        "http://innovativebusiness.us8.list-manage.com/subscribe/confirm?u=a1b1e2bab8e08498792208296&id=33fd52fe69&e=8737c0eac0", 
+        "http://www.mailchimp.com/monkey-rewards/?utm_source=freemium_newsletter&utm_medium=email&utm_campaign=monkey_rewards&aid=a1b1e2b"
+    ], 
+    "extractedHrefUrlsCardinality": 2, 
+    "extractedHrefUrlsDomainCount": 2, 
+    "extractedHrefUrlsTotalCount": 2, 
+    "extractedSrcUrls": [
+        "http://cdn-images.mailchimp.com/monkey_rewards/MC_MonkeyReward_15.png"
+    ], 
+    "extractedSrcUrlsCardinality": 1, 
+    "extractedSrcUrlsDomainCount": 1, 
+    "extractedSrcUrlsTotalCount": 1, 
+    "first10words": " Newslettery registrace z webu Prosim potvrdte prihlaseni k odberu Kliknete zde pro potvrzeni Vase", 
+    "from_match": 0, 
+    "header_from": "newsletter@bestonline.cz", 
+    "header_from_count": 1, 
+    "header_reply_to_count": 0, 
+    "header_total_count": 22, 
+    "html_in_text_plain_count": 0, 
+    "html_script_tag_count": 0, 
+    "html_tag_total_count": 90, 
+    "html_td_tag_count": 14, 
+    "html_tr_tag_count": 14, 
+    "lang": "cs", 
+    "last10words": " mate otazky tykajici se teto databaze kontaktujte prosim tomas sykora innovativebusiness cz ", 
+    "list_unsubscribe_http_count": 0, 
+    "list_unsubscribe_invalid_count": 0, 
+    "list_unsubscribe_mailto_count": 0, 
+    "list_unsubscribe_total_count": 0, 
+    "mime_children_count": 2, 
+    "mime_children_types": [
+        "text/plain", 
+        "text/html"
+    ], 
+    "mime_root_type": "multipart/alternative", 
+    "notches": [
+        {
+            "module": "ill", 
+            "name": [
+                "date_in_past", 
+                "from_missmatch"
+            ], 
+            "score": 1, 
+            "subscores": [
+                1, 
+                0.0
+            ]
+        }
+    ], 
+    "now": 1494598390, 
+    "pepca": "p05d18ae58bb2b74d", 
+    "pepca_inline_style": "pb69e1528d1a38d60", 
+    "pepca_inline_style_total": 0, 
+    "pepca_style": "p25dfe2e5dd31555e", 
+    "pepca_style_total": 1, 
+    "pepcatotal": 0, 
+    "phashes": [
+        {
+            "name": "pepca", 
+            "value": "p05d18ae58bb2b74d"
+        }, 
+        {
+            "name": "pepca_style", 
+            "value": "p25dfe2e5dd31555e"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "pb69e1528d1a38d60"
+        }
+    ], 
+    "phish_score": 0, 
+    "phishing": {
+        "body_richness": 0.252032520325203, 
+        "camouflage": 0, 
+        "fake_https": 0, 
+        "html_form": 0, 
+        "is_html": true, 
+        "max_num_dots_urls": 3, 
+        "max_num_slashes_urls": 2, 
+        "num_black_sheep_link": -1, 
+        "num_black_sheep_link_global": -1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_external_links": 3, 
+        "num_freehost_urls": 0, 
+        "num_html_script_tags": 0, 
+        "num_https_urls": 0, 
+        "num_ip_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "num_of_chars": 491, 
+        "num_param_phish": 0, 
+        "num_path_phish": 0, 
+        "num_phish_keywords": 2, 
+        "num_sender_diff_url": 2, 
+        "num_shortened_urls": 0, 
+        "num_subdomain_phish": 0, 
+        "num_text_forms": 7, 
+        "num_tld_in_url_path": 0, 
+        "num_www_in_url_path": 0, 
+        "subject_phish_keywords": 1, 
+        "subject_richness": 0.118421052631579, 
+        "suspicious_links": [], 
+        "text_and_href": 0, 
+        "text_link_with_path": 0
+    }, 
+    "precedence": 3, 
+    "rcpts_count": 1, 
+    "rfcid_is_foreign": 0, 
+    "rfcid_is_invalid": false, 
+    "rfcid_length": 65, 
+    "self_send": 0, 
+    "senders": {
+        "cnt-pow4_w_duc": "", 
+        "cnt-pow4_w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "domain_keywords": "fdb", 
+        "domain_keywords_detail": [
+            {
+                "confidence": 2573237.638131, 
+                "domain": "fdb"
+            }
+        ], 
+        "ettf_w_duc": "", 
+        "ettf_w_duc_detail": [], 
+        "idf": "", 
+        "idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "log_cnt-w_duc_detail": [], 
+        "log_cnt_idf": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "log_ecnt_idf": "", 
+        "log_ecnt_idf_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "log_ecnt_log_idf_log_tidf": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "plain_domain": "", 
+        "plain_domain_detail": [], 
+        "src_revert": "sam73", 
+        "src_revert_detail": [
+            {
+                "confidence": 1, 
+                "domain": "sam73"
+            }
+        ], 
+        "tf_log_idf": "", 
+        "tf_log_idf_detail": [], 
+        "ttf_w_duc": "", 
+        "ttf_w_duc_detail": []
+    }, 
+    "spamscore": 1, 
+    "spamtrap_hit": false, 
+    "spf_dom_policy_registry": "Policy not found", 
+    "spf_domain_policy": "UNKNOWN", 
+    "spf_status_registry": "Status not found", 
+    "spfstatus": "NONE", 
+    "spfstatus_hfrom": "SPF_SOFTFAIL", 
+    "subject": "Newslettery registrace z webu Prosim potvrdte prihlaseni k odberu", 
+    "subject_image_count": 0, 
+    "subject_word_count": 9, 
+    "unsub_link": "http://www.mailchimp.com/monkey-rewards/?utm_source=freemium_newsletter&utm_medium=email&utm_campaign=monkey_rewards&aid=a1b1e2bab8e08498792208296&afl=1", 
+    "unsub_link_candidates": [
+        "http://innovativebusiness.us8.list-manage.com/subscribe/confirm?u=a1b1e2bab8e08498792208296&id=33fd52fe69&e=8737c0eac0", 
+        "http://www.mailchimp.com/monkey-rewards/?utm_source=freemium_newsletter&utm_medium=email&utm_campaign=monkey_rewards&aid=a1b1e2bab8e08498792208296&afl=1"
+    ], 
+    "unsub_link_texts": [
+        "prosit potvrdit prihlaseni k odber kliknout zde pro potvrzeni vas prihlaseni do nas databaze pokud byt tento email obdrzet omylem smazit jej", 
+        " email marketing powered by mailchimp mailchimp email marketing "
+    ], 
+    "word_count": 124
+}

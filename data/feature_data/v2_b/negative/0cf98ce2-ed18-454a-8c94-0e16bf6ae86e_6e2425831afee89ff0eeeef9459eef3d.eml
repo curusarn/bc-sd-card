@@ -1,0 +1,245 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ]
+        }
+    ],
+    "extractedTxtUrls": [
+        "http://www.jipka.cz",
+        "http://www.facebook.com/jipka"
+    ],
+    "spfstatus": "NONE",
+    "mime_root_type": "multipart/mixed",
+    "header_from_count": 1,
+    "now": 1494598309,
+    "dkim_efrom_match": 0,
+    "pepca_inline_style_total": 0,
+    "rcpts_count": 1,
+    "extractedEmailsTotalCount": 2,
+    "pepca_inline_style": "pb2e132af6d9c6e77",
+    "pepca_style_total": 0,
+    "dkim_hfrom_match": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/6e2425831afee89ff0eeeef9459eef3d.eml",
+    "html_td_tag_count": 0,
+    "extractedHrefUrlsCardinality": 2,
+    "list_unsubscribe_mailto_count": 0,
+    "subject_word_count": 3,
+    "lang": "cs",
+    "precedence": 3,
+    "phishing": {
+        "num_html_script_tags": 0,
+        "num_text_forms": 7,
+        "fake_https": 0,
+        "is_html": true,
+        "num_non_80_port_urls": 0,
+        "num_https_urls": 0,
+        "num_of_chars": 2832,
+        "num_param_phish": 0,
+        "text_and_href": 2,
+        "body_richness": 0.127426756088952,
+        "text_link_with_path": 1,
+        "max_num_slashes_urls": 1,
+        "num_shortened_urls": 0,
+        "num_sender_diff_url": 2,
+        "num_ip_urls": 0,
+        "num_black_sheep_link": -1,
+        "subject_richness": 0.157894736842105,
+        "num_tld_in_url_path": 0,
+        "subject_phish_keywords": 0,
+        "num_black_sheep_link_global": -1,
+        "num_black_sheep_link_phish": 0,
+        "num_path_phish": 0,
+        "suspicious_links": [],
+        "html_form": 0,
+        "num_phish_keywords": 1,
+        "num_subdomain_phish": 0,
+        "num_domain_phish": 0,
+        "ner_domain_detected": false,
+        "camouflage": 0,
+        "num_freehost_urls": 0,
+        "num_external_links": 2,
+        "max_num_dots_urls": 2,
+        "num_www_in_url_path": 0
+    },
+    "spf_status_registry": "Status not found",
+    "rfcid_is_foreign": 1,
+    "from_match": 0,
+    "first10words": " Dobry den pani Belohlavkova do prihlasky jsem zadavala fakturacni udaje fi three brothers spol s r o Hluboc",
+    "extractedTxtUrlsDomainCount": 2,
+    "spf_domain_policy": "UNKNOWN",
+    "header_total_count": 11,
+    "dkim_passed_count": 0,
+    "extractedTxtUrlsCardinality": 2,
+    "dkim_signs_cnt": 1,
+    "mime_children_types": [
+        "multipart/alternative",
+        "image/jpeg",
+        "image/png"
+    ],
+    "ahref_verbal_count": 0,
+    "subject_image_count": 0,
+    "phish_score": 0,
+    "rfcid_is_invalid": false,
+    "dkstatus": "NEUTRAL",
+    "unsub_link_texts": [
+        " www jipka cz vedet byt ze my najit take na facebooku"
+    ],
+    "phashes": [
+        {
+            "value": "p42bf20d2f0c95fd9",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pfd289c3eb708ef0f",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pf77727f77467e925",
+            "name": "pepca"
+        },
+        {
+            "value": "pb2e132af6d9c6e77",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "extractedTxtUrlsTotalCount": 2,
+    "self_send": 0,
+    "attachments": [
+        {
+            "mime_type": "image/jpeg",
+            "cte": "BASE64",
+            "flags": 0,
+            "pepca": "p42bf20d2f0c95fd9",
+            "cid": "part3.02070608.08060405@jipka.cz",
+            "sumphash": "23a5a52952575338f31957cdfd9ed75f",
+            "size": 4195,
+            "name": "jipka-small.jpg"
+        },
+        {
+            "mime_type": "image/png",
+            "cte": "BASE64",
+            "flags": 0,
+            "pepca": "pfd289c3eb708ef0f",
+            "cid": "part4.02060705.03040209@jipka.cz",
+            "sumphash": "10534e2357933a3389f7cac187ae9160",
+            "size": 690,
+            "name": "fblogomail.png"
+        }
+    ],
+    "html_tr_tag_count": 0,
+    "extractedEmails": [
+        "palmovka@jipka.cz",
+        "helena.tesar@seznam.cz"
+    ],
+    "html_tag_total_count": 92,
+    "mime_children_count": 3,
+    "spamtrap_hit": false,
+    "extractedEmailsDomainCount": 2,
+    "extractedHrefUrlsTotalCount": 2,
+    "extractedSrcUrlsCardinality": 2,
+    "spamscore": 1.1,
+    "ahref_total_count": 3,
+    "extractedEmailsCardinality": 2,
+    "extractedSrcUrlsTotalCount": 2,
+    "dkim_count": 0,
+    "adscore": 0,
+    "pepca": "pf77727f77467e925",
+    "dkStatusDetail": "NOT_SIGNED",
+    "unsub_link_candidates": [
+        "http://www.jipka.cz"
+    ],
+    "html_script_tag_count": 0,
+    "date_difference": -75957803,
+    "html_in_text_plain_count": 0,
+    "pepca_style": "",
+    "word_count": 361,
+    "rfcid_length": 37,
+    "spf_dom_policy_registry": "Policy not found",
+    "pepcatotal": 0,
+    "last10words": "regarded as unauthorized use of the data and or as a breach of the confidentiality of this message with all resulting legal consequences ",
+    "extractedHrefUrls": [
+        "http://www.jipka.cz",
+        "http://www.facebook.com/jipka"
+    ],
+    "spfstatus_hfrom": "SPF_NEUTRAL",
+    "header_reply_to_count": 0,
+    "senders": {
+        "log_cnt_idf_detail": [],
+        "log_ecnt_idf_detail": [],
+        "tf_log_idf": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "cnt-pow4_w_duc_detail": [],
+        "ttf_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "src_revert": "",
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "plain_domain": "jipka",
+        "src_revert_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "jipka"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "tf_log_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 229131629.984,
+                "domain": "clamav"
+            }
+        ],
+        "domain_keywords": "clamav",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt_idf": ""
+    },
+    "dk_statuses": [
+        {
+            "statusDetail": "NOT_SIGNED",
+            "status": "NEUTRAL"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "extractedSrcUrls": [
+        "cid:part3.02070608.08060405@jipka.cz",
+        "cid:part4.02060705.03040209@jipka.cz"
+    ],
+    "list_unsubscribe_http_count": 0,
+    "unsub_link": "http://www.jipka.cz",
+    "extractedHrefUrlsDomainCount": 2,
+    "subject": "Re Jipka faktura",
+    "list_unsubscribe_total_count": 0,
+    "extractedSrcUrlsDomainCount": 0,
+    "ahref_camouflage_count": 0,
+    "list_unsubscribe_invalid_count": 0,
+    "header_from": "helena.tesar@seznam.cz"
+}

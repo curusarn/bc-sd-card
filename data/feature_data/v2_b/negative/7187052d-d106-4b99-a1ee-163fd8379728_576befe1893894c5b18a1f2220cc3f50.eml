@@ -1,0 +1,212 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ]
+        }
+    ],
+    "rfcid_is_invalid": false,
+    "spfstatus": "NONE",
+    "mime_root_type": "text/html",
+    "header_from_count": 1,
+    "now": 1494598272,
+    "dkim_efrom_match": 0,
+    "pepca_inline_style_total": 0,
+    "rcpts_count": 1,
+    "extractedEmailsTotalCount": 3,
+    "pepca_inline_style": "p36d169ce91ccf05a",
+    "pepca_style_total": 0,
+    "dkim_hfrom_match": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/576befe1893894c5b18a1f2220cc3f50.eml",
+    "html_td_tag_count": 72,
+    "extractedHrefUrlsCardinality": 6,
+    "list_unsubscribe_mailto_count": 0,
+    "subject_word_count": 8,
+    "lang": "cs",
+    "precedence": 3,
+    "phishing": {
+        "num_html_script_tags": 0,
+        "num_text_forms": 0,
+        "fake_https": 0,
+        "is_html": true,
+        "num_non_80_port_urls": 0,
+        "num_https_urls": 2,
+        "num_of_chars": 1133,
+        "num_param_phish": 0,
+        "text_and_href": 0,
+        "body_richness": 0.244268077601411,
+        "text_link_with_path": 0,
+        "max_num_slashes_urls": 3,
+        "num_shortened_urls": 0,
+        "num_sender_diff_url": 1,
+        "num_ip_urls": 0,
+        "num_black_sheep_link": -1,
+        "subject_richness": 0.126984126984127,
+        "num_tld_in_url_path": 0,
+        "subject_phish_keywords": 0,
+        "num_black_sheep_link_global": -1,
+        "num_black_sheep_link_phish": 0,
+        "num_path_phish": 0,
+        "suspicious_links": [],
+        "html_form": 0,
+        "num_phish_keywords": 0,
+        "num_subdomain_phish": 0,
+        "num_domain_phish": 0,
+        "ner_domain_detected": false,
+        "camouflage": 0,
+        "num_freehost_urls": 0,
+        "num_external_links": 10,
+        "max_num_dots_urls": 2,
+        "num_www_in_url_path": 0
+    },
+    "spf_status_registry": "Status not found",
+    "rfcid_is_foreign": 1,
+    "from_match": 0,
+    "first10words": " Dobry den tato emailova adresa jiz byla v minulosti na strankach agentury prace Personal fabric registrovana Vase udaje",
+    "spf_domain_policy": "UNKNOWN",
+    "header_total_count": 17,
+    "dkim_passed_count": 0,
+    "dkim_signs_cnt": 1,
+    "mime_children_types": [],
+    "ahref_verbal_count": 3,
+    "subject_image_count": 0,
+    "phish_score": 0,
+    "self_send": 0,
+    "dkstatus": "NEUTRAL",
+    "unsub_link_texts": [
+        " odhlasit se "
+    ],
+    "phashes": [
+        {
+            "value": "p911510d503d819c2",
+            "name": "pepca"
+        },
+        {
+            "value": "p36d169ce91ccf05a",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "extractedHrefUrlsTotalCount": 6,
+    "attachments": [],
+    "html_tr_tag_count": 66,
+    "html_tag_total_count": 199,
+    "mime_children_count": 0,
+    "spamtrap_hit": false,
+    "extractedEmailsDomainCount": 2,
+    "extractedEmails": [
+        "lucie.nytrova@personalfabric.cz",
+        "zdenek.dostalik@personalfabric.cz",
+        "J.M.84@seznam.cz"
+    ],
+    "extractedSrcUrlsCardinality": 6,
+    "spamscore": 1.1,
+    "ahref_total_count": 7,
+    "extractedEmailsCardinality": 3,
+    "extractedSrcUrlsTotalCount": 6,
+    "dkim_count": 0,
+    "adscore": 0,
+    "pepca": "p911510d503d819c2",
+    "dkStatusDetail": "NOT_SIGNED",
+    "unsub_link_candidates": [
+        "{unsubscription_url}"
+    ],
+    "html_script_tag_count": 0,
+    "date_difference": -79551356,
+    "html_in_text_plain_count": 0,
+    "pepca_style": "",
+    "word_count": 277,
+    "rfcid_length": 50,
+    "spf_dom_policy_registry": "Policy not found",
+    "pepcatotal": 0,
+    "last10words": "6841487 Tento email vam byl zaslan na zaklade registrace na strankach Personal fabric Nastaveni Odhlasit se ",
+    "extractedHrefUrls": [
+        "https://www.facebook.com/personalfabriccz",
+        "http://www.personalfabric.cz/hledam-praci/",
+        "https://www.facebook.com/pages/Personal-fabric-agentura-pr%C3%A1ce/197447980368651",
+        "{profile_url}",
+        "{unsubscription_url}"
+    ],
+    "spfstatus_hfrom": "SPF_NONE",
+    "header_reply_to_count": 0,
+    "senders": {
+        "log_cnt_idf_detail": [],
+        "log_ecnt_idf_detail": [],
+        "tf_log_idf": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "cnt-pow4_w_duc_detail": [],
+        "ttf_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "src_revert": "",
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "plain_domain": "personalfabric",
+        "src_revert_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "personalfabric"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "tf_log_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 16427936.52279,
+                "domain": "statnisprava"
+            }
+        ],
+        "domain_keywords": "statnisprava",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt_idf": ""
+    },
+    "dk_statuses": [
+        {
+            "statusDetail": "NOT_SIGNED",
+            "status": "NEUTRAL"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "extractedSrcUrls": [
+        "http://www.personalfabric.cz/media/newsletter/potvrzeni-fb.jpg",
+        "http://www.personalfabric.cz/media/newsletter/potvrzeni-vm.jpg",
+        "http://www.personalfabric.cz/wp-content/themes/twentythirteen/images/img1.jpg",
+        "http://www.personalfabric.cz/wp-content/themes/twentythirteen/images/img2.jpg",
+        "http://www.personalfabric.cz/media/newsletter/call.png"
+    ],
+    "list_unsubscribe_http_count": 0,
+    "unsub_link": "{unsubscription_url}",
+    "extractedHrefUrlsDomainCount": 2,
+    "subject": "Zmena udaju registrace na Personal fabric Agentura prace",
+    "list_unsubscribe_total_count": 0,
+    "extractedSrcUrlsDomainCount": 1,
+    "ahref_camouflage_count": 0,
+    "list_unsubscribe_invalid_count": 0,
+    "header_from": "noreply@personalfabric.cz"
+}

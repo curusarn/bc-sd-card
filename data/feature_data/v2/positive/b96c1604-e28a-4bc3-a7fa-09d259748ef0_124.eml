@@ -1,0 +1,209 @@
+{
+    "adscore": 0, 
+    "ahref_camouflage_count": 0, 
+    "ahref_total_count": 12, 
+    "ahref_verbal_count": 10, 
+    "attachments": [], 
+    "content": "CONTENT_DEFAULT", 
+    "date_difference": -372368255, 
+    "dkStatusDetail": "NOT_SIGNED", 
+    "dk_statuses": [
+        {
+            "status": "NEUTRAL", 
+            "statusDetail": "NOT_SIGNED"
+        }
+    ], 
+    "dkim_count": 0, 
+    "dkim_efrom_match": 0, 
+    "dkim_hfrom_match": 0, 
+    "dkim_passed_count": 0, 
+    "dkim_signs_cnt": 1, 
+    "dkstatus": "NEUTRAL", 
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/20051114/124.eml", 
+    "extractedEmails": [], 
+    "extractedEmailsCardinality": 0, 
+    "extractedEmailsDomainCount": 0, 
+    "extractedEmailsTotalCount": 0, 
+    "extractedHrefUrls": [
+        "http://65.208.68.254:8080/.ws/eeISAPI/2fkrZ1QQfromZR8QQsatitleZQ40Q20Q2eCOM/", 
+        "http://us.f501.mail.yahoo.com/ym/spamoptions?YY=82465&order=down&sort=date&pos=0&view=a&head=b", 
+        "javascript:Help('http://us.rd.yahoo.com/mail_us/help/?http://help.yahoo.com/help/us/mail/context/context-71.html')", 
+        "http://us.lrd.yahoo.com/_ylc=X3oDMTE0bG4ybmRjBF9TAzk1OTQ5NjM2BHNlYwNtYWlsdGFnBHNsawNhdWN0aW9ucw--/SIG=10vb8ief1/**http%3a//aucti", 
+        "http://us.rd.yahoo.com/evt=31132/*http://mobile.yahoo.com/learn/mail"
+    ], 
+    "extractedHrefUrlsCardinality": 10, 
+    "extractedHrefUrlsDomainCount": 4, 
+    "extractedHrefUrlsTotalCount": 10, 
+    "extractedSrcUrls": [
+        "http://pics.ebaystatic.com/aw/pics/icon/psIcon_50x25.gif", 
+        "http://200.204.78.232/.ws/powsell-prog-uit88terlo45gfdd9f98u5jk34lnd89fu74aw-confirm-ebaIS/images/silverpsIcon_50x25.gif", 
+        "http://pics.ebaystatic.com/aw/pics/powerseller/Hub/psNew04/imgPSsignin_184x132.gif", 
+        "http://pics.ebaystatic.com/aw/pics/spacer.gif", 
+        "http://ebay.doubleclick.net/ad/ebay.us.endofauction/SellerNoSuccess;sz=1x1;ord=987654321"
+    ], 
+    "extractedSrcUrlsCardinality": 8, 
+    "extractedSrcUrlsDomainCount": 6, 
+    "extractedSrcUrlsTotalCount": 8, 
+    "extractedTxtUrls": [
+        "http://www.ebay.com"
+    ], 
+    "extractedTxtUrlsCardinality": 1, 
+    "extractedTxtUrlsDomainCount": 1, 
+    "extractedTxtUrlsTotalCount": 1, 
+    "first10words": " Silver PowerSeller Program ", 
+    "from_match": 0, 
+    "header_from": "aw23-confirm@ebay.com", 
+    "header_from_count": 1, 
+    "header_reply_to_count": 0, 
+    "header_total_count": 24, 
+    "html_in_text_plain_count": 0, 
+    "html_script_tag_count": 0, 
+    "html_tag_total_count": 250, 
+    "html_td_tag_count": 28, 
+    "html_tr_tag_count": 24, 
+    "lang": "en", 
+    "last10words": " Sell on Yahoo Auctions No fees Bid on great items Yahoo Mail for Mobile Take Yahoo Mail with you Check email on your mobile phone ", 
+    "list_unsubscribe_http_count": 0, 
+    "list_unsubscribe_invalid_count": 0, 
+    "list_unsubscribe_mailto_count": 0, 
+    "list_unsubscribe_total_count": 0, 
+    "mime_children_count": 0, 
+    "mime_children_types": [], 
+    "mime_root_type": "text/html", 
+    "notches": [
+        {
+            "module": "ill", 
+            "name": [
+                "date_in_past", 
+                "from_missmatch"
+            ], 
+            "score": 1, 
+            "subscores": [
+                1, 
+                0.0
+            ]
+        }
+    ], 
+    "now": 1494597814, 
+    "pepca": "pde766eeef6debd35", 
+    "pepca_inline_style": "p4bbf8486af054a6b", 
+    "pepca_inline_style_total": 0, 
+    "pepca_style": "", 
+    "pepca_style_total": 0, 
+    "pepcatotal": 0, 
+    "phashes": [
+        {
+            "name": "pepca", 
+            "value": "pde766eeef6debd35"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "p4bbf8486af054a6b"
+        }
+    ], 
+    "phish_score": 0, 
+    "phishing": {
+        "body_richness": 0.175813342096615, 
+        "camouflage": 0, 
+        "fake_https": 0, 
+        "html_form": 0, 
+        "is_html": true, 
+        "max_num_dots_urls": 6, 
+        "max_num_slashes_urls": 8, 
+        "num_black_sheep_link": -1, 
+        "num_black_sheep_link_global": -1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_external_links": 10, 
+        "num_freehost_urls": 0, 
+        "num_html_script_tags": 0, 
+        "num_https_urls": 0, 
+        "num_ip_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "num_of_chars": 3042, 
+        "num_param_phish": 0, 
+        "num_path_phish": 0, 
+        "num_phish_keywords": 9, 
+        "num_sender_diff_url": 3, 
+        "num_shortened_urls": 0, 
+        "num_subdomain_phish": 0, 
+        "num_text_forms": 7, 
+        "num_tld_in_url_path": 0, 
+        "num_www_in_url_path": 0, 
+        "subject_phish_keywords": 0, 
+        "subject_richness": 0.132352941176471, 
+        "suspicious_links": [], 
+        "text_and_href": 0, 
+        "text_link_with_path": 0
+    }, 
+    "precedence": 3, 
+    "rcpts_count": 1, 
+    "rfcid_is_foreign": 0, 
+    "rfcid_is_invalid": false, 
+    "rfcid_length": 43, 
+    "self_send": 0, 
+    "senders": {
+        "cnt-pow4_w_duc": "", 
+        "cnt-pow4_w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "domain_keywords": "ebay", 
+        "domain_keywords_detail": [
+            {
+                "confidence": 6855951186.11833, 
+                "domain": "ebay"
+            }
+        ], 
+        "ettf_w_duc": "", 
+        "ettf_w_duc_detail": [], 
+        "idf": "", 
+        "idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "log_cnt-w_duc_detail": [], 
+        "log_cnt_idf": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "log_ecnt_idf": "", 
+        "log_ecnt_idf_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "log_ecnt_log_idf_log_tidf": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "plain_domain": "ebay", 
+        "plain_domain_detail": [
+            {
+                "confidence": 2, 
+                "domain": "ebay"
+            }
+        ], 
+        "src_revert": "ebay", 
+        "src_revert_detail": [
+            {
+                "confidence": 3.07692307692308, 
+                "domain": "ebay"
+            }
+        ], 
+        "tf_log_idf": "", 
+        "tf_log_idf_detail": [], 
+        "ttf_w_duc": "", 
+        "ttf_w_duc_detail": []
+    }, 
+    "spamscore": 1, 
+    "spamtrap_hit": false, 
+    "spf_dom_policy_registry": "Policy not found", 
+    "spf_domain_policy": "UNKNOWN", 
+    "spf_status_registry": "Status not found", 
+    "spfstatus": "NONE", 
+    "spfstatus_hfrom": "SPF_SOFTFAIL", 
+    "subject": "eBay eBay automatically invites qualified users to be PowerSeller", 
+    "subject_image_count": 0, 
+    "subject_word_count": 9, 
+    "word_count": 535
+}

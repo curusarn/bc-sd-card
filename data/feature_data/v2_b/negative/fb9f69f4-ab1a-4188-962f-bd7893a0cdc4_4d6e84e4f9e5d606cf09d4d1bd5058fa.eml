@@ -1,0 +1,221 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ]
+        }
+    ],
+    "rfcid_is_invalid": false,
+    "spfstatus": "NONE",
+    "mime_root_type": "multipart/alternative",
+    "header_from_count": 1,
+    "now": 1494598262,
+    "dkim_efrom_match": 0,
+    "pepca_inline_style_total": 0,
+    "rcpts_count": 1,
+    "extractedEmailsTotalCount": 0,
+    "pepca_inline_style": "pb0cc054d90ce7b6b",
+    "pepca_style_total": 0,
+    "dkselector": "spop1024",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/4d6e84e4f9e5d606cf09d4d1bd5058fa.eml",
+    "html_td_tag_count": 10,
+    "extractedHrefUrlsCardinality": 4,
+    "list_unsubscribe_mailto_count": 1,
+    "subject_word_count": 4,
+    "lang": "cs",
+    "precedence": 3,
+    "phishing": {
+        "num_html_script_tags": 0,
+        "num_text_forms": 2,
+        "fake_https": 0,
+        "is_html": true,
+        "num_non_80_port_urls": 0,
+        "num_https_urls": 2,
+        "num_of_chars": 671,
+        "num_param_phish": 0,
+        "text_and_href": 0,
+        "body_richness": 0.19047619047619,
+        "text_link_with_path": 0,
+        "max_num_slashes_urls": 4,
+        "num_shortened_urls": 0,
+        "num_sender_diff_url": 1,
+        "num_ip_urls": 0,
+        "num_black_sheep_link": -1,
+        "subject_richness": 0.108108108108108,
+        "num_tld_in_url_path": 0,
+        "subject_phish_keywords": 0,
+        "num_black_sheep_link_global": -1,
+        "num_black_sheep_link_phish": 0,
+        "num_path_phish": 0,
+        "suspicious_links": [],
+        "html_form": 0,
+        "num_phish_keywords": 1,
+        "num_subdomain_phish": 0,
+        "num_domain_phish": 0,
+        "ner_domain_detected": true,
+        "camouflage": 0,
+        "num_freehost_urls": 0,
+        "num_external_links": 8,
+        "max_num_dots_urls": 3,
+        "num_www_in_url_path": 0
+    },
+    "spf_status_registry": "Status not found",
+    "rfcid_is_foreign": 1,
+    "from_match": 0,
+    "first10words": " Nezapomnel sis zabehnout na pobocku Nekde to zamrzlo Ahoj jeste tu nemam potvrzeni Tve registrace tak je",
+    "spf_domain_policy": "UNKNOWN",
+    "header_total_count": 18,
+    "dkim_passed_count": 1,
+    "dkim_signs_cnt": 1,
+    "list_unsubscribe_urls": [
+        "mailto:v-cmmmjcj_bkgdgcagba_cagjgoeb_cagjgoea_a@bounce.wunderman.mkt6047.com?subject=Unsubscribe"
+    ],
+    "mime_children_types": [
+        "text/html"
+    ],
+    "ahref_verbal_count": 3,
+    "subject_image_count": 0,
+    "phish_score": 0,
+    "self_send": 0,
+    "dkstatus": "PASS",
+    "unsub_link_texts": [
+        "pro zruseni zasilani obchodni sdeleni kliknout zde ",
+        " www sazka cz "
+    ],
+    "phashes": [
+        {
+            "value": "pf67c60d48ce248f8",
+            "name": "pepca"
+        },
+        {
+            "value": "pb0cc054d90ce7b6b",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "contains_list_header": true,
+    "dkdomain": "mailing.sazkabet.cz",
+    "html_tr_tag_count": 8,
+    "extractedEmails": [],
+    "html_tag_total_count": 73,
+    "mime_children_count": 1,
+    "spamtrap_hit": false,
+    "extractedEmailsDomainCount": 0,
+    "extractedHrefUrlsTotalCount": 4,
+    "dk_statuses": [
+        {
+            "selector": "spop1024",
+            "status": "PASS",
+            "domain": "mailing.sazkabet.cz"
+        }
+    ],
+    "extractedSrcUrlsCardinality": 4,
+    "senders": {
+        "log_cnt_idf_detail": [],
+        "log_ecnt_idf_detail": [],
+        "tf_log_idf": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "cnt-pow4_w_duc_detail": [],
+        "ttf_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "src_revert": "hotelbonocz",
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "plain_domain": "sazkabet",
+        "src_revert_detail": [
+            {
+                "confidence": 1,
+                "domain": "hotelbonocz"
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "sazkabet"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "tf_log_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 4304498.49032,
+                "domain": "sazkaticket"
+            }
+        ],
+        "domain_keywords": "sazkaticket",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt_idf": ""
+    },
+    "spamscore": 1.1,
+    "ahref_total_count": 3,
+    "extractedEmailsCardinality": 0,
+    "extractedSrcUrlsTotalCount": 4,
+    "dkim_count": 1,
+    "adscore": 0,
+    "pepca": "pf67c60d48ce248f8",
+    "unsub_link_candidates": [
+        "http://links.wunderman.mkt6047.com/servlet/OneClickOptOutServlet?m=46975273&r=MTEzMzM2NTE4MTYwS0&b=0&j=NTQzNzgwNDE3S0&mt=2&rj=NTQzNzgwNDE2S0&rt=0",
+        "http://links.wunderman.mkt6047.com/ctt?kn=1&ms=NDY5NzUyNzMS1&r=MTEzMzM2NTE4MTYwS0&b=0&j=NTQzNzgwNDE3S0&mt=2&rj=NTQzNzgwNDE2S0&rt=0"
+    ],
+    "html_script_tag_count": 0,
+    "date_difference": -80001459,
+    "html_in_text_plain_count": 0,
+    "pepca_style": "",
+    "word_count": 128,
+    "rfcid_length": 59,
+    "spf_dom_policy_registry": "Policy not found",
+    "pepcatotal": 0,
+    "last10words": " 266 Toto je obchodni sdeleni spolecnosti Sazka a s Pro zruseni zasilani obchodnich sdeleni kliknete zde ",
+    "extractedHrefUrls": [
+        "https://www.sazkabet.cz/",
+        "https://www.sazkabet.cz/cz/sazka-klub/kde-se-zaregistrovat/",
+        "http://links.wunderman.mkt6047.com/servlet/OneClickOptOutServlet?m=46975273&r=MTEzMzM2NTE4MTYwS0&b=0&j=NTQzNzgwNDE3S0&mt=2&rj=NT",
+        "http://links.wunderman.mkt6047.com/ctt?kn=1&ms=NDY5NzUyNzMS1&r=MTEzMzM2NTE4MTYwS0&b=0&j=NTQzNzgwNDE3S0&mt=2&rj=NTQzNzgwNDE2S0&rt"
+    ],
+    "spfstatus_hfrom": "SPF_FAIL",
+    "header_reply_to_count": 1,
+    "dkim_hfrom_match": 1,
+    "attachments": [],
+    "content": "CONTENT_DEFAULT",
+    "extractedSrcUrls": [
+        "http://contentz.mkt6047.com/ra/2014/54988/09/46975273/email1_top.jpg",
+        "http://contentz.mkt6047.com/ra/2014/54988/09/46975273/email1_bottom.gif",
+        "http://track.adform.net/adfserve/?bn=4353526;1x1inv=1;srctype=3;ord=[timestamp]",
+        "http://links.wunderman.mkt6047.com/open/log/46975273/MTEzMzM2NTE4MTYwS0/0/NTQzNzgwNDE3S0/2/NTQzNzgwNDE2S0/0"
+    ],
+    "list_unsubscribe_http_count": 0,
+    "unsub_link": "http://links.wunderman.mkt6047.com/ctt?kn=1&ms=NDY5NzUyNzMS1&r=MTEzMzM2NTE4MTYwS0&b=0&j=NTQzNzgwNDE3S0&mt=2&rj=NTQzNzgwNDE2S0&rt=0",
+    "extractedHrefUrlsDomainCount": 2,
+    "subject": "Nezapomen dokoncit svou registraci",
+    "list_unsubscribe_total_count": 1,
+    "extractedSrcUrlsDomainCount": 2,
+    "ahref_camouflage_count": 0,
+    "list_unsubscribe_invalid_count": 0,
+    "header_from": "newsletter@mailing.sazkabet.cz"
+}

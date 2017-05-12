@@ -1,0 +1,232 @@
+{
+    "adscore": 0, 
+    "ahref_camouflage_count": 2, 
+    "ahref_total_count": 8, 
+    "ahref_verbal_count": 4, 
+    "attachments": [], 
+    "contains_list_header": true, 
+    "content": "CONTENT_DEFAULT", 
+    "date_difference": -79746656, 
+    "dk_statuses": [
+        {
+            "domain": "mailkit.eu", 
+            "selector": "mail", 
+            "status": "PASS"
+        }
+    ], 
+    "dkdomain": "mailkit.eu", 
+    "dkim_count": 1, 
+    "dkim_efrom_match": 0, 
+    "dkim_hfrom_match": 0, 
+    "dkim_passed_count": 1, 
+    "dkim_signs_cnt": 1, 
+    "dkselector": "mail", 
+    "dkstatus": "PASS", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/2222f37a57a095c5169ffda04e9b29d7.eml", 
+    "extractedEmails": [
+        "info@chance.cz ", 
+        "info@chance.cz", 
+        "info@chance.cz."
+    ], 
+    "extractedEmailsCardinality": 3, 
+    "extractedEmailsDomainCount": 3, 
+    "extractedEmailsTotalCount": 3, 
+    "extractedHrefUrls": [
+        "http://user.mailkit.eu/mc/CECCQCCLCWQVQQQUVCPMWWVIGOGFGPXT", 
+        "http://user.mailkit.eu/mc/CECCQCCLCWQVQQQUVCPMWWVISWRRUZKX", 
+        "http://track.mailkit.eu/mc/CECCQCCLCWQVQQQUVCPMWWVILXJEZAMV", 
+        "https://www.chance.cz/ ", 
+        "http://user.mailkit.eu/mc/CECCQCCLCWQVQQQUVCPMWWVIFVDKIYPJ"
+    ], 
+    "extractedHrefUrlsCardinality": 5, 
+    "extractedHrefUrlsDomainCount": 2, 
+    "extractedHrefUrlsTotalCount": 5, 
+    "extractedSrcUrls": [
+        "http://home.tipsport.cz/mailing/chance/mailing/service2014/servisni.CH-2014_logo.png", 
+        "http://home.tipsport.cz/mailing/chance/mailing/service2014/servisni.CH-2014_header.ztracene_heslo_2.png", 
+        "http://track.mailkit.eu/mc/CECCQCCLCWQVQQQUVCPMWWVIUWNAFPDG"
+    ], 
+    "extractedSrcUrlsCardinality": 3, 
+    "extractedSrcUrlsDomainCount": 2, 
+    "extractedSrcUrlsTotalCount": 3, 
+    "extractedTxtUrls": [
+        "https://www.chance.cz/", 
+        "http://www.chance.cz", 
+        "https://www.chance.cz/."
+    ], 
+    "extractedTxtUrlsCardinality": 3, 
+    "extractedTxtUrlsDomainCount": 1, 
+    "extractedTxtUrlsTotalCount": 3, 
+    "first10words": " Zmena hesla k uctu CHANCE Nezobrazuje se Vam logo a obrazky Tisk Zdravime Na T", 
+    "from_match": 0, 
+    "header_from": "info@chance.cz", 
+    "header_from_count": 1, 
+    "header_reply_to_count": 0, 
+    "header_total_count": 25, 
+    "html_in_text_plain_count": 0, 
+    "html_script_tag_count": 0, 
+    "html_tag_total_count": 94, 
+    "html_td_tag_count": 18, 
+    "html_tr_tag_count": 16, 
+    "lang": "cs", 
+    "last10words": "folinka 233 090 831 Tento email ma charakter obchodniho sdeleni Copyright 2014 CHANCE a s Vsechna prava vyhrazena ", 
+    "list_unsubscribe_http_count": 1, 
+    "list_unsubscribe_invalid_count": 0, 
+    "list_unsubscribe_mailto_count": 1, 
+    "list_unsubscribe_total_count": 2, 
+    "list_unsubscribe_urls": [
+        "mailto:CECCQCCLCWQVQQQUVCPMWWVIFVDKIYPJ.owner@unsub.mailkit.eu", 
+        "http://user.mailkit.eu/mc/CECCQCCLCWQVQQQUVCPMWWVIFVDKIYPJ"
+    ], 
+    "mime_children_count": 2, 
+    "mime_children_types": [
+        "text/plain", 
+        "text/html"
+    ], 
+    "mime_root_type": "multipart/alternative", 
+    "notches": [
+        {
+            "module": "ill", 
+            "name": [
+                "date_in_past", 
+                "from_missmatch", 
+                "html_a_href_camouflaging"
+            ], 
+            "score": 1.1, 
+            "subscores": [
+                1, 
+                0.0, 
+                0.1
+            ]
+        }
+    ], 
+    "now": 1494598199, 
+    "pepca": "pfcb3f9d860cdec0e", 
+    "pepca_inline_style": "p7bd0e53289b2781c", 
+    "pepca_inline_style_total": 0, 
+    "pepca_style": "", 
+    "pepca_style_total": 0, 
+    "pepcatotal": 0, 
+    "phashes": [
+        {
+            "name": "pepca", 
+            "value": "pfcb3f9d860cdec0e"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "p7bd0e53289b2781c"
+        }
+    ], 
+    "phish_score": 0, 
+    "phishing": {
+        "body_richness": 0.208841463414634, 
+        "camouflage": 1, 
+        "fake_https": 0, 
+        "html_form": 0, 
+        "is_html": true, 
+        "max_num_dots_urls": 3, 
+        "max_num_slashes_urls": 2, 
+        "num_black_sheep_link": -1, 
+        "num_black_sheep_link_global": -1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_external_links": 8, 
+        "num_freehost_urls": 0, 
+        "num_html_script_tags": 0, 
+        "num_https_urls": 3, 
+        "num_ip_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "num_of_chars": 655, 
+        "num_param_phish": 0, 
+        "num_path_phish": 0, 
+        "num_phish_keywords": 5, 
+        "num_sender_diff_url": 1, 
+        "num_shortened_urls": 0, 
+        "num_subdomain_phish": 0, 
+        "num_text_forms": 24, 
+        "num_tld_in_url_path": 0, 
+        "num_www_in_url_path": 0, 
+        "subject_phish_keywords": 2, 
+        "subject_richness": 0.172413793103448, 
+        "suspicious_links": [], 
+        "text_and_href": 0, 
+        "text_link_with_path": 1
+    }, 
+    "precedence": 2, 
+    "rcpts_count": 1, 
+    "rfcid_is_foreign": 0, 
+    "rfcid_is_invalid": false, 
+    "rfcid_length": 38, 
+    "self_send": 0, 
+    "senders": {
+        "cnt-pow4_w_duc": "", 
+        "cnt-pow4_w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "domain_keywords": "mcsv", 
+        "domain_keywords_detail": [
+            {
+                "confidence": 10256637.2474413, 
+                "domain": "mcsv"
+            }
+        ], 
+        "ettf_w_duc": "", 
+        "ettf_w_duc_detail": [], 
+        "idf": "", 
+        "idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "log_cnt-w_duc_detail": [], 
+        "log_cnt_idf": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "log_ecnt_idf": "", 
+        "log_ecnt_idf_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "log_ecnt_log_idf_log_tidf": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "plain_domain": "chance", 
+        "plain_domain_detail": [
+            {
+                "confidence": 2, 
+                "domain": "chance"
+            }
+        ], 
+        "src_revert": "tipsport", 
+        "src_revert_detail": [
+            {
+                "confidence": 2, 
+                "domain": "tipsport"
+            }
+        ], 
+        "tf_log_idf": "", 
+        "tf_log_idf_detail": [], 
+        "ttf_w_duc": "", 
+        "ttf_w_duc_detail": []
+    }, 
+    "spamscore": 1.1, 
+    "spamtrap_hit": false, 
+    "spf_dom_policy_registry": "Policy not found", 
+    "spf_domain_policy": "UNKNOWN", 
+    "spf_status_registry": "Status not found", 
+    "spfstatus": "NONE", 
+    "spfstatus_hfrom": "SPF_FAIL", 
+    "subject": "Zmena hesla k uctu CHANCE", 
+    "subject_image_count": 0, 
+    "subject_word_count": 5, 
+    "unsub_link": "http://user.mailkit.eu/mc/CECCQCCLCWQVQQQUVCPMWWVIFVDKIYPJ", 
+    "unsub_link_candidates": [
+        "http://user.mailkit.eu/mc/CECCQCCLCWQVQQQUVCPMWWVIFVDKIYPJ"
+    ], 
+    "unsub_link_texts": [
+        " odhlasit odber novinka a tip infolinka"
+    ], 
+    "word_count": 137
+}

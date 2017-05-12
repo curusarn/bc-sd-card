@@ -1,0 +1,200 @@
+{
+    "adscore": 0, 
+    "ahref_camouflage_count": 0, 
+    "ahref_total_count": 2, 
+    "ahref_verbal_count": 0, 
+    "attachments": [], 
+    "content": "CONTENT_DEFAULT", 
+    "date_difference": -73433588, 
+    "dk_statuses": [
+        {
+            "domain": "4home.cz", 
+            "selector": "qmail4homecz", 
+            "status": "PASS"
+        }
+    ], 
+    "dkdomain": "4home.cz", 
+    "dkim_count": 1, 
+    "dkim_efrom_match": 0, 
+    "dkim_hfrom_match": 1, 
+    "dkim_passed_count": 1, 
+    "dkim_signs_cnt": 1, 
+    "dkselector": "qmail4homecz", 
+    "dkstatus": "PASS", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/trans-ff9c33fffe5d9ebf578cd6e0f54fa2c9.eml", 
+    "extractedEmails": [
+        "servis@4home.cz", 
+        "servis@4home.cz."
+    ], 
+    "extractedEmailsCardinality": 2, 
+    "extractedEmailsDomainCount": 2, 
+    "extractedEmailsTotalCount": 2, 
+    "extractedHrefUrls": [
+        "www.4home.cz", 
+        "https://www.facebook.com/4home.cz", 
+        "http://www.youtube.com/4homecz"
+    ], 
+    "extractedHrefUrlsCardinality": 3, 
+    "extractedHrefUrlsDomainCount": 2, 
+    "extractedHrefUrlsTotalCount": 3, 
+    "extractedSrcUrls": [
+        "http://cdn.4home.cz/ebf05a06-a536-4eac-94e5-eabb9702607b/logo_01.jpg", 
+        "http://cdn.4home.cz/75ac0e0f-8f44-42f8-93cb-3d2faa4b866c/social_01.jpg", 
+        "http://cdn.4home.cz/c7e93edc-d251-493d-a49a-9bc94fe3937f/social_02.jpg", 
+        "http://cdn.4home.cz/d1af842e-087c-45bf-b190-ad94c0ac3cbc/social_03.jpg"
+    ], 
+    "extractedSrcUrlsCardinality": 4, 
+    "extractedSrcUrlsDomainCount": 1, 
+    "extractedSrcUrlsTotalCount": 4, 
+    "first10words": " 4Home Informace o stavu objednavky Vazena pani jeste jednou bychom Vam chteli ", 
+    "from_match": 0, 
+    "header_from": "newsletter@4home.cz", 
+    "header_from_count": 1, 
+    "header_reply_to_count": 0, 
+    "header_total_count": 14, 
+    "html_in_text_plain_count": 0, 
+    "html_script_tag_count": 0, 
+    "html_tag_total_count": 219, 
+    "html_td_tag_count": 96, 
+    "html_tr_tag_count": 62, 
+    "lang": "cs", 
+    "last10words": " pratelskym pozdravem Dagmar Belova vedouci zakaznickeho centra 4Home ", 
+    "list_unsubscribe_http_count": 0, 
+    "list_unsubscribe_invalid_count": 0, 
+    "list_unsubscribe_mailto_count": 0, 
+    "list_unsubscribe_total_count": 0, 
+    "mime_children_count": 0, 
+    "mime_children_types": [], 
+    "mime_root_type": "text/html", 
+    "notches": [
+        {
+            "module": "ill", 
+            "name": [
+                "date_in_past", 
+                "from_missmatch"
+            ], 
+            "score": 1, 
+            "subscores": [
+                1, 
+                0.0
+            ]
+        }
+    ], 
+    "now": 1494598450, 
+    "pepca": "p3dbe6c58e43c548c", 
+    "pepca_inline_style": "p3f4244b384b87676", 
+    "pepca_inline_style_total": 0, 
+    "pepca_style": "", 
+    "pepca_style_total": 0, 
+    "pepcatotal": 0, 
+    "phashes": [
+        {
+            "name": "pepca", 
+            "value": "p3dbe6c58e43c548c"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "p3f4244b384b87676"
+        }
+    ], 
+    "phish_score": 0, 
+    "phishing": {
+        "body_richness": 0.256170212765957, 
+        "camouflage": 0, 
+        "fake_https": 0, 
+        "html_form": 0, 
+        "is_html": true, 
+        "max_num_dots_urls": 3, 
+        "max_num_slashes_urls": 1, 
+        "num_black_sheep_link": -1, 
+        "num_black_sheep_link_global": -1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_external_links": 7, 
+        "num_freehost_urls": 0, 
+        "num_html_script_tags": 0, 
+        "num_https_urls": 1, 
+        "num_ip_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "num_of_chars": 1174, 
+        "num_param_phish": 0, 
+        "num_path_phish": 0, 
+        "num_phish_keywords": 0, 
+        "num_sender_diff_url": 2, 
+        "num_shortened_urls": 0, 
+        "num_subdomain_phish": 0, 
+        "num_text_forms": 0, 
+        "num_tld_in_url_path": 0, 
+        "num_www_in_url_path": 0, 
+        "subject_phish_keywords": 0, 
+        "subject_richness": 0.133333333333333, 
+        "suspicious_links": [], 
+        "text_and_href": 0, 
+        "text_link_with_path": 0
+    }, 
+    "precedence": 2, 
+    "rcpts_count": 1, 
+    "rfcid_is_foreign": 0, 
+    "rfcid_is_invalid": false, 
+    "rfcid_length": 49, 
+    "self_send": 0, 
+    "senders": {
+        "cnt-pow4_w_duc": "", 
+        "cnt-pow4_w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "domain_keywords": "booking", 
+        "domain_keywords_detail": [
+            {
+                "confidence": 17689404.30334, 
+                "domain": "booking"
+            }
+        ], 
+        "ettf_w_duc": "", 
+        "ettf_w_duc_detail": [], 
+        "idf": "", 
+        "idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "log_cnt-w_duc_detail": [], 
+        "log_cnt_idf": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "log_ecnt_idf": "", 
+        "log_ecnt_idf_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "log_ecnt_log_idf_log_tidf": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "plain_domain": "", 
+        "plain_domain_detail": [], 
+        "src_revert": "4home", 
+        "src_revert_detail": [
+            {
+                "confidence": 4, 
+                "domain": "4home"
+            }
+        ], 
+        "tf_log_idf": "", 
+        "tf_log_idf_detail": [], 
+        "ttf_w_duc": "", 
+        "ttf_w_duc_detail": []
+    }, 
+    "spamscore": 1, 
+    "spamtrap_hit": false, 
+    "spf_dom_policy_registry": "Policy not found", 
+    "spf_domain_policy": "UNKNOWN", 
+    "spf_status_registry": "Status not found", 
+    "spfstatus": "NONE", 
+    "spfstatus_hfrom": "SPF_ERR", 
+    "subject": "Informace o stavu objednavky", 
+    "subject_image_count": 0, 
+    "subject_word_count": 4, 
+    "word_count": 301
+}

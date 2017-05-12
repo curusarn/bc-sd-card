@@ -1,0 +1,214 @@
+{
+    "adscore": 0, 
+    "ahref_camouflage_count": 1, 
+    "ahref_total_count": 4, 
+    "ahref_verbal_count": 2, 
+    "attachments": [], 
+    "contains_list_header": true, 
+    "content": "CONTENT_DEFAULT", 
+    "date_difference": -79556427, 
+    "dk_statuses": [
+        {
+            "domain": "email.marykay.com", 
+            "selector": "200608", 
+            "status": "PASS"
+        }
+    ], 
+    "dkdomain": "email.marykay.com", 
+    "dkim_count": 1, 
+    "dkim_efrom_match": 0, 
+    "dkim_hfrom_match": 1, 
+    "dkim_passed_count": 1, 
+    "dkim_signs_cnt": 1, 
+    "dkselector": "200608", 
+    "dkstatus": "PASS", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/7ba41014470328de96bf21cf63ac2b6f.eml", 
+    "extractedEmails": [], 
+    "extractedEmailsCardinality": 0, 
+    "extractedEmailsDomainCount": 0, 
+    "extractedEmailsTotalCount": 0, 
+    "extractedHrefUrls": [
+        "", 
+        "http://cl.exct.net/?qs=5b6f791a9883265827847d7c0ae8fa26c8b6a0245e0b8006adb9dae4377792da0a61f66ac1daacb5", 
+        "http://cl.exct.net/?qs=5b6f791a988326582dec4915dcb980cdddc590813e827654b2699046e7d16d1daa15d10cb2cf2e9f", 
+        "http://cl.exct.net/?qs=5b6f791a98832658b397d4621d665c0855d695fea529b0b2a76574b513b490b4b2ac57d58e7e41db7d715740d4e00ad0"
+    ], 
+    "extractedHrefUrlsCardinality": 4, 
+    "extractedHrefUrlsDomainCount": 1, 
+    "extractedHrefUrlsTotalCount": 4, 
+    "extractedSrcUrls": [
+        "http://content2.dev.marykayintouch.com/Public/eSuite/EmailTemplates/Images/email_myMK_head_logo.jpg", 
+        "http://cl.exct.net/open.aspx?ffcb10-fe591078766302757516-fdcc15717662027c7615747060-fe60157071640c747612-fe91137274610c7b74-fdfa"
+    ], 
+    "extractedSrcUrlsCardinality": 2, 
+    "extractedSrcUrlsDomainCount": 2, 
+    "extractedSrcUrlsTotalCount": 2, 
+    "extractedTxtUrls": [
+        "http://www.marykayintouch.cz/Login/Main/PasswordUpdate.aspx?token=D34A80F95AC26F3DCBE9DDEB1ED4820E64390E7CB40E495AD205C67B778A1C"
+    ], 
+    "extractedTxtUrlsCardinality": 1, 
+    "extractedTxtUrlsDomainCount": 1, 
+    "extractedTxtUrlsTotalCount": 1, 
+    "first10words": " Mary Kay Vase heslo pro pristup na stranky Mary Kay InTouch si muzete zmenit kliknutim na odkaz htt", 
+    "from_match": 0, 
+    "header_from": "EmailInitiatives@email.marykay.com", 
+    "header_from_count": 1, 
+    "header_reply_to_count": 0, 
+    "header_total_count": 15, 
+    "html_in_text_plain_count": 0, 
+    "html_script_tag_count": 0, 
+    "html_tag_total_count": 79, 
+    "html_td_tag_count": 12, 
+    "html_tr_tag_count": 12, 
+    "lang": "cs", 
+    "last10words": "r o sidli na adrese Andel Media Centrum Karla Englise 519 11 150 00 Praha 5 MK Mary Kay 2014 MARY KAY INC ", 
+    "list_unsubscribe_http_count": 0, 
+    "list_unsubscribe_invalid_count": 0, 
+    "list_unsubscribe_mailto_count": 1, 
+    "list_unsubscribe_total_count": 1, 
+    "list_unsubscribe_urls": [
+        "mailto:leave-fc7d137274610c7b747b28313958-fdfa15777360037e75147373-fe591078766302757516-fe60157071640c747612-ff2716787263@leave.exacttarget.com"
+    ], 
+    "mime_children_count": 0, 
+    "mime_children_types": [], 
+    "mime_root_type": "text/html", 
+    "notches": [
+        {
+            "module": "ill", 
+            "name": [
+                "date_in_past", 
+                "from_missmatch", 
+                "html_a_href_camouflaging", 
+                "foreign_message_id"
+            ], 
+            "score": 1.2, 
+            "subscores": [
+                1, 
+                0.0, 
+                0.1, 
+                0.1
+            ]
+        }
+    ], 
+    "now": 1494598324, 
+    "pepca": "p5a102302622ece37", 
+    "pepca_inline_style": "p82cc7b5291d2121d", 
+    "pepca_inline_style_total": 0, 
+    "pepca_style": "", 
+    "pepca_style_total": 0, 
+    "pepcatotal": 0, 
+    "phashes": [
+        {
+            "name": "pepca", 
+            "value": "p5a102302622ece37"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "p82cc7b5291d2121d"
+        }
+    ], 
+    "phish_score": 0, 
+    "phishing": {
+        "body_richness": 0.163690476190476, 
+        "camouflage": 1, 
+        "fake_https": 0, 
+        "html_form": 0, 
+        "is_html": true, 
+        "max_num_dots_urls": 3, 
+        "max_num_slashes_urls": 3, 
+        "num_black_sheep_link": -1, 
+        "num_black_sheep_link_global": -1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_external_links": 6, 
+        "num_freehost_urls": 0, 
+        "num_html_script_tags": 0, 
+        "num_https_urls": 0, 
+        "num_ip_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "num_of_chars": 1007, 
+        "num_param_phish": 0, 
+        "num_path_phish": 0, 
+        "num_phish_keywords": 4, 
+        "num_sender_diff_url": 2, 
+        "num_shortened_urls": 0, 
+        "num_subdomain_phish": 0, 
+        "num_text_forms": 4, 
+        "num_tld_in_url_path": 0, 
+        "num_www_in_url_path": 0, 
+        "subject_phish_keywords": 1, 
+        "subject_richness": 0.15625, 
+        "suspicious_links": [], 
+        "text_and_href": 0, 
+        "text_link_with_path": 1
+    }, 
+    "precedence": 3, 
+    "rcpts_count": 1, 
+    "rfcid_is_foreign": 1, 
+    "rfcid_is_invalid": false, 
+    "rfcid_length": 56, 
+    "self_send": 0, 
+    "senders": {
+        "cnt-pow4_w_duc": "", 
+        "cnt-pow4_w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "domain_keywords": "marykay", 
+        "domain_keywords_detail": [
+            {
+                "confidence": 29180715.564556, 
+                "domain": "marykay"
+            }
+        ], 
+        "ettf_w_duc": "", 
+        "ettf_w_duc_detail": [], 
+        "idf": "", 
+        "idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "log_cnt-w_duc_detail": [], 
+        "log_cnt_idf": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "log_ecnt_idf": "", 
+        "log_ecnt_idf_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "log_ecnt_log_idf_log_tidf": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "plain_domain": "", 
+        "plain_domain_detail": [], 
+        "src_revert": "ing", 
+        "src_revert_detail": [
+            {
+                "confidence": 1, 
+                "domain": "ing"
+            }, 
+            {
+                "confidence": 1, 
+                "domain": "marykay"
+            }
+        ], 
+        "tf_log_idf": "", 
+        "tf_log_idf_detail": [], 
+        "ttf_w_duc": "", 
+        "ttf_w_duc_detail": []
+    }, 
+    "spamscore": 1.2, 
+    "spamtrap_hit": false, 
+    "spf_dom_policy_registry": "Policy not found", 
+    "spf_domain_policy": "UNKNOWN", 
+    "spf_status_registry": "Status not found", 
+    "spfstatus": "NONE", 
+    "spfstatus_hfrom": "SPF_FAIL", 
+    "subject": "Mary Kay InTouch Zmena hesla", 
+    "subject_image_count": 0, 
+    "subject_word_count": 5, 
+    "word_count": 165
+}

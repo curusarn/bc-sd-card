@@ -1,0 +1,226 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1,
+                1
+            ],
+            "score": 2.1,
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id",
+                "images_in_subject"
+            ]
+        }
+    ],
+    "extractedTxtUrls": [
+        "http://www.sam73.cz"
+    ],
+    "spfstatus": "NONE",
+    "mime_root_type": "multipart/alternative",
+    "header_from_count": 1,
+    "now": 1494598262,
+    "dkim_efrom_match": 0,
+    "pepca_inline_style_total": 0,
+    "rcpts_count": 1,
+    "extractedEmailsTotalCount": 1,
+    "pepca_inline_style": "",
+    "pepca_style_total": 0,
+    "dkselector": "mandrill",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/4d176ae08975cf07e2f64770c52b27cb.eml",
+    "html_td_tag_count": 0,
+    "extractedHrefUrlsCardinality": 1,
+    "list_unsubscribe_mailto_count": 0,
+    "subject_word_count": 2,
+    "lang": "cs",
+    "precedence": 3,
+    "phishing": {
+        "num_html_script_tags": 0,
+        "num_text_forms": 2,
+        "fake_https": 0,
+        "is_html": true,
+        "num_non_80_port_urls": 0,
+        "num_https_urls": 0,
+        "num_of_chars": 146,
+        "num_param_phish": 0,
+        "text_and_href": 0,
+        "body_richness": 0.122448979591837,
+        "text_link_with_path": 0,
+        "max_num_slashes_urls": 4,
+        "num_shortened_urls": 0,
+        "num_sender_diff_url": 1,
+        "num_ip_urls": 0,
+        "num_black_sheep_link": -1,
+        "subject_richness": 0.0909090909090909,
+        "num_tld_in_url_path": 0,
+        "subject_phish_keywords": 1,
+        "num_black_sheep_link_global": -1,
+        "num_black_sheep_link_phish": 0,
+        "num_path_phish": 0,
+        "suspicious_links": [],
+        "html_form": 0,
+        "num_phish_keywords": 3,
+        "num_subdomain_phish": 0,
+        "num_domain_phish": 0,
+        "ner_domain_detected": false,
+        "camouflage": 0,
+        "num_freehost_urls": 0,
+        "num_external_links": 2,
+        "max_num_dots_urls": 3,
+        "num_www_in_url_path": 0
+    },
+    "spf_status_registry": "Status not found",
+    "rfcid_is_foreign": 1,
+    "from_match": 0,
+    "first10words": " Zapomenute heslo k vasemu uctu na www sam73 cz prihlasit se email houdkovah seznam cz heslo UpyJHW ",
+    "extractedTxtUrlsDomainCount": 1,
+    "spf_domain_policy": "UNKNOWN",
+    "header_total_count": 20,
+    "dkim_passed_count": 2,
+    "extractedTxtUrlsCardinality": 1,
+    "dkim_signs_cnt": 2,
+    "mime_children_types": [
+        "text/plain",
+        "text/html"
+    ],
+    "ahref_verbal_count": 1,
+    "subject_image_count": 1,
+    "phish_score": 0,
+    "rfcid_is_invalid": false,
+    "dkstatus": "PASS",
+    "phashes": [
+        {
+            "value": "p213d366aebe1bd33",
+            "name": "pepca"
+        }
+    ],
+    "extractedTxtUrlsTotalCount": 1,
+    "self_send": 0,
+    "dkdomain": "mail135.wdc04.mandrillapp.com",
+    "html_tr_tag_count": 0,
+    "extractedEmails": [
+        "houdkovah@seznam.cz"
+    ],
+    "html_tag_total_count": 19,
+    "mime_children_count": 2,
+    "spamtrap_hit": false,
+    "extractedEmailsDomainCount": 1,
+    "adNotches": [
+        {
+            "subscores": [
+                5
+            ],
+            "score": 5,
+            "module": "ill",
+            "name": [
+                "images_in_subject"
+            ]
+        }
+    ],
+    "extractedHrefUrlsTotalCount": 1,
+    "dk_statuses": [
+        {
+            "selector": "mandrill",
+            "status": "PASS",
+            "domain": "mail135.wdc04.mandrillapp.com"
+        },
+        {
+            "selector": "mandrill",
+            "status": "PASS",
+            "domain": "mandrillapp.com"
+        }
+    ],
+    "extractedSrcUrlsCardinality": 1,
+    "senders": {
+        "log_cnt_idf_detail": [],
+        "log_ecnt_idf_detail": [],
+        "tf_log_idf": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "cnt-pow4_w_duc_detail": [],
+        "ttf_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "src_revert": "topsrovnani",
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "plain_domain": "sam73",
+        "src_revert_detail": [
+            {
+                "confidence": 1,
+                "domain": "topsrovnani"
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "sam73"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "tf_log_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 4276998.86726,
+                "domain": "skype"
+            }
+        ],
+        "domain_keywords": "skype",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt_idf": ""
+    },
+    "spamscore": 2.1,
+    "ahref_total_count": 1,
+    "extractedEmailsCardinality": 1,
+    "extractedSrcUrlsTotalCount": 1,
+    "dkim_count": 2,
+    "adscore": 5,
+    "pepca": "p213d366aebe1bd33",
+    "html_script_tag_count": 0,
+    "date_difference": -79896137,
+    "html_in_text_plain_count": 0,
+    "pepca_style": "",
+    "word_count": 18,
+    "rfcid_length": 23,
+    "spf_dom_policy_registry": "Policy not found",
+    "pepcatotal": 0,
+    "last10words": " Zapomenute heslo k vasemu uctu na www sam73 cz prihlasit se email houdkovah seznam cz heslo UpyJHW ",
+    "extractedHrefUrls": [
+        "http://mandrillapp.com/track/click/30133133/www.sam73.cz?p=eyJzIjoiUjZvTmVsUTI5bXFpTTBBQjl3ZWJKQkg4VHR3IiwidiI6MSwicCI6IntcInVcI"
+    ],
+    "spfstatus_hfrom": "SPF_SOFTFAIL",
+    "header_reply_to_count": 0,
+    "dkim_hfrom_match": 0,
+    "attachments": [],
+    "content": "CONTENT_DEFAULT",
+    "extractedSrcUrls": [
+        "http://mandrillapp.com/track/open.php?u=30133133&id=6a50d01b596a42daa7828fe863656fe5"
+    ],
+    "list_unsubscribe_http_count": 0,
+    "extractedHrefUrlsDomainCount": 1,
+    "subject": " Zapomenute heslo",
+    "list_unsubscribe_total_count": 0,
+    "extractedSrcUrlsDomainCount": 1,
+    "ahref_camouflage_count": 0,
+    "list_unsubscribe_invalid_count": 0,
+    "header_from": "info@sam73.cz"
+}

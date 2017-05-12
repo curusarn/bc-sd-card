@@ -1,0 +1,214 @@
+{
+    "date_difference": -318170458,
+    "html_td_tag_count": 0,
+    "list_unsubscribe_total_count": 0,
+    "precedence": 3,
+    "spfstatus_hfrom": "SPF_FAIL",
+    "dkim_passed_count": 0,
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging"
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "extractedHrefUrlsDomainCount": 1,
+    "first10words": " Fifth Third Treasury Management Login Confirmation Procedure Dear 53 rd USA user Our Maintenance Subd",
+    "word_count": 191,
+    "pepca": "p879f3fd886f6faef",
+    "extractedSrcUrlsDomainCount": 0,
+    "last10words": " The 53 rd USA Direct please disregard this notice Copyright 2007 The Fifth Third Bank All Rights Reserved ",
+    "extractedTxtUrlsDomainCount": 1,
+    "pepcatotal": 0,
+    "pepca_style_total": 0,
+    "extractedEmails": [],
+    "mime_root_type": "multipart/related",
+    "extractedEmailsCardinality": 0,
+    "extractedHrefUrlsTotalCount": 1,
+    "html_tr_tag_count": 0,
+    "pepca_style": "",
+    "dkStatusDetail": "NOT_SIGNED",
+    "header_from_count": 1,
+    "header_total_count": 35,
+    "dk_statuses": [
+        {
+            "status": "NEUTRAL",
+            "statusDetail": "NOT_SIGNED"
+        }
+    ],
+    "ahref_camouflage_count": 1,
+    "extractedSrcUrlsTotalCount": 1,
+    "html_tag_total_count": 127,
+    "header_reply_to_count": 0,
+    "extractedEmailsDomainCount": 0,
+    "dkim_hfrom_match": 0,
+    "dkstatus": "NEUTRAL",
+    "ahref_total_count": 1,
+    "subject_image_count": 0,
+    "extractedTxtUrlsCardinality": 1,
+    "spf_domain_policy": "UNKNOWN",
+    "spf_status_registry": "Status not found",
+    "rfcid_is_foreign": 0,
+    "content": "CONTENT_DEFAULT",
+    "extractedSrcUrls": [
+        "cid:000b01c77d72$cb481f96$0301010a@RohoruaFamily"
+    ],
+    "lang": "en",
+    "extractedTxtUrls": [
+        "http://www.53.com/wps98294aj/verify/cbupdate"
+    ],
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/1819.eml",
+    "spamscore": 1.1,
+    "attachments": [
+        {
+            "flags": 0,
+            "cte": "BASE64",
+            "name": "ecs433.gif",
+            "size": 2782,
+            "mime_type": "image/gif",
+            "sumphash": "e882f7d03c3ecdea52185d0a59ebf0c3",
+            "cid": "000b01c77d72$cb481f96$0301010a@RohoruaFamily",
+            "pepca": "p054e21a535383ab7"
+        }
+    ],
+    "extractedSrcUrlsCardinality": 1,
+    "from_match": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p054e21a535383ab7"
+        },
+        {
+            "name": "pepca",
+            "value": "p879f3fd886f6faef"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pff76926e0da9004c"
+        }
+    ],
+    "extractedHrefUrls": [
+        "http://www.53.com.wps0543k.kitj.hk/confirm/cbupdate"
+    ],
+    "pepca_inline_style": "pff76926e0da9004c",
+    "pepca_inline_style_total": 0,
+    "self_send": 0,
+    "now": 1494597897,
+    "mime_children_count": 2,
+    "ahref_verbal_count": 0,
+    "extractedTxtUrlsTotalCount": 1,
+    "subject_word_count": 9,
+    "rcpts_count": 1,
+    "dkim_count": 0,
+    "rfcid_is_invalid": false,
+    "header_from": "technical_support-op_46rj@53.com",
+    "list_unsubscribe_mailto_count": 0,
+    "rfcid_length": 44,
+    "html_in_text_plain_count": 0,
+    "extractedHrefUrlsCardinality": 1,
+    "html_script_tag_count": 0,
+    "dkim_efrom_match": 0,
+    "adscore": 0,
+    "mime_children_types": [
+        "multipart/alternative",
+        "image/gif"
+    ],
+    "dkim_signs_cnt": 1,
+    "spfstatus": "NONE",
+    "extractedEmailsTotalCount": 0,
+    "spamtrap_hit": false,
+    "spf_dom_policy_registry": "Policy not found",
+    "list_unsubscribe_http_count": 0,
+    "phishing": {
+        "body_richness": 0.236093943139679,
+        "num_black_sheep_link": -1,
+        "subject_richness": 0.136363636363636,
+        "max_num_slashes_urls": 3,
+        "num_https_urls": 0,
+        "camouflage": 1,
+        "ner_domain_detected": true,
+        "html_form": 0,
+        "num_subdomain_phish": 0,
+        "num_external_links": 1,
+        "fake_https": 0,
+        "5_top_domains_id_0": 0,
+        "num_html_script_tags": 0,
+        "num_freehost_urls": 0,
+        "num_phish_keywords": 6,
+        "suspicious_links": [],
+        "num_sender_diff_url": 1,
+        "text_and_href": 0,
+        "subject_phish_keywords": 3,
+        "num_www_in_url_path": 0,
+        "num_domain_phish": 0,
+        "5_top_domains_percent_0": 1.0,
+        "num_of_chars": 808,
+        "num_ip_urls": 0,
+        "num_path_phish": 0,
+        "num_param_phish": 0,
+        "max_num_dots_urls": 5,
+        "num_tld_in_url_path": 0,
+        "is_html": true,
+        "num_black_sheep_link_phish": 0,
+        "num_non_80_port_urls": 0,
+        "num_text_forms": 10,
+        "num_black_sheep_link_global": -1,
+        "text_link_with_path": 1,
+        "num_shortened_urls": 0
+    },
+    "senders": {
+        "domain_keywords": "aweber",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "idf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt-pow4_w_duc": "",
+        "plain_domain_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "tf_log_idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "plain_domain": "",
+        "domain_keywords_detail": [
+            {
+                "domain": "aweber",
+                "confidence": 38271292.7594323
+            }
+        ],
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt_idf": "",
+        "tf_log_idf": "",
+        "src_revert_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_cnt-w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert": ""
+    },
+    "phish_score": 0,
+    "subject": "Fifth Third USA Commercial Banking Online Banking Service Upgrade",
+    "list_unsubscribe_invalid_count": 0
+}

@@ -1,0 +1,219 @@
+{
+    "date_difference": -315966786,
+    "html_td_tag_count": 88,
+    "list_unsubscribe_total_count": 0,
+    "precedence": 3,
+    "spfstatus_hfrom": "SPF_SOFTFAIL",
+    "dkim_passed_count": 0,
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1,
+                0.5
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging",
+                "long_subject"
+            ],
+            "score": 1.6,
+            "module": "ill"
+        }
+    ],
+    "extractedHrefUrlsDomainCount": 2,
+    "first10words": " eBay sent this message to Justus Listing confirmed Sell another item now Your item has been su",
+    "word_count": 527,
+    "pepca": "pa474a36f06995006",
+    "extractedSrcUrlsDomainCount": 3,
+    "last10words": "y and the eBay logo are registered trademarks or trademarks of eBay Inc eBay is located at 2145 Hamilton Avenue San Jose CA 95125 ",
+    "extractedTxtUrlsDomainCount": 1,
+    "pepcatotal": 0,
+    "pepca_style_total": 0,
+    "extractedEmails": [],
+    "mime_root_type": "text/html",
+    "extractedEmailsCardinality": 0,
+    "extractedHrefUrlsTotalCount": 2,
+    "html_tr_tag_count": 54,
+    "pepca_style": "",
+    "dkStatusDetail": "NOT_SIGNED",
+    "header_from_count": 1,
+    "header_total_count": 25,
+    "dk_statuses": [
+        {
+            "status": "NEUTRAL",
+            "statusDetail": "NOT_SIGNED"
+        }
+    ],
+    "ahref_camouflage_count": 5,
+    "extractedSrcUrlsTotalCount": 12,
+    "html_tag_total_count": 286,
+    "header_reply_to_count": 0,
+    "extractedEmailsDomainCount": 0,
+    "dkim_hfrom_match": 0,
+    "dkstatus": "NEUTRAL",
+    "ahref_total_count": 16,
+    "subject_image_count": 0,
+    "extractedTxtUrlsCardinality": 8,
+    "spf_domain_policy": "UNKNOWN",
+    "spf_status_registry": "Status not found",
+    "rfcid_is_foreign": 0,
+    "content": "CONTENT_DEFAULT",
+    "extractedSrcUrls": [
+        "http://pics.ebaystatic.com/aw/pics/securityCenter/imgShield_25x25.gif",
+        "http://pics.ebaystatic.com/aw/pics/securityCenter/imgTabCorner_25x25.gif",
+        "http://us.ebayobjects.com/1a/ebay.us.listconfirmation/Cell-Phones-PDAs;cat=15032;cat=146487;cat=64355;tile=1;oid=65622857;bold=y",
+        "http://us.ebayobjects.com/1a/ebay.us.listconfirmation/Cell-Phones-PDAs;cat=15032;cat=146487;cat=64355;tile=2;oid=65622857;bold=y",
+        "http://srv.main.ebayrtm.com/clk?RtmOpen&m0=20476&c0=11068&t0=0&np=1&i=65622857&ch=5&dt=1176847991923"
+    ],
+    "lang": "en",
+    "extractedTxtUrls": [
+        "http://pages.ebay.com/help/policies/privacy-policy.html",
+        "http://pages.ebay.com/help/policies/user-agreement.html",
+        "http://cm.ebay.com/cm/ck/1065-29296-2357-0?uid=65622857&site=0&ver=LCA080805&item=260109050473&lk=URL",
+        "http://pages.ebay.com/education/spooftutorial",
+        "http://www.ebay.com."
+    ],
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/1936.eml",
+    "spamscore": 1.6,
+    "attachments": [],
+    "extractedSrcUrlsCardinality": 12,
+    "from_match": 0,
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pa474a36f06995006"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p41917e76d89b274b"
+        }
+    ],
+    "extractedHrefUrls": [
+        "http://082ch.dip.jp/php/support-ebay-account/",
+        "http://seiwakaiingersoll.com/img/icons/tabs/"
+    ],
+    "pepca_inline_style": "p41917e76d89b274b",
+    "pepca_inline_style_total": 0,
+    "self_send": 0,
+    "now": 1494597899,
+    "mime_children_count": 0,
+    "ahref_verbal_count": 11,
+    "extractedTxtUrlsTotalCount": 8,
+    "subject_word_count": 11,
+    "rcpts_count": 1,
+    "dkim_count": 0,
+    "rfcid_is_invalid": false,
+    "header_from": "listing@ebay.com",
+    "list_unsubscribe_mailto_count": 0,
+    "rfcid_length": 43,
+    "html_in_text_plain_count": 0,
+    "extractedHrefUrlsCardinality": 2,
+    "html_script_tag_count": 0,
+    "dkim_efrom_match": 0,
+    "adscore": 0,
+    "mime_children_types": [],
+    "dkim_signs_cnt": 1,
+    "spfstatus": "NONE",
+    "extractedEmailsTotalCount": 0,
+    "spamtrap_hit": false,
+    "spf_dom_policy_registry": "Policy not found",
+    "list_unsubscribe_http_count": 0,
+    "phishing": {
+        "5_top_domains_id_1": 0,
+        "body_richness": 0.2108,
+        "num_black_sheep_link": -1,
+        "subject_richness": 0.1375,
+        "max_num_slashes_urls": 4,
+        "num_https_urls": 0,
+        "camouflage": 1,
+        "ner_domain_detected": true,
+        "html_form": 0,
+        "num_subdomain_phish": 0,
+        "num_external_links": 7,
+        "fake_https": 0,
+        "5_top_domains_id_0": 0,
+        "num_html_script_tags": 0,
+        "num_freehost_urls": 0,
+        "num_phish_keywords": 11,
+        "suspicious_links": [],
+        "num_sender_diff_url": 2,
+        "text_and_href": 0,
+        "subject_phish_keywords": 0,
+        "num_www_in_url_path": 0,
+        "num_domain_phish": 0,
+        "5_top_domains_percent_0": 0.9473684210526315,
+        "num_of_chars": 2499,
+        "num_ip_urls": 0,
+        "num_path_phish": 0,
+        "num_param_phish": 0,
+        "max_num_dots_urls": 3,
+        "num_tld_in_url_path": 0,
+        "is_html": true,
+        "num_black_sheep_link_phish": 0,
+        "num_non_80_port_urls": 0,
+        "num_text_forms": 6,
+        "num_black_sheep_link_global": -1,
+        "text_link_with_path": 6,
+        "5_top_domains_percent_1": 0.05263157894736842,
+        "num_shortened_urls": 0
+    },
+    "senders": {
+        "domain_keywords": "ebay",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "idf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt-pow4_w_duc": "",
+        "plain_domain_detail": [
+            {
+                "domain": "ebay",
+                "confidence": 2
+            }
+        ],
+        "log_cnt-pow_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "tf_log_idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "plain_domain": "ebay",
+        "domain_keywords_detail": [
+            {
+                "domain": "ebay",
+                "confidence": 9191263155.52839
+            }
+        ],
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt_idf": "",
+        "tf_log_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "ebay",
+                "confidence": 10
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_cnt-w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert": "ebay"
+    },
+    "phish_score": 0,
+    "subject": "eBay Listing Confirmed NOKIA N95 NOKIA E90 NEW AND UNLOCKED 260109050473 ",
+    "list_unsubscribe_invalid_count": 0
+}

@@ -1,0 +1,204 @@
+{
+    "adscore": 0, 
+    "ahref_camouflage_count": 0, 
+    "ahref_total_count": 5, 
+    "ahref_verbal_count": 4, 
+    "attachments": [], 
+    "content": "CONTENT_DEFAULT", 
+    "date_difference": -80131257, 
+    "dk_statuses": [
+        {
+            "domain": "facebookmail.com", 
+            "selector": "s1024-2013-q3", 
+            "status": "PASS"
+        }
+    ], 
+    "dkdomain": "facebookmail.com", 
+    "dkim_count": 1, 
+    "dkim_efrom_match": 0, 
+    "dkim_hfrom_match": 1, 
+    "dkim_passed_count": 1, 
+    "dkim_signs_cnt": 1, 
+    "dkselector": "s1024-2013-q3", 
+    "dkstatus": "PASS", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/552cac9a9040a29fe467dc1257949f17.eml", 
+    "extractedEmails": [
+        "dennytothova@gmail.com"
+    ], 
+    "extractedEmailsCardinality": 1, 
+    "extractedEmailsDomainCount": 1, 
+    "extractedEmailsTotalCount": 1, 
+    "extractedHrefUrls": [
+        "https://www.facebook.com/recover/code?u=100000105286565&n=358303", 
+        "https://www.facebook.com/login/recover/disavow_reset_email.php?n=358303&id=100000105286565"
+    ], 
+    "extractedHrefUrlsCardinality": 2, 
+    "extractedHrefUrlsDomainCount": 1, 
+    "extractedHrefUrlsTotalCount": 2, 
+    "extractedSrcUrls": [
+        "https://www.facebook.com/email_open_log_pic.php?mid=ab90af3G5af316c0cba5G0G178Gd0bed1e"
+    ], 
+    "extractedSrcUrlsCardinality": 1, 
+    "extractedSrcUrlsDomainCount": 1, 
+    "extractedSrcUrlsTotalCount": 1, 
+    "first10words": " Facebook Nekdo nedavno pozadat o obnoveni vaseho hesla k Facebooku Kliknete sem a zmente si heslo Pripadne muzete zada", 
+    "from_match": 0, 
+    "header_from": "password+zrdoc1fl1ic1@facebookmail.com", 
+    "header_from_count": 1, 
+    "header_reply_to_count": 1, 
+    "header_total_count": 31, 
+    "html_in_text_plain_count": 0, 
+    "html_script_tag_count": 0, 
+    "html_tag_total_count": 184, 
+    "html_td_tag_count": 58, 
+    "html_tr_tag_count": 42, 
+    "lang": "cs", 
+    "last10words": " adresu dennytothova gmail com na vasi zadost Facebook Inc Attention Department 415 PO Box 10005 Palo Alto CA 94303 ", 
+    "list_unsubscribe_http_count": 0, 
+    "list_unsubscribe_invalid_count": 0, 
+    "list_unsubscribe_mailto_count": 0, 
+    "list_unsubscribe_total_count": 0, 
+    "mime_children_count": 2, 
+    "mime_children_types": [
+        "text/plain", 
+        "text/html"
+    ], 
+    "mime_root_type": "multipart/alternative", 
+    "notches": [
+        {
+            "module": "ill", 
+            "name": [
+                "date_in_past", 
+                "from_missmatch", 
+                "long_subject"
+            ], 
+            "score": 1.5, 
+            "subscores": [
+                1, 
+                0.0, 
+                0.5
+            ]
+        }
+    ], 
+    "now": 1494598270, 
+    "pepca": "p82907b5ae078c3bb", 
+    "pepca_inline_style": "pfca20d38c190b204", 
+    "pepca_inline_style_total": 0, 
+    "pepca_style": "pcfe600315c3a575a", 
+    "pepca_style_total": 0, 
+    "pepcatotal": 0, 
+    "phashes": [
+        {
+            "name": "pepca", 
+            "value": "p82907b5ae078c3bb"
+        }, 
+        {
+            "name": "pepca_style", 
+            "value": "pcfe600315c3a575a"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "pfca20d38c190b204"
+        }
+    ], 
+    "phish_score": 0, 
+    "phishing": {
+        "body_richness": 0.290052356020942, 
+        "camouflage": 0, 
+        "fake_https": 0, 
+        "html_form": 0, 
+        "is_html": true, 
+        "max_num_dots_urls": 3, 
+        "max_num_slashes_urls": 3, 
+        "num_black_sheep_link": -1, 
+        "num_black_sheep_link_global": -1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_external_links": 3, 
+        "num_freehost_urls": 0, 
+        "num_html_script_tags": 0, 
+        "num_https_urls": 3, 
+        "num_ip_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "num_of_chars": 954, 
+        "num_param_phish": 0, 
+        "num_path_phish": 0, 
+        "num_phish_keywords": 14, 
+        "num_sender_diff_url": 1, 
+        "num_shortened_urls": 0, 
+        "num_subdomain_phish": 0, 
+        "num_text_forms": 17, 
+        "num_tld_in_url_path": 0, 
+        "num_www_in_url_path": 0, 
+        "subject_phish_keywords": 2, 
+        "subject_richness": 0.163934426229508, 
+        "suspicious_links": [], 
+        "text_and_href": 0, 
+        "text_link_with_path": 0
+    }, 
+    "precedence": 3, 
+    "rcpts_count": 1, 
+    "rfcid_is_foreign": 0, 
+    "rfcid_is_invalid": false, 
+    "rfcid_length": 47, 
+    "self_send": 0, 
+    "senders": {
+        "cnt-pow4_w_duc": "", 
+        "cnt-pow4_w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "domain_keywords": "ebay", 
+        "domain_keywords_detail": [
+            {
+                "confidence": 27543795.8669938, 
+                "domain": "ebay"
+            }
+        ], 
+        "ettf_w_duc": "", 
+        "ettf_w_duc_detail": [], 
+        "idf": "", 
+        "idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "log_cnt-w_duc_detail": [], 
+        "log_cnt_idf": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "log_ecnt_idf": "", 
+        "log_ecnt_idf_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "log_ecnt_log_idf_log_tidf": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "plain_domain": "", 
+        "plain_domain_detail": [], 
+        "src_revert": "facebookmail", 
+        "src_revert_detail": [
+            {
+                "confidence": 1, 
+                "domain": "facebookmail"
+            }
+        ], 
+        "tf_log_idf": "", 
+        "tf_log_idf_detail": [], 
+        "ttf_w_duc": "", 
+        "ttf_w_duc_detail": []
+    }, 
+    "spamscore": 1.5, 
+    "spamtrap_hit": false, 
+    "spf_dom_policy_registry": "Policy not found", 
+    "spf_domain_policy": "UNKNOWN", 
+    "spf_status_registry": "Status not found", 
+    "spfstatus": "NONE", 
+    "spfstatus_hfrom": "SPF_FAIL", 
+    "subject": "Nekdo pozadal o nove heslo k vasemu uctu na Facebooku", 
+    "subject_image_count": 0, 
+    "subject_word_count": 10, 
+    "word_count": 277
+}

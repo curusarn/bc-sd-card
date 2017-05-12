@@ -1,0 +1,236 @@
+{
+    "adscore": 0, 
+    "ahref_camouflage_count": 0, 
+    "ahref_total_count": 8, 
+    "ahref_verbal_count": 6, 
+    "attachments": [
+        {
+            "cid": "5c1f5fedb9efa38b18bc8e89d5ac7e4d", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "image/jpeg", 
+            "name": "5c1f5fedb9efa38b18bc8e89d5ac7e4d.jpg", 
+            "pepca": "p028dc2f89556ca59", 
+            "size": 65199, 
+            "sumphash": "aec1c5f3621ed2826d8c99f4f617755c"
+        }
+    ], 
+    "content": "CONTENT_DEFAULT", 
+    "date_difference": -84739938, 
+    "dkStatusDetail": "NOT_SIGNED", 
+    "dk_statuses": [
+        {
+            "status": "NEUTRAL", 
+            "statusDetail": "NOT_SIGNED"
+        }
+    ], 
+    "dkim_count": 0, 
+    "dkim_efrom_match": 0, 
+    "dkim_hfrom_match": 0, 
+    "dkim_passed_count": 0, 
+    "dkim_signs_cnt": 1, 
+    "dkstatus": "NEUTRAL", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/246182.eml", 
+    "extractedEmails": [
+        "info@narodnipokladnice.cz"
+    ], 
+    "extractedEmailsCardinality": 1, 
+    "extractedEmailsDomainCount": 1, 
+    "extractedEmailsTotalCount": 1, 
+    "extractedHrefUrls": [
+        "http://www.narodnipokladnice.cz", 
+        "http://www.narodnipokladnice.cz/obchodnipodminky", 
+        "http://www.narodnipokladnice.cz/zivotkarla?utm_source=EM_upsell&utm_medium=V%C3%BDro%C4%8D%C3%AD+%C4%8Desk%C3%A9+hymny&utm_campa", 
+        "http://www.narodnipokladnice.cz/kontakt", 
+        "http://www.narodnipokladnice.cz/uvod"
+    ], 
+    "extractedHrefUrlsCardinality": 5, 
+    "extractedHrefUrlsDomainCount": 1, 
+    "extractedHrefUrlsTotalCount": 5, 
+    "extractedSrcUrls": [
+        "http://www.narodnipokladnice.cz/images/stories/sn/logo.png", 
+        "cid:5c1f5fedb9efa38b18bc8e89d5ac7e4d"
+    ], 
+    "extractedSrcUrlsCardinality": 2, 
+    "extractedSrcUrlsDomainCount": 1, 
+    "extractedSrcUrlsTotalCount": 2, 
+    "extractedTxtUrls": [
+        "http://www.narodnipokladnice.cz/obchodnipodminky", 
+        "http://www.narodnipokladnice.cz/obchodnipodminky."
+    ], 
+    "extractedTxtUrlsCardinality": 2, 
+    "extractedTxtUrlsDomainCount": 1, 
+    "extractedTxtUrlsTotalCount": 2, 
+    "first10words": " Potvrzeni objednavky ze stranek Narodni Pokladnice V pripade jakychkoliv dotazu volejte 810 100 500 Vazen", 
+    "from_match": 0, 
+    "header_from": "info@narodnipokladnice.cz", 
+    "header_from_count": 1, 
+    "header_reply_to_count": 0, 
+    "header_total_count": 13, 
+    "html_in_text_plain_count": 0, 
+    "html_script_tag_count": 0, 
+    "html_tag_total_count": 102, 
+    "html_td_tag_count": 20, 
+    "html_tr_tag_count": 18, 
+    "lang": "cs", 
+    "last10words": "am Maciej Zielinski Pal Christian Mortensen James Deeny Spolecnost zapsana v OR vedenem Mestskym soudem v Praze oddil C vlozka 146644 ", 
+    "list_unsubscribe_http_count": 0, 
+    "list_unsubscribe_invalid_count": 0, 
+    "list_unsubscribe_mailto_count": 0, 
+    "list_unsubscribe_total_count": 0, 
+    "mime_children_count": 2, 
+    "mime_children_types": [
+        "text/html", 
+        "image/jpeg"
+    ], 
+    "mime_root_type": "multipart/related", 
+    "notches": [
+        {
+            "module": "ill", 
+            "name": [
+                "date_in_past", 
+                "from_missmatch", 
+                "foreign_message_id"
+            ], 
+            "score": 1.1, 
+            "subscores": [
+                1, 
+                0.0, 
+                0.1
+            ]
+        }
+    ], 
+    "now": 1494598205, 
+    "pepca": "pd0b1f709f7d2b3e6", 
+    "pepca_inline_style": "pe6a1c6823c530fe4", 
+    "pepca_inline_style_total": 0, 
+    "pepca_style": "", 
+    "pepca_style_total": 0, 
+    "pepcatotal": 0, 
+    "phashes": [
+        {
+            "name": "att-pepca", 
+            "value": "p028dc2f89556ca59"
+        }, 
+        {
+            "name": "pepca", 
+            "value": "pd0b1f709f7d2b3e6"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "pe6a1c6823c530fe4"
+        }
+    ], 
+    "phish_score": 0, 
+    "phishing": {
+        "body_richness": 0.165433759246806, 
+        "camouflage": 0, 
+        "fake_https": 0, 
+        "html_form": 0, 
+        "is_html": true, 
+        "max_num_dots_urls": 3, 
+        "max_num_slashes_urls": 1, 
+        "num_black_sheep_link": -1, 
+        "num_black_sheep_link_global": -1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_external_links": 6, 
+        "num_freehost_urls": 0, 
+        "num_html_script_tags": 0, 
+        "num_https_urls": 0, 
+        "num_ip_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "num_of_chars": 1486, 
+        "num_param_phish": 0, 
+        "num_path_phish": 0, 
+        "num_phish_keywords": 2, 
+        "num_sender_diff_url": 0, 
+        "num_shortened_urls": 0, 
+        "num_subdomain_phish": 0, 
+        "num_text_forms": 2, 
+        "num_tld_in_url_path": 0, 
+        "num_www_in_url_path": 0, 
+        "subject_phish_keywords": 1, 
+        "subject_richness": 0.117647058823529, 
+        "suspicious_links": [], 
+        "text_and_href": 1, 
+        "text_link_with_path": 2
+    }, 
+    "precedence": 3, 
+    "rcpts_count": 1, 
+    "rfcid_is_foreign": 1, 
+    "rfcid_is_invalid": false, 
+    "rfcid_length": 53, 
+    "self_send": 0, 
+    "senders": {
+        "cnt-pow4_w_duc": "", 
+        "cnt-pow4_w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "domain_keywords": "narodnipokladnice", 
+        "domain_keywords_detail": [
+            {
+                "confidence": 18296268.750993, 
+                "domain": "narodnipokladnice"
+            }
+        ], 
+        "ettf_w_duc": "", 
+        "ettf_w_duc_detail": [], 
+        "idf": "", 
+        "idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "log_cnt-w_duc_detail": [], 
+        "log_cnt_idf": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "log_ecnt_idf": "", 
+        "log_ecnt_idf_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "log_ecnt_log_idf_log_tidf": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "plain_domain": "narodnipokladnice", 
+        "plain_domain_detail": [
+            {
+                "confidence": 1, 
+                "domain": "narodnipokladnice"
+            }
+        ], 
+        "src_revert": "narodnipokladnice", 
+        "src_revert_detail": [
+            {
+                "confidence": 1, 
+                "domain": "narodnipokladnice"
+            }
+        ], 
+        "tf_log_idf": "", 
+        "tf_log_idf_detail": [], 
+        "ttf_w_duc": "", 
+        "ttf_w_duc_detail": []
+    }, 
+    "spamscore": 1.1, 
+    "spamtrap_hit": false, 
+    "spf_dom_policy_registry": "Policy not found", 
+    "spf_domain_policy": "UNKNOWN", 
+    "spf_status_registry": "Status not found", 
+    "spfstatus": "NONE", 
+    "spfstatus_hfrom": "SPF_SOFTFAIL", 
+    "subject": "Potvrzeni Vasi rezervace emise", 
+    "subject_image_count": 0, 
+    "subject_word_count": 4, 
+    "unsub_link": "http://www.narodnipokladnice.cz/obchodnipodminky", 
+    "unsub_link_candidates": [
+        "http://www.narodnipokladnice.cz/obchodnipodminky"
+    ], 
+    "unsub_link_texts": [
+        " vseobecny obchodny podminka "
+    ], 
+    "word_count": 246
+}

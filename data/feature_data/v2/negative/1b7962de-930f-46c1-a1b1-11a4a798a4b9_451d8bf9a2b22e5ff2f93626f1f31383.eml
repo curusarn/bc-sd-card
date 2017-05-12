@@ -1,0 +1,223 @@
+{
+    "adscore": 0, 
+    "ahref_camouflage_count": 0, 
+    "ahref_total_count": 5, 
+    "ahref_verbal_count": 2, 
+    "attachments": [], 
+    "content": "CONTENT_DEFAULT", 
+    "date_difference": -79757413, 
+    "dkStatusDetail": "NOT_SIGNED", 
+    "dk_statuses": [
+        {
+            "status": "NEUTRAL", 
+            "statusDetail": "NOT_SIGNED"
+        }
+    ], 
+    "dkim_count": 0, 
+    "dkim_efrom_match": 0, 
+    "dkim_hfrom_match": 0, 
+    "dkim_passed_count": 0, 
+    "dkim_signs_cnt": 1, 
+    "dkstatus": "NEUTRAL", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/451d8bf9a2b22e5ff2f93626f1f31383.eml", 
+    "extractedEmails": [
+        "podpora@dobraprace.cz", 
+        "lenlho@seznam.cz", 
+        "podpora@dobraprace.cz."
+    ], 
+    "extractedEmailsCardinality": 3, 
+    "extractedEmailsDomainCount": 3, 
+    "extractedEmailsTotalCount": 3, 
+    "extractedHrefUrls": [
+        "http://www.dobraprace.cz?utm_source=email&utm_medium=email&utm_campaign=", 
+        "http://www.dobraprace.cz/user/reset-password/?id_user=528&hash=ce4b42bc3b112586ec5f1115898781cdaae945f0", 
+        "http://www.dobraprace.cz/user/login/"
+    ], 
+    "extractedHrefUrlsCardinality": 3, 
+    "extractedHrefUrlsDomainCount": 1, 
+    "extractedHrefUrlsTotalCount": 3, 
+    "extractedSrcUrls": [
+        "http://www.dobraprace.cz/images/web/logo-email.gif"
+    ], 
+    "extractedSrcUrlsCardinality": 1, 
+    "extractedSrcUrlsDomainCount": 1, 
+    "extractedSrcUrlsTotalCount": 1, 
+    "extractedTxtUrls": [
+        "http://www.dobraprace.cz", 
+        "http://Dobraprace.cz", 
+        "http://Dobraprace.cz.", 
+        "http://www.dobraprace.cz.", 
+        "http://heslowww.dobraprace.cz"
+    ], 
+    "extractedTxtUrlsCardinality": 6, 
+    "extractedTxtUrlsDomainCount": 1, 
+    "extractedTxtUrlsTotalCount": 6, 
+    "first10words": " Zapomenute heslo www dobraprace cz ", 
+    "from_match": 0, 
+    "header_from": "no-reply@dobraprace.cz", 
+    "header_from_count": 1, 
+    "header_reply_to_count": 1, 
+    "header_total_count": 14, 
+    "html_in_text_plain_count": 0, 
+    "html_script_tag_count": 0, 
+    "html_tag_total_count": 100, 
+    "html_td_tag_count": 52, 
+    "html_tr_tag_count": 10, 
+    "lang": "cs", 
+    "last10words": "registraci na serveru www dobraprace cz Zasilani techto informacnich emailu muzete zrusit po prihlaseni do sveho profilu ", 
+    "list_unsubscribe_http_count": 0, 
+    "list_unsubscribe_invalid_count": 0, 
+    "list_unsubscribe_mailto_count": 0, 
+    "list_unsubscribe_total_count": 0, 
+    "mime_children_count": 2, 
+    "mime_children_types": [
+        "text/plain", 
+        "text/html"
+    ], 
+    "mime_root_type": "multipart/alternative", 
+    "notches": [
+        {
+            "module": "ill", 
+            "name": [
+                "date_in_past", 
+                "from_missmatch", 
+                "foreign_message_id"
+            ], 
+            "score": 1.1, 
+            "subscores": [
+                1, 
+                0.0, 
+                0.1
+            ]
+        }
+    ], 
+    "now": 1494598253, 
+    "pepca": "pee95e73b0b9017f5", 
+    "pepca_inline_style": "p33c703dfefece3aa", 
+    "pepca_inline_style_total": 0, 
+    "pepca_style": "", 
+    "pepca_style_total": 0, 
+    "pepcatotal": 0, 
+    "phashes": [
+        {
+            "name": "pepca", 
+            "value": "pee95e73b0b9017f5"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "p33c703dfefece3aa"
+        }
+    ], 
+    "phish_score": 0, 
+    "phishing": {
+        "body_richness": 0.164179104477612, 
+        "camouflage": 0, 
+        "fake_https": 0, 
+        "html_form": 0, 
+        "is_html": true, 
+        "max_num_dots_urls": 3, 
+        "max_num_slashes_urls": 3, 
+        "num_black_sheep_link": -1, 
+        "num_black_sheep_link_global": -1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_external_links": 4, 
+        "num_freehost_urls": 0, 
+        "num_html_script_tags": 0, 
+        "num_https_urls": 0, 
+        "num_ip_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "num_of_chars": 870, 
+        "num_param_phish": 0, 
+        "num_path_phish": 0, 
+        "num_phish_keywords": 6, 
+        "num_sender_diff_url": 0, 
+        "num_shortened_urls": 0, 
+        "num_subdomain_phish": 0, 
+        "num_text_forms": 8, 
+        "num_tld_in_url_path": 0, 
+        "num_www_in_url_path": 0, 
+        "subject_phish_keywords": 2, 
+        "subject_richness": 0.128571428571429, 
+        "suspicious_links": [], 
+        "text_and_href": 1, 
+        "text_link_with_path": 1
+    }, 
+    "precedence": 3, 
+    "rcpts_count": 1, 
+    "rfcid_is_foreign": 1, 
+    "rfcid_is_invalid": false, 
+    "rfcid_length": 50, 
+    "self_send": 0, 
+    "senders": {
+        "cnt-pow4_w_duc": "", 
+        "cnt-pow4_w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "domain_keywords": "dobraprace", 
+        "domain_keywords_detail": [
+            {
+                "confidence": 346920856.53581, 
+                "domain": "dobraprace"
+            }
+        ], 
+        "ettf_w_duc": "", 
+        "ettf_w_duc_detail": [], 
+        "idf": "", 
+        "idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "log_cnt-w_duc_detail": [], 
+        "log_cnt_idf": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "log_ecnt_idf": "", 
+        "log_ecnt_idf_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "log_ecnt_log_idf_log_tidf": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "plain_domain": "dobraprace", 
+        "plain_domain_detail": [
+            {
+                "confidence": 5, 
+                "domain": "dobraprace"
+            }
+        ], 
+        "src_revert": "dobraprace", 
+        "src_revert_detail": [
+            {
+                "confidence": 1, 
+                "domain": "dobraprace"
+            }
+        ], 
+        "tf_log_idf": "", 
+        "tf_log_idf_detail": [], 
+        "ttf_w_duc": "", 
+        "ttf_w_duc_detail": []
+    }, 
+    "spamscore": 1.1, 
+    "spamtrap_hit": false, 
+    "spf_dom_policy_registry": "Policy not found", 
+    "spf_domain_policy": "UNKNOWN", 
+    "spf_status_registry": "Status not found", 
+    "spfstatus": "NONE", 
+    "spfstatus_hfrom": "SPF_SOFTFAIL", 
+    "subject": "Zapomenute heslo do uzivatelskeho profilu na serveru Dobra prace", 
+    "subject_image_count": 0, 
+    "subject_word_count": 9, 
+    "unsub_link": "http://www.dobraprace.cz/user/login/", 
+    "unsub_link_candidates": [
+        "http://www.dobraprace.cz/user/login/"
+    ], 
+    "unsub_link_texts": [
+        "zasilani tento informacni email moct zrusit po prihlaseni do sve profil "
+    ], 
+    "word_count": 143
+}

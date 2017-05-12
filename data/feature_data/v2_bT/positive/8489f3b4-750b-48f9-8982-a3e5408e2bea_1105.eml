@@ -1,0 +1,218 @@
+{
+    "date_difference": -334277481,
+    "html_td_tag_count": 72,
+    "list_unsubscribe_total_count": 0,
+    "precedence": 3,
+    "spfstatus_hfrom": "SPF_SOFTFAIL",
+    "dkim_passed_count": 0,
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "extractedHrefUrlsDomainCount": 3,
+    "first10words": " Question about Item Respond Now eBay sent this message to brooks lauraA laurapurp3 Your registered name is included to s",
+    "word_count": 418,
+    "pepca": "pe7d80f26ffe2912d",
+    "extractedSrcUrlsDomainCount": 1,
+    "last10words": "Bay and the eBay logo are registered trademarks or trademarks of eBay Inc eBay is located at 2145 Hamilton Avenue San Jose CA 95125 ",
+    "extractedTxtUrlsDomainCount": 1,
+    "pepcatotal": 0,
+    "pepca_style_total": 0,
+    "extractedEmails": [],
+    "mime_root_type": "text/html",
+    "extractedEmailsCardinality": 0,
+    "extractedHrefUrlsTotalCount": 6,
+    "html_tr_tag_count": 50,
+    "pepca_style": "p0c338496fadff96a",
+    "dkStatusDetail": "NOT_SIGNED",
+    "header_from_count": 1,
+    "header_total_count": 19,
+    "dk_statuses": [
+        {
+            "status": "NEUTRAL",
+            "statusDetail": "NOT_SIGNED"
+        }
+    ],
+    "ahref_camouflage_count": 0,
+    "extractedSrcUrlsTotalCount": 9,
+    "html_tag_total_count": 251,
+    "header_reply_to_count": 1,
+    "extractedEmailsDomainCount": 0,
+    "dkim_hfrom_match": 0,
+    "dkstatus": "NEUTRAL",
+    "ahref_total_count": 6,
+    "subject_image_count": 0,
+    "extractedTxtUrlsCardinality": 1,
+    "spf_domain_policy": "UNKNOWN",
+    "spf_status_registry": "Status not found",
+    "rfcid_is_foreign": 0,
+    "content": "CONTENT_DEFAULT",
+    "extractedSrcUrls": [
+        "http://pics.ebaystatic.com/aw/pics/s.gif",
+        "http://pics.ebaystatic.com/aw/pics/icon/iconYellowStar_25x25.gif",
+        "http://pics.ebaystatic.com/aw/pics/email/message/btnRespondNow.gif",
+        "http://pics.ebaystatic.com/aw/pics/securityCenter/imgShield_25x25.gif",
+        "http://pics.ebaystatic.com/aw/pics/securityCenter/imgTabCorner_25x25.gif"
+    ],
+    "lang": "en",
+    "extractedTxtUrls": [
+        "http://www.ebay.com"
+    ],
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/1105.eml",
+    "spamscore": 1,
+    "attachments": [],
+    "extractedSrcUrlsCardinality": 9,
+    "from_match": 0,
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pe7d80f26ffe2912d"
+        },
+        {
+            "name": "pepca_style",
+            "value": "p0c338496fadff96a"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p948c7c047075d25e"
+        }
+    ],
+    "extractedHrefUrls": [
+        "https://seal.verisign.com/splash?form_file=fdf/splash.fdf&lang=EN&dn=scgi.ebay.com",
+        "http://rds.yahoo.com/_ylt=Ah0geusyaM2xEzqMAjS9XNyoA/SIG=11do5qdq6/EXP=1148028186/**http%3a//3281702322/https://signin.ebay.com/s",
+        "http://my.ebay.com/ws/eBayISAPI.dll?MyEbay&CurrentPage=MyeBayFavoriteSellers&ssPageName=ADME:B:SEL:US:23",
+        "http://my.ebay.com/ws/eBayISAPI.dll?AddSavedSeller&ru=MyeBayFavoriteSellers&ssPageName=ADME:B:SEL:US:24",
+        "http://pages.ebay.com/education/spooftutorial/"
+    ],
+    "pepca_inline_style": "p948c7c047075d25e",
+    "pepca_inline_style_total": 0,
+    "self_send": 0,
+    "now": 1494597875,
+    "mime_children_count": 0,
+    "ahref_verbal_count": 6,
+    "extractedTxtUrlsTotalCount": 1,
+    "subject_word_count": 8,
+    "rcpts_count": 1,
+    "dkim_count": 0,
+    "rfcid_is_invalid": false,
+    "header_from": "ebay@eBay.com",
+    "list_unsubscribe_mailto_count": 0,
+    "rfcid_length": 46,
+    "html_in_text_plain_count": 0,
+    "extractedHrefUrlsCardinality": 6,
+    "html_script_tag_count": 0,
+    "dkim_efrom_match": 0,
+    "adscore": 0,
+    "mime_children_types": [],
+    "dkim_signs_cnt": 1,
+    "spfstatus": "NONE",
+    "extractedEmailsTotalCount": 0,
+    "spamtrap_hit": false,
+    "spf_dom_policy_registry": "Policy not found",
+    "list_unsubscribe_http_count": 0,
+    "phishing": {
+        "5_top_domains_id_1": 0,
+        "body_richness": 0.259627329192547,
+        "num_black_sheep_link": -1,
+        "subject_richness": 0.148148148148148,
+        "max_num_slashes_urls": 8,
+        "num_https_urls": 2,
+        "camouflage": 0,
+        "ner_domain_detected": true,
+        "html_form": 0,
+        "num_subdomain_phish": 0,
+        "num_external_links": 10,
+        "fake_https": 0,
+        "5_top_domains_id_0": 0,
+        "num_html_script_tags": 0,
+        "num_freehost_urls": 0,
+        "num_phish_keywords": 3,
+        "suspicious_links": [],
+        "num_sender_diff_url": 2,
+        "text_and_href": 0,
+        "subject_phish_keywords": 0,
+        "num_www_in_url_path": 0,
+        "num_domain_phish": 0,
+        "5_top_domains_percent_0": 0.8571428571428571,
+        "num_of_chars": 1609,
+        "num_ip_urls": 0,
+        "num_path_phish": 0,
+        "num_param_phish": 0,
+        "max_num_dots_urls": 7,
+        "num_tld_in_url_path": 0,
+        "is_html": true,
+        "num_black_sheep_link_phish": 0,
+        "num_non_80_port_urls": 0,
+        "num_text_forms": 4,
+        "num_black_sheep_link_global": -1,
+        "text_link_with_path": 0,
+        "5_top_domains_percent_1": 0.14285714285714285,
+        "num_shortened_urls": 0
+    },
+    "senders": {
+        "domain_keywords": "ebay",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "idf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt-pow4_w_duc": "",
+        "plain_domain_detail": [
+            {
+                "domain": "ebay",
+                "confidence": 1
+            }
+        ],
+        "log_cnt-pow_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "tf_log_idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "plain_domain": "ebay",
+        "domain_keywords_detail": [
+            {
+                "domain": "ebay",
+                "confidence": 5388287675.37797
+            }
+        ],
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt_idf": "",
+        "tf_log_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "ebay",
+                "confidence": 9
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_cnt-w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert": "ebay"
+    },
+    "phish_score": 0,
+    "subject": "eBay sent this message from brooks laura laurapurp3 ",
+    "list_unsubscribe_invalid_count": 0
+}

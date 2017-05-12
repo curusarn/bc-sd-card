@@ -1,0 +1,219 @@
+{
+    "adscore": 0, 
+    "ahref_camouflage_count": 0, 
+    "ahref_total_count": 0, 
+    "ahref_verbal_count": 0, 
+    "attachments": [], 
+    "content": "CONTENT_DEFAULT", 
+    "date_difference": -340077569, 
+    "dkStatusDetail": "NOT_SIGNED", 
+    "dk_statuses": [
+        {
+            "status": "NEUTRAL", 
+            "statusDetail": "NOT_SIGNED"
+        }
+    ], 
+    "dkim_count": 0, 
+    "dkim_efrom_match": 0, 
+    "dkim_hfrom_match": 0, 
+    "dkim_passed_count": 0, 
+    "dkim_signs_cnt": 1, 
+    "dkstatus": "NEUTRAL", 
+    "dmarc_status": {}, 
+    "domainstat": {}, 
+    "domainstat_themes": {}, 
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing2/1319.eml", 
+    "extractedEmails": [], 
+    "extractedEmailsCardinality": 0, 
+    "extractedEmailsDomainCount": 0, 
+    "extractedEmailsTotalCount": 0, 
+    "extractedHrefUrls": [
+        "http://%62%76%61%73%67%64w%61%66we%66.%69n%66o/%61%64m%69n/%66o%72m_welfare.%70%68%70?ptn_id=yale", 
+        "http://reject.joa.cc"
+    ], 
+    "extractedHrefUrlsCardinality": 2, 
+    "extractedHrefUrlsDomainCount": 2, 
+    "extractedHrefUrlsTotalCount": 2, 
+    "extractedSrcUrls": [
+        "http://img133.imageshack.us/img133/2098/2dc1.gif", 
+        "http://img133.imageshack.us/img133/5523/3nt5.gif", 
+        "http://img133.imageshack.us/img133/7058/5oq1.gif", 
+        "http://img133.imageshack.us/img133/7253/6kb3.gif", 
+        "http://%69m%67216.%69m%61%67e%73%68%61c%6b.%75%73/%69m%67216/395/%72e%6aect%79%780.%67%69%66"
+    ], 
+    "extractedSrcUrlsCardinality": 6, 
+    "extractedSrcUrlsDomainCount": 2, 
+    "extractedSrcUrlsTotalCount": 6, 
+    "first10words": " ", 
+    "from_match": 0, 
+    "header_from": "dkshdgkshgh@hotmail.com", 
+    "header_from_count": 1, 
+    "header_reply_to_count": 1, 
+    "header_total_count": 21, 
+    "html_in_text_plain_count": 0, 
+    "html_script_tag_count": 0, 
+    "html_tag_total_count": 43, 
+    "html_td_tag_count": 12, 
+    "html_tr_tag_count": 10, 
+    "lang": "un", 
+    "last10words": " ", 
+    "list_unsubscribe_http_count": 0, 
+    "list_unsubscribe_invalid_count": 0, 
+    "list_unsubscribe_mailto_count": 0, 
+    "list_unsubscribe_total_count": 0, 
+    "mime_children_count": 1, 
+    "mime_children_types": [
+        "text/html"
+    ], 
+    "mime_root_type": "multipart/alternative", 
+    "notches": [
+        {
+            "module": "ill", 
+            "name": [
+                "date_in_past", 
+                "from_missmatch", 
+                "foreign_message_id"
+            ], 
+            "score": 1.1, 
+            "subscores": [
+                1, 
+                0.0, 
+                0.1
+            ]
+        }
+    ], 
+    "now": 1494597843, 
+    "pepca": "", 
+    "pepca_inline_style": "", 
+    "pepca_inline_style_total": 0, 
+    "pepca_small": "pa6783b225af2536a", 
+    "pepca_style": "", 
+    "pepca_style_total": 0, 
+    "pepcatotal": 0, 
+    "phNotches": [
+        {
+            "module": "phish-score", 
+            "name": [
+                "from_mismatch"
+            ], 
+            "score": 1, 
+            "subscores": [
+                1
+            ]
+        }
+    ], 
+    "phish_score": 1, 
+    "phishing": {
+        "body_richness": 0.788461538461538, 
+        "camouflage": 0, 
+        "fake_https": 0, 
+        "html_form": 0, 
+        "is_html": true, 
+        "max_num_dots_urls": 2, 
+        "max_num_slashes_urls": 2, 
+        "num_attachments": 0, 
+        "num_black_sheep_link": -1, 
+        "num_black_sheep_link_global": -1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_external_links": 7, 
+        "num_freehost_urls": 0, 
+        "num_html_script_tags": 0, 
+        "num_https_urls": 0, 
+        "num_ip_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "num_of_chars": 51, 
+        "num_param_phish": 0, 
+        "num_path_phish": 0, 
+        "num_phish_keywords": 0, 
+        "num_sender_diff_url": 2, 
+        "num_shortened_urls": 0, 
+        "num_subdomain_phish": 0, 
+        "num_subject_phish_keywords": 0, 
+        "num_text_forms": 0, 
+        "num_tld_in_url_path": 0, 
+        "num_www_in_url_path": 0, 
+        "subject_phish_keywords": 0, 
+        "subject_richness": 0.0943396226415094, 
+        "suspicious_links": [], 
+        "text_and_href": 0, 
+        "text_link_with_path": 0
+    }, 
+    "precedence": 3, 
+    "rcpts_count": 1, 
+    "rfcid_is_foreign": 1, 
+    "rfcid_is_invalid": false, 
+    "rfcid_length": 19, 
+    "self_send": 0, 
+    "senders": {
+        "cnt-pow4_w_duc": "", 
+        "cnt-pow4_w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "domain_keywords": "", 
+        "domain_keywords_detail": [], 
+        "ettf_w_duc": "", 
+        "ettf_w_duc_detail": [], 
+        "idf": "", 
+        "idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "log_cnt-w_duc_detail": [], 
+        "log_cnt_idf": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "log_ecnt_idf": "", 
+        "log_ecnt_idf_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "log_ecnt_log_idf_log_tidf": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "plain_domain": "joa", 
+        "plain_domain_detail": [
+            {
+                "confidence": 1, 
+                "domain": "joa"
+            }
+        ], 
+        "src_revert": "pakl", 
+        "src_revert_detail": [
+            {
+                "confidence": 5, 
+                "domain": "pakl"
+            }
+        ], 
+        "tf_log_idf": "", 
+        "tf_log_idf_detail": [], 
+        "ttf_w_duc": "", 
+        "ttf_w_duc_detail": []
+    }, 
+    "spamscore": 1.1, 
+    "spamtrap_hit": false, 
+    "spf_dom_policy_registry": "Policy not found", 
+    "spf_domain_policy": "UNKNOWN", 
+    "spf_status_registry": "Status not found", 
+    "spfstatus": "NONE", 
+    "spfstatus_hfrom": "SPF_SOFTFAIL", 
+    "subject": "sT ACc tcC ssAotc AelcaaC ", 
+    "subject_image_count": 0, 
+    "subject_word_count": 5, 
+    "theme": {}, 
+    "universalprobes": [
+        {
+            "key": "ps-from_mismatch", 
+            "value": "1"
+        }, 
+        {
+            "key": "ps-most-suspicious-links", 
+            "value": "[]"
+        }
+    ], 
+    "unsub_link": {}, 
+    "word_count": 41
+}

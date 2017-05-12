@@ -1,0 +1,229 @@
+{
+    "date_difference": -75957800,
+    "spf_dom_policy_registry": "Policy not found",
+    "list_unsubscribe_total_count": 0,
+    "precedence": 3,
+    "spfstatus_hfrom": "SPF_NEUTRAL",
+    "dkim_passed_count": 0,
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "spfstatus": "NONE",
+    "first10words": " Dobry den pani Gajdosikova vystavil jsem i novou fakturu s novym cislem objednavky Bude Vam to stacit mailem nebo to mam poslat",
+    "pepca": "peee7c13a9ec5c8a1",
+    "extractedSrcUrlsDomainCount": 0,
+    "rfcid_length": 38,
+    "pepcatotal": 0,
+    "pepca_style_total": 0,
+    "extractedEmails": [
+        "gajdosikova@michlovsky.cz",
+        "frystak.lukas@seznam.cz",
+        "scan@michlovsky.cz"
+    ],
+    "mime_root_type": "multipart/mixed",
+    "extractedEmailsCardinality": 3,
+    "html_tr_tag_count": 0,
+    "pepca_style": "",
+    "dkStatusDetail": "NOT_SIGNED",
+    "header_from_count": 1,
+    "header_total_count": 11,
+    "extractedSrcUrlsCardinality": 1,
+    "ahref_camouflage_count": 0,
+    "extractedSrcUrlsTotalCount": 1,
+    "html_tag_total_count": 135,
+    "ahref_total_count": 1,
+    "extractedEmailsDomainCount": 2,
+    "dkim_hfrom_match": 0,
+    "dkstatus": "NEUTRAL",
+    "header_reply_to_count": 0,
+    "subject_image_count": 0,
+    "spf_domain_policy": "UNKNOWN",
+    "spf_status_registry": "Status not found",
+    "rfcid_is_foreign": 1,
+    "content": "CONTENT_DEFAULT",
+    "extractedSrcUrls": [
+        "cid:image001.jpg@01D01848.9B5ED620"
+    ],
+    "lang": "cs",
+    "html_td_tag_count": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/8747831ecec77382fbca7ab4e65d4bb9.eml",
+    "spamscore": 1.1,
+    "attachments": [
+        {
+            "flags": 0,
+            "cte": "BASE64",
+            "name": "image001.jpg",
+            "size": 3223,
+            "mime_type": "image/jpeg",
+            "sumphash": "b3497364fe4bf22d0ca5ddf38f0f2b32",
+            "cid": "image001.jpg@01D01848.9B5ED620",
+            "pepca": "pf7ca695dc26c3a1a"
+        },
+        {
+            "flags": 0,
+            "cte": "BASE64",
+            "name": "objedn\u00e1vka.pdf",
+            "size": 219039,
+            "mime_type": "application/pdf",
+            "sumphash": "7f210125e96ab070e4f7c9a8c6a8b560",
+            "first10words": "objednavka pdf",
+            "cid": "m14a4d908c72m2901",
+            "lang": "cs"
+        },
+        {
+            "flags": 0,
+            "cte": "BASE64",
+            "name": "faktura.pdf",
+            "size": 244912,
+            "mime_type": "application/pdf",
+            "sumphash": "b7d4cb99d75b81039172f72e65904340",
+            "first10words": "faktura pdf",
+            "cid": "m14a4d908c64m28fd",
+            "lang": "un"
+        }
+    ],
+    "dk_statuses": [
+        {
+            "status": "NEUTRAL",
+            "statusDetail": "NOT_SIGNED"
+        }
+    ],
+    "from_match": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "pf7ca695dc26c3a1a"
+        },
+        {
+            "name": "pepca",
+            "value": "peee7c13a9ec5c8a1"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p52bfabc27f1122a6"
+        }
+    ],
+    "extractedHrefUrls": [],
+    "pepca_inline_style": "p52bfabc27f1122a6",
+    "pepca_inline_style_total": 0,
+    "self_send": 0,
+    "now": 1494598339,
+    "mime_children_count": 4,
+    "ahref_verbal_count": 0,
+    "last10words": " mailto scan michlovsky cz Sent Monday December 15 2014 10 38 AM To Gajdosikova Jana Subject Attached Image ",
+    "subject_word_count": 2,
+    "rcpts_count": 1,
+    "dkim_count": 0,
+    "rfcid_is_invalid": false,
+    "header_from": "frystak.lukas@seznam.cz",
+    "list_unsubscribe_mailto_count": 0,
+    "html_in_text_plain_count": 0,
+    "word_count": 154,
+    "html_script_tag_count": 0,
+    "dkim_efrom_match": 0,
+    "adscore": 0,
+    "mime_children_types": [
+        "multipart/alternative",
+        "image/jpeg",
+        "application/pdf",
+        "application/pdf"
+    ],
+    "dkim_signs_cnt": 1,
+    "extractedEmailsTotalCount": 3,
+    "spamtrap_hit": false,
+    "list_unsubscribe_http_count": 0,
+    "phishing": {
+        "body_richness": 0.131063829787234,
+        "num_black_sheep_link": -1,
+        "subject_richness": 0.125,
+        "max_num_slashes_urls": 0,
+        "num_https_urls": 0,
+        "camouflage": 0,
+        "ner_domain_detected": false,
+        "html_form": 0,
+        "num_subdomain_phish": 0,
+        "num_external_links": 0,
+        "fake_https": 0,
+        "num_html_script_tags": 0,
+        "num_freehost_urls": 0,
+        "num_phish_keywords": 1,
+        "suspicious_links": [],
+        "num_sender_diff_url": 0,
+        "text_and_href": 0,
+        "subject_phish_keywords": 0,
+        "num_www_in_url_path": 0,
+        "num_domain_phish": 0,
+        "num_of_chars": 1174,
+        "num_ip_urls": 0,
+        "num_path_phish": 0,
+        "num_param_phish": 0,
+        "max_num_dots_urls": 0,
+        "num_tld_in_url_path": 0,
+        "is_html": true,
+        "num_black_sheep_link_phish": 0,
+        "num_non_80_port_urls": 0,
+        "num_text_forms": 0,
+        "num_black_sheep_link_global": -1,
+        "text_link_with_path": 0,
+        "num_shortened_urls": 0
+    },
+    "senders": {
+        "domain_keywords": "zlin",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "idf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt-pow4_w_duc": "",
+        "plain_domain_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "tf_log_idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "plain_domain": "",
+        "domain_keywords_detail": [
+            {
+                "domain": "zlin",
+                "confidence": 2162916.8228584
+            }
+        ],
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt_idf": "",
+        "tf_log_idf": "",
+        "src_revert_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_cnt-w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert": ""
+    },
+    "phish_score": 0,
+    "subject": "Re Objednavka",
+    "list_unsubscribe_invalid_count": 0
+}

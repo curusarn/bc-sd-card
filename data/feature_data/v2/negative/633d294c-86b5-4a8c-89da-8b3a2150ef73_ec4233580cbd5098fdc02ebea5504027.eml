@@ -1,0 +1,203 @@
+{
+    "adscore": 0, 
+    "ahref_camouflage_count": 0, 
+    "ahref_total_count": 5, 
+    "ahref_verbal_count": 1, 
+    "attachments": [], 
+    "content": "CONTENT_DEFAULT", 
+    "date_difference": -75957848, 
+    "dkStatusDetail": "NOT_SIGNED", 
+    "dk_statuses": [
+        {
+            "status": "NEUTRAL", 
+            "statusDetail": "NOT_SIGNED"
+        }
+    ], 
+    "dkim_count": 0, 
+    "dkim_efrom_match": 0, 
+    "dkim_hfrom_match": 0, 
+    "dkim_passed_count": 0, 
+    "dkim_signs_cnt": 1, 
+    "dkstatus": "NEUTRAL", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/ec4233580cbd5098fdc02ebea5504027.eml", 
+    "extractedEmails": [
+        "e-obchod@bshg.com", 
+        "tomas.halik@siemens.com", 
+        "store.cz@siemens-home.com", 
+        "e-obchod@bshg.com."
+    ], 
+    "extractedEmailsCardinality": 4, 
+    "extractedEmailsDomainCount": 4, 
+    "extractedEmailsTotalCount": 4, 
+    "extractedHrefUrls": [
+        "http://www.siemens-home.com/cz/pozadavky-na-instalaci-spotrebice.html", 
+        "#top"
+    ], 
+    "extractedHrefUrlsCardinality": 2, 
+    "extractedHrefUrlsDomainCount": 1, 
+    "extractedHrefUrlsTotalCount": 2, 
+    "extractedSrcUrls": [
+        "http://www.siemens-home.com/store/resources/siemens/images/email/right_red.png", 
+        "http://www.siemens-home.com/store/medias/sys_master/h61/hd5/8924584509470/MCSA00657839-E1272-SN26N293EU-308369-def.jpg", 
+        "http://www.siemens-home.com/store/medias/sys_master/h03/h50/9013660057630/free-installation-CZ.png", 
+        "http://www.siemens-home.com/store/medias/sys_master/hf9/h4f/9013659729950/free-training.png", 
+        "http://www.siemens-home.com/store/resources/siemens/images/email/up.png"
+    ], 
+    "extractedSrcUrlsCardinality": 7, 
+    "extractedSrcUrlsDomainCount": 1, 
+    "extractedSrcUrlsTotalCount": 7, 
+    "first10words": " Confirmation Zdravim T Von Siemens e shop mailto store cz siemens home com ", 
+    "from_match": 0, 
+    "header_from": "tomas.halik@siemens.com", 
+    "header_from_count": 1, 
+    "header_reply_to_count": 0, 
+    "header_total_count": 19, 
+    "html_in_text_plain_count": 0, 
+    "html_script_tag_count": 0, 
+    "html_tag_total_count": 1203, 
+    "html_td_tag_count": 366, 
+    "html_tr_tag_count": 114, 
+    "lang": "cs", 
+    "last10words": " Nahoru Siemens domaci spotrebice ", 
+    "list_unsubscribe_http_count": 0, 
+    "list_unsubscribe_invalid_count": 0, 
+    "list_unsubscribe_mailto_count": 0, 
+    "list_unsubscribe_total_count": 0, 
+    "mime_children_count": 2, 
+    "mime_children_types": [
+        "text/plain", 
+        "text/html"
+    ], 
+    "mime_root_type": "multipart/alternative", 
+    "notches": [
+        {
+            "module": "ill", 
+            "name": [
+                "date_in_past", 
+                "from_missmatch"
+            ], 
+            "score": 1, 
+            "subscores": [
+                1, 
+                0.0
+            ]
+        }
+    ], 
+    "now": 1494598429, 
+    "pepca": "p1d51b04de90c1052", 
+    "pepca_inline_style": "p6a4e0c7a9e5f46e2", 
+    "pepca_inline_style_total": 0, 
+    "pepca_style": "", 
+    "pepca_style_total": 0, 
+    "pepcatotal": 0, 
+    "phashes": [
+        {
+            "name": "pepca", 
+            "value": "p1d51b04de90c1052"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "p6a4e0c7a9e5f46e2"
+        }
+    ], 
+    "phish_score": 0, 
+    "phishing": {
+        "body_richness": 0.316334878647396, 
+        "camouflage": 0, 
+        "fake_https": 0, 
+        "html_form": 0, 
+        "is_html": true, 
+        "max_num_dots_urls": 3, 
+        "max_num_slashes_urls": 2, 
+        "num_black_sheep_link": -1, 
+        "num_black_sheep_link_global": -1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_external_links": 7, 
+        "num_freehost_urls": 0, 
+        "num_html_script_tags": 0, 
+        "num_https_urls": 0, 
+        "num_ip_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "num_of_chars": 3666, 
+        "num_param_phish": 0, 
+        "num_path_phish": 0, 
+        "num_phish_keywords": 0, 
+        "num_sender_diff_url": 1, 
+        "num_shortened_urls": 0, 
+        "num_subdomain_phish": 0, 
+        "num_text_forms": 13, 
+        "num_tld_in_url_path": 0, 
+        "num_www_in_url_path": 0, 
+        "subject_phish_keywords": 0, 
+        "subject_richness": 0.14, 
+        "suspicious_links": [], 
+        "text_and_href": 0, 
+        "text_link_with_path": 0
+    }, 
+    "precedence": 3, 
+    "rcpts_count": 1, 
+    "rfcid_is_foreign": 0, 
+    "rfcid_is_invalid": false, 
+    "rfcid_length": 73, 
+    "self_send": 0, 
+    "senders": {
+        "cnt-pow4_w_duc": "", 
+        "cnt-pow4_w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "domain_keywords": "ebay", 
+        "domain_keywords_detail": [
+            {
+                "confidence": 13990503.0465095, 
+                "domain": "ebay"
+            }
+        ], 
+        "ettf_w_duc": "", 
+        "ettf_w_duc_detail": [], 
+        "idf": "", 
+        "idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "log_cnt-w_duc_detail": [], 
+        "log_cnt_idf": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "log_ecnt_idf": "", 
+        "log_ecnt_idf_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "log_ecnt_log_idf_log_tidf": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "plain_domain": "", 
+        "plain_domain_detail": [], 
+        "src_revert": "siemens-home", 
+        "src_revert_detail": [
+            {
+                "confidence": 7, 
+                "domain": "siemens-home"
+            }
+        ], 
+        "tf_log_idf": "", 
+        "tf_log_idf_detail": [], 
+        "ttf_w_duc": "", 
+        "ttf_w_duc_detail": []
+    }, 
+    "spamscore": 1, 
+    "spamtrap_hit": false, 
+    "spf_dom_policy_registry": "Policy not found", 
+    "spf_domain_policy": "UNKNOWN", 
+    "spf_status_registry": "Status not found", 
+    "spfstatus": "NONE", 
+    "spfstatus_hfrom": "SPF_NONE", 
+    "subject": "WG Nova objednavka Siemens e shop 1101245397", 
+    "subject_image_count": 0, 
+    "subject_word_count": 7, 
+    "word_count": 1160
+}

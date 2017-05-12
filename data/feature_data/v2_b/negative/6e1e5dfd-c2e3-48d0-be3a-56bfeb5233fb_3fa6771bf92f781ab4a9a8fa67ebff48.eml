@@ -1,0 +1,220 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ]
+        }
+    ],
+    "extractedTxtUrls": [
+        "http://www.factoryoutlet.cz"
+    ],
+    "spfstatus": "NONE",
+    "mime_root_type": "multipart/mixed",
+    "header_from_count": 1,
+    "now": 1494598244,
+    "dkim_efrom_match": 0,
+    "pepca_inline_style_total": 0,
+    "rcpts_count": 1,
+    "extractedEmailsTotalCount": 2,
+    "pepca_inline_style": "p47a7e2eec2dce68b",
+    "pepca_style_total": 0,
+    "dkim_hfrom_match": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/3fa6771bf92f781ab4a9a8fa67ebff48.eml",
+    "html_td_tag_count": 196,
+    "extractedHrefUrlsCardinality": 1,
+    "list_unsubscribe_mailto_count": 0,
+    "subject_word_count": 5,
+    "lang": "cs",
+    "precedence": 3,
+    "phishing": {
+        "num_html_script_tags": 0,
+        "num_text_forms": 7,
+        "fake_https": 0,
+        "is_html": true,
+        "num_non_80_port_urls": 0,
+        "num_https_urls": 0,
+        "num_of_chars": 3634,
+        "num_param_phish": 0,
+        "text_and_href": 0,
+        "body_richness": 0.21595598349381,
+        "text_link_with_path": 0,
+        "max_num_slashes_urls": 1,
+        "num_shortened_urls": 0,
+        "num_sender_diff_url": 1,
+        "num_ip_urls": 0,
+        "num_black_sheep_link": -1,
+        "subject_richness": 0.128205128205128,
+        "num_tld_in_url_path": 0,
+        "subject_phish_keywords": 0,
+        "num_black_sheep_link_global": -1,
+        "num_black_sheep_link_phish": 0,
+        "num_path_phish": 0,
+        "suspicious_links": [],
+        "html_form": 0,
+        "num_phish_keywords": 0,
+        "num_subdomain_phish": 0,
+        "num_domain_phish": 0,
+        "ner_domain_detected": false,
+        "camouflage": 0,
+        "num_freehost_urls": 0,
+        "num_external_links": 1,
+        "max_num_dots_urls": 4,
+        "num_www_in_url_path": 0
+    },
+    "spf_status_registry": "Status not found",
+    "rfcid_is_foreign": 1,
+    "from_match": 0,
+    "first10words": " dekuji za vstricnost hezky den Dergelova Puvodni zprava Od Factory Outlet shop factoryoutlet cz ",
+    "extractedTxtUrlsDomainCount": 1,
+    "spf_domain_policy": "UNKNOWN",
+    "header_total_count": 11,
+    "dkim_passed_count": 0,
+    "extractedTxtUrlsCardinality": 1,
+    "dkim_signs_cnt": 1,
+    "mime_children_types": [
+        "multipart/alternative",
+        "image/gif"
+    ],
+    "ahref_verbal_count": 1,
+    "subject_image_count": 0,
+    "phish_score": 0,
+    "rfcid_is_invalid": false,
+    "dkstatus": "NEUTRAL",
+    "phashes": [
+        {
+            "value": "p20864c44528a1294",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p59ee00cc51a13f92",
+            "name": "pepca"
+        },
+        {
+            "value": "p47a7e2eec2dce68b",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "extractedTxtUrlsTotalCount": 1,
+    "self_send": 0,
+    "attachments": [
+        {
+            "mime_type": "image/gif",
+            "cte": "BASE64",
+            "flags": 0,
+            "pepca": "p20864c44528a1294",
+            "cid": "image001.gif@01D01844.B563E550",
+            "sumphash": "485384191fd02aac22f9a40af33da961",
+            "size": 2700,
+            "name": "image001.gif"
+        }
+    ],
+    "html_tr_tag_count": 104,
+    "extractedEmails": [
+        "dergelova@post.cz",
+        "shop@factoryoutlet.cz"
+    ],
+    "html_tag_total_count": 821,
+    "mime_children_count": 2,
+    "spamtrap_hit": false,
+    "extractedEmailsDomainCount": 2,
+    "extractedHrefUrlsTotalCount": 1,
+    "extractedSrcUrlsCardinality": 1,
+    "spamscore": 1.1,
+    "ahref_total_count": 2,
+    "extractedEmailsCardinality": 2,
+    "extractedSrcUrlsTotalCount": 1,
+    "dkim_count": 0,
+    "adscore": 0,
+    "pepca": "p59ee00cc51a13f92",
+    "dkStatusDetail": "NOT_SIGNED",
+    "html_script_tag_count": 0,
+    "date_difference": -75957735,
+    "html_in_text_plain_count": 0,
+    "pepca_style": "",
+    "word_count": 785,
+    "rfcid_length": 38,
+    "spf_dom_policy_registry": "Policy not found",
+    "pepcatotal": 0,
+    "last10words": " 10 00 19 00 O pripraveni objednavky budete informovani mailem Muzete si ji zobrazit kliknutim na odkaz ",
+    "extractedHrefUrls": [
+        "http://www.factoryoutlet.cz/index2.php?page=order.order_print&order_id=33806&pshop_mode=admin&option=com_virtuemart&Itemid=27"
+    ],
+    "spfstatus_hfrom": "SPF_NEUTRAL",
+    "header_reply_to_count": 0,
+    "senders": {
+        "log_cnt_idf_detail": [],
+        "log_ecnt_idf_detail": [],
+        "tf_log_idf": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "cnt-pow4_w_duc_detail": [],
+        "ttf_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "src_revert": "",
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "plain_domain": "factoryoutlet",
+        "src_revert_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "factoryoutlet"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "tf_log_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 88447021.5167,
+                "domain": "booking"
+            }
+        ],
+        "domain_keywords": "booking",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt_idf": ""
+    },
+    "dk_statuses": [
+        {
+            "statusDetail": "NOT_SIGNED",
+            "status": "NEUTRAL"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "extractedSrcUrls": [
+        "cid:image001.gif@01D01844.B563E550"
+    ],
+    "list_unsubscribe_http_count": 0,
+    "extractedHrefUrlsDomainCount": 1,
+    "subject": "RE Factory Outlet Objednavka 33806",
+    "list_unsubscribe_total_count": 0,
+    "extractedSrcUrlsDomainCount": 0,
+    "ahref_camouflage_count": 0,
+    "list_unsubscribe_invalid_count": 0,
+    "header_from": "dergelova@post.cz"
+}

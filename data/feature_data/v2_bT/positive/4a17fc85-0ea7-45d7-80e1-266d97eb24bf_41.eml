@@ -1,0 +1,202 @@
+{
+    "date_difference": -391247248,
+    "spf_dom_policy_registry": "Policy not found",
+    "list_unsubscribe_total_count": 0,
+    "precedence": 3,
+    "spfstatus_hfrom": "SPF_NONE",
+    "dkim_passed_count": 0,
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.5
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "long_subject"
+            ],
+            "score": 1.5,
+            "module": "ill"
+        }
+    ],
+    "extractedHrefUrlsDomainCount": 1,
+    "first10words": " I m sorry The X Files in 1965 gossip Food in 1884 caan t hear What s the difference I don t feel like HotBot Lovely day Hotmail Not so good We d ",
+    "word_count": 57,
+    "pepca": "pbc9b5918061b599f",
+    "extractedSrcUrlsDomainCount": 0,
+    "rfcid_length": 38,
+    "pepcatotal": 0,
+    "pepca_style_total": 0,
+    "extractedEmails": [],
+    "mime_root_type": "multipart/related",
+    "extractedEmailsCardinality": 0,
+    "extractedHrefUrlsTotalCount": 1,
+    "html_tr_tag_count": 0,
+    "pepca_style": "",
+    "dkStatusDetail": "NOT_SIGNED",
+    "header_from_count": 1,
+    "header_total_count": 30,
+    "dk_statuses": [
+        {
+            "status": "NEUTRAL",
+            "statusDetail": "NOT_SIGNED"
+        }
+    ],
+    "ahref_camouflage_count": 0,
+    "extractedSrcUrlsTotalCount": 1,
+    "html_tag_total_count": 17,
+    "ahref_total_count": 0,
+    "extractedEmailsDomainCount": 0,
+    "dkim_hfrom_match": 0,
+    "dkstatus": "NEUTRAL",
+    "header_reply_to_count": 0,
+    "subject_image_count": 0,
+    "spf_domain_policy": "UNKNOWN",
+    "spf_status_registry": "Status not found",
+    "rfcid_is_foreign": 0,
+    "content": "CONTENT_DEFAULT",
+    "extractedSrcUrls": [
+        "cid:part1.00030908.03020205@identifdep_ref40156@smithbarney.com"
+    ],
+    "lang": "en",
+    "html_td_tag_count": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing0/41.eml",
+    "spamscore": 1.5,
+    "attachments": [
+        {
+            "flags": 0,
+            "cte": "BASE64",
+            "name": "compton.GIF",
+            "size": 8498,
+            "mime_type": "image/gif",
+            "sumphash": "8307dad7e21a38c755d99b0a428b7eff",
+            "cid": "part1.00030908.03020205@identifdep_ref40156@smithbarney.com",
+            "pepca": "p5524d9bb6154b183"
+        }
+    ],
+    "extractedSrcUrlsCardinality": 1,
+    "from_match": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p5524d9bb6154b183"
+        },
+        {
+            "name": "pepca",
+            "value": "pbc9b5918061b599f"
+        }
+    ],
+    "extractedHrefUrls": [
+        "https://www.smithbarney.com/cgi-bin/login/confirm.cgi"
+    ],
+    "pepca_inline_style": "",
+    "pepca_inline_style_total": 0,
+    "self_send": 0,
+    "now": 1494597834,
+    "mime_children_count": 2,
+    "ahref_verbal_count": 0,
+    "last10words": "od We d better send for Sony World War I Wimbledon in 1992 it was Yes No Cindy Margolis that s a call for you I m with you Go in fact Domains ",
+    "subject_word_count": 15,
+    "rcpts_count": 1,
+    "dkim_count": 0,
+    "rfcid_is_invalid": false,
+    "header_from": "custservice.ref.num88@smithbarney.com",
+    "list_unsubscribe_mailto_count": 0,
+    "html_in_text_plain_count": 0,
+    "extractedHrefUrlsCardinality": 1,
+    "html_script_tag_count": 0,
+    "dkim_efrom_match": 0,
+    "adscore": 0,
+    "mime_children_types": [
+        "text/html",
+        "image/gif"
+    ],
+    "dkim_signs_cnt": 1,
+    "spfstatus": "NONE",
+    "extractedEmailsTotalCount": 0,
+    "spamtrap_hit": false,
+    "list_unsubscribe_http_count": 0,
+    "phishing": {
+        "body_richness": 0.195205479452055,
+        "num_black_sheep_link": -1,
+        "subject_richness": 0.168539325842697,
+        "max_num_slashes_urls": 3,
+        "num_https_urls": 1,
+        "camouflage": 0,
+        "ner_domain_detected": false,
+        "html_form": 0,
+        "num_subdomain_phish": 0,
+        "num_external_links": 1,
+        "fake_https": 0,
+        "num_html_script_tags": 0,
+        "num_freehost_urls": 0,
+        "num_phish_keywords": 0,
+        "suspicious_links": [],
+        "num_sender_diff_url": 0,
+        "text_and_href": 0,
+        "subject_phish_keywords": 1,
+        "num_www_in_url_path": 0,
+        "num_domain_phish": 0,
+        "num_of_chars": 291,
+        "num_ip_urls": 0,
+        "num_path_phish": 0,
+        "num_param_phish": 0,
+        "max_num_dots_urls": 3,
+        "num_tld_in_url_path": 0,
+        "is_html": true,
+        "num_black_sheep_link_phish": 0,
+        "num_non_80_port_urls": 0,
+        "num_text_forms": 2,
+        "num_black_sheep_link_global": -1,
+        "text_link_with_path": 0,
+        "num_shortened_urls": 0
+    },
+    "senders": {
+        "domain_keywords": "aweber",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "idf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt-pow4_w_duc": "",
+        "plain_domain_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "tf_log_idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "plain_domain": "",
+        "domain_keywords_detail": [
+            {
+                "domain": "aweber",
+                "confidence": 21810719.4187909
+            }
+        ],
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt_idf": "",
+        "tf_log_idf": "",
+        "src_revert_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_cnt-w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert": ""
+    },
+    "phish_score": 0,
+    "subject": "Smith Barney Urgent Security Notification For Client Sat 18 Dec 2004 02 11 26 0400 ",
+    "list_unsubscribe_invalid_count": 0
+}

@@ -1,0 +1,207 @@
+{
+    "date_difference": -324698929,
+    "spf_dom_policy_registry": "Policy not found",
+    "list_unsubscribe_total_count": 0,
+    "precedence": 3,
+    "spfstatus_hfrom": "SPF_SOFTFAIL",
+    "dkim_passed_count": 0,
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "extractedHrefUrlsDomainCount": 2,
+    "first10words": " Untitled Document Dear Valued Customer ",
+    "word_count": 352,
+    "pepca": "p72adf59b88f2a8b2",
+    "extractedSrcUrlsDomainCount": 2,
+    "rfcid_length": 57,
+    "pepcatotal": 0,
+    "pepca_style_total": 0,
+    "extractedEmails": [],
+    "mime_root_type": "text/html",
+    "extractedEmailsCardinality": 0,
+    "extractedHrefUrlsTotalCount": 4,
+    "html_tr_tag_count": 12,
+    "pepca_style": "",
+    "dkStatusDetail": "NOT_SIGNED",
+    "header_from_count": 1,
+    "header_total_count": 19,
+    "dk_statuses": [
+        {
+            "status": "NEUTRAL",
+            "statusDetail": "NOT_SIGNED"
+        }
+    ],
+    "ahref_camouflage_count": 0,
+    "extractedSrcUrlsTotalCount": 7,
+    "html_tag_total_count": 203,
+    "ahref_total_count": 3,
+    "extractedEmailsDomainCount": 0,
+    "dkim_hfrom_match": 0,
+    "dkstatus": "NEUTRAL",
+    "header_reply_to_count": 1,
+    "subject_image_count": 0,
+    "spf_domain_policy": "UNKNOWN",
+    "spf_status_registry": "Status not found",
+    "rfcid_is_foreign": 1,
+    "content": "CONTENT_DEFAULT",
+    "extractedSrcUrls": [
+        "https://billerdirect.bankofamerica.com/bd_static/generic-bofa/images/pixel.gif",
+        "https://billerdirect.bankofamerica.com/bd_static/generic-bofa/images/em_promo2_160x76.gif",
+        "https://detail.getbills.com/logos/0000000308001.gif",
+        "https://billerdirect.bankofamerica.com/bd_static/generic-bofa/images/house_14x9.gif",
+        "https://billerdirect.bankofamerica.com/bd_static/generic-bofa/images/foot_olympic_131x33.gif"
+    ],
+    "lang": "en",
+    "html_td_tag_count": 20,
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/1413.eml",
+    "spamscore": 1.1,
+    "attachments": [],
+    "extractedSrcUrlsCardinality": 7,
+    "from_match": 0,
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p72adf59b88f2a8b2"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p7788e3511f2958d6"
+        }
+    ],
+    "extractedHrefUrls": [
+        "http://www.bankofamerica.com/",
+        "http://olimpex.com.ua/www.bankofamerica.com/bankofamerica/onlineid.signin/bankofamerica/online_bofa_banking/index.htm",
+        "http://olimpex.com.ua/www.bankofamerica.com/bankofamerica/onlineid.signin/bankofamerica/online_bofa_banking/",
+        "http://www.bankofamerica.com/help/equalhousing.cfm"
+    ],
+    "pepca_inline_style": "p7788e3511f2958d6",
+    "pepca_inline_style_total": 0,
+    "self_send": 0,
+    "now": 1494597879,
+    "mime_children_count": 0,
+    "ahref_verbal_count": 3,
+    "last10words": " Please do not delete this section Email ID 600291314441605041544 ",
+    "subject_word_count": 8,
+    "rcpts_count": 1,
+    "dkim_count": 0,
+    "rfcid_is_invalid": false,
+    "header_from": "online@bankofamerica.com",
+    "list_unsubscribe_mailto_count": 0,
+    "html_in_text_plain_count": 0,
+    "extractedHrefUrlsCardinality": 4,
+    "html_script_tag_count": 0,
+    "dkim_efrom_match": 0,
+    "adscore": 0,
+    "mime_children_types": [],
+    "dkim_signs_cnt": 1,
+    "spfstatus": "NONE",
+    "extractedEmailsTotalCount": 0,
+    "spamtrap_hit": false,
+    "list_unsubscribe_http_count": 0,
+    "phishing": {
+        "body_richness": 0.193725921849202,
+        "num_black_sheep_link": -1,
+        "subject_richness": 0.121212121212121,
+        "max_num_slashes_urls": 6,
+        "num_https_urls": 7,
+        "camouflage": 0,
+        "ner_domain_detected": true,
+        "html_form": 0,
+        "num_subdomain_phish": 0,
+        "num_external_links": 9,
+        "fake_https": 0,
+        "5_top_domains_id_0": 0,
+        "num_html_script_tags": 0,
+        "num_freehost_urls": 0,
+        "num_phish_keywords": 22,
+        "suspicious_links": [],
+        "num_sender_diff_url": 1,
+        "text_and_href": 0,
+        "subject_phish_keywords": 2,
+        "num_www_in_url_path": 0,
+        "num_domain_phish": 0,
+        "5_top_domains_percent_0": 1.0,
+        "num_of_chars": 1816,
+        "num_ip_urls": 0,
+        "num_path_phish": 0,
+        "num_param_phish": 0,
+        "max_num_dots_urls": 6,
+        "num_tld_in_url_path": 0,
+        "is_html": true,
+        "num_black_sheep_link_phish": 0,
+        "num_non_80_port_urls": 0,
+        "num_text_forms": 28,
+        "num_black_sheep_link_global": -1,
+        "text_link_with_path": 0,
+        "num_shortened_urls": 0
+    },
+    "senders": {
+        "domain_keywords": "paypal",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "idf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt-pow4_w_duc": "",
+        "plain_domain_detail": [
+            {
+                "domain": "bankofamerica",
+                "confidence": 1
+            }
+        ],
+        "log_cnt-pow_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "tf_log_idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "plain_domain": "bankofamerica",
+        "domain_keywords_detail": [
+            {
+                "domain": "paypal",
+                "confidence": 92548421.8279805
+            }
+        ],
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt_idf": "",
+        "tf_log_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "bankofamerica",
+                "confidence": 7
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_cnt-w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert": "bankofamerica"
+    },
+    "phish_score": 0,
+    "subject": "Important notice Please restore your Online banking information",
+    "list_unsubscribe_invalid_count": 0
+}

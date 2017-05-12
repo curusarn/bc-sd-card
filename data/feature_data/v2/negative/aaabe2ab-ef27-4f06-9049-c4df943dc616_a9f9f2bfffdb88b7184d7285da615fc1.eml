@@ -1,0 +1,258 @@
+{
+    "adscore": 0, 
+    "ahref_camouflage_count": 0, 
+    "ahref_total_count": 4, 
+    "ahref_verbal_count": 4, 
+    "attachments": [
+        {
+            "cid": "ebbd0cafe0a1436dc9224d2b95b862fc", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "image/gif", 
+            "name": "spacer.gif", 
+            "pepca": "pdc9acc191ecbed78", 
+            "size": 1093, 
+            "sumphash": "75176bab9b36170b40f27be74f1ca0a6"
+        }, 
+        {
+            "cid": "38bfb11bf48fc2f56d2ca2d796d0b0af", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "image/gif", 
+            "name": "logo.gif", 
+            "pepca": "pc8c01710db845c02", 
+            "size": 4154, 
+            "sumphash": "a2a18178829df2cc629b326e001cd43e"
+        }, 
+        {
+            "cid": "6a65c49f40bfa6a3a88deef27bf63c43", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "image/gif", 
+            "name": "help_icon.gif", 
+            "pepca": "p1d69457e3713823f", 
+            "size": 1974, 
+            "sumphash": "c4f41b9a98126074263e2a364eaeb9e8"
+        }, 
+        {
+            "cid": "188cc4522355bc862c1146e7d26ef597", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "image/png", 
+            "name": "icn_phone.png", 
+            "pepca": "p3453005f1e146358", 
+            "size": 2195, 
+            "sumphash": "fa27d70212dd5d7d8c87b0e9e8ac0e4c"
+        }
+    ], 
+    "content": "CONTENT_DEFAULT", 
+    "date_difference": -79549583, 
+    "dkStatusDetail": "NOT_SIGNED", 
+    "dk_statuses": [
+        {
+            "status": "NEUTRAL", 
+            "statusDetail": "NOT_SIGNED"
+        }
+    ], 
+    "dkim_count": 0, 
+    "dkim_efrom_match": 0, 
+    "dkim_hfrom_match": 0, 
+    "dkim_passed_count": 0, 
+    "dkim_signs_cnt": 1, 
+    "dkstatus": "NEUTRAL", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/a9f9f2bfffdb88b7184d7285da615fc1.eml", 
+    "extractedEmails": [
+        "i.benza@seznam.cz"
+    ], 
+    "extractedEmailsCardinality": 1, 
+    "extractedEmailsDomainCount": 1, 
+    "extractedEmailsTotalCount": 1, 
+    "extractedHrefUrls": [
+        "https://safekey.mcafee.com/?recovery=1", 
+        "http://home.mcafee.com/root/Campaign.aspx?cid=113298&affid=0&culture=cs-CZ", 
+        "http://home.mcafee.com/root/Campaign.aspx?cid=112942&affid=0&culture=cs-CZ", 
+        "http://home.mcafee.com/root/Campaign.aspx?cid=112941&affid=&culture="
+    ], 
+    "extractedHrefUrlsCardinality": 4, 
+    "extractedHrefUrlsDomainCount": 1, 
+    "extractedHrefUrlsTotalCount": 4, 
+    "extractedSrcUrls": [
+        "cid:ebbd0cafe0a1436dc9224d2b95b862fc", 
+        "cid:38bfb11bf48fc2f56d2ca2d796d0b0af", 
+        "cid:6a65c49f40bfa6a3a88deef27bf63c43", 
+        "cid:188cc4522355bc862c1146e7d26ef597"
+    ], 
+    "extractedSrcUrlsCardinality": 4, 
+    "extractedSrcUrlsDomainCount": 0, 
+    "extractedSrcUrlsTotalCount": 4, 
+    "first10words": " McAfee SafeKey Ziskejte pomoc s obnovenim hesla Ahoj Je nam lito ze jste zapomneli heslo do aplikace McAfee Saf", 
+    "from_match": 0, 
+    "header_from": "donotreply@mcafee.com", 
+    "header_from_count": 1, 
+    "header_reply_to_count": 0, 
+    "header_total_count": 14, 
+    "html_in_text_plain_count": 0, 
+    "html_script_tag_count": 0, 
+    "html_tag_total_count": 109, 
+    "html_td_tag_count": 28, 
+    "html_tr_tag_count": 22, 
+    "lang": "cs", 
+    "last10words": "vu neodpovidejte Na teto adrese neprijimame e maily proto nebudeme moci zareagovat Potrebujete pomoc Zavolejte nam ", 
+    "list_unsubscribe_http_count": 0, 
+    "list_unsubscribe_invalid_count": 0, 
+    "list_unsubscribe_mailto_count": 0, 
+    "list_unsubscribe_total_count": 0, 
+    "mime_children_count": 5, 
+    "mime_children_types": [
+        "multipart/alternative", 
+        "image/gif", 
+        "image/gif", 
+        "image/gif", 
+        "image/png"
+    ], 
+    "mime_root_type": "multipart/related", 
+    "notches": [
+        {
+            "module": "ill", 
+            "name": [
+                "date_in_past", 
+                "from_missmatch", 
+                "foreign_message_id"
+            ], 
+            "score": 1.1, 
+            "subscores": [
+                1, 
+                0.0, 
+                0.1
+            ]
+        }
+    ], 
+    "now": 1494598379, 
+    "pepca": "p8cf1fce94f6ff16a", 
+    "pepca_inline_style": "pf28d0c0cb728fb6a", 
+    "pepca_inline_style_total": 0, 
+    "pepca_style": "", 
+    "pepca_style_total": 0, 
+    "pepcatotal": 0, 
+    "phashes": [
+        {
+            "name": "att-pepca", 
+            "value": "pdc9acc191ecbed78"
+        }, 
+        {
+            "name": "att-pepca", 
+            "value": "pc8c01710db845c02"
+        }, 
+        {
+            "name": "att-pepca", 
+            "value": "p1d69457e3713823f"
+        }, 
+        {
+            "name": "att-pepca", 
+            "value": "p3453005f1e146358"
+        }, 
+        {
+            "name": "pepca", 
+            "value": "p8cf1fce94f6ff16a"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "pf28d0c0cb728fb6a"
+        }
+    ], 
+    "phish_score": 0, 
+    "phishing": {
+        "body_richness": 0.187246963562753, 
+        "camouflage": 0, 
+        "fake_https": 0, 
+        "html_form": 0, 
+        "is_html": true, 
+        "max_num_dots_urls": 3, 
+        "max_num_slashes_urls": 2, 
+        "num_black_sheep_link": -1, 
+        "num_black_sheep_link_global": -1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_external_links": 4, 
+        "num_freehost_urls": 0, 
+        "num_html_script_tags": 0, 
+        "num_https_urls": 1, 
+        "num_ip_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "num_of_chars": 987, 
+        "num_param_phish": 0, 
+        "num_path_phish": 0, 
+        "num_phish_keywords": 13, 
+        "num_sender_diff_url": 0, 
+        "num_shortened_urls": 0, 
+        "num_subdomain_phish": 0, 
+        "num_text_forms": 4, 
+        "num_tld_in_url_path": 0, 
+        "num_www_in_url_path": 0, 
+        "subject_phish_keywords": 3, 
+        "subject_richness": 0.142857142857143, 
+        "suspicious_links": [], 
+        "text_and_href": 0, 
+        "text_link_with_path": 0
+    }, 
+    "precedence": 2, 
+    "rcpts_count": 1, 
+    "rfcid_is_foreign": 1, 
+    "rfcid_is_invalid": false, 
+    "rfcid_length": 51, 
+    "self_send": 0, 
+    "senders": {
+        "cnt-pow4_w_duc": "", 
+        "cnt-pow4_w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "domain_keywords": "mcafee", 
+        "domain_keywords_detail": [
+            {
+                "confidence": 126680403.0852, 
+                "domain": "mcafee"
+            }
+        ], 
+        "ettf_w_duc": "", 
+        "ettf_w_duc_detail": [], 
+        "idf": "", 
+        "idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "log_cnt-w_duc_detail": [], 
+        "log_cnt_idf": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "log_ecnt_idf": "", 
+        "log_ecnt_idf_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "log_ecnt_log_idf_log_tidf": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "plain_domain": "", 
+        "plain_domain_detail": [], 
+        "src_revert": "", 
+        "src_revert_detail": [], 
+        "tf_log_idf": "", 
+        "tf_log_idf_detail": [], 
+        "ttf_w_duc": "", 
+        "ttf_w_duc_detail": []
+    }, 
+    "spamscore": 1.1, 
+    "spamtrap_hit": false, 
+    "spf_dom_policy_registry": "Policy not found", 
+    "spf_domain_policy": "UNKNOWN", 
+    "spf_status_registry": "Status not found", 
+    "spfstatus": "NONE", 
+    "spfstatus_hfrom": "SPF_FAIL", 
+    "subject": "Ziskejte pomoc s obnovenim hesla", 
+    "subject_image_count": 0, 
+    "subject_word_count": 5, 
+    "word_count": 185
+}

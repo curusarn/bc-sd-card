@@ -1,0 +1,218 @@
+{
+    "adscore": 0, 
+    "ahref_camouflage_count": 0, 
+    "ahref_total_count": 11, 
+    "ahref_verbal_count": 11, 
+    "attachments": [], 
+    "contains_list_header": true, 
+    "content": "CONTENT_DEFAULT", 
+    "date_difference": -79857143, 
+    "dk_statuses": [
+        {
+            "domain": "cortex.cz", 
+            "selector": "dkim", 
+            "status": "PASS"
+        }
+    ], 
+    "dkdomain": "cortex.cz", 
+    "dkim_count": 1, 
+    "dkim_efrom_match": 0, 
+    "dkim_hfrom_match": 0, 
+    "dkim_passed_count": 1, 
+    "dkim_signs_cnt": 1, 
+    "dkselector": "dkim", 
+    "dkstatus": "PASS", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/4da60d836887ad96c21a04281f95478d.eml", 
+    "extractedEmails": [
+        "klub@reserved.cz"
+    ], 
+    "extractedEmailsCardinality": 1, 
+    "extractedEmailsDomainCount": 1, 
+    "extractedEmailsTotalCount": 1, 
+    "extractedHrefUrls": [
+        "http://www.reserved.cz/email/l/81858cca36530834f4d74ff77f/87cdf09d2bd/?u=http%3A%2F%2Fwww.facebook.com", 
+        "http://www.reserved.cz/email/l/81858cca36530834f4d74ff77f/8dca4192552/?u=http%3A%2F%2Fwww.reserved.com%2Fcz%2Fcz%2Fstorelocator%", 
+        "http://www.reserved.cz/email/l/81858cca36530834f4d74ff77f/82c7919cb28/?u=http%3A%2F%2Fwww.reserved.com%2Fcz%2Fcz%2F", 
+        "http://www.reserved.cz/email/l/81858cca36530834f4d74ff77f/8ec4e199b3d/?u=https%3A%2F%2Fwww.reserved.cz%2Fkontakt.html", 
+        "http://www.reserved.cz/email/l/81858cca36530834f4d74ff77f/88c1329b938/?u=http%3A%2F%2Fwww.reserved.cz%2Femail%2Fu%2F81858cca3653"
+    ], 
+    "extractedHrefUrlsCardinality": 11, 
+    "extractedHrefUrlsDomainCount": 1, 
+    "extractedHrefUrlsTotalCount": 11, 
+    "extractedSrcUrls": [
+        "http://reserved.cortex.cz/email/mail_20140422/images/advanced_23.jpg", 
+        "http://reserved.cortex.cz/email/mail_20140422/images/advanced_done_32.jpg", 
+        "http://reserved.cortex.cz/email/mail_20140422/images/advanced_done_33.jpg", 
+        "http://reserved.cortex.cz/email/mail_20140422/images/spacer.gif", 
+        "http://www.reserved.cz/email/o/81858cca36530834f4d74ff77f"
+    ], 
+    "extractedSrcUrlsCardinality": 26, 
+    "extractedSrcUrlsDomainCount": 2, 
+    "extractedSrcUrlsTotalCount": 26, 
+    "first10words": " Aktualizace hesla Pri potizich se zobrazenim otevrete webovou verzi Aktualni pocet bodu 2550 bod", 
+    "from_match": 0, 
+    "header_from": "klub@reserved.cz", 
+    "header_from_count": 1, 
+    "header_reply_to_count": 1, 
+    "header_total_count": 17, 
+    "html_in_text_plain_count": 0, 
+    "html_script_tag_count": 0, 
+    "html_tag_total_count": 309, 
+    "html_td_tag_count": 116, 
+    "html_tr_tag_count": 50, 
+    "lang": "cs", 
+    "last10words": "secka 852 66 190 00 Praha 9 Prosek zapsana v obchodnim rejstriku Mestskeho soudu v Praze oddil C vlozka 88159 IC 26698714 ", 
+    "list_unsubscribe_http_count": 0, 
+    "list_unsubscribe_invalid_count": 1, 
+    "list_unsubscribe_mailto_count": 0, 
+    "list_unsubscribe_total_count": 1, 
+    "list_unsubscribe_urls": [
+        "klub@reserved.cz"
+    ], 
+    "mime_children_count": 2, 
+    "mime_children_types": [
+        "text/plain", 
+        "text/html"
+    ], 
+    "mime_root_type": "multipart/alternative", 
+    "notches": [
+        {
+            "module": "ill", 
+            "name": [
+                "date_in_past", 
+                "from_missmatch"
+            ], 
+            "score": 1, 
+            "subscores": [
+                1, 
+                0.0
+            ]
+        }
+    ], 
+    "now": 1494598262, 
+    "pepca": "p682820115ec60692", 
+    "pepca_inline_style": "pfe7fff0b8bda08fc", 
+    "pepca_inline_style_total": 0, 
+    "pepca_style": "", 
+    "pepca_style_total": 0, 
+    "pepcatotal": 0, 
+    "phashes": [
+        {
+            "name": "pepca", 
+            "value": "p682820115ec60692"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "pfe7fff0b8bda08fc"
+        }
+    ], 
+    "phish_score": 0, 
+    "phishing": {
+        "body_richness": 0.291139240506329, 
+        "camouflage": 0, 
+        "fake_https": 0, 
+        "html_form": 0, 
+        "is_html": true, 
+        "max_num_dots_urls": 5, 
+        "max_num_slashes_urls": 5, 
+        "num_black_sheep_link": -1, 
+        "num_black_sheep_link_global": -1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_external_links": 10, 
+        "num_freehost_urls": 0, 
+        "num_html_script_tags": 0, 
+        "num_https_urls": 0, 
+        "num_ip_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "num_of_chars": 1421, 
+        "num_param_phish": 0, 
+        "num_path_phish": 0, 
+        "num_phish_keywords": 8, 
+        "num_sender_diff_url": 0, 
+        "num_shortened_urls": 0, 
+        "num_subdomain_phish": 0, 
+        "num_text_forms": 77, 
+        "num_tld_in_url_path": 0, 
+        "num_www_in_url_path": 0, 
+        "subject_phish_keywords": 1, 
+        "subject_richness": 0.111111111111111, 
+        "suspicious_links": [], 
+        "text_and_href": 0, 
+        "text_link_with_path": 0
+    }, 
+    "precedence": 3, 
+    "rcpts_count": 1, 
+    "rfcid_is_foreign": 0, 
+    "rfcid_is_invalid": false, 
+    "rfcid_length": 48, 
+    "self_send": 0, 
+    "senders": {
+        "cnt-pow4_w_duc": "", 
+        "cnt-pow4_w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "domain_keywords": "mcsv", 
+        "domain_keywords_detail": [
+            {
+                "confidence": 30075146.0241123, 
+                "domain": "mcsv"
+            }
+        ], 
+        "ettf_w_duc": "", 
+        "ettf_w_duc_detail": [], 
+        "idf": "", 
+        "idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "log_cnt-w_duc_detail": [], 
+        "log_cnt_idf": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "log_ecnt_idf": "", 
+        "log_ecnt_idf_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "log_ecnt_log_idf_log_tidf": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "plain_domain": "", 
+        "plain_domain_detail": [], 
+        "src_revert": "reserved", 
+        "src_revert_detail": [
+            {
+                "confidence": 26, 
+                "domain": "reserved"
+            }
+        ], 
+        "tf_log_idf": "", 
+        "tf_log_idf_detail": [], 
+        "ttf_w_duc": "", 
+        "ttf_w_duc_detail": []
+    }, 
+    "spamscore": 1, 
+    "spamtrap_hit": false, 
+    "spf_dom_policy_registry": "Policy not found", 
+    "spf_domain_policy": "UNKNOWN", 
+    "spf_status_registry": "Status not found", 
+    "spfstatus": "NONE", 
+    "spfstatus_hfrom": "SPF_NONE", 
+    "subject": "Aktualizace hesla", 
+    "subject_image_count": 0, 
+    "subject_word_count": 2, 
+    "unsub_link": "http://www.reserved.cz/email/l/81858cca36530834f4d74ff77f/88c1329b938/?u=http%3A%2F%2Fwww.reserved.cz%2Femail%2Fu%2F81858cca36530834f4d74ff77f", 
+    "unsub_link_candidates": [
+        "http://www.reserved.cz/email/l/81858cca36530834f4d74ff77f/8ec4e199b3d/?u=https%3A%2F%2Fwww.reserved.cz%2Fkontakt.html", 
+        "http://www.reserved.cz/email/l/81858cca36530834f4d74ff77f/88c1329b938/?u=http%3A%2F%2Fwww.reserved.cz%2Femail%2Fu%2F81858cca36530834f4d74ff77f"
+    ], 
+    "unsub_link_texts": [
+        "  neprat li si aby vy byt obchodny sdeleni odesilatel nadale zasilan kliknout", 
+        "neprat li si aby vy byt obchodny sdeleni odesilatel nadale zasilan kliknout zde "
+    ], 
+    "word_count": 414
+}

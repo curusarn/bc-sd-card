@@ -1,0 +1,209 @@
+{
+    "date_difference": -79963841,
+    "spf_dom_policy_registry": "Policy not found",
+    "extractedEmails": [],
+    "list_unsubscribe_total_count": 1,
+    "from_match": 0,
+    "spfstatus_hfrom": "SPF_FAIL",
+    "dkim_passed_count": 1,
+    "unsub_link_candidates": [
+        "http://click.safe-sender.net/?qs=c51aa37d12ed4e8ca181ae1b69c034575c3cd6566db42fa78b96fb5709a2e70cba3ce4336e649f10",
+        "http://click.safe-sender.net/?qs=c51aa37d12ed4e8ca181ae1b69c034575c3cd6566db42fa78b96fb5709a2e70cba3ce4336e649f10"
+    ],
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "extractedHrefUrlsDomainCount": 1,
+    "first10words": " Prihlasil jste se k prijimani emailu k pruzkumu trhu za odmenu a take k dalsim prilezitostem vcetne moznosti vydelat ci usetr",
+    "word_count": 171,
+    "contains_list_header": true,
+    "extractedSrcUrlsDomainCount": 1,
+    "rfcid_length": 57,
+    "pepcatotal": 0,
+    "pepca_style_total": 0,
+    "unsub_link": "http://click.safe-sender.net/?qs=c51aa37d12ed4e8ca181ae1b69c034575c3cd6566db42fa78b96fb5709a2e70cba3ce4336e649f10",
+    "extractedEmailsTotalCount": 0,
+    "mime_root_type": "multipart/alternative",
+    "extractedEmailsCardinality": 0,
+    "extractedHrefUrlsTotalCount": 2,
+    "html_tr_tag_count": 16,
+    "pepca_style": "",
+    "pepca_inline_style_total": 0,
+    "header_from_count": 1,
+    "header_total_count": 14,
+    "extractedSrcUrlsCardinality": 2,
+    "ahref_camouflage_count": 0,
+    "extractedSrcUrlsTotalCount": 2,
+    "html_tag_total_count": 83,
+    "ahref_total_count": 3,
+    "rcpts_count": 1,
+    "extractedEmailsDomainCount": 0,
+    "dkim_hfrom_match": 1,
+    "dkstatus": "PASS",
+    "header_reply_to_count": 1,
+    "subject_image_count": 0,
+    "spf_domain_policy": "UNKNOWN",
+    "spf_status_registry": "Status not found",
+    "rfcid_is_foreign": 1,
+    "content": "CONTENT_DEFAULT",
+    "extractedSrcUrls": [
+        "http://image.safe-sender.net/lib/ffcf14/m/1/spacer.gif",
+        "http://click.safe-sender.net/open.aspx?ffcb10-fe951170716104797d-fde210797c61037a7d107471-fe9c15707566077b72-feca1570726c077f-fe"
+    ],
+    "lang": "cs",
+    "html_td_tag_count": 16,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/6f281d1eb2f572316b1afbbd1561c24e.eml",
+    "spamscore": 1.1,
+    "attachments": [],
+    "dk_statuses": [
+        {
+            "status": "PASS",
+            "selector": "200608",
+            "domain": "safe-sender.net"
+        }
+    ],
+    "dkdomain": "safe-sender.net",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p17770d60da212c97"
+        }
+    ],
+    "pepca_inline_style": "",
+    "list_unsubscribe_urls": [
+        "mailto:leave-fcb61570726c077f1a4c342838-fe1d12797063077a751d74-fe951170716104797d-fe9c15707566077b72-ff311771776c@leave.safe-sender.net"
+    ],
+    "self_send": 0,
+    "now": 1494598310,
+    "mime_children_count": 2,
+    "ahref_verbal_count": 3,
+    "last10words": "u nepredame Vase osobni udaje zadne treti strane Odhlaste se zde pokud si od nas neprejete obdrzet zadne dalsi emaily ",
+    "subject_word_count": 6,
+    "pepca": "p17770d60da212c97",
+    "dkim_count": 1,
+    "unsub_link_texts": [
+        " odhlasit se zde pokud si od my neprat obdrzet zadny dalsi email",
+        " odhlasit se zde pokud si od my neprat obdrzet zadny dalsi email"
+    ],
+    "rfcid_is_invalid": false,
+    "header_from": "centrumpruzkumu@safe-sender.net",
+    "list_unsubscribe_mailto_count": 1,
+    "html_in_text_plain_count": 0,
+    "extractedHrefUrlsCardinality": 2,
+    "html_script_tag_count": 0,
+    "dkim_efrom_match": 0,
+    "adscore": 0,
+    "mime_children_types": [
+        "text/plain",
+        "text/html"
+    ],
+    "dkim_signs_cnt": 1,
+    "spfstatus": "NONE",
+    "extractedHrefUrls": [
+        "http://click.safe-sender.net/?qs=c51aa37d12ed4e8ca181ae1b69c034575c3cd6566db42fa78b96fb5709a2e70cba3ce4336e649f10",
+        "http://click.safe-sender.net/?qs=9e32583d40ac442751f4b1c9d3290a11b10dd761dcb4eb917c3ebdbfda6d7980c7a8677663de5048"
+    ],
+    "spamtrap_hit": false,
+    "precedence": 3,
+    "list_unsubscribe_http_count": 0,
+    "dkselector": "200608",
+    "phishing": {
+        "body_richness": 0.169811320754717,
+        "num_black_sheep_link": -1,
+        "subject_richness": 0.12,
+        "max_num_slashes_urls": 1,
+        "num_https_urls": 0,
+        "camouflage": 0,
+        "ner_domain_detected": false,
+        "html_form": 0,
+        "num_subdomain_phish": 0,
+        "num_external_links": 4,
+        "fake_https": 0,
+        "num_html_script_tags": 0,
+        "num_freehost_urls": 0,
+        "num_phish_keywords": 0,
+        "suspicious_links": [],
+        "num_sender_diff_url": 0,
+        "text_and_href": 0,
+        "subject_phish_keywords": 0,
+        "num_www_in_url_path": 0,
+        "num_domain_phish": 0,
+        "num_of_chars": 1006,
+        "num_ip_urls": 0,
+        "num_path_phish": 0,
+        "num_param_phish": 0,
+        "max_num_dots_urls": 2,
+        "num_tld_in_url_path": 0,
+        "is_html": true,
+        "num_black_sheep_link_phish": 0,
+        "num_non_80_port_urls": 0,
+        "num_text_forms": 4,
+        "num_black_sheep_link_global": -1,
+        "text_link_with_path": 0,
+        "num_shortened_urls": 0
+    },
+    "senders": {
+        "domain_keywords": "safe-sender",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "idf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt-pow4_w_duc": "",
+        "plain_domain_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "tf_log_idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "plain_domain": "",
+        "domain_keywords_detail": [
+            {
+                "domain": "safe-sender",
+                "confidence": 3103074.466435
+            }
+        ],
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt_idf": "",
+        "tf_log_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "safe-sender",
+                "confidence": 2
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_cnt-w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert": "safe-sender"
+    },
+    "phish_score": 0,
+    "subject": "Veronika Dokoncete registraci u Cenne Nazory ",
+    "list_unsubscribe_invalid_count": 0
+}

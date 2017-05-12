@@ -1,0 +1,203 @@
+{
+    "adscore": 0, 
+    "ahref_camouflage_count": 0, 
+    "ahref_total_count": 4, 
+    "ahref_verbal_count": 2, 
+    "attachments": [], 
+    "content": "CONTENT_DEFAULT", 
+    "date_difference": -73438399, 
+    "dk_statuses": [
+        {
+            "domain": "sender.simplia.cz", 
+            "selector": "smtpapi", 
+            "status": "PASS"
+        }
+    ], 
+    "dkdomain": "sender.simplia.cz", 
+    "dkim_count": 1, 
+    "dkim_efrom_match": 0, 
+    "dkim_hfrom_match": 0, 
+    "dkim_passed_count": 1, 
+    "dkim_signs_cnt": 1, 
+    "dkselector": "smtpapi", 
+    "dkstatus": "PASS", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/trans-fe08e9f5e2d701a94ab8eca1c2b9e69f.eml", 
+    "extractedEmails": [
+        "neska@seznam.cz"
+    ], 
+    "extractedEmailsCardinality": 1, 
+    "extractedEmailsDomainCount": 1, 
+    "extractedEmailsTotalCount": 1, 
+    "extractedHrefUrls": [
+        "http://www.sportleader.cz/redirect-zbozi?kod=P299053", 
+        "http://www.sportleader.cz/redirect-zbozi?kod=P299054", 
+        "http://pid.idos.cz/spojeni", 
+        "http://www.praha3.cz/oblasti-pusobnosti/doprava-a-parkovani/zony-placeneho-stani/index.html"
+    ], 
+    "extractedHrefUrlsCardinality": 4, 
+    "extractedHrefUrlsDomainCount": 3, 
+    "extractedHrefUrlsTotalCount": 4, 
+    "extractedSrcUrls": [], 
+    "extractedTxtUrls": [
+        "http://pid.idos.cz/spojeni", 
+        "http://www.praha3.cz/oblasti-pusobnosti/doprava-a-parkovani/zony-placeneho-stani/index.html", 
+        "http://SportLeader.cz"
+    ], 
+    "extractedTxtUrlsCardinality": 3, 
+    "extractedTxtUrlsDomainCount": 3, 
+    "extractedTxtUrlsTotalCount": 3, 
+    "first10words": " Dobry den U Vasi objednavky s ID 5215010599 v internetovem obchode SportLeader cz Vas partner v oblasti Fitness a sportovniho vybaven", 
+    "from_match": 0, 
+    "header_from": "obchod@sportleader.cz", 
+    "header_from_count": 1, 
+    "header_reply_to_count": 0, 
+    "header_total_count": 15, 
+    "html_in_text_plain_count": 0, 
+    "html_script_tag_count": 0, 
+    "html_tag_total_count": 252, 
+    "html_td_tag_count": 80, 
+    "html_tr_tag_count": 24, 
+    "lang": "cs", 
+    "last10words": "aceneho stani index html SportLeader cz Vas partner v oblasti Fitness a sportovniho vybaveni objednavka 5215010599 ", 
+    "list_unsubscribe_http_count": 0, 
+    "list_unsubscribe_invalid_count": 0, 
+    "list_unsubscribe_mailto_count": 0, 
+    "list_unsubscribe_total_count": 0, 
+    "mime_children_count": 2, 
+    "mime_children_types": [
+        "text/plain", 
+        "text/html"
+    ], 
+    "mime_root_type": "multipart/alternative", 
+    "notches": [
+        {
+            "module": "ill", 
+            "name": [
+                "date_in_past", 
+                "from_missmatch"
+            ], 
+            "score": 1, 
+            "subscores": [
+                1, 
+                0.0
+            ]
+        }
+    ], 
+    "now": 1494598441, 
+    "pepca": "p283cb3be8eebd2d4", 
+    "pepca_inline_style": "p524d7c97797736ab", 
+    "pepca_inline_style_total": 0, 
+    "pepca_style": "", 
+    "pepca_style_total": 0, 
+    "pepcatotal": 0, 
+    "phashes": [
+        {
+            "name": "pepca", 
+            "value": "p283cb3be8eebd2d4"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "p524d7c97797736ab"
+        }
+    ], 
+    "phish_score": 0, 
+    "phishing": {
+        "body_richness": 0.160641307764854, 
+        "camouflage": 0, 
+        "fake_https": 0, 
+        "html_form": 0, 
+        "is_html": true, 
+        "max_num_dots_urls": 3, 
+        "max_num_slashes_urls": 4, 
+        "num_black_sheep_link": -1, 
+        "num_black_sheep_link_global": -1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_external_links": 4, 
+        "num_freehost_urls": 0, 
+        "num_html_script_tags": 0, 
+        "num_https_urls": 0, 
+        "num_ip_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "num_of_chars": 3180, 
+        "num_param_phish": 0, 
+        "num_path_phish": 0, 
+        "num_phish_keywords": 0, 
+        "num_sender_diff_url": 2, 
+        "num_shortened_urls": 0, 
+        "num_subdomain_phish": 0, 
+        "num_text_forms": 9, 
+        "num_tld_in_url_path": 0, 
+        "num_www_in_url_path": 0, 
+        "subject_phish_keywords": 0, 
+        "subject_richness": 0.102564102564103, 
+        "suspicious_links": [], 
+        "text_and_href": 2, 
+        "text_link_with_path": 2
+    }, 
+    "precedence": 3, 
+    "rcpts_count": 1, 
+    "rfcid_is_foreign": 0, 
+    "rfcid_is_invalid": false, 
+    "rfcid_length": 35, 
+    "self_send": 0, 
+    "senders": {
+        "cnt-pow4_w_duc": "", 
+        "cnt-pow4_w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "domain_keywords": "masterinter", 
+        "domain_keywords_detail": [
+            {
+                "confidence": 50982457.980352, 
+                "domain": "masterinter"
+            }
+        ], 
+        "ettf_w_duc": "", 
+        "ettf_w_duc_detail": [], 
+        "idf": "", 
+        "idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "log_cnt-w_duc_detail": [], 
+        "log_cnt_idf": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "log_ecnt_idf": "", 
+        "log_ecnt_idf_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "log_ecnt_log_idf_log_tidf": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "plain_domain": "sportleader", 
+        "plain_domain_detail": [
+            {
+                "confidence": 1, 
+                "domain": "sportleader"
+            }
+        ], 
+        "src_revert": "", 
+        "src_revert_detail": [], 
+        "tf_log_idf": "", 
+        "tf_log_idf_detail": [], 
+        "ttf_w_duc": "", 
+        "ttf_w_duc_detail": []
+    }, 
+    "spamscore": 1, 
+    "spamtrap_hit": false, 
+    "spf_dom_policy_registry": "Policy not found", 
+    "spf_domain_policy": "UNKNOWN", 
+    "spf_status_registry": "Status not found", 
+    "spfstatus": "NONE", 
+    "spfstatus_hfrom": "SPF_NONE", 
+    "subject": "Zmena stavu objednavky pripravena ", 
+    "subject_image_count": 0, 
+    "subject_word_count": 4, 
+    "word_count": 511
+}

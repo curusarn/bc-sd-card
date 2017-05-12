@@ -1,0 +1,213 @@
+{
+    "date_difference": -85423695,
+    "html_td_tag_count": 36,
+    "extractedEmails": [
+        "beruskaverca27@seznam.cz"
+    ],
+    "list_unsubscribe_total_count": 0,
+    "from_match": 0,
+    "spfstatus_hfrom": "SPF_FAIL",
+    "dkim_passed_count": 1,
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging"
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "extractedHrefUrlsDomainCount": 1,
+    "first10words": " TopSleva cz Zpravodaj Srovnavame vice nez 5 000 skvelych nabidek tracking TOP SLEVA CZ Srovnavame vice ne",
+    "word_count": 182,
+    "pepca": "p0e3d2093020ebc32",
+    "extractedTxtUrlsTotalCount": 5,
+    "extractedTxtUrlsDomainCount": 2,
+    "pepcatotal": 0,
+    "pepca_style_total": 0,
+    "extractedEmailsTotalCount": 1,
+    "mime_root_type": "multipart/alternative",
+    "extractedEmailsCardinality": 1,
+    "extractedHrefUrlsTotalCount": 9,
+    "html_tr_tag_count": 18,
+    "pepca_style": "",
+    "pepca_inline_style_total": 0,
+    "header_from_count": 1,
+    "header_total_count": 13,
+    "precedence": 3,
+    "ahref_camouflage_count": 1,
+    "subject": "Dokoncete registraci na portalu TopSleva cz",
+    "html_tag_total_count": 137,
+    "ahref_total_count": 10,
+    "extractedEmailsDomainCount": 1,
+    "dkim_hfrom_match": 1,
+    "dkstatus": "PASS",
+    "header_reply_to_count": 0,
+    "subject_image_count": 0,
+    "extractedTxtUrlsCardinality": 5,
+    "spf_status_registry": "Status not found",
+    "rfcid_is_foreign": 0,
+    "content": "CONTENT_DEFAULT",
+    "extractedSrcUrls": [],
+    "lang": "cs",
+    "extractedTxtUrls": [
+        "http://www.topsleva.cz",
+        "http://www.topsleva.cz/verifikace/36b896f7eb1b868267bab5d22d9d53a82af29673",
+        "http://TopSleva.cz",
+        "http://SLEVA.CZ",
+        "http://www.topsleva.cz."
+    ],
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/241537.eml",
+    "spamscore": 1.1,
+    "attachments": [],
+    "dk_statuses": [
+        {
+            "status": "PASS",
+            "selector": "default.private",
+            "domain": "topsleva.cz"
+        }
+    ],
+    "dkdomain": "topsleva.cz",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p0e3d2093020ebc32"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p7b9ae22257bcfef4"
+        }
+    ],
+    "pepca_inline_style": "p7b9ae22257bcfef4",
+    "rcpts_count": 1,
+    "self_send": 0,
+    "now": 1494598203,
+    "mime_children_count": 2,
+    "ahref_verbal_count": 7,
+    "last10words": "nim hezkeho dne Tym TopSleva cz 2013 5DM cz Prokopska 297 10 Prague Prague 11800 Czech Republic ",
+    "subject_word_count": 6,
+    "spf_domain_policy": "UNKNOWN",
+    "dkim_count": 1,
+    "rfcid_is_invalid": false,
+    "header_from": "info@topsleva.cz",
+    "list_unsubscribe_mailto_count": 0,
+    "rfcid_length": 26,
+    "html_in_text_plain_count": 0,
+    "extractedHrefUrlsCardinality": 9,
+    "html_script_tag_count": 0,
+    "dkim_efrom_match": 0,
+    "adscore": 0,
+    "mime_children_types": [
+        "text/plain",
+        "text/html"
+    ],
+    "dkim_signs_cnt": 1,
+    "spfstatus": "NONE",
+    "extractedHrefUrls": [
+        "http://www.topsleva.cz/vernostni-program",
+        "http://www.topsleva.cz/leto",
+        "http://www.topsleva.cz",
+        "http://www.topsleva.cz/verifikace/36b896f7eb1b868267bab5d22d9d53a82af29673",
+        "http://www.topsleva.cz/jak-ziskat-body"
+    ],
+    "spamtrap_hit": false,
+    "spf_dom_policy_registry": "Policy not found",
+    "list_unsubscribe_http_count": 0,
+    "dkselector": "default.private",
+    "phishing": {
+        "body_richness": 0.184210526315789,
+        "num_black_sheep_link": -1,
+        "subject_richness": 0.130434782608696,
+        "max_num_slashes_urls": 2,
+        "num_https_urls": 0,
+        "camouflage": 1,
+        "ner_domain_detected": false,
+        "html_form": 0,
+        "num_subdomain_phish": 0,
+        "num_external_links": 5,
+        "fake_https": 0,
+        "num_html_script_tags": 0,
+        "num_freehost_urls": 0,
+        "num_phish_keywords": 5,
+        "suspicious_links": [],
+        "num_sender_diff_url": 1,
+        "text_and_href": 2,
+        "subject_phish_keywords": 0,
+        "num_www_in_url_path": 0,
+        "num_domain_phish": 0,
+        "num_of_chars": 987,
+        "num_ip_urls": 0,
+        "num_path_phish": 0,
+        "num_param_phish": 0,
+        "max_num_dots_urls": 3,
+        "num_tld_in_url_path": 0,
+        "is_html": true,
+        "num_black_sheep_link_phish": 0,
+        "num_non_80_port_urls": 0,
+        "num_text_forms": 0,
+        "num_black_sheep_link_global": -1,
+        "text_link_with_path": 1,
+        "num_shortened_urls": 0
+    },
+    "senders": {
+        "domain_keywords": "topsleva",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "idf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt-pow4_w_duc": "",
+        "plain_domain_detail": [
+            {
+                "domain": "sleva",
+                "confidence": 1
+            },
+            {
+                "domain": "topsleva",
+                "confidence": 4
+            }
+        ],
+        "log_cnt-pow_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "tf_log_idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "plain_domain": "sleva",
+        "domain_keywords_detail": [
+            {
+                "domain": "topsleva",
+                "confidence": 38227977.106519
+            }
+        ],
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt_idf": "",
+        "tf_log_idf": "",
+        "src_revert_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_cnt-w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert": ""
+    },
+    "phish_score": 0,
+    "list_unsubscribe_invalid_count": 0
+}

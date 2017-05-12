@@ -1,0 +1,231 @@
+{
+    "adscore": 0, 
+    "ahref_camouflage_count": 0, 
+    "ahref_total_count": 4, 
+    "ahref_verbal_count": 2, 
+    "attachments": [
+        {
+            "cid": "cid_db3f60f85012d52d0ec18efd56c1d873", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "image/png", 
+            "name": "", 
+            "pepca": "paa89c9607df1737d", 
+            "size": 997, 
+            "sumphash": "f9f3953f7100bf33a1887f19637312d7"
+        }
+    ], 
+    "content": "CONTENT_DEFAULT", 
+    "date_difference": -79863671, 
+    "dkStatusDetail": "NOT_SIGNED", 
+    "dk_statuses": [
+        {
+            "status": "NEUTRAL", 
+            "statusDetail": "NOT_SIGNED"
+        }
+    ], 
+    "dkim_count": 0, 
+    "dkim_efrom_match": 0, 
+    "dkim_hfrom_match": 0, 
+    "dkim_passed_count": 0, 
+    "dkim_signs_cnt": 1, 
+    "dkstatus": "NEUTRAL", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/44a9b4a3c013545a7c7fe394e8f2287e.eml", 
+    "extractedEmails": [
+        "info@jizdomat.cz", 
+        "zientek.j@email.cz"
+    ], 
+    "extractedEmailsCardinality": 2, 
+    "extractedEmailsDomainCount": 2, 
+    "extractedEmailsTotalCount": 2, 
+    "extractedHrefUrls": [
+        "http://www.jizdomat.cz/overeni?utm_source=automailing&utm_medium=email&utm_campaign=mail_fb_registration", 
+        "http://www.jizdomat.cz/profil/nastaveni", 
+        "http://www.jizdomat.cz"
+    ], 
+    "extractedHrefUrlsCardinality": 3, 
+    "extractedHrefUrlsDomainCount": 1, 
+    "extractedHrefUrlsTotalCount": 3, 
+    "extractedSrcUrls": [
+        "cid:cid_db3f60f85012d52d0ec18efd56c1d873"
+    ], 
+    "extractedSrcUrlsCardinality": 1, 
+    "extractedSrcUrlsDomainCount": 0, 
+    "extractedSrcUrlsTotalCount": 1, 
+    "extractedTxtUrls": [
+        "http://www.jizdomat.cz", 
+        "http://zdomat.cz"
+    ], 
+    "extractedTxtUrlsCardinality": 2, 
+    "extractedTxtUrlsDomainCount": 2, 
+    "extractedTxtUrlsTotalCount": 2, 
+    "first10words": " Jizdomat cz Jizdomat cz ceska jednicka ve spolujizde Usetrili jsme jiz 31 404 664 Kc Registrace pres ", 
+    "from_match": 0, 
+    "header_from": "info@jizdomat.cz", 
+    "header_from_count": 1, 
+    "header_reply_to_count": 0, 
+    "header_total_count": 10, 
+    "html_in_text_plain_count": 0, 
+    "html_script_tag_count": 0, 
+    "html_tag_total_count": 89, 
+    "html_td_tag_count": 16, 
+    "html_tr_tag_count": 12, 
+    "lang": "cs", 
+    "last10words": "cz Zrusit zasilani e mailu muzete na strance s vasim nastavenim Jizdomat cz info jizdomat cz www jizdomat cz ", 
+    "list_unsubscribe_http_count": 0, 
+    "list_unsubscribe_invalid_count": 0, 
+    "list_unsubscribe_mailto_count": 0, 
+    "list_unsubscribe_total_count": 0, 
+    "mime_children_count": 2, 
+    "mime_children_types": [
+        "multipart/alternative", 
+        "image/png"
+    ], 
+    "mime_root_type": "multipart/related", 
+    "notches": [
+        {
+            "module": "ill", 
+            "name": [
+                "date_in_past", 
+                "from_missmatch"
+            ], 
+            "score": 1, 
+            "subscores": [
+                1, 
+                0.0
+            ]
+        }
+    ], 
+    "now": 1494598253, 
+    "pepca": "pb31cd918eff20fe2", 
+    "pepca_inline_style": "p0388c21886a2fa4d", 
+    "pepca_inline_style_total": 0, 
+    "pepca_style": "", 
+    "pepca_style_total": 0, 
+    "pepcatotal": 0, 
+    "phashes": [
+        {
+            "name": "att-pepca", 
+            "value": "paa89c9607df1737d"
+        }, 
+        {
+            "name": "pepca", 
+            "value": "pb31cd918eff20fe2"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "p0388c21886a2fa4d"
+        }
+    ], 
+    "phish_score": 0, 
+    "phishing": {
+        "body_richness": 0.165898617511521, 
+        "camouflage": 0, 
+        "fake_https": 0, 
+        "html_form": 0, 
+        "is_html": true, 
+        "max_num_dots_urls": 2, 
+        "max_num_slashes_urls": 2, 
+        "num_black_sheep_link": -1, 
+        "num_black_sheep_link_global": -1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_external_links": 3, 
+        "num_freehost_urls": 0, 
+        "num_html_script_tags": 0, 
+        "num_https_urls": 0, 
+        "num_ip_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "num_of_chars": 867, 
+        "num_param_phish": 0, 
+        "num_path_phish": 0, 
+        "num_phish_keywords": 8, 
+        "num_sender_diff_url": 1, 
+        "num_shortened_urls": 0, 
+        "num_subdomain_phish": 0, 
+        "num_text_forms": 4, 
+        "num_tld_in_url_path": 0, 
+        "num_www_in_url_path": 0, 
+        "subject_phish_keywords": 0, 
+        "subject_richness": 0.145833333333333, 
+        "suspicious_links": [], 
+        "text_and_href": 1, 
+        "text_link_with_path": 0
+    }, 
+    "precedence": 3, 
+    "rcpts_count": 1, 
+    "rfcid_is_foreign": 0, 
+    "rfcid_is_invalid": false, 
+    "rfcid_length": 36, 
+    "self_send": 0, 
+    "senders": {
+        "cnt-pow4_w_duc": "", 
+        "cnt-pow4_w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "domain_keywords": "stable", 
+        "domain_keywords_detail": [
+            {
+                "confidence": 112272389.81453, 
+                "domain": "stable"
+            }
+        ], 
+        "ettf_w_duc": "", 
+        "ettf_w_duc_detail": [], 
+        "idf": "", 
+        "idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "log_cnt-w_duc_detail": [], 
+        "log_cnt_idf": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "log_ecnt_idf": "", 
+        "log_ecnt_idf_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "log_ecnt_log_idf_log_tidf": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "plain_domain": "jizdomat", 
+        "plain_domain_detail": [
+            {
+                "confidence": 1, 
+                "domain": "jizdomat"
+            }, 
+            {
+                "confidence": 1, 
+                "domain": "zdomat"
+            }
+        ], 
+        "src_revert": "", 
+        "src_revert_detail": [], 
+        "tf_log_idf": "", 
+        "tf_log_idf_detail": [], 
+        "ttf_w_duc": "", 
+        "ttf_w_duc_detail": []
+    }, 
+    "spamscore": 1, 
+    "spamtrap_hit": false, 
+    "spf_dom_policy_registry": "Policy not found", 
+    "spf_domain_policy": "UNKNOWN", 
+    "spf_status_registry": "Status not found", 
+    "spfstatus": "NONE", 
+    "spfstatus_hfrom": "SPF_NONE", 
+    "subject": "Vase registrace pres Facebook na Jizdomat cz", 
+    "subject_image_count": 0, 
+    "subject_word_count": 7, 
+    "unsub_link": "http://www.jizdomat.cz/profil/nastaveni", 
+    "unsub_link_candidates": [
+        "http://www.jizdomat.cz/profil/nastaveni"
+    ], 
+    "unsub_link_texts": [
+        "cz zrusit zasilani e mail moct na stranka s vas nastaveni jizdomat"
+    ], 
+    "word_count": 144
+}

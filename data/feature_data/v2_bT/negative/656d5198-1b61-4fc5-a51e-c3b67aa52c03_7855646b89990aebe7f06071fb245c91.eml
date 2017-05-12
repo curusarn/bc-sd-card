@@ -1,0 +1,217 @@
+{
+    "date_difference": -79562039,
+    "html_td_tag_count": 18,
+    "extractedEmails": [],
+    "list_unsubscribe_total_count": 0,
+    "from_match": 0,
+    "spf_dom_policy_registry": "Policy not found",
+    "dkim_passed_count": 1,
+    "unsub_link_candidates": [
+        "http://www.slevydnes.cz/newsletter/f7bd523cd8bdef45492cb0d5fca821f31a70c6d04ffb5c3e80918?confirm=1&utm_source=welcome&utm_medium=email&uid=46038"
+    ],
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "extractedHrefUrlsDomainCount": 1,
+    "first10words": " Vitejte ve SlevyDnes cz SLEVY DNES cz 3 11 2014 dnes nabizime 2531 slev Dobry den dekujeme za Va",
+    "word_count": 240,
+    "pepca": "pf14538e491edc549",
+    "extractedSrcUrlsDomainCount": 1,
+    "last10words": "cz Tento email byl odeslan na zaklade Vasi registrace na SlevyDnes cz Nastavit zrusit slevovy zpravodaj ",
+    "extractedTxtUrlsDomainCount": 1,
+    "pepcatotal": 0,
+    "pepca_style_total": 0,
+    "unsub_link": "http://www.slevydnes.cz/newsletter/f7bd523cd8bdef45492cb0d5fca821f31a70c6d04ffb5c3e80918?confirm=1&utm_source=welcome&utm_medium=email&uid=46038",
+    "extractedEmailsTotalCount": 0,
+    "mime_root_type": "text/html",
+    "extractedEmailsCardinality": 0,
+    "extractedHrefUrlsTotalCount": 4,
+    "html_tr_tag_count": 14,
+    "pepca_style": "",
+    "pepca_inline_style_total": 0,
+    "header_from_count": 1,
+    "header_total_count": 13,
+    "extractedSrcUrlsCardinality": 2,
+    "ahref_camouflage_count": 0,
+    "extractedSrcUrlsTotalCount": 2,
+    "html_tag_total_count": 121,
+    "ahref_total_count": 5,
+    "extractedEmailsDomainCount": 0,
+    "dkim_hfrom_match": 1,
+    "dkstatus": "PASS",
+    "header_reply_to_count": 0,
+    "spfstatus_hfrom": "SPF_FAIL",
+    "subject_image_count": 0,
+    "extractedTxtUrlsCardinality": 3,
+    "spf_status_registry": "Status not found",
+    "rfcid_is_foreign": 0,
+    "content": "CONTENT_DEFAULT",
+    "extractedSrcUrls": [
+        "http://img.slevydnes.cz/praha.jpg",
+        "http://img.slevydnes.cz/kategorie-pruh.png"
+    ],
+    "lang": "cs",
+    "extractedTxtUrls": [
+        "http://SlevyDnes.cz",
+        "http://SLEVYDNES.cz",
+        "http://SlevyDnes.cz."
+    ],
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/7855646b89990aebe7f06071fb245c91.eml",
+    "spamscore": 1,
+    "attachments": [],
+    "dk_statuses": [
+        {
+            "status": "PASS",
+            "selector": "default",
+            "domain": "slevydnes.cz"
+        }
+    ],
+    "dkdomain": "slevydnes.cz",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pf14538e491edc549"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pd325f368d46a266c"
+        }
+    ],
+    "pepca_inline_style": "pd325f368d46a266c",
+    "rcpts_count": 1,
+    "self_send": 0,
+    "now": 1494598321,
+    "mime_children_count": 0,
+    "ahref_verbal_count": 3,
+    "extractedTxtUrlsTotalCount": 3,
+    "subject_word_count": 6,
+    "spf_domain_policy": "UNKNOWN",
+    "dkim_count": 1,
+    "unsub_link_texts": [
+        " nastavit zrusit slevovy zpravodaj"
+    ],
+    "rfcid_is_invalid": false,
+    "header_from": "zpravodaj@slevydnes.cz",
+    "list_unsubscribe_mailto_count": 0,
+    "rfcid_length": 23,
+    "html_in_text_plain_count": 0,
+    "extractedHrefUrlsCardinality": 4,
+    "html_script_tag_count": 0,
+    "dkim_efrom_match": 0,
+    "adscore": 0,
+    "mime_children_types": [],
+    "dkim_signs_cnt": 1,
+    "spfstatus": "NONE",
+    "extractedHrefUrls": [
+        "http://www.slevydnes.cz/?utm_source=welcome&utm_medium=email",
+        "http://www.slevydnes.cz/newsletter/f7bd523cd8bdef45492cb0d5fca821f31a70c6d04ffb5c3e80918?confirm=1&forcedistricts=1&utm_source=w",
+        "http://www.slevydnes.cz/newsletter/f7bd523cd8bdef45492cb0d5fca821f31a70c6d04ffb5c3e80918?confirm=1&utm_source=welcome&utm_medium",
+        "http://www.slevydnes.cz/?utm_source=welcome&utm_medium=email&uid=46038"
+    ],
+    "spamtrap_hit": false,
+    "precedence": 3,
+    "list_unsubscribe_http_count": 0,
+    "dkselector": "default",
+    "phishing": {
+        "body_richness": 0.172290021536253,
+        "num_black_sheep_link": -1,
+        "subject_richness": 0.105263157894737,
+        "max_num_slashes_urls": 2,
+        "num_https_urls": 0,
+        "camouflage": 0,
+        "ner_domain_detected": false,
+        "html_form": 0,
+        "num_subdomain_phish": 0,
+        "num_external_links": 6,
+        "fake_https": 0,
+        "num_html_script_tags": 0,
+        "num_freehost_urls": 0,
+        "num_phish_keywords": 0,
+        "suspicious_links": [],
+        "num_sender_diff_url": 0,
+        "text_and_href": 0,
+        "subject_phish_keywords": 1,
+        "num_www_in_url_path": 0,
+        "num_domain_phish": 0,
+        "num_of_chars": 1392,
+        "num_ip_urls": 0,
+        "num_path_phish": 0,
+        "num_param_phish": 0,
+        "max_num_dots_urls": 2,
+        "num_tld_in_url_path": 0,
+        "is_html": true,
+        "num_black_sheep_link_phish": 0,
+        "num_non_80_port_urls": 0,
+        "num_text_forms": 0,
+        "num_black_sheep_link_global": -1,
+        "text_link_with_path": 0,
+        "num_shortened_urls": 0
+    },
+    "senders": {
+        "domain_keywords": "slevydnes",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "idf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt-pow4_w_duc": "",
+        "plain_domain_detail": [
+            {
+                "domain": "slevydnes",
+                "confidence": 3
+            }
+        ],
+        "log_cnt-pow_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "tf_log_idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "plain_domain": "slevydnes",
+        "domain_keywords_detail": [
+            {
+                "domain": "slevydnes",
+                "confidence": 66941604.88224
+            }
+        ],
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt_idf": "",
+        "tf_log_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "slevydnes",
+                "confidence": 2
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_cnt-w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert": "slevydnes"
+    },
+    "phish_score": 0,
+    "subject": "POTVRZENI REGISTRACE slevoveho zpravodaje SlevyDnes cz",
+    "list_unsubscribe_invalid_count": 0
+}

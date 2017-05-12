@@ -1,0 +1,207 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.1,
+                0.0,
+                0.1
+            ],
+            "score": 1.2,
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "evil_script",
+                "from_missmatch",
+                "foreign_message_id"
+            ]
+        }
+    ],
+    "rfcid_is_invalid": false,
+    "spfstatus": "NONE",
+    "mime_root_type": "text/html",
+    "header_from_count": 1,
+    "now": 1494597878,
+    "dkim_efrom_match": 0,
+    "pepca_inline_style_total": 0,
+    "rcpts_count": 1,
+    "extractedEmailsTotalCount": 0,
+    "pepca_inline_style": "p47380c1e47e54fa5",
+    "pepca_style_total": 0,
+    "dkim_hfrom_match": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/135.eml",
+    "html_td_tag_count": 58,
+    "extractedHrefUrlsCardinality": 4,
+    "list_unsubscribe_mailto_count": 0,
+    "subject_word_count": 5,
+    "lang": "en",
+    "precedence": 3,
+    "phishing": {
+        "num_html_script_tags": 0,
+        "num_text_forms": 5,
+        "fake_https": 0,
+        "is_html": true,
+        "num_non_80_port_urls": 0,
+        "num_https_urls": 2,
+        "num_of_chars": 1807,
+        "num_param_phish": 0,
+        "text_and_href": 0,
+        "body_richness": 0.239491150442478,
+        "text_link_with_path": 0,
+        "max_num_slashes_urls": 2,
+        "num_shortened_urls": 0,
+        "num_sender_diff_url": 3,
+        "num_ip_urls": 0,
+        "num_black_sheep_link": -1,
+        "subject_richness": 0.128205128205128,
+        "num_tld_in_url_path": 0,
+        "subject_phish_keywords": 1,
+        "num_black_sheep_link_global": -1,
+        "num_black_sheep_link_phish": 0,
+        "num_path_phish": 0,
+        "suspicious_links": [],
+        "html_form": 0,
+        "num_phish_keywords": 18,
+        "num_subdomain_phish": 0,
+        "num_domain_phish": 0,
+        "ner_domain_detected": true,
+        "camouflage": 0,
+        "num_freehost_urls": 0,
+        "num_external_links": 9,
+        "max_num_dots_urls": 4,
+        "num_www_in_url_path": 0
+    },
+    "spf_status_registry": "Status not found",
+    "rfcid_is_foreign": 1,
+    "from_match": 0,
+    "first10words": " New Page 1 Security Measures Are You Traveling PayPal is committed to maintaining a safe envir",
+    "spf_domain_policy": "UNKNOWN",
+    "header_total_count": 24,
+    "dkim_passed_count": 0,
+    "dkim_signs_cnt": 1,
+    "mime_children_types": [],
+    "ahref_verbal_count": 4,
+    "subject_image_count": 0,
+    "phish_score": 0,
+    "self_send": 0,
+    "dkstatus": "NEUTRAL",
+    "phashes": [
+        {
+            "value": "p2aa275403e76bc41",
+            "name": "pepca"
+        },
+        {
+            "value": "p47380c1e47e54fa5",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "extractedHrefUrlsTotalCount": 4,
+    "attachments": [],
+    "html_tr_tag_count": 38,
+    "html_tag_total_count": 229,
+    "mime_children_count": 0,
+    "spamtrap_hit": false,
+    "extractedEmailsDomainCount": 0,
+    "extractedEmails": [],
+    "extractedSrcUrlsCardinality": 5,
+    "spamscore": 1.2,
+    "ahref_total_count": 4,
+    "extractedEmailsCardinality": 0,
+    "extractedSrcUrlsTotalCount": 5,
+    "dkim_count": 0,
+    "adscore": 0,
+    "pepca": "p2aa275403e76bc41",
+    "dkStatusDetail": "NOT_SIGNED",
+    "html_script_tag_count": 7,
+    "date_difference": -368448469,
+    "html_in_text_plain_count": 0,
+    "pepca_style": "",
+    "word_count": 433,
+    "rfcid_length": 33,
+    "spf_dom_policy_registry": "Policy not found",
+    "pepcatotal": 0,
+    "last10words": " To receive email notifications in plain text instead of HTML update your preferences here PayPal Email ID PP697 ",
+    "extractedHrefUrls": [
+        "http://www.paypal.com-cgi-bin.us/ppverify.php?cmd=_login-run&mail=&?motd=account_verify",
+        "http://login.paypal.us.tp/",
+        "https://www.paypal.com/cgi-bin/webscr?cmd=_login-run",
+        "https://www.paypal.com/row/PREFS-NOTI"
+    ],
+    "spfstatus_hfrom": "SPF_NONE",
+    "header_reply_to_count": 0,
+    "senders": {
+        "log_cnt_idf_detail": [],
+        "log_ecnt_idf_detail": [],
+        "tf_log_idf": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "cnt-pow4_w_duc_detail": [],
+        "ttf_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "src_revert": "paypal",
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "plain_domain": "us",
+        "src_revert_detail": [
+            {
+                "confidence": 3,
+                "domain": "paypal"
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "us"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "tf_log_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 786875553.585404,
+                "domain": "paypal"
+            }
+        ],
+        "domain_keywords": "paypal",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt_idf": ""
+    },
+    "dk_statuses": [
+        {
+            "statusDetail": "NOT_SIGNED",
+            "status": "NEUTRAL"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "extractedSrcUrls": [
+        "http://images.paypal.com/en_US/i/logo/email_logo.gif",
+        "http://images.paypal.com/images/pixel.gif",
+        "http://images.paypal.com/en_US/i/scr/pixel.gif",
+        "http://visit.webhosting.yahoo.com/visit.gif?us1123383974",
+        "http://geo.yahoo.com/serv?s=76001062&t=1123383974&f=us-w82"
+    ],
+    "list_unsubscribe_http_count": 0,
+    "extractedHrefUrlsDomainCount": 3,
+    "subject": "Security Measures Are You Traveling ",
+    "list_unsubscribe_total_count": 0,
+    "extractedSrcUrlsDomainCount": 2,
+    "ahref_camouflage_count": 0,
+    "list_unsubscribe_invalid_count": 0,
+    "header_from": "security@epaypal.com"
+}

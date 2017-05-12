@@ -1,0 +1,204 @@
+{
+    "adscore": 0, 
+    "ahref_camouflage_count": 0, 
+    "ahref_total_count": 2, 
+    "ahref_verbal_count": 1, 
+    "attachments": [], 
+    "content": "CONTENT_DEFAULT", 
+    "date_difference": -65072835, 
+    "dkStatusDetail": "NOT_SIGNED", 
+    "dk_statuses": [
+        {
+            "status": "NEUTRAL", 
+            "statusDetail": "NOT_SIGNED"
+        }
+    ], 
+    "dkim_count": 0, 
+    "dkim_efrom_match": 0, 
+    "dkim_hfrom_match": 0, 
+    "dkim_passed_count": 0, 
+    "dkim_signs_cnt": 1, 
+    "dkstatus": "NEUTRAL", 
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/actual/data/04_2015/0546099ee37a720ae9bac5da46223188 (1).eml", 
+    "extractedEmails": [], 
+    "extractedEmailsCardinality": 0, 
+    "extractedEmailsDomainCount": 0, 
+    "extractedEmailsTotalCount": 0, 
+    "extractedHrefUrls": [
+        "http://x.co/8AiKw", 
+        "http://account.paayypaal.com/", 
+        "account.paayypaal.com/"
+    ], 
+    "extractedHrefUrlsCardinality": 3, 
+    "extractedHrefUrlsDomainCount": 2, 
+    "extractedHrefUrlsTotalCount": 3, 
+    "extractedSrcUrls": [
+        "https://ci6.googleusercontent.com/proxy/PTlzEoJBoh_MmfBkid0Zpq52noprlQ18xbdjh57WOQvrYIaHC-I7IkVC4DQq64vn9U9D9Dqbfe9gHWQ-S1yqsp3H", 
+        "https://ci4.googleusercontent.com/proxy/U1x92vxloA_nNAdCgpKEYWP0ruFID8GshvltUk_Y5m7gsOkUPM5krjKL8EPIna9EdHCeuXzQP5Yd8HFePIAFntgj", 
+        "https://ci6.googleusercontent.com/proxy/ISROPWNoDP4JIaP7qbStFvrrJ1LQbvx30m74mb2Cv6zGukjo_ev13wmjP8ZuNzcgTANaLOFV46BzyXeWY1F41B4O", 
+        "https://ci6.googleusercontent.com/proxy/yXglccHKu5ncnkaVWvf9KLbDWxdOtymn5yROmsIZXh161UsYSWD6r40VOMQMC3jx_mWDI9twS_Jqvib2s_okQj1z"
+    ], 
+    "extractedSrcUrlsCardinality": 4, 
+    "extractedSrcUrlsDomainCount": 1, 
+    "extractedSrcUrlsTotalCount": 4, 
+    "first10words": " Your account has been limited As you i ve been informed previously there will be changes to our Buyer Pro", 
+    "from_match": 0, 
+    "header_from": "service@intI.paypaI.com", 
+    "header_from_count": 1, 
+    "header_reply_to_count": 0, 
+    "header_total_count": 18, 
+    "html_in_text_plain_count": 0, 
+    "html_script_tag_count": 0, 
+    "html_tag_total_count": 123, 
+    "html_td_tag_count": 30, 
+    "html_tr_tag_count": 20, 
+    "lang": "en", 
+    "last10words": " provide the information we need the sooner we can resolve the situation Remove Limitation ", 
+    "list_unsubscribe_http_count": 0, 
+    "list_unsubscribe_invalid_count": 0, 
+    "list_unsubscribe_mailto_count": 0, 
+    "list_unsubscribe_total_count": 0, 
+    "mime_children_count": 0, 
+    "mime_children_types": [], 
+    "mime_root_type": "text/html", 
+    "notches": [
+        {
+            "module": "ill", 
+            "name": [
+                "date_in_past", 
+                "from_missmatch", 
+                "foreign_message_id", 
+                "long_subject"
+            ], 
+            "score": 1.6, 
+            "subscores": [
+                1, 
+                0.0, 
+                0.1, 
+                0.5
+            ]
+        }
+    ], 
+    "now": 1494597812, 
+    "pepca": "p8010d52926897dff", 
+    "pepca_inline_style": "pfbda2de4b04b6da6", 
+    "pepca_inline_style_total": 0, 
+    "pepca_style": "", 
+    "pepca_style_total": 0, 
+    "pepcatotal": 0, 
+    "phashes": [
+        {
+            "name": "pepca", 
+            "value": "p8010d52926897dff"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "pfbda2de4b04b6da6"
+        }
+    ], 
+    "phish_score": 0, 
+    "phishing": {
+        "body_richness": 0.256216216216216, 
+        "camouflage": 0, 
+        "fake_https": 0, 
+        "html_form": 0, 
+        "is_html": true, 
+        "max_num_dots_urls": 2, 
+        "max_num_slashes_urls": 1, 
+        "num_black_sheep_link": -1, 
+        "num_black_sheep_link_global": -1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_external_links": 7, 
+        "num_freehost_urls": 0, 
+        "num_html_script_tags": 0, 
+        "num_https_urls": 4, 
+        "num_ip_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "num_of_chars": 924, 
+        "num_param_phish": 0, 
+        "num_path_phish": 0, 
+        "num_phish_keywords": 12, 
+        "num_sender_diff_url": 2, 
+        "num_shortened_urls": 0, 
+        "num_subdomain_phish": 0, 
+        "num_text_forms": 9, 
+        "num_tld_in_url_path": 0, 
+        "num_www_in_url_path": 0, 
+        "subject_phish_keywords": 1, 
+        "subject_richness": 0.188679245283019, 
+        "suspicious_links": [], 
+        "text_and_href": 0, 
+        "text_link_with_path": 0
+    }, 
+    "precedence": 3, 
+    "rcpts_count": 1, 
+    "rfcid_is_foreign": 1, 
+    "rfcid_is_invalid": false, 
+    "rfcid_length": 57, 
+    "self_send": 0, 
+    "senders": {
+        "cnt-pow4_w_duc": "", 
+        "cnt-pow4_w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "domain_keywords": "aweber", 
+        "domain_keywords_detail": [
+            {
+                "confidence": 148840693.801645, 
+                "domain": "aweber"
+            }
+        ], 
+        "ettf_w_duc": "", 
+        "ettf_w_duc_detail": [], 
+        "idf": "", 
+        "idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "log_cnt-w_duc_detail": [], 
+        "log_cnt_idf": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "log_ecnt_idf": "", 
+        "log_ecnt_idf_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "log_ecnt_log_idf_log_tidf": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "plain_domain": "paayypaal", 
+        "plain_domain_detail": [
+            {
+                "confidence": 1, 
+                "domain": "paayypaal"
+            }
+        ], 
+        "src_revert": "youtube", 
+        "src_revert_detail": [
+            {
+                "confidence": 4, 
+                "domain": "youtube"
+            }
+        ], 
+        "tf_log_idf": "", 
+        "tf_log_idf_detail": [], 
+        "ttf_w_duc": "", 
+        "ttf_w_duc_detail": []
+    }, 
+    "spamscore": 1.6, 
+    "spamtrap_hit": false, 
+    "spf_dom_policy_registry": "Policy not found", 
+    "spf_domain_policy": "UNKNOWN", 
+    "spf_status_registry": "Status not found", 
+    "spfstatus": "NONE", 
+    "spfstatus_hfrom": "SPF_NONE", 
+    "subject": "Your account has been Iimited untiI we hear from you", 
+    "subject_image_count": 0, 
+    "subject_word_count": 10, 
+    "word_count": 237
+}

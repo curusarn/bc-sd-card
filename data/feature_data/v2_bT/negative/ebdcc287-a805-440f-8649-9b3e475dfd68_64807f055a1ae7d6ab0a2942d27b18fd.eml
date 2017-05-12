@@ -1,0 +1,207 @@
+{
+    "date_difference": -79887811,
+    "spf_dom_policy_registry": "Policy not found",
+    "list_unsubscribe_total_count": 1,
+    "precedence": 3,
+    "spfstatus_hfrom": "SPF_NONE",
+    "dkim_passed_count": 0,
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "extractedHrefUrlsDomainCount": 2,
+    "first10words": " Dobry den pred 7 dny jste se zaregistrovali na Muj Jobs Pro ziskani pristupu ke vsem sluzbam je zap",
+    "word_count": 119,
+    "contains_list_header": true,
+    "extractedSrcUrlsDomainCount": 2,
+    "rfcid_length": 76,
+    "pepcatotal": 1,
+    "pepca_style_total": 0,
+    "extractedEmails": [],
+    "mime_root_type": "multipart/alternative",
+    "extractedEmailsCardinality": 0,
+    "extractedHrefUrlsTotalCount": 5,
+    "html_tr_tag_count": 14,
+    "pepca_style": "",
+    "dkStatusDetail": "NOT_SIGNED",
+    "header_from_count": 1,
+    "header_total_count": 11,
+    "extractedSrcUrlsCardinality": 4,
+    "ahref_camouflage_count": 0,
+    "extractedSrcUrlsTotalCount": 4,
+    "html_tag_total_count": 74,
+    "ahref_total_count": 1,
+    "rcpts_count": 1,
+    "extractedEmailsDomainCount": 0,
+    "dkim_hfrom_match": 0,
+    "dkstatus": "NEUTRAL",
+    "header_reply_to_count": 0,
+    "subject_image_count": 0,
+    "spf_domain_policy": "UNKNOWN",
+    "spf_status_registry": "Status not found",
+    "rfcid_is_foreign": 1,
+    "content": "CONTENT_DEFAULT",
+    "extractedSrcUrls": [
+        "http://vpv.lmc.cz/images/logo_mail.png",
+        "http://jobs.cz/images/campaign/footer_facebook.png",
+        "http://jobs.cz/images/campaign/footer_twitter.png",
+        "http://jobs.cz/images/campaign/footer_youtube.png"
+    ],
+    "lang": "cs",
+    "html_td_tag_count": 14,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/64807f055a1ae7d6ab0a2942d27b18fd.eml",
+    "spamscore": 1.1,
+    "attachments": [],
+    "dk_statuses": [
+        {
+            "status": "NEUTRAL",
+            "statusDetail": "NOT_SIGNED"
+        }
+    ],
+    "from_match": 0,
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p4ac634d1fb40578e"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p31ba45ee55983f6f"
+        }
+    ],
+    "pepca_inline_style": "p31ba45ee55983f6f",
+    "list_unsubscribe_urls": [
+        "null"
+    ],
+    "mime_children_count": 2,
+    "now": 1494598295,
+    "extractedEmailsTotalCount": 0,
+    "ahref_verbal_count": 1,
+    "last10words": "e se neregistrovali povazujte prosim tento e mail za bezpredmetny Dalsi emaily vam jiz zasilany nebudou ",
+    "subject_word_count": 8,
+    "pepca": "p4ac634d1fb40578e",
+    "dkim_count": 0,
+    "rfcid_is_invalid": false,
+    "header_from": "overeni-emailu@jobs.cz",
+    "list_unsubscribe_mailto_count": 0,
+    "html_in_text_plain_count": 0,
+    "extractedHrefUrlsCardinality": 5,
+    "html_script_tag_count": 0,
+    "dkim_efrom_match": 0,
+    "adscore": 0,
+    "self_send": 0,
+    "mime_children_types": [
+        "text/plain",
+        "multipart/related"
+    ],
+    "dkim_signs_cnt": 1,
+    "spfstatus": "NONE",
+    "extractedHrefUrls": [
+        "http://www.jobs.cz/?utm_source=muj.jobs.cz&utm_medium=email&utm_content=logo&utm_campaign=system",
+        "https://www.jobs.cz/redirect/?url=https%3A%2F%2Fwww.jobs.cz%2Fmuj%2Fbase%2FmailLink.jsp%3Fparam%3DDeHHU1Pd%252FvuiEQhP4uZIwdMxGI",
+        "http://bit.ly/fcbJobs",
+        "http://bit.ly/JobsTW",
+        "http://bit.ly/JobsczYT"
+    ],
+    "spamtrap_hit": false,
+    "list_unsubscribe_http_count": 0,
+    "pepca_inline_style_total": 1,
+    "phishing": {
+        "body_richness": 0.199664429530201,
+        "num_black_sheep_link": -1,
+        "subject_richness": 0.121212121212121,
+        "max_num_slashes_urls": 2,
+        "num_https_urls": 1,
+        "camouflage": 0,
+        "ner_domain_detected": false,
+        "html_form": 0,
+        "num_subdomain_phish": 0,
+        "num_external_links": 9,
+        "fake_https": 0,
+        "num_html_script_tags": 0,
+        "num_freehost_urls": 0,
+        "num_phish_keywords": 5,
+        "suspicious_links": [],
+        "num_sender_diff_url": 1,
+        "text_and_href": 0,
+        "subject_phish_keywords": 1,
+        "num_www_in_url_path": 0,
+        "num_domain_phish": 0,
+        "num_of_chars": 595,
+        "num_ip_urls": 0,
+        "num_path_phish": 0,
+        "num_param_phish": 0,
+        "max_num_dots_urls": 7,
+        "num_tld_in_url_path": 0,
+        "is_html": true,
+        "num_black_sheep_link_phish": 0,
+        "num_non_80_port_urls": 0,
+        "num_text_forms": 5,
+        "num_black_sheep_link_global": -1,
+        "text_link_with_path": 0,
+        "num_shortened_urls": 3
+    },
+    "senders": {
+        "domain_keywords": "cv-library",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "idf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt-pow4_w_duc": "",
+        "plain_domain_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "tf_log_idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "plain_domain": "",
+        "domain_keywords_detail": [
+            {
+                "domain": "cv-library",
+                "confidence": 30443966.5686
+            }
+        ],
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt_idf": "",
+        "tf_log_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "jobs",
+                "confidence": 4
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_cnt-w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert": "jobs"
+    },
+    "phish_score": 0,
+    "subject": "Muj Jobs Overeni emailove adresy pro dokonceni registrace",
+    "list_unsubscribe_invalid_count": 1
+}

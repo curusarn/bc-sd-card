@@ -1,0 +1,210 @@
+{
+    "date_difference": -80011929,
+    "html_td_tag_count": 114,
+    "list_unsubscribe_total_count": 0,
+    "precedence": 3,
+    "spfstatus_hfrom": "SPF_NONE",
+    "dkim_passed_count": 0,
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "extractedHrefUrlsDomainCount": 1,
+    "first10words": " MEPASS MAIL www mepass cz otevri mesto HUDBA DIVADLO FILM ART FOOD DRINK ",
+    "word_count": 395,
+    "pepca": "p25080ebcb30125cc",
+    "extractedSrcUrlsDomainCount": 1,
+    "last10words": "stavy MePass s r o Karoliny svetle 299 12 Stare Mesto 110 00 Praha 1 info mepass cz www mepass cz ",
+    "extractedTxtUrlsDomainCount": 1,
+    "pepcatotal": 0,
+    "pepca_style_total": 0,
+    "extractedEmails": [
+        "info@mepass.cz",
+        "vera.starkova@seznam.cz"
+    ],
+    "mime_root_type": "multipart/alternative",
+    "extractedEmailsCardinality": 2,
+    "extractedHrefUrlsTotalCount": 16,
+    "html_tr_tag_count": 70,
+    "pepca_style": "",
+    "dkStatusDetail": "NOT_SIGNED",
+    "header_from_count": 1,
+    "header_total_count": 14,
+    "dk_statuses": [
+        {
+            "status": "NEUTRAL",
+            "statusDetail": "NOT_SIGNED"
+        }
+    ],
+    "ahref_camouflage_count": 0,
+    "extractedSrcUrlsTotalCount": 1,
+    "html_tag_total_count": 281,
+    "header_reply_to_count": 0,
+    "extractedEmailsDomainCount": 2,
+    "dkim_hfrom_match": 0,
+    "dkstatus": "NEUTRAL",
+    "ahref_total_count": 24,
+    "subject_image_count": 0,
+    "extractedTxtUrlsCardinality": 4,
+    "spf_domain_policy": "UNKNOWN",
+    "spf_status_registry": "Status not found",
+    "rfcid_is_foreign": 0,
+    "content": "CONTENT_DEFAULT",
+    "extractedSrcUrls": [
+        "http://www.mepass.cz/images/app/client-public/layout/mepass-logo.png"
+    ],
+    "lang": "cs",
+    "extractedTxtUrls": [
+        "http://www.mepass.cz",
+        "http://www.mepass.cz/reset-hesla/ca2f444425bb85f1ba86b9d31f47457769a7469e",
+        "http://mepass.cz",
+        "http://mepass.cz:"
+    ],
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/cd815211bf3ab33df427e42611cf6af7.eml",
+    "spamscore": 1,
+    "attachments": [],
+    "extractedSrcUrlsCardinality": 1,
+    "from_match": 0,
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p25080ebcb30125cc"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p89023f0ab968531c"
+        }
+    ],
+    "extractedHrefUrls": [
+        "http://mepass.cz/praha/mista/galerie",
+        "http://mepass.cz/praha/mista/divadla",
+        "http://mepass.cz/praha/mista/muzeum",
+        "http://mepass.cz/praha/mista/hudebni-klub",
+        "http://mepass.cz/praha/art"
+    ],
+    "pepca_inline_style": "p89023f0ab968531c",
+    "pepca_inline_style_total": 0,
+    "self_send": 0,
+    "now": 1494598419,
+    "mime_children_count": 2,
+    "ahref_verbal_count": 19,
+    "extractedTxtUrlsTotalCount": 4,
+    "subject_word_count": 4,
+    "rcpts_count": 1,
+    "dkim_count": 0,
+    "rfcid_is_invalid": false,
+    "header_from": "no-reply@mepass.cz",
+    "list_unsubscribe_mailto_count": 0,
+    "rfcid_length": 46,
+    "html_in_text_plain_count": 0,
+    "extractedHrefUrlsCardinality": 16,
+    "html_script_tag_count": 0,
+    "dkim_efrom_match": 0,
+    "adscore": 0,
+    "mime_children_types": [
+        "text/plain",
+        "text/html"
+    ],
+    "dkim_signs_cnt": 1,
+    "spfstatus": "NONE",
+    "extractedEmailsTotalCount": 2,
+    "spamtrap_hit": false,
+    "spf_dom_policy_registry": "Policy not found",
+    "list_unsubscribe_http_count": 0,
+    "phishing": {
+        "body_richness": 0.242628992628993,
+        "num_black_sheep_link": -1,
+        "subject_richness": 0.133333333333333,
+        "max_num_slashes_urls": 3,
+        "num_https_urls": 0,
+        "camouflage": 0,
+        "ner_domain_detected": false,
+        "html_form": 0,
+        "num_subdomain_phish": 0,
+        "num_external_links": 6,
+        "fake_https": 0,
+        "num_html_script_tags": 0,
+        "num_freehost_urls": 0,
+        "num_phish_keywords": 15,
+        "suspicious_links": [],
+        "num_sender_diff_url": 0,
+        "text_and_href": 2,
+        "subject_phish_keywords": 1,
+        "num_www_in_url_path": 0,
+        "num_domain_phish": 0,
+        "num_of_chars": 1627,
+        "num_ip_urls": 0,
+        "num_path_phish": 0,
+        "num_param_phish": 0,
+        "max_num_dots_urls": 2,
+        "num_tld_in_url_path": 0,
+        "is_html": true,
+        "num_black_sheep_link_phish": 0,
+        "num_non_80_port_urls": 0,
+        "num_text_forms": 47,
+        "num_black_sheep_link_global": -1,
+        "text_link_with_path": 1,
+        "num_shortened_urls": 0
+    },
+    "senders": {
+        "domain_keywords": "invaluable-email",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "idf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt-pow4_w_duc": "",
+        "plain_domain_detail": [
+            {
+                "domain": "mepass",
+                "confidence": 3
+            }
+        ],
+        "log_cnt-pow_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "tf_log_idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "plain_domain": "mepass",
+        "domain_keywords_detail": [
+            {
+                "domain": "invaluable-email",
+                "confidence": 6971228.53262
+            }
+        ],
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt_idf": "",
+        "tf_log_idf": "",
+        "src_revert_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_cnt-w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert": ""
+    },
+    "phish_score": 0,
+    "subject": "mePASS cz zapomenute heslo",
+    "list_unsubscribe_invalid_count": 0
+}

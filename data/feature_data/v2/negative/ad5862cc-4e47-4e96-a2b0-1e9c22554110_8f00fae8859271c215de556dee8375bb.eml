@@ -1,0 +1,221 @@
+{
+    "adNotches": [
+        {
+            "module": "ill", 
+            "name": [
+                "images_in_subject"
+            ], 
+            "score": 5, 
+            "subscores": [
+                5
+            ]
+        }
+    ], 
+    "adscore": 5, 
+    "ahref_camouflage_count": 0, 
+    "ahref_total_count": 2, 
+    "ahref_verbal_count": 2, 
+    "attachments": [], 
+    "contains_list_header": true, 
+    "content": "CONTENT_DEFAULT", 
+    "date_difference": -79825773, 
+    "dkStatusDetail": "DKIM_STAT_CANTVRFY", 
+    "dk_statuses": [
+        {
+            "domain": "", 
+            "status": "FAIL", 
+            "statusDetail": "DKIM_STAT_CANTVRFY"
+        }
+    ], 
+    "dkdomain": "", 
+    "dkim_count": 1, 
+    "dkim_efrom_match": 0, 
+    "dkim_hfrom_match": 0, 
+    "dkim_passed_count": 0, 
+    "dkim_signs_cnt": 1, 
+    "dkstatus": "FAIL", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/8f00fae8859271c215de556dee8375bb.eml", 
+    "extractedEmails": [], 
+    "extractedEmailsCardinality": 0, 
+    "extractedEmailsDomainCount": 0, 
+    "extractedEmailsTotalCount": 0, 
+    "extractedHrefUrls": [
+        "https://us1.badoo.com/access.phtml?UID=352581792&secret=cclIjjbdjx&m=2&g=7-0-1&pref_lang=16&email=xdankapx%40seznam.cz&mid=5453b", 
+        "https://us1.badoo.com/impersonation.phtml?lang_id=16&email=xdankapx%40seznam.cz&block_code=1e847b&m=2&mid=5453b75f0000003c001000"
+    ], 
+    "extractedHrefUrlsCardinality": 2, 
+    "extractedHrefUrlsDomainCount": 1, 
+    "extractedHrefUrlsTotalCount": 2, 
+    "extractedSrcUrls": [
+        "https://badoocdn.com/5453b75f0000003c0010004600000000000000021503f8a0-2531342941923657729/v2/-/-/i/badoo.16.gif"
+    ], 
+    "extractedSrcUrlsCardinality": 1, 
+    "extractedSrcUrlsDomainCount": 1, 
+    "extractedSrcUrlsTotalCount": 1, 
+    "first10words": " Chcete zmenit sve heslo na Badoo Chcete zmenit sve heslo na Badoo Chcete li si vytvorit nove heslo staci kliknout na odkaz ", 
+    "from_match": 0, 
+    "header_from": "noreply@badoo.com", 
+    "header_from_count": 1, 
+    "header_reply_to_count": 1, 
+    "header_total_count": 18, 
+    "html_in_text_plain_count": 0, 
+    "html_script_tag_count": 0, 
+    "html_tag_total_count": 42, 
+    "html_td_tag_count": 4, 
+    "html_tr_tag_count": 2, 
+    "lang": "cs", 
+    "last10words": "trovana v Anglii a Walesu pod cislem CRN 7540255 se sidlem na adrese Media Village 131 151 Great Titchfield Street Londyn W1W 5BB ", 
+    "list_unsubscribe_http_count": 0, 
+    "list_unsubscribe_invalid_count": 0, 
+    "list_unsubscribe_mailto_count": 1, 
+    "list_unsubscribe_total_count": 1, 
+    "list_unsubscribe_urls": [
+        "mailto:unsubscribe+2_2531342941923657729_16_ccf3be@badoo.com?subject=w9z4fxZDv2gouZdysRynMkWOdLgcT+j4Ji0B8gFto1w"
+    ], 
+    "mime_children_count": 2, 
+    "mime_children_types": [
+        "text/plain", 
+        "text/html"
+    ], 
+    "mime_root_type": "multipart/alternative", 
+    "notches": [
+        {
+            "module": "ill", 
+            "name": [
+                "date_in_past", 
+                "from_missmatch", 
+                "images_in_subject"
+            ], 
+            "score": 2, 
+            "subscores": [
+                1, 
+                0.0, 
+                1
+            ]
+        }
+    ], 
+    "now": 1494598349, 
+    "pepca": "p5975f9f4c6b0ee44", 
+    "pepca_inline_style": "p01a7d52b3f6dbf70", 
+    "pepca_inline_style_total": 0, 
+    "pepca_style": "", 
+    "pepca_style_total": 0, 
+    "pepcatotal": 0, 
+    "phashes": [
+        {
+            "name": "pepca", 
+            "value": "p5975f9f4c6b0ee44"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "p01a7d52b3f6dbf70"
+        }
+    ], 
+    "phish_score": 0, 
+    "phishing": {
+        "body_richness": 0.163934426229508, 
+        "camouflage": 0, 
+        "fake_https": 0, 
+        "html_form": 0, 
+        "is_html": true, 
+        "max_num_dots_urls": 4, 
+        "max_num_slashes_urls": 1, 
+        "num_black_sheep_link": -1, 
+        "num_black_sheep_link_global": -1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_external_links": 3, 
+        "num_freehost_urls": 0, 
+        "num_html_script_tags": 0, 
+        "num_https_urls": 3, 
+        "num_ip_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "num_of_chars": 792, 
+        "num_param_phish": 0, 
+        "num_path_phish": 0, 
+        "num_phish_keywords": 7, 
+        "num_sender_diff_url": 0, 
+        "num_shortened_urls": 0, 
+        "num_subdomain_phish": 0, 
+        "num_text_forms": 2, 
+        "num_tld_in_url_path": 0, 
+        "num_www_in_url_path": 0, 
+        "subject_phish_keywords": 1, 
+        "subject_richness": 0.161290322580645, 
+        "suspicious_links": [], 
+        "text_and_href": 0, 
+        "text_link_with_path": 0
+    }, 
+    "precedence": 3, 
+    "rcpts_count": 1, 
+    "rfcid_is_foreign": 0, 
+    "rfcid_is_invalid": false, 
+    "rfcid_length": 40, 
+    "self_send": 0, 
+    "senders": {
+        "cnt-pow4_w_duc": "", 
+        "cnt-pow4_w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "domain_keywords": "badoo", 
+        "domain_keywords_detail": [
+            {
+                "confidence": 174132529.30418, 
+                "domain": "badoo"
+            }
+        ], 
+        "ettf_w_duc": "", 
+        "ettf_w_duc_detail": [], 
+        "idf": "", 
+        "idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "log_cnt-w_duc_detail": [], 
+        "log_cnt_idf": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "log_ecnt_idf": "", 
+        "log_ecnt_idf_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "log_ecnt_log_idf_log_tidf": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "plain_domain": "", 
+        "plain_domain_detail": [], 
+        "src_revert": "badoo", 
+        "src_revert_detail": [
+            {
+                "confidence": 1, 
+                "domain": "badoo"
+            }
+        ], 
+        "tf_log_idf": "", 
+        "tf_log_idf_detail": [], 
+        "ttf_w_duc": "", 
+        "ttf_w_duc_detail": []
+    }, 
+    "spamscore": 2, 
+    "spamtrap_hit": false, 
+    "spf_dom_policy_registry": "Policy not found", 
+    "spf_domain_policy": "UNKNOWN", 
+    "spf_status_registry": "Status not found", 
+    "spfstatus": "NONE", 
+    "spfstatus_hfrom": "SPF_FAIL", 
+    "subject": " Zmente si heslo na Badoo", 
+    "subject_image_count": 1, 
+    "subject_word_count": 5, 
+    "unsub_link": "https://us1.badoo.com/impersonation.phtml?lang_id=16&email=xdankapx%40seznam.cz&block_code=1e847b&m=2&mid=5453b75f0000003c001000460464245f033d06a40001&g=0-0-1", 
+    "unsub_link_candidates": [
+        "https://us1.badoo.com/impersonation.phtml?lang_id=16&email=xdankapx%40seznam.cz&block_code=1e847b&m=2&mid=5453b75f0000003c001000460464245f033d06a40001&g=0-0-1"
+    ], 
+    "unsub_link_texts": [
+        "pokud si neprat dostavat zadny dalsi zprava od badoo paka kliknout zde a odhlasit se"
+    ], 
+    "word_count": 130
+}

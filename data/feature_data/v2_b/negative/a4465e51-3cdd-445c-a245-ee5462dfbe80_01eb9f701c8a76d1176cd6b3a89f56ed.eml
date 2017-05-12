@@ -1,0 +1,208 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ]
+        }
+    ],
+    "rfcid_is_invalid": false,
+    "spfstatus": "NONE",
+    "mime_root_type": "multipart/alternative",
+    "header_from_count": 1,
+    "now": 1494598171,
+    "dkim_efrom_match": 0,
+    "pepca_inline_style_total": 0,
+    "rcpts_count": 1,
+    "extractedEmailsTotalCount": 1,
+    "pepca_inline_style": "",
+    "pepca_style_total": 0,
+    "dkselector": "dkim",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/01eb9f701c8a76d1176cd6b3a89f56ed.eml",
+    "html_td_tag_count": 46,
+    "extractedHrefUrlsCardinality": 9,
+    "list_unsubscribe_mailto_count": 1,
+    "subject_word_count": 6,
+    "lang": "en",
+    "precedence": 3,
+    "phishing": {
+        "num_html_script_tags": 0,
+        "num_text_forms": 2,
+        "fake_https": 0,
+        "is_html": true,
+        "num_non_80_port_urls": 0,
+        "num_https_urls": 0,
+        "num_of_chars": 950,
+        "num_param_phish": 0,
+        "text_and_href": 0,
+        "body_richness": 0.278654048370137,
+        "text_link_with_path": 0,
+        "max_num_slashes_urls": 6,
+        "num_shortened_urls": 0,
+        "num_sender_diff_url": 1,
+        "num_ip_urls": 0,
+        "num_black_sheep_link": -1,
+        "subject_richness": 0.146341463414634,
+        "num_tld_in_url_path": 0,
+        "subject_phish_keywords": 0,
+        "num_black_sheep_link_global": -1,
+        "num_black_sheep_link_phish": 0,
+        "num_path_phish": 0,
+        "suspicious_links": [],
+        "html_form": 0,
+        "num_phish_keywords": 1,
+        "num_subdomain_phish": 0,
+        "num_domain_phish": 0,
+        "ner_domain_detected": true,
+        "camouflage": 0,
+        "num_freehost_urls": 0,
+        "num_external_links": 10,
+        "max_num_dots_urls": 7,
+        "num_www_in_url_path": 0
+    },
+    "spf_status_registry": "Status not found",
+    "rfcid_is_foreign": 1,
+    "from_match": 0,
+    "first10words": " ClassyCoin Get 250 on Slots up to 3000 on every deposit Use code 250WEEKEND Get 150 on Tables up",
+    "spf_domain_policy": "UNKNOWN",
+    "header_total_count": 22,
+    "dkim_passed_count": 1,
+    "dkim_signs_cnt": 1,
+    "list_unsubscribe_urls": [
+        "mailto:reply-22e8062b49-3a87f26ba0-654f@u.cts.vresp.com?subject=unsubscribe"
+    ],
+    "mime_children_types": [
+        "text/plain",
+        "text/html"
+    ],
+    "ahref_verbal_count": 7,
+    "subject_image_count": 0,
+    "phish_score": 0,
+    "self_send": 0,
+    "dkstatus": "PASS",
+    "phashes": [
+        {
+            "value": "p99b0cf44ffb14ceb",
+            "name": "pepca"
+        }
+    ],
+    "contains_list_header": true,
+    "dkdomain": "vresp.com",
+    "html_tr_tag_count": 26,
+    "extractedEmails": [
+        "support@classycoin.com"
+    ],
+    "html_tag_total_count": 207,
+    "mime_children_count": 2,
+    "spamtrap_hit": false,
+    "extractedEmailsDomainCount": 1,
+    "extractedHrefUrlsTotalCount": 9,
+    "dk_statuses": [
+        {
+            "selector": "dkim",
+            "status": "PASS",
+            "domain": "vresp.com"
+        }
+    ],
+    "extractedSrcUrlsCardinality": 10,
+    "senders": {
+        "log_cnt_idf_detail": [],
+        "log_ecnt_idf_detail": [],
+        "tf_log_idf": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "cnt-pow4_w_duc_detail": [],
+        "ttf_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "src_revert": "vresp",
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "plain_domain": "",
+        "src_revert_detail": [
+            {
+                "confidence": 10,
+                "domain": "vresp"
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "tf_log_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 330471616.940835,
+                "domain": "aweber"
+            }
+        ],
+        "domain_keywords": "aweber",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt_idf": ""
+    },
+    "spamscore": 1.1,
+    "ahref_total_count": 7,
+    "extractedEmailsCardinality": 1,
+    "extractedSrcUrlsTotalCount": 10,
+    "dkim_count": 1,
+    "adscore": 0,
+    "pepca": "p99b0cf44ffb14ceb",
+    "html_script_tag_count": 0,
+    "date_difference": -72577556,
+    "html_in_text_plain_count": 0,
+    "pepca_style": "",
+    "word_count": 265,
+    "rfcid_length": 46,
+    "spf_dom_policy_registry": "Policy not found",
+    "pepcatotal": 0,
+    "last10words": " line or simply click on the following link Unsubscribe Melore Limited Redaweg Willemstad 2 Curacao Alberta 78361 CA ",
+    "extractedHrefUrls": [
+        "http://cts.vresp.com/c/?MeloreLimited/22e8062b49/3a87f26ba0/bd39b433d3",
+        "http://cts.vresp.com/c/?MeloreLimited/22e8062b49/3a87f26ba0/77612806a5/cmd=file&file=visitorWantsToChat&site=47156091&byhref=1&S",
+        "http://cts.vresp.com/c/?MeloreLimited/22e8062b49/3a87f26ba0/95ee15a637",
+        "http://hosted.verticalresponse.com/1083661/22e8062b49/521162465/3a87f26ba0/",
+        "http://cts.vresp.com/u?22e8062b49/3a87f26ba0/mlpftw"
+    ],
+    "spfstatus_hfrom": "SPF_SOFTFAIL",
+    "header_reply_to_count": 1,
+    "dkim_hfrom_match": 1,
+    "attachments": [],
+    "content": "CONTENT_DEFAULT",
+    "extractedSrcUrls": [
+        "http://pr.ak.vresp.com/d936fa8a9/i.imgur.com/uJprZwT.jpg",
+        "http://pr.ak.vresp.com/27cc93a1e/i.imgur.com/xm1WIkF.jpg",
+        "http://pr.ak.vresp.com/038129d84/i.imgur.com/sz0OmHz.jpg",
+        "http://pr.ak.vresp.com/fd1df0bd4/i.imgur.com/7Rj381J.jpg",
+        "http://cts.vresp.com/o.gif?22e8062b49/3a87f26ba0/mlpftw"
+    ],
+    "list_unsubscribe_http_count": 0,
+    "extractedHrefUrlsDomainCount": 2,
+    "subject": "Sizzling specials are yours all weekend ",
+    "list_unsubscribe_total_count": 1,
+    "extractedSrcUrlsDomainCount": 2,
+    "ahref_camouflage_count": 0,
+    "list_unsubscribe_invalid_count": 0,
+    "header_from": "ClassyCoin@mail.vresp.com"
+}

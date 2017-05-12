@@ -1,0 +1,222 @@
+{
+    "adscore": 0, 
+    "ahref_camouflage_count": 0, 
+    "ahref_total_count": 5, 
+    "ahref_verbal_count": 5, 
+    "attachments": [], 
+    "contains_list_header": true, 
+    "content": "CONTENT_DEFAULT", 
+    "date_difference": -79751289, 
+    "dk_statuses": [
+        {
+            "domain": "mail67.atl11.rsgsv.net", 
+            "selector": "k1", 
+            "status": "PASS"
+        }
+    ], 
+    "dkdomain": "mail67.atl11.rsgsv.net", 
+    "dkim_count": 1, 
+    "dkim_efrom_match": 0, 
+    "dkim_hfrom_match": 0, 
+    "dkim_passed_count": 1, 
+    "dkim_signs_cnt": 1, 
+    "dkselector": "k1", 
+    "dkstatus": "PASS", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/9466c2f30e76871a5eea25f2ded18b83.eml", 
+    "extractedEmails": [], 
+    "extractedEmailsCardinality": 0, 
+    "extractedEmailsDomainCount": 0, 
+    "extractedEmailsTotalCount": 0, 
+    "extractedHrefUrls": [
+        "http://nejlepsikasina.us8.list-manage.com/track/click?u=0401043ba941df95e2e6402ef&id=c6e1314949&e=99a53d8eea", 
+        "http://nejlepsikasina.us8.list-manage.com/track/click?u=0401043ba941df95e2e6402ef&id=1e9d991b33&e=99a53d8eea", 
+        "http://nejlepsikasina.us8.list-manage.com/unsubscribe?u=0401043ba941df95e2e6402ef&id=f9bff8ecfc&e=99a53d8eea&c=7961ed472d", 
+        "http://nejlepsikasina.us8.list-manage2.com/profile?u=0401043ba941df95e2e6402ef&id=f9bff8ecfc&e=99a53d8eea", 
+        "http://www.mailchimp.com/monkey-rewards/?utm_source=freemium_newsletter&utm_medium=email&utm_campaign=monkey_rewards&aid=0401043"
+    ], 
+    "extractedHrefUrlsCardinality": 7, 
+    "extractedHrefUrlsDomainCount": 4, 
+    "extractedHrefUrlsTotalCount": 7, 
+    "extractedSrcUrls": [
+        "https://gallery.mailchimp.com/0401043ba941df95e2e6402ef/images/75425537-ec57-4ee2-92aa-b70391ed6acf.png", 
+        "https://gallery.mailchimp.com/0401043ba941df95e2e6402ef/images/5082590a-98e2-45c9-a4ff-24cfe15ac65b.png", 
+        "http://cdn-images.mailchimp.com/monkey_rewards/MC_MonkeyReward_15.png", 
+        "http://nejlepsikasina.us8.list-manage.com/track/open.php?u=0401043ba941df95e2e6402ef&id=7961ed472d&e=99a53d8eea"
+    ], 
+    "extractedSrcUrlsCardinality": 4, 
+    "extractedSrcUrlsDomainCount": 2, 
+    "extractedSrcUrlsTotalCount": 4, 
+    "first10words": " Registrace probehla uspesne Vyzvedni si 20 otacek zdarma sladka odmena 20 HER ZDARMA Otevrit ten", 
+    "from_match": 0, 
+    "header_from": "info@nejlepsikasina.cz", 
+    "header_from_count": 1, 
+    "header_reply_to_count": 1, 
+    "header_total_count": 23, 
+    "html_in_text_plain_count": 0, 
+    "html_script_tag_count": 0, 
+    "html_tag_total_count": 190, 
+    "html_td_tag_count": 36, 
+    "html_tr_tag_count": 36, 
+    "lang": "cs", 
+    "last10words": " odebirat novinky kliknete na nasledujici odkaz zrusit zasilani newsletteru upravit nastaveni ", 
+    "list_unsubscribe_http_count": 1, 
+    "list_unsubscribe_invalid_count": 0, 
+    "list_unsubscribe_mailto_count": 1, 
+    "list_unsubscribe_total_count": 2, 
+    "list_unsubscribe_urls": [
+        "mailto:unsubscribe-0401043ba941df95e2e6402ef-7961ed472d-99a53d8eea@mailin1.us2.mcsv.net?subject=unsubscribe", 
+        "http://nejlepsikasina.us8.list-manage.com/unsubscribe?u=0401043ba941df95e2e6402ef&id=f9bff8ecfc&e=99a53d8eea&c=7961ed472d"
+    ], 
+    "mime_children_count": 2, 
+    "mime_children_types": [
+        "text/plain", 
+        "text/html"
+    ], 
+    "mime_root_type": "multipart/alternative", 
+    "notches": [
+        {
+            "module": "ill", 
+            "name": [
+                "date_in_past", 
+                "from_missmatch"
+            ], 
+            "score": 1, 
+            "subscores": [
+                1, 
+                0.0
+            ]
+        }
+    ], 
+    "now": 1494598353, 
+    "pepca": "pc9d4688bfa6ef4e4", 
+    "pepca_inline_style": "pc8e1880f6c7e4796", 
+    "pepca_inline_style_total": 0, 
+    "pepca_style": "p3415304f4974637e", 
+    "pepca_style_total": 0, 
+    "pepcatotal": 0, 
+    "phashes": [
+        {
+            "name": "pepca", 
+            "value": "pc9d4688bfa6ef4e4"
+        }, 
+        {
+            "name": "pepca_style", 
+            "value": "p3415304f4974637e"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "pc8e1880f6c7e4796"
+        }
+    ], 
+    "phish_score": 0, 
+    "phishing": {
+        "body_richness": 0.239540607054963, 
+        "camouflage": 0, 
+        "fake_https": 0, 
+        "html_form": 0, 
+        "is_html": true, 
+        "max_num_dots_urls": 3, 
+        "max_num_slashes_urls": 2, 
+        "num_black_sheep_link": -1, 
+        "num_black_sheep_link_global": -1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_external_links": 9, 
+        "num_freehost_urls": 0, 
+        "num_html_script_tags": 0, 
+        "num_https_urls": 2, 
+        "num_ip_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "num_of_chars": 1218, 
+        "num_param_phish": 0, 
+        "num_path_phish": 0, 
+        "num_phish_keywords": 2, 
+        "num_sender_diff_url": 4, 
+        "num_shortened_urls": 0, 
+        "num_subdomain_phish": 0, 
+        "num_text_forms": 8, 
+        "num_tld_in_url_path": 0, 
+        "num_www_in_url_path": 0, 
+        "subject_phish_keywords": 0, 
+        "subject_richness": 0.121212121212121, 
+        "suspicious_links": [], 
+        "text_and_href": 0, 
+        "text_link_with_path": 0
+    }, 
+    "precedence": 3, 
+    "rcpts_count": 1, 
+    "rfcid_is_foreign": 0, 
+    "rfcid_is_invalid": false, 
+    "rfcid_length": 73, 
+    "self_send": 0, 
+    "senders": {
+        "cnt-pow4_w_duc": "", 
+        "cnt-pow4_w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "domain_keywords": "datingvipnotifications", 
+        "domain_keywords_detail": [
+            {
+                "confidence": 3939473.38029, 
+                "domain": "datingvipnotifications"
+            }
+        ], 
+        "ettf_w_duc": "", 
+        "ettf_w_duc_detail": [], 
+        "idf": "", 
+        "idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "log_cnt-w_duc_detail": [], 
+        "log_cnt_idf": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "log_ecnt_idf": "", 
+        "log_ecnt_idf_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "log_ecnt_log_idf_log_tidf": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "plain_domain": "", 
+        "plain_domain_detail": [], 
+        "src_revert": "sam73", 
+        "src_revert_detail": [
+            {
+                "confidence": 4, 
+                "domain": "sam73"
+            }
+        ], 
+        "tf_log_idf": "", 
+        "tf_log_idf_detail": [], 
+        "ttf_w_duc": "", 
+        "ttf_w_duc_detail": []
+    }, 
+    "spamscore": 1, 
+    "spamtrap_hit": false, 
+    "spf_dom_policy_registry": "Policy not found", 
+    "spf_domain_policy": "UNKNOWN", 
+    "spf_status_registry": "Status not found", 
+    "spfstatus": "NONE", 
+    "spfstatus_hfrom": "SPF_SOFTFAIL", 
+    "subject": "Registrace probehla uspesne Vyzvedni si 20 otacek zdarma ", 
+    "subject_image_count": 0, 
+    "subject_word_count": 8, 
+    "unsub_link": "http://www.mailchimp.com/monkey-rewards/?utm_source=freemium_newsletter&utm_medium=email&utm_campaign=monkey_rewards&aid=0401043ba941df95e2e6402ef&afl=1", 
+    "unsub_link_candidates": [
+        "http://nejlepsikasina.us8.list-manage.com/track/click?u=0401043ba941df95e2e6402ef&id=e1f27d6683&e=99a53d8eea", 
+        "http://nejlepsikasina.us8.list-manage.com/unsubscribe?u=0401043ba941df95e2e6402ef&id=f9bff8ecfc&e=99a53d8eea&c=7961ed472d", 
+        "http://www.mailchimp.com/monkey-rewards/?utm_source=freemium_newsletter&utm_medium=email&utm_campaign=monkey_rewards&aid=0401043ba941df95e2e6402ef&afl=1"
+    ], 
+    "unsub_link_texts": [
+        "  vitat v nejlepsi online kasino tvuj email je nyni prihlaseny k odber novinka kazdy mesic", 
+        " zrusit zasilani newsletteru ", 
+        " email marketing powered by mailchimp mailchimp email marketing "
+    ], 
+    "word_count": 292
+}

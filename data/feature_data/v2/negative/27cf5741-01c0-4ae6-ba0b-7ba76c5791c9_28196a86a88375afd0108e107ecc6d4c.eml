@@ -1,0 +1,213 @@
+{
+    "adscore": 0, 
+    "ahref_camouflage_count": 0, 
+    "ahref_total_count": 12, 
+    "ahref_verbal_count": 10, 
+    "attachments": [], 
+    "content": "CONTENT_DEFAULT", 
+    "date_difference": -75957966, 
+    "dkStatusDetail": "NOT_SIGNED", 
+    "dk_statuses": [
+        {
+            "status": "NEUTRAL", 
+            "statusDetail": "NOT_SIGNED"
+        }
+    ], 
+    "dkim_count": 0, 
+    "dkim_efrom_match": 0, 
+    "dkim_hfrom_match": 0, 
+    "dkim_passed_count": 0, 
+    "dkim_signs_cnt": 1, 
+    "dkstatus": "NEUTRAL", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/28196a86a88375afd0108e107ecc6d4c.eml", 
+    "extractedEmails": [
+        "mo-by@seznam.cz"
+    ], 
+    "extractedEmailsCardinality": 1, 
+    "extractedEmailsDomainCount": 1, 
+    "extractedEmailsTotalCount": 1, 
+    "extractedHrefUrls": [
+        "http://www.bydleni-textil.cz/Floreal-Bavlneny-saten-1x-210-220-2x-70-90/d1650801", 
+        "http://www.bydleni-textil.cz/Mercedes-Bavlneny-saten-1x-140-200-1x-70-90/d1655801", 
+        "http://www.bydleni-textil.cz/fsz/c_bill_ppl/0/1395301", 
+        "http://www.ppl.cz/main3.aspx?cls=PackageList&custRef=80626956337", 
+        "http://www.bydleni-textil.cz/"
+    ], 
+    "extractedHrefUrlsCardinality": 11, 
+    "extractedHrefUrlsDomainCount": 2, 
+    "extractedHrefUrlsTotalCount": 11, 
+    "extractedSrcUrls": [
+        "http://www.bydleni-textil.cz/images/barcode/barcode.php?text=0806269563375&code=ean13&r=1&t=25"
+    ], 
+    "extractedSrcUrlsCardinality": 1, 
+    "extractedSrcUrlsDomainCount": 1, 
+    "extractedSrcUrlsTotalCount": 1, 
+    "extractedTxtUrls": [
+        "http://www.bydleni-textil.cz"
+    ], 
+    "extractedTxtUrlsCardinality": 1, 
+    "extractedTxtUrlsDomainCount": 1, 
+    "extractedTxtUrlsTotalCount": 1, 
+    "first10words": " Dobry den Vazeny zakazniku Vase objednavka c 1988101 byla vyrizena Zpusob platby Na fakturu Zpusob dopravy PPL Velkoobch", 
+    "from_match": 0, 
+    "header_from": "mo-by@seznam.cz", 
+    "header_from_count": 1, 
+    "header_reply_to_count": 1, 
+    "header_total_count": 18, 
+    "html_in_text_plain_count": 0, 
+    "html_script_tag_count": 0, 
+    "html_tag_total_count": 296, 
+    "html_td_tag_count": 132, 
+    "html_tr_tag_count": 32, 
+    "lang": "cs", 
+    "last10words": "ska 215 Suchohrdly 669 02 Znojmo ICO 28340264 DIC 28340264 tel 515 221 621 776 112 042 e mail mo by seznam cz www bydleni textil cz ", 
+    "list_unsubscribe_http_count": 0, 
+    "list_unsubscribe_invalid_count": 0, 
+    "list_unsubscribe_mailto_count": 0, 
+    "list_unsubscribe_total_count": 0, 
+    "mime_children_count": 0, 
+    "mime_children_types": [], 
+    "mime_root_type": "text/html", 
+    "notches": [
+        {
+            "module": "ill", 
+            "name": [
+                "date_in_past", 
+                "from_missmatch", 
+                "foreign_message_id"
+            ], 
+            "score": 1.1, 
+            "subscores": [
+                1, 
+                0.0, 
+                0.1
+            ]
+        }
+    ], 
+    "now": 1494598213, 
+    "pepca": "p95b8633d0e7aa80a", 
+    "pepca_inline_style": "pa247ad5c1e35c759", 
+    "pepca_inline_style_total": 0, 
+    "pepca_style": "pd52b16fbc474d573", 
+    "pepca_style_total": 0, 
+    "pepcatotal": 0, 
+    "phashes": [
+        {
+            "name": "pepca", 
+            "value": "p95b8633d0e7aa80a"
+        }, 
+        {
+            "name": "pepca_style", 
+            "value": "pd52b16fbc474d573"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "pa247ad5c1e35c759"
+        }
+    ], 
+    "phish_score": 0, 
+    "phishing": {
+        "body_richness": 0.23422860712055, 
+        "camouflage": 0, 
+        "fake_https": 0, 
+        "html_form": 0, 
+        "is_html": true, 
+        "max_num_dots_urls": 3, 
+        "max_num_slashes_urls": 4, 
+        "num_black_sheep_link": -1, 
+        "num_black_sheep_link_global": -1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_external_links": 6, 
+        "num_freehost_urls": 0, 
+        "num_html_script_tags": 0, 
+        "num_https_urls": 0, 
+        "num_ip_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "num_of_chars": 1600, 
+        "num_param_phish": 0, 
+        "num_path_phish": 0, 
+        "num_phish_keywords": 0, 
+        "num_sender_diff_url": 2, 
+        "num_shortened_urls": 0, 
+        "num_subdomain_phish": 0, 
+        "num_text_forms": 3, 
+        "num_tld_in_url_path": 0, 
+        "num_www_in_url_path": 0, 
+        "subject_phish_keywords": 0, 
+        "subject_richness": 0.12, 
+        "suspicious_links": [], 
+        "text_and_href": 0, 
+        "text_link_with_path": 0
+    }, 
+    "precedence": 3, 
+    "rcpts_count": 1, 
+    "rfcid_is_foreign": 1, 
+    "rfcid_is_invalid": false, 
+    "rfcid_length": 58, 
+    "self_send": 0, 
+    "senders": {
+        "cnt-pow4_w_duc": "", 
+        "cnt-pow4_w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "domain_keywords": "booking", 
+        "domain_keywords_detail": [
+            {
+                "confidence": 17689404.30334, 
+                "domain": "booking"
+            }
+        ], 
+        "ettf_w_duc": "", 
+        "ettf_w_duc_detail": [], 
+        "idf": "", 
+        "idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "log_cnt-w_duc_detail": [], 
+        "log_cnt_idf": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "log_ecnt_idf": "", 
+        "log_ecnt_idf_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "log_ecnt_log_idf_log_tidf": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "plain_domain": "bydleni-textil", 
+        "plain_domain_detail": [
+            {
+                "confidence": 2, 
+                "domain": "bydleni-textil"
+            }
+        ], 
+        "src_revert": "seznam", 
+        "src_revert_detail": [
+            {
+                "confidence": 1, 
+                "domain": "seznam"
+            }
+        ], 
+        "tf_log_idf": "", 
+        "tf_log_idf_detail": [], 
+        "ttf_w_duc": "", 
+        "ttf_w_duc_detail": []
+    }, 
+    "spamscore": 1.1, 
+    "spamtrap_hit": false, 
+    "spf_dom_policy_registry": "Policy not found", 
+    "spf_domain_policy": "UNKNOWN", 
+    "spf_status_registry": "Status not found", 
+    "spfstatus": "NONE", 
+    "spfstatus_hfrom": "SPF_NEUTRAL", 
+    "subject": "Mobytex objednavka c 1988101 byla vyrizena", 
+    "subject_image_count": 0, 
+    "subject_word_count": 6, 
+    "word_count": 375
+}

@@ -1,0 +1,210 @@
+{
+    "date_difference": -80131184,
+    "spf_dom_policy_registry": "Policy not found",
+    "extractedEmails": [
+        "dennytothova@gmail.com",
+        "dennytothova@gmail.com."
+    ],
+    "list_unsubscribe_total_count": 1,
+    "from_match": 0,
+    "spfstatus_hfrom": "SPF_FAIL",
+    "dkim_passed_count": 1,
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "extractedHrefUrlsDomainCount": 1,
+    "first10words": " Facebook Mily uzivateli Denisa Vase heslo k Facebooku bylo obnoveno pomoci e mailove adresy dennytothova gmail com dne 28 rijen 2",
+    "word_count": 256,
+    "contains_list_header": true,
+    "extractedSrcUrlsDomainCount": 2,
+    "rfcid_length": 47,
+    "pepcatotal": 0,
+    "pepca_style_total": 0,
+    "extractedEmailsTotalCount": 2,
+    "mime_root_type": "multipart/alternative",
+    "extractedEmailsCardinality": 2,
+    "extractedHrefUrlsTotalCount": 2,
+    "html_tr_tag_count": 38,
+    "pepca_style": "",
+    "pepca_inline_style_total": 0,
+    "header_from_count": 1,
+    "header_total_count": 32,
+    "extractedSrcUrlsCardinality": 2,
+    "ahref_camouflage_count": 0,
+    "extractedSrcUrlsTotalCount": 2,
+    "html_tag_total_count": 141,
+    "ahref_total_count": 3,
+    "rcpts_count": 1,
+    "extractedEmailsDomainCount": 2,
+    "dkim_hfrom_match": 1,
+    "dkstatus": "PASS",
+    "header_reply_to_count": 1,
+    "subject_image_count": 0,
+    "spf_domain_policy": "UNKNOWN",
+    "spf_status_registry": "Status not found",
+    "rfcid_is_foreign": 0,
+    "content": "CONTENT_DEFAULT",
+    "extractedSrcUrls": [
+        "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xpa1/v/t1.0-1/p50x50/970167_668606216486215_1549452029_n.jpg?oh=49e3b66d0bf3dc5",
+        "https://www.facebook.com/email_open_log_pic.php?mid=ab90b35G5af316c0cba5G0G18eG2478135a"
+    ],
+    "lang": "cs",
+    "html_td_tag_count": 46,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/4dd7e4c8cb355af6ba6be15f506c086f.eml",
+    "spamscore": 1,
+    "attachments": [],
+    "dk_statuses": [
+        {
+            "status": "PASS",
+            "selector": "s1024-2013-q3",
+            "domain": "facebookmail.com"
+        }
+    ],
+    "dkdomain": "facebookmail.com",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pe209454b269b40bf"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p42424c62c9a5e751"
+        }
+    ],
+    "pepca_inline_style": "p42424c62c9a5e751",
+    "list_unsubscribe_urls": [
+        "https://www.facebook.com/o.php?k=AS1IZjkoesvcyZwZ&u=100000105286565&mid=ab90b35G5af316c0cba5G0G18eG2478135a"
+    ],
+    "self_send": 0,
+    "now": 1494598263,
+    "mime_children_count": 2,
+    "ahref_verbal_count": 2,
+    "last10words": "odeslana na adresu dennytothova gmail com na vasi zadost Facebook Inc Attention Department 415 PO Box 10005 Palo Alto CA 94303 ",
+    "subject_word_count": 4,
+    "pepca": "pe209454b269b40bf",
+    "dkim_count": 1,
+    "rfcid_is_invalid": false,
+    "header_from": "notification+zrdoc1fl1ic1@facebookmail.com",
+    "list_unsubscribe_mailto_count": 0,
+    "html_in_text_plain_count": 0,
+    "extractedHrefUrlsCardinality": 2,
+    "html_script_tag_count": 0,
+    "dkim_efrom_match": 0,
+    "adscore": 0,
+    "mime_children_types": [
+        "text/plain",
+        "text/html"
+    ],
+    "dkim_signs_cnt": 1,
+    "spfstatus": "NONE",
+    "extractedHrefUrls": [
+        "https://www.facebook.com/",
+        "https://www.facebook.com/hacked/disavow?u=100000105286565&n=EJQaCGsl"
+    ],
+    "spamtrap_hit": false,
+    "precedence": 3,
+    "list_unsubscribe_http_count": 0,
+    "dkselector": "s1024-2013-q3",
+    "phishing": {
+        "body_richness": 0.220689655172414,
+        "num_black_sheep_link": -1,
+        "subject_richness": 0.142857142857143,
+        "max_num_slashes_urls": 2,
+        "num_https_urls": 4,
+        "camouflage": 0,
+        "ner_domain_detected": false,
+        "html_form": 0,
+        "num_subdomain_phish": 0,
+        "num_external_links": 4,
+        "fake_https": 0,
+        "num_html_script_tags": 0,
+        "num_freehost_urls": 0,
+        "num_phish_keywords": 6,
+        "suspicious_links": [],
+        "num_sender_diff_url": 1,
+        "text_and_href": 0,
+        "subject_phish_keywords": 2,
+        "num_www_in_url_path": 0,
+        "num_domain_phish": 0,
+        "num_of_chars": 1159,
+        "num_ip_urls": 0,
+        "num_path_phish": 0,
+        "num_param_phish": 0,
+        "max_num_dots_urls": 2,
+        "num_tld_in_url_path": 0,
+        "is_html": true,
+        "num_black_sheep_link_phish": 0,
+        "num_non_80_port_urls": 0,
+        "num_text_forms": 9,
+        "num_black_sheep_link_global": -1,
+        "text_link_with_path": 0,
+        "num_shortened_urls": 0
+    },
+    "senders": {
+        "domain_keywords": "ebay",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "idf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt-pow4_w_duc": "",
+        "plain_domain_detail": [
+            {
+                "domain": "facebook",
+                "confidence": 1
+            }
+        ],
+        "log_cnt-pow_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "tf_log_idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "plain_domain": "facebook",
+        "domain_keywords_detail": [
+            {
+                "domain": "ebay",
+                "confidence": 27543795.8669938
+            }
+        ],
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt_idf": "",
+        "tf_log_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "facebookmail",
+                "confidence": 1.02856363814912
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_cnt-w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert": "facebookmail"
+    },
+    "phish_score": 0,
+    "subject": "Obnoveni hesla k Facebooku",
+    "list_unsubscribe_invalid_count": 1
+}

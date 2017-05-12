@@ -1,0 +1,225 @@
+{
+    "date_difference": -79559310,
+    "html_td_tag_count": 48,
+    "extractedEmails": [
+        "servis.zakaznik@jysk.com"
+    ],
+    "list_unsubscribe_total_count": 2,
+    "from_match": 0,
+    "spf_dom_policy_registry": "Policy not found",
+    "dkim_passed_count": 1,
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "extractedHrefUrlsDomainCount": 1,
+    "first10words": " JYSK Prosim aktivujte Vasi registraci kliknutim na odkaz Zobrazit on line verzi kliknete zde ",
+    "word_count": 234,
+    "contains_list_header": true,
+    "extractedSrcUrlsDomainCount": 1,
+    "last10words": "ska 1010 14 142 00 Praha 4 Tel 420 848 260 270 Fax 420 255 702 390 servis zakaznik jysk com Diskretnost ",
+    "extractedTxtUrlsDomainCount": 1,
+    "pepcatotal": 0,
+    "pepca_style_total": 0,
+    "extractedEmailsTotalCount": 1,
+    "mime_root_type": "text/html",
+    "extractedEmailsCardinality": 1,
+    "extractedHrefUrlsTotalCount": 3,
+    "html_tr_tag_count": 46,
+    "pepca_style": "pbc16247b3a2452ca",
+    "pepca_inline_style_total": 0,
+    "header_from_count": 1,
+    "header_total_count": 29,
+    "extractedSrcUrlsCardinality": 5,
+    "ahref_camouflage_count": 0,
+    "extractedSrcUrlsTotalCount": 5,
+    "html_tag_total_count": 179,
+    "ahref_total_count": 4,
+    "rcpts_count": 1,
+    "extractedEmailsDomainCount": 1,
+    "dkim_hfrom_match": 1,
+    "dkstatus": "PASS",
+    "header_reply_to_count": 1,
+    "spfstatus_hfrom": "SPF_FAIL",
+    "subject_image_count": 0,
+    "extractedTxtUrlsCardinality": 1,
+    "spf_domain_policy": "UNKNOWN",
+    "spf_status_registry": "Status not found",
+    "rfcid_is_foreign": 1,
+    "content": "CONTENT_DEFAULT",
+    "extractedSrcUrls": [
+        "http://email.jysk.com/tr/p.gif?uid=16446930744&mid=1600453727&msd=1415038942842&st=4",
+        "http://email.jysk.com/ev/co/jysknordic?eventid=1600000269&mid=1600453727&uid=16446930744",
+        "http://email.jysk.com/public/img/spacer.gif",
+        "http://email.jysk.com/public/img/logo.jpg",
+        "http://email.jysk.com/imgproxy/img/655280444/Email-activation-button-CZ.jpg"
+    ],
+    "lang": "cs",
+    "extractedTxtUrls": [
+        "http://www.JYSK.cz."
+    ],
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/4411fbeff2a494d98e941e7d27a10461.eml",
+    "spamscore": 1.1,
+    "attachments": [],
+    "dk_statuses": [
+        {
+            "status": "PASS",
+            "selector": "ecm1",
+            "domain": "email.jysk.com"
+        }
+    ],
+    "dkdomain": "email.jysk.com",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p54fd2a946214b93c"
+        },
+        {
+            "name": "pepca_style",
+            "value": "pbc16247b3a2452ca"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p9e7ac782f9ef188a"
+        }
+    ],
+    "pepca_inline_style": "p9e7ac782f9ef188a",
+    "list_unsubscribe_urls": [
+        "http://email.jysk.com/public/list_unsubscribe.jsp?action=listUnsubscribe&gid=1600239595&uid=16446930744&mid=1600453727&siglistunsub=&errorPage=/public/list_unsubscribe.jsp",
+        "mailto:listunsubscribe-1600239595-1600453727-16446930744@email.jysk.com"
+    ],
+    "self_send": 0,
+    "now": 1494598252,
+    "mime_children_count": 0,
+    "ahref_verbal_count": 2,
+    "extractedTxtUrlsTotalCount": 1,
+    "subject_word_count": 6,
+    "pepca": "p54fd2a946214b93c",
+    "dkim_count": 1,
+    "rfcid_is_invalid": false,
+    "header_from": "czech@email.jysk.com",
+    "list_unsubscribe_mailto_count": 1,
+    "rfcid_length": 37,
+    "html_in_text_plain_count": 0,
+    "extractedHrefUrlsCardinality": 3,
+    "html_script_tag_count": 0,
+    "dkim_efrom_match": 0,
+    "adscore": 0,
+    "mime_children_types": [],
+    "dkim_signs_cnt": 1,
+    "spfstatus": "NONE",
+    "extractedHrefUrls": [
+        "",
+        "http://email.jysk.com/public/subscribe.jsp?tsp=1415038942844&uid=16446930744&tan=1600884741&sig=LAOCGBLMJIIGABKL&gid=1600239595&",
+        "http://email.jysk.com/re?l=D4Iqgv9zzI7k02szcI1ITi225ng56Iqglk3x"
+    ],
+    "spamtrap_hit": false,
+    "precedence": 3,
+    "list_unsubscribe_http_count": 1,
+    "dkselector": "ecm1",
+    "phishing": {
+        "body_richness": 0.343108504398827,
+        "num_black_sheep_link": -1,
+        "subject_richness": 0.109090909090909,
+        "max_num_slashes_urls": 4,
+        "num_https_urls": 0,
+        "camouflage": 0,
+        "ner_domain_detected": true,
+        "html_form": 0,
+        "num_subdomain_phish": 0,
+        "num_external_links": 8,
+        "fake_https": 0,
+        "5_top_domains_id_0": 0,
+        "num_html_script_tags": 0,
+        "num_freehost_urls": 0,
+        "num_phish_keywords": 0,
+        "suspicious_links": [],
+        "num_sender_diff_url": 0,
+        "text_and_href": 0,
+        "subject_phish_keywords": 1,
+        "num_www_in_url_path": 0,
+        "num_domain_phish": 0,
+        "5_top_domains_percent_0": 1.0,
+        "num_of_chars": 681,
+        "num_ip_urls": 0,
+        "num_path_phish": 0,
+        "num_param_phish": 0,
+        "max_num_dots_urls": 5,
+        "num_tld_in_url_path": 0,
+        "is_html": true,
+        "num_black_sheep_link_phish": 0,
+        "num_non_80_port_urls": 0,
+        "num_text_forms": 14,
+        "num_black_sheep_link_global": -1,
+        "text_link_with_path": 0,
+        "num_shortened_urls": 0
+    },
+    "senders": {
+        "domain_keywords": "jysk",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "idf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt-pow4_w_duc": "",
+        "plain_domain_detail": [
+            {
+                "domain": "jysk",
+                "confidence": 1
+            }
+        ],
+        "log_cnt-pow_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "tf_log_idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "plain_domain": "jysk",
+        "domain_keywords_detail": [
+            {
+                "domain": "jysk",
+                "confidence": 44691228.90556
+            }
+        ],
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt_idf": "",
+        "tf_log_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "jysk",
+                "confidence": 5
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_cnt-w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert": "jysk"
+    },
+    "phish_score": 0,
+    "subject": "Potvrzeni registrace k odberu JYSKoveho newsletteru",
+    "list_unsubscribe_invalid_count": 0
+}

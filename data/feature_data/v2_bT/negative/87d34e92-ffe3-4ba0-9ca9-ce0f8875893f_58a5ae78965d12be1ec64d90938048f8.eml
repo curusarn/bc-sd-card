@@ -1,0 +1,218 @@
+{
+    "date_difference": -75957677,
+    "html_td_tag_count": 70,
+    "list_unsubscribe_total_count": 0,
+    "precedence": 3,
+    "spfstatus_hfrom": "SPF_NONE",
+    "dkim_passed_count": 0,
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "extractedHrefUrlsDomainCount": 3,
+    "first10words": " Dobry den dekuji za vasi objednavku zbozi bude koncem tydne odeslano Dne 12 12 2014 15 10 Frantisek Melka napsal a ",
+    "word_count": 311,
+    "pepca": "p32dd8b548f4a7a21",
+    "extractedTxtUrlsTotalCount": 3,
+    "extractedTxtUrlsDomainCount": 3,
+    "pepcatotal": 0,
+    "pepca_style_total": 0,
+    "extractedEmails": [
+        "fmelka@seznam.cz",
+        "jindrich@prodexaz.cz"
+    ],
+    "mime_root_type": "multipart/alternative",
+    "extractedEmailsCardinality": 2,
+    "extractedHrefUrlsTotalCount": 6,
+    "html_tr_tag_count": 20,
+    "pepca_style": "pff2f1811924ba205",
+    "dkStatusDetail": "NOT_SIGNED",
+    "header_from_count": 1,
+    "header_total_count": 13,
+    "ahref_camouflage_count": 0,
+    "subject": "Re Objednavka na Sportovni pomucky cz cislo 2014000907 ",
+    "html_tag_total_count": 230,
+    "header_reply_to_count": 0,
+    "extractedEmailsDomainCount": 2,
+    "dkim_hfrom_match": 0,
+    "dkstatus": "NEUTRAL",
+    "ahref_total_count": 10,
+    "subject_image_count": 0,
+    "extractedTxtUrlsCardinality": 3,
+    "spf_domain_policy": "UNKNOWN",
+    "spf_status_registry": "Status not found",
+    "rfcid_is_foreign": 1,
+    "content": "CONTENT_DEFAULT",
+    "extractedSrcUrls": [],
+    "lang": "cs",
+    "extractedTxtUrls": [
+        "http://www.sportovni-pomucky.cz",
+        "http://www.legea-fotbal.cz",
+        "http://www.jako-sport.cz"
+    ],
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/58a5ae78965d12be1ec64d90938048f8.eml",
+    "spamscore": 1.1,
+    "attachments": [],
+    "dk_statuses": [
+        {
+            "status": "NEUTRAL",
+            "statusDetail": "NOT_SIGNED"
+        }
+    ],
+    "from_match": 0,
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p32dd8b548f4a7a21"
+        },
+        {
+            "name": "pepca_style",
+            "value": "pff2f1811924ba205"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p35acde02f8bfbd2c"
+        }
+    ],
+    "extractedHrefUrls": [
+        "http://www.sportovni-pomucky.cz/rozlisovaci-trika/rozli-ovac-t-lko",
+        "http://www.sportovni-pomucky.cz/medicinalni-mice/klasik-5-kg",
+        "http://www.sportovni-pomucky.cz/",
+        "http://www.legea-fotbal.cz/",
+        "http://www.jako-sport.cz/"
+    ],
+    "pepca_inline_style": "p35acde02f8bfbd2c",
+    "pepca_inline_style_total": 0,
+    "self_send": 0,
+    "now": 1494598276,
+    "mime_children_count": 2,
+    "ahref_verbal_count": 5,
+    "last10words": " 420 486 123 650 e mail jindrich prodexaz cz www www sportovni pomucky cz www www legea fotbal cz www www jako sport cz ",
+    "subject_word_count": 8,
+    "rcpts_count": 1,
+    "dkim_count": 0,
+    "rfcid_is_invalid": false,
+    "header_from": "jindrich@prodexaz.cz",
+    "list_unsubscribe_mailto_count": 0,
+    "rfcid_length": 28,
+    "html_in_text_plain_count": 0,
+    "extractedHrefUrlsCardinality": 6,
+    "html_script_tag_count": 0,
+    "dkim_efrom_match": 0,
+    "adscore": 0,
+    "mime_children_types": [
+        "text/plain",
+        "text/html"
+    ],
+    "dkim_signs_cnt": 1,
+    "spfstatus": "NONE",
+    "extractedEmailsTotalCount": 2,
+    "spamtrap_hit": false,
+    "spf_dom_policy_registry": "Policy not found",
+    "list_unsubscribe_http_count": 0,
+    "phishing": {
+        "body_richness": 0.190563725490196,
+        "num_black_sheep_link": -1,
+        "subject_richness": 0.131147540983607,
+        "max_num_slashes_urls": 2,
+        "num_https_urls": 0,
+        "camouflage": 0,
+        "ner_domain_detected": false,
+        "html_form": 0,
+        "num_subdomain_phish": 0,
+        "num_external_links": 5,
+        "fake_https": 0,
+        "num_html_script_tags": 0,
+        "num_freehost_urls": 0,
+        "num_phish_keywords": 0,
+        "suspicious_links": [],
+        "num_sender_diff_url": 3,
+        "text_and_href": 0,
+        "subject_phish_keywords": 0,
+        "num_www_in_url_path": 0,
+        "num_domain_phish": 0,
+        "num_of_chars": 1631,
+        "num_ip_urls": 0,
+        "num_path_phish": 0,
+        "num_param_phish": 0,
+        "max_num_dots_urls": 2,
+        "num_tld_in_url_path": 0,
+        "is_html": true,
+        "num_black_sheep_link_phish": 0,
+        "num_non_80_port_urls": 0,
+        "num_text_forms": 3,
+        "num_black_sheep_link_global": -1,
+        "text_link_with_path": 0,
+        "num_shortened_urls": 0
+    },
+    "senders": {
+        "domain_keywords": "victoriamilan",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "idf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt-pow4_w_duc": "",
+        "plain_domain_detail": [
+            {
+                "domain": "jako-sport",
+                "confidence": 2
+            },
+            {
+                "domain": "sportovni-pomucky",
+                "confidence": 2
+            },
+            {
+                "domain": "legea-fotbal",
+                "confidence": 2
+            }
+        ],
+        "log_cnt-pow_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "tf_log_idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "plain_domain": "jako-sport",
+        "domain_keywords_detail": [
+            {
+                "domain": "victoriamilan",
+                "confidence": 13043447.1693
+            }
+        ],
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt_idf": "",
+        "tf_log_idf": "",
+        "src_revert_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_cnt-w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert": ""
+    },
+    "phish_score": 0,
+    "list_unsubscribe_invalid_count": 0
+}

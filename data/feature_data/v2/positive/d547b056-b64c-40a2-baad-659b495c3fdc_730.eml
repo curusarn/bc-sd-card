@@ -1,0 +1,214 @@
+{
+    "adscore": 0, 
+    "ahref_camouflage_count": 1, 
+    "ahref_total_count": 2, 
+    "ahref_verbal_count": 0, 
+    "attachments": [], 
+    "content": "CONTENT_DEFAULT", 
+    "date_difference": -339421116, 
+    "dkStatusDetail": "NOT_SIGNED", 
+    "dk_statuses": [
+        {
+            "status": "NEUTRAL", 
+            "statusDetail": "NOT_SIGNED"
+        }
+    ], 
+    "dkim_count": 0, 
+    "dkim_efrom_match": 0, 
+    "dkim_hfrom_match": 0, 
+    "dkim_passed_count": 0, 
+    "dkim_signs_cnt": 1, 
+    "dkstatus": "NEUTRAL", 
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/730.eml", 
+    "extractedEmails": [], 
+    "extractedEmailsCardinality": 0, 
+    "extractedEmailsDomainCount": 0, 
+    "extractedEmailsTotalCount": 0, 
+    "extractedHrefUrls": [
+        "customer_information.html", 
+        "index.html", 
+        "http://203.150.233.165/www.bankofamerica.com/index.htm", 
+        ""
+    ], 
+    "extractedHrefUrlsCardinality": 4, 
+    "extractedHrefUrlsDomainCount": 1, 
+    "extractedHrefUrlsTotalCount": 4, 
+    "extractedSrcUrls": [
+        "http://wwwmbna.com/images/m_logo.gif", 
+        "http://www.mbna.com/images/bac_logo.gif", 
+        "images/x.gif", 
+        "/images/homepage/house.gif"
+    ], 
+    "extractedSrcUrlsCardinality": 4, 
+    "extractedSrcUrlsDomainCount": 2, 
+    "extractedSrcUrlsTotalCount": 4, 
+    "extractedTxtUrls": [
+        "http://MBNA.com", 
+        "https://activatemycreditcard.bankofamerica.com/welcome.aspx?URLFrom="
+    ], 
+    "extractedTxtUrlsCardinality": 2, 
+    "extractedTxtUrlsDomainCount": 2, 
+    "extractedTxtUrlsTotalCount": 2, 
+    "first10words": " MBNA com Bank of America Corporation and MBNA Corporation have ", 
+    "from_match": 0, 
+    "header_from": "security@paypal.us", 
+    "header_from_count": 1, 
+    "header_reply_to_count": 1, 
+    "header_total_count": 23, 
+    "html_in_text_plain_count": 0, 
+    "html_script_tag_count": 0, 
+    "html_tag_total_count": 112, 
+    "html_td_tag_count": 12, 
+    "html_tr_tag_count": 12, 
+    "lang": "en", 
+    "last10words": " Bank of America N A Member FDIC Equal Housing Lender 2006 Bank of America Corporation All rights reserved ", 
+    "list_unsubscribe_http_count": 0, 
+    "list_unsubscribe_invalid_count": 0, 
+    "list_unsubscribe_mailto_count": 0, 
+    "list_unsubscribe_total_count": 0, 
+    "mime_children_count": 1, 
+    "mime_children_types": [
+        "text/html"
+    ], 
+    "mime_root_type": "multipart/alternative", 
+    "notches": [
+        {
+            "module": "ill", 
+            "name": [
+                "date_in_past", 
+                "from_missmatch", 
+                "html_a_href_camouflaging", 
+                "foreign_message_id"
+            ], 
+            "score": 1.2, 
+            "subscores": [
+                1, 
+                0.0, 
+                0.1, 
+                0.1
+            ]
+        }
+    ], 
+    "now": 1494597924, 
+    "pepca": "p26f6da156cbb0714", 
+    "pepca_inline_style": "", 
+    "pepca_inline_style_total": 0, 
+    "pepca_style": "p05e68d270ded05a9", 
+    "pepca_style_total": 0, 
+    "pepcatotal": 0, 
+    "phashes": [
+        {
+            "name": "pepca", 
+            "value": "p26f6da156cbb0714"
+        }, 
+        {
+            "name": "pepca_style", 
+            "value": "p05e68d270ded05a9"
+        }
+    ], 
+    "phish_score": 0, 
+    "phishing": {
+        "body_richness": 0.186839967506093, 
+        "camouflage": 1, 
+        "fake_https": 1, 
+        "html_form": 0, 
+        "is_html": true, 
+        "max_num_dots_urls": 6, 
+        "max_num_slashes_urls": 2, 
+        "num_black_sheep_link": -1, 
+        "num_black_sheep_link_global": -1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_external_links": 8, 
+        "num_freehost_urls": 0, 
+        "num_html_script_tags": 0, 
+        "num_https_urls": 1, 
+        "num_ip_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "num_of_chars": 1230, 
+        "num_param_phish": 0, 
+        "num_path_phish": 0, 
+        "num_phish_keywords": 8, 
+        "num_sender_diff_url": 3, 
+        "num_shortened_urls": 0, 
+        "num_subdomain_phish": 0, 
+        "num_text_forms": 0, 
+        "num_tld_in_url_path": 0, 
+        "num_www_in_url_path": 0, 
+        "subject_phish_keywords": 0, 
+        "subject_richness": 0.0909090909090909, 
+        "suspicious_links": [], 
+        "text_and_href": 0, 
+        "text_link_with_path": 1
+    }, 
+    "precedence": 3, 
+    "rcpts_count": 1, 
+    "rfcid_is_foreign": 1, 
+    "rfcid_is_invalid": false, 
+    "rfcid_length": 34, 
+    "self_send": 0, 
+    "senders": {
+        "cnt-pow4_w_duc": "", 
+        "cnt-pow4_w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "domain_keywords": "aweber", 
+        "domain_keywords_detail": [
+            {
+                "confidence": 70000232.5428727, 
+                "domain": "aweber"
+            }
+        ], 
+        "ettf_w_duc": "", 
+        "ettf_w_duc_detail": [], 
+        "idf": "", 
+        "idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "log_cnt-w_duc_detail": [], 
+        "log_cnt_idf": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "log_ecnt_idf": "", 
+        "log_ecnt_idf_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "log_ecnt_log_idf_log_tidf": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "plain_domain": "mbna", 
+        "plain_domain_detail": [
+            {
+                "confidence": 1, 
+                "domain": "mbna"
+            }
+        ], 
+        "src_revert": "consultant", 
+        "src_revert_detail": [
+            {
+                "confidence": 1, 
+                "domain": "consultant"
+            }
+        ], 
+        "tf_log_idf": "", 
+        "tf_log_idf_detail": [], 
+        "ttf_w_duc": "", 
+        "ttf_w_duc_detail": []
+    }, 
+    "spamscore": 1.2, 
+    "spamtrap_hit": false, 
+    "spf_dom_policy_registry": "Policy not found", 
+    "spf_domain_policy": "UNKNOWN", 
+    "spf_status_registry": "Status not found", 
+    "spfstatus": "NONE", 
+    "spfstatus_hfrom": "SPF_FAIL", 
+    "subject": "PayPal Notification", 
+    "subject_image_count": 0, 
+    "subject_word_count": 2, 
+    "word_count": 230
+}

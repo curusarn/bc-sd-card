@@ -1,0 +1,219 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ]
+        }
+    ],
+    "extractedTxtUrls": [
+        "http://www.tetadrogerie.cz",
+        "http://www.tetafoto.cz"
+    ],
+    "spfstatus": "NONE",
+    "mime_root_type": "multipart/alternative",
+    "header_from_count": 1,
+    "now": 1494598418,
+    "dkim_efrom_match": 0,
+    "pepca_inline_style_total": 2,
+    "rcpts_count": 1,
+    "extractedEmailsTotalCount": 1,
+    "pepca_inline_style": "pe9c13d64cc336fdd",
+    "pepca_style_total": 0,
+    "dkim_hfrom_match": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/cce7f21a252d9c4b574fce2d5f1464e2.eml",
+    "html_td_tag_count": 10,
+    "extractedHrefUrlsCardinality": 3,
+    "list_unsubscribe_mailto_count": 0,
+    "subject_word_count": 4,
+    "lang": "cs",
+    "precedence": 3,
+    "phishing": {
+        "num_html_script_tags": 0,
+        "num_text_forms": 4,
+        "fake_https": 0,
+        "is_html": true,
+        "num_non_80_port_urls": 0,
+        "num_https_urls": 0,
+        "num_of_chars": 605,
+        "num_param_phish": 0,
+        "text_and_href": 2,
+        "body_richness": 0.168316831683168,
+        "text_link_with_path": 0,
+        "max_num_slashes_urls": 1,
+        "num_shortened_urls": 0,
+        "num_sender_diff_url": 1,
+        "num_ip_urls": 0,
+        "num_black_sheep_link": -1,
+        "subject_richness": 0.133333333333333,
+        "num_tld_in_url_path": 0,
+        "subject_phish_keywords": 1,
+        "num_black_sheep_link_global": -1,
+        "num_black_sheep_link_phish": 0,
+        "num_path_phish": 0,
+        "suspicious_links": [],
+        "html_form": 0,
+        "num_phish_keywords": 3,
+        "num_subdomain_phish": 0,
+        "num_domain_phish": 0,
+        "ner_domain_detected": false,
+        "camouflage": 0,
+        "num_freehost_urls": 0,
+        "num_external_links": 7,
+        "max_num_dots_urls": 2,
+        "num_www_in_url_path": 0
+    },
+    "spf_status_registry": "Status not found",
+    "rfcid_is_foreign": 1,
+    "from_match": 0,
+    "first10words": " TETA KLUB Zapomenute heslo Dobry den na zaklade Vasi zadosti Vam zasilame nove a docasne ",
+    "extractedTxtUrlsDomainCount": 2,
+    "spf_domain_policy": "UNKNOWN",
+    "header_total_count": 14,
+    "dkim_passed_count": 0,
+    "extractedTxtUrlsCardinality": 2,
+    "dkim_signs_cnt": 1,
+    "mime_children_types": [
+        "text/plain",
+        "text/html"
+    ],
+    "ahref_verbal_count": 0,
+    "subject_image_count": 0,
+    "phish_score": 0,
+    "rfcid_is_invalid": false,
+    "dkstatus": "NEUTRAL",
+    "phashes": [
+        {
+            "value": "pa37ef26173554b95",
+            "name": "pepca"
+        },
+        {
+            "value": "pe9c13d64cc336fdd",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "extractedTxtUrlsTotalCount": 2,
+    "self_send": 0,
+    "attachments": [],
+    "html_tr_tag_count": 4,
+    "extractedEmails": [
+        "s.svetnicka@seznam.cz"
+    ],
+    "html_tag_total_count": 66,
+    "mime_children_count": 2,
+    "spamtrap_hit": false,
+    "extractedEmailsDomainCount": 1,
+    "extractedHrefUrlsTotalCount": 3,
+    "extractedSrcUrlsCardinality": 4,
+    "spamscore": 1.1,
+    "ahref_total_count": 2,
+    "extractedEmailsCardinality": 1,
+    "extractedSrcUrlsTotalCount": 4,
+    "dkim_count": 0,
+    "adscore": 0,
+    "pepca": "pa37ef26173554b95",
+    "dkStatusDetail": "NOT_SIGNED",
+    "html_script_tag_count": 0,
+    "date_difference": -79572358,
+    "html_in_text_plain_count": 0,
+    "pepca_style": "",
+    "word_count": 102,
+    "rfcid_length": 52,
+    "spf_dom_policy_registry": "Policy not found",
+    "pepcatotal": 1,
+    "last10words": "ete web konto k rozsireni sluzeb v ramci TETA Klubu www tetadrogerie cz www tetafoto cz ",
+    "extractedHrefUrls": [
+        "http://www.tetadrogerie.cz/",
+        "http://www.tetadrogerie.cz",
+        "http://www.tetafoto.cz"
+    ],
+    "spfstatus_hfrom": "SPF_NEUTRAL",
+    "header_reply_to_count": 1,
+    "senders": {
+        "log_cnt_idf_detail": [],
+        "log_ecnt_idf_detail": [],
+        "tf_log_idf": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "cnt-pow4_w_duc_detail": [],
+        "ttf_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "src_revert": "tetadrogerie",
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "plain_domain": "tetafoto",
+        "src_revert_detail": [
+            {
+                "confidence": 4,
+                "domain": "tetadrogerie"
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "tetafoto"
+            },
+            {
+                "confidence": 2,
+                "domain": "tetadrogerie"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "tf_log_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 7405219.76674821,
+                "domain": "praguebest"
+            }
+        ],
+        "domain_keywords": "praguebest",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt_idf": ""
+    },
+    "dk_statuses": [
+        {
+            "statusDetail": "NOT_SIGNED",
+            "status": "NEUTRAL"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "extractedSrcUrls": [
+        "http://www.tetadrogerie.cz/common/images/newsletter/shl.png",
+        "http://www.tetadrogerie.cz/common/images/newsletter/header_password.png",
+        "http://www.tetadrogerie.cz/common/images/newsletter/footer.png",
+        "http://www.tetadrogerie.cz/common/images/newsletter/shr.png"
+    ],
+    "list_unsubscribe_http_count": 0,
+    "extractedHrefUrlsDomainCount": 2,
+    "subject": "TETA KLUB Zapomenute heslo",
+    "list_unsubscribe_total_count": 0,
+    "extractedSrcUrlsDomainCount": 1,
+    "ahref_camouflage_count": 0,
+    "list_unsubscribe_invalid_count": 0,
+    "header_from": "no-reply@tetadrogerie.cz"
+}

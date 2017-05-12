@@ -1,0 +1,210 @@
+{
+    "date_difference": -386058779,
+    "html_td_tag_count": 4,
+    "list_unsubscribe_total_count": 0,
+    "precedence": 3,
+    "spfstatus_hfrom": "SPF_ERR",
+    "dkim_passed_count": 0,
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging"
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "extractedHrefUrlsDomainCount": 3,
+    "first10words": " Untitled Document Dear Huntington valued member ",
+    "word_count": 221,
+    "pepca": "pdbad4303f79c39c9",
+    "extractedSrcUrlsDomainCount": 1,
+    "last10words": "stered service marks of Huntington Bancshares Incorporated 2005 Huntington Bancshares Incorporated HLWNBIULDXEDCVYENRRHDOTNSUUERYUSTMLOHY",
+    "extractedTxtUrlsDomainCount": 1,
+    "pepcatotal": 0,
+    "pepca_style_total": 0,
+    "extractedEmails": [],
+    "mime_root_type": "text/html",
+    "extractedEmailsCardinality": 0,
+    "extractedHrefUrlsTotalCount": 3,
+    "html_tr_tag_count": 4,
+    "pepca_style": "",
+    "dkStatusDetail": "NOT_SIGNED",
+    "header_from_count": 1,
+    "header_total_count": 33,
+    "dk_statuses": [
+        {
+            "status": "NEUTRAL",
+            "statusDetail": "NOT_SIGNED"
+        }
+    ],
+    "ahref_camouflage_count": 3,
+    "extractedSrcUrlsTotalCount": 3,
+    "html_tag_total_count": 85,
+    "header_reply_to_count": 0,
+    "extractedEmailsDomainCount": 0,
+    "dkim_hfrom_match": 0,
+    "dkstatus": "NEUTRAL",
+    "ahref_total_count": 5,
+    "subject_image_count": 0,
+    "extractedTxtUrlsCardinality": 3,
+    "spf_domain_policy": "UNKNOWN",
+    "spf_status_registry": "Status not found",
+    "rfcid_is_foreign": 0,
+    "content": "CONTENT_DEFAULT",
+    "extractedSrcUrls": [
+        "http://www.huntington.com/images/layout/huntington_logo.gif",
+        "http://www.huntington.com/images/small-logo.gif",
+        "http://www.huntington.com/images/EHL.gif"
+    ],
+    "lang": "en",
+    "extractedTxtUrls": [
+        "https://onlinebanking.huntington.com/security/login.asp",
+        "http://www.huntington.com",
+        "https://onlinebanking.huntington.com/enroll.asp"
+    ],
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing0/125.eml",
+    "spamscore": 1.1,
+    "attachments": [],
+    "extractedSrcUrlsCardinality": 3,
+    "from_match": 0,
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pdbad4303f79c39c9"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pf9444263c9582b6b"
+        }
+    ],
+    "extractedHrefUrls": [
+        "http://210.114.220.220/login.html",
+        "http://grid.yonsei.ac.kr/onlinebanking.huntington.com/login.html",
+        "http://www.fdic.gov/deposit/deposits/index.html"
+    ],
+    "pepca_inline_style": "pf9444263c9582b6b",
+    "pepca_inline_style_total": 0,
+    "self_send": 0,
+    "now": 1494597818,
+    "mime_children_count": 0,
+    "ahref_verbal_count": 2,
+    "extractedTxtUrlsTotalCount": 3,
+    "subject_word_count": 5,
+    "rcpts_count": 1,
+    "dkim_count": 0,
+    "rfcid_is_invalid": false,
+    "header_from": "accounts@huntington.com",
+    "list_unsubscribe_mailto_count": 0,
+    "rfcid_length": 51,
+    "html_in_text_plain_count": 0,
+    "extractedHrefUrlsCardinality": 3,
+    "html_script_tag_count": 0,
+    "dkim_efrom_match": 0,
+    "adscore": 0,
+    "mime_children_types": [],
+    "dkim_signs_cnt": 1,
+    "spfstatus": "NONE",
+    "extractedEmailsTotalCount": 0,
+    "spamtrap_hit": false,
+    "spf_dom_policy_registry": "Policy not found",
+    "list_unsubscribe_http_count": 0,
+    "phishing": {
+        "body_richness": 0.101796407185629,
+        "num_black_sheep_link": -1,
+        "subject_richness": 0.104166666666667,
+        "max_num_slashes_urls": 3,
+        "num_https_urls": 2,
+        "camouflage": 1,
+        "ner_domain_detected": false,
+        "html_form": 0,
+        "num_subdomain_phish": 0,
+        "num_external_links": 6,
+        "fake_https": 1,
+        "num_html_script_tags": 0,
+        "num_freehost_urls": 0,
+        "num_phish_keywords": 24,
+        "suspicious_links": [],
+        "num_sender_diff_url": 3,
+        "text_and_href": 0,
+        "subject_phish_keywords": 2,
+        "num_www_in_url_path": 0,
+        "num_domain_phish": 0,
+        "num_of_chars": 2170,
+        "num_ip_urls": 0,
+        "num_path_phish": 0,
+        "num_param_phish": 0,
+        "max_num_dots_urls": 6,
+        "num_tld_in_url_path": 0,
+        "is_html": true,
+        "num_black_sheep_link_phish": 0,
+        "num_non_80_port_urls": 0,
+        "num_text_forms": 7,
+        "num_black_sheep_link_global": -1,
+        "text_link_with_path": 2,
+        "num_shortened_urls": 0
+    },
+    "senders": {
+        "domain_keywords": "kuponator",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "idf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt-pow4_w_duc": "",
+        "plain_domain_detail": [
+            {
+                "domain": "huntington",
+                "confidence": 1
+            }
+        ],
+        "log_cnt-pow_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "tf_log_idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "plain_domain": "huntington",
+        "domain_keywords_detail": [
+            {
+                "domain": "kuponator",
+                "confidence": 9406083623.39283
+            }
+        ],
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt_idf": "",
+        "tf_log_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "huntington",
+                "confidence": 3
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_cnt-w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert": "huntington"
+    },
+    "phish_score": 0,
+    "subject": "Huntington Bank Security Update Notification ",
+    "list_unsubscribe_invalid_count": 0
+}

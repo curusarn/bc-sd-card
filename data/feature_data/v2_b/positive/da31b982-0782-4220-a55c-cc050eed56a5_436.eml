@@ -1,0 +1,241 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ]
+        }
+    ],
+    "rfcid_is_invalid": false,
+    "spfstatus": "NONE",
+    "mime_root_type": "multipart/mixed",
+    "header_from_count": 1,
+    "now": 1494597913,
+    "dkim_efrom_match": 0,
+    "pepca_inline_style_total": 0,
+    "last10words": " ",
+    "pepca_small": "p86e425b5d07584ec",
+    "extractedEmailsTotalCount": 0,
+    "pepca_inline_style": "",
+    "spf_domain_policy": "UNKNOWN",
+    "pepca_style_total": 0,
+    "domainstat": {},
+    "theme": {},
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/436.eml",
+    "html_td_tag_count": 0,
+    "extractedHrefUrlsCardinality": 1,
+    "list_unsubscribe_mailto_count": 0,
+    "subject_word_count": 5,
+    "lang": "en",
+    "precedence": 3,
+    "phishing": {
+        "num_html_script_tags": 0,
+        "num_text_forms": 1,
+        "fake_https": 0,
+        "is_html": true,
+        "num_non_80_port_urls": 0,
+        "num_https_urls": 0,
+        "num_of_chars": 14,
+        "num_param_phish": 0,
+        "text_and_href": 0,
+        "body_richness": 0.8,
+        "text_link_with_path": 0,
+        "num_subject_phish_keywords": 1,
+        "max_num_slashes_urls": 1,
+        "num_shortened_urls": 0,
+        "num_sender_diff_url": 1,
+        "num_ip_urls": 0,
+        "num_black_sheep_link": -1,
+        "subject_richness": 0.227272727272727,
+        "num_tld_in_url_path": 0,
+        "subject_phish_keywords": 1,
+        "num_black_sheep_link_global": -1,
+        "num_black_sheep_link_phish": 0,
+        "num_path_phish": 0,
+        "num_attachments": 1,
+        "suspicious_links": [],
+        "html_form": 0,
+        "num_phish_keywords": 0,
+        "num_subdomain_phish": 0,
+        "num_domain_phish": 0,
+        "ner_domain_detected": false,
+        "camouflage": 0,
+        "num_freehost_urls": 0,
+        "num_external_links": 1,
+        "max_num_dots_urls": 5,
+        "num_www_in_url_path": 0
+    },
+    "spf_status_registry": "Status not found",
+    "rfcid_is_foreign": 1,
+    "from_match": 0,
+    "first10words": " ",
+    "phNotches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                1,
+                8
+            ],
+            "score": 10,
+            "module": "phish-score",
+            "name": [
+                "from_mismatch",
+                "subject_phish_keyword",
+                "attachments",
+                "phishing"
+            ]
+        }
+    ],
+    "header_total_count": 22,
+    "dkim_passed_count": 0,
+    "dkim_signs_cnt": 1,
+    "mime_children_types": [
+        "text/html",
+        "image/gif"
+    ],
+    "ahref_verbal_count": 0,
+    "subject_image_count": 0,
+    "phish_score": 12,
+    "mime_children_count": 2,
+    "self_send": 0,
+    "dkstatus": "NEUTRAL",
+    "phashes": [
+        {
+            "value": "pa7a7c25057218d5b",
+            "name": "att-pepca"
+        }
+    ],
+    "extractedHrefUrlsTotalCount": 1,
+    "attachments": [
+        {
+            "mime_type": "image/gif",
+            "cte": "BASE64",
+            "flags": 0,
+            "pepca": "pa7a7c25057218d5b",
+            "cid": "47907002.50033577.BF0E3914.35691366_csseditor",
+            "sumphash": "1d93199e7b74438769b6a2764acc327a",
+            "size": 7962,
+            "name": "HmQ.gif"
+        }
+    ],
+    "html_tr_tag_count": 0,
+    "rcpts_count": 1,
+    "html_tag_total_count": 11,
+    "content": "CONTENT_DEFAULT",
+    "spamtrap_hit": false,
+    "extractedEmailsDomainCount": 0,
+    "universalprobes": [
+        {
+            "key": "ps-from_mismatch",
+            "value": "1"
+        },
+        {
+            "key": "ps-subject_phish_keyword",
+            "value": "['account']"
+        },
+        {
+            "key": "ps-attachments",
+            "value": "1"
+        },
+        {
+            "key": "ps-most-suspicious-links",
+            "value": "[]"
+        },
+        {
+            "key": "ps-phishing",
+            "value": "1"
+        }
+    ],
+    "extractedEmails": [],
+    "extractedSrcUrlsCardinality": 1,
+    "senders": {
+        "log_cnt_idf_detail": [],
+        "log_ecnt_idf_detail": [],
+        "tf_log_idf": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "cnt-pow4_w_duc_detail": [],
+        "ttf_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "src_revert": "",
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "plain_domain": "",
+        "src_revert_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "tf_log_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "domain_keywords_detail": [],
+        "domain_keywords": "",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt_idf": ""
+    },
+    "spamscore": 1.1,
+    "ahref_total_count": 0,
+    "extractedEmailsCardinality": 0,
+    "extractedSrcUrlsTotalCount": 1,
+    "dkim_count": 0,
+    "adscore": 0,
+    "pepca": "",
+    "dkStatusDetail": "NOT_SIGNED",
+    "html_script_tag_count": 0,
+    "date_difference": -321469196,
+    "html_in_text_plain_count": 0,
+    "pepca_style": "",
+    "word_count": 12,
+    "rfcid_length": 31,
+    "spf_dom_policy_registry": "Policy not found",
+    "pepcatotal": 0,
+    "domainstat_themes": {},
+    "extractedHrefUrls": [
+        "http://online.bbt.com.onlineservlet_id865334.dllisap.hk/bbtc"
+    ],
+    "spfstatus_hfrom": "SPF_SOFTFAIL",
+    "header_reply_to_count": 1,
+    "dkim_hfrom_match": 0,
+    "dk_statuses": [
+        {
+            "statusDetail": "NOT_SIGNED",
+            "status": "NEUTRAL"
+        }
+    ],
+    "dmarc_status": {},
+    "extractedSrcUrls": [
+        "cid:47907002.50033577.BF0E3914.35691366_csseditor"
+    ],
+    "list_unsubscribe_http_count": 0,
+    "unsub_link": {},
+    "extractedHrefUrlsDomainCount": 1,
+    "subject": "your account in BB T ",
+    "list_unsubscribe_total_count": 0,
+    "extractedSrcUrlsDomainCount": 0,
+    "ahref_camouflage_count": 0,
+    "list_unsubscribe_invalid_count": 0,
+    "header_from": "bbtinvestigation-id747114ib@bbt.com"
+}

@@ -1,0 +1,223 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.1,
+                0.0,
+                0.1
+            ],
+            "score": 1.2,
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "evil_script",
+                "from_missmatch",
+                "foreign_message_id"
+            ]
+        }
+    ],
+    "extractedTxtUrls": [
+        "http://st13.i-cafe.onix.ro",
+        "http://rds-net.vl.ro",
+        "http://adsl.bbeyond.ro",
+        "http://www.paypal.com/cgi-bin/",
+        "http://www.paypal.com/cgi-bin/cmd=_security-center-outside"
+    ],
+    "spfstatus": "NONE",
+    "mime_root_type": "multipart/alternative",
+    "header_from_count": 1,
+    "now": 1494597848,
+    "dkim_efrom_match": 0,
+    "pepca_inline_style_total": 0,
+    "rcpts_count": 1,
+    "extractedEmailsTotalCount": 0,
+    "pepca_inline_style": "",
+    "pepca_style_total": 0,
+    "dkim_hfrom_match": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing2/321.eml",
+    "html_td_tag_count": 64,
+    "extractedHrefUrlsCardinality": 4,
+    "list_unsubscribe_mailto_count": 0,
+    "subject_word_count": 5,
+    "lang": "en",
+    "precedence": 3,
+    "phishing": {
+        "num_html_script_tags": 0,
+        "num_text_forms": 5,
+        "fake_https": 0,
+        "is_html": true,
+        "num_non_80_port_urls": 0,
+        "num_https_urls": 0,
+        "num_of_chars": 2803,
+        "num_param_phish": 0,
+        "text_and_href": 0,
+        "body_richness": 0.225035663338088,
+        "text_link_with_path": 2,
+        "max_num_slashes_urls": 4,
+        "num_shortened_urls": 0,
+        "num_sender_diff_url": 5,
+        "num_ip_urls": 0,
+        "num_black_sheep_link": -1,
+        "subject_richness": 0.131578947368421,
+        "num_tld_in_url_path": 0,
+        "subject_phish_keywords": 1,
+        "num_black_sheep_link_global": -1,
+        "num_black_sheep_link_phish": 0,
+        "num_path_phish": 0,
+        "suspicious_links": [],
+        "html_form": 0,
+        "num_phish_keywords": 37,
+        "num_subdomain_phish": 0,
+        "num_domain_phish": 0,
+        "ner_domain_detected": true,
+        "camouflage": 0,
+        "num_freehost_urls": 1,
+        "num_external_links": 9,
+        "max_num_dots_urls": 4,
+        "num_www_in_url_path": 0
+    },
+    "spf_status_registry": "Status not found",
+    "rfcid_is_foreign": 1,
+    "from_match": 0,
+    "first10words": " PayPal Security Center Urgent PayPal Account Login Request Notice of account temporary",
+    "extractedTxtUrlsDomainCount": 4,
+    "spf_domain_policy": "UNKNOWN",
+    "header_total_count": 23,
+    "dkim_passed_count": 0,
+    "extractedTxtUrlsCardinality": 5,
+    "dkim_signs_cnt": 1,
+    "mime_children_types": [
+        "text/html"
+    ],
+    "ahref_verbal_count": 6,
+    "subject_image_count": 0,
+    "phish_score": 0,
+    "rfcid_is_invalid": false,
+    "dkstatus": "NEUTRAL",
+    "phashes": [
+        {
+            "value": "pd5f36fac86f42a7a",
+            "name": "pepca"
+        }
+    ],
+    "extractedTxtUrlsTotalCount": 5,
+    "self_send": 0,
+    "attachments": [],
+    "html_tr_tag_count": 60,
+    "extractedEmails": [],
+    "html_tag_total_count": 368,
+    "mime_children_count": 1,
+    "spamtrap_hit": false,
+    "extractedEmailsDomainCount": 0,
+    "extractedHrefUrlsTotalCount": 4,
+    "extractedSrcUrlsCardinality": 8,
+    "spamscore": 1.2,
+    "ahref_total_count": 6,
+    "extractedEmailsCardinality": 0,
+    "extractedSrcUrlsTotalCount": 8,
+    "dkim_count": 0,
+    "adscore": 0,
+    "pepca": "pd5f36fac86f42a7a",
+    "dkStatusDetail": "NOT_SIGNED",
+    "html_script_tag_count": 4,
+    "date_difference": -355804371,
+    "html_in_text_plain_count": 0,
+    "pepca_style": "",
+    "word_count": 631,
+    "rfcid_length": 33,
+    "spf_dom_policy_registry": "Policy not found",
+    "pepcatotal": 0,
+    "last10words": "bsites increases the likelihood that someone could learn your password and gain access to your account ",
+    "extractedHrefUrls": [
+        "http://202.131.116.19/update/cgi-bin/webscrcmd_login.php",
+        "http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/fdic-outside",
+        "http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/privacy-outside",
+        "http://pages.ebay.com/help/community/png-priv.html"
+    ],
+    "spfstatus_hfrom": "SPF_SOFTFAIL",
+    "header_reply_to_count": 1,
+    "senders": {
+        "log_cnt_idf_detail": [],
+        "log_ecnt_idf_detail": [],
+        "tf_log_idf": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "cnt-pow4_w_duc_detail": [],
+        "ttf_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "src_revert": "paypal",
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "plain_domain": "vl",
+        "src_revert_detail": [
+            {
+                "confidence": 4.00913743629718,
+                "domain": "paypal"
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "vl"
+            },
+            {
+                "confidence": 1,
+                "domain": "bbeyond"
+            },
+            {
+                "confidence": 1,
+                "domain": "onix"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "tf_log_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 1646013847.18542,
+                "domain": "paypal"
+            }
+        ],
+        "domain_keywords": "paypal",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt_idf": ""
+    },
+    "dk_statuses": [
+        {
+            "statusDetail": "NOT_SIGNED",
+            "status": "NEUTRAL"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "extractedSrcUrls": [
+        "http://images.paypal.com/en_US/images/pixel.gif",
+        "http://pics.ebaystatic.com/aw/pics/truste_button.gif",
+        "http://visit.geocities.com/visit.gif?&r=&b=Netscape%205.0%20%28Windows%3B%20en-US%29&s=1024x768&o=Win32&c=32&j=true&v=1.2",
+        "http://visit.webhosting.yahoo.com/visit.gif?us1138313530",
+        "http://geo.yahoo.com/serv?s=76001524&t=1138313530&f=p6w2"
+    ],
+    "list_unsubscribe_http_count": 0,
+    "extractedHrefUrlsDomainCount": 3,
+    "subject": "Notification of Limited Account Acces",
+    "list_unsubscribe_total_count": 0,
+    "extractedSrcUrlsDomainCount": 5,
+    "ahref_camouflage_count": 0,
+    "list_unsubscribe_invalid_count": 0,
+    "header_from": "security@paypal.com"
+}

@@ -1,0 +1,215 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ]
+        }
+    ],
+    "rfcid_is_invalid": false,
+    "spfstatus": "NONE",
+    "mime_root_type": "multipart/alternative",
+    "header_from_count": 1,
+    "now": 1494598174,
+    "dkim_efrom_match": 0,
+    "pepca_inline_style_total": 0,
+    "rcpts_count": 1,
+    "extractedEmailsTotalCount": 0,
+    "pepca_inline_style": "pb9adaef912e754ef",
+    "pepca_style_total": 0,
+    "dkselector": "dkim1024",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/03d5dc177d8dd6619e18711d65f9ca83.eml",
+    "html_td_tag_count": 154,
+    "extractedHrefUrlsCardinality": 5,
+    "list_unsubscribe_mailto_count": 1,
+    "subject_word_count": 4,
+    "lang": "en",
+    "precedence": 3,
+    "phishing": {
+        "num_html_script_tags": 0,
+        "num_text_forms": 19,
+        "fake_https": 0,
+        "is_html": true,
+        "num_non_80_port_urls": 0,
+        "num_https_urls": 0,
+        "num_of_chars": 1217,
+        "num_param_phish": 0,
+        "text_and_href": 0,
+        "body_richness": 0.385057471264368,
+        "text_link_with_path": 0,
+        "max_num_slashes_urls": 4,
+        "num_shortened_urls": 0,
+        "num_sender_diff_url": 1,
+        "num_ip_urls": 0,
+        "num_black_sheep_link": -1,
+        "subject_richness": 0.142857142857143,
+        "num_tld_in_url_path": 0,
+        "subject_phish_keywords": 0,
+        "num_black_sheep_link_global": -1,
+        "num_black_sheep_link_phish": 0,
+        "num_path_phish": 0,
+        "suspicious_links": [],
+        "html_form": 0,
+        "num_phish_keywords": 3,
+        "num_subdomain_phish": 0,
+        "num_domain_phish": 0,
+        "ner_domain_detected": false,
+        "camouflage": 0,
+        "num_freehost_urls": 0,
+        "num_external_links": 10,
+        "max_num_dots_urls": 12,
+        "num_www_in_url_path": 0
+    },
+    "spf_status_registry": "Status not found",
+    "rfcid_is_foreign": 1,
+    "from_match": 0,
+    "first10words": " You have a new message Hello Honza084 You",
+    "spf_domain_policy": "UNKNOWN",
+    "header_total_count": 18,
+    "dkim_passed_count": 1,
+    "dkim_signs_cnt": 1,
+    "list_unsubscribe_urls": [
+        "mailto:listunsub-81140638-3-3-2-723@ms.whitelabelpros.com",
+        "http://ct.ms.whitelabelpros.com/t/PMRHK4TMEI5CE2DUORYDUXBPLQXXO53XFZWWS3DGONUG633LOVYC4Y3PNVOC63DPM5UW4LTQNBYD65J5EZZT2ZRTGJXVOZDFK43E2ZZ5EZWWC2LML5ZWK5DUNFXGO4Z5GERH2.../PMRG64THEI5CEMZCFQRGG2LEEI5CEMZCFQRG22LEEI5CEMRCFQRHI2LEEI5CENZSGMRCYITUNBSW2ZJCHIRDSOJWEIWCEYLGMZPWSZBCHIRDIMBVGY2SELBCOVUWIIR2EI4DCMJUGA3DGOBCFQRGY2LONNPW4YLNMURDUITSMVWW65TFEJ6Q..../de9c17de16f3f54524166803a0337833"
+    ],
+    "mime_children_types": [
+        "text/plain",
+        "text/html"
+    ],
+    "ahref_verbal_count": 4,
+    "subject_image_count": 0,
+    "phish_score": 0,
+    "self_send": 0,
+    "dkstatus": "PASS",
+    "phashes": [
+        {
+            "value": "p3553ca222b33e347",
+            "name": "pepca"
+        },
+        {
+            "value": "p421c5dcda914a513",
+            "name": "pepca_style"
+        },
+        {
+            "value": "pb9adaef912e754ef",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "contains_list_header": true,
+    "dkdomain": "whitelabelpros.com",
+    "html_tr_tag_count": 104,
+    "extractedEmails": [],
+    "html_tag_total_count": 372,
+    "mime_children_count": 2,
+    "spamtrap_hit": false,
+    "extractedEmailsDomainCount": 0,
+    "extractedHrefUrlsTotalCount": 5,
+    "dk_statuses": [
+        {
+            "selector": "dkim1024",
+            "status": "PASS",
+            "domain": "whitelabelpros.com"
+        }
+    ],
+    "extractedSrcUrlsCardinality": 5,
+    "senders": {
+        "log_cnt_idf_detail": [],
+        "log_ecnt_idf_detail": [],
+        "tf_log_idf": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "cnt-pow4_w_duc_detail": [],
+        "ttf_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "src_revert": "untrue",
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "plain_domain": "",
+        "src_revert_detail": [
+            {
+                "confidence": 5,
+                "domain": "untrue"
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "tf_log_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 240334912.961861,
+                "domain": "aweber"
+            }
+        ],
+        "domain_keywords": "aweber",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt_idf": ""
+    },
+    "spamscore": 1.1,
+    "ahref_total_count": 4,
+    "extractedEmailsCardinality": 0,
+    "extractedSrcUrlsTotalCount": 5,
+    "dkim_count": 1,
+    "adscore": 0,
+    "pepca": "p3553ca222b33e347",
+    "html_script_tag_count": 0,
+    "date_difference": -72577209,
+    "html_in_text_plain_count": 0,
+    "pepca_style": "p421c5dcda914a513",
+    "word_count": 469,
+    "rfcid_length": 52,
+    "spf_dom_policy_registry": "Policy not found",
+    "pepcatotal": 0,
+    "last10words": "nline Cupids click here Copyright 2014 MilfsHookup Agias Fylaxeos Zinonos Rossidi 2 1st floor Limassol P C 3082 Cyprus ",
+    "extractedHrefUrls": [
+        "",
+        "http://ct.ms.whitelabelpros.com/t/PMRHK4TMEI5CE2DUORYDUXBPLQXXO53XFZWWS3DGONUG633LOVYC4Y3PNVOC63DPM5UW4LTQNBYD65J5EZZT2ZRTGJXVOZ",
+        "http://ct.ms.whitelabelpros.com/t/PMRHK4TMEI5CE2DUORYDUXBPLQXXO53XFZWWS3DGONUG633LOVYC4Y3PNVOC63DPM5UW4LTQNBYD65J5EZZT2ZRTGJXVOZ",
+        "http://ct.ms.whitelabelpros.com/t/PMRHK4TMEI5CE2DUORYDUXBPLQXXO53XFZWWS3DGONUG633LOVYC4Y3PNVOC63DPM5UW4LTQNBYD65J5EZZT2ZRTGJXVOZ",
+        "http://www.milfshookup.com/pop.php?page=terms"
+    ],
+    "spfstatus_hfrom": "SPF_FAIL",
+    "header_reply_to_count": 0,
+    "dkim_hfrom_match": 1,
+    "attachments": [],
+    "content": "CONTENT_DEFAULT",
+    "extractedSrcUrls": [
+        "http://cdn2.whitelabelpros.com/whitelabel/images/whitelabel/32492/1/mail_template_images/standard/logo.png",
+        "http://cdn2.whitelabelpros.com/whitelabel/images/whitelabel/32492/mail_template_images/welcome/top-line.jpg",
+        "http://cdn2.whitelabelpros.com/whitelabel/showthumb.php?mem_id=16985161&size=4",
+        "http://cdn2.whitelabelpros.com/whitelabel/images/whitelabel/21201/amr2/user_types/cupid.png",
+        "http://ct.ms.whitelabelpros.com/o/PMRG64THEI5CEMZCFQRGG2LEEI5CEMZCFQRG22LEEI5CEMRCFQRHI2LEEI5CENZSGMRCYITUNBSW2ZJCHIRDSOJWEIWCEY"
+    ],
+    "list_unsubscribe_http_count": 1,
+    "extractedHrefUrlsDomainCount": 2,
+    "subject": "New message from marymcdyes",
+    "list_unsubscribe_total_count": 2,
+    "extractedSrcUrlsDomainCount": 1,
+    "ahref_camouflage_count": 0,
+    "list_unsubscribe_invalid_count": 0,
+    "header_from": "mail@whitelabelpros.com"
+}

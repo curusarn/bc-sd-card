@@ -1,0 +1,264 @@
+{
+    "date_difference": -365730670,
+    "html_td_tag_count": 43,
+    "list_unsubscribe_total_count": 0,
+    "precedence": 3,
+    "spfstatus_hfrom": "SPF_SOFTFAIL",
+    "dkim_passed_count": 0,
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging",
+                "foreign_message_id"
+            ],
+            "score": 1.2,
+            "module": "ill"
+        }
+    ],
+    "extractedHrefUrlsDomainCount": 2,
+    "first10words": " Dear PayPal Customer During our regular update and verification of the accounts we couldn t veri",
+    "word_count": 348,
+    "pepca": "p29fa151ae2bae772",
+    "extractedSrcUrlsDomainCount": 0,
+    "last10words": " Protect Your Password You should never give your PayPal password to anyone including PayPal employees rw 850 ",
+    "extractedTxtUrlsDomainCount": 1,
+    "pepcatotal": 0,
+    "pepca_style_total": 0,
+    "extractedEmails": [],
+    "mime_root_type": "multipart/related",
+    "extractedEmailsCardinality": 0,
+    "extractedHrefUrlsTotalCount": 4,
+    "html_tr_tag_count": 38,
+    "pepca_style": "",
+    "dkStatusDetail": "NOT_SIGNED",
+    "header_from_count": 1,
+    "header_total_count": 29,
+    "dk_statuses": [
+        {
+            "status": "NEUTRAL",
+            "statusDetail": "NOT_SIGNED"
+        }
+    ],
+    "ahref_camouflage_count": 1,
+    "extractedSrcUrlsTotalCount": 3,
+    "html_tag_total_count": 194,
+    "header_reply_to_count": 0,
+    "extractedEmailsDomainCount": 0,
+    "dkim_hfrom_match": 0,
+    "dkstatus": "NEUTRAL",
+    "ahref_total_count": 3,
+    "subject_image_count": 0,
+    "extractedTxtUrlsCardinality": 3,
+    "spf_domain_policy": "UNKNOWN",
+    "spf_status_registry": "Status not found",
+    "rfcid_is_foreign": 1,
+    "content": "CONTENT_DEFAULT",
+    "extractedSrcUrls": [
+        "cid:26217d50aa79$dd2d6c56$f61110a3@paypal.com",
+        "cid:13e788c5a358$e1cf6596$a0c8511c@paypal.com",
+        "cid:d5a4741b8a99$64c8d422$7df0b4cd@paypal.com"
+    ],
+    "lang": "en",
+    "extractedTxtUrls": [
+        "https://www.paypal.com/aw-cgi/webscr/cmd=_login-run",
+        "https://www.paypal.com/.",
+        "https://www.paypal.com/.If"
+    ],
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/20051114/310.eml",
+    "spamscore": 1.2,
+    "attachments": [
+        {
+            "flags": 0,
+            "cte": "BASE64",
+            "name": "i.gif",
+            "size": 163,
+            "mime_type": "image/gif",
+            "sumphash": "671d4a2c5a423f9d7e142b625ab68c55",
+            "cid": "93d5d7632861$542b7ce6$1ff208f2@paypal.com"
+        },
+        {
+            "flags": 0,
+            "cte": "BASE64",
+            "name": "iojlsvug.gif",
+            "size": 126,
+            "mime_type": "image/gif",
+            "sumphash": "e0a2b9d7ee0a317356a37181bf7da458",
+            "cid": "d5a4741b8a99$64c8d422$7df0b4cd@paypal.com"
+        },
+        {
+            "flags": 0,
+            "cte": "BASE64",
+            "name": "cdk.gif",
+            "size": 1744,
+            "mime_type": "image/gif",
+            "sumphash": "0559b9e27562aad056e9a6ccd42db25e",
+            "cid": "26217d50aa79$dd2d6c56$f61110a3@paypal.com",
+            "pepca": "pd8e1ab51f387bd70"
+        },
+        {
+            "flags": 0,
+            "cte": "BASE64",
+            "name": "uarsa.gif",
+            "size": 43,
+            "mime_type": "image/gif",
+            "sumphash": "5a2ed8e1f121e3c0c0668ead4def6e50",
+            "cid": "13e788c5a358$e1cf6596$a0c8511c@paypal.com"
+        },
+        {
+            "flags": 0,
+            "cte": "BASE64",
+            "name": "gctsti.gif",
+            "size": 42,
+            "mime_type": "image/gif",
+            "sumphash": "665f0541bad9c200e33842fdd7d41f1d",
+            "cid": "20915ee978b8$03be5cc0$931c479b@paypal.com"
+        }
+    ],
+    "extractedSrcUrlsCardinality": 3,
+    "from_match": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "pd8e1ab51f387bd70"
+        },
+        {
+            "name": "pepca",
+            "value": "p29fa151ae2bae772"
+        }
+    ],
+    "extractedHrefUrls": [
+        "https://www.paypal.com",
+        "http://protectgroup-paypal.com/aw-cgi/webscr/cmd=_login-run/login.html",
+        "https://www.paypal.com/PREFS-NOTI",
+        "http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/fraud-prevention-outside"
+    ],
+    "pepca_inline_style": "",
+    "pepca_inline_style_total": 0,
+    "self_send": 0,
+    "now": 1494597816,
+    "mime_children_count": 6,
+    "ahref_verbal_count": 2,
+    "extractedTxtUrlsTotalCount": 3,
+    "subject_word_count": 4,
+    "rcpts_count": 1,
+    "dkim_count": 0,
+    "rfcid_is_invalid": false,
+    "header_from": "services@paypal.com",
+    "list_unsubscribe_mailto_count": 0,
+    "rfcid_length": 41,
+    "html_in_text_plain_count": 0,
+    "extractedHrefUrlsCardinality": 4,
+    "html_script_tag_count": 0,
+    "dkim_efrom_match": 0,
+    "adscore": 0,
+    "mime_children_types": [
+        "multipart/alternative",
+        "image/gif",
+        "image/gif",
+        "image/gif",
+        "image/gif",
+        "image/gif"
+    ],
+    "dkim_signs_cnt": 1,
+    "spfstatus": "NONE",
+    "extractedEmailsTotalCount": 0,
+    "spamtrap_hit": false,
+    "spf_dom_policy_registry": "Policy not found",
+    "list_unsubscribe_http_count": 0,
+    "phishing": {
+        "body_richness": 0.231075697211155,
+        "num_black_sheep_link": -1,
+        "subject_richness": 0.142857142857143,
+        "max_num_slashes_urls": 4,
+        "num_https_urls": 5,
+        "camouflage": 1,
+        "ner_domain_detected": true,
+        "html_form": 0,
+        "num_subdomain_phish": 0,
+        "num_external_links": 4,
+        "fake_https": 1,
+        "5_top_domains_id_0": 0,
+        "num_html_script_tags": 0,
+        "num_freehost_urls": 0,
+        "num_phish_keywords": 27,
+        "suspicious_links": [],
+        "num_sender_diff_url": 1,
+        "text_and_href": 0,
+        "subject_phish_keywords": 1,
+        "num_www_in_url_path": 0,
+        "num_domain_phish": 0,
+        "5_top_domains_percent_0": 1.0,
+        "num_of_chars": 1505,
+        "num_ip_urls": 0,
+        "num_path_phish": 0,
+        "num_param_phish": 0,
+        "max_num_dots_urls": 3,
+        "num_tld_in_url_path": 0,
+        "is_html": true,
+        "num_black_sheep_link_phish": 0,
+        "num_non_80_port_urls": 0,
+        "num_text_forms": 9,
+        "num_black_sheep_link_global": -1,
+        "text_link_with_path": 3,
+        "num_shortened_urls": 0
+    },
+    "senders": {
+        "domain_keywords": "paypal",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "idf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt-pow4_w_duc": "",
+        "plain_domain_detail": [
+            {
+                "domain": "paypal",
+                "confidence": 1
+            }
+        ],
+        "log_cnt-pow_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "tf_log_idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "plain_domain": "paypal",
+        "domain_keywords_detail": [
+            {
+                "domain": "paypal",
+                "confidence": 948229808.350888
+            }
+        ],
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt_idf": "",
+        "tf_log_idf": "",
+        "src_revert_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_cnt-w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert": ""
+    },
+    "phish_score": 0,
+    "subject": "Protect Your PayPal Account",
+    "list_unsubscribe_invalid_count": 0
+}

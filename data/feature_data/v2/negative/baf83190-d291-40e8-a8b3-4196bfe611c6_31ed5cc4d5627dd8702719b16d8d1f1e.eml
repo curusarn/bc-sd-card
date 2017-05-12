@@ -1,0 +1,223 @@
+{
+    "adscore": 0, 
+    "ahref_camouflage_count": 0, 
+    "ahref_total_count": 11, 
+    "ahref_verbal_count": 9, 
+    "attachments": [], 
+    "contains_list_header": true, 
+    "content": "CONTENT_DEFAULT", 
+    "date_difference": -79602153, 
+    "dk_statuses": [
+        {
+            "domain": "ashleymadison.com", 
+            "selector": "ammail", 
+            "status": "PASS"
+        }
+    ], 
+    "dkdomain": "ashleymadison.com", 
+    "dkim_count": 1, 
+    "dkim_efrom_match": 0, 
+    "dkim_hfrom_match": 1, 
+    "dkim_passed_count": 1, 
+    "dkim_signs_cnt": 1, 
+    "dkselector": "ammail", 
+    "dkstatus": "PASS", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/31ed5cc4d5627dd8702719b16d8d1f1e.eml", 
+    "extractedEmails": [
+        "ditib@seznam.cz"
+    ], 
+    "extractedEmailsCardinality": 1, 
+    "extractedEmailsDomainCount": 1, 
+    "extractedEmailsTotalCount": 1, 
+    "extractedHrefUrls": [
+        "https://www.ashleymadison.com/app/public/loginlost.p?email_delivery_id=6077361865332168029&token=440479eec92f9e0b0e87508073f2bcc", 
+        "https://www.ashleymadison.com/app/public/contact.p?email_delivery_id=6077361865332168029&token=440479eec92f9e0b0e87508073f2bcc4&", 
+        "ditib@seznam.cz", 
+        "https://www.ashleymadison.com/remove/7dc0b8276f3866c4e04375501cc7460e/?email_delivery_id=6077361865332168029&token=440479eec92f9", 
+        "https://www.ashleymadison.com/delete/7dc0b8276f3866c4e04375501cc7460e/?email_delivery_id=6077361865332168029&token=440479eec92f9"
+    ], 
+    "extractedHrefUrlsCardinality": 12, 
+    "extractedHrefUrlsDomainCount": 1, 
+    "extractedHrefUrlsTotalCount": 12, 
+    "extractedSrcUrls": [
+        "https://static-cdn.ashleymadison.com/v3/email/images/logo.gif", 
+        "https://www.ashleymadison.com/app/public/pixel.p?email_delivery_id=6077361865332168029&token=440479eec92f9e0b0e87508073f2bcc4", 
+        "http://pixel.monitor1.returnpath.net/pixel.gif?r=1b6ad781872aef854322655fdd95974397e9a8d4&template=password_reset&gender=female&"
+    ], 
+    "extractedSrcUrlsCardinality": 3, 
+    "extractedSrcUrlsDomainCount": 2, 
+    "extractedSrcUrlsTotalCount": 3, 
+    "extractedTxtUrls": [
+        "https://www.ashleymadison.com/app/public/contact.p?email_delivery_id=6077361865332168029&token=440479eec92f9e0b0e87508073f2bcc4&"
+    ], 
+    "extractedTxtUrlsCardinality": 1, 
+    "extractedTxtUrlsDomainCount": 1, 
+    "extractedTxtUrlsTotalCount": 1, 
+    "first10words": " Zobrazit profil Seznamy Hledat Schranka Prohlizeli si me Koupit kredity Vazena y Dia", 
+    "from_match": 0, 
+    "header_from": "donotreply@ashleymadison.com", 
+    "header_from_count": 1, 
+    "header_reply_to_count": 1, 
+    "header_total_count": 17, 
+    "html_in_text_plain_count": 0, 
+    "html_script_tag_count": 0, 
+    "html_tag_total_count": 128, 
+    "html_td_tag_count": 26, 
+    "html_tr_tag_count": 16, 
+    "lang": "cs", 
+    "last10words": "20 Eglinton Ave West Suite 1200 Toronto ON Canada M4R 1K8 Adresa pro ostatni zeme 9 Karpensiou 2021 Nicosia Cyprus ", 
+    "list_unsubscribe_http_count": 0, 
+    "list_unsubscribe_invalid_count": 1, 
+    "list_unsubscribe_mailto_count": 1, 
+    "list_unsubscribe_total_count": 2, 
+    "list_unsubscribe_urls": [
+        "mailto:unsub@ashleymadison.com?subject=Unsubscribe", 
+        "https://www.ashleymadison.com/remove/7dc0b8276f3866c4e04375501cc7460e/"
+    ], 
+    "mime_children_count": 2, 
+    "mime_children_types": [
+        "text/plain", 
+        "text/html"
+    ], 
+    "mime_root_type": "multipart/alternative", 
+    "notches": [
+        {
+            "module": "ill", 
+            "name": [
+                "date_in_past", 
+                "from_missmatch"
+            ], 
+            "score": 1, 
+            "subscores": [
+                1, 
+                0.0
+            ]
+        }
+    ], 
+    "now": 1494598227, 
+    "pepca": "pe09445ffc83fd7d1", 
+    "pepca_inline_style": "p602581f7d8b75549", 
+    "pepca_inline_style_total": 0, 
+    "pepca_style": "", 
+    "pepca_style_total": 0, 
+    "pepcatotal": 0, 
+    "phashes": [
+        {
+            "name": "pepca", 
+            "value": "pe09445ffc83fd7d1"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "p602581f7d8b75549"
+        }
+    ], 
+    "phish_score": 0, 
+    "phishing": {
+        "body_richness": 0.161092150170648, 
+        "camouflage": 0, 
+        "fake_https": 0, 
+        "html_form": 0, 
+        "is_html": true, 
+        "max_num_dots_urls": 3, 
+        "max_num_slashes_urls": 3, 
+        "num_black_sheep_link": -1, 
+        "num_black_sheep_link_global": -1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_external_links": 8, 
+        "num_freehost_urls": 0, 
+        "num_html_script_tags": 0, 
+        "num_https_urls": 14, 
+        "num_ip_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "num_of_chars": 1464, 
+        "num_param_phish": 0, 
+        "num_path_phish": 0, 
+        "num_phish_keywords": 9, 
+        "num_sender_diff_url": 0, 
+        "num_shortened_urls": 0, 
+        "num_subdomain_phish": 0, 
+        "num_text_forms": 32, 
+        "num_tld_in_url_path": 0, 
+        "num_www_in_url_path": 0, 
+        "subject_phish_keywords": 2, 
+        "subject_richness": 0.125, 
+        "suspicious_links": [], 
+        "text_and_href": 0, 
+        "text_link_with_path": 1
+    }, 
+    "precedence": 3, 
+    "rcpts_count": 1, 
+    "rfcid_is_foreign": 0, 
+    "rfcid_is_invalid": false, 
+    "rfcid_length": 50, 
+    "self_send": 0, 
+    "senders": {
+        "cnt-pow4_w_duc": "", 
+        "cnt-pow4_w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "domain_keywords": "ashleymadison", 
+        "domain_keywords_detail": [
+            {
+                "confidence": 48287699.96102, 
+                "domain": "ashleymadison"
+            }
+        ], 
+        "ettf_w_duc": "", 
+        "ettf_w_duc_detail": [], 
+        "idf": "", 
+        "idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "log_cnt-w_duc_detail": [], 
+        "log_cnt_idf": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "log_ecnt_idf": "", 
+        "log_ecnt_idf_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "log_ecnt_log_idf_log_tidf": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "plain_domain": "", 
+        "plain_domain_detail": [], 
+        "src_revert": "sportsdirect", 
+        "src_revert_detail": [
+            {
+                "confidence": 1, 
+                "domain": "sportsdirect"
+            }
+        ], 
+        "tf_log_idf": "", 
+        "tf_log_idf_detail": [], 
+        "ttf_w_duc": "", 
+        "ttf_w_duc_detail": []
+    }, 
+    "spamscore": 1, 
+    "spamtrap_hit": false, 
+    "spf_dom_policy_registry": "Policy not found", 
+    "spf_domain_policy": "UNKNOWN", 
+    "spf_status_registry": "Status not found", 
+    "spfstatus": "NONE", 
+    "spfstatus_hfrom": "SPF_FAIL", 
+    "subject": "Obnoveni hesla", 
+    "subject_image_count": 0, 
+    "subject_word_count": 2, 
+    "unsub_link": "https://www.ashleymadison.com/remove/7dc0b8276f3866c4e04375501cc7460e/?email_delivery_id=6077361865332168029&token=440479eec92f9e0b0e87508073f2bcc4&link_id=15", 
+    "unsub_link_candidates": [
+        "ditib@seznam.cz", 
+        "https://www.ashleymadison.com/remove/7dc0b8276f3866c4e04375501cc7460e/?email_delivery_id=6077361865332168029&token=440479eec92f9e0b0e87508073f2bcc4&link_id=15"
+    ], 
+    "unsub_link_texts": [
+        " ditib seznam cz pokud byt obdrzet a tento email omylem nebo pokud chtit smazat svuj ucet nebo zrusit", 
+        " zruseni odber e mailovy zprava "
+    ], 
+    "word_count": 236
+}

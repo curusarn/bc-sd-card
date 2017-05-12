@@ -1,0 +1,258 @@
+{
+    "adscore": 0, 
+    "ahref_camouflage_count": 2, 
+    "ahref_total_count": 4, 
+    "ahref_verbal_count": 2, 
+    "attachments": [
+        {
+            "cid": "001a01c64523$ea4d6370$0401a8c0@francik", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "image/gif", 
+            "name": "zie337.gif", 
+            "pepca": "p3e83c3b48048dadb", 
+            "size": 1600, 
+            "sumphash": "aa61f694c502538552bf22cd863d26d9"
+        }, 
+        {
+            "cid": "001b01c64523$ea4d6370$0401a8c0@francik", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "image/gif", 
+            "name": "buc462.gif", 
+            "pepca": "p945fbabfcd20d706", 
+            "size": 719, 
+            "sumphash": "711f4e3cc9b1b8983de5e85aae7fa4a8"
+        }, 
+        {
+            "cid": "001c01c64523$ea4d6370$0401a8c0@francik", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "image/gif", 
+            "name": "ynn139.gif", 
+            "size": 380, 
+            "sumphash": "901e171a84acdeab509449503daf07c2"
+        }, 
+        {
+            "cid": "001d01c64523$ea4d6370$0401a8c0@francik", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "image/gif", 
+            "name": "acz094.gif", 
+            "pepca": "p82e8745b34220135", 
+            "size": 1463, 
+            "sumphash": "438c23c83406b2b0af0f729b9bbbb16e"
+        }
+    ], 
+    "content": "CONTENT_DEFAULT", 
+    "date_difference": -352509064, 
+    "dkStatusDetail": "NOT_SIGNED", 
+    "dk_statuses": [
+        {
+            "status": "NEUTRAL", 
+            "statusDetail": "NOT_SIGNED"
+        }
+    ], 
+    "dkim_count": 0, 
+    "dkim_efrom_match": 0, 
+    "dkim_hfrom_match": 0, 
+    "dkim_passed_count": 0, 
+    "dkim_signs_cnt": 1, 
+    "dkstatus": "NEUTRAL", 
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing2/575.eml", 
+    "extractedEmails": [], 
+    "extractedEmailsCardinality": 0, 
+    "extractedEmailsDomainCount": 0, 
+    "extractedEmailsTotalCount": 0, 
+    "extractedHrefUrls": [
+        "http://202.85.146.119:8081/citibusinessonline.da-us.citibank.com.cgi-bin.refresh.g8913b-u99912908662ba.update.db.ls351-srv000129", 
+        "http://citibank.com/domain/redirect/footer/citi.htm?BVE=http://citibank.com/citifi/scripts/&M=S&US&_u=visitor", 
+        "http://citibank.com/domain/redirect/footer/disclaim.htm?BVE=http://citibank.com"
+    ], 
+    "extractedHrefUrlsCardinality": 3, 
+    "extractedHrefUrlsDomainCount": 2, 
+    "extractedHrefUrlsTotalCount": 3, 
+    "extractedSrcUrls": [
+        "cid:001b01c64523$ea4d6370$0401a8c0@francik", 
+        "cid:001a01c64523$ea4d6370$0401a8c0@francik", 
+        "cid:001c01c64523$ea4d6370$0401a8c0@francik", 
+        "cid:001d01c64523$ea4d6370$0401a8c0@francik"
+    ], 
+    "extractedSrcUrlsCardinality": 4, 
+    "extractedSrcUrlsDomainCount": 0, 
+    "extractedSrcUrlsTotalCount": 4, 
+    "extractedTxtUrls": [
+        "https://citibusinessonline.da-us.citibank.com/cbusol/signon.do?ao=f", 
+        "http://Citi.com"
+    ], 
+    "extractedTxtUrlsCardinality": 2, 
+    "extractedTxtUrlsDomainCount": 2, 
+    "extractedTxtUrlsTotalCount": 2, 
+    "first10words": " Citibank Online Access Agreement Dear Citibank customer We are letting you know that you as a Citib", 
+    "from_match": 0, 
+    "header_from": "customerservice4@citibank.com", 
+    "header_from_count": 1, 
+    "header_reply_to_count": 0, 
+    "header_total_count": 22, 
+    "html_in_text_plain_count": 0, 
+    "html_script_tag_count": 0, 
+    "html_tag_total_count": 81, 
+    "html_td_tag_count": 8, 
+    "html_tr_tag_count": 6, 
+    "lang": "en", 
+    "last10words": "Citibank Texas N A Member FDIC Citi com Citigroup Privacy Promise Terms Conditions Copyright 2006 Citibank ", 
+    "list_unsubscribe_http_count": 0, 
+    "list_unsubscribe_invalid_count": 0, 
+    "list_unsubscribe_mailto_count": 0, 
+    "list_unsubscribe_total_count": 0, 
+    "mime_children_count": 5, 
+    "mime_children_types": [
+        "multipart/alternative", 
+        "image/gif", 
+        "image/gif", 
+        "image/gif", 
+        "image/gif"
+    ], 
+    "mime_root_type": "multipart/related", 
+    "notches": [
+        {
+            "module": "ill", 
+            "name": [
+                "date_in_past", 
+                "from_missmatch", 
+                "html_a_href_camouflaging"
+            ], 
+            "score": 1.1, 
+            "subscores": [
+                1, 
+                0.0, 
+                0.1
+            ]
+        }
+    ], 
+    "now": 1494597862, 
+    "pepca": "pdedcd6daba5e16c7", 
+    "pepca_inline_style": "", 
+    "pepca_inline_style_total": 0, 
+    "pepca_style": "", 
+    "pepca_style_total": 0, 
+    "pepcatotal": 0, 
+    "phashes": [
+        {
+            "name": "att-pepca", 
+            "value": "p3e83c3b48048dadb"
+        }, 
+        {
+            "name": "att-pepca", 
+            "value": "p945fbabfcd20d706"
+        }, 
+        {
+            "name": "att-pepca", 
+            "value": "p82e8745b34220135"
+        }, 
+        {
+            "name": "pepca", 
+            "value": "pdedcd6daba5e16c7"
+        }
+    ], 
+    "phish_score": 0, 
+    "phishing": {
+        "body_richness": 0.165109034267913, 
+        "camouflage": 1, 
+        "fake_https": 1, 
+        "html_form": 0, 
+        "is_html": true, 
+        "max_num_dots_urls": 15, 
+        "max_num_slashes_urls": 7, 
+        "num_black_sheep_link": -1, 
+        "num_black_sheep_link_global": -1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_external_links": 3, 
+        "num_freehost_urls": 0, 
+        "num_html_script_tags": 0, 
+        "num_https_urls": 1, 
+        "num_ip_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "num_of_chars": 1283, 
+        "num_param_phish": 0, 
+        "num_path_phish": 0, 
+        "num_phish_keywords": 14, 
+        "num_sender_diff_url": 2, 
+        "num_shortened_urls": 0, 
+        "num_subdomain_phish": 0, 
+        "num_text_forms": 0, 
+        "num_tld_in_url_path": 0, 
+        "num_www_in_url_path": 0, 
+        "subject_phish_keywords": 0, 
+        "subject_richness": 0.135135135135135, 
+        "suspicious_links": [], 
+        "text_and_href": 0, 
+        "text_link_with_path": 1
+    }, 
+    "precedence": 3, 
+    "rcpts_count": 1, 
+    "rfcid_is_foreign": 0, 
+    "rfcid_is_invalid": false, 
+    "rfcid_length": 38, 
+    "self_send": 0, 
+    "senders": {
+        "cnt-pow4_w_duc": "", 
+        "cnt-pow4_w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "domain_keywords": "citibank", 
+        "domain_keywords_detail": [
+            {
+                "confidence": 156142558.54293, 
+                "domain": "citibank"
+            }
+        ], 
+        "ettf_w_duc": "", 
+        "ettf_w_duc_detail": [], 
+        "idf": "", 
+        "idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "log_cnt-w_duc_detail": [], 
+        "log_cnt_idf": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "log_ecnt_idf": "", 
+        "log_ecnt_idf_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "log_ecnt_log_idf_log_tidf": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "plain_domain": "citi", 
+        "plain_domain_detail": [
+            {
+                "confidence": 1, 
+                "domain": "citi"
+            }
+        ], 
+        "src_revert": "", 
+        "src_revert_detail": [], 
+        "tf_log_idf": "", 
+        "tf_log_idf_detail": [], 
+        "ttf_w_duc": "", 
+        "ttf_w_duc_detail": []
+    }, 
+    "spamscore": 1.1, 
+    "spamtrap_hit": false, 
+    "spf_dom_policy_registry": "Policy not found", 
+    "spf_domain_policy": "UNKNOWN", 
+    "spf_status_registry": "Status not found", 
+    "spfstatus": "NONE", 
+    "spfstatus_hfrom": "SPF_SOFTFAIL", 
+    "subject": "Important Citibank Notice REF 689 ", 
+    "subject_image_count": 0, 
+    "subject_word_count": 5, 
+    "word_count": 212
+}

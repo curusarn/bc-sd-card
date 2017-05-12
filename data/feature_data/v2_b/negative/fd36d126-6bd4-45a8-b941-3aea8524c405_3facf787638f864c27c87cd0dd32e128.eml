@@ -1,0 +1,221 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ]
+        }
+    ],
+    "extractedTxtUrls": [
+        "https://secure.skype.com",
+        "http://www.skype.com",
+        "https://secure.skype.com."
+    ],
+    "spfstatus": "NONE",
+    "mime_root_type": "multipart/alternative",
+    "header_from_count": 1,
+    "now": 1494598244,
+    "dkim_efrom_match": 0,
+    "pepca_inline_style_total": 1,
+    "rcpts_count": 1,
+    "extractedEmailsTotalCount": 0,
+    "pepca_inline_style": "p99d89c50a8649118",
+    "pepca_style_total": 0,
+    "dkim_hfrom_match": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/3facf787638f864c27c87cd0dd32e128.eml",
+    "html_td_tag_count": 18,
+    "extractedHrefUrlsCardinality": 9,
+    "list_unsubscribe_mailto_count": 0,
+    "subject_word_count": 6,
+    "lang": "cs",
+    "precedence": 3,
+    "phishing": {
+        "num_html_script_tags": 0,
+        "num_text_forms": 4,
+        "fake_https": 0,
+        "is_html": true,
+        "num_non_80_port_urls": 0,
+        "num_https_urls": 3,
+        "num_of_chars": 2535,
+        "num_param_phish": 0,
+        "text_and_href": 0,
+        "body_richness": 0.154179810725552,
+        "text_link_with_path": 0,
+        "max_num_slashes_urls": 3,
+        "num_shortened_urls": 0,
+        "num_sender_diff_url": 0,
+        "num_ip_urls": 0,
+        "num_black_sheep_link": -1,
+        "subject_richness": 0.157894736842105,
+        "num_tld_in_url_path": 0,
+        "subject_phish_keywords": 2,
+        "num_black_sheep_link_global": -1,
+        "num_black_sheep_link_phish": 0,
+        "num_path_phish": 0,
+        "suspicious_links": [],
+        "html_form": 0,
+        "num_phish_keywords": 18,
+        "num_subdomain_phish": 0,
+        "num_domain_phish": 0,
+        "ner_domain_detected": true,
+        "camouflage": 0,
+        "num_freehost_urls": 0,
+        "num_external_links": 7,
+        "max_num_dots_urls": 4,
+        "num_www_in_url_path": 0
+    },
+    "spf_status_registry": "Status not found",
+    "rfcid_is_foreign": 0,
+    "from_match": 0,
+    "first10words": " Skype Tento e mail byl odeslan automaticky proto na nej neodpovidejte Vazeny uzivateli petr ",
+    "extractedTxtUrlsDomainCount": 1,
+    "spf_domain_policy": "UNKNOWN",
+    "header_total_count": 12,
+    "dkim_passed_count": 0,
+    "extractedTxtUrlsCardinality": 3,
+    "dkim_signs_cnt": 1,
+    "mime_children_types": [
+        "text/plain",
+        "text/html"
+    ],
+    "ahref_verbal_count": 10,
+    "subject_image_count": 0,
+    "phish_score": 0,
+    "rfcid_is_invalid": false,
+    "dkstatus": "FAIL",
+    "unsub_link_texts": [
+        " odhlasit odber skype neumoznovat tisnovy volani"
+    ],
+    "phashes": [
+        {
+            "value": "p4c6362571cb588b1",
+            "name": "pepca"
+        },
+        {
+            "value": "p99d89c50a8649118",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "extractedTxtUrlsTotalCount": 3,
+    "self_send": 0,
+    "dkdomain": "",
+    "html_tr_tag_count": 16,
+    "extractedEmails": [],
+    "html_tag_total_count": 133,
+    "mime_children_count": 2,
+    "spamtrap_hit": false,
+    "extractedEmailsDomainCount": 0,
+    "extractedHrefUrlsTotalCount": 9,
+    "dk_statuses": [
+        {
+            "status": "FAIL",
+            "domain": "",
+            "statusDetail": "DKIM_STAT_NOKEY"
+        }
+    ],
+    "extractedSrcUrlsCardinality": 2,
+    "spamscore": 1,
+    "ahref_total_count": 10,
+    "extractedEmailsCardinality": 0,
+    "extractedSrcUrlsTotalCount": 2,
+    "dkim_count": 1,
+    "adscore": 0,
+    "pepca": "p4c6362571cb588b1",
+    "dkStatusDetail": "DKIM_STAT_NOKEY",
+    "unsub_link_candidates": [
+        "https://go.skype.com/email.unsubscribe?user=dandy.vusty&token=255bc77325"
+    ],
+    "html_script_tag_count": 0,
+    "date_difference": -80084131,
+    "html_in_text_plain_count": 0,
+    "pepca_style": "",
+    "word_count": 391,
+    "rfcid_length": 67,
+    "spf_dom_policy_registry": "Policy not found",
+    "pepcatotal": 0,
+    "last10words": "oga a symbol S jsou ochranne znamky spolecnosti Skype Skype Communications S A R L 23 29 Rives de Clausen L 2165 Luxembourg ",
+    "extractedHrefUrls": [
+        "http://api.skype.com/tracking/emails/click?m=7131000026430493431&go=help&x=intcmp%3DT_302-_-H-_-281014-_-help",
+        "http://api.skype.com/tracking/emails/click?m=7131000026430493431&go=tos&x=intcmp%3DT_302-_-H-_-281014-_-tos",
+        "http://api.skype.com/tracking/emails/click?m=7131000026430493431&go=privacy&x=intcmp%3DT_302-_-H-_-281014-_-privacy",
+        "https://go.skype.com/email.unsubscribe?user=dandy.vusty&token=255bc77325",
+        "http://api.skype.com/tracking/emails/click?m=7131000026430493431&go=community&x=intcmp%3DT_302-_-H-_-281014-_-community"
+    ],
+    "spfstatus_hfrom": "SPF_FAIL",
+    "header_reply_to_count": 0,
+    "senders": {
+        "log_cnt_idf_detail": [],
+        "log_ecnt_idf_detail": [],
+        "tf_log_idf": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "cnt-pow4_w_duc_detail": [],
+        "ttf_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "src_revert": "skype",
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "plain_domain": "skype",
+        "src_revert_detail": [
+            {
+                "confidence": 2,
+                "domain": "skype"
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "plain_domain_detail": [
+            {
+                "confidence": 4,
+                "domain": "skype"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "tf_log_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 391127679.616934,
+                "domain": "skype"
+            }
+        ],
+        "domain_keywords": "skype",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt_idf": ""
+    },
+    "attachments": [],
+    "content": "CONTENT_DEFAULT",
+    "extractedSrcUrls": [
+        "http://www.skypeassets.com/i/common/images/icons/skype-logo.png",
+        "http://api.skype.com/tracking/emails/open/7131000026430493431.gif"
+    ],
+    "list_unsubscribe_http_count": 0,
+    "unsub_link": "https://go.skype.com/email.unsubscribe?user=dandy.vusty&token=255bc77325",
+    "extractedHrefUrlsDomainCount": 1,
+    "subject": "Mate zmenene heslo k uctu Skype",
+    "list_unsubscribe_total_count": 0,
+    "extractedSrcUrlsDomainCount": 2,
+    "ahref_camouflage_count": 0,
+    "list_unsubscribe_invalid_count": 0,
+    "header_from": "noreply@notifications.skype.com"
+}

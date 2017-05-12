@@ -1,0 +1,201 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.1,
+                0.0
+            ],
+            "score": 1.1,
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "evil_script",
+                "from_missmatch"
+            ]
+        }
+    ],
+    "rfcid_is_invalid": false,
+    "spfstatus": "NONE",
+    "mime_root_type": "text/html",
+    "header_from_count": 1,
+    "now": 1494597865,
+    "dkim_efrom_match": 0,
+    "pepca_inline_style_total": 0,
+    "rcpts_count": 1,
+    "extractedEmailsTotalCount": 0,
+    "pepca_inline_style": "pc0bd1dc8ab10af94",
+    "pepca_style_total": 0,
+    "dkim_hfrom_match": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing2/720.eml",
+    "html_td_tag_count": 38,
+    "extractedHrefUrlsCardinality": 1,
+    "list_unsubscribe_mailto_count": 0,
+    "subject_word_count": 3,
+    "lang": "en",
+    "precedence": 3,
+    "phishing": {
+        "num_html_script_tags": 0,
+        "num_text_forms": 4,
+        "fake_https": 0,
+        "is_html": true,
+        "num_non_80_port_urls": 0,
+        "num_https_urls": 0,
+        "num_of_chars": 1698,
+        "num_param_phish": 0,
+        "text_and_href": 0,
+        "body_richness": 0.214243672748676,
+        "text_link_with_path": 0,
+        "max_num_slashes_urls": 5,
+        "num_shortened_urls": 0,
+        "num_sender_diff_url": 1,
+        "num_ip_urls": 0,
+        "num_black_sheep_link": -1,
+        "subject_richness": 0.142857142857143,
+        "num_tld_in_url_path": 0,
+        "subject_phish_keywords": 0,
+        "num_black_sheep_link_global": -1,
+        "num_black_sheep_link_phish": 0,
+        "num_path_phish": 0,
+        "suspicious_links": [],
+        "html_form": 0,
+        "num_phish_keywords": 30,
+        "num_subdomain_phish": 0,
+        "num_domain_phish": 0,
+        "ner_domain_detected": false,
+        "camouflage": 0,
+        "num_freehost_urls": 0,
+        "num_external_links": 6,
+        "max_num_dots_urls": 6,
+        "num_www_in_url_path": 0
+    },
+    "spf_status_registry": "Status not found",
+    "rfcid_is_foreign": 0,
+    "from_match": 0,
+    "first10words": " Complete Your Account Verification Chase sent this message for the following reason Our system requires further ac",
+    "spf_domain_policy": "UNKNOWN",
+    "header_total_count": 26,
+    "dkim_passed_count": 0,
+    "dkim_signs_cnt": 1,
+    "mime_children_types": [],
+    "ahref_verbal_count": 2,
+    "subject_image_count": 0,
+    "phish_score": 0,
+    "self_send": 0,
+    "dkstatus": "NEUTRAL",
+    "phashes": [
+        {
+            "value": "p024023ad5f94b2ba",
+            "name": "pepca"
+        },
+        {
+            "value": "ped1a26a2e7bf0d6d",
+            "name": "pepca_style"
+        },
+        {
+            "value": "pc0bd1dc8ab10af94",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "extractedHrefUrlsTotalCount": 1,
+    "attachments": [],
+    "html_tr_tag_count": 28,
+    "html_tag_total_count": 155,
+    "mime_children_count": 0,
+    "spamtrap_hit": false,
+    "extractedEmailsDomainCount": 0,
+    "extractedEmails": [],
+    "extractedSrcUrlsCardinality": 5,
+    "spamscore": 1.1,
+    "ahref_total_count": 2,
+    "extractedEmailsCardinality": 0,
+    "extractedSrcUrlsTotalCount": 5,
+    "dkim_count": 0,
+    "adscore": 0,
+    "pepca": "p024023ad5f94b2ba",
+    "dkStatusDetail": "NOT_SIGNED",
+    "html_script_tag_count": 4,
+    "date_difference": -350610515,
+    "html_in_text_plain_count": 0,
+    "pepca_style": "ped1a26a2e7bf0d6d",
+    "word_count": 364,
+    "rfcid_length": 41,
+    "spf_dom_policy_registry": "Policy not found",
+    "pepcatotal": 0,
+    "last10words": "rstand that this is a security measure intended to help protect you and your account 2006 JPMorgan Chase Co ",
+    "extractedHrefUrls": [
+        "http://203.169.34.6/cash-online.com/reidentify/sso_reidentifyjsp/LOBRBGLogon/sso_co_home.jsp.htm"
+    ],
+    "spfstatus_hfrom": "SPF_FAIL",
+    "header_reply_to_count": 0,
+    "senders": {
+        "log_cnt_idf_detail": [],
+        "log_ecnt_idf_detail": [],
+        "tf_log_idf": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "cnt-pow4_w_duc_detail": [],
+        "ttf_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "src_revert": "ebay",
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "plain_domain": "",
+        "src_revert_detail": [
+            {
+                "confidence": 3,
+                "domain": "ebay"
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "tf_log_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 134660370.773324,
+                "domain": "paypal"
+            }
+        ],
+        "domain_keywords": "paypal",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt_idf": ""
+    },
+    "dk_statuses": [
+        {
+            "statusDetail": "NOT_SIGNED",
+            "status": "NEUTRAL"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "extractedSrcUrls": [
+        "",
+        "http://www.chase.com/ccpmweb/shared/image/chaseNewlogo.gif",
+        "http://pics.ebaystatic.com/aw/pics/s.gif",
+        "http://pics.ebaystatic.com/aw/pics/globalAssets/ltCurve.gif",
+        "http://pics.ebaystatic.com/aw/pics/globalAssets/rtCurve.gif"
+    ],
+    "list_unsubscribe_http_count": 0,
+    "extractedHrefUrlsDomainCount": 1,
+    "subject": "CHASE MANHATTAN BANK",
+    "list_unsubscribe_total_count": 0,
+    "extractedSrcUrlsDomainCount": 2,
+    "ahref_camouflage_count": 0,
+    "list_unsubscribe_invalid_count": 0,
+    "header_from": "memberservice@chase.com"
+}

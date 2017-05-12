@@ -1,0 +1,222 @@
+{
+    "date_difference": -79597469,
+    "spf_dom_policy_registry": "Policy not found",
+    "adNotches": [
+        {
+            "subscores": [
+                5
+            ],
+            "name": [
+                "images_in_subject"
+            ],
+            "score": 5,
+            "module": "ill"
+        }
+    ],
+    "list_unsubscribe_total_count": 1,
+    "from_match": 0,
+    "spfstatus_hfrom": "SPF_FAIL",
+    "dkim_passed_count": 0,
+    "unsub_link_candidates": [
+        "https://eu1.badoo.com/impersonation.phtml?lang_id=16&email=alen.a88%40seznam.cz&block_code=3664a8&m=2&mid=545733320000003c001000460467a03202861ae40000&g=0-0-1"
+    ],
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "images_in_subject"
+            ],
+            "score": 2,
+            "module": "ill"
+        }
+    ],
+    "extractedHrefUrlsDomainCount": 1,
+    "first10words": " Chcete zmenit sve heslo na Badoo Chcete zmenit sve heslo na Badoo Chcete li si vytvorit nove heslo staci kliknout na odkaz ",
+    "word_count": 130,
+    "contains_list_header": true,
+    "extractedSrcUrlsDomainCount": 1,
+    "rfcid_length": 39,
+    "pepcatotal": 1,
+    "pepca_style_total": 0,
+    "unsub_link": "https://eu1.badoo.com/impersonation.phtml?lang_id=16&email=alen.a88%40seznam.cz&block_code=3664a8&m=2&mid=545733320000003c001000460467a03202861ae40000&g=0-0-1",
+    "extractedEmailsTotalCount": 0,
+    "mime_root_type": "multipart/alternative",
+    "extractedEmailsCardinality": 0,
+    "extractedHrefUrlsTotalCount": 2,
+    "html_tr_tag_count": 2,
+    "pepca_style": "",
+    "dkStatusDetail": "DKIM_STAT_CANTVRFY",
+    "header_from_count": 1,
+    "header_total_count": 18,
+    "extractedSrcUrlsCardinality": 1,
+    "ahref_camouflage_count": 0,
+    "extractedSrcUrlsTotalCount": 1,
+    "html_tag_total_count": 42,
+    "ahref_total_count": 2,
+    "rcpts_count": 1,
+    "extractedEmails": [],
+    "dkim_hfrom_match": 0,
+    "dkstatus": "FAIL",
+    "header_reply_to_count": 1,
+    "subject_image_count": 1,
+    "spf_domain_policy": "UNKNOWN",
+    "spf_status_registry": "Status not found",
+    "extractedEmailsDomainCount": 0,
+    "content": "CONTENT_DEFAULT",
+    "extractedSrcUrls": [
+        "http://badoocdn.com/545733320000003c00100046000000000000000218d706be-2539187504573433856/v2/-/-/i/badoo.16.gif"
+    ],
+    "lang": "cs",
+    "html_td_tag_count": 4,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/9462906cfb05dc1687eec0b43b575227.eml",
+    "spamscore": 2,
+    "attachments": [],
+    "dk_statuses": [
+        {
+            "status": "FAIL",
+            "domain": "",
+            "statusDetail": "DKIM_STAT_CANTVRFY"
+        }
+    ],
+    "dkdomain": "",
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p5975f9f4c6b0ee44"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p01a7d52b3f6dbf70"
+        }
+    ],
+    "pepca_inline_style": "p01a7d52b3f6dbf70",
+    "list_unsubscribe_urls": [
+        "mailto:unsubscribe+2_2539187504573433856_16_9093b1@badoo.com?subject=rLD6O04FAD2iNkysVNxpJWbntA12q+cEa6DkRWg5zow"
+    ],
+    "rfcid_is_foreign": 0,
+    "self_send": 0,
+    "now": 1494598353,
+    "mime_children_count": 2,
+    "ahref_verbal_count": 2,
+    "last10words": "trovana v Anglii a Walesu pod cislem CRN 7540255 se sidlem na adrese Media Village 131 151 Great Titchfield Street Londyn W1W 5BB ",
+    "subject_word_count": 5,
+    "pepca": "p5975f9f4c6b0ee44",
+    "dkim_count": 1,
+    "unsub_link_texts": [
+        "pokud si neprat dostavat zadny dalsi zprava od badoo paka kliknout zde a odhlasit se"
+    ],
+    "rfcid_is_invalid": false,
+    "header_from": "noreply@badoo.com",
+    "list_unsubscribe_mailto_count": 1,
+    "html_in_text_plain_count": 0,
+    "extractedHrefUrlsCardinality": 2,
+    "html_script_tag_count": 0,
+    "dkim_efrom_match": 0,
+    "adscore": 5,
+    "mime_children_types": [
+        "text/plain",
+        "text/html"
+    ],
+    "dkim_signs_cnt": 1,
+    "spfstatus": "NONE",
+    "extractedHrefUrls": [
+        "https://eu1.badoo.com/access.phtml?UID=416745150&secret=oDmziSfl9U&m=2&g=7-0-1&pref_lang=16&email=alen.a88%40seznam.cz&mid=54573",
+        "https://eu1.badoo.com/impersonation.phtml?lang_id=16&email=alen.a88%40seznam.cz&block_code=3664a8&m=2&mid=545733320000003c001000"
+    ],
+    "spamtrap_hit": false,
+    "precedence": 3,
+    "list_unsubscribe_http_count": 0,
+    "pepca_inline_style_total": 1,
+    "phishing": {
+        "body_richness": 0.163934426229508,
+        "num_black_sheep_link": -1,
+        "subject_richness": 0.161290322580645,
+        "max_num_slashes_urls": 1,
+        "num_https_urls": 2,
+        "camouflage": 0,
+        "ner_domain_detected": false,
+        "html_form": 0,
+        "num_subdomain_phish": 0,
+        "num_external_links": 3,
+        "fake_https": 0,
+        "num_html_script_tags": 0,
+        "num_freehost_urls": 0,
+        "num_phish_keywords": 7,
+        "suspicious_links": [],
+        "num_sender_diff_url": 0,
+        "text_and_href": 0,
+        "subject_phish_keywords": 1,
+        "num_www_in_url_path": 0,
+        "num_domain_phish": 0,
+        "num_of_chars": 792,
+        "num_ip_urls": 0,
+        "num_path_phish": 0,
+        "num_param_phish": 0,
+        "max_num_dots_urls": 5,
+        "num_tld_in_url_path": 0,
+        "is_html": true,
+        "num_black_sheep_link_phish": 0,
+        "num_non_80_port_urls": 0,
+        "num_text_forms": 2,
+        "num_black_sheep_link_global": -1,
+        "text_link_with_path": 0,
+        "num_shortened_urls": 0
+    },
+    "senders": {
+        "domain_keywords": "badoo",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "idf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt-pow4_w_duc": "",
+        "plain_domain_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "tf_log_idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "plain_domain": "",
+        "domain_keywords_detail": [
+            {
+                "domain": "badoo",
+                "confidence": 174132529.30418
+            }
+        ],
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt_idf": "",
+        "tf_log_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "badoo",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_cnt-w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert": "badoo"
+    },
+    "phish_score": 0,
+    "subject": " Zmente si heslo na Badoo",
+    "list_unsubscribe_invalid_count": 0
+}

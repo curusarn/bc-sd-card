@@ -1,0 +1,222 @@
+{
+    "date_difference": -326659921,
+    "html_td_tag_count": 150,
+    "list_unsubscribe_total_count": 0,
+    "precedence": 3,
+    "spfstatus_hfrom": "SPF_SOFTFAIL",
+    "dkim_passed_count": 0,
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging",
+                "foreign_message_id"
+            ],
+            "score": 1.2,
+            "module": "ill"
+        }
+    ],
+    "extractedHrefUrlsDomainCount": 2,
+    "first10words": " eBay sent this message from Logan Mignatos yosdude72 The registered name is included to show this message originated from eBay Learn",
+    "word_count": 807,
+    "pepca": "pe35cad8130f5f67a",
+    "extractedSrcUrlsDomainCount": 1,
+    "last10words": "ay and the eBay logo are registered trademarks or trademarks of eBay Inc eBay is located at 2145 Hamilton Avenue San Jose CA 95125 ",
+    "extractedTxtUrlsDomainCount": 1,
+    "pepcatotal": 0,
+    "pepca_style_total": 0,
+    "extractedEmails": [],
+    "mime_root_type": "multipart/alternative",
+    "extractedEmailsCardinality": 0,
+    "extractedHrefUrlsTotalCount": 3,
+    "html_tr_tag_count": 98,
+    "pepca_style": "",
+    "dkStatusDetail": "NOT_SIGNED",
+    "header_from_count": 1,
+    "header_total_count": 24,
+    "dk_statuses": [
+        {
+            "status": "NEUTRAL",
+            "statusDetail": "NOT_SIGNED"
+        }
+    ],
+    "ahref_camouflage_count": 3,
+    "extractedSrcUrlsTotalCount": 8,
+    "html_tag_total_count": 507,
+    "header_reply_to_count": 1,
+    "extractedEmailsDomainCount": 0,
+    "dkim_hfrom_match": 0,
+    "dkstatus": "NEUTRAL",
+    "ahref_total_count": 16,
+    "subject_image_count": 0,
+    "extractedTxtUrlsCardinality": 7,
+    "spf_domain_policy": "UNKNOWN",
+    "spf_status_registry": "Status not found",
+    "rfcid_is_foreign": 1,
+    "content": "CONTENT_DEFAULT",
+    "extractedSrcUrls": [
+        "http://pics.ebaystatic.com/aw/pics/s.gif",
+        "http://pics.ebaystatic.com/aw/pics/icon/iconYellowStar_25x25.gif",
+        "http://pics.ebaystatic.com/aw/pics/buttons/btnRespondNow.gif",
+        "http://pics.ebaystatic.com/aw/pics/securityCenter/imgShield_25x25.gif",
+        "http://pics.ebaystatic.com/aw/pics/securityCenter/imgTabCorner_25x25.gif"
+    ],
+    "lang": "en",
+    "extractedTxtUrls": [
+        "http://pages.ebay.com/help/policies/privacy-policy.html",
+        "http://pages.ebay.com/help/policies/user-agreement.html",
+        "http://pages.ebay.com/education/spooftutorialThis",
+        "http://pages.ebay.com/help/policies/privacy-policy.htmlUser",
+        "http://pages.ebay.com/help/policies/user-agreement.htmlCopyright"
+    ],
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/1290.eml",
+    "spamscore": 1.2,
+    "attachments": [],
+    "extractedSrcUrlsCardinality": 8,
+    "from_match": 0,
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "pe35cad8130f5f67a"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p8dc2a7cb0d28f86a"
+        }
+    ],
+    "extractedHrefUrls": [
+        "http://0xdd.0x6.0xf.0x8a/ws/eBayISAPI.dll",
+        "http://pages.ebay.com/securitycenter",
+        "http://0xdd0x6.0xf.0x8a/ws/eBayISAPI.dll"
+    ],
+    "pepca_inline_style": "p8dc2a7cb0d28f86a",
+    "pepca_inline_style_total": 0,
+    "self_send": 0,
+    "now": 1494597877,
+    "mime_children_count": 1,
+    "ahref_verbal_count": 13,
+    "extractedTxtUrlsTotalCount": 7,
+    "subject_word_count": 7,
+    "rcpts_count": 1,
+    "dkim_count": 0,
+    "rfcid_is_invalid": false,
+    "header_from": "member@ebay.com",
+    "list_unsubscribe_mailto_count": 0,
+    "rfcid_length": 34,
+    "html_in_text_plain_count": 0,
+    "extractedHrefUrlsCardinality": 3,
+    "html_script_tag_count": 0,
+    "dkim_efrom_match": 0,
+    "adscore": 0,
+    "mime_children_types": [
+        "text/html"
+    ],
+    "dkim_signs_cnt": 1,
+    "spfstatus": "NONE",
+    "extractedEmailsTotalCount": 0,
+    "spamtrap_hit": false,
+    "spf_dom_policy_registry": "Policy not found",
+    "list_unsubscribe_http_count": 0,
+    "phishing": {
+        "5_top_domains_id_1": 0,
+        "body_richness": 0.27722432153899,
+        "num_black_sheep_link": -1,
+        "subject_richness": 0.127272727272727,
+        "max_num_slashes_urls": 3,
+        "num_https_urls": 0,
+        "camouflage": 1,
+        "ner_domain_detected": true,
+        "html_form": 0,
+        "num_subdomain_phish": 0,
+        "num_external_links": 8,
+        "fake_https": 0,
+        "5_top_domains_id_0": 0,
+        "num_html_script_tags": 0,
+        "num_freehost_urls": 0,
+        "num_phish_keywords": 7,
+        "suspicious_links": [],
+        "num_sender_diff_url": 1,
+        "text_and_href": 0,
+        "subject_phish_keywords": 0,
+        "num_www_in_url_path": 0,
+        "num_domain_phish": 0,
+        "5_top_domains_percent_0": 0.9615384615384616,
+        "num_of_chars": 2910,
+        "num_ip_urls": 0,
+        "num_path_phish": 0,
+        "num_param_phish": 0,
+        "max_num_dots_urls": 4,
+        "num_tld_in_url_path": 0,
+        "is_html": true,
+        "num_black_sheep_link_phish": 0,
+        "num_non_80_port_urls": 0,
+        "num_text_forms": 3,
+        "num_black_sheep_link_global": -1,
+        "text_link_with_path": 6,
+        "5_top_domains_percent_1": 0.038461538461538464,
+        "num_shortened_urls": 0
+    },
+    "senders": {
+        "domain_keywords": "ebay",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "idf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt-pow4_w_duc": "",
+        "plain_domain_detail": [
+            {
+                "domain": "ebay",
+                "confidence": 1
+            }
+        ],
+        "log_cnt-pow_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "tf_log_idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "plain_domain": "ebay",
+        "domain_keywords_detail": [
+            {
+                "domain": "ebay",
+                "confidence": 11060744030.5914
+            }
+        ],
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt_idf": "",
+        "tf_log_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "ebay",
+                "confidence": 8
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_cnt-w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert": "ebay"
+    },
+    "phish_score": 0,
+    "subject": "Question from eBay Member regarding Item 150057720098",
+    "list_unsubscribe_invalid_count": 0
+}

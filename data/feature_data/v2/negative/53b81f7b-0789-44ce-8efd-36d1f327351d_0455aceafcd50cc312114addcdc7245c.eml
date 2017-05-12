@@ -1,0 +1,222 @@
+{
+    "adscore": 0, 
+    "ahref_camouflage_count": 0, 
+    "ahref_total_count": 5, 
+    "ahref_verbal_count": 5, 
+    "attachments": [], 
+    "contains_list_header": true, 
+    "content": "CONTENT_DEFAULT", 
+    "date_difference": -72577494, 
+    "dkStatusDetail": "NOT_SIGNED", 
+    "dk_statuses": [
+        {
+            "status": "NEUTRAL", 
+            "statusDetail": "NOT_SIGNED"
+        }
+    ], 
+    "dkim_count": 0, 
+    "dkim_efrom_match": 0, 
+    "dkim_hfrom_match": 0, 
+    "dkim_passed_count": 0, 
+    "dkim_signs_cnt": 1, 
+    "dkstatus": "NEUTRAL", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/0455aceafcd50cc312114addcdc7245c.eml", 
+    "extractedEmails": [
+        "service@antelife.com"
+    ], 
+    "extractedEmailsCardinality": 1, 
+    "extractedEmailsDomainCount": 1, 
+    "extractedEmailsTotalCount": 1, 
+    "extractedHrefUrls": [
+        "http://newsletter.efox-shop.com/x/c/?HY5LbsMwDAWv0lV3jCzbcYoCQjbZ9gyBQLEWU31cmbJze9Xp8g0Gg4dGd32L5jJNUytmHCbdt2C07j6GJkY3b7zI8qn", 
+        "http://newsletter.efox-shop.com/x/c/?Hcq7TsMwFIDhV2HKRpzjBDdBOkJBriBDMwBLu6AkdRqrvskXUfHyBnX8P.0LQkWzxh1jLHtsagY0KwSo2jpHhLzhFqN", 
+        "http://newsletter.efox-shop.com/x/c/?HcpNDsIgEEDhq7hyZ9sBpcZk4qZbz2AIRTuRoQ0dJD09.izfl_cQOlUZe2NMTXjUBlQNCNCddRWEOuEkslzatpTS2Cg", 
+        "http://newsletter.efox-shop.com/x/c/?HcpNDsIgEEDhq7hyWRiq2JhMuunWMxhC0RIZStohxNOPP8v35XkEbYTwYq2VDU_9BSMJAfTQCyPIggtzuSrVWutc5pD", 
+        "http://newsletter.efox-shop.com/x/c/?HcpBDsIgEEDRq7hyZ2FAUZtM3HTrGQyhaIkMbegQ4umxuvwv3yFI1QjPxpiW8agNqBYRQF50Y4Q24cS89ELUWjub2Mf"
+    ], 
+    "extractedHrefUrlsCardinality": 29, 
+    "extractedHrefUrlsDomainCount": 1, 
+    "extractedHrefUrlsTotalCount": 29, 
+    "extractedSrcUrls": [
+        "http://www.antelife.com/media/seo/2015edm/mail2015_5/images/1_20.jpg", 
+        "http://www.antelife.com/media/seo/2015edm/mail2015_5/images/1_21.jpg", 
+        "http://www.antelife.com/media/seo/2015edm/mail2015_5/images/1_22.jpg", 
+        "http://www.antelife.com/media/seo/2015edm/mail2015_5/images/1_23.jpg", 
+        "http://newsletter.efox-shop.com/x/p/?S7Y1NDD6n2trbmZm9r.I1sTYzNDof46toaGBhfH.ElvD.0m2BgAA67"
+    ], 
+    "extractedSrcUrlsCardinality": 27, 
+    "extractedSrcUrlsDomainCount": 2, 
+    "extractedSrcUrlsTotalCount": 27, 
+    "extractedTxtUrls": [
+        "http://antelife.com"
+    ], 
+    "extractedTxtUrlsCardinality": 1, 
+    "extractedTxtUrlsDomainCount": 1, 
+    "extractedTxtUrlsTotalCount": 1, 
+    "first10words": " Antelife New Wearable Tech Affordable Health Fitness Smart Watch Wristband More Trouble viewing this email Click here ", 
+    "from_match": 0, 
+    "header_from": "service@antelife.com", 
+    "header_from_count": 1, 
+    "header_reply_to_count": 1, 
+    "header_total_count": 20, 
+    "html_in_text_plain_count": 0, 
+    "html_script_tag_count": 0, 
+    "html_tag_total_count": 296, 
+    "html_td_tag_count": 92, 
+    "html_tr_tag_count": 62, 
+    "lang": "en", 
+    "last10words": "bout Privacy Policy Payment Methods as well as Return Policy Copyright 2012 2014 antelife com All Rights Reserved antelife com ", 
+    "list_unsubscribe_http_count": 0, 
+    "list_unsubscribe_invalid_count": 0, 
+    "list_unsubscribe_mailto_count": 1, 
+    "list_unsubscribe_total_count": 1, 
+    "list_unsubscribe_urls": [
+        "mailto:unsubscribe@newsletter.efox-shop.com?subject=BcFRCoAgDADQEyVOY.Wzw4QtjLSFM6rTr.cSgQ9WaUJEazRGhGCFAPwcLdPJjxbunZvjTd5Bs1wuSbV9peU__NMfA73"
+    ], 
+    "mime_children_count": 2, 
+    "mime_children_types": [
+        "text/plain", 
+        "text/html"
+    ], 
+    "mime_root_type": "multipart/alternative", 
+    "notches": [
+        {
+            "module": "ill", 
+            "name": [
+                "date_in_past", 
+                "from_missmatch", 
+                "foreign_message_id", 
+                "long_subject"
+            ], 
+            "score": 1.6, 
+            "subscores": [
+                1, 
+                0.0, 
+                0.1, 
+                0.5
+            ]
+        }
+    ], 
+    "now": 1494598175, 
+    "pepca": "pfd4a70871f8f6bd6", 
+    "pepca_inline_style": "pc9745dca88467132", 
+    "pepca_inline_style_total": 0, 
+    "pepca_style": "", 
+    "pepca_style_total": 0, 
+    "pepcatotal": 0, 
+    "phashes": [
+        {
+            "name": "pepca", 
+            "value": "pfd4a70871f8f6bd6"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "pc9745dca88467132"
+        }
+    ], 
+    "phish_score": 0, 
+    "phishing": {
+        "body_richness": 0.334426229508197, 
+        "camouflage": 0, 
+        "fake_https": 0, 
+        "html_form": 0, 
+        "is_html": true, 
+        "max_num_dots_urls": 11, 
+        "max_num_slashes_urls": 3, 
+        "num_black_sheep_link": -1, 
+        "num_black_sheep_link_global": -1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_external_links": 10, 
+        "num_freehost_urls": 0, 
+        "num_html_script_tags": 0, 
+        "num_https_urls": 0, 
+        "num_ip_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "num_of_chars": 1219, 
+        "num_param_phish": 0, 
+        "num_path_phish": 0, 
+        "num_phish_keywords": 1, 
+        "num_sender_diff_url": 1, 
+        "num_shortened_urls": 0, 
+        "num_subdomain_phish": 0, 
+        "num_text_forms": 27, 
+        "num_tld_in_url_path": 0, 
+        "num_www_in_url_path": 0, 
+        "subject_phish_keywords": 0, 
+        "subject_richness": 0.12987012987013, 
+        "suspicious_links": [], 
+        "text_and_href": 0, 
+        "text_link_with_path": 0
+    }, 
+    "precedence": 2, 
+    "rcpts_count": 1, 
+    "rfcid_is_foreign": 1, 
+    "rfcid_is_invalid": false, 
+    "rfcid_length": 68, 
+    "self_send": 0, 
+    "senders": {
+        "cnt-pow4_w_duc": "", 
+        "cnt-pow4_w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "domain_keywords": "aweber", 
+        "domain_keywords_detail": [
+            {
+                "confidence": 219529867.151345, 
+                "domain": "aweber"
+            }
+        ], 
+        "ettf_w_duc": "", 
+        "ettf_w_duc_detail": [], 
+        "idf": "", 
+        "idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "log_cnt-w_duc_detail": [], 
+        "log_cnt_idf": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "log_ecnt_idf": "", 
+        "log_ecnt_idf_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "log_ecnt_log_idf_log_tidf": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "plain_domain": "antelife", 
+        "plain_domain_detail": [
+            {
+                "confidence": 1, 
+                "domain": "antelife"
+            }
+        ], 
+        "src_revert": "gmail", 
+        "src_revert_detail": [
+            {
+                "confidence": 26, 
+                "domain": "gmail"
+            }
+        ], 
+        "tf_log_idf": "", 
+        "tf_log_idf_detail": [], 
+        "ttf_w_duc": "", 
+        "ttf_w_duc_detail": []
+    }, 
+    "spamscore": 1.6, 
+    "spamtrap_hit": false, 
+    "spf_dom_policy_registry": "Policy not found", 
+    "spf_domain_policy": "UNKNOWN", 
+    "spf_status_registry": "Status not found", 
+    "spfstatus": "NONE", 
+    "spfstatus_hfrom": "SPF_ERR", 
+    "subject": "New Wearable Tech Affordable Health Fitness Smart Watch Wristband More", 
+    "subject_image_count": 0, 
+    "subject_word_count": 10, 
+    "word_count": 408
+}

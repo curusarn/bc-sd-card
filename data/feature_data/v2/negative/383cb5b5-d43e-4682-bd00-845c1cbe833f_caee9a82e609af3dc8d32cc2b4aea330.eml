@@ -1,0 +1,222 @@
+{
+    "adscore": 0, 
+    "ahref_camouflage_count": 0, 
+    "ahref_total_count": 3, 
+    "ahref_verbal_count": 3, 
+    "attachments": [], 
+    "contains_list_header": true, 
+    "content": "CONTENT_DEFAULT", 
+    "date_difference": -80107850, 
+    "dkStatusDetail": "DKIM_STAT_NOKEY", 
+    "dk_statuses": [
+        {
+            "domain": "", 
+            "status": "FAIL", 
+            "statusDetail": "DKIM_STAT_NOKEY"
+        }
+    ], 
+    "dkdomain": "", 
+    "dkim_count": 1, 
+    "dkim_efrom_match": 0, 
+    "dkim_hfrom_match": 0, 
+    "dkim_passed_count": 0, 
+    "dkim_signs_cnt": 1, 
+    "dkstatus": "FAIL", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/caee9a82e609af3dc8d32cc2b4aea330.eml", 
+    "extractedEmails": [
+        "sales@dollarphotoclub.com"
+    ], 
+    "extractedEmailsCardinality": 1, 
+    "extractedEmailsDomainCount": 1, 
+    "extractedEmailsTotalCount": 1, 
+    "extractedHrefUrls": [
+        "http://go.dollarphotoclub.com/link/lmlh/twmk2yn/1/Fk4SxfOgliCmDBcL7wY3QQ/aHR0cDovL3d3dy5kb2xsYXJwaG90b2NsdWIuY29tLw", 
+        "http://go.dollarphotoclub.com/link/lmlh/twmk2yn/2/1BXVGF2qfgnujZWJiRRWHg/aHR0cDovL3d3dy5kb2xsYXJwaG90b2NsdWIuY29tL01lbWJlci9vcHQ", 
+        "http://go.dollarphotoclub.com/link/lmlh/twmk2yn/3/V8kxSN2CsulxlXVfPOeJqg/aHR0cDovL3d3dy5kb2xsYXJwaG90b2NsdWIuY29tL01lbWJlci9wcm9", 
+        "http://go.dollarphotoclub.com/link/lmlh/twmk2yn/4/T29xt0peFZIFDCddC6sLiA/aHR0cDovL3d3dy5kb2xsYXJwaG90b2NsdWIuY29tL0luZm8vUHJpdmF"
+    ], 
+    "extractedHrefUrlsCardinality": 4, 
+    "extractedHrefUrlsDomainCount": 1, 
+    "extractedHrefUrlsTotalCount": 4, 
+    "extractedSrcUrls": [
+        "https://dpcs.ftcdn.net/r/pics/cedbe1bcb77e393d806af3240451e64cd389aed3/all/img/logo-dollarphotoclub-261X80.png", 
+        "http://go.dollarphotoclub.com/o/lmlh/4f8d34a7/twmk2yne.gif"
+    ], 
+    "extractedSrcUrlsCardinality": 2, 
+    "extractedSrcUrlsDomainCount": 2, 
+    "extractedSrcUrlsTotalCount": 2, 
+    "extractedTxtUrls": [
+        "http://www.dollarphotoclub.com/Member/reset-password/Y1tYKg9WTRnDcSTWr8HAaFDsqOOaRpup", 
+        "http://www.dollarphotoclub.com."
+    ], 
+    "extractedTxtUrlsCardinality": 2, 
+    "extractedTxtUrlsDomainCount": 1, 
+    "extractedTxtUrlsTotalCount": 2, 
+    "first10words": " Account recovery link enclosed Dobry den pozadal a jste o obnoveni hesla k Vasemu uctu sushisushibar", 
+    "from_match": 0, 
+    "header_from": "contact@dollarphotoclub.com", 
+    "header_from_count": 1, 
+    "header_reply_to_count": 0, 
+    "header_total_count": 14, 
+    "html_in_text_plain_count": 0, 
+    "html_script_tag_count": 0, 
+    "html_tag_total_count": 103, 
+    "html_td_tag_count": 34, 
+    "html_tr_tag_count": 25, 
+    "lang": "cs", 
+    "last10words": " Unsubscribe Change email address Privacy policy Copyright Dollar Photo Club 2014 All rights reserved ", 
+    "list_unsubscribe_http_count": 0, 
+    "list_unsubscribe_invalid_count": 0, 
+    "list_unsubscribe_mailto_count": 1, 
+    "list_unsubscribe_total_count": 1, 
+    "list_unsubscribe_urls": [
+        "mailto:unsub-40aa5476.lmlh.twmk2yn@bnc.mailjet.com"
+    ], 
+    "mime_children_count": 0, 
+    "mime_children_types": [], 
+    "mime_root_type": "text/html", 
+    "notches": [
+        {
+            "module": "ill", 
+            "name": [
+                "date_in_past", 
+                "from_missmatch"
+            ], 
+            "score": 1, 
+            "subscores": [
+                1, 
+                0.0
+            ]
+        }
+    ], 
+    "now": 1494598416, 
+    "pepca": "pce5c514409c03b02", 
+    "pepca_inline_style": "pd219770f204e68ae", 
+    "pepca_inline_style_total": 0, 
+    "pepca_style": "pcdae8cfd67e91013", 
+    "pepca_style_total": 0, 
+    "pepcatotal": 0, 
+    "phashes": [
+        {
+            "name": "pepca", 
+            "value": "pce5c514409c03b02"
+        }, 
+        {
+            "name": "pepca_style", 
+            "value": "pcdae8cfd67e91013"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "pd219770f204e68ae"
+        }
+    ], 
+    "phish_score": 0, 
+    "phishing": {
+        "body_richness": 0.184782608695652, 
+        "camouflage": 0, 
+        "fake_https": 0, 
+        "html_form": 0, 
+        "is_html": true, 
+        "max_num_dots_urls": 3, 
+        "max_num_slashes_urls": 6, 
+        "num_black_sheep_link": -1, 
+        "num_black_sheep_link_global": -1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_external_links": 6, 
+        "num_freehost_urls": 0, 
+        "num_html_script_tags": 0, 
+        "num_https_urls": 1, 
+        "num_ip_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "num_of_chars": 919, 
+        "num_param_phish": 0, 
+        "num_path_phish": 0, 
+        "num_phish_keywords": 11, 
+        "num_sender_diff_url": 0, 
+        "num_shortened_urls": 0, 
+        "num_subdomain_phish": 0, 
+        "num_text_forms": 0, 
+        "num_tld_in_url_path": 0, 
+        "num_www_in_url_path": 0, 
+        "subject_phish_keywords": 2, 
+        "subject_richness": 0.142857142857143, 
+        "suspicious_links": [], 
+        "text_and_href": 0, 
+        "text_link_with_path": 1
+    }, 
+    "precedence": 3, 
+    "rcpts_count": 1, 
+    "rfcid_is_foreign": 0, 
+    "rfcid_is_invalid": false, 
+    "rfcid_length": 38, 
+    "self_send": 0, 
+    "senders": {
+        "cnt-pow4_w_duc": "", 
+        "cnt-pow4_w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "domain_keywords": "aweber", 
+        "domain_keywords_detail": [
+            {
+                "confidence": 173934085.068235, 
+                "domain": "aweber"
+            }
+        ], 
+        "ettf_w_duc": "", 
+        "ettf_w_duc_detail": [], 
+        "idf": "", 
+        "idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "log_cnt-w_duc_detail": [], 
+        "log_cnt_idf": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "log_ecnt_idf": "", 
+        "log_ecnt_idf_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "log_ecnt_log_idf_log_tidf": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "plain_domain": "dollarphotoclub", 
+        "plain_domain_detail": [
+            {
+                "confidence": 1, 
+                "domain": "dollarphotoclub"
+            }
+        ], 
+        "src_revert": "dollarphotoclub", 
+        "src_revert_detail": [
+            {
+                "confidence": 1, 
+                "domain": "dollarphotoclub"
+            }, 
+            {
+                "confidence": 1, 
+                "domain": "fotolia"
+            }
+        ], 
+        "tf_log_idf": "", 
+        "tf_log_idf_detail": [], 
+        "ttf_w_duc": "", 
+        "ttf_w_duc_detail": []
+    }, 
+    "spamscore": 1, 
+    "spamtrap_hit": false, 
+    "spf_dom_policy_registry": "Policy not found", 
+    "spf_domain_policy": "UNKNOWN", 
+    "spf_status_registry": "Status not found", 
+    "spfstatus": "NONE", 
+    "spfstatus_hfrom": "SPF_FAIL", 
+    "subject": "Dollar Photo Club obnoveni hesla", 
+    "subject_image_count": 0, 
+    "subject_word_count": 5, 
+    "word_count": 170
+}

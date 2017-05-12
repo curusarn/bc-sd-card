@@ -1,0 +1,216 @@
+{
+    "adscore": 0, 
+    "ahref_camouflage_count": 0, 
+    "ahref_total_count": 4, 
+    "ahref_verbal_count": 3, 
+    "attachments": [], 
+    "content": "CONTENT_DEFAULT", 
+    "date_difference": -79551007, 
+    "dk_statuses": [
+        {
+            "domain": "slevomat.cz", 
+            "selector": "dkim", 
+            "status": "PASS"
+        }
+    ], 
+    "dkdomain": "slevomat.cz", 
+    "dkim_count": 1, 
+    "dkim_efrom_match": 0, 
+    "dkim_hfrom_match": 1, 
+    "dkim_passed_count": 1, 
+    "dkim_signs_cnt": 1, 
+    "dkselector": "dkim", 
+    "dkstatus": "PASS", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/6e5561256db7284a57d8f30662adf590.eml", 
+    "extractedEmails": [], 
+    "extractedEmailsCardinality": 0, 
+    "extractedEmailsDomainCount": 0, 
+    "extractedEmailsTotalCount": 0, 
+    "extractedHrefUrls": [
+        "https://www.slevomat.cz/?nt_id=1558601783&nt_h=4cff5c53cd72d59e49819c7cf46ecc8dd2252e8e&hash=a8972855d2b877f0", 
+        "https://www.slevomat.cz/ucet/nove-heslo?token=9dea8713c2312055b3a073f4ff04c57d070e2963&tokenType=1&nt_id=1558601783&nt_h=4cff5c5", 
+        "https://www.slevomat.cz/ucet/zneplatneni-odkazu?token=9dea8713c2312055b3a073f4ff04c57d070e2963&tokenType=1&nt_id=1558601783&nt_h", 
+        "https://www.slevomat.cz/kontakt?nt_id=1558601783&nt_h=4cff5c53cd72d59e49819c7cf46ecc8dd2252e8e&hash=a8972855d2b877f0"
+    ], 
+    "extractedHrefUrlsCardinality": 4, 
+    "extractedHrefUrlsDomainCount": 1, 
+    "extractedHrefUrlsTotalCount": 4, 
+    "extractedSrcUrls": [
+        "https://slevomat.sgcdn.cz/static/images/logo-email-s.png", 
+        "https://www.slevomat.cz/notification/read/1558601783?hash=4cff5c53cd72d59e49819c7cf46ecc8dd2252e8e"
+    ], 
+    "extractedSrcUrlsCardinality": 2, 
+    "extractedSrcUrlsDomainCount": 2, 
+    "extractedSrcUrlsTotalCount": 2, 
+    "extractedTxtUrls": [
+        "http://Slevomat.cz"
+    ], 
+    "extractedTxtUrlsCardinality": 1, 
+    "extractedTxtUrlsDomainCount": 1, 
+    "extractedTxtUrlsTotalCount": 1, 
+    "first10words": " Zvolte si nove heslo Hezky den Dominiku Pro zadani noveho hesla k vasemu uctu na Slevomat cz prosim klikn", 
+    "from_match": 0, 
+    "header_from": "pristupoveudaje@slevomat.cz", 
+    "header_from_count": 1, 
+    "header_reply_to_count": 0, 
+    "header_total_count": 16, 
+    "html_in_text_plain_count": 0, 
+    "html_script_tag_count": 0, 
+    "html_tag_total_count": 53, 
+    "html_td_tag_count": 2, 
+    "html_tr_tag_count": 2, 
+    "lang": "cs", 
+    "last10words": "sim kontaktujte Vas Slevomat cz Zijte bohatsi zivot Mate dotaz Radi vam pomuzeme Prosim kontaktujte nas ", 
+    "list_unsubscribe_http_count": 0, 
+    "list_unsubscribe_invalid_count": 0, 
+    "list_unsubscribe_mailto_count": 0, 
+    "list_unsubscribe_total_count": 0, 
+    "mime_children_count": 2, 
+    "mime_children_types": [
+        "text/plain", 
+        "text/html"
+    ], 
+    "mime_root_type": "multipart/alternative", 
+    "notches": [
+        {
+            "module": "ill", 
+            "name": [
+                "date_in_past", 
+                "from_missmatch", 
+                "foreign_message_id"
+            ], 
+            "score": 1.1, 
+            "subscores": [
+                1, 
+                0.0, 
+                0.1
+            ]
+        }
+    ], 
+    "now": 1494598309, 
+    "pepca": "p92ae3d89f32db348", 
+    "pepca_inline_style": "pd2159cc40d809bec", 
+    "pepca_inline_style_total": 0, 
+    "pepca_style": "pf6729eb342bdc4bf", 
+    "pepca_style_total": 8, 
+    "pepcatotal": 0, 
+    "phashes": [
+        {
+            "name": "pepca", 
+            "value": "p92ae3d89f32db348"
+        }, 
+        {
+            "name": "pepca_style", 
+            "value": "pf6729eb342bdc4bf"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "pd2159cc40d809bec"
+        }
+    ], 
+    "phish_score": 0, 
+    "phishing": {
+        "body_richness": 0.156773211567732, 
+        "camouflage": 0, 
+        "fake_https": 0, 
+        "html_form": 0, 
+        "is_html": true, 
+        "max_num_dots_urls": 2, 
+        "max_num_slashes_urls": 2, 
+        "num_black_sheep_link": -1, 
+        "num_black_sheep_link_global": -1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_external_links": 6, 
+        "num_freehost_urls": 0, 
+        "num_html_script_tags": 0, 
+        "num_https_urls": 6, 
+        "num_ip_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "num_of_chars": 656, 
+        "num_param_phish": 0, 
+        "num_path_phish": 0, 
+        "num_phish_keywords": 5, 
+        "num_sender_diff_url": 0, 
+        "num_shortened_urls": 0, 
+        "num_subdomain_phish": 0, 
+        "num_text_forms": 6, 
+        "num_tld_in_url_path": 0, 
+        "num_www_in_url_path": 0, 
+        "subject_phish_keywords": 1, 
+        "subject_richness": 0.181818181818182, 
+        "suspicious_links": [], 
+        "text_and_href": 0, 
+        "text_link_with_path": 0
+    }, 
+    "precedence": 3, 
+    "rcpts_count": 1, 
+    "rfcid_is_foreign": 1, 
+    "rfcid_is_invalid": false, 
+    "rfcid_length": 26, 
+    "self_send": 0, 
+    "senders": {
+        "cnt-pow4_w_duc": "", 
+        "cnt-pow4_w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "domain_keywords": "skrz", 
+        "domain_keywords_detail": [
+            {
+                "confidence": 18090802.29553, 
+                "domain": "skrz"
+            }
+        ], 
+        "ettf_w_duc": "", 
+        "ettf_w_duc_detail": [], 
+        "idf": "", 
+        "idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "log_cnt-w_duc_detail": [], 
+        "log_cnt_idf": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "log_ecnt_idf": "", 
+        "log_ecnt_idf_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "log_ecnt_log_idf_log_tidf": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "plain_domain": "slevomat", 
+        "plain_domain_detail": [
+            {
+                "confidence": 1, 
+                "domain": "slevomat"
+            }
+        ], 
+        "src_revert": "slevomat", 
+        "src_revert_detail": [
+            {
+                "confidence": 2, 
+                "domain": "slevomat"
+            }
+        ], 
+        "tf_log_idf": "", 
+        "tf_log_idf_detail": [], 
+        "ttf_w_duc": "", 
+        "ttf_w_duc_detail": []
+    }, 
+    "spamscore": 1.1, 
+    "spamtrap_hit": false, 
+    "spf_dom_policy_registry": "Policy not found", 
+    "spf_domain_policy": "UNKNOWN", 
+    "spf_status_registry": "Status not found", 
+    "spfstatus": "NONE", 
+    "spfstatus_hfrom": "SPF_NEUTRAL", 
+    "subject": "Zvolte si nove heslo", 
+    "subject_image_count": 0, 
+    "subject_word_count": 4, 
+    "word_count": 103
+}

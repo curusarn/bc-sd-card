@@ -1,0 +1,216 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.1,
+                0.0,
+                0.1,
+                0.1
+            ],
+            "score": 1.3,
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "evil_script",
+                "from_missmatch",
+                "html_a_href_camouflaging",
+                "foreign_message_id"
+            ]
+        }
+    ],
+    "extractedTxtUrls": [
+        "http://CHASE.COM",
+        "https://www.chase.chaseonline.com/profile/database/login/"
+    ],
+    "spfstatus": "NONE",
+    "mime_root_type": "text/html",
+    "header_from_count": 1,
+    "now": 1494597867,
+    "dkim_efrom_match": 0,
+    "pepca_inline_style_total": 0,
+    "rcpts_count": 1,
+    "extractedEmailsTotalCount": 0,
+    "pepca_inline_style": "",
+    "pepca_style_total": 0,
+    "dkim_hfrom_match": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing2/812.eml",
+    "html_td_tag_count": 0,
+    "extractedHrefUrlsCardinality": 1,
+    "list_unsubscribe_mailto_count": 0,
+    "subject_word_count": 6,
+    "lang": "en",
+    "precedence": 3,
+    "phishing": {
+        "num_html_script_tags": 0,
+        "num_text_forms": 1,
+        "fake_https": 1,
+        "is_html": true,
+        "num_non_80_port_urls": 0,
+        "num_https_urls": 1,
+        "num_of_chars": 1199,
+        "num_param_phish": 0,
+        "text_and_href": 0,
+        "body_richness": 0.159166666666667,
+        "text_link_with_path": 1,
+        "max_num_slashes_urls": 7,
+        "num_shortened_urls": 0,
+        "num_sender_diff_url": 2,
+        "num_ip_urls": 0,
+        "num_black_sheep_link": -1,
+        "subject_richness": 0.125,
+        "num_tld_in_url_path": 0,
+        "subject_phish_keywords": 1,
+        "num_black_sheep_link_global": -1,
+        "num_black_sheep_link_phish": 0,
+        "num_path_phish": 0,
+        "suspicious_links": [],
+        "html_form": 0,
+        "num_phish_keywords": 8,
+        "num_subdomain_phish": 0,
+        "num_domain_phish": 0,
+        "ner_domain_detected": true,
+        "camouflage": 1,
+        "num_freehost_urls": 0,
+        "num_external_links": 5,
+        "max_num_dots_urls": 7,
+        "num_www_in_url_path": 0
+    },
+    "spf_status_registry": "Status not found",
+    "rfcid_is_foreign": 1,
+    "from_match": 0,
+    "first10words": " Chase Online Banking Dear CHASE COM Customer This is your official notifica",
+    "extractedTxtUrlsDomainCount": 2,
+    "spf_domain_policy": "UNKNOWN",
+    "header_total_count": 20,
+    "dkim_passed_count": 0,
+    "extractedTxtUrlsCardinality": 2,
+    "dkim_signs_cnt": 1,
+    "mime_children_types": [],
+    "ahref_verbal_count": 0,
+    "subject_image_count": 0,
+    "phish_score": 0,
+    "rfcid_is_invalid": false,
+    "dkstatus": "NEUTRAL",
+    "phashes": [
+        {
+            "value": "pef4d7108f647cbc6",
+            "name": "pepca"
+        },
+        {
+            "value": "pb864e083bac5d7b0",
+            "name": "pepca_style"
+        }
+    ],
+    "extractedTxtUrlsTotalCount": 2,
+    "self_send": 0,
+    "attachments": [],
+    "html_tr_tag_count": 0,
+    "extractedEmails": [],
+    "html_tag_total_count": 109,
+    "mime_children_count": 0,
+    "spamtrap_hit": false,
+    "extractedEmailsDomainCount": 0,
+    "extractedHrefUrlsTotalCount": 1,
+    "extractedSrcUrlsCardinality": 4,
+    "spamscore": 1.3,
+    "ahref_total_count": 1,
+    "extractedEmailsCardinality": 0,
+    "extractedSrcUrlsTotalCount": 4,
+    "dkim_count": 0,
+    "adscore": 0,
+    "pepca": "pef4d7108f647cbc6",
+    "dkStatusDetail": "NOT_SIGNED",
+    "html_script_tag_count": 7,
+    "date_difference": -349228677,
+    "html_in_text_plain_count": 0,
+    "pepca_style": "pb864e083bac5d7b0",
+    "word_count": 191,
+    "rfcid_length": 32,
+    "spf_dom_policy_registry": "Policy not found",
+    "pepcatotal": 0,
+    "last10words": "ification Mail sent to this address cannot be answered 2006 CardMember Services Online Banking All Rights Reserved ",
+    "extractedHrefUrls": [
+        "http://google.com/url?sa=p&pref=ig&pval=2&q=http://65.39.221.204/calendar/tools/?www.chase.com/chaseonline/update/login.jsp"
+    ],
+    "spfstatus_hfrom": "SPF_FAIL",
+    "header_reply_to_count": 0,
+    "senders": {
+        "log_cnt_idf_detail": [],
+        "log_ecnt_idf_detail": [],
+        "tf_log_idf": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "cnt-pow4_w_duc_detail": [],
+        "ttf_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "src_revert": "yahoogroups",
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "plain_domain": "chase",
+        "src_revert_detail": [
+            {
+                "confidence": 2,
+                "domain": "yahoogroups"
+            },
+            {
+                "confidence": 2,
+                "domain": "chase"
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "chase"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "tf_log_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 52727585.920504,
+                "domain": "aweber"
+            }
+        ],
+        "domain_keywords": "aweber",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt_idf": ""
+    },
+    "dk_statuses": [
+        {
+            "statusDetail": "NOT_SIGNED",
+            "status": "NEUTRAL"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "extractedSrcUrls": [
+        "http://www.chase.com/ccpmweb/shared/image/logo_chase.gif",
+        "http://www.chase.com/ccpmweb/card_servicing/image/chaseAll_banner2.jpg",
+        "http://visit.geocities.yahoo.com/visit.gif?us1145397409",
+        "http://geo.yahoo.com/serv?s=76001075&t=1145397409&f=us-w70"
+    ],
+    "list_unsubscribe_http_count": 0,
+    "extractedHrefUrlsDomainCount": 1,
+    "subject": "Official Notification from Chase Online Banking",
+    "list_unsubscribe_total_count": 0,
+    "extractedSrcUrlsDomainCount": 2,
+    "ahref_camouflage_count": 1,
+    "list_unsubscribe_invalid_count": 0,
+    "header_from": "security@chase.com"
+}

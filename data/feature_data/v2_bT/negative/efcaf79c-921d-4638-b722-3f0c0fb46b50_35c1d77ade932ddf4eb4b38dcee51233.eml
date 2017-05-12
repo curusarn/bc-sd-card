@@ -1,0 +1,217 @@
+{
+    "date_difference": -75957696,
+    "html_td_tag_count": 76,
+    "list_unsubscribe_total_count": 0,
+    "precedence": 3,
+    "spfstatus_hfrom": "SPF_SOFTFAIL",
+    "dkim_passed_count": 0,
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.5
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "long_subject"
+            ],
+            "score": 1.5,
+            "module": "ill"
+        }
+    ],
+    "extractedHrefUrlsDomainCount": 3,
+    "first10words": " Hezky den prave jsme prijali platbu a tak uz nic nestoji",
+    "word_count": 251,
+    "pepca": "p45b852ec7a2c1bf1",
+    "extractedSrcUrlsDomainCount": 1,
+    "last10words": "objednavky a aktualni stav kreditu muzete najit v zakaznicke zone Dekujeme za Vas nakup Pepa cz ",
+    "extractedTxtUrlsDomainCount": 1,
+    "pepcatotal": 0,
+    "pepca_style_total": 0,
+    "extractedEmails": [
+        "korenskat@seznam.cz"
+    ],
+    "mime_root_type": "multipart/alternative",
+    "extractedEmailsCardinality": 1,
+    "extractedHrefUrlsTotalCount": 7,
+    "html_tr_tag_count": 38,
+    "pepca_style": "",
+    "dkStatusDetail": "NOT_SIGNED",
+    "header_from_count": 1,
+    "header_total_count": 16,
+    "dk_statuses": [
+        {
+            "status": "NEUTRAL",
+            "statusDetail": "NOT_SIGNED"
+        }
+    ],
+    "ahref_camouflage_count": 0,
+    "extractedSrcUrlsTotalCount": 4,
+    "html_tag_total_count": 165,
+    "header_reply_to_count": 1,
+    "extractedEmailsDomainCount": 1,
+    "dkim_hfrom_match": 0,
+    "dkstatus": "NEUTRAL",
+    "ahref_total_count": 4,
+    "subject_image_count": 0,
+    "extractedTxtUrlsCardinality": 2,
+    "spf_domain_policy": "UNKNOWN",
+    "spf_status_registry": "Status not found",
+    "rfcid_is_foreign": 0,
+    "content": "CONTENT_DEFAULT",
+    "extractedSrcUrls": [
+        "http://www.pepa.cz/images/style-emailnews/pepa.png",
+        "http://www.pepa.cz/images/style-emailnews/pepa_cz.png",
+        "http://www.pepa.cz/images/style-newsletter/new/najdete_nas_na_facebooku2.png",
+        "http://www.pepa.cz/images/style-newsletter/new/sledujte_nas_na_twitteru2.png"
+    ],
+    "lang": "cs",
+    "extractedTxtUrls": [
+        "http://www.pepa.cz/www/temp/templates_c/5cf14573b88ca7d429bc26a102714b9f2e81f165.file.voucher.tpl.php",
+        "http://Pepa.cz"
+    ],
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/35c1d77ade932ddf4eb4b38dcee51233.eml",
+    "spamscore": 1.5,
+    "attachments": [],
+    "extractedSrcUrlsCardinality": 4,
+    "from_match": 0,
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p45b852ec7a2c1bf1"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p182af08831ae16af"
+        }
+    ],
+    "extractedHrefUrls": [
+        "https://twitter.com/#!/Pepa_CZ",
+        "http://www.pepa.cz/az-hodina-profesionalniho-fotografovani-pro-1-2-osoby-v-atelieru-km-agency-14472",
+        "http://www.pepa.cz/vystaveni-voucheru?generator_hash=4ccd3b3cd6fb0143b901c859ecefd687",
+        "http://www.pepa.cz/vystaveni-voucheru-dalsi-navsteva/?generator_hash=4d54ac224b42c598993392a38fb67277fe91ccad",
+        "http://www.pepa.cz/zakaznik"
+    ],
+    "pepca_inline_style": "p182af08831ae16af",
+    "pepca_inline_style_total": 0,
+    "self_send": 0,
+    "now": 1494598230,
+    "mime_children_count": 2,
+    "ahref_verbal_count": 4,
+    "extractedTxtUrlsTotalCount": 2,
+    "subject_word_count": 12,
+    "rcpts_count": 1,
+    "dkim_count": 0,
+    "rfcid_is_invalid": false,
+    "header_from": "voucher@pepa.cz",
+    "list_unsubscribe_mailto_count": 0,
+    "rfcid_length": 54,
+    "html_in_text_plain_count": 0,
+    "extractedHrefUrlsCardinality": 7,
+    "html_script_tag_count": 0,
+    "dkim_efrom_match": 0,
+    "adscore": 0,
+    "mime_children_types": [
+        "text/plain",
+        "text/html"
+    ],
+    "dkim_signs_cnt": 1,
+    "spfstatus": "NONE",
+    "extractedEmailsTotalCount": 1,
+    "spamtrap_hit": false,
+    "spf_dom_policy_registry": "Policy not found",
+    "list_unsubscribe_http_count": 0,
+    "phishing": {
+        "body_richness": 0.253024193548387,
+        "num_black_sheep_link": -1,
+        "subject_richness": 0.173913043478261,
+        "max_num_slashes_urls": 4,
+        "num_https_urls": 2,
+        "camouflage": 0,
+        "ner_domain_detected": false,
+        "html_form": 0,
+        "num_subdomain_phish": 0,
+        "num_external_links": 9,
+        "fake_https": 0,
+        "num_html_script_tags": 0,
+        "num_freehost_urls": 0,
+        "num_phish_keywords": 2,
+        "suspicious_links": [],
+        "num_sender_diff_url": 2,
+        "text_and_href": 0,
+        "subject_phish_keywords": 0,
+        "num_www_in_url_path": 0,
+        "num_domain_phish": 0,
+        "num_of_chars": 991,
+        "num_ip_urls": 0,
+        "num_path_phish": 0,
+        "num_param_phish": 0,
+        "max_num_dots_urls": 6,
+        "num_tld_in_url_path": 0,
+        "is_html": true,
+        "num_black_sheep_link_phish": 0,
+        "num_non_80_port_urls": 0,
+        "num_text_forms": 0,
+        "num_black_sheep_link_global": -1,
+        "text_link_with_path": 1,
+        "num_shortened_urls": 0
+    },
+    "senders": {
+        "domain_keywords": "autoscout24",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "idf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt-pow4_w_duc": "",
+        "plain_domain_detail": [
+            {
+                "domain": "pepa",
+                "confidence": 2
+            }
+        ],
+        "log_cnt-pow_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "tf_log_idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "plain_domain": "pepa",
+        "domain_keywords_detail": [
+            {
+                "domain": "autoscout24",
+                "confidence": 24383928.867801
+            }
+        ],
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt_idf": "",
+        "tf_log_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "pepa",
+                "confidence": 4
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_cnt-w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert": "pepa"
+    },
+    "phish_score": 0,
+    "subject": "Objednane vouchery objednavka c 5066902014 Pepa cz 15 12 2014 11 48",
+    "list_unsubscribe_invalid_count": 0
+}

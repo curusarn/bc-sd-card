@@ -1,0 +1,225 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ]
+        }
+    ],
+    "rfcid_is_invalid": false,
+    "spfstatus": "NONE",
+    "mime_root_type": "multipart/alternative",
+    "header_from_count": 1,
+    "now": 1494598271,
+    "dkim_efrom_match": 0,
+    "pepca_inline_style_total": 0,
+    "rcpts_count": 1,
+    "extractedEmailsTotalCount": 4,
+    "pepca_inline_style": "p0fbe199a4dee8a25",
+    "pepca_style_total": 0,
+    "dkselector": "dkim",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/5583267b0499d4a3a93aa2172c05ce86.eml",
+    "html_td_tag_count": 146,
+    "extractedHrefUrlsCardinality": 14,
+    "list_unsubscribe_mailto_count": 0,
+    "subject_word_count": 3,
+    "lang": "cs",
+    "precedence": 3,
+    "phishing": {
+        "num_html_script_tags": 0,
+        "num_text_forms": 4,
+        "fake_https": 0,
+        "is_html": true,
+        "num_non_80_port_urls": 0,
+        "num_https_urls": 0,
+        "num_of_chars": 1445,
+        "num_param_phish": 0,
+        "text_and_href": 0,
+        "body_richness": 0.344398340248963,
+        "text_link_with_path": 0,
+        "max_num_slashes_urls": 2,
+        "num_shortened_urls": 0,
+        "num_sender_diff_url": 0,
+        "num_ip_urls": 0,
+        "num_black_sheep_link": -1,
+        "subject_richness": 0.166666666666667,
+        "num_tld_in_url_path": 0,
+        "subject_phish_keywords": 1,
+        "num_black_sheep_link_global": -1,
+        "num_black_sheep_link_phish": 0,
+        "num_path_phish": 0,
+        "suspicious_links": [],
+        "html_form": 0,
+        "num_phish_keywords": 6,
+        "num_subdomain_phish": 0,
+        "num_domain_phish": 0,
+        "ner_domain_detected": false,
+        "camouflage": 0,
+        "num_freehost_urls": 1,
+        "num_external_links": 10,
+        "max_num_dots_urls": 4,
+        "num_www_in_url_path": 0
+    },
+    "spf_status_registry": "Status not found",
+    "rfcid_is_foreign": 1,
+    "from_match": 0,
+    "first10words": " eDarling Newsletter Zvolte si sve nove heslo Verze pro web Profil Navrhy partner",
+    "spf_domain_policy": "UNKNOWN",
+    "header_total_count": 17,
+    "dkim_passed_count": 1,
+    "dkim_signs_cnt": 1,
+    "mime_children_types": [
+        "text/plain",
+        "text/html"
+    ],
+    "ahref_verbal_count": 11,
+    "subject_image_count": 0,
+    "phish_score": 0,
+    "self_send": 0,
+    "dkstatus": "PASS",
+    "unsub_link_texts": [
+        " kliknout zde ",
+        "si dostavat dalsi e mail a chtit li individualne upravit nastaveni zprava ci odhlasit newsletter kliknout zde "
+    ],
+    "phashes": [
+        {
+            "value": "p76e9b90120e7eaea",
+            "name": "pepca"
+        },
+        {
+            "value": "p762d243f30736bc8",
+            "name": "pepca_style"
+        },
+        {
+            "value": "p0fbe199a4dee8a25",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "contains_list_header": true,
+    "dkdomain": "news.edarling.cz",
+    "html_tr_tag_count": 70,
+    "extractedEmails": [
+        "info@edarling.cz",
+        "lejno96@seznam.cz",
+        "lejno96@seznam.cz.",
+        "info@edarling.cz."
+    ],
+    "html_tag_total_count": 398,
+    "mime_children_count": 2,
+    "spamtrap_hit": false,
+    "extractedEmailsDomainCount": 4,
+    "extractedHrefUrlsTotalCount": 14,
+    "dk_statuses": [
+        {
+            "selector": "dkim",
+            "status": "PASS",
+            "domain": "news.edarling.cz"
+        }
+    ],
+    "extractedSrcUrlsCardinality": 6,
+    "senders": {
+        "log_cnt_idf_detail": [],
+        "log_ecnt_idf_detail": [],
+        "tf_log_idf": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "cnt-pow4_w_duc_detail": [],
+        "ttf_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "src_revert": "edarling",
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "plain_domain": "",
+        "src_revert_detail": [
+            {
+                "confidence": 6,
+                "domain": "edarling"
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "tf_log_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 193148743.976716,
+                "domain": "edarling"
+            }
+        ],
+        "domain_keywords": "edarling",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt_idf": ""
+    },
+    "spamscore": 1.1,
+    "ahref_total_count": 12,
+    "extractedEmailsCardinality": 4,
+    "extractedSrcUrlsTotalCount": 6,
+    "dkim_count": 1,
+    "adscore": 0,
+    "pepca": "p76e9b90120e7eaea",
+    "unsub_link_candidates": [
+        "http://news.edarling.cz/c/r?ACTION=ri&EMID=09004H6015VIL01AHI66U&UID=GKDB2LQSYZRWZFXI3MUA",
+        "http://news.edarling.cz/c/r?ACTION=ri&EMID=09004H6015VIM001JHKU5&UID=GKDB2LQSYZRWZFXI3MUA"
+    ],
+    "html_script_tag_count": 0,
+    "date_difference": -79555944,
+    "html_in_text_plain_count": 0,
+    "pepca_style": "p762d243f30736bc8",
+    "word_count": 498,
+    "rfcid_length": 31,
+    "spf_dom_policy_registry": "Policy not found",
+    "pepcatotal": 0,
+    "last10words": "d rejstriku pod cislem HRB 115958 obvodni soud Berlin Charlottenburg USt ID DE263260611 Kontaktujte info edarling cz ",
+    "extractedHrefUrls": [
+        "http://news.edarling.cz/c/r?ACTION=ri&EMID=09004H6015VIL01AHI66U&UID=GKDB2LQSYZRWZFXI3MUA",
+        "http://news.edarling.cz/c/r?ACTION=ri&EMID=09004H6015VIM001JHKU5&UID=GKDB2LQSYZRWZFXI3MUA",
+        "http://news.edarling.cz/c/r?ACTION=ri&EMID=08G04H6CEUD0055JRND&UID=GKDB2LQSYZRWZFXI3MUA",
+        "http://news.edarling.cz/c/r?ACTION=ri&EMID=08G04H6CEUE01S6J6CJ&UID=GKDB2LQSYZRWZFXI3MUA",
+        "http://news.edarling.cz/c/r?ACTION=ri&EMID=08G04H6CEUF00ITLDEQ&UID=GKDB2LQSYZRWZFXI3MUA"
+    ],
+    "spfstatus_hfrom": "SPF_FAIL",
+    "header_reply_to_count": 1,
+    "dkim_hfrom_match": 1,
+    "attachments": [],
+    "content": "CONTENT_DEFAULT",
+    "extractedSrcUrls": [
+        "http://www.fagms.net/images/3431/M-3431-5493564-spacer.gif",
+        "http://media.edarling.cz/staticImages_Transaktionsmailing/cz/header-cz-short.png",
+        "http://media.edarling.de/staticImages_Transaktionsmailing/CMS_footericons_fb.gif",
+        "http://media.edarling.de/staticImages_Transaktionsmailing/CMS_footericons_twitter.gif",
+        "http://media.edarling.de/staticImages_Transaktionsmailing/CMS_footericons_yt.gif"
+    ],
+    "list_unsubscribe_http_count": 0,
+    "unsub_link": "http://news.edarling.cz/c/r?ACTION=ri&EMID=09004H6015VIM001JHKU5&UID=GKDB2LQSYZRWZFXI3MUA",
+    "extractedHrefUrlsDomainCount": 1,
+    "subject": "Vase nove heslo",
+    "list_unsubscribe_total_count": 0,
+    "extractedSrcUrlsDomainCount": 3,
+    "ahref_camouflage_count": 0,
+    "list_unsubscribe_invalid_count": 0,
+    "header_from": "info@news.edarling.cz"
+}

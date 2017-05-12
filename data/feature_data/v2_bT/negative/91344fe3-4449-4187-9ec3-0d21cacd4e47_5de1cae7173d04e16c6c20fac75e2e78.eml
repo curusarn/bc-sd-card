@@ -1,0 +1,237 @@
+{
+    "spf_dom_policy_registry": "Policy not found",
+    "precedence": 3,
+    "contains_list_header": true,
+    "extractedSrcUrlsDomainCount": 1,
+    "extractedTxtUrlsDomainCount": 2,
+    "html_tr_tag_count": 182,
+    "extractedEmailsCardinality": 1,
+    "spfstatus_hfrom": "SPF_FAIL",
+    "rcpts_count": 1,
+    "header_total_count": 15,
+    "dkstatus": "PASS",
+    "extractedSrcUrlsTotalCount": 21,
+    "html_tag_total_count": 766,
+    "header_reply_to_count": 1,
+    "pepca_style": "p6eacf383e2d2b83e",
+    "ahref_camouflage_count": 0,
+    "extractedTxtUrlsCardinality": 2,
+    "content": "CONTENT_DEFAULT",
+    "html_td_tag_count": 248,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/5de1cae7173d04e16c6c20fac75e2e78.eml",
+    "spamscore": 1.6,
+    "extractedSrcUrlsCardinality": 21,
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1,
+                0.5
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id",
+                "long_subject"
+            ],
+            "score": 1.6,
+            "module": "ill"
+        }
+    ],
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p2cf69c9263202fa7"
+        },
+        {
+            "name": "pepca_style",
+            "value": "p6eacf383e2d2b83e"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pb405b687a639b6eb"
+        }
+    ],
+    "list_unsubscribe_urls": [
+        "mailto:leave-fc7f15797661037c777b28313958-fdfa15757164037977137775-fe65167073640d7a7516-fec715777267017c-ffce15@leave.mail.hotels.com"
+    ],
+    "now": 1494598285,
+    "html_in_text_plain_count": 0,
+    "last10words": "se sidlem na adrese 5400 LBJ Freeway Suite 500 Dallas TX 75240 USA C O 407 St John Street London EC1V 4EX Velka Britanie ",
+    "spf_domain_policy": "UNKNOWN",
+    "dkim_count": 1,
+    "unsub_link_texts": [
+        " chtit zrusit odber tento sdeleni "
+    ],
+    "rfcid_is_invalid": false,
+    "list_unsubscribe_mailto_count": 1,
+    "pepcatotal": 0,
+    "word_count": 1005,
+    "html_script_tag_count": 0,
+    "dkim_efrom_match": 0,
+    "unsub_link_candidates": [
+        "http://click.mail.hotels.com/?qs=9d3977d8f5cad7ba1bea0b63df7827c3b22cc7c0c44338fe4140dbdd817cdb58fd02c6b1b24b94dc68e580abf1943f9a"
+    ],
+    "extractedEmails": [
+        "coati66@post.cz"
+    ],
+    "spfstatus": "NONE",
+    "phish_score": 0,
+    "date_difference": -79965408,
+    "extractedTxtUrls": [
+        "http://a.tel:",
+        "http://Hotels.com"
+    ],
+    "list_unsubscribe_total_count": 1,
+    "dkim_passed_count": 1,
+    "extractedHrefUrlsDomainCount": 1,
+    "first10words": " Domovska stranka Nabidky hotelu Zakaznicka sluzba Zobrazit v prohlizeci ",
+    "pepca": "p2cf69c9263202fa7",
+    "pepca_style_total": 1,
+    "unsub_link": "http://click.mail.hotels.com/?qs=9d3977d8f5cad7ba1bea0b63df7827c3b22cc7c0c44338fe4140dbdd817cdb58fd02c6b1b24b94dc68e580abf1943f9a",
+    "extractedEmailsTotalCount": 1,
+    "rfcid_is_foreign": 1,
+    "attachments": [],
+    "pepca_inline_style_total": 0,
+    "header_from_count": 1,
+    "mime_children_types": [
+        "text/plain",
+        "text/html"
+    ],
+    "subject": "Dekujeme ze jste se zaregistrovali k odberu e mailu od spolecnosti Hotels com",
+    "dkdomain": "mail.hotels.com",
+    "senders": {
+        "domain_keywords": "topsleva",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "idf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt-pow4_w_duc": "",
+        "plain_domain_detail": [
+            {
+                "domain": "hotels",
+                "confidence": 1
+            }
+        ],
+        "log_cnt-pow_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "tf_log_idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "plain_domain": "hotels",
+        "domain_keywords_detail": [
+            {
+                "domain": "topsleva",
+                "confidence": 113754696.427068
+            }
+        ],
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt_idf": "",
+        "tf_log_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "hotels",
+                "confidence": 21
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_cnt-w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert": "hotels"
+    },
+    "dkim_hfrom_match": 1,
+    "ahref_total_count": 32,
+    "list_unsubscribe_http_count": 0,
+    "extractedSrcUrls": [
+        "https://image.mail.hotels.com/lib/fec715777267017c/m/22/app_download_devices_125x64.png",
+        "http://image.mail.hotels.com/lib/fec715777267017c/m/23/icon_apple_60x60_active.png",
+        "https://image.mail.hotels.com/lib/fec715777267017c/m/23/icon_android_60x60_active.png",
+        "http://image.mail.hotels.com/lib/fec715777267017c/m/23/icon_windows_60x60_active.png",
+        "http://click.mail.hotels.com/open.aspx?ffcb10-fe65167073640d7a7516-fdc91570756604747d11797560-fec715777267017c-fe9315797661037c7"
+    ],
+    "subject_image_count": 0,
+    "extractedHrefUrlsTotalCount": 32,
+    "dk_statuses": [
+        {
+            "status": "PASS",
+            "selector": "200608",
+            "domain": "mail.hotels.com"
+        }
+    ],
+    "from_match": 0,
+    "lang": "cs",
+    "extractedHrefUrls": [
+        "http://click.mail.hotels.com/?qs=9d3977d8f5cad7ba9da3b72495e6f8f3a1871fec0f02204b2217c4ff9596777d9393c91b2ee6ed30519f25b6b4fd061",
+        "http://click.mail.hotels.com/?qs=9d3977d8f5cad7ba4b58442b60bc5781ba52dc8721a4682a57f138a96e3390aa4489743df38f225025da5dd928055dd",
+        "http://click.mail.hotels.com/?qs=9d3977d8f5cad7ba1bea0b63df7827c3b22cc7c0c44338fe4140dbdd817cdb58fd02c6b1b24b94dc68e580abf1943f9",
+        "http://click.mail.hotels.com/?qs=9d3977d8f5cad7ba6b5859783393ea1b72aa52c48dc03d083ba405fc4176be2516874e33bb2fc33b14b9ce6691cfa8f",
+        "http://click.mail.hotels.com/?qs=9d3977d8f5cad7ba337654d4dd668c07a6c9d6c6e516d6c0f32ecc1da5ed765bc8b153a41d6c57bd6698b9fe57733bc"
+    ],
+    "pepca_inline_style": "pb405b687a639b6eb",
+    "self_send": 0,
+    "ahref_verbal_count": 29,
+    "extractedTxtUrlsTotalCount": 2,
+    "subject_word_count": 13,
+    "extractedEmailsDomainCount": 1,
+    "header_from": "info@mail.hotels.com",
+    "mime_root_type": "multipart/alternative",
+    "rfcid_length": 57,
+    "mime_children_count": 2,
+    "extractedHrefUrlsCardinality": 32,
+    "adscore": 0,
+    "dkim_signs_cnt": 1,
+    "spamtrap_hit": false,
+    "spf_status_registry": "Status not found",
+    "dkselector": "200608",
+    "phishing": {
+        "body_richness": 0.366253644314869,
+        "num_black_sheep_link": -1,
+        "subject_richness": 0.152941176470588,
+        "max_num_slashes_urls": 1,
+        "num_https_urls": 7,
+        "camouflage": 0,
+        "ner_domain_detected": false,
+        "html_form": 0,
+        "num_subdomain_phish": 0,
+        "num_external_links": 10,
+        "fake_https": 0,
+        "num_html_script_tags": 0,
+        "num_freehost_urls": 0,
+        "num_phish_keywords": 4,
+        "suspicious_links": [],
+        "num_sender_diff_url": 1,
+        "text_and_href": 0,
+        "subject_phish_keywords": 0,
+        "num_www_in_url_path": 0,
+        "num_domain_phish": 0,
+        "num_of_chars": 2743,
+        "num_ip_urls": 0,
+        "num_path_phish": 0,
+        "num_param_phish": 0,
+        "max_num_dots_urls": 3,
+        "num_tld_in_url_path": 0,
+        "is_html": true,
+        "num_black_sheep_link_phish": 0,
+        "num_non_80_port_urls": 0,
+        "num_text_forms": 104,
+        "num_black_sheep_link_global": -1,
+        "text_link_with_path": 0,
+        "num_shortened_urls": 0
+    },
+    "list_unsubscribe_invalid_count": 0
+}

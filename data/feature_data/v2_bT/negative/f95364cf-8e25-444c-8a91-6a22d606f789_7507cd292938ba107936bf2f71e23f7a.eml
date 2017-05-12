@@ -1,0 +1,309 @@
+{
+    "date_difference": -75957752,
+    "html_td_tag_count": 142,
+    "list_unsubscribe_total_count": 0,
+    "precedence": 3,
+    "spfstatus_hfrom": "SPF_NONE",
+    "dkim_passed_count": 0,
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "extractedHrefUrlsDomainCount": 1,
+    "first10words": " Vase objednavka Dekujeme mnohokrat za Vasi objednavku Objednavku jsme prijali a probiha jeji zpracovani Zde je preh",
+    "word_count": 395,
+    "pepca": "p5f96567eb1d97ea0",
+    "extractedSrcUrlsDomainCount": 1,
+    "last10words": " mobil 777300734 777300733 ICO 25433130 DIC CZ25433130 Cislo uctu 233363208 0300 objednavky k sporting cz ",
+    "extractedTxtUrlsDomainCount": 1,
+    "pepcatotal": 0,
+    "pepca_style_total": 0,
+    "extractedEmails": [
+        "objednavky@k-sporting.cz.",
+        "MiroslavUlman@seznam.cz",
+        "objednavky@k-sporting.cz"
+    ],
+    "mime_root_type": "multipart/related",
+    "extractedEmailsCardinality": 3,
+    "extractedHrefUrlsTotalCount": 12,
+    "html_tr_tag_count": 36,
+    "pepca_style": "",
+    "dkStatusDetail": "NOT_SIGNED",
+    "header_from_count": 1,
+    "header_total_count": 11,
+    "dk_statuses": [
+        {
+            "status": "NEUTRAL",
+            "statusDetail": "NOT_SIGNED"
+        }
+    ],
+    "ahref_camouflage_count": 0,
+    "extractedSrcUrlsTotalCount": 7,
+    "html_tag_total_count": 337,
+    "header_reply_to_count": 1,
+    "extractedEmailsDomainCount": 3,
+    "dkim_hfrom_match": 0,
+    "dkstatus": "NEUTRAL",
+    "ahref_total_count": 13,
+    "subject_image_count": 0,
+    "extractedTxtUrlsCardinality": 1,
+    "spf_domain_policy": "UNKNOWN",
+    "spf_status_registry": "Status not found",
+    "rfcid_is_foreign": 0,
+    "content": "CONTENT_DEFAULT",
+    "extractedSrcUrls": [
+        "cid:cdaf531edb09f82eaa22c3e7281bf8ba",
+        "cid:cda7d0655a694226207f801c971bd417",
+        "cid:cdac1513252f79d756417d4b9d4e2eff",
+        "cid:cda08a1108b3d1d0a620909e5019c727",
+        "http://www.ksporting.cz//out/pictures/wysiwigpro/logo_ksporting_150.jpg"
+    ],
+    "lang": "cs",
+    "extractedTxtUrls": [
+        "http://www.ksporting.cz"
+    ],
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/7507cd292938ba107936bf2f71e23f7a.eml",
+    "spamscore": 1,
+    "attachments": [
+        {
+            "flags": 0,
+            "cte": "BASE64",
+            "name": "image",
+            "size": 3148,
+            "mime_type": "image/gif",
+            "sumphash": "3dd52ee8c85878b4aa9c5867ec013dbf",
+            "cid": "cda3307cafbb651426236c63f8b608f4",
+            "pepca": "p1bac8c030662bd51"
+        },
+        {
+            "flags": 0,
+            "cte": "BASE64",
+            "name": "image",
+            "size": 1568,
+            "mime_type": "image/jpeg",
+            "sumphash": "ef7c55f0ef06c23eef8bc5caaa082481",
+            "cid": "cda9ff80fcde41300432d58db3f0b058",
+            "pepca": "p27c0f28fc8d1e197"
+        },
+        {
+            "flags": 0,
+            "cte": "BASE64",
+            "name": "image",
+            "size": 1309,
+            "mime_type": "image/jpeg",
+            "sumphash": "a85937d160345ba02f7a88fe3c1ee7b5",
+            "cid": "cdaf531edb09f82eaa22c3e7281bf8ba",
+            "pepca": "p4ce22b601898e845"
+        },
+        {
+            "flags": 0,
+            "cte": "BASE64",
+            "name": "image",
+            "size": 2438,
+            "mime_type": "image/jpeg",
+            "sumphash": "4795550d7f4c2fb956d30417d74e8a8d",
+            "cid": "cda7d0655a694226207f801c971bd417",
+            "pepca": "p6e805f3bca2e1e2f"
+        },
+        {
+            "flags": 0,
+            "cte": "BASE64",
+            "name": "image",
+            "size": 2225,
+            "mime_type": "image/jpeg",
+            "sumphash": "dc5e2c5e083a9c2480ee99a55641e963",
+            "cid": "cdac1513252f79d756417d4b9d4e2eff",
+            "pepca": "p4b961799f5fbe401"
+        },
+        {
+            "flags": 0,
+            "cte": "BASE64",
+            "name": "image",
+            "size": 2412,
+            "mime_type": "image/jpeg",
+            "sumphash": "b12b7231d3aa9f7154d64894ff912a5c",
+            "cid": "cda08a1108b3d1d0a620909e5019c727",
+            "pepca": "p087eb8d6f0264333"
+        }
+    ],
+    "extractedSrcUrlsCardinality": 7,
+    "from_match": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p1bac8c030662bd51"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p27c0f28fc8d1e197"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p4ce22b601898e845"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p6e805f3bca2e1e2f"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p4b961799f5fbe401"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p087eb8d6f0264333"
+        },
+        {
+            "name": "pepca",
+            "value": "p5f96567eb1d97ea0"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p54f1ca36e867b7bf"
+        }
+    ],
+    "extractedHrefUrls": [
+        "http://www.ksporting.cz/batohy-skolni-mestske/nordblanc-batoh-28-litru-1-1.html",
+        "http://www.ksporting.cz/index.php?shp=oxbaseshop&anid=6907&cl=review&reviewuserhash=55b5a46e05363d2f3e4e823782d36bb0",
+        "http://www.ksporting.cz/panska-salova-obuv/vellum-ii-uk-11-5-vellum-ii-uk-11-5.html",
+        "http://www.ksporting.cz/index.php?shp=oxbaseshop&anid=8609&cl=review&reviewuserhash=55b5a46e05363d2f3e4e823782d36bb0",
+        "http://www.ksporting.cz"
+    ],
+    "pepca_inline_style": "p54f1ca36e867b7bf",
+    "pepca_inline_style_total": 0,
+    "self_send": 0,
+    "now": 1494598318,
+    "mime_children_count": 7,
+    "ahref_verbal_count": 11,
+    "extractedTxtUrlsTotalCount": 1,
+    "subject_word_count": 3,
+    "rcpts_count": 1,
+    "dkim_count": 0,
+    "rfcid_is_invalid": false,
+    "header_from": "objednavky@k-sporting.cz",
+    "list_unsubscribe_mailto_count": 0,
+    "rfcid_length": 49,
+    "html_in_text_plain_count": 0,
+    "extractedHrefUrlsCardinality": 12,
+    "html_script_tag_count": 0,
+    "dkim_efrom_match": 0,
+    "adscore": 0,
+    "mime_children_types": [
+        "multipart/alternative",
+        "image/gif",
+        "image/jpeg",
+        "image/jpeg",
+        "image/jpeg",
+        "image/jpeg",
+        "image/jpeg"
+    ],
+    "dkim_signs_cnt": 1,
+    "spfstatus": "NONE",
+    "extractedEmailsTotalCount": 3,
+    "spamtrap_hit": false,
+    "spf_dom_policy_registry": "Policy not found",
+    "list_unsubscribe_http_count": 0,
+    "phishing": {
+        "body_richness": 0.228720324261726,
+        "num_black_sheep_link": -1,
+        "subject_richness": 0.111111111111111,
+        "max_num_slashes_urls": 2,
+        "num_https_urls": 0,
+        "camouflage": 0,
+        "ner_domain_detected": true,
+        "html_form": 0,
+        "num_subdomain_phish": 0,
+        "num_external_links": 6,
+        "fake_https": 0,
+        "5_top_domains_id_0": 0,
+        "num_html_script_tags": 0,
+        "num_freehost_urls": 0,
+        "num_phish_keywords": 1,
+        "suspicious_links": [],
+        "num_sender_diff_url": 1,
+        "text_and_href": 1,
+        "subject_phish_keywords": 0,
+        "num_www_in_url_path": 0,
+        "num_domain_phish": 0,
+        "5_top_domains_percent_0": 1.0,
+        "num_of_chars": 1726,
+        "num_ip_urls": 0,
+        "num_path_phish": 0,
+        "num_param_phish": 0,
+        "max_num_dots_urls": 3,
+        "num_tld_in_url_path": 0,
+        "is_html": true,
+        "num_black_sheep_link_phish": 0,
+        "num_non_80_port_urls": 0,
+        "num_text_forms": 1,
+        "num_black_sheep_link_global": -1,
+        "text_link_with_path": 0,
+        "num_shortened_urls": 0
+    },
+    "senders": {
+        "domain_keywords": "masterinter",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "idf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt-pow4_w_duc": "",
+        "plain_domain_detail": [
+            {
+                "domain": "ksporting",
+                "confidence": 1
+            }
+        ],
+        "log_cnt-pow_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "tf_log_idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "plain_domain": "ksporting",
+        "domain_keywords_detail": [
+            {
+                "domain": "masterinter",
+                "confidence": 38236843.485264
+            }
+        ],
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt_idf": "",
+        "tf_log_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "k-sporting",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_cnt-w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert": "k-sporting"
+    },
+    "phish_score": 0,
+    "subject": "Vase objednavka 11252 ",
+    "list_unsubscribe_invalid_count": 0
+}

@@ -1,0 +1,227 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ]
+        }
+    ],
+    "extractedTxtUrls": [
+        "http://www.kupi.cz",
+        "http://Kupi.cz",
+        "http://www.kupi.cz."
+    ],
+    "spfstatus": "NONE",
+    "mime_root_type": "multipart/related",
+    "header_from_count": 1,
+    "now": 1494598303,
+    "dkim_efrom_match": 0,
+    "pepca_inline_style_total": 2,
+    "rcpts_count": 1,
+    "extractedEmailsTotalCount": 3,
+    "pepca_inline_style": "p9d7b98ea4390e383",
+    "pepca_style_total": 2,
+    "dkselector": "default",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/6aeb8e4f9679eb3567e1fd9a5a9a34b5.eml",
+    "html_td_tag_count": 0,
+    "extractedHrefUrlsCardinality": 1,
+    "list_unsubscribe_mailto_count": 0,
+    "subject_word_count": 5,
+    "lang": "cs",
+    "precedence": 3,
+    "phishing": {
+        "num_html_script_tags": 0,
+        "num_text_forms": 1,
+        "fake_https": 0,
+        "is_html": true,
+        "num_non_80_port_urls": 0,
+        "num_https_urls": 0,
+        "num_of_chars": 349,
+        "num_param_phish": 0,
+        "text_and_href": 1,
+        "body_richness": 0.18,
+        "text_link_with_path": 0,
+        "max_num_slashes_urls": 0,
+        "num_shortened_urls": 0,
+        "num_sender_diff_url": 0,
+        "num_ip_urls": 0,
+        "num_black_sheep_link": -1,
+        "subject_richness": 0.208333333333333,
+        "num_tld_in_url_path": 0,
+        "subject_phish_keywords": 1,
+        "num_black_sheep_link_global": -1,
+        "num_black_sheep_link_phish": 0,
+        "num_path_phish": 0,
+        "suspicious_links": [],
+        "html_form": 0,
+        "num_phish_keywords": 5,
+        "num_subdomain_phish": 0,
+        "num_domain_phish": 0,
+        "ner_domain_detected": false,
+        "camouflage": 0,
+        "num_freehost_urls": 0,
+        "num_external_links": 1,
+        "max_num_dots_urls": 3,
+        "num_www_in_url_path": 0
+    },
+    "spf_status_registry": "Status not found",
+    "rfcid_is_foreign": 0,
+    "from_match": 0,
+    "first10words": " Zmena hesla na Kupi cz Zmena hesla Dobry den potvrzujeme zmenu Vaseho hesla na www kupi cz vase prihlasovaci jmeno mnk f",
+    "extractedTxtUrlsDomainCount": 1,
+    "spf_domain_policy": "UNKNOWN",
+    "header_total_count": 14,
+    "dkim_passed_count": 1,
+    "extractedTxtUrlsCardinality": 3,
+    "dkim_signs_cnt": 1,
+    "mime_children_types": [
+        "text/html",
+        "image/png"
+    ],
+    "ahref_verbal_count": 0,
+    "subject_image_count": 0,
+    "phish_score": 0,
+    "rfcid_is_invalid": false,
+    "dkstatus": "PASS",
+    "phashes": [
+        {
+            "value": "pdbf07bec42033c1c",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p4516d003a68fe9bf",
+            "name": "pepca"
+        },
+        {
+            "value": "p49203e0c22def1c5",
+            "name": "pepca_style"
+        },
+        {
+            "value": "p9d7b98ea4390e383",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "extractedTxtUrlsTotalCount": 3,
+    "self_send": 0,
+    "dkdomain": "kupi.cz",
+    "html_tr_tag_count": 0,
+    "extractedEmails": [
+        "podpora@kupi.cz",
+        "mnk.frankova@seznam.cz",
+        "podpora@kupi.cz."
+    ],
+    "html_tag_total_count": 38,
+    "mime_children_count": 2,
+    "spamtrap_hit": false,
+    "extractedEmailsDomainCount": 3,
+    "extractedHrefUrlsTotalCount": 1,
+    "dk_statuses": [
+        {
+            "selector": "default",
+            "status": "PASS",
+            "domain": "kupi.cz"
+        }
+    ],
+    "extractedSrcUrlsCardinality": 1,
+    "senders": {
+        "log_cnt_idf_detail": [],
+        "log_ecnt_idf_detail": [],
+        "tf_log_idf": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "cnt-pow4_w_duc_detail": [],
+        "ttf_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "src_revert": "",
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "plain_domain": "kupi",
+        "src_revert_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "plain_domain_detail": [
+            {
+                "confidence": 3,
+                "domain": "kupi"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "tf_log_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 5456925.98405967,
+                "domain": "zendesk"
+            }
+        ],
+        "domain_keywords": "zendesk",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt_idf": ""
+    },
+    "spamscore": 1,
+    "ahref_total_count": 2,
+    "extractedEmailsCardinality": 3,
+    "extractedSrcUrlsTotalCount": 1,
+    "dkim_count": 1,
+    "adscore": 0,
+    "pepca": "p4516d003a68fe9bf",
+    "html_script_tag_count": 0,
+    "date_difference": -79554229,
+    "html_in_text_plain_count": 0,
+    "pepca_style": "p49203e0c22def1c5",
+    "word_count": 63,
+    "rfcid_length": 44,
+    "spf_dom_policy_registry": "Policy not found",
+    "pepcatotal": 2,
+    "last10words": "resy 37 188 131 177 Pokud jste zmenu hesla neprovedli vy kontaktujte nas na podpora kupi cz Kupi cz akce a slevy z vaseho obchodu ",
+    "extractedHrefUrls": [
+        "http://www.kupi.cz"
+    ],
+    "spfstatus_hfrom": "SPF_SOFTFAIL",
+    "header_reply_to_count": 0,
+    "dkim_hfrom_match": 1,
+    "attachments": [
+        {
+            "mime_type": "image/png",
+            "cte": "BASE64",
+            "flags": 0,
+            "pepca": "pdbf07bec42033c1c",
+            "cid": "logo",
+            "sumphash": "a78fa5a8a33a0303a8776d455921978b",
+            "size": 1196,
+            "name": "logo"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "extractedSrcUrls": [
+        "cid:logo"
+    ],
+    "list_unsubscribe_http_count": 0,
+    "extractedHrefUrlsDomainCount": 1,
+    "subject": "Zmena hesla na Kupi cz",
+    "list_unsubscribe_total_count": 0,
+    "extractedSrcUrlsDomainCount": 0,
+    "ahref_camouflage_count": 0,
+    "list_unsubscribe_invalid_count": 0,
+    "header_from": "podpora@kupi.cz"
+}

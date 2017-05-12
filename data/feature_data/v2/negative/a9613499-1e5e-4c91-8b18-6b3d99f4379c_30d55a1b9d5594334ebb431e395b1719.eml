@@ -1,0 +1,230 @@
+{
+    "adscore": 0, 
+    "ahref_camouflage_count": 0, 
+    "ahref_total_count": 11, 
+    "ahref_verbal_count": 8, 
+    "attachments": [], 
+    "contains_list_header": true, 
+    "content": "CONTENT_DEFAULT", 
+    "date_difference": -79559525, 
+    "dk_statuses": [
+        {
+            "domain": "mass.datingfactory.com", 
+            "selector": "k1", 
+            "status": "PASS"
+        }
+    ], 
+    "dkdomain": "mass.datingfactory.com", 
+    "dkim_count": 1, 
+    "dkim_efrom_match": 0, 
+    "dkim_hfrom_match": 1, 
+    "dkim_passed_count": 1, 
+    "dkim_signs_cnt": 1, 
+    "dkselector": "k1", 
+    "dkstatus": "PASS", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/30d55a1b9d5594334ebb431e395b1719.eml", 
+    "extractedEmails": [
+        "unsubscribe+1371884342.46258656.26568962.28@datingfactory.com", 
+        "aaabbbccc.12345@seznam.cz", 
+        "1371884342.46258656.26568962.28@datingfactory.com", 
+        "1371884342.46258656.26568962.28@datingfactory.com.Na"
+    ], 
+    "extractedEmailsCardinality": 4, 
+    "extractedEmailsDomainCount": 3, 
+    "extractedEmailsTotalCount": 4, 
+    "extractedHrefUrls": [
+        "http://hazido.com/contacts/?linkId=7&authId=0046258656002zxce309aee348be7b29301fa9f99671cd0f&refMailId=1371884342", 
+        "http://hazido.com/home/?linkId=8&authId=0046258656002zxce309aee348be7b29301fa9f99671cd0f&refMailId=1371884342", 
+        "http://hazido.com/home/?linkId=9&authId=0046258656002zxce309aee348be7b29301fa9f99671cd0f&refMailId=1371884342", 
+        "http://hazido.com/privacy/?linkId=10&authId=0046258656002zxce309aee348be7b29301fa9f99671cd0f&refMailId=1371884342", 
+        "http://hazido.com/contacts/?linkId=11&authId=0046258656002zxce309aee348be7b29301fa9f99671cd0f&refMailId=1371884342"
+    ], 
+    "extractedHrefUrlsCardinality": 11, 
+    "extractedHrefUrlsDomainCount": 1, 
+    "extractedHrefUrlsTotalCount": 11, 
+    "extractedSrcUrls": [
+        "http://hazido.com/images/logo.png", 
+        "http://hazido.com/images/mailing/bottom.gif?messageId=1371884342.46258656.26568962.1"
+    ], 
+    "extractedSrcUrlsCardinality": 2, 
+    "extractedSrcUrlsDomainCount": 1, 
+    "extractedSrcUrlsTotalCount": 2, 
+    "extractedTxtUrls": [
+        "http://hazido.com", 
+        "http://muhazido.com"
+    ], 
+    "extractedTxtUrlsCardinality": 2, 
+    "extractedTxtUrlsDomainCount": 2, 
+    "extractedTxtUrlsTotalCount": 2, 
+    "first10words": " andrew Vase heslo na hazido com Chcete li mit vsechny zpravy dorucene do Vasi e mailove schranky pridejte prosim ", 
+    "from_match": 0, 
+    "header_from": "noreply@mass.datingfactory.com", 
+    "header_from_count": 1, 
+    "header_reply_to_count": 0, 
+    "header_total_count": 18, 
+    "html_in_text_plain_count": 1, 
+    "html_script_tag_count": 0, 
+    "html_tag_total_count": 153, 
+    "html_td_tag_count": 44, 
+    "html_tr_tag_count": 24, 
+    "lang": "cs", 
+    "last10words": "o email muze obsahovat inzerci Dating Factory s r o 3 patro 207 Regent Street Londyn W1B 3HH Velka Britanie ", 
+    "list_unsubscribe_http_count": 1, 
+    "list_unsubscribe_invalid_count": 0, 
+    "list_unsubscribe_mailto_count": 1, 
+    "list_unsubscribe_total_count": 2, 
+    "list_unsubscribe_urls": [
+        "mailto:unsubscribe+1371884342.46258656.26568962.18@mass.datingfactory.com", 
+        "http://hazido.com/support/unsubscribe/0046258656002zxce309aee348be7b29301fa9f99671cd0f/1371884342.46258656.26568962.18?linkId=77"
+    ], 
+    "mime_children_count": 2, 
+    "mime_children_types": [
+        "text/plain", 
+        "text/html"
+    ], 
+    "mime_root_type": "multipart/alternative", 
+    "notches": [
+        {
+            "module": "ill", 
+            "name": [
+                "date_in_past", 
+                "from_missmatch", 
+                "foreign_message_id"
+            ], 
+            "score": 1.1, 
+            "subscores": [
+                1, 
+                0.0, 
+                0.1
+            ]
+        }
+    ], 
+    "now": 1494598225, 
+    "pepca": "p55f6eed0b5380052", 
+    "pepca_inline_style": "p2d9a2ba202a5b9fc", 
+    "pepca_inline_style_total": 0, 
+    "pepca_style": "", 
+    "pepca_style_total": 0, 
+    "pepcatotal": 0, 
+    "phashes": [
+        {
+            "name": "pepca", 
+            "value": "p55f6eed0b5380052"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "p2d9a2ba202a5b9fc"
+        }
+    ], 
+    "phish_score": 0, 
+    "phishing": {
+        "body_richness": 0.160933660933661, 
+        "camouflage": 0, 
+        "fake_https": 0, 
+        "html_form": 0, 
+        "is_html": true, 
+        "max_num_dots_urls": 4, 
+        "max_num_slashes_urls": 4, 
+        "num_black_sheep_link": -1, 
+        "num_black_sheep_link_global": -1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_external_links": 7, 
+        "num_freehost_urls": 0, 
+        "num_html_script_tags": 0, 
+        "num_https_urls": 0, 
+        "num_ip_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "num_of_chars": 1627, 
+        "num_param_phish": 0, 
+        "num_path_phish": 0, 
+        "num_phish_keywords": 9, 
+        "num_sender_diff_url": 2, 
+        "num_shortened_urls": 0, 
+        "num_subdomain_phish": 0, 
+        "num_text_forms": 30, 
+        "num_tld_in_url_path": 0, 
+        "num_www_in_url_path": 0, 
+        "subject_phish_keywords": 1, 
+        "subject_richness": 0.176470588235294, 
+        "suspicious_links": [], 
+        "text_and_href": 0, 
+        "text_link_with_path": 0
+    }, 
+    "precedence": 3, 
+    "rcpts_count": 1, 
+    "rfcid_is_foreign": 1, 
+    "rfcid_is_invalid": false, 
+    "rfcid_length": 83, 
+    "self_send": 0, 
+    "senders": {
+        "cnt-pow4_w_duc": "", 
+        "cnt-pow4_w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "domain_keywords": "datingfactory", 
+        "domain_keywords_detail": [
+            {
+                "confidence": 197454508.303946, 
+                "domain": "datingfactory"
+            }
+        ], 
+        "ettf_w_duc": "", 
+        "ettf_w_duc_detail": [], 
+        "idf": "", 
+        "idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "log_cnt-w_duc_detail": [], 
+        "log_cnt_idf": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "log_ecnt_idf": "", 
+        "log_ecnt_idf_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "log_ecnt_log_idf_log_tidf": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "plain_domain": "muhazido", 
+        "plain_domain_detail": [
+            {
+                "confidence": 1, 
+                "domain": "muhazido"
+            }, 
+            {
+                "confidence": 1, 
+                "domain": "hazido"
+            }
+        ], 
+        "src_revert": "", 
+        "src_revert_detail": [], 
+        "tf_log_idf": "", 
+        "tf_log_idf_detail": [], 
+        "ttf_w_duc": "", 
+        "ttf_w_duc_detail": []
+    }, 
+    "spamscore": 1.1, 
+    "spamtrap_hit": false, 
+    "spf_dom_policy_registry": "Policy not found", 
+    "spf_domain_policy": "UNKNOWN", 
+    "spf_status_registry": "Status not found", 
+    "spfstatus": "NONE", 
+    "spfstatus_hfrom": "SPF_FAIL", 
+    "subject": "andrew Vase heslo na hazido com", 
+    "subject_image_count": 0, 
+    "subject_word_count": 6, 
+    "unsub_link": "http://hazido.com/support/unsubscribe/0046258656002zxce309aee348be7b29301fa9f99671cd0f/1371884342.46258656.26568962.18?linkId=2", 
+    "unsub_link_candidates": [
+        "http://hazido.com/support/unsubscribe/0046258656002zxce309aee348be7b29301fa9f99671cd0f/1371884342.46258656.26568962.18?linkId=2"
+    ], 
+    "unsub_link_texts": [
+        "pokud byt si nezalozit tento ucet odhlasit se zde "
+    ], 
+    "word_count": 262
+}

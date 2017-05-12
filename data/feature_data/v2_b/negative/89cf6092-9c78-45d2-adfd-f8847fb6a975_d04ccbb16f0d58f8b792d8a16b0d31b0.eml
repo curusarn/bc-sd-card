@@ -1,0 +1,215 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ]
+        }
+    ],
+    "extractedTxtUrls": [
+        "http://www.rdio.com/account/reset-password/618c767db4fa939e8a6c4b4ccc2721fc4f977bb9/",
+        "http://help.rdio.com/"
+    ],
+    "spfstatus": "NONE",
+    "mime_root_type": "multipart/alternative",
+    "header_from_count": 1,
+    "now": 1494598421,
+    "dkim_efrom_match": 0,
+    "pepca_inline_style_total": 0,
+    "rcpts_count": 1,
+    "extractedEmailsTotalCount": 2,
+    "pepca_inline_style": "p97046f5c1226b455",
+    "pepca_style_total": 0,
+    "dkselector": "smtpapi",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/d04ccbb16f0d58f8b792d8a16b0d31b0.eml",
+    "html_td_tag_count": 10,
+    "extractedHrefUrlsCardinality": 4,
+    "list_unsubscribe_mailto_count": 1,
+    "subject_word_count": 6,
+    "lang": "cs",
+    "precedence": 3,
+    "phishing": {
+        "num_html_script_tags": 0,
+        "num_text_forms": 7,
+        "fake_https": 0,
+        "is_html": true,
+        "num_non_80_port_urls": 0,
+        "num_https_urls": 0,
+        "num_of_chars": 715,
+        "num_param_phish": 0,
+        "text_and_href": 0,
+        "body_richness": 0.170391061452514,
+        "text_link_with_path": 1,
+        "max_num_slashes_urls": 4,
+        "num_shortened_urls": 0,
+        "num_sender_diff_url": 0,
+        "num_ip_urls": 0,
+        "num_black_sheep_link": -1,
+        "subject_richness": 0.153846153846154,
+        "num_tld_in_url_path": 0,
+        "subject_phish_keywords": 1,
+        "num_black_sheep_link_global": -1,
+        "num_black_sheep_link_phish": 0,
+        "num_path_phish": 0,
+        "suspicious_links": [],
+        "html_form": 0,
+        "num_phish_keywords": 5,
+        "num_subdomain_phish": 0,
+        "num_domain_phish": 0,
+        "ner_domain_detected": false,
+        "camouflage": 0,
+        "num_freehost_urls": 0,
+        "num_external_links": 6,
+        "max_num_dots_urls": 2,
+        "num_www_in_url_path": 0
+    },
+    "spf_status_registry": "Status not found",
+    "rfcid_is_foreign": 0,
+    "from_match": 0,
+    "first10words": " Chcete li resetovat heslo ke sluzbe Rdio kliknete na tento odkaz http www rdio com account reset password 61",
+    "extractedTxtUrlsDomainCount": 1,
+    "spf_domain_policy": "UNKNOWN",
+    "header_total_count": 17,
+    "dkim_passed_count": 1,
+    "extractedTxtUrlsCardinality": 2,
+    "dkim_signs_cnt": 1,
+    "list_unsubscribe_urls": [
+        "http://email.rdio.com/wf/unsubscribe?upn=6vk8yHFlpGSAriKFBIntG7bktA91aeRtfmtRW7JoOxryKGxyaPj-2Bp7e33Qqzy-2BxuQLtzzo1KDrjbyYdKnvjUgPySq5HkOEE77ODT73B84ZdMTFGYeXhBhUZeDtcx6ThhoDtFEUx-2BJ4nfFTeu-2Fz7s-2B8JnQsikvoFMirung-2BnCvv2gZjk9rZENomyCvvGc7rSXK3M8Y65OfjWBYcjieTBymFdWLihkevK4f4GdUs23fic8QYqwrwSFnYAsvp0iFtHzyC8n1jIXuofHgxHo-2FQXzYQ-3D-3D",
+        "mailto:unsubscribe@email.rdio.com?subject=http://email.rdio.com/wf/unsubscribe*q*upn=6vk8yHFlpGSAriKFBIntG7bktA91aeRtfmtRW7JoOxryKGxyaPj-2Bp7e33Qqzy-2BxuQLtzzo1KDrjbyYdKnvjUgPySq5HkOEE77ODT73B84ZdMTFGYeXhBhUZeDtcx6ThhoDtFEUx-2BJ4nfFTeu-2Fz7s-2B8JnQsikvoFMirung-2BnCvv2gZjk9rZENomyCvvGc7rSXK3M8Y65OfjWBYcjieTBymFdWLihkevK4f4GdUs23fic8QYqwrwSFnYAsvp0iFtHzyC8n1jIXuofHgxHo-2FQXzYQ-3D-3D"
+    ],
+    "mime_children_types": [
+        "text/plain",
+        "text/html"
+    ],
+    "ahref_verbal_count": 1,
+    "subject_image_count": 0,
+    "phish_score": 0,
+    "rfcid_is_invalid": false,
+    "dkstatus": "PASS",
+    "phashes": [
+        {
+            "value": "pcacd7a1e3cddaebc",
+            "name": "pepca"
+        },
+        {
+            "value": "p97046f5c1226b455",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "contains_list_header": true,
+    "self_send": 0,
+    "dkdomain": "email.rdio.com",
+    "html_tr_tag_count": 10,
+    "extractedEmails": [
+        "help@rdio.com",
+        "help@rdio.com."
+    ],
+    "html_tag_total_count": 66,
+    "mime_children_count": 2,
+    "spamtrap_hit": false,
+    "extractedEmailsDomainCount": 2,
+    "extractedTxtUrlsTotalCount": 2,
+    "dk_statuses": [
+        {
+            "selector": "smtpapi",
+            "status": "PASS",
+            "domain": "email.rdio.com"
+        }
+    ],
+    "extractedSrcUrlsCardinality": 2,
+    "senders": {
+        "log_cnt_idf_detail": [],
+        "log_ecnt_idf_detail": [],
+        "tf_log_idf": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "cnt-pow4_w_duc_detail": [],
+        "ttf_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "src_revert": "",
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "plain_domain": "rdio",
+        "src_revert_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "rdio"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "tf_log_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 95237010.2572346,
+                "domain": "aweber"
+            }
+        ],
+        "domain_keywords": "aweber",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt_idf": ""
+    },
+    "spamscore": 1,
+    "ahref_total_count": 4,
+    "extractedEmailsCardinality": 2,
+    "extractedSrcUrlsTotalCount": 2,
+    "dkim_count": 1,
+    "adscore": 0,
+    "pepca": "pcacd7a1e3cddaebc",
+    "html_script_tag_count": 0,
+    "date_difference": -79582459,
+    "html_in_text_plain_count": 0,
+    "pepca_style": "",
+    "word_count": 122,
+    "rfcid_length": 45,
+    "spf_dom_policy_registry": "Policy not found",
+    "pepcatotal": 0,
+    "last10words": "nt St Suite 200 San Francisco CA 94103 If you would like to unsubscribe and stop receiving these emails unsublink tag ",
+    "extractedHrefUrls": [
+        "http://email.rdio.com/wf/click?upn=hzf98cpMl-2FYdbbfbBr-2Beymusy9uMT2XV-2BFKaAV1kxiFVkq5WKWzj6r-2Fn2mgv3mnMQNyrO8TxeDAS622H-2FY4",
+        "http://email.rdio.com/wf/click?upn=hzf98cpMl-2FYdbbfbBr-2BeyqEr5gdF0Eq0Dlcw-2BAIpF2uOhRb0B4c3-2BxWxB7z0VfOc61vK2YMKsFEvOoWBceLjq",
+        "http://email.rdio.com/wf/click?upn=D4tgxxPs5-2BZJsybn8ldwkD5s-2FCz0-2F6qWJ3v05a87ABRgw5I1Fl7Ul7UKbpoPSBAKyxv3IRO9Mfk7OQuJs4BFIQ-",
+        "http://email.rdio.com/wf/unsubscribe?upn=6vk8yHFlpGSAriKFBIntG7bktA91aeRtfmtRW7JoOxryKGxyaPj-2Bp7e33Qqzy-2Bxue9wtOeiAokgBoQHLNYy"
+    ],
+    "spfstatus_hfrom": "SPF_SOFTFAIL",
+    "header_reply_to_count": 0,
+    "dkim_hfrom_match": 1,
+    "attachments": [],
+    "content": "CONTENT_DEFAULT",
+    "extractedSrcUrls": [
+        "http://www.rdio.com/media/images/emails/rdio2x.gif",
+        "http://email.rdio.com/wf/open?upn=6vk8yHFlpGSAriKFBIntG7bktA91aeRtfmtRW7JoOxryKGxyaPj-2Bp7e33Qqzy-2BxujVPIOuTQld6YhsZ5uD3DSsZeBw"
+    ],
+    "list_unsubscribe_http_count": 1,
+    "extractedHrefUrlsTotalCount": 4,
+    "extractedHrefUrlsDomainCount": 1,
+    "subject": "Obnovujeme vase heslo do sluzby Rdio",
+    "list_unsubscribe_total_count": 2,
+    "extractedSrcUrlsDomainCount": 1,
+    "ahref_camouflage_count": 0,
+    "list_unsubscribe_invalid_count": 0,
+    "header_from": "no-reply@rdio.com"
+}

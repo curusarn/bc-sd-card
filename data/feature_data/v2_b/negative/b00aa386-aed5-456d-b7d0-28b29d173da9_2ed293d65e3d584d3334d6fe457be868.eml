@@ -1,0 +1,224 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ]
+        }
+    ],
+    "rfcid_is_invalid": false,
+    "spfstatus": "NONE",
+    "mime_root_type": "multipart/alternative",
+    "header_from_count": 1,
+    "now": 1494598223,
+    "dkim_efrom_match": 0,
+    "pepca_inline_style_total": 0,
+    "rcpts_count": 1,
+    "extractedEmailsTotalCount": 1,
+    "pepca_inline_style": "p40f299887ce6072b",
+    "pepca_style_total": 0,
+    "dkselector": "mandrill",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/2ed293d65e3d584d3334d6fe457be868.eml",
+    "html_td_tag_count": 68,
+    "extractedHrefUrlsCardinality": 8,
+    "list_unsubscribe_mailto_count": 0,
+    "subject_word_count": 3,
+    "lang": "cs",
+    "precedence": 3,
+    "phishing": {
+        "num_html_script_tags": 0,
+        "num_text_forms": 9,
+        "fake_https": 0,
+        "is_html": true,
+        "num_non_80_port_urls": 0,
+        "num_https_urls": 5,
+        "num_of_chars": 1098,
+        "num_param_phish": 0,
+        "text_and_href": 0,
+        "body_richness": 0.277525022747953,
+        "text_link_with_path": 0,
+        "max_num_slashes_urls": 4,
+        "num_shortened_urls": 0,
+        "num_sender_diff_url": 0,
+        "num_ip_urls": 0,
+        "num_black_sheep_link": -1,
+        "subject_richness": 0.166666666666667,
+        "num_tld_in_url_path": 0,
+        "subject_phish_keywords": 1,
+        "num_black_sheep_link_global": -1,
+        "num_black_sheep_link_phish": 0,
+        "num_path_phish": 0,
+        "suspicious_links": [],
+        "html_form": 0,
+        "num_phish_keywords": 7,
+        "num_subdomain_phish": 0,
+        "num_domain_phish": 0,
+        "ner_domain_detected": false,
+        "camouflage": 0,
+        "num_freehost_urls": 0,
+        "num_external_links": 10,
+        "max_num_dots_urls": 4,
+        "num_www_in_url_path": 0
+    },
+    "spf_status_registry": "Status not found",
+    "rfcid_is_foreign": 1,
+    "from_match": 0,
+    "first10words": " Dobry den obdrzeli jsme Vasi zadost o nove heslo k Vasemu uctu na Fashion Da",
+    "spf_domain_policy": "UNKNOWN",
+    "header_total_count": 19,
+    "dkim_passed_count": 2,
+    "dkim_signs_cnt": 2,
+    "mime_children_types": [
+        "text/plain",
+        "text/html"
+    ],
+    "ahref_verbal_count": 8,
+    "subject_image_count": 0,
+    "phish_score": 0,
+    "self_send": 0,
+    "dkstatus": "PASS",
+    "unsub_link_texts": [
+        " obchodny podminka "
+    ],
+    "phashes": [
+        {
+            "value": "p28b3c9dc631a8bc5",
+            "name": "pepca"
+        },
+        {
+            "value": "pe5cd4ded8f85d469",
+            "name": "pepca_style"
+        },
+        {
+            "value": "p40f299887ce6072b",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "extractedHrefUrlsTotalCount": 8,
+    "dkdomain": "fashiondays.cz",
+    "html_tr_tag_count": 44,
+    "html_tag_total_count": 246,
+    "mime_children_count": 2,
+    "spamtrap_hit": false,
+    "extractedEmailsDomainCount": 1,
+    "extractedEmails": [
+        "no-reply@fashiondays.cz"
+    ],
+    "dk_statuses": [
+        {
+            "selector": "mandrill",
+            "status": "PASS",
+            "domain": "fashiondays.cz"
+        },
+        {
+            "selector": "mandrill",
+            "status": "PASS",
+            "domain": "mandrillapp.com"
+        }
+    ],
+    "extractedSrcUrlsCardinality": 6,
+    "senders": {
+        "log_cnt_idf_detail": [],
+        "log_ecnt_idf_detail": [],
+        "tf_log_idf": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "cnt-pow4_w_duc_detail": [],
+        "ttf_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "src_revert": "fashiondays",
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "plain_domain": "",
+        "src_revert_detail": [
+            {
+                "confidence": 6,
+                "domain": "fashiondays"
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "plain_domain_detail": [],
+        "log_ecnt_idf": "",
+        "tf_log_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 30135188.59632,
+                "domain": "zendesk"
+            }
+        ],
+        "domain_keywords": "zendesk",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt_idf": ""
+    },
+    "spamscore": 1.1,
+    "ahref_total_count": 9,
+    "extractedEmailsCardinality": 1,
+    "extractedSrcUrlsTotalCount": 6,
+    "dkim_count": 2,
+    "adscore": 0,
+    "pepca": "p28b3c9dc631a8bc5",
+    "unsub_link_candidates": [
+        "http://ecomm.fashiondays.cz/track/click/30058639/www.fashiondays.cz?p=eyJzIjoiWmtkdnlnT2NQNUhmdnJGTlRuWGJ6UXdzU21zIiwidiI6MSwicCI6IntcInVcIjozMDA1ODYzOSxcInZcIjoxLFwidXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5mYXNoaW9uZGF5cy5jelxcXC9wYWdlXFxcL3Rlcm1zXFxcLz91dG1fc291cmNlPXRyYW5zYWN0aW9uYWxfZW1haWwmdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249cGFzc3dvcmRjaGFuZ2VfdXNlcl9yZXFcIixcImlkXCI6XCJlZWYzMjgzNTA0NWU0MTNlYTliYjU2NjA1MTk3OTUxZlwiLFwidXJsX2lkc1wiOltcIjk0NjRmMmJiMzI1Nzk0ZjhjYmJhMGUzN2UxZGQyZjk0NWU3YzcwY2JcIl19In0"
+    ],
+    "html_script_tag_count": 0,
+    "date_difference": -79555410,
+    "html_in_text_plain_count": 0,
+    "pepca_style": "pe5cd4ded8f85d469",
+    "word_count": 305,
+    "rfcid_length": 43,
+    "spf_dom_policy_registry": "Policy not found",
+    "pepcatotal": 0,
+    "last10words": "s O Fashion Days Casto kladene dotazy FAQ Obchodni podminky Ochrana osobnich udaju APEK ",
+    "extractedHrefUrls": [
+        "http://ecomm.fashiondays.cz/track/click/30058639/www.fashiondays.cz?p=eyJzIjoiTEc0bGxfM1JyT3dGUDJ0VW1rcGlOelp1QVZRIiwidiI6MSwicC",
+        "http://ecomm.fashiondays.cz/track/click/30058639/www.fashiondays.cz?p=eyJzIjoib2MyeTJ0SWUzbVFaMWphbzN6aEdGdndhYkg4IiwidiI6MSwicC",
+        "http://ecomm.fashiondays.cz/track/click/30058639/www.fashiondays.cz?p=eyJzIjoiWmtkdnlnT2NQNUhmdnJGTlRuWGJ6UXdzU21zIiwidiI6MSwicC",
+        "http://ecomm.fashiondays.cz/track/click/30058639/www.fashiondays.cz?p=eyJzIjoiOXQwLVhwVVdlUk1hSEVyZXdwTVR5dW1iTWdnIiwidiI6MSwicC",
+        "http://ecomm.fashiondays.cz/track/click/30058639/www.apek.cz?p=eyJzIjoiRzREYno4OXNPMHFnUzVtNXlpNjVTcE9wVU1zIiwidiI6MSwicCI6IntcI"
+    ],
+    "spfstatus_hfrom": "SPF_SOFTFAIL",
+    "header_reply_to_count": 1,
+    "dkim_hfrom_match": 1,
+    "attachments": [],
+    "content": "CONTENT_DEFAULT",
+    "extractedSrcUrls": [
+        "https://www.fashiondays.cz/images/email/2/footer-badge1.png",
+        "https://www.fashiondays.cz/images/email/2/footer-badge2.png",
+        "https://www.fashiondays.cz/images/email/2/footer-badge3.png",
+        "https://www.fashiondays.cz/images/email/2/footer-badge4.png",
+        "http://ecomm.fashiondays.cz/track/open.php?u=30058639&id=eef32835045e413ea9bb56605197951f"
+    ],
+    "list_unsubscribe_http_count": 0,
+    "unsub_link": "http://ecomm.fashiondays.cz/track/click/30058639/www.fashiondays.cz?p=eyJzIjoiWmtkdnlnT2NQNUhmdnJGTlRuWGJ6UXdzU21zIiwidiI6MSwicCI6IntcInVcIjozMDA1ODYzOSxcInZcIjoxLFwidXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5mYXNoaW9uZGF5cy5jelxcXC9wYWdlXFxcL3Rlcm1zXFxcLz91dG1fc291cmNlPXRyYW5zYWN0aW9uYWxfZW1haWwmdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249cGFzc3dvcmRjaGFuZ2VfdXNlcl9yZXFcIixcImlkXCI6XCJlZWYzMjgzNTA0NWU0MTNlYTliYjU2NjA1MTk3OTUxZlwiLFwidXJsX2lkc1wiOltcIjk0NjRmMmJiMzI1Nzk0ZjhjYmJhMGUzN2UxZGQyZjk0NWU3YzcwY2JcIl19In0",
+    "extractedHrefUrlsDomainCount": 1,
+    "subject": "Vase nove heslo",
+    "list_unsubscribe_total_count": 0,
+    "extractedSrcUrlsDomainCount": 1,
+    "ahref_camouflage_count": 0,
+    "list_unsubscribe_invalid_count": 0,
+    "header_from": "no-reply@fashiondays.cz"
+}

@@ -1,0 +1,236 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ]
+        }
+    ],
+    "extractedTxtUrls": [
+        "http://enka.cz"
+    ],
+    "spfstatus": "NONE",
+    "mime_root_type": "multipart/related",
+    "header_from_count": 1,
+    "now": 1494598239,
+    "dkim_efrom_match": 0,
+    "pepca_inline_style_total": 0,
+    "rcpts_count": 1,
+    "extractedEmailsTotalCount": 2,
+    "pepca_inline_style": "peb20989953582ac8",
+    "pepca_style_total": 0,
+    "dkim_hfrom_match": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/3b702debf840983729c13142c986e18f.eml",
+    "html_td_tag_count": 76,
+    "extractedHrefUrlsCardinality": 3,
+    "list_unsubscribe_mailto_count": 0,
+    "subject_word_count": 3,
+    "lang": "cs",
+    "precedence": 3,
+    "phishing": {
+        "num_html_script_tags": 0,
+        "num_text_forms": 2,
+        "fake_https": 0,
+        "is_html": true,
+        "num_non_80_port_urls": 0,
+        "num_https_urls": 0,
+        "num_of_chars": 1643,
+        "num_param_phish": 0,
+        "text_and_href": 0,
+        "body_richness": 0.186739659367397,
+        "text_link_with_path": 0,
+        "max_num_slashes_urls": 4,
+        "num_shortened_urls": 0,
+        "num_sender_diff_url": 1,
+        "num_ip_urls": 0,
+        "num_black_sheep_link": -1,
+        "subject_richness": 0.111111111111111,
+        "num_tld_in_url_path": 0,
+        "subject_phish_keywords": 0,
+        "num_black_sheep_link_global": -1,
+        "num_black_sheep_link_phish": 0,
+        "num_path_phish": 0,
+        "suspicious_links": [],
+        "html_form": 0,
+        "num_phish_keywords": 0,
+        "num_subdomain_phish": 0,
+        "num_domain_phish": 0,
+        "ner_domain_detected": false,
+        "camouflage": 0,
+        "num_freehost_urls": 0,
+        "num_external_links": 3,
+        "max_num_dots_urls": 3,
+        "num_www_in_url_path": 0
+    },
+    "spf_status_registry": "Status not found",
+    "rfcid_is_foreign": 0,
+    "from_match": 0,
+    "first10words": " Vase objednavka Dekujeme mnohokrat za Vasi objednavku Objednavku jsme prijali a probiha jeji zpracovani Po",
+    "extractedTxtUrlsDomainCount": 1,
+    "spf_domain_policy": "UNKNOWN",
+    "header_total_count": 11,
+    "dkim_passed_count": 0,
+    "extractedTxtUrlsCardinality": 1,
+    "dkim_signs_cnt": 1,
+    "mime_children_types": [
+        "multipart/alternative",
+        "image/gif",
+        "image/jpeg"
+    ],
+    "ahref_verbal_count": 3,
+    "subject_image_count": 0,
+    "phish_score": 0,
+    "rfcid_is_invalid": false,
+    "dkstatus": "NEUTRAL",
+    "phashes": [
+        {
+            "value": "p450bbddaaef3184d",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pa45bcc63fcda0cd0",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p7c3b11f134a5e5bf",
+            "name": "pepca"
+        },
+        {
+            "value": "peb20989953582ac8",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "extractedTxtUrlsTotalCount": 1,
+    "self_send": 0,
+    "attachments": [
+        {
+            "mime_type": "image/gif",
+            "cte": "BASE64",
+            "flags": 0,
+            "pepca": "p450bbddaaef3184d",
+            "cid": "e946f296a747d3dcd3a272c940e35231",
+            "sumphash": "bf7097751e98092538ed8ef4c33beb07",
+            "size": 7278,
+            "name": "image"
+        },
+        {
+            "mime_type": "image/jpeg",
+            "cte": "BASE64",
+            "flags": 0,
+            "pepca": "pa45bcc63fcda0cd0",
+            "cid": "e94a49f44568393c4c108aba0e9ef355",
+            "sumphash": "68e8e38eefc485b38bc978564470130e",
+            "size": 1150,
+            "name": "image"
+        }
+    ],
+    "html_tr_tag_count": 32,
+    "extractedEmails": [
+        "daria@atexkom.com.",
+        "tkpodnikani@seznam.cz"
+    ],
+    "html_tag_total_count": 217,
+    "mime_children_count": 3,
+    "spamtrap_hit": false,
+    "extractedEmailsDomainCount": 2,
+    "extractedHrefUrlsTotalCount": 3,
+    "extractedSrcUrlsCardinality": 2,
+    "spamscore": 1,
+    "ahref_total_count": 3,
+    "extractedEmailsCardinality": 2,
+    "extractedSrcUrlsTotalCount": 2,
+    "dkim_count": 0,
+    "adscore": 0,
+    "pepca": "p7c3b11f134a5e5bf",
+    "dkStatusDetail": "NOT_SIGNED",
+    "html_script_tag_count": 0,
+    "date_difference": -75957805,
+    "html_in_text_plain_count": 0,
+    "pepca_style": "",
+    "word_count": 307,
+    "rfcid_length": 48,
+    "spf_dom_policy_registry": "Policy not found",
+    "pepcatotal": 0,
+    "last10words": "ka Zde je Vase pouceni o odvolani provozovatel ATEXKOM s r o Celakovskeho 3 4 77900 Olomouc IC 27855635 DIC CZ27855635 ",
+    "extractedHrefUrls": [
+        "http://www.atexkom.com/index.php?cl=erp_orderlist",
+        "http://www.atexkom.com/Dum/Stropni-kazety/Stropni-kazety/Stropni-kazeta-495-x-495-x-8-mm-ROM.html",
+        "http://www.atexkom.com/index.php?shp=oxbaseshop&anid=f15357a9152d05207788469af2e79632&cl=review&reviewuserhash=c22493d02266dbd4b"
+    ],
+    "spfstatus_hfrom": "SPF_NONE",
+    "header_reply_to_count": 1,
+    "senders": {
+        "log_cnt_idf_detail": [],
+        "log_ecnt_idf_detail": [],
+        "tf_log_idf": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "cnt-pow4_w_duc_detail": [],
+        "ttf_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "src_revert": "",
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "plain_domain": "enka",
+        "src_revert_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "enka"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "tf_log_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 38236843.485264,
+                "domain": "masterinter"
+            }
+        ],
+        "domain_keywords": "masterinter",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt_idf": ""
+    },
+    "dk_statuses": [
+        {
+            "statusDetail": "NOT_SIGNED",
+            "status": "NEUTRAL"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "extractedSrcUrls": [
+        "cid:e946f296a747d3dcd3a272c940e35231",
+        "cid:e94a49f44568393c4c108aba0e9ef355"
+    ],
+    "list_unsubscribe_http_count": 0,
+    "extractedHrefUrlsDomainCount": 1,
+    "subject": "Vase objednavka 15782 ",
+    "list_unsubscribe_total_count": 0,
+    "extractedSrcUrlsDomainCount": 0,
+    "ahref_camouflage_count": 0,
+    "list_unsubscribe_invalid_count": 0,
+    "header_from": "daria@atexkom.com"
+}

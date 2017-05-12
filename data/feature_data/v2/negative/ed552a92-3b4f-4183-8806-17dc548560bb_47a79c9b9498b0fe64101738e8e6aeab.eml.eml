@@ -1,0 +1,226 @@
+{
+    "adscore": 0, 
+    "ahref_camouflage_count": 0, 
+    "ahref_total_count": 3, 
+    "ahref_verbal_count": 2, 
+    "attachments": [], 
+    "content": "CONTENT_DEFAULT", 
+    "date_difference": -73698013, 
+    "dk_statuses": [
+        {
+            "domain": "damejidlo.cz", 
+            "selector": "mandrill", 
+            "status": "PASS"
+        }, 
+        {
+            "domain": "mandrillapp.com", 
+            "selector": "mandrill", 
+            "status": "PASS"
+        }
+    ], 
+    "dkdomain": "damejidlo.cz", 
+    "dkim_count": 2, 
+    "dkim_efrom_match": 0, 
+    "dkim_hfrom_match": 1, 
+    "dkim_passed_count": 2, 
+    "dkim_signs_cnt": 2, 
+    "dkselector": "mandrill", 
+    "dkstatus": "PASS", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/47a79c9b9498b0fe64101738e8e6aeab.eml.eml", 
+    "extractedEmails": [
+        "zakaznici@damejidlo.cz"
+    ], 
+    "extractedEmailsCardinality": 1, 
+    "extractedEmailsDomainCount": 1, 
+    "extractedEmailsTotalCount": 1, 
+    "extractedHrefUrls": [
+        "", 
+        "http://mandrillapp.com/track/click/30077741/www.damejidlo.cz?p=eyJzIjoiU2ZFSjVzLVpkUDZIemZ6WVNYTDRDWUY5X0l3IiwidiI6MSwicCI6IntcI", 
+        "http://mandrillapp.com/track/click/30077741/www.facebook.com?p=eyJzIjoiVzdFWTFfYVA0NGwtRUg2MG8xWWpVc3FwTTBJIiwidiI6MSwicCI6IntcI"
+    ], 
+    "extractedHrefUrlsCardinality": 3, 
+    "extractedHrefUrlsDomainCount": 1, 
+    "extractedHrefUrlsTotalCount": 3, 
+    "extractedSrcUrls": [
+        "https://www.damejidlo.cz/images/newsletter/global/red-button-left-border.png", 
+        "https://www.damejidlo.cz/images/ico-burger-orange.png", 
+        "https://www.damejidlo.cz/images/newsletter/global/red-button-right-border.png", 
+        "https://www.damejidlo.cz/images/email/phone.jpg", 
+        "http://mandrillapp.com/track/open.php?u=30077741&id=90f4d1415a204f9e9acf82a7a2b919c2"
+    ], 
+    "extractedSrcUrlsCardinality": 9, 
+    "extractedSrcUrlsDomainCount": 2, 
+    "extractedSrcUrlsTotalCount": 9, 
+    "extractedTxtUrls": [
+        "http://DameJidlo.cz", 
+        "http://damejidlo.cz"
+    ], 
+    "extractedTxtUrlsCardinality": 2, 
+    "extractedTxtUrlsDomainCount": 1, 
+    "extractedTxtUrlsTotalCount": 2, 
+    "first10words": " Potvrzeni objednavky DameJidlo cz Potvrzeni objednavky Objednavka cislo 1007035841 datum 10 1 2015 15 30 ", 
+    "from_match": 0, 
+    "header_from": "zakaznici@damejidlo.cz", 
+    "header_from_count": 1, 
+    "header_reply_to_count": 0, 
+    "header_total_count": 19, 
+    "html_in_text_plain_count": 0, 
+    "html_script_tag_count": 0, 
+    "html_tag_total_count": 199, 
+    "html_td_tag_count": 64, 
+    "html_tr_tag_count": 40, 
+    "lang": "cs", 
+    "last10words": " cislo 840 111 666 Nezapomente take ohodnotit restauraci v emailu ktery bude nasledovat az se nadlabnete ", 
+    "list_unsubscribe_http_count": 0, 
+    "list_unsubscribe_invalid_count": 0, 
+    "list_unsubscribe_mailto_count": 0, 
+    "list_unsubscribe_total_count": 0, 
+    "mime_children_count": 2, 
+    "mime_children_types": [
+        "text/plain", 
+        "text/html"
+    ], 
+    "mime_root_type": "multipart/alternative", 
+    "notches": [
+        {
+            "module": "ill", 
+            "name": [
+                "date_in_past", 
+                "from_missmatch", 
+                "foreign_message_id"
+            ], 
+            "score": 1.1, 
+            "subscores": [
+                1, 
+                0.0, 
+                0.1
+            ]
+        }
+    ], 
+    "now": 1494598257, 
+    "pepca": "pca6664ba49fe081b", 
+    "pepca_inline_style": "p6e5a917e212ea593", 
+    "pepca_inline_style_total": 0, 
+    "pepca_style": "pc3e910fe375eb53c", 
+    "pepca_style_total": 0, 
+    "pepcatotal": 0, 
+    "phashes": [
+        {
+            "name": "pepca", 
+            "value": "pca6664ba49fe081b"
+        }, 
+        {
+            "name": "pepca_style", 
+            "value": "pc3e910fe375eb53c"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "p6e5a917e212ea593"
+        }
+    ], 
+    "phish_score": 0, 
+    "phishing": {
+        "body_richness": 0.228983186549239, 
+        "camouflage": 0, 
+        "fake_https": 0, 
+        "html_form": 0, 
+        "is_html": true, 
+        "max_num_dots_urls": 3, 
+        "max_num_slashes_urls": 4, 
+        "num_black_sheep_link": -1, 
+        "num_black_sheep_link_global": -1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_external_links": 8, 
+        "num_freehost_urls": 0, 
+        "num_html_script_tags": 0, 
+        "num_https_urls": 8, 
+        "num_ip_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "num_of_chars": 1248, 
+        "num_param_phish": 0, 
+        "num_path_phish": 0, 
+        "num_phish_keywords": 3, 
+        "num_sender_diff_url": 1, 
+        "num_shortened_urls": 0, 
+        "num_subdomain_phish": 0, 
+        "num_text_forms": 29, 
+        "num_tld_in_url_path": 0, 
+        "num_www_in_url_path": 0, 
+        "subject_phish_keywords": 0, 
+        "subject_richness": 0.128205128205128, 
+        "suspicious_links": [], 
+        "text_and_href": 0, 
+        "text_link_with_path": 0
+    }, 
+    "precedence": 3, 
+    "rcpts_count": 1, 
+    "rfcid_is_foreign": 1, 
+    "rfcid_is_invalid": false, 
+    "rfcid_length": 26, 
+    "self_send": 0, 
+    "senders": {
+        "cnt-pow4_w_duc": "", 
+        "cnt-pow4_w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "domain_keywords": "damejidlo", 
+        "domain_keywords_detail": [
+            {
+                "confidence": 24198469.46185, 
+                "domain": "damejidlo"
+            }
+        ], 
+        "ettf_w_duc": "", 
+        "ettf_w_duc_detail": [], 
+        "idf": "", 
+        "idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "log_cnt-w_duc_detail": [], 
+        "log_cnt_idf": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "log_ecnt_idf": "", 
+        "log_ecnt_idf_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "log_ecnt_log_idf_log_tidf": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "plain_domain": "damejidlo", 
+        "plain_domain_detail": [
+            {
+                "confidence": 2, 
+                "domain": "damejidlo"
+            }
+        ], 
+        "src_revert": "damejidlo", 
+        "src_revert_detail": [
+            {
+                "confidence": 8, 
+                "domain": "damejidlo"
+            }
+        ], 
+        "tf_log_idf": "", 
+        "tf_log_idf_detail": [], 
+        "ttf_w_duc": "", 
+        "ttf_w_duc_detail": []
+    }, 
+    "spamscore": 1.1, 
+    "spamtrap_hit": false, 
+    "spf_dom_policy_registry": "Policy not found", 
+    "spf_domain_policy": "UNKNOWN", 
+    "spf_status_registry": "Status not found", 
+    "spfstatus": "NONE", 
+    "spfstatus_hfrom": "SPF_SOFTFAIL", 
+    "subject": "Objednavka z DameJidlo cz 1007035841", 
+    "subject_image_count": 0, 
+    "subject_word_count": 5, 
+    "word_count": 286
+}

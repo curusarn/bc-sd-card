@@ -1,0 +1,236 @@
+{
+    "spf_dom_policy_registry": "Policy not found",
+    "precedence": 3,
+    "contains_list_header": true,
+    "extractedSrcUrlsDomainCount": 1,
+    "extractedTxtUrlsDomainCount": 1,
+    "html_tr_tag_count": 24,
+    "extractedEmailsCardinality": 4,
+    "spfstatus_hfrom": "SPF_FAIL",
+    "rcpts_count": 1,
+    "header_total_count": 18,
+    "dkstatus": "PASS",
+    "extractedSrcUrlsTotalCount": 5,
+    "html_tag_total_count": 164,
+    "header_reply_to_count": 0,
+    "pepca_style": "",
+    "ahref_camouflage_count": 0,
+    "extractedTxtUrlsCardinality": 1,
+    "content": "CONTENT_DEFAULT",
+    "html_td_tag_count": 44,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/6ea830b761acaed8283e953cb9117658.eml",
+    "spamscore": 1.1,
+    "extractedSrcUrlsCardinality": 5,
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "score": 1.1,
+            "module": "ill"
+        }
+    ],
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p55f6eed0b5380052"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pe2b78c3c30376840"
+        }
+    ],
+    "list_unsubscribe_urls": [
+        "mailto:unsubscribe+1364048012.41461637.26454195.18@mass.datingfactory.com",
+        "http://sex247.cz/support/unsubscribe/0041461637002gbf33c5970da161c331b126b42c047d792c/1364048012.41461637.26454195.18?linkId=77"
+    ],
+    "now": 1494598310,
+    "html_in_text_plain_count": 1,
+    "last10words": "o email muze obsahovat inzerci Dating Factory s r o 3 patro 207 Regent Street Londyn W1B 3HH Velka Britanie ",
+    "spf_domain_policy": "UNKNOWN",
+    "dkim_count": 1,
+    "unsub_link_texts": [
+        "pokud byt si nezalozit tento ucet odhlasit se zde ",
+        " sex miguel vasi heslo na sex drahy a miguel nedavno byt pozadat o detail prihlaseni na"
+    ],
+    "rfcid_is_invalid": false,
+    "list_unsubscribe_mailto_count": 1,
+    "pepcatotal": 0,
+    "word_count": 271,
+    "html_script_tag_count": 0,
+    "dkim_efrom_match": 0,
+    "unsub_link_candidates": [
+        "http://sex247.cz/support/unsubscribe/0041461637002gbf33c5970da161c331b126b42c047d792c/1364048012.41461637.26454195.18?linkId=2",
+        "http://sex247.cz/home/?linkId=3&authId=0041461637002gbf33c5970da161c331b126b42c047d792c&refMailId=1364048012"
+    ],
+    "extractedEmails": [
+        "unsubscribe+1364048012.41461637.26454195.28@datingfactory.com",
+        "gg012@email.cz",
+        "1364048012.41461637.26454195.28@datingfactory.com",
+        "1364048012.41461637.26454195.28@datingfactory.com.Na"
+    ],
+    "spfstatus": "NONE",
+    "phish_score": 0,
+    "date_difference": -80110240,
+    "extractedTxtUrls": [
+        "http://sex247.cz"
+    ],
+    "list_unsubscribe_total_count": 2,
+    "dkim_passed_count": 1,
+    "extractedHrefUrlsDomainCount": 2,
+    "first10words": " MIGUEL Vase heslo na Sex247 Chcete li mit vsechny zpravy dorucene do Vasi e mailove schranky pridejte prosim Sex2",
+    "pepca": "p55f6eed0b5380052",
+    "pepca_style_total": 0,
+    "unsub_link": "http://sex247.cz/home/?linkId=3&authId=0041461637002gbf33c5970da161c331b126b42c047d792c&refMailId=1364048012",
+    "extractedEmailsTotalCount": 4,
+    "rfcid_is_foreign": 1,
+    "attachments": [],
+    "pepca_inline_style_total": 0,
+    "header_from_count": 1,
+    "mime_children_types": [
+        "text/plain",
+        "text/html"
+    ],
+    "subject": "MIGUEL Vase heslo na Sex247",
+    "dkdomain": "mass.datingfactory.com",
+    "senders": {
+        "domain_keywords": "datingfactory",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "idf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt-pow4_w_duc": "",
+        "plain_domain_detail": [
+            {
+                "domain": "sex247",
+                "confidence": 1
+            }
+        ],
+        "log_cnt-pow_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "tf_log_idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "plain_domain": "sex247",
+        "domain_keywords_detail": [
+            {
+                "domain": "datingfactory",
+                "confidence": 197454508.303946
+            }
+        ],
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt_idf": "",
+        "tf_log_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "datingfactory",
+                "confidence": 5
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_cnt-w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert": "datingfactory"
+    },
+    "dkim_hfrom_match": 1,
+    "ahref_total_count": 14,
+    "list_unsubscribe_http_count": 1,
+    "extractedSrcUrls": [
+        "http://sex247.cz/images/logo.png",
+        "http://www.sex247.cz/images/creatives/swingers-cz1.jpg",
+        "http://www.sex247.cz/images/creatives/cheaters-cz1.jpg",
+        "http://www.sex247.cz/images/creatives/bdsm-cz1.jpg",
+        "http://sex247.cz/images/mailing/bottom.gif?messageId=1364048012.41461637.26454195.1"
+    ],
+    "subject_image_count": 0,
+    "extractedHrefUrlsTotalCount": 14,
+    "dk_statuses": [
+        {
+            "status": "PASS",
+            "selector": "k1",
+            "domain": "mass.datingfactory.com"
+        }
+    ],
+    "from_match": 0,
+    "lang": "cs",
+    "extractedHrefUrls": [
+        "http://xxxdatingxxx.org/bdsmcz/index.html?linkId=10&epop=1",
+        "http://sex247.cz/home/?linkId=11&authId=0041461637002gbf33c5970da161c331b126b42c047d792c&refMailId=1364048012",
+        "http://sex247.cz/home/?linkId=12&authId=0041461637002gbf33c5970da161c331b126b42c047d792c&refMailId=1364048012",
+        "http://sex247.cz/privacy/?linkId=13&authId=0041461637002gbf33c5970da161c331b126b42c047d792c&refMailId=1364048012",
+        "http://sex247.cz/contacts/?linkId=14&authId=0041461637002gbf33c5970da161c331b126b42c047d792c&refMailId=1364048012"
+    ],
+    "pepca_inline_style": "pe2b78c3c30376840",
+    "self_send": 0,
+    "ahref_verbal_count": 12,
+    "extractedTxtUrlsTotalCount": 1,
+    "subject_word_count": 5,
+    "extractedEmailsDomainCount": 3,
+    "header_from": "noreply@mass.datingfactory.com",
+    "mime_root_type": "multipart/alternative",
+    "rfcid_length": 83,
+    "mime_children_count": 2,
+    "extractedHrefUrlsCardinality": 14,
+    "adscore": 0,
+    "dkim_signs_cnt": 1,
+    "spamtrap_hit": false,
+    "spf_status_registry": "Status not found",
+    "dkselector": "k1",
+    "phishing": {
+        "body_richness": 0.168427594779366,
+        "num_black_sheep_link": -1,
+        "subject_richness": 0.166666666666667,
+        "max_num_slashes_urls": 4,
+        "num_https_urls": 0,
+        "camouflage": 0,
+        "ner_domain_detected": false,
+        "html_form": 0,
+        "num_subdomain_phish": 0,
+        "num_external_links": 10,
+        "fake_https": 0,
+        "num_html_script_tags": 0,
+        "num_freehost_urls": 0,
+        "num_phish_keywords": 9,
+        "suspicious_links": [],
+        "num_sender_diff_url": 2,
+        "text_and_href": 0,
+        "subject_phish_keywords": 1,
+        "num_www_in_url_path": 0,
+        "num_domain_phish": 0,
+        "num_of_chars": 1608,
+        "num_ip_urls": 0,
+        "num_path_phish": 0,
+        "num_param_phish": 0,
+        "max_num_dots_urls": 4,
+        "num_tld_in_url_path": 0,
+        "is_html": true,
+        "num_black_sheep_link_phish": 0,
+        "num_non_80_port_urls": 0,
+        "num_text_forms": 4,
+        "num_black_sheep_link_global": -1,
+        "text_link_with_path": 0,
+        "num_shortened_urls": 0
+    },
+    "list_unsubscribe_invalid_count": 0
+}

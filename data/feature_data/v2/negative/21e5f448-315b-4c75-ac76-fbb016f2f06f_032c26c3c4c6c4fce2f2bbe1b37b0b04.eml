@@ -1,0 +1,211 @@
+{
+    "adscore": 0, 
+    "ahref_camouflage_count": 0, 
+    "ahref_total_count": 105, 
+    "ahref_verbal_count": 105, 
+    "attachments": [], 
+    "contains_list_header": true, 
+    "content": "CONTENT_DEFAULT", 
+    "date_difference": -72577773, 
+    "dk_statuses": [
+        {
+            "domain": "livingsocial.com", 
+            "selector": "ls3", 
+            "status": "PASS"
+        }
+    ], 
+    "dkdomain": "livingsocial.com", 
+    "dkim_count": 1, 
+    "dkim_efrom_match": 0, 
+    "dkim_hfrom_match": 1, 
+    "dkim_passed_count": 1, 
+    "dkim_signs_cnt": 1, 
+    "dkselector": "ls3", 
+    "dkstatus": "PASS", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/032c26c3c4c6c4fce2f2bbe1b37b0b04.eml", 
+    "extractedEmails": [], 
+    "extractedEmailsCardinality": 0, 
+    "extractedEmailsDomainCount": 0, 
+    "extractedEmailsTotalCount": 0, 
+    "extractedHrefUrls": [
+        "http://t.livingsocial.com/track/g_BKFU0CM80RUDF63QB5524J0IAKAGF4T9BIVAEQ6S8DTNF7Q8RQSG====?url=https%3A%2F%2Fwww.livingsocial.co", 
+        "http://t.livingsocial.com/track/g_BKFU0CM80RUDF63QB5524J0IAKAGF4T9BIVAEQ6S8DTNF7Q8RQSG====?url=http%3A%2F%2Fblog.livingsocial.co", 
+        "http://t.livingsocial.com/track/g_BKFU0CM80RUDF63QB5524J0IAKAGF4T9BIVAEQ6S8DTNF7Q8RQSG====?url=https%3A%2F%2Fgetfeatured.livings", 
+        "http://t.livingsocial.com/track/g_BKFU0CM80RUDF63QB5524J0IAKAGF4T9BIVAEQ6S8DTNF7Q8RQSG====?url=https%3A%2F%2Fwww.livingsocial.co", 
+        "http://t.livingsocial.com/track/g_BKFU0CM80RUDF63QB5524J0IAKAGF4T9BIVAEQ6S8DTNF7Q8RQSG====?url=https%3A%2F%2Fhelp.livingsocial.c"
+    ], 
+    "extractedHrefUrlsCardinality": 42, 
+    "extractedHrefUrlsDomainCount": 6, 
+    "extractedHrefUrlsTotalCount": 42, 
+    "extractedSrcUrls": [
+        "http://a5.lscdn.net/imgs/22c35193-4093-46d6-9265-06de7d059f49/q100.png", 
+        "http://a5.lscdn.net/imgs/2b463b35-90cf-4936-9b55-980d45b843ff/q100.png", 
+        "http://a5.lscdn.net/imgs/be93b424-f7b6-4384-acf3-c8197ce3e4a7/q100.png", 
+        "http://a5.lscdn.net/imgs/35e87970-2e8d-4a69-b24c-1a5662995731/q100.jpg", 
+        "http://a5.lscdn.net/imgs/61dedeb8-5dcf-41be-adee-b052f9710aef/q100.jpg"
+    ], 
+    "extractedSrcUrlsCardinality": 36, 
+    "extractedSrcUrlsDomainCount": 2, 
+    "extractedSrcUrlsTotalCount": 36, 
+    "first10words": " LivingSocial And buy and redeem your deal on the go with our mobile app Shop easy shop happy Peel Region loc", 
+    "from_match": 0, 
+    "header_from": "deals@livingsocial.com", 
+    "header_from_count": 1, 
+    "header_reply_to_count": 1, 
+    "header_total_count": 19, 
+    "html_in_text_plain_count": 0, 
+    "html_script_tag_count": 0, 
+    "html_tag_total_count": 1123, 
+    "html_td_tag_count": 392, 
+    "html_tr_tag_count": 236, 
+    "lang": "en", 
+    "last10words": "lick here Delivered by LivingSocial 1445 New York Ave NW Washington DC USA Need help Have feedback Feel free to contact us ", 
+    "list_unsubscribe_http_count": 0, 
+    "list_unsubscribe_invalid_count": 0, 
+    "list_unsubscribe_mailto_count": 1, 
+    "list_unsubscribe_total_count": 1, 
+    "list_unsubscribe_urls": [
+        "mailto:unsubscribe-g_BKFU0CM80RUDF63QB5524J0IAKAGF4T9BIVAEQ6S8DTNF7Q8RQSG====@bounces.livingsocial.com"
+    ], 
+    "mime_children_count": 2, 
+    "mime_children_types": [
+        "text/plain", 
+        "text/html"
+    ], 
+    "mime_root_type": "multipart/alternative", 
+    "notches": [
+        {
+            "module": "ill", 
+            "name": [
+                "date_in_past", 
+                "from_missmatch"
+            ], 
+            "score": 1, 
+            "subscores": [
+                1, 
+                0.0
+            ]
+        }
+    ], 
+    "now": 1494598174, 
+    "pepca": "pe553dd1615967bad", 
+    "pepca_inline_style": "p616a3843a5a1d18d", 
+    "pepca_inline_style_total": 0, 
+    "pepca_style": "pfe3395a4677a7efa", 
+    "pepca_style_total": 0, 
+    "pepcatotal": 0, 
+    "phashes": [
+        {
+            "name": "pepca", 
+            "value": "pe553dd1615967bad"
+        }, 
+        {
+            "name": "pepca_style", 
+            "value": "pfe3395a4677a7efa"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "p616a3843a5a1d18d"
+        }
+    ], 
+    "phish_score": 0, 
+    "phishing": {
+        "body_richness": 0.392826398852224, 
+        "camouflage": 0, 
+        "fake_https": 0, 
+        "html_form": 0, 
+        "is_html": true, 
+        "max_num_dots_urls": 5, 
+        "max_num_slashes_urls": 6, 
+        "num_black_sheep_link": -1, 
+        "num_black_sheep_link_global": -1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_external_links": 10, 
+        "num_freehost_urls": 0, 
+        "num_html_script_tags": 0, 
+        "num_https_urls": 8, 
+        "num_ip_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "num_of_chars": 3484, 
+        "num_param_phish": 0, 
+        "num_path_phish": 0, 
+        "num_phish_keywords": 1, 
+        "num_sender_diff_url": 5, 
+        "num_shortened_urls": 0, 
+        "num_subdomain_phish": 0, 
+        "num_text_forms": 98, 
+        "num_tld_in_url_path": 0, 
+        "num_www_in_url_path": 0, 
+        "subject_phish_keywords": 0, 
+        "subject_richness": 0.133333333333333, 
+        "suspicious_links": [], 
+        "text_and_href": 0, 
+        "text_link_with_path": 0
+    }, 
+    "precedence": 3, 
+    "rcpts_count": 1, 
+    "rfcid_is_foreign": 0, 
+    "rfcid_is_invalid": false, 
+    "rfcid_length": 79, 
+    "self_send": 0, 
+    "senders": {
+        "cnt-pow4_w_duc": "", 
+        "cnt-pow4_w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "domain_keywords": "livingsocial", 
+        "domain_keywords_detail": [
+            {
+                "confidence": 698982485.719331, 
+                "domain": "livingsocial"
+            }
+        ], 
+        "ettf_w_duc": "", 
+        "ettf_w_duc_detail": [], 
+        "idf": "", 
+        "idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "log_cnt-w_duc_detail": [], 
+        "log_cnt_idf": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "log_ecnt_idf": "", 
+        "log_ecnt_idf_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "log_ecnt_log_idf_log_tidf": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "plain_domain": "", 
+        "plain_domain_detail": [], 
+        "src_revert": "livingsocial", 
+        "src_revert_detail": [
+            {
+                "confidence": 36, 
+                "domain": "livingsocial"
+            }
+        ], 
+        "tf_log_idf": "", 
+        "tf_log_idf_detail": [], 
+        "ttf_w_duc": "", 
+        "ttf_w_duc_detail": []
+    }, 
+    "spamscore": 1, 
+    "spamtrap_hit": false, 
+    "spf_dom_policy_registry": "Policy not found", 
+    "spf_domain_policy": "UNKNOWN", 
+    "spf_status_registry": "Status not found", 
+    "spfstatus": "NONE", 
+    "spfstatus_hfrom": "SPF_SOFTFAIL", 
+    "subject": "Gym Membership", 
+    "subject_image_count": 0, 
+    "subject_word_count": 2, 
+    "word_count": 1369
+}

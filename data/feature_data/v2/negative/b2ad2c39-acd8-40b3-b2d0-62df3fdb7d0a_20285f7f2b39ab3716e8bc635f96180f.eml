@@ -1,0 +1,304 @@
+{
+    "adscore": 0, 
+    "ahref_camouflage_count": 1, 
+    "ahref_total_count": 6, 
+    "ahref_verbal_count": 2, 
+    "attachments": [
+        {
+            "cid": "bff5c3075f243340a70477fdbbe87c6d", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "image/gif", 
+            "name": "chilli-rx-header.gif", 
+            "pepca": "p02cdc0f6ca87c5f4", 
+            "size": 10374, 
+            "sumphash": "f82bd081af0b2bf7e0a499a13006167a"
+        }, 
+        {
+            "cid": "a18e5c2e0b7cf4a7fbe9b46b9fb799e7", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "image/gif", 
+            "name": "sp.gif", 
+            "size": 43, 
+            "sumphash": "a178fb8ca4d65d2328e77e2251f2c52a"
+        }, 
+        {
+            "cid": "8555430ee0bc1a93ee7b7c746c9ecfed", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "image/gif", 
+            "name": "chilli-rx-shadow.gif", 
+            "pepca": "pbe3ed8b5d5a9a187", 
+            "size": 2789, 
+            "sumphash": "4c58f89a9b615c66d8435dee66da16fe"
+        }, 
+        {
+            "cid": "ba34ff1bdf9af49ac9ebf631d1987ea9", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "image/gif", 
+            "name": "chilli-rx-footer-lg.gif", 
+            "pepca": "p72e78b68a89d4eff", 
+            "size": 1710, 
+            "sumphash": "0c306ee84d899b73d2fc802b96036469"
+        }, 
+        {
+            "cid": "d3051c7551ec71cd70c9b494fbd52501", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "image/gif", 
+            "name": "chilli-rx-footer-fb.gif", 
+            "pepca": "p4595638a255a546f", 
+            "size": 2347, 
+            "sumphash": "7e5f148117f1de36460770969821b9b5"
+        }, 
+        {
+            "cid": "d6da6fe9d09f4b2e785d00406f63ce40", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "image/gif", 
+            "name": "chilli-rx-footer-line.gif", 
+            "size": 259, 
+            "sumphash": "1af953e485946a844f589be72edf7f67"
+        }
+    ], 
+    "content": "CONTENT_DEFAULT", 
+    "date_difference": -80098242, 
+    "dkStatusDetail": "NOT_SIGNED", 
+    "dk_statuses": [
+        {
+            "status": "NEUTRAL", 
+            "statusDetail": "NOT_SIGNED"
+        }
+    ], 
+    "dkim_count": 0, 
+    "dkim_efrom_match": 0, 
+    "dkim_hfrom_match": 0, 
+    "dkim_passed_count": 0, 
+    "dkim_signs_cnt": 1, 
+    "dkstatus": "NEUTRAL", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/20285f7f2b39ab3716e8bc635f96180f.eml", 
+    "extractedEmails": [
+        "dejvicic@seznam.cz"
+    ], 
+    "extractedEmailsCardinality": 1, 
+    "extractedEmailsDomainCount": 1, 
+    "extractedEmailsTotalCount": 1, 
+    "extractedHrefUrls": [
+        "http://www.seminka-chilli.cz", 
+        "http://www.seminka-chilli.cz/klientske-centrum/nove-heslo?id=761bb756f35dc691bb0526717e5db2fa&address=dejvicic@seznam.cz", 
+        "http://www.chilli-forum.cz", 
+        "http://cs-cz.facebook.com/pages/Seminka-chillicz/189771637770749", 
+        "http://www.estudio.cz"
+    ], 
+    "extractedHrefUrlsCardinality": 5, 
+    "extractedHrefUrlsDomainCount": 4, 
+    "extractedHrefUrlsTotalCount": 5, 
+    "extractedSrcUrls": [
+        "cid:a18e5c2e0b7cf4a7fbe9b46b9fb799e7", 
+        "cid:8555430ee0bc1a93ee7b7c746c9ecfed", 
+        "cid:ba34ff1bdf9af49ac9ebf631d1987ea9", 
+        "cid:d3051c7551ec71cd70c9b494fbd52501", 
+        "cid:d6da6fe9d09f4b2e785d00406f63ce40"
+    ], 
+    "extractedSrcUrlsCardinality": 6, 
+    "extractedSrcUrlsDomainCount": 0, 
+    "extractedSrcUrlsTotalCount": 6, 
+    "extractedTxtUrls": [
+        "http://www.chilli-forum.cz", 
+        "http://nka-Chilli.cz", 
+        "http://seminka-chilli.cz", 
+        "http://nka-chilli.cz", 
+        "http://eStudio.cz"
+    ], 
+    "extractedTxtUrlsCardinality": 5, 
+    "extractedTxtUrlsDomainCount": 4, 
+    "extractedTxtUrlsTotalCount": 5, 
+    "first10words": " Reset hesla zakaznika Vazeny zakazniku Pro Vasi e mailovou adresu dejvicic seznam cz bylo vyg", 
+    "from_match": 0, 
+    "header_from": "info@seminka-chilli.cz", 
+    "header_from_count": 1, 
+    "header_reply_to_count": 1, 
+    "header_total_count": 13, 
+    "html_in_text_plain_count": 0, 
+    "html_script_tag_count": 0, 
+    "html_tag_total_count": 141, 
+    "html_td_tag_count": 46, 
+    "html_tr_tag_count": 24, 
+    "lang": "cs", 
+    "last10words": "cek www chilli forum cz 2013 Seminka chilli cz design a tvorba eStudio cz ", 
+    "list_unsubscribe_http_count": 0, 
+    "list_unsubscribe_invalid_count": 0, 
+    "list_unsubscribe_mailto_count": 0, 
+    "list_unsubscribe_total_count": 0, 
+    "mime_children_count": 2, 
+    "mime_children_types": [
+        "text/plain", 
+        "multipart/related"
+    ], 
+    "mime_root_type": "multipart/alternative", 
+    "notches": [
+        {
+            "module": "ill", 
+            "name": [
+                "date_in_past", 
+                "from_missmatch", 
+                "html_a_href_camouflaging", 
+                "foreign_message_id"
+            ], 
+            "score": 1.2, 
+            "subscores": [
+                1, 
+                0.0, 
+                0.1, 
+                0.1
+            ]
+        }
+    ], 
+    "now": 1494598198, 
+    "pepca": "p3c3366fd2d9de8cd", 
+    "pepca_inline_style": "p9b70a410d6032b24", 
+    "pepca_inline_style_total": 0, 
+    "pepca_style": "", 
+    "pepca_style_total": 0, 
+    "pepcatotal": 0, 
+    "phashes": [
+        {
+            "name": "att-pepca", 
+            "value": "p02cdc0f6ca87c5f4"
+        }, 
+        {
+            "name": "att-pepca", 
+            "value": "pbe3ed8b5d5a9a187"
+        }, 
+        {
+            "name": "att-pepca", 
+            "value": "p72e78b68a89d4eff"
+        }, 
+        {
+            "name": "att-pepca", 
+            "value": "p4595638a255a546f"
+        }, 
+        {
+            "name": "pepca", 
+            "value": "p3c3366fd2d9de8cd"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "p9b70a410d6032b24"
+        }
+    ], 
+    "phish_score": 0, 
+    "phishing": {
+        "body_richness": 0.257142857142857, 
+        "camouflage": 1, 
+        "fake_https": 0, 
+        "html_form": 0, 
+        "is_html": true, 
+        "max_num_dots_urls": 3, 
+        "max_num_slashes_urls": 3, 
+        "num_black_sheep_link": -1, 
+        "num_black_sheep_link_global": -1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_external_links": 5, 
+        "num_freehost_urls": 0, 
+        "num_html_script_tags": 0, 
+        "num_https_urls": 0, 
+        "num_ip_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "num_of_chars": 664, 
+        "num_param_phish": 0, 
+        "num_path_phish": 0, 
+        "num_phish_keywords": 5, 
+        "num_sender_diff_url": 4, 
+        "num_shortened_urls": 0, 
+        "num_subdomain_phish": 0, 
+        "num_text_forms": 1, 
+        "num_tld_in_url_path": 0, 
+        "num_www_in_url_path": 0, 
+        "subject_phish_keywords": 1, 
+        "subject_richness": 0.125, 
+        "suspicious_links": [], 
+        "text_and_href": 1, 
+        "text_link_with_path": 0
+    }, 
+    "precedence": 3, 
+    "rcpts_count": 1, 
+    "rfcid_is_foreign": 1, 
+    "rfcid_is_invalid": false, 
+    "rfcid_length": 54, 
+    "self_send": 0, 
+    "senders": {
+        "cnt-pow4_w_duc": "", 
+        "cnt-pow4_w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "domain_keywords": "seminka-chilli", 
+        "domain_keywords_detail": [
+            {
+                "confidence": 22230076.930588, 
+                "domain": "seminka-chilli"
+            }
+        ], 
+        "ettf_w_duc": "", 
+        "ettf_w_duc_detail": [], 
+        "idf": "", 
+        "idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "log_cnt-w_duc_detail": [], 
+        "log_cnt_idf": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "log_ecnt_idf": "", 
+        "log_ecnt_idf_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "log_ecnt_log_idf_log_tidf": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "plain_domain": "seminka-chilli", 
+        "plain_domain_detail": [
+            {
+                "confidence": 2, 
+                "domain": "seminka-chilli"
+            }, 
+            {
+                "confidence": 2, 
+                "domain": "estudio"
+            }, 
+            {
+                "confidence": 2, 
+                "domain": "nka-chilli"
+            }, 
+            {
+                "confidence": 1, 
+                "domain": "chilli-forum"
+            }
+        ], 
+        "src_revert": "", 
+        "src_revert_detail": [], 
+        "tf_log_idf": "", 
+        "tf_log_idf_detail": [], 
+        "ttf_w_duc": "", 
+        "ttf_w_duc_detail": []
+    }, 
+    "spamscore": 1.2, 
+    "spamtrap_hit": false, 
+    "spf_dom_policy_registry": "Policy not found", 
+    "spf_domain_policy": "UNKNOWN", 
+    "spf_status_registry": "Status not found", 
+    "spfstatus": "NONE", 
+    "spfstatus_hfrom": "SPF_NONE", 
+    "subject": "Reset hesla zakaznika", 
+    "subject_image_count": 0, 
+    "subject_word_count": 3, 
+    "word_count": 171
+}

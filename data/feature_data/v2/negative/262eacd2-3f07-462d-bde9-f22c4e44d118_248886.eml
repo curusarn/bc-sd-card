@@ -1,0 +1,229 @@
+{
+    "adscore": 0, 
+    "ahref_camouflage_count": 0, 
+    "ahref_total_count": 12, 
+    "ahref_verbal_count": 10, 
+    "attachments": [], 
+    "contains_list_header": true, 
+    "content": "CONTENT_DEFAULT", 
+    "date_difference": -84302445, 
+    "dkStatusDetail": "NOT_SIGNED", 
+    "dk_statuses": [
+        {
+            "status": "NEUTRAL", 
+            "statusDetail": "NOT_SIGNED"
+        }
+    ], 
+    "dkim_count": 0, 
+    "dkim_efrom_match": 0, 
+    "dkim_hfrom_match": 0, 
+    "dkim_passed_count": 0, 
+    "dkim_signs_cnt": 1, 
+    "dkstatus": "NEUTRAL", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/248886.eml", 
+    "extractedEmails": [
+        "obchod@lekarna.cz", 
+        "mtexlova@email.cz"
+    ], 
+    "extractedEmailsCardinality": 2, 
+    "extractedEmailsDomainCount": 2, 
+    "extractedEmailsTotalCount": 2, 
+    "extractedHrefUrls": [
+        "http://emailing.lekarna.cz/rsps/ct/c/2064/r/1048958/l/8968/dt0/13472", 
+        "http://emailing.lekarna.cz/rsps/ct/c/2064/r/1048958/l/8969/dt0/13472", 
+        "http://emailing.lekarna.cz/rsps/ct/c/2064/r/1048958/l/8970/dt0/13472", 
+        "http://emailing.lekarna.cz/rsps/ct/c/2064/r/1048958/l/8971/dt0/13472", 
+        "http://emailing.lekarna.cz/rsps/ct/c/2064/r/1048958/l/5983"
+    ], 
+    "extractedHrefUrlsCardinality": 11, 
+    "extractedHrefUrlsDomainCount": 1, 
+    "extractedHrefUrlsTotalCount": 11, 
+    "extractedSrcUrls": [
+        "http://gif.lekarna.cz/images/dm2/a_44.gif", 
+        "http://gif.lekarna.cz/images/dm2/a_46.gif", 
+        "http://jpg.lekarna.cz/images/products/s/13472.jpg", 
+        "http://cdn.maxemail.emailcenteruk.com/c2064/5cde6cf0784cb1f9fc29f789de42bf4c.gif", 
+        "https://emailing.optimics.cz/rsps/img/c/2064/r/1048958/e/149/i/s.gif"
+    ], 
+    "extractedSrcUrlsCardinality": 10, 
+    "extractedSrcUrlsDomainCount": 3, 
+    "extractedSrcUrlsTotalCount": 10, 
+    "extractedTxtUrls": [
+        "http://Lekarna.cz", 
+        "http://rny.cz.", 
+        "http://www.lekarna.cz"
+    ], 
+    "extractedTxtUrlsCardinality": 3, 
+    "extractedTxtUrlsDomainCount": 2, 
+    "extractedTxtUrlsTotalCount": 3, 
+    "first10words": " Mily zakazniku gratulujeme Vase registrace v internetovem obchode Lekarna cz probehla uspesne Zmenu ", 
+    "from_match": 0, 
+    "header_from": "novinky@lekarna.cz", 
+    "header_from_count": 1, 
+    "header_reply_to_count": 1, 
+    "header_total_count": 17, 
+    "html_in_text_plain_count": 0, 
+    "html_script_tag_count": 0, 
+    "html_tag_total_count": 250, 
+    "html_td_tag_count": 66, 
+    "html_tr_tag_count": 44, 
+    "lang": "cs", 
+    "last10words": " 101 111 h ttp www lekarna cz Odesilatelem Obchodniho sdeleni je Pears Health Cyber s r o ", 
+    "list_unsubscribe_http_count": 1, 
+    "list_unsubscribe_invalid_count": 0, 
+    "list_unsubscribe_mailto_count": 0, 
+    "list_unsubscribe_total_count": 1, 
+    "list_unsubscribe_urls": [
+        "http://emailing.lekarna.cz/rsps/lu/c/2064/r/1048958/e/149"
+    ], 
+    "mime_children_count": 0, 
+    "mime_children_types": [], 
+    "mime_root_type": "text/html", 
+    "notches": [
+        {
+            "module": "ill", 
+            "name": [
+                "date_in_past", 
+                "from_missmatch"
+            ], 
+            "score": 1, 
+            "subscores": [
+                1, 
+                0.0
+            ]
+        }
+    ], 
+    "now": 1494598205, 
+    "pepca": "pecba3e3fc9a772db", 
+    "pepca_inline_style": "p0bc7860b6452a0e0", 
+    "pepca_inline_style_total": 0, 
+    "pepca_style": "", 
+    "pepca_style_total": 0, 
+    "pepcatotal": 0, 
+    "phashes": [
+        {
+            "name": "pepca", 
+            "value": "pecba3e3fc9a772db"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "p0bc7860b6452a0e0"
+        }
+    ], 
+    "phish_score": 0, 
+    "phishing": {
+        "body_richness": 0.237423312883436, 
+        "camouflage": 0, 
+        "fake_https": 0, 
+        "html_form": 0, 
+        "is_html": true, 
+        "max_num_dots_urls": 2, 
+        "max_num_slashes_urls": 10, 
+        "num_black_sheep_link": -1, 
+        "num_black_sheep_link_global": -1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_external_links": 10, 
+        "num_freehost_urls": 0, 
+        "num_html_script_tags": 0, 
+        "num_https_urls": 1, 
+        "num_ip_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "num_of_chars": 1629, 
+        "num_param_phish": 0, 
+        "num_path_phish": 0, 
+        "num_phish_keywords": 1, 
+        "num_sender_diff_url": 1, 
+        "num_shortened_urls": 0, 
+        "num_subdomain_phish": 0, 
+        "num_text_forms": 20, 
+        "num_tld_in_url_path": 0, 
+        "num_www_in_url_path": 0, 
+        "subject_phish_keywords": 0, 
+        "subject_richness": 0.16, 
+        "suspicious_links": [], 
+        "text_and_href": 0, 
+        "text_link_with_path": 0
+    }, 
+    "precedence": 3, 
+    "rcpts_count": 1, 
+    "rfcid_is_foreign": 0, 
+    "rfcid_is_invalid": false, 
+    "rfcid_length": 43, 
+    "self_send": 0, 
+    "senders": {
+        "cnt-pow4_w_duc": "", 
+        "cnt-pow4_w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "domain_keywords": "masterinter", 
+        "domain_keywords_detail": [
+            {
+                "confidence": 12745614.495088, 
+                "domain": "masterinter"
+            }
+        ], 
+        "ettf_w_duc": "", 
+        "ettf_w_duc_detail": [], 
+        "idf": "", 
+        "idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "log_cnt-w_duc_detail": [], 
+        "log_cnt_idf": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "log_ecnt_idf": "", 
+        "log_ecnt_idf_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "log_ecnt_log_idf_log_tidf": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "plain_domain": "lekarna", 
+        "plain_domain_detail": [
+            {
+                "confidence": 2, 
+                "domain": "lekarna"
+            }, 
+            {
+                "confidence": 1, 
+                "domain": "rny"
+            }
+        ], 
+        "src_revert": "lekarna", 
+        "src_revert_detail": [
+            {
+                "confidence": 10, 
+                "domain": "lekarna"
+            }
+        ], 
+        "tf_log_idf": "", 
+        "tf_log_idf_detail": [], 
+        "ttf_w_duc": "", 
+        "ttf_w_duc_detail": []
+    }, 
+    "spamscore": 1, 
+    "spamtrap_hit": false, 
+    "spf_dom_policy_registry": "Policy not found", 
+    "spf_domain_policy": "UNKNOWN", 
+    "spf_status_registry": "Status not found", 
+    "spfstatus": "NONE", 
+    "spfstatus_hfrom": "SPF_SOFTFAIL", 
+    "subject": "Registrace na Lekarna cz", 
+    "subject_image_count": 0, 
+    "subject_word_count": 4, 
+    "unsub_link": "http://emailing.lekarna.cz/rsps/ct/c/2064/r/1048958/l/5981", 
+    "unsub_link_candidates": [
+        "http://emailing.lekarna.cz/rsps/ct/c/2064/r/1048958/l/5981"
+    ], 
+    "unsub_link_texts": [
+        "zmena udaj moct provest po prihlaseni v sekce muj ucet "
+    ], 
+    "word_count": 387
+}

@@ -1,0 +1,412 @@
+{
+    "date_difference": -85899512,
+    "spf_dom_policy_registry": "Policy not found",
+    "extractedEmails": [
+        "tomasekvydra@seznam.cz"
+    ],
+    "list_unsubscribe_total_count": 0,
+    "from_match": 0,
+    "spfstatus_hfrom": "SPF_SOFTFAIL",
+    "dkim_passed_count": 1,
+    "unsub_link_candidates": [
+        "http://email.forgeofempires.com/c/aT1FMVhLa3NiLTAwMDJSOC1HMiU0MGN6MHcxLmZvZSZoPWViODdkYmI3NDM0ZDhjNGM4ZGU3YjlmZDNjOGE1MDY0JnI9dG9tYXNla3Z5ZHJhJTQwc2V6bmFtLmN6JmQ9MGRkYjcmbD1odHRwJTNBJTJGJTJGY3ouZm9yZ2VvZmVtcGlyZXMuY29tJTJGc3RhcnQlMkZ1bnN1YnNjcmliZV9lbWFpbCUzRmVtYWlsJTNEdG9tYXNla3Z5ZHJhJTI1NDBzZXpuYW0uY3olMjZoJTNEOWZhNzk4ZA"
+    ],
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "extractedHrefUrlsDomainCount": 1,
+    "first10words": " Forge of Empires Tento e mail jsi obdrzel a protoze ses dnes v 11 11 hod zaregistroval a e mailovou adresu tomasekvydra seznam c",
+    "word_count": 481,
+    "pepca": "pa303a8f4ada7dc6e",
+    "extractedSrcUrlsDomainCount": 1,
+    "rfcid_length": 27,
+    "pepcatotal": 0,
+    "pepca_style_total": 1,
+    "unsub_link": "http://email.forgeofempires.com/c/aT1FMVhLa3NiLTAwMDJSOC1HMiU0MGN6MHcxLmZvZSZoPWViODdkYmI3NDM0ZDhjNGM4ZGU3YjlmZDNjOGE1MDY0JnI9dG9tYXNla3Z5ZHJhJTQwc2V6bmFtLmN6JmQ9MGRkYjcmbD1odHRwJTNBJTJGJTJGY3ouZm9yZ2VvZmVtcGlyZXMuY29tJTJGc3RhcnQlMkZ1bnN1YnNjcmliZV9lbWFpbCUzRmVtYWlsJTNEdG9tYXNla3Z5ZHJhJTI1NDBzZXpuYW0uY3olMjZoJTNEOWZhNzk4ZA",
+    "extractedEmailsTotalCount": 1,
+    "mime_root_type": "multipart/related",
+    "extractedEmailsCardinality": 1,
+    "extractedHrefUrlsTotalCount": 11,
+    "html_tr_tag_count": 102,
+    "pepca_style": "p7b8ea2a05e873d2a",
+    "pepca_inline_style_total": 1,
+    "header_from_count": 1,
+    "header_total_count": 18,
+    "extractedSrcUrlsCardinality": 14,
+    "ahref_camouflage_count": 0,
+    "extractedSrcUrlsTotalCount": 14,
+    "html_tag_total_count": 414,
+    "ahref_total_count": 13,
+    "extractedEmailsDomainCount": 1,
+    "dkim_hfrom_match": 0,
+    "dkstatus": "PASS",
+    "header_reply_to_count": 0,
+    "subject_image_count": 0,
+    "spf_status_registry": "Status not found",
+    "rfcid_is_foreign": 0,
+    "content": "CONTENT_DEFAULT",
+    "extractedSrcUrls": [
+        "cid:855334fc7c5873d2610b8e082c1200aa",
+        "cid:acd9acdab3051fa2f8b5fa65d961dce8",
+        "cid:f3c4fc1de82e58ec32348bf16e60f183",
+        "cid:ff5073e65aa4405b0f3d41e99c3b34a2",
+        "http://email.forgeofempires.com/o/aT1FMVhLa3NiLTAwMDJSOC1HMiU0MGN6MHcxLmZvZSZoPTZkZWE2NjNjODZiMzE4ZTA2NzJjMzQyMDJiZWFjOWY3JnI9dG"
+    ],
+    "lang": "cs",
+    "html_td_tag_count": 162,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/238743.eml",
+    "spamscore": 1,
+    "attachments": [
+        {
+            "flags": 0,
+            "cte": "BASE64",
+            "name": "body-r1c1-532x274.jpg",
+            "size": 55239,
+            "mime_type": "image/jpeg",
+            "sumphash": "79df933a145f1bff47c8efbbb25ba1e5",
+            "cid": "457fdba37128834d9671587dda483935",
+            "pepca": "p8c9c07b3f3440f37"
+        },
+        {
+            "flags": 0,
+            "cte": "BASE64",
+            "name": "button-bottom-226x16.jpg",
+            "size": 1733,
+            "mime_type": "image/jpeg",
+            "sumphash": "6adbc6a313357840eb5e3c5102bd6b2d",
+            "cid": "c138912e410440ca91c875c69def9120",
+            "pepca": "p6607c8f3305d0220"
+        },
+        {
+            "flags": 0,
+            "cte": "BASE64",
+            "name": "button-right-110x79.jpg",
+            "size": 4212,
+            "mime_type": "image/jpeg",
+            "sumphash": "b251a38cf510e58b7dc66f0a4f99712b",
+            "cid": "73e513739621dac93e959aa1009ea333",
+            "pepca": "p1f659f635828b0b3"
+        },
+        {
+            "flags": 0,
+            "cte": "BASE64",
+            "name": "button-left-110x79.jpg",
+            "size": 4412,
+            "mime_type": "image/jpeg",
+            "sumphash": "2f1d42e57f7f74eec0c571fcd4ced570",
+            "cid": "b9ace1b42d53e188b6133f0a62097481",
+            "pepca": "pd996e67522fb3736"
+        },
+        {
+            "flags": 0,
+            "cte": "BASE64",
+            "name": "button-top-226x16.jpg",
+            "size": 1742,
+            "mime_type": "image/jpeg",
+            "sumphash": "9b6324e812689fb7ab89a8dc2634c319",
+            "cid": "ce30f021e4a3b4d1451f108ad5e2454a",
+            "pepca": "p31cc9b85d6e6c2b3"
+        },
+        {
+            "flags": 0,
+            "cte": "BASE64",
+            "name": "divider-498x4.jpg",
+            "size": 1829,
+            "mime_type": "image/jpeg",
+            "sumphash": "e4bb30d0b43cd439a2dde449b153d9ce",
+            "cid": "dd0b3d2f1acb7df448993e158ec166a6",
+            "pepca": "p67f5b9ddf133f80e"
+        },
+        {
+            "flags": 0,
+            "cte": "BASE64",
+            "name": "headline-top-500x3.jpg",
+            "size": 1832,
+            "mime_type": "image/jpeg",
+            "sumphash": "57438cb6330fb7305a4ba3262f8349ea",
+            "cid": "fade7778d4d371df921cfe19f5595e81",
+            "pepca": "p841e397c42c6a7d0"
+        },
+        {
+            "flags": 0,
+            "cte": "BASE64",
+            "name": "icon-blog-14x14.png",
+            "size": 1388,
+            "mime_type": "image/jpeg",
+            "sumphash": "86a7153a50511aafa3071211a8286176",
+            "cid": "acd9acdab3051fa2f8b5fa65d961dce8",
+            "pepca": "pf8b69b5524bc1bb6"
+        },
+        {
+            "flags": 0,
+            "cte": "BASE64",
+            "name": "icon-facebook-14x14.png",
+            "size": 1424,
+            "mime_type": "image/jpeg",
+            "sumphash": "45f5f57247108397556bccc4244cc55d",
+            "cid": "f3c4fc1de82e58ec32348bf16e60f183",
+            "pepca": "p375d74fca25cf29a"
+        },
+        {
+            "flags": 0,
+            "cte": "BASE64",
+            "name": "icon-forum-14x14.png",
+            "size": 1416,
+            "mime_type": "image/jpeg",
+            "sumphash": "a90b4d83a15c6b1c4719fc94a1ed01c9",
+            "cid": "855334fc7c5873d2610b8e082c1200aa",
+            "pepca": "pae599bdc97d1e18e"
+        },
+        {
+            "flags": 0,
+            "cte": "BASE64",
+            "name": "innogames-logo-118x16.jpg",
+            "size": 2047,
+            "mime_type": "image/jpeg",
+            "sumphash": "24607f2448f986e8d9159374c662606c",
+            "cid": "ff5073e65aa4405b0f3d41e99c3b34a2",
+            "pepca": "pd86652e4a7b18ac0"
+        },
+        {
+            "flags": 0,
+            "cte": "BASE64",
+            "name": "spacer.gif",
+            "size": 1093,
+            "mime_type": "image/jpeg",
+            "sumphash": "55908fdcc69eacbd44d4bb4176a31307",
+            "cid": "ebbd0cafe0a1436dc9224d2b95b862fc",
+            "pepca": "pdc9acc191ecbed78"
+        },
+        {
+            "flags": 0,
+            "cte": "BASE64",
+            "name": "appstore-apple-162x48.jpg",
+            "size": 4066,
+            "mime_type": "image/jpeg",
+            "sumphash": "b4954e0bd3bc9cb116b10f2ca76b5d21",
+            "cid": "edc1328d73a6fef0c649333e9117f133",
+            "pepca": "p743184c16d93b6d1"
+        }
+    ],
+    "dk_statuses": [
+        {
+            "status": "PASS",
+            "selector": "smtp",
+            "domain": "forgeofempires.com"
+        }
+    ],
+    "dkdomain": "forgeofempires.com",
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p8c9c07b3f3440f37"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p6607c8f3305d0220"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p1f659f635828b0b3"
+        },
+        {
+            "name": "att-pepca",
+            "value": "pd996e67522fb3736"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p31cc9b85d6e6c2b3"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p67f5b9ddf133f80e"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p841e397c42c6a7d0"
+        },
+        {
+            "name": "att-pepca",
+            "value": "pf8b69b5524bc1bb6"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p375d74fca25cf29a"
+        },
+        {
+            "name": "att-pepca",
+            "value": "pae599bdc97d1e18e"
+        },
+        {
+            "name": "att-pepca",
+            "value": "pd86652e4a7b18ac0"
+        },
+        {
+            "name": "att-pepca",
+            "value": "pdc9acc191ecbed78"
+        },
+        {
+            "name": "att-pepca",
+            "value": "p743184c16d93b6d1"
+        },
+        {
+            "name": "pepca",
+            "value": "pa303a8f4ada7dc6e"
+        },
+        {
+            "name": "pepca_style",
+            "value": "p7b8ea2a05e873d2a"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pd728d40ee4715d2f"
+        }
+    ],
+    "pepca_inline_style": "pd728d40ee4715d2f",
+    "rcpts_count": 1,
+    "self_send": 0,
+    "now": 1494598201,
+    "mime_children_count": 14,
+    "ahref_verbal_count": 11,
+    "last10words": " Facebook Vseobecne podminky O spolecnosti Odhlasit ",
+    "subject_word_count": 7,
+    "spf_domain_policy": "UNKNOWN",
+    "dkim_count": 1,
+    "unsub_link_texts": [
+        " odhlasit "
+    ],
+    "rfcid_is_invalid": false,
+    "header_from": "no-reply@innogames.com",
+    "list_unsubscribe_mailto_count": 0,
+    "html_in_text_plain_count": 0,
+    "extractedHrefUrlsCardinality": 11,
+    "html_script_tag_count": 0,
+    "dkim_efrom_match": 0,
+    "adscore": 0,
+    "mime_children_types": [
+        "multipart/alternative",
+        "image/jpeg",
+        "image/jpeg",
+        "image/jpeg",
+        "image/jpeg",
+        "image/jpeg",
+        "image/jpeg",
+        "image/jpeg",
+        "image/jpeg",
+        "image/jpeg",
+        "image/jpeg",
+        "image/jpeg",
+        "image/jpeg",
+        "image/jpeg"
+    ],
+    "dkim_signs_cnt": 1,
+    "spfstatus": "NONE",
+    "extractedHrefUrls": [
+        "http://email.forgeofempires.com/c/aT1FMVhLa3NiLTAwMDJSOC1HMiU0MGN6MHcxLmZvZSZoPTQ4ZTA2ZmU3YTc4MWFmNTNjNjIwZTQzZDExYmM3ODZmJnI9dG",
+        "http://email.forgeofempires.com/c/aT1FMVhLa3NiLTAwMDJSOC1HMiU0MGN6MHcxLmZvZSZoPWUxM2ZkNDkyNGYyMDgwNGYzNjQ0NjZjOGM2NDk1Y2Y5JnI9dG",
+        "http://email.forgeofempires.com/c/aT1FMVhLa3NiLTAwMDJSOC1HMiU0MGN6MHcxLmZvZSZoPTJlNDRiZjJmZWM3OTY3OWMyNjgyN2QyN2M4YTVhMjVjJnI9dG",
+        "http://email.forgeofempires.com/c/aT1FMVhLa3NiLTAwMDJSOC1HMiU0MGN6MHcxLmZvZSZoPWViODdkYmI3NDM0ZDhjNGM4ZGU3YjlmZDNjOGE1MDY0JnI9dG",
+        "http://email.forgeofempires.com/c/aT1FMVhLa3NiLTAwMDJSOC1HMiU0MGN6MHcxLmZvZSZoPTdmNjI5YzI0NzE4ZWZlN2FjMjE1MGIxMjA3YmJkOGQ5JnI9dG"
+    ],
+    "spamtrap_hit": false,
+    "precedence": 3,
+    "list_unsubscribe_http_count": 0,
+    "dkselector": "smtp",
+    "phishing": {
+        "body_richness": 0.386345381526104,
+        "num_black_sheep_link": -1,
+        "subject_richness": 0.145833333333333,
+        "max_num_slashes_urls": 2,
+        "num_https_urls": 0,
+        "camouflage": 0,
+        "ner_domain_detected": false,
+        "html_form": 0,
+        "num_subdomain_phish": 0,
+        "num_external_links": 6,
+        "fake_https": 0,
+        "num_html_script_tags": 0,
+        "num_freehost_urls": 0,
+        "num_phish_keywords": 6,
+        "suspicious_links": [],
+        "num_sender_diff_url": 1,
+        "text_and_href": 0,
+        "subject_phish_keywords": 1,
+        "num_www_in_url_path": 0,
+        "num_domain_phish": 0,
+        "num_of_chars": 1244,
+        "num_ip_urls": 0,
+        "num_path_phish": 0,
+        "num_param_phish": 0,
+        "max_num_dots_urls": 2,
+        "num_tld_in_url_path": 0,
+        "is_html": true,
+        "num_black_sheep_link_phish": 0,
+        "num_non_80_port_urls": 0,
+        "num_text_forms": 20,
+        "num_black_sheep_link_global": -1,
+        "text_link_with_path": 0,
+        "num_shortened_urls": 0
+    },
+    "senders": {
+        "domain_keywords": "forgeofempires",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "idf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt-pow4_w_duc": "",
+        "plain_domain_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "tf_log_idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "plain_domain": "",
+        "domain_keywords_detail": [
+            {
+                "domain": "forgeofempires",
+                "confidence": 114210907.275557
+            }
+        ],
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt_idf": "",
+        "tf_log_idf": "",
+        "src_revert_detail": [
+            {
+                "domain": "o2",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_cnt-w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert": "o2"
+    },
+    "phish_score": 0,
+    "subject": "Forge of Empires Overeni e mailove adresy",
+    "list_unsubscribe_invalid_count": 0
+}

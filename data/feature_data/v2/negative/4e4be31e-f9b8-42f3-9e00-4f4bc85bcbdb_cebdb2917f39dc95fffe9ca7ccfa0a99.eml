@@ -1,0 +1,268 @@
+{
+    "adscore": 0, 
+    "ahref_camouflage_count": 0, 
+    "ahref_total_count": 3, 
+    "ahref_verbal_count": 3, 
+    "attachments": [
+        {
+            "cid": "08f1eadea35965c2a5151e175e9366b8", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "image/gif", 
+            "name": "image", 
+            "pepca": "p1eb8cba84a780074", 
+            "size": 4874, 
+            "sumphash": "a188fefeb5bbdfe5e8bcdd00526fc250"
+        }, 
+        {
+            "cid": "08fb34ad109d2790ca0dda2366a88cea", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "image/jpeg", 
+            "name": "image", 
+            "pepca": "pfa15cb82580706c9", 
+            "size": 2008, 
+            "sumphash": "93c50f26496c1493ed5a290432a37016"
+        }, 
+        {
+            "cid": "08f3953f67a3fa8cc816e552a1269995", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "image/jpeg", 
+            "name": "image", 
+            "pepca": "p21bfb89bd397a905", 
+            "size": 3624, 
+            "sumphash": "3b3cbd62cf5a90a5bacaa21c016d10c9"
+        }, 
+        {
+            "cid": "08fe91f0629cab072b7f541c2690ce48", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "image/jpeg", 
+            "name": "image", 
+            "pepca": "pbb9055d7ec614d7c", 
+            "size": 4242, 
+            "sumphash": "3e7eeb26b03057e8700b2c6f364c22cd"
+        }
+    ], 
+    "content": "CONTENT_DEFAULT", 
+    "date_difference": -75957872, 
+    "dkStatusDetail": "NOT_SIGNED", 
+    "dk_statuses": [
+        {
+            "status": "NEUTRAL", 
+            "statusDetail": "NOT_SIGNED"
+        }
+    ], 
+    "dkim_count": 0, 
+    "dkim_efrom_match": 0, 
+    "dkim_hfrom_match": 0, 
+    "dkim_passed_count": 0, 
+    "dkim_signs_cnt": 1, 
+    "dkstatus": "NEUTRAL", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/cebdb2917f39dc95fffe9ca7ccfa0a99.eml", 
+    "extractedEmails": [
+        "eshop@fotolab.cz.", 
+        "joura.r@seznam.cz"
+    ], 
+    "extractedEmailsCardinality": 2, 
+    "extractedEmailsDomainCount": 2, 
+    "extractedEmailsTotalCount": 2, 
+    "extractedHrefUrls": [
+        "http://eshop.fotolab.cz/fotoaparaty/panasonic-lumix-dmc-tz55-kapesni-stativ-nahradni-akumulator-brasna.html", 
+        "http://eshop.fotolab.cz/kniha-tipy-a-napady-pro-vasi-cewe-fotoknihu.html", 
+        "http://eshop.fotolab.cz/poukaz-na-cewe-fotoknihu-v-hodnote-800.html"
+    ], 
+    "extractedHrefUrlsCardinality": 3, 
+    "extractedHrefUrlsDomainCount": 1, 
+    "extractedHrefUrlsTotalCount": 3, 
+    "extractedSrcUrls": [
+        "cid:08f1eadea35965c2a5151e175e9366b8", 
+        "cid:08fb34ad109d2790ca0dda2366a88cea", 
+        "cid:08f3953f67a3fa8cc816e552a1269995", 
+        "cid:08fe91f0629cab072b7f541c2690ce48"
+    ], 
+    "extractedSrcUrlsCardinality": 4, 
+    "extractedSrcUrlsDomainCount": 0, 
+    "extractedSrcUrlsTotalCount": 4, 
+    "extractedTxtUrls": [
+        "http://FOTOLAB.cz.", 
+        "http://FOTOLAB.cz"
+    ], 
+    "extractedTxtUrlsCardinality": 2, 
+    "extractedTxtUrlsDomainCount": 1, 
+    "extractedTxtUrlsTotalCount": 2, 
+    "first10words": " Vase objednavka Vazeny zakazniku dekujeme Vam za objednavku u FOTOLAB cz Vasi objednavku jsme prijali a prave ", 
+    "from_match": 0, 
+    "header_from": "eshop@fotolab.cz", 
+    "header_from_count": 1, 
+    "header_reply_to_count": 1, 
+    "header_total_count": 11, 
+    "html_in_text_plain_count": 0, 
+    "html_script_tag_count": 0, 
+    "html_tag_total_count": 254, 
+    "html_td_tag_count": 102, 
+    "html_tr_tag_count": 30, 
+    "lang": "cs", 
+    "last10words": "ezinarodni prodejce fototechniky CeWe Color a s Kloknerova 2278 24 148 00 Praha 4 Chodov Email eshop fotolab cz Tel 272 071 200 ", 
+    "list_unsubscribe_http_count": 0, 
+    "list_unsubscribe_invalid_count": 0, 
+    "list_unsubscribe_mailto_count": 0, 
+    "list_unsubscribe_total_count": 0, 
+    "mime_children_count": 5, 
+    "mime_children_types": [
+        "multipart/alternative", 
+        "image/gif", 
+        "image/jpeg", 
+        "image/jpeg", 
+        "image/jpeg"
+    ], 
+    "mime_root_type": "multipart/related", 
+    "notches": [
+        {
+            "module": "ill", 
+            "name": [
+                "date_in_past", 
+                "from_missmatch"
+            ], 
+            "score": 1, 
+            "subscores": [
+                1, 
+                0.0
+            ]
+        }
+    ], 
+    "now": 1494598420, 
+    "pepca": "p842baffe8b686984", 
+    "pepca_inline_style": "pf5b4bd2d99ec5214", 
+    "pepca_inline_style_total": 1, 
+    "pepca_style": "", 
+    "pepca_style_total": 0, 
+    "pepcatotal": 0, 
+    "phashes": [
+        {
+            "name": "att-pepca", 
+            "value": "p1eb8cba84a780074"
+        }, 
+        {
+            "name": "att-pepca", 
+            "value": "pfa15cb82580706c9"
+        }, 
+        {
+            "name": "att-pepca", 
+            "value": "p21bfb89bd397a905"
+        }, 
+        {
+            "name": "att-pepca", 
+            "value": "pbb9055d7ec614d7c"
+        }, 
+        {
+            "name": "pepca", 
+            "value": "p842baffe8b686984"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "pf5b4bd2d99ec5214"
+        }
+    ], 
+    "phish_score": 0, 
+    "phishing": {
+        "body_richness": 0.198788546255507, 
+        "camouflage": 0, 
+        "fake_https": 0, 
+        "html_form": 0, 
+        "is_html": true, 
+        "max_num_dots_urls": 3, 
+        "max_num_slashes_urls": 2, 
+        "num_black_sheep_link": -1, 
+        "num_black_sheep_link_global": -1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_external_links": 3, 
+        "num_freehost_urls": 0, 
+        "num_html_script_tags": 0, 
+        "num_https_urls": 0, 
+        "num_ip_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "num_of_chars": 1815, 
+        "num_param_phish": 0, 
+        "num_path_phish": 0, 
+        "num_phish_keywords": 1, 
+        "num_sender_diff_url": 0, 
+        "num_shortened_urls": 0, 
+        "num_subdomain_phish": 0, 
+        "num_text_forms": 5, 
+        "num_tld_in_url_path": 0, 
+        "num_www_in_url_path": 0, 
+        "subject_phish_keywords": 0, 
+        "subject_richness": 0.111111111111111, 
+        "suspicious_links": [], 
+        "text_and_href": 0, 
+        "text_link_with_path": 0
+    }, 
+    "precedence": 3, 
+    "rcpts_count": 1, 
+    "rfcid_is_foreign": 0, 
+    "rfcid_is_invalid": false, 
+    "rfcid_length": 49, 
+    "self_send": 0, 
+    "senders": {
+        "cnt-pow4_w_duc": "", 
+        "cnt-pow4_w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "domain_keywords": "cewecolor", 
+        "domain_keywords_detail": [
+            {
+                "confidence": 54831384.760083, 
+                "domain": "cewecolor"
+            }
+        ], 
+        "ettf_w_duc": "", 
+        "ettf_w_duc_detail": [], 
+        "idf": "", 
+        "idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "log_cnt-w_duc_detail": [], 
+        "log_cnt_idf": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "log_ecnt_idf": "", 
+        "log_ecnt_idf_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "log_ecnt_log_idf_log_tidf": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "plain_domain": "fotolab", 
+        "plain_domain_detail": [
+            {
+                "confidence": 2, 
+                "domain": "fotolab"
+            }
+        ], 
+        "src_revert": "", 
+        "src_revert_detail": [], 
+        "tf_log_idf": "", 
+        "tf_log_idf_detail": [], 
+        "ttf_w_duc": "", 
+        "ttf_w_duc_detail": []
+    }, 
+    "spamscore": 1, 
+    "spamtrap_hit": false, 
+    "spf_dom_policy_registry": "Policy not found", 
+    "spf_domain_policy": "UNKNOWN", 
+    "spf_status_registry": "Status not found", 
+    "spfstatus": "NONE", 
+    "spfstatus_hfrom": "SPF_SOFTFAIL", 
+    "subject": "Vase objednavka 59679 ", 
+    "subject_image_count": 0, 
+    "subject_word_count": 3, 
+    "word_count": 361
+}

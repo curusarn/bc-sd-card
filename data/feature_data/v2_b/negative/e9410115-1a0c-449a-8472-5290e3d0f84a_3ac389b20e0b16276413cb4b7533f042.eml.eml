@@ -1,0 +1,357 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ]
+        }
+    ],
+    "extractedTxtUrls": [
+        "http://iNETPrint.cz"
+    ],
+    "spfstatus": "NONE",
+    "mime_root_type": "multipart/mixed",
+    "header_from_count": 1,
+    "now": 1494598238,
+    "dkim_efrom_match": 0,
+    "pepca_inline_style_total": 0,
+    "rcpts_count": 1,
+    "extractedEmailsTotalCount": 5,
+    "pepca_inline_style": "pfcdd7407439b0601",
+    "pepca_style_total": 0,
+    "dkim_hfrom_match": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/3ac389b20e0b16276413cb4b7533f042.eml.eml",
+    "html_td_tag_count": 54,
+    "extractedHrefUrlsCardinality": 6,
+    "list_unsubscribe_mailto_count": 0,
+    "subject_word_count": 6,
+    "lang": "cs",
+    "precedence": 3,
+    "phishing": {
+        "num_html_script_tags": 0,
+        "num_text_forms": 19,
+        "fake_https": 0,
+        "is_html": true,
+        "num_non_80_port_urls": 0,
+        "num_https_urls": 0,
+        "num_of_chars": 2342,
+        "num_param_phish": 0,
+        "text_and_href": 0,
+        "body_richness": 0.192488262910798,
+        "text_link_with_path": 0,
+        "max_num_slashes_urls": 2,
+        "num_shortened_urls": 0,
+        "num_sender_diff_url": 1,
+        "num_ip_urls": 0,
+        "num_black_sheep_link": -1,
+        "subject_richness": 0.113207547169811,
+        "num_tld_in_url_path": 0,
+        "subject_phish_keywords": 0,
+        "num_black_sheep_link_global": -1,
+        "num_black_sheep_link_phish": 0,
+        "num_path_phish": 0,
+        "suspicious_links": [],
+        "html_form": 0,
+        "num_phish_keywords": 1,
+        "num_subdomain_phish": 0,
+        "num_domain_phish": 0,
+        "ner_domain_detected": false,
+        "camouflage": 0,
+        "num_freehost_urls": 0,
+        "num_external_links": 5,
+        "max_num_dots_urls": 3,
+        "num_www_in_url_path": 0
+    },
+    "spf_status_registry": "Status not found",
+    "rfcid_is_foreign": 1,
+    "from_match": 0,
+    "first10words": " iNETPrint cz Objednavka c 5010271638 vyexpedovana PPL Vazeny zakazniku Vase objednavka c 501027",
+    "extractedTxtUrlsDomainCount": 1,
+    "spf_domain_policy": "UNKNOWN",
+    "header_total_count": 19,
+    "dkim_passed_count": 0,
+    "extractedTxtUrlsCardinality": 1,
+    "dkim_signs_cnt": 1,
+    "mime_children_types": [
+        "multipart/related",
+        "application/pdf"
+    ],
+    "ahref_verbal_count": 1,
+    "subject_image_count": 0,
+    "phish_score": 0,
+    "rfcid_is_invalid": false,
+    "dkstatus": "NEUTRAL",
+    "phashes": [
+        {
+            "value": "p6a33a8ec9119ec4d",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pd5af370ee71bb0bf",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pcbcc91f67973bf44",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p51043bf2e7d4338a",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p2601d76a5845b49e",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p13b21d7b52ce3482",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pab696bc1c863f59e",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p8c5ed92e71b8bbee",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pfaa2bc5df4be5222",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p54b1741df5c240f3",
+            "name": "pepca"
+        },
+        {
+            "value": "p4c19010dabe28f2c",
+            "name": "pepca_style"
+        },
+        {
+            "value": "pfcdd7407439b0601",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "extractedTxtUrlsTotalCount": 1,
+    "self_send": 0,
+    "attachments": [
+        {
+            "mime_type": "image/gif",
+            "cte": "BASE64",
+            "flags": 0,
+            "pepca": "p6a33a8ec9119ec4d",
+            "cid": "logo-inetprint",
+            "sumphash": "8625e9f9f21adc86cba49ec1a5876357",
+            "size": 3778,
+            "name": "logo-inetprint.gif"
+        },
+        {
+            "mime_type": "image/jpeg",
+            "cte": "BASE64",
+            "flags": 0,
+            "pepca": "pd5af370ee71bb0bf",
+            "cid": "hlavicka-zabak",
+            "sumphash": "6f51885fda68f197193068ffac6835c0",
+            "size": 4530,
+            "name": "hlavicka-zabak.jpg"
+        },
+        {
+            "mime_type": "image/gif",
+            "cte": "BASE64",
+            "flags": 0,
+            "pepca": "pcbcc91f67973bf44",
+            "cid": "objednavka-vyexpedovana-ppl",
+            "sumphash": "2d3a57eb0e68a258a2343eabb232a395",
+            "size": 10270,
+            "name": "objednavka-vyexpedovana-ppl.gif"
+        },
+        {
+            "mime_type": "image/jpeg",
+            "cte": "BASE64",
+            "flags": 0,
+            "pepca": "p51043bf2e7d4338a",
+            "cid": "promobox-2014-10a-reklamni-predmety-v2_mail",
+            "sumphash": "ca2a99b8940b7515d3e5cda02f124b51",
+            "size": 22128,
+            "name": "promobox-2014-10a-reklamni-predmety-v2_mail.jpg"
+        },
+        {
+            "mime_type": "image/jpeg",
+            "cte": "BASE64",
+            "flags": 0,
+            "pepca": "p2601d76a5845b49e",
+            "cid": "promobox-2014-06-kalendare-diare-2015_mail",
+            "sumphash": "bfd1a74f15eca74586263a0292709827",
+            "size": 18871,
+            "name": "promobox-2014-06-kalendare-diare-2015_mail.jpg"
+        },
+        {
+            "mime_type": "image/jpeg",
+            "cte": "BASE64",
+            "flags": 0,
+            "pepca": "p13b21d7b52ce3482",
+            "cid": "promobox-2014-07-kalendare-na-miru_mail",
+            "sumphash": "6a61c62dc166a1f257c1ae84d9433297",
+            "size": 18862,
+            "name": "promobox-2014-07-kalendare-na-miru_mail.jpg"
+        },
+        {
+            "mime_type": "image/jpeg",
+            "cte": "BASE64",
+            "flags": 0,
+            "pepca": "pab696bc1c863f59e",
+            "cid": "promobox-2014-04c-usb-na-miru_mail",
+            "sumphash": "52b252b4e2714d944f62d0e86e74ecdd",
+            "size": 17859,
+            "name": "promobox-2014-04c-usb-na-miru_mail.jpg"
+        },
+        {
+            "mime_type": "image/jpeg",
+            "cte": "BASE64",
+            "flags": 0,
+            "pepca": "p8c5ed92e71b8bbee",
+            "cid": "LASTOVKOVAI",
+            "sumphash": "c197b07da90e06dedcd043e980083fe5",
+            "size": 7577,
+            "name": "LASTOVKOVAI-contact.jpg"
+        },
+        {
+            "mime_type": "image/jpeg",
+            "cte": "BASE64",
+            "flags": 0,
+            "pepca": "pfaa2bc5df4be5222",
+            "cid": "HOMOLOVAP",
+            "sumphash": "d72ddeb85c64db764758c4c6e10e3052",
+            "size": 7396,
+            "name": "HOMOLOVAP-contact.jpg"
+        },
+        {
+            "sumphash": "ba54071489fb0becd20be7d9ca0f2b7d",
+            "first10words": "iNETPrintCZ Prezentace sluz eb final",
+            "cte": "BASE64",
+            "flags": 0,
+            "lang": "un",
+            "mime_type": "application/pdf",
+            "size": 251487,
+            "name": "P\u0159ehled sortimentu a slu\u017eeb - iNETPrint.cz.pdf"
+        }
+    ],
+    "html_tr_tag_count": 28,
+    "extractedEmails": [
+        "lastovkova@inetprint.cz?subject=Dotaz k objednavce 5010271638",
+        "homolova@inetprint.cz?subject=Dotaz k objednavce 5010271638",
+        "obchod@inetprint.cz",
+        "lastovkova@inetprint.cz",
+        "homolova@inetprint.cz"
+    ],
+    "html_tag_total_count": 273,
+    "mime_children_count": 2,
+    "spamtrap_hit": false,
+    "extractedEmailsDomainCount": 2,
+    "extractedHrefUrlsTotalCount": 6,
+    "extractedSrcUrlsCardinality": 9,
+    "spamscore": 1.1,
+    "ahref_total_count": 3,
+    "extractedEmailsCardinality": 5,
+    "extractedSrcUrlsTotalCount": 9,
+    "dkim_count": 0,
+    "adscore": 0,
+    "pepca": "p54b1741df5c240f3",
+    "dkStatusDetail": "NOT_SIGNED",
+    "html_script_tag_count": 0,
+    "date_difference": -73527740,
+    "html_in_text_plain_count": 0,
+    "pepca_style": "p4c19010dabe28f2c",
+    "word_count": 451,
+    "rfcid_length": 39,
+    "spf_dom_policy_registry": "Policy not found",
+    "pepcatotal": 0,
+    "last10words": "lecnosti iNET Solutions s r o A 2004 2012 A A A A A A A A A A A A A A A IC 26775751 DIC CZ26775751 ",
+    "extractedHrefUrls": [
+        "http://www.ppl.cz/main2.aspx?cls=Package&idSearch=81482746130",
+        "http://www.inetprint.cz/katalog-reklamnich-predmetu/?action=setfilter&ShowNews=true&cmpg=inp_bpm_201410a&utm_source=mail-promobo",
+        "http://www.inetprint.cz/kalendare-diare/?cmpg=inp_bpm_201407a&utm_source=mail-promobox&utm_medium=email&utm_term=kalendare-diare",
+        "http://www.inetprint.cz/tisk-vyroba-kalendaru/?cmpg=inp_bpm_201407b&utm_source=mail-promobox&utm_medium=email&utm_term=kalendare",
+        "http://www.inetprint.cz/usb-flash-disky-na-miru/?cmpg=inp_bpm_201404c&utm_source=mail-promobox&utm_medium=email&utm_term=usb-na-"
+    ],
+    "spfstatus_hfrom": "SPF_FAIL",
+    "header_reply_to_count": 0,
+    "senders": {
+        "log_cnt_idf_detail": [],
+        "log_ecnt_idf_detail": [],
+        "tf_log_idf": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "cnt-pow4_w_duc_detail": [],
+        "ttf_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "src_revert": "",
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "plain_domain": "inetprint",
+        "src_revert_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "plain_domain_detail": [
+            {
+                "confidence": 2,
+                "domain": "inetprint"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "tf_log_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 63728072.47544,
+                "domain": "masterinter"
+            }
+        ],
+        "domain_keywords": "masterinter",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt_idf": ""
+    },
+    "dk_statuses": [
+        {
+            "statusDetail": "NOT_SIGNED",
+            "status": "NEUTRAL"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "extractedSrcUrls": [
+        "cid:HOMOLOVAP",
+        "cid:promobox-2014-10a-reklamni-predmety-v2_mail",
+        "cid:promobox-2014-06-kalendare-diare-2015_mail",
+        "cid:promobox-2014-07-kalendare-na-miru_mail",
+        "cid:promobox-2014-04c-usb-na-miru_mail"
+    ],
+    "list_unsubscribe_http_count": 0,
+    "extractedHrefUrlsDomainCount": 2,
+    "subject": "Objednavka c 5010271638 vyexpedovana PPL baliky",
+    "list_unsubscribe_total_count": 0,
+    "extractedSrcUrlsDomainCount": 0,
+    "ahref_camouflage_count": 0,
+    "list_unsubscribe_invalid_count": 0,
+    "header_from": "homolova@inetprint.cz"
+}

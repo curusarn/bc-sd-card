@@ -1,0 +1,291 @@
+{
+    "adscore": 0, 
+    "ahref_camouflage_count": 1, 
+    "ahref_total_count": 4, 
+    "ahref_verbal_count": 1, 
+    "attachments": [
+        {
+            "cid": "f003d12efe47f13687266713ec521d63", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "image/gif", 
+            "name": "", 
+            "pepca": "pf5706d6aa1f006d3", 
+            "size": 1582, 
+            "sumphash": "a5d4e42d3798d6bbaf2ccd39888b7224"
+        }, 
+        {
+            "cid": "2caec0b33924072ae0c06f0372770cb0", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "image/gif", 
+            "name": "", 
+            "pepca": "p1d223c0d33155d7d", 
+            "size": 1258, 
+            "sumphash": "eed3108a59a27aa79bf60ed915efec89"
+        }, 
+        {
+            "cid": "29e911067b7627128eebb3bbd191440e", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "image/gif", 
+            "name": "", 
+            "pepca": "p581145c5c99340df", 
+            "size": 9170, 
+            "sumphash": "6c79ac240492e80ec38e615554dbca73"
+        }, 
+        {
+            "cid": "01f1de9d759444dd29ebf595021c40a3", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "image/gif", 
+            "name": "", 
+            "pepca": "p25a20364c2d140ff", 
+            "size": 1012, 
+            "sumphash": "c948de7a62b8bf1928c45d309fa8ca37"
+        }, 
+        {
+            "cid": "3c1161e904eb9c2904a537a0c00cc804", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "image/gif", 
+            "name": "", 
+            "pepca": "p76eda00e10630392", 
+            "size": 1987, 
+            "sumphash": "d3bf7ca9385a5bf2e00a1cbbcd53339a"
+        }
+    ], 
+    "content": "CONTENT_DEFAULT", 
+    "date_difference": -79831953, 
+    "dkStatusDetail": "NOT_SIGNED", 
+    "dk_statuses": [
+        {
+            "status": "NEUTRAL", 
+            "statusDetail": "NOT_SIGNED"
+        }
+    ], 
+    "dkim_count": 0, 
+    "dkim_efrom_match": 0, 
+    "dkim_hfrom_match": 0, 
+    "dkim_passed_count": 0, 
+    "dkim_signs_cnt": 1, 
+    "dkstatus": "NEUTRAL", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/1499c0a1187352b0fa88767ce81cd478.eml", 
+    "extractedEmails": [
+        "klarunka.m@seznam.cz"
+    ], 
+    "extractedEmailsCardinality": 1, 
+    "extractedEmailsDomainCount": 1, 
+    "extractedEmailsTotalCount": 1, 
+    "extractedHrefUrls": [
+        "http://www.parfemy-elnino.cz", 
+        "http://www.parfemy-elnino.cz/potvrzeni-zmeny-hesla?action=confirmchange&email=klarunka.m@seznam.cz&confirm=bee282b0d552f8554e8fe", 
+        "http://www.facebook.com/parfumerie.elnino.cz", 
+        "http://www.parfemy-elnino.cz/nase-vyhody.html#nejkvalitnejsi-parfumerie", 
+        "http://twitter.com/#!/elninocz"
+    ], 
+    "extractedHrefUrlsCardinality": 5, 
+    "extractedHrefUrlsDomainCount": 3, 
+    "extractedHrefUrlsTotalCount": 5, 
+    "extractedSrcUrls": [
+        "cid:f003d12efe47f13687266713ec521d63", 
+        "cid:2caec0b33924072ae0c06f0372770cb0", 
+        "cid:29e911067b7627128eebb3bbd191440e", 
+        "cid:01f1de9d759444dd29ebf595021c40a3", 
+        "cid:3c1161e904eb9c2904a537a0c00cc804"
+    ], 
+    "extractedSrcUrlsCardinality": 5, 
+    "extractedSrcUrlsDomainCount": 0, 
+    "extractedSrcUrlsTotalCount": 5, 
+    "extractedTxtUrls": [
+        "http://www.parfemy-elnino.cz/potvrzeni-zmeny-hesla?action=confirmchange&email=klarunka.m@seznam.cz&confirm=bee282b0d552f8554e8fe", 
+        "http://Elnino.cz"
+    ], 
+    "extractedTxtUrlsCardinality": 2, 
+    "extractedTxtUrlsDomainCount": 2, 
+    "extractedTxtUrlsTotalCount": 2, 
+    "first10words": " Zmena hesla Vazena zakaznice vazeny zakazniku Obdrzeli jsme od Vas po", 
+    "from_match": 0, 
+    "header_from": "info@elnino.cz", 
+    "header_from_count": 1, 
+    "header_reply_to_count": 0, 
+    "header_total_count": 11, 
+    "html_in_text_plain_count": 0, 
+    "html_script_tag_count": 0, 
+    "html_tag_total_count": 125, 
+    "html_td_tag_count": 38, 
+    "html_tr_tag_count": 26, 
+    "lang": "cs", 
+    "last10words": " a prejeme prijemny zbytek dne Vase internetova parfumerie Elnino cz ", 
+    "list_unsubscribe_http_count": 0, 
+    "list_unsubscribe_invalid_count": 0, 
+    "list_unsubscribe_mailto_count": 0, 
+    "list_unsubscribe_total_count": 0, 
+    "mime_children_count": 6, 
+    "mime_children_types": [
+        "multipart/alternative", 
+        "image/gif", 
+        "image/gif", 
+        "image/gif", 
+        "image/gif", 
+        "image/gif"
+    ], 
+    "mime_root_type": "multipart/related", 
+    "notches": [
+        {
+            "module": "ill", 
+            "name": [
+                "date_in_past", 
+                "from_missmatch", 
+                "html_a_href_camouflaging"
+            ], 
+            "score": 1.1, 
+            "subscores": [
+                1, 
+                0.0, 
+                0.1
+            ]
+        }
+    ], 
+    "now": 1494598190, 
+    "pepca": "p9cbac5fb3236d4cb", 
+    "pepca_inline_style": "p993e0992645d71ed", 
+    "pepca_inline_style_total": 0, 
+    "pepca_style": "", 
+    "pepca_style_total": 0, 
+    "pepcatotal": 0, 
+    "phashes": [
+        {
+            "name": "att-pepca", 
+            "value": "pf5706d6aa1f006d3"
+        }, 
+        {
+            "name": "att-pepca", 
+            "value": "p1d223c0d33155d7d"
+        }, 
+        {
+            "name": "att-pepca", 
+            "value": "p581145c5c99340df"
+        }, 
+        {
+            "name": "att-pepca", 
+            "value": "p25a20364c2d140ff"
+        }, 
+        {
+            "name": "att-pepca", 
+            "value": "p76eda00e10630392"
+        }, 
+        {
+            "name": "pepca", 
+            "value": "p9cbac5fb3236d4cb"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "p993e0992645d71ed"
+        }
+    ], 
+    "phish_score": 0, 
+    "phishing": {
+        "body_richness": 0.195431472081218, 
+        "camouflage": 1, 
+        "fake_https": 0, 
+        "html_form": 0, 
+        "is_html": true, 
+        "max_num_dots_urls": 4, 
+        "max_num_slashes_urls": 2, 
+        "num_black_sheep_link": -1, 
+        "num_black_sheep_link_global": -1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_external_links": 5, 
+        "num_freehost_urls": 0, 
+        "num_html_script_tags": 0, 
+        "num_https_urls": 0, 
+        "num_ip_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "num_of_chars": 787, 
+        "num_param_phish": 0, 
+        "num_path_phish": 0, 
+        "num_phish_keywords": 6, 
+        "num_sender_diff_url": 3, 
+        "num_shortened_urls": 0, 
+        "num_subdomain_phish": 0, 
+        "num_text_forms": 1, 
+        "num_tld_in_url_path": 0, 
+        "num_www_in_url_path": 0, 
+        "subject_phish_keywords": 1, 
+        "subject_richness": 0.166666666666667, 
+        "suspicious_links": [], 
+        "text_and_href": 1, 
+        "text_link_with_path": 1
+    }, 
+    "precedence": 3, 
+    "rcpts_count": 1, 
+    "rfcid_is_foreign": 0, 
+    "rfcid_is_invalid": false, 
+    "rfcid_length": 34, 
+    "self_send": 0, 
+    "senders": {
+        "cnt-pow4_w_duc": "", 
+        "cnt-pow4_w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "domain_keywords": "elnino", 
+        "domain_keywords_detail": [
+            {
+                "confidence": 16634745.56252, 
+                "domain": "elnino"
+            }
+        ], 
+        "ettf_w_duc": "", 
+        "ettf_w_duc_detail": [], 
+        "idf": "", 
+        "idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "log_cnt-w_duc_detail": [], 
+        "log_cnt_idf": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "log_ecnt_idf": "", 
+        "log_ecnt_idf_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "log_ecnt_log_idf_log_tidf": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "plain_domain": "parfemy-elnino", 
+        "plain_domain_detail": [
+            {
+                "confidence": 1, 
+                "domain": "parfemy-elnino"
+            }, 
+            {
+                "confidence": 1, 
+                "domain": "elnino"
+            }
+        ], 
+        "src_revert": "", 
+        "src_revert_detail": [], 
+        "tf_log_idf": "", 
+        "tf_log_idf_detail": [], 
+        "ttf_w_duc": "", 
+        "ttf_w_duc_detail": []
+    }, 
+    "spamscore": 1.1, 
+    "spamtrap_hit": false, 
+    "spf_dom_policy_registry": "Policy not found", 
+    "spf_domain_policy": "UNKNOWN", 
+    "spf_status_registry": "Status not found", 
+    "spfstatus": "NONE", 
+    "spfstatus_hfrom": "SPF_PASS", 
+    "subject": "Nove heslo", 
+    "subject_image_count": 0, 
+    "subject_word_count": 2, 
+    "word_count": 154
+}

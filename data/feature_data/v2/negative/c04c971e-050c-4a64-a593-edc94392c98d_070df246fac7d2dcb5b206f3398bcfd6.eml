@@ -1,0 +1,221 @@
+{
+    "adscore": 0, 
+    "ahref_camouflage_count": 0, 
+    "ahref_total_count": 50, 
+    "ahref_verbal_count": 47, 
+    "attachments": [], 
+    "contains_list_header": true, 
+    "content": "CONTENT_DEFAULT", 
+    "date_difference": -72578678, 
+    "dk_statuses": [
+        {
+            "domain": "merry-cherry.com", 
+            "selector": "mx1", 
+            "status": "PASS"
+        }
+    ], 
+    "dkdomain": "merry-cherry.com", 
+    "dkim_count": 1, 
+    "dkim_efrom_match": 0, 
+    "dkim_hfrom_match": 1, 
+    "dkim_passed_count": 1, 
+    "dkim_signs_cnt": 1, 
+    "dkselector": "mx1", 
+    "dkstatus": "PASS", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/070df246fac7d2dcb5b206f3398bcfd6.eml", 
+    "extractedEmails": [], 
+    "extractedEmailsCardinality": 0, 
+    "extractedEmailsDomainCount": 0, 
+    "extractedEmailsTotalCount": 0, 
+    "extractedHrefUrls": [
+        "http://merry-cherry.com/profile.php?ID=2758640&utm_campaign=default&utm_medium=email&utm_source=all_notification&utm_content=pho", 
+        "http://merry-cherry.com/profile.php?ID=2758640&utm_campaign=default&utm_medium=email&utm_source=all_notification&utm_content=nam", 
+        "http://merry-cherry.com/member_2.php?ID=Terkel&Password=seqwmfAluqQfo&Location=cc.php&utm_campaign=default&utm_medium=email&utm_", 
+        "http://merry-cherry.com/contact.php?utm_campaign=default&utm_medium=email&utm_source=all_notification&utm_content=contact", 
+        "http://merry-cherry.com/unsubscribe.php?utm_campaign=default&utm_medium=email&utm_source=all_notification&utm_content=unsubscrib"
+    ], 
+    "extractedHrefUrlsCardinality": 47, 
+    "extractedHrefUrlsDomainCount": 1, 
+    "extractedHrefUrlsTotalCount": 47, 
+    "extractedSrcUrls": [
+        "http://merry-cherry.com/media/images/profile/2771631_0_60892.jpg", 
+        "http://merry-cherry.com/media/images/profile/2703494_0_85486.jpg", 
+        "http://merry-cherry.com/media/images/profile/2796621_0_58650.jpg", 
+        "http://merry-cherry.com/media/images/profile/2782400_0_26397.jpg", 
+        "http://merry-cherry.com/media/images/profile/2758640_0_95095.jpg"
+    ], 
+    "extractedSrcUrlsCardinality": 17, 
+    "extractedSrcUrlsDomainCount": 1, 
+    "extractedSrcUrlsTotalCount": 17, 
+    "extractedTxtUrls": [
+        "http://Merry-Cherry.com", 
+        "http://merry-cherry.com/inbox.php", 
+        "http://merry-cherry.com/contact.php", 
+        "http://merry-cherry.com/unsubscribe.php", 
+        "http://merry-cherry.com/"
+    ], 
+    "extractedTxtUrlsCardinality": 5, 
+    "extractedTxtUrlsDomainCount": 1, 
+    "extractedTxtUrlsTotalCount": 5, 
+    "first10words": " Hello Tomas Today is a lucky day These wonderful ladies want to start talking to you New messages from ", 
+    "from_match": 0, 
+    "header_from": "email_notify@merry-cherry.com", 
+    "header_from_count": 1, 
+    "header_reply_to_count": 1, 
+    "header_total_count": 14, 
+    "html_in_text_plain_count": 0, 
+    "html_script_tag_count": 0, 
+    "html_tag_total_count": 702, 
+    "html_td_tag_count": 310, 
+    "html_tr_tag_count": 190, 
+    "lang": "en", 
+    "last10words": "low the link http merry cherry com unsubscribe php Always here to assist you Merry Cherry com Support Team http merry cherry com ", 
+    "list_unsubscribe_http_count": 0, 
+    "list_unsubscribe_invalid_count": 0, 
+    "list_unsubscribe_mailto_count": 1, 
+    "list_unsubscribe_total_count": 1, 
+    "list_unsubscribe_urls": [
+        "mailto:unsubscribe@merry-cherry.com?subject=Unsubscribe_2791789"
+    ], 
+    "mime_children_count": 0, 
+    "mime_children_types": [], 
+    "mime_root_type": "text/html", 
+    "notches": [
+        {
+            "module": "ill", 
+            "name": [
+                "date_in_past", 
+                "from_missmatch", 
+                "long_subject"
+            ], 
+            "score": 1.5, 
+            "subscores": [
+                1, 
+                0.0, 
+                0.5
+            ]
+        }
+    ], 
+    "now": 1494598177, 
+    "pepca": "p382a70205e3d4fb2", 
+    "pepca_inline_style": "p31df7bb275272990", 
+    "pepca_inline_style_total": 0, 
+    "pepca_style": "", 
+    "pepca_style_total": 0, 
+    "pepcatotal": 0, 
+    "phashes": [
+        {
+            "name": "pepca", 
+            "value": "p382a70205e3d4fb2"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "p31df7bb275272990"
+        }
+    ], 
+    "phish_score": 0, 
+    "phishing": {
+        "body_richness": 0.306073153899241, 
+        "camouflage": 0, 
+        "fake_https": 0, 
+        "html_form": 0, 
+        "is_html": true, 
+        "max_num_dots_urls": 3, 
+        "max_num_slashes_urls": 1, 
+        "num_black_sheep_link": -1, 
+        "num_black_sheep_link_global": -1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_external_links": 10, 
+        "num_freehost_urls": 0, 
+        "num_html_script_tags": 0, 
+        "num_https_urls": 0, 
+        "num_ip_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "num_of_chars": 2897, 
+        "num_param_phish": 0, 
+        "num_path_phish": 0, 
+        "num_phish_keywords": 3, 
+        "num_sender_diff_url": 0, 
+        "num_shortened_urls": 0, 
+        "num_subdomain_phish": 0, 
+        "num_text_forms": 0, 
+        "num_tld_in_url_path": 0, 
+        "num_www_in_url_path": 0, 
+        "subject_phish_keywords": 0, 
+        "subject_richness": 0.2, 
+        "suspicious_links": [], 
+        "text_and_href": 0, 
+        "text_link_with_path": 3
+    }, 
+    "precedence": 3, 
+    "rcpts_count": 1, 
+    "rfcid_is_foreign": 0, 
+    "rfcid_is_invalid": false, 
+    "rfcid_length": 46, 
+    "self_send": 0, 
+    "senders": {
+        "cnt-pow4_w_duc": "", 
+        "cnt-pow4_w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "domain_keywords": "merry-cherry", 
+        "domain_keywords_detail": [
+            {
+                "confidence": 868486310.9692, 
+                "domain": "merry-cherry"
+            }
+        ], 
+        "ettf_w_duc": "", 
+        "ettf_w_duc_detail": [], 
+        "idf": "", 
+        "idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "log_cnt-w_duc_detail": [], 
+        "log_cnt_idf": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "log_ecnt_idf": "", 
+        "log_ecnt_idf_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "log_ecnt_log_idf_log_tidf": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "plain_domain": "merry-cherry", 
+        "plain_domain_detail": [
+            {
+                "confidence": 2, 
+                "domain": "merry-cherry"
+            }
+        ], 
+        "src_revert": "merry-cherry", 
+        "src_revert_detail": [
+            {
+                "confidence": 17, 
+                "domain": "merry-cherry"
+            }
+        ], 
+        "tf_log_idf": "", 
+        "tf_log_idf_detail": [], 
+        "ttf_w_duc": "", 
+        "ttf_w_duc_detail": []
+    }, 
+    "spamscore": 1.5, 
+    "spamtrap_hit": false, 
+    "spf_dom_policy_registry": "Policy not found", 
+    "spf_domain_policy": "UNKNOWN", 
+    "spf_status_registry": "Status not found", 
+    "spfstatus": "NONE", 
+    "spfstatus_hfrom": "SPF_SOFTFAIL", 
+    "subject": "Tomas 27 ladies liked and emailed you on 22 01 2015", 
+    "subject_image_count": 0, 
+    "subject_word_count": 11, 
+    "word_count": 887
+}

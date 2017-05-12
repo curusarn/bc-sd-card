@@ -1,0 +1,285 @@
+{
+    "adNotches": [
+        {
+            "module": "ill", 
+            "name": [
+                "images_in_subject"
+            ], 
+            "score": 5, 
+            "subscores": [
+                5
+            ]
+        }
+    ], 
+    "adscore": 5, 
+    "ahref_camouflage_count": 0, 
+    "ahref_total_count": 8, 
+    "ahref_verbal_count": 4, 
+    "attachments": [], 
+    "contains_list_header": true, 
+    "content": "CONTENT_DEFAULT", 
+    "date_difference": -79806730, 
+    "dk_statuses": [
+        {
+            "domain": "email1.garmin.com", 
+            "selector": "key2", 
+            "status": "PASS"
+        }
+    ], 
+    "dkdomain": "email1.garmin.com", 
+    "dkim_count": 1, 
+    "dkim_efrom_match": 0, 
+    "dkim_hfrom_match": 1, 
+    "dkim_passed_count": 1, 
+    "dkim_signs_cnt": 1, 
+    "dkselector": "key2", 
+    "dkstatus": "PASS", 
+    "dmarc_status": {}, 
+    "domainstat": {}, 
+    "domainstat_themes": {}, 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/b81e4b42d9a33b323b728291d2991443.eml", 
+    "extractedEmails": [
+        "productsupport@garmin.com"
+    ], 
+    "extractedEmailsCardinality": 1, 
+    "extractedEmailsDomainCount": 1, 
+    "extractedEmailsTotalCount": 1, 
+    "extractedHrefUrls": [
+        "http://info.garmin.com/u/nrd.php?p=4NLHSYUvxX_71066_97324_1_3", 
+        "http://info.garmin.com/u/nrd.php?p=4NLHSYUvxX_71066_97324_1_4", 
+        "http://info.garmin.com/u/un.php?par=4NLHSYUvxX_97324_71066_1", 
+        "http://info.garmin.com/u/nrd.php?p=4NLHSYUvxX_71066_97324_1_12", 
+        "http://info.garmin.com/u/nrd.php?p=4NLHSYUvxX_71066_97324_1_13"
+    ], 
+    "extractedHrefUrlsCardinality": 8, 
+    "extractedHrefUrlsDomainCount": 1, 
+    "extractedHrefUrlsTotalCount": 8, 
+    "extractedSrcUrls": [
+        "https://static.garmincdn.com/shared/email/reg/garminHeader.jpg", 
+        "https://static.garmincdn.com/shared/email/reg/banAutomotive.jpg", 
+        "http://info.garmin.com/img/4NLHSYUvxX_120148819_97324_71066.gif"
+    ], 
+    "extractedSrcUrlsCardinality": 3, 
+    "extractedSrcUrlsDomainCount": 2, 
+    "extractedSrcUrlsTotalCount": 3, 
+    "extractedTxtUrls": [
+        "http://Garmin.com.", 
+        "http://my.garmin.com", 
+        "http://www.garmin.com/privacy", 
+        "http://Garmin.com", 
+        "http://www.garmin.com/privacy."
+    ], 
+    "extractedTxtUrlsCardinality": 5, 
+    "extractedTxtUrlsDomainCount": 1, 
+    "extractedTxtUrlsTotalCount": 5, 
+    "first10words": " Registrace nuvi 250W probehla uspesne Nezobrazuje se vam tento e mail Zobrazit jako webovou stranku ", 
+    "from_match": 0, 
+    "header_from": "reply@email1.garmin.com", 
+    "header_from_count": 1, 
+    "header_reply_to_count": 0, 
+    "header_total_count": 18, 
+    "html_in_text_plain_count": 0, 
+    "html_script_tag_count": 0, 
+    "html_tag_total_count": 175, 
+    "html_td_tag_count": 48, 
+    "html_tr_tag_count": 34, 
+    "lang": "cs", 
+    "last10words": "Kansas 66062 913 397 8200 Garmin com Ochrana osobnich udaju ", 
+    "list_unsubscribe_http_count": 1, 
+    "list_unsubscribe_invalid_count": 0, 
+    "list_unsubscribe_mailto_count": 0, 
+    "list_unsubscribe_total_count": 1, 
+    "list_unsubscribe_urls": [
+        "http://info.garmin.com/u/lu.php?lu=n7dL$:,6D:Bsf:4NLHSYUvxX"
+    ], 
+    "mime_children_count": 2, 
+    "mime_children_types": [
+        "text/plain", 
+        "text/html"
+    ], 
+    "mime_root_type": "multipart/alternative", 
+    "notches": [
+        {
+            "module": "ill", 
+            "name": [
+                "date_in_past", 
+                "from_missmatch", 
+                "images_in_subject"
+            ], 
+            "score": 2, 
+            "subscores": [
+                1, 
+                0.0, 
+                1
+            ]
+        }
+    ], 
+    "now": 1494598398, 
+    "pepca": "p8db58fe8766b8fe5", 
+    "pepca_inline_style": "p956ca09b448d7ce8", 
+    "pepca_inline_style_total": 4, 
+    "pepca_style": "", 
+    "pepca_style_total": 0, 
+    "pepcatotal": 4, 
+    "phNotches": [
+        {
+            "module": "phish-score", 
+            "name": [
+                "from_mismatch", 
+                "phisheable", 
+                "phish_keyword", 
+                "unsub_link"
+            ], 
+            "score": -0.5, 
+            "subscores": [
+                1, 
+                0.5, 
+                0.0, 
+                -2
+            ]
+        }
+    ], 
+    "phashes": [
+        {
+            "name": "pepca", 
+            "value": "p8db58fe8766b8fe5"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "p956ca09b448d7ce8"
+        }
+    ], 
+    "phish_score": 1.25, 
+    "phishing": {
+        "body_richness": 0.192866578599736, 
+        "camouflage": 0, 
+        "fake_https": 0, 
+        "html_form": 0, 
+        "is_html": true, 
+        "max_num_dots_urls": 3, 
+        "max_num_slashes_urls": 2, 
+        "num_attachments": 0, 
+        "num_black_sheep_link": -1, 
+        "num_black_sheep_link_global": -1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_external_links": 8, 
+        "num_freehost_urls": 0, 
+        "num_html_script_tags": 0, 
+        "num_https_urls": 2, 
+        "num_ip_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "num_of_chars": 1513, 
+        "num_param_phish": 0, 
+        "num_path_phish": 0, 
+        "num_phish_keywords": 5, 
+        "num_sender_diff_url": 0, 
+        "num_shortened_urls": 0, 
+        "num_subdomain_phish": 0, 
+        "num_subject_phish_keywords": 0, 
+        "num_text_forms": 3, 
+        "num_tld_in_url_path": 0, 
+        "num_www_in_url_path": 0, 
+        "subject_phish_keywords": 0, 
+        "subject_richness": 0.12280701754386, 
+        "suspicious_links": [], 
+        "text_and_href": 0, 
+        "text_link_with_path": 2
+    }, 
+    "precedence": 3, 
+    "rcpts_count": 1, 
+    "rfcid_is_foreign": 0, 
+    "rfcid_is_invalid": false, 
+    "rfcid_length": 50, 
+    "self_send": 0, 
+    "senders": {
+        "cnt-pow4_w_duc": "", 
+        "cnt-pow4_w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "domain_keywords": "ebay", 
+        "domain_keywords_detail": [
+            {
+                "confidence": 26352129.6394898, 
+                "domain": "ebay"
+            }
+        ], 
+        "ettf_w_duc": "", 
+        "ettf_w_duc_detail": [], 
+        "idf": "", 
+        "idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "log_cnt-w_duc_detail": [], 
+        "log_cnt_idf": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "log_ecnt_idf": "", 
+        "log_ecnt_idf_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "log_ecnt_log_idf_log_tidf": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "plain_domain": "garmin", 
+        "plain_domain_detail": [
+            {
+                "confidence": 3, 
+                "domain": "garmin"
+            }
+        ], 
+        "src_revert": "garmin", 
+        "src_revert_detail": [
+            {
+                "confidence": 2.03494956313046, 
+                "domain": "garmin"
+            }
+        ], 
+        "tf_log_idf": "", 
+        "tf_log_idf_detail": [], 
+        "ttf_w_duc": "", 
+        "ttf_w_duc_detail": []
+    }, 
+    "spamscore": 2, 
+    "spamtrap_hit": false, 
+    "spf_dom_policy_registry": "Policy not found", 
+    "spf_domain_policy": "UNKNOWN", 
+    "spf_status_registry": "Status not found", 
+    "spfstatus": "NONE", 
+    "spfstatus_hfrom": "SPF_SOFTFAIL", 
+    "subject": "Dekujeme za registraci vaseho zarizeni nuvi 250W", 
+    "subject_image_count": 1, 
+    "subject_word_count": 7, 
+    "theme": {}, 
+    "universalprobes": [
+        {
+            "key": "ps-from_mismatch", 
+            "value": "1"
+        }, 
+        {
+            "key": "ps-phish_keyword", 
+            "value": "['z\\xc3\\xadskat', 'p\\xc5\\x99\\xc3\\xadstup', 'schr\\xc3\\xa1nka', 'privacy', '\\xc3\\xba\\xc4\\x8det']"
+        }, 
+        {
+            "key": "ps-unsub_link", 
+            "value": "1"
+        }, 
+        {
+            "key": "ps-most-suspicious-links", 
+            "value": "[]"
+        }
+    ], 
+    "unsub_link": "http://info.garmin.com/u/un.php?par=4NLHSYUvxX_97324_71066_1", 
+    "unsub_link_candidates": [
+        "http://info.garmin.com/u/un.php?par=4NLHSYUvxX_97324_71066_1"
+    ], 
+    "unsub_link_texts": [
+        "nechtit li dostavat e mail z ucta mygarmin kliknout prosit sem "
+    ], 
+    "word_count": 292
+}

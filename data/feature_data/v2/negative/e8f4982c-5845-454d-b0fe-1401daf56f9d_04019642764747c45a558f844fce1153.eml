@@ -1,0 +1,209 @@
+{
+    "adscore": 0, 
+    "ahref_camouflage_count": 0, 
+    "ahref_total_count": 11, 
+    "ahref_verbal_count": 11, 
+    "attachments": [], 
+    "content": "CONTENT_DEFAULT", 
+    "date_difference": -72577525, 
+    "dk_statuses": [
+        {
+            "domain": "members.ebay.co.uk", 
+            "selector": "memdkim", 
+            "status": "PASS"
+        }
+    ], 
+    "dkdomain": "members.ebay.co.uk", 
+    "dkim_count": 1, 
+    "dkim_efrom_match": 0, 
+    "dkim_hfrom_match": 1, 
+    "dkim_passed_count": 1, 
+    "dkim_signs_cnt": 1, 
+    "dkselector": "memdkim", 
+    "dkstatus": "PASS", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/04019642764747c45a558f844fce1153.eml", 
+    "extractedEmails": [], 
+    "extractedEmailsCardinality": 0, 
+    "extractedEmailsDomainCount": 0, 
+    "extractedEmailsTotalCount": 0, 
+    "extractedHrefUrls": [
+        "http://rover.ebay.com/rover/0/e11051.m43.l1465/7?euid=50c084df00784a14817f77c6461c9da1&loc=http%3A%2F%2Fpages.ebay.com%2Flink%2F", 
+        "http://rover.ebay.com/rover/0/e11051.m1852.l6369/7?euid=50c084df00784a14817f77c6461c9da1&loc=http%3A%2F%2Focsnext.ebay.co.uk%2Fo", 
+        "http://rover.ebay.com/rover/0/e11051.m1852.l3167/7?euid=50c084df00784a14817f77c6461c9da1&loc=http%3A%2F%2Fpages.ebay.co.uk%2Fhel", 
+        "http://rover.ebay.com/rover/0/e11051.m1852.l3168/7?euid=50c084df00784a14817f77c6461c9da1&loc=http%3A%2F%2Fpages.ebay.co.uk%2Fhel", 
+        "http://rover.ebay.com/rover/0/e11051.m1852.l3165/7?euid=50c084df00784a14817f77c6461c9da1&loc=http%3A%2F%2Fpages.ebay.co.uk%2Fhel"
+    ], 
+    "extractedHrefUrlsCardinality": 10, 
+    "extractedHrefUrlsDomainCount": 1, 
+    "extractedHrefUrlsTotalCount": 10, 
+    "extractedSrcUrls": [
+        "http://p.ebaystatic.com/aw/logos/header_ebay_logo_132x46.gif", 
+        "http://rover.ebay.com/roveropen/0/e11051/7?euid=50c084df00784a14817f77c6461c9da1&exe=11477&ext=27998&sojTags=", 
+        "http://thumbs.ebaystatic.com/d/l200/pict/321645626495_1.jpg"
+    ], 
+    "extractedSrcUrlsCardinality": 3, 
+    "extractedSrcUrlsDomainCount": 2, 
+    "extractedSrcUrlsTotalCount": 3, 
+    "first10words": " eBay Hi Sorry I ve been away working My address is 3 J New message from", 
+    "from_match": 0, 
+    "header_from": "jgitti_fzsu6846pdj@members.ebay.co.uk", 
+    "header_from_count": 1, 
+    "header_reply_to_count": 0, 
+    "header_total_count": 13, 
+    "html_in_text_plain_count": 0, 
+    "html_script_tag_count": 0, 
+    "html_tag_total_count": 353, 
+    "html_td_tag_count": 86, 
+    "html_tr_tag_count": 80, 
+    "lang": "en", 
+    "last10words": "t for the contact data of your contracting party 2015 eBay Inc eBay Europe S a r l 22 24 Boulevard Royal L 2449 Luxembourg ", 
+    "list_unsubscribe_http_count": 0, 
+    "list_unsubscribe_invalid_count": 0, 
+    "list_unsubscribe_mailto_count": 0, 
+    "list_unsubscribe_total_count": 0, 
+    "mime_children_count": 2, 
+    "mime_children_types": [
+        "text/plain", 
+        "text/html"
+    ], 
+    "mime_root_type": "multipart/alternative", 
+    "notches": [
+        {
+            "module": "ill", 
+            "name": [
+                "date_in_past", 
+                "from_missmatch", 
+                "foreign_message_id", 
+                "long_subject"
+            ], 
+            "score": 1.6, 
+            "subscores": [
+                1, 
+                0.0, 
+                0.1, 
+                0.5
+            ]
+        }
+    ], 
+    "now": 1494598174, 
+    "pepca": "pc096adc975184a09", 
+    "pepca_inline_style": "p62a506ce259b229c", 
+    "pepca_inline_style_total": 0, 
+    "pepca_style": "p26e093ef2b350fb3", 
+    "pepca_style_total": 0, 
+    "pepcatotal": 0, 
+    "phashes": [
+        {
+            "name": "pepca", 
+            "value": "pc096adc975184a09"
+        }, 
+        {
+            "name": "pepca_style", 
+            "value": "p26e093ef2b350fb3"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "p62a506ce259b229c"
+        }
+    ], 
+    "phish_score": 0, 
+    "phishing": {
+        "body_richness": 0.252618855761483, 
+        "camouflage": 0, 
+        "fake_https": 0, 
+        "html_form": 0, 
+        "is_html": true, 
+        "max_num_dots_urls": 8, 
+        "max_num_slashes_urls": 4, 
+        "num_black_sheep_link": -1, 
+        "num_black_sheep_link_global": -1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_external_links": 8, 
+        "num_freehost_urls": 0, 
+        "num_html_script_tags": 0, 
+        "num_https_urls": 0, 
+        "num_ip_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "num_of_chars": 2481, 
+        "num_param_phish": 0, 
+        "num_path_phish": 0, 
+        "num_phish_keywords": 7, 
+        "num_sender_diff_url": 0, 
+        "num_shortened_urls": 0, 
+        "num_subdomain_phish": 0, 
+        "num_text_forms": 11, 
+        "num_tld_in_url_path": 0, 
+        "num_www_in_url_path": 0, 
+        "subject_phish_keywords": 0, 
+        "subject_richness": 0.140495867768595, 
+        "suspicious_links": [], 
+        "text_and_href": 0, 
+        "text_link_with_path": 0
+    }, 
+    "precedence": 3, 
+    "rcpts_count": 1, 
+    "rfcid_is_foreign": 1, 
+    "rfcid_is_invalid": false, 
+    "rfcid_length": 50, 
+    "self_send": 0, 
+    "senders": {
+        "cnt-pow4_w_duc": "", 
+        "cnt-pow4_w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "domain_keywords": "ebay", 
+        "domain_keywords_detail": [
+            {
+                "confidence": 4203966872.18338, 
+                "domain": "ebay"
+            }
+        ], 
+        "ettf_w_duc": "", 
+        "ettf_w_duc_detail": [], 
+        "idf": "", 
+        "idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "log_cnt-w_duc_detail": [], 
+        "log_cnt_idf": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "log_ecnt_idf": "", 
+        "log_ecnt_idf_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "log_ecnt_log_idf_log_tidf": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "plain_domain": "", 
+        "plain_domain_detail": [], 
+        "src_revert": "ebay", 
+        "src_revert_detail": [
+            {
+                "confidence": 3, 
+                "domain": "ebay"
+            }
+        ], 
+        "tf_log_idf": "", 
+        "tf_log_idf_detail": [], 
+        "ttf_w_duc": "", 
+        "ttf_w_duc_detail": []
+    }, 
+    "spamscore": 1.6, 
+    "spamtrap_hit": false, 
+    "spf_dom_policy_registry": "Policy not found", 
+    "spf_domain_policy": "UNKNOWN", 
+    "spf_status_registry": "Status not found", 
+    "spfstatus": "NONE", 
+    "spfstatus_hfrom": "SPF_SOFTFAIL", 
+    "subject": "Re Other jgittins123 sent a message about Electro Voice GSS15 Shuttlesound 15 400w Sub Bass Cabinets 321645626495", 
+    "subject_image_count": 0, 
+    "subject_word_count": 17, 
+    "word_count": 627
+}

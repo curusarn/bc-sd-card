@@ -1,0 +1,214 @@
+{
+    "adscore": 0, 
+    "ahref_camouflage_count": 0, 
+    "ahref_total_count": 11, 
+    "ahref_verbal_count": 8, 
+    "attachments": [], 
+    "contains_list_header": true, 
+    "content": "CONTENT_DEFAULT", 
+    "date_difference": -79554077, 
+    "dk_statuses": [
+        {
+            "domain": "naughtydate.com", 
+            "selector": "to", 
+            "status": "PASS"
+        }
+    ], 
+    "dkdomain": "naughtydate.com", 
+    "dkim_count": 1, 
+    "dkim_efrom_match": 0, 
+    "dkim_hfrom_match": 1, 
+    "dkim_passed_count": 1, 
+    "dkim_signs_cnt": 1, 
+    "dkselector": "to", 
+    "dkstatus": "PASS", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/992b466377e8b602729dba57b441db4c.eml", 
+    "extractedEmails": [
+        "georgoblack@seznam.cz"
+    ], 
+    "extractedEmailsCardinality": 1, 
+    "extractedEmailsDomainCount": 1, 
+    "extractedEmailsTotalCount": 1, 
+    "extractedHrefUrls": [
+        "https://www.naughtydate.com/site/autologin?emlTrack=1415044281-591b18f9bef511e38e3e68b599be7074-UGFzc3dvcmRSZW1pbmRlclRndGg%3D-Z", 
+        "https://www.naughtydate.com/site/autologin?emlTrack=1415044281-591b18f9bef511e38e3e68b599be7074-UGFzc3dvcmRSZW1pbmRlclRndGg%3D-Z", 
+        "", 
+        "http://www.naughtydate.com/staticPage/privacypolicy", 
+        "http://www.naughtydate.com/staticPage/terms"
+    ], 
+    "extractedHrefUrlsCardinality": 6, 
+    "extractedHrefUrlsDomainCount": 1, 
+    "extractedHrefUrlsTotalCount": 6, 
+    "extractedSrcUrls": [
+        "http://www.naughtydate.com/assets/static/d34e7189/logoND.png", 
+        "http://www.naughtydate.com/site/emailOpen?uniqmessageId=4520df8d56d7479b81bc1bc401a5b462&uid=04eae151637b11e49ef5441ea14ed80c&em"
+    ], 
+    "extractedSrcUrlsCardinality": 2, 
+    "extractedSrcUrlsDomainCount": 1, 
+    "extractedSrcUrlsTotalCount": 2, 
+    "first10words": " NaughtyDate Upgrade svuj ucet a kontaktuj vsechny uzivatele Odhlas zmenou nast", 
+    "from_match": 0, 
+    "header_from": "admin@naughtydate.com", 
+    "header_from_count": 1, 
+    "header_reply_to_count": 1, 
+    "header_total_count": 20, 
+    "html_in_text_plain_count": 3, 
+    "html_script_tag_count": 0, 
+    "html_tag_total_count": 255, 
+    "html_td_tag_count": 84, 
+    "html_tr_tag_count": 70, 
+    "lang": "cs", 
+    "last10words": "o 1374 Vincenti Buildings 28 19 Strait Street Valletta VLT 1432 Malta 44 3444824945 vase uzivatelske id 82501969 ", 
+    "list_unsubscribe_http_count": 0, 
+    "list_unsubscribe_invalid_count": 0, 
+    "list_unsubscribe_mailto_count": 1, 
+    "list_unsubscribe_total_count": 1, 
+    "list_unsubscribe_urls": [
+        "mailto:lu-ph@to.ropot.net?subject=050bc8a0637b11e49ef5441ea14ed80c&body=abbfdb121f4817b44b6252100581daadZ2VvcmdvYmxhY2tAc2V6bmFtLmN6LDQ1MjBkZjhkNTZkNzQ3OWI4MWJjMWJjNDAxYTViNDYy"
+    ], 
+    "mime_children_count": 2, 
+    "mime_children_types": [
+        "text/plain", 
+        "text/html"
+    ], 
+    "mime_root_type": "multipart/alternative", 
+    "notches": [
+        {
+            "module": "ill", 
+            "name": [
+                "date_in_past", 
+                "from_missmatch", 
+                "foreign_message_id"
+            ], 
+            "score": 1.1, 
+            "subscores": [
+                1, 
+                0.0, 
+                0.1
+            ]
+        }
+    ], 
+    "now": 1494598359, 
+    "pepca": "p307509f3187b8b67", 
+    "pepca_inline_style": "p7b94341b728d1375", 
+    "pepca_inline_style_total": 0, 
+    "pepca_style": "", 
+    "pepca_style_total": 0, 
+    "pepcatotal": 0, 
+    "phashes": [
+        {
+            "name": "pepca", 
+            "value": "p307509f3187b8b67"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "p7b94341b728d1375"
+        }
+    ], 
+    "phish_score": 0, 
+    "phishing": {
+        "body_richness": 0.356164383561644, 
+        "camouflage": 0, 
+        "fake_https": 0, 
+        "html_form": 0, 
+        "is_html": true, 
+        "max_num_dots_urls": 2, 
+        "max_num_slashes_urls": 2, 
+        "num_black_sheep_link": -1, 
+        "num_black_sheep_link_global": -1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_external_links": 7, 
+        "num_freehost_urls": 0, 
+        "num_html_script_tags": 0, 
+        "num_https_urls": 3, 
+        "num_ip_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "num_of_chars": 875, 
+        "num_param_phish": 0, 
+        "num_path_phish": 0, 
+        "num_phish_keywords": 7, 
+        "num_sender_diff_url": 0, 
+        "num_shortened_urls": 0, 
+        "num_subdomain_phish": 0, 
+        "num_text_forms": 14, 
+        "num_tld_in_url_path": 0, 
+        "num_www_in_url_path": 0, 
+        "subject_phish_keywords": 1, 
+        "subject_richness": 0.1, 
+        "suspicious_links": [], 
+        "text_and_href": 0, 
+        "text_link_with_path": 0
+    }, 
+    "precedence": 3, 
+    "rcpts_count": 1, 
+    "rfcid_is_foreign": 1, 
+    "rfcid_is_invalid": false, 
+    "rfcid_length": 62, 
+    "self_send": 0, 
+    "senders": {
+        "cnt-pow4_w_duc": "", 
+        "cnt-pow4_w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "domain_keywords": "naughtydate", 
+        "domain_keywords_detail": [
+            {
+                "confidence": 113597888.881599, 
+                "domain": "naughtydate"
+            }
+        ], 
+        "ettf_w_duc": "", 
+        "ettf_w_duc_detail": [], 
+        "idf": "", 
+        "idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "log_cnt-w_duc_detail": [], 
+        "log_cnt_idf": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "log_ecnt_idf": "", 
+        "log_ecnt_idf_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "log_ecnt_log_idf_log_tidf": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "plain_domain": "", 
+        "plain_domain_detail": [], 
+        "src_revert": "", 
+        "src_revert_detail": [], 
+        "tf_log_idf": "", 
+        "tf_log_idf_detail": [], 
+        "ttf_w_duc": "", 
+        "ttf_w_duc_detail": []
+    }, 
+    "spamscore": 1.1, 
+    "spamtrap_hit": false, 
+    "spf_dom_policy_registry": "Policy not found", 
+    "spf_domain_policy": "UNKNOWN", 
+    "spf_status_registry": "Status not found", 
+    "spfstatus": "NONE", 
+    "spfstatus_hfrom": "SPF_FAIL", 
+    "subject": "Pripomenuti hesla", 
+    "subject_image_count": 0, 
+    "subject_word_count": 2, 
+    "unsub_link": "http://www.naughtydate.com/staticPage/privacypolicy", 
+    "unsub_link_candidates": [
+        "https://www.naughtydate.com/site/autologin?emlTrack=1415044281-591b18f9bef511e38e3e68b599be7074-UGFzc3dvcmRSZW1pbmRlclRndGg%3D-ZUVtYWls-UGFzc3dvcmQgUmVtaW5kZXI%3D&key=bb4085a27e8180c5079df32e7e8dbc88&uniqmessageId=4520df8d56d7479b81bc1bc401a5b462&open=unsubscribe", 
+        "https://www.naughtydate.com/site/autologin?emlTrack=1415044281-591b18f9bef511e38e3e68b599be7074-UGFzc3dvcmRSZW1pbmRlclRndGg%3D-ZUVtYWls-UGFzc3dvcmQgUmVtaW5kZXI%3D&key=bb4085a27e8180c5079df32e7e8dbc88&uniqmessageId=4520df8d56d7479b81bc1bc401a5b462&open=unsubscribe", 
+        "http://www.naughtydate.com/staticPage/privacypolicy"
+    ], 
+    "unsub_link_texts": [
+        "svuj ucet a kontaktovat vsechen uzivatel odhlasit zmena nastaveni mail dobry den dracek zde byt vasi prihlasovaci udaj", 
+        " odhlasit se zmena vas emailovy predplatne", 
+        "zmena vas emailovy predplatne ochrana soukromy "
+    ], 
+    "word_count": 312
+}

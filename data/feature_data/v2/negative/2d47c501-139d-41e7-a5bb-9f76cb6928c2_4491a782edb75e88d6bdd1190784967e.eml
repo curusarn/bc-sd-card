@@ -1,0 +1,227 @@
+{
+    "adscore": 0, 
+    "ahref_camouflage_count": 1, 
+    "ahref_total_count": 7, 
+    "ahref_verbal_count": 5, 
+    "attachments": [], 
+    "content": "CONTENT_DEFAULT", 
+    "date_difference": -79991778, 
+    "dk_statuses": [
+        {
+            "domain": "slevoking.cz", 
+            "selector": "mandrill", 
+            "status": "PASS"
+        }, 
+        {
+            "domain": "mandrillapp.com", 
+            "selector": "mandrill", 
+            "status": "PASS"
+        }
+    ], 
+    "dkdomain": "slevoking.cz", 
+    "dkim_count": 2, 
+    "dkim_efrom_match": 0, 
+    "dkim_hfrom_match": 1, 
+    "dkim_passed_count": 2, 
+    "dkim_signs_cnt": 2, 
+    "dkselector": "mandrill", 
+    "dkstatus": "PASS", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/4491a782edb75e88d6bdd1190784967e.eml", 
+    "extractedEmails": [
+        "podpora@slevoking.cz"
+    ], 
+    "extractedEmailsCardinality": 1, 
+    "extractedEmailsDomainCount": 1, 
+    "extractedEmailsTotalCount": 1, 
+    "extractedHrefUrls": [
+        "http://mandrillapp.com/track/click/30134842/slevoking.cz?p=eyJzIjoiaXY0RW9OdE8wOVB1NHFPLUhfVndDSDNFaWtvIiwidiI6MSwicCI6IntcInVcI", 
+        "http://mandrillapp.com/track/click/30134842/slevoking.cz?p=eyJzIjoiM2U5NlZHZFBzbklyM2xkcFRfT2JlRjYyY3hzIiwidiI6MSwicCI6IntcInVcI", 
+        "http://mandrillapp.com/track/click/30134842/www.facebook.com?p=eyJzIjoiYnNRc3VlX2tNcXBteXBnQ05LWHhaYXZUWmtFIiwidiI6MSwicCI6IntcI", 
+        "http://mandrillapp.com/track/click/30134842/instagram.com?p=eyJzIjoicjVXUmh2S1VYQ3dSYTI3YS10R2xvOW9qaExvIiwidiI6MSwicCI6IntcInVc", 
+        "http://mandrillapp.com/track/click/30134842/www.youtube.com?p=eyJzIjoiWXlhMzhvRWlsMzUtZmpnOWlkRkUwT2FjZmVBIiwidiI6MSwicCI6IntcIn"
+    ], 
+    "extractedHrefUrlsCardinality": 5, 
+    "extractedHrefUrlsDomainCount": 1, 
+    "extractedHrefUrlsTotalCount": 5, 
+    "extractedSrcUrls": [
+        "http://slevoking.cz/images/site/king-cz-email.png", 
+        "http://slevoking.cz/images/site/email-facebook.png", 
+        "http://slevoking.cz/images/site/email-instagram.png", 
+        "http://slevoking.cz/images/site/email-youtube.png", 
+        "http://mandrillapp.com/track/open.php?u=30134842&id=18a86d1160c34046a7f847f20d467cca"
+    ], 
+    "extractedSrcUrlsCardinality": 5, 
+    "extractedSrcUrlsDomainCount": 2, 
+    "extractedSrcUrlsTotalCount": 5, 
+    "extractedTxtUrls": [
+        "http://slevoking.cz", 
+        "http://slevoking.cz/prihlaseni/zmena-hesla/b1f1ae27306c46ab752e37e0b4800e0b69baf25b", 
+        "http://Slevoking.cz"
+    ], 
+    "extractedTxtUrlsCardinality": 3, 
+    "extractedTxtUrlsDomainCount": 1, 
+    "extractedTxtUrlsTotalCount": 3, 
+    "first10words": " Dobry den nekdo prave pozadal o zmenu Vaseho hesla slevoking cz kde ma tento e mail registrovany uzivatelsky ucet ", 
+    "from_match": 0, 
+    "header_from": "system@slevoking.cz", 
+    "header_from_count": 1, 
+    "header_reply_to_count": 0, 
+    "header_total_count": 18, 
+    "html_in_text_plain_count": 0, 
+    "html_script_tag_count": 0, 
+    "html_tag_total_count": 83, 
+    "html_td_tag_count": 20, 
+    "html_tr_tag_count": 16, 
+    "lang": "cs", 
+    "last10words": " Zakaznicka podpora 420 777 002 688 podpora slevoking cz vsedni dny od 8 00 do 17 00 Sledujte nas na ", 
+    "list_unsubscribe_http_count": 0, 
+    "list_unsubscribe_invalid_count": 0, 
+    "list_unsubscribe_mailto_count": 0, 
+    "list_unsubscribe_total_count": 0, 
+    "mime_children_count": 2, 
+    "mime_children_types": [
+        "text/plain", 
+        "text/html"
+    ], 
+    "mime_root_type": "multipart/alternative", 
+    "notches": [
+        {
+            "module": "ill", 
+            "name": [
+                "date_in_past", 
+                "from_missmatch", 
+                "html_a_href_camouflaging", 
+                "foreign_message_id"
+            ], 
+            "score": 1.2, 
+            "subscores": [
+                1, 
+                0.0, 
+                0.1, 
+                0.1
+            ]
+        }
+    ], 
+    "now": 1494598254, 
+    "pepca": "p18552b756f777845", 
+    "pepca_inline_style": "p98048140625e1c46", 
+    "pepca_inline_style_total": 0, 
+    "pepca_style": "", 
+    "pepca_style_total": 0, 
+    "pepcatotal": 0, 
+    "phashes": [
+        {
+            "name": "pepca", 
+            "value": "p18552b756f777845"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "p98048140625e1c46"
+        }
+    ], 
+    "phish_score": 0, 
+    "phishing": {
+        "body_richness": 0.205645161290323, 
+        "camouflage": 1, 
+        "fake_https": 0, 
+        "html_form": 0, 
+        "is_html": true, 
+        "max_num_dots_urls": 3, 
+        "max_num_slashes_urls": 4, 
+        "num_black_sheep_link": -1, 
+        "num_black_sheep_link_global": -1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_external_links": 10, 
+        "num_freehost_urls": 0, 
+        "num_html_script_tags": 0, 
+        "num_https_urls": 0, 
+        "num_ip_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "num_of_chars": 743, 
+        "num_param_phish": 0, 
+        "num_path_phish": 0, 
+        "num_phish_keywords": 6, 
+        "num_sender_diff_url": 1, 
+        "num_shortened_urls": 0, 
+        "num_subdomain_phish": 0, 
+        "num_text_forms": 5, 
+        "num_tld_in_url_path": 0, 
+        "num_www_in_url_path": 0, 
+        "subject_phish_keywords": 1, 
+        "subject_richness": 0.166666666666667, 
+        "suspicious_links": [], 
+        "text_and_href": 0, 
+        "text_link_with_path": 1
+    }, 
+    "precedence": 3, 
+    "rcpts_count": 1, 
+    "rfcid_is_foreign": 1, 
+    "rfcid_is_invalid": false, 
+    "rfcid_length": 45, 
+    "self_send": 0, 
+    "senders": {
+        "cnt-pow4_w_duc": "", 
+        "cnt-pow4_w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "domain_keywords": "slevoking", 
+        "domain_keywords_detail": [
+            {
+                "confidence": 15549265.3442, 
+                "domain": "slevoking"
+            }
+        ], 
+        "ettf_w_duc": "", 
+        "ettf_w_duc_detail": [], 
+        "idf": "", 
+        "idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "log_cnt-w_duc_detail": [], 
+        "log_cnt_idf": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "log_ecnt_idf": "", 
+        "log_ecnt_idf_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "log_ecnt_log_idf_log_tidf": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "plain_domain": "slevoking", 
+        "plain_domain_detail": [
+            {
+                "confidence": 2, 
+                "domain": "slevoking"
+            }
+        ], 
+        "src_revert": "mailing123", 
+        "src_revert_detail": [
+            {
+                "confidence": 4, 
+                "domain": "mailing123"
+            }
+        ], 
+        "tf_log_idf": "", 
+        "tf_log_idf_detail": [], 
+        "ttf_w_duc": "", 
+        "ttf_w_duc_detail": []
+    }, 
+    "spamscore": 1.2, 
+    "spamtrap_hit": false, 
+    "spf_dom_policy_registry": "Policy not found", 
+    "spf_domain_policy": "UNKNOWN", 
+    "spf_status_registry": "Status not found", 
+    "spfstatus": "NONE", 
+    "spfstatus_hfrom": "SPF_SOFTFAIL", 
+    "subject": "Zadost o zmenu hesla", 
+    "subject_image_count": 0, 
+    "subject_word_count": 4, 
+    "word_count": 153
+}

@@ -1,0 +1,250 @@
+{
+    "adscore": 0, 
+    "ahref_camouflage_count": 0, 
+    "ahref_total_count": 35, 
+    "ahref_verbal_count": 6, 
+    "attachments": [
+        {
+            "cid": "part1.08040302.08000107@zarovky-shop.cz", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "image/jpeg", 
+            "name": "", 
+            "pepca": "p36a5eb00bc7ad567", 
+            "size": 2753, 
+            "sumphash": "3fad38f99bf8ce7af1f7e067366d6c36"
+        }
+    ], 
+    "content": "CONTENT_DEFAULT", 
+    "date_difference": -73527695, 
+    "dkStatusDetail": "NOT_SIGNED", 
+    "dk_statuses": [
+        {
+            "status": "NEUTRAL", 
+            "statusDetail": "NOT_SIGNED"
+        }
+    ], 
+    "dkim_count": 0, 
+    "dkim_efrom_match": 0, 
+    "dkim_hfrom_match": 0, 
+    "dkim_passed_count": 0, 
+    "dkim_signs_cnt": 1, 
+    "dkstatus": "NEUTRAL", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/32809ec46aca83efec199383138199ff.eml.eml", 
+    "extractedEmails": [
+        "lucie.havranova@hdt.cz", 
+        "info@zarovky-shop.cz", 
+        "dopita.laser@dt-bautrade.cz", 
+        "eliska.slaninova@hdt.cz"
+    ], 
+    "extractedEmailsCardinality": 4, 
+    "extractedEmailsDomainCount": 3, 
+    "extractedEmailsTotalCount": 4, 
+    "extractedHrefUrls": [
+        "http://www.zarovky-shop.cz/zarovky/eshop/0/3/5/504-Halogenova-lampa-Omnilux-GU-10-230V-48-LED-UV", 
+        "http://www.zarovky-shop.cz/zarovky/eshop/0/3/5/1028-UV-zarovka-25W-E-27-Omnilux-usporna", 
+        "http://www.zarovky-shop.cz/zarovky/eshop/0/3/5/1037-UV-zarivka-slim-60cm-Set", 
+        "http://www.zarovky-shop.cz/zarovky/2-OBCHODNI-PODMINKY", 
+        "http://www.zarovky-shop.cz/zarovky/5-KONTAKTY/1-Kontakty"
+    ], 
+    "extractedHrefUrlsCardinality": 10, 
+    "extractedHrefUrlsDomainCount": 5, 
+    "extractedHrefUrlsTotalCount": 10, 
+    "extractedSrcUrls": [
+        "cid:part1.08040302.08000107@zarovky-shop.cz"
+    ], 
+    "extractedSrcUrlsCardinality": 1, 
+    "extractedSrcUrlsDomainCount": 0, 
+    "extractedSrcUrlsTotalCount": 1, 
+    "extractedTxtUrls": [
+        "http://zarovky-shop.cz", 
+        "http://disco-shop.cz.", 
+        "http://zarovky-shop.cz.", 
+        "http://eliska.slaninova-hdtwww.HDT.cz", 
+        "http://1544.zarovky-shop.cz"
+    ], 
+    "extractedTxtUrlsCardinality": 12, 
+    "extractedTxtUrlsDomainCount": 5, 
+    "extractedTxtUrlsTotalCount": 12, 
+    "first10words": " Dobry den zarovky nebyly u dodavatele skladem tudiz nyni objednavam a doposleme v patek S pozdravem Eliska Slaninova o", 
+    "from_match": 0, 
+    "header_from": "eliska.slaninova@hdt.cz", 
+    "header_from_count": 1, 
+    "header_reply_to_count": 0, 
+    "header_total_count": 25, 
+    "html_in_text_plain_count": 0, 
+    "html_script_tag_count": 0, 
+    "html_tag_total_count": 1015, 
+    "html_td_tag_count": 134, 
+    "html_tr_tag_count": 62, 
+    "lang": "cs", 
+    "last10words": "ejeme hezky zbytek dne Vas obchod zarovky shop cz info zarovky shop cz ", 
+    "list_unsubscribe_http_count": 0, 
+    "list_unsubscribe_invalid_count": 0, 
+    "list_unsubscribe_mailto_count": 0, 
+    "list_unsubscribe_total_count": 0, 
+    "mime_children_count": 2, 
+    "mime_children_types": [
+        "multipart/alternative", 
+        "image/jpeg"
+    ], 
+    "mime_root_type": "multipart/mixed", 
+    "notches": [
+        {
+            "module": "ill", 
+            "name": [
+                "date_in_past", 
+                "from_missmatch"
+            ], 
+            "score": 1, 
+            "subscores": [
+                1, 
+                0.0
+            ]
+        }
+    ], 
+    "now": 1494598228, 
+    "pepca": "p106cd73b7e3500e6", 
+    "pepca_inline_style": "p6f4e291240dee1da", 
+    "pepca_inline_style_total": 0, 
+    "pepca_style": "", 
+    "pepca_style_total": 0, 
+    "pepcatotal": 0, 
+    "phashes": [
+        {
+            "name": "att-pepca", 
+            "value": "p36a5eb00bc7ad567"
+        }, 
+        {
+            "name": "pepca", 
+            "value": "p106cd73b7e3500e6"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "p6f4e291240dee1da"
+        }
+    ], 
+    "phish_score": 0, 
+    "phishing": {
+        "body_richness": 0.14614930076817, 
+        "camouflage": 0, 
+        "fake_https": 0, 
+        "html_form": 0, 
+        "is_html": true, 
+        "max_num_dots_urls": 3, 
+        "max_num_slashes_urls": 6, 
+        "num_black_sheep_link": -1, 
+        "num_black_sheep_link_global": -1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_external_links": 5, 
+        "num_freehost_urls": 0, 
+        "num_html_script_tags": 0, 
+        "num_https_urls": 1, 
+        "num_ip_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "num_of_chars": 10153, 
+        "num_param_phish": 0, 
+        "num_path_phish": 0, 
+        "num_phish_keywords": 0, 
+        "num_sender_diff_url": 5, 
+        "num_shortened_urls": 0, 
+        "num_subdomain_phish": 0, 
+        "num_text_forms": 9, 
+        "num_tld_in_url_path": 0, 
+        "num_www_in_url_path": 0, 
+        "subject_phish_keywords": 0, 
+        "subject_richness": 0.173076923076923, 
+        "suspicious_links": [], 
+        "text_and_href": 5, 
+        "text_link_with_path": 3
+    }, 
+    "precedence": 3, 
+    "rcpts_count": 1, 
+    "rfcid_is_foreign": 0, 
+    "rfcid_is_invalid": false, 
+    "rfcid_length": 28, 
+    "self_send": 0, 
+    "senders": {
+        "cnt-pow4_w_duc": "", 
+        "cnt-pow4_w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "domain_keywords": "masterinter", 
+        "domain_keywords_detail": [
+            {
+                "confidence": 293149133.387024, 
+                "domain": "masterinter"
+            }
+        ], 
+        "ettf_w_duc": "", 
+        "ettf_w_duc_detail": [], 
+        "idf": "", 
+        "idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "log_cnt-w_duc_detail": [], 
+        "log_cnt_idf": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "log_ecnt_idf": "", 
+        "log_ecnt_idf_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "log_ecnt_log_idf_log_tidf": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "plain_domain": "ledstudio", 
+        "plain_domain_detail": [
+            {
+                "confidence": 2, 
+                "domain": "ledstudio"
+            }, 
+            {
+                "confidence": 1, 
+                "domain": "dt-bautrade"
+            }, 
+            {
+                "confidence": 3, 
+                "domain": "hdt"
+            }, 
+            {
+                "confidence": 4, 
+                "domain": "zarovky-shop"
+            }, 
+            {
+                "confidence": 1, 
+                "domain": "disco-shop"
+            }
+        ], 
+        "src_revert": "", 
+        "src_revert_detail": [], 
+        "tf_log_idf": "", 
+        "tf_log_idf_detail": [], 
+        "ttf_w_duc": "", 
+        "ttf_w_duc_detail": []
+    }, 
+    "spamscore": 1, 
+    "spamtrap_hit": false, 
+    "spf_dom_policy_registry": "Policy not found", 
+    "spf_domain_policy": "UNKNOWN", 
+    "spf_status_registry": "Status not found", 
+    "spfstatus": "NONE", 
+    "spfstatus_hfrom": "SPF_NEUTRAL", 
+    "subject": "Re RE Nova objednavka 1153989 www zarovky shop cz", 
+    "subject_image_count": 0, 
+    "subject_word_count": 9, 
+    "unsub_link": "http://www.zarovky-shop.cz/zarovky/2-OBCHODNI-PODMINKY", 
+    "unsub_link_candidates": [
+        "http://www.zarovky-shop.cz/zarovky/2-OBCHODNI-PODMINKY"
+    ], 
+    "unsub_link_texts": [
+        "obchodny podminka a reklamacni rad cist zde "
+    ], 
+    "word_count": 1484
+}

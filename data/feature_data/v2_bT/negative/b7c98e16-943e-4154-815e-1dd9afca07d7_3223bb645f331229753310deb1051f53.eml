@@ -1,0 +1,217 @@
+{
+    "date_difference": -75957664,
+    "html_td_tag_count": 0,
+    "list_unsubscribe_total_count": 0,
+    "precedence": 3,
+    "spfstatus_hfrom": "SPF_SOFTFAIL",
+    "dkim_passed_count": 0,
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "extractedHrefUrlsDomainCount": 1,
+    "first10words": " Dobry den pane Dvoraku A Prosim Vas na zaklade nasi domluvy o castku kterou budete fakturovat za jizdy v minu",
+    "word_count": 261,
+    "pepca": "p1daf2b2804cd9fff",
+    "extractedSrcUrlsDomainCount": 0,
+    "last10words": "is prohibited If you have received this message in error please immediately notify the sender and delete the original message and attachments ",
+    "extractedTxtUrlsDomainCount": 1,
+    "pepcatotal": 0,
+    "pepca_style_total": 0,
+    "extractedEmails": [
+        "Katrin.BenMohamedCerna@irco.com"
+    ],
+    "mime_root_type": "multipart/related",
+    "extractedEmailsCardinality": 1,
+    "extractedHrefUrlsTotalCount": 1,
+    "html_tr_tag_count": 0,
+    "pepca_style": "",
+    "dkStatusDetail": "NOT_SIGNED",
+    "header_from_count": 1,
+    "header_total_count": 41,
+    "dk_statuses": [
+        {
+            "status": "NEUTRAL",
+            "statusDetail": "NOT_SIGNED"
+        }
+    ],
+    "ahref_camouflage_count": 0,
+    "extractedSrcUrlsTotalCount": 1,
+    "html_tag_total_count": 171,
+    "header_reply_to_count": 0,
+    "extractedEmailsDomainCount": 1,
+    "dkim_hfrom_match": 0,
+    "dkstatus": "NEUTRAL",
+    "ahref_total_count": 2,
+    "subject_image_count": 0,
+    "extractedTxtUrlsCardinality": 1,
+    "spf_domain_policy": "UNKNOWN",
+    "spf_status_registry": "Status not found",
+    "rfcid_is_foreign": 0,
+    "content": "CONTENT_DEFAULT",
+    "extractedSrcUrls": [
+        "cid:image001.jpg@01D0185D.2DDEB6A0"
+    ],
+    "lang": "en",
+    "extractedTxtUrls": [
+        "http://www.thermoking.com"
+    ],
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/3223bb645f331229753310deb1051f53.eml",
+    "spamscore": 1,
+    "attachments": [
+        {
+            "flags": 0,
+            "cte": "BASE64",
+            "name": "image001.jpg",
+            "size": 2187,
+            "mime_type": "image/jpeg",
+            "sumphash": "136f7a96b7efdf8c178cc786346fbe90",
+            "cid": "image001.jpg@01D0185D.2DDEB6A0",
+            "pepca": "p00b8e535a55f61f7"
+        }
+    ],
+    "extractedSrcUrlsCardinality": 1,
+    "from_match": 0,
+    "phashes": [
+        {
+            "name": "att-pepca",
+            "value": "p00b8e535a55f61f7"
+        },
+        {
+            "name": "pepca",
+            "value": "p1daf2b2804cd9fff"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "p4eccb994fcdfb60c"
+        }
+    ],
+    "extractedHrefUrls": [
+        "http://www.thermoking.com/"
+    ],
+    "pepca_inline_style": "p4eccb994fcdfb60c",
+    "pepca_inline_style_total": 0,
+    "self_send": 0,
+    "now": 1494598227,
+    "mime_children_count": 2,
+    "ahref_verbal_count": 0,
+    "extractedTxtUrlsTotalCount": 1,
+    "subject_word_count": 8,
+    "rcpts_count": 1,
+    "dkim_count": 0,
+    "rfcid_is_invalid": false,
+    "header_from": "Katrin.BenMohamedCerna@irco.com",
+    "list_unsubscribe_mailto_count": 0,
+    "rfcid_length": 71,
+    "html_in_text_plain_count": 0,
+    "extractedHrefUrlsCardinality": 1,
+    "html_script_tag_count": 0,
+    "dkim_efrom_match": 0,
+    "adscore": 0,
+    "mime_children_types": [
+        "multipart/alternative",
+        "image/jpeg"
+    ],
+    "dkim_signs_cnt": 1,
+    "spfstatus": "NONE",
+    "extractedEmailsTotalCount": 1,
+    "spamtrap_hit": false,
+    "spf_dom_policy_registry": "Policy not found",
+    "list_unsubscribe_http_count": 0,
+    "phishing": {
+        "body_richness": 0.184322033898305,
+        "num_black_sheep_link": -1,
+        "subject_richness": 0.228571428571429,
+        "max_num_slashes_urls": 1,
+        "num_https_urls": 0,
+        "camouflage": 0,
+        "ner_domain_detected": false,
+        "html_form": 0,
+        "num_subdomain_phish": 0,
+        "num_external_links": 1,
+        "fake_https": 0,
+        "num_html_script_tags": 0,
+        "num_freehost_urls": 0,
+        "num_phish_keywords": 2,
+        "suspicious_links": [],
+        "num_sender_diff_url": 1,
+        "text_and_href": 0,
+        "subject_phish_keywords": 0,
+        "num_www_in_url_path": 0,
+        "num_domain_phish": 0,
+        "num_of_chars": 1415,
+        "num_ip_urls": 0,
+        "num_path_phish": 0,
+        "num_param_phish": 0,
+        "max_num_dots_urls": 2,
+        "num_tld_in_url_path": 0,
+        "is_html": true,
+        "num_black_sheep_link_phish": 0,
+        "num_non_80_port_urls": 0,
+        "num_text_forms": 3,
+        "num_black_sheep_link_global": -1,
+        "text_link_with_path": 0,
+        "num_shortened_urls": 0
+    },
+    "senders": {
+        "domain_keywords": "clamav",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "idf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt-pow4_w_duc": "",
+        "plain_domain_detail": [
+            {
+                "domain": "thermoking",
+                "confidence": 2
+            }
+        ],
+        "log_cnt-pow_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "tf_log_idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "plain_domain": "thermoking",
+        "domain_keywords_detail": [
+            {
+                "domain": "clamav",
+                "confidence": 114565814.992
+            }
+        ],
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt_idf": "",
+        "tf_log_idf": "",
+        "src_revert_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_cnt-w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert": ""
+    },
+    "phish_score": 0,
+    "subject": "faktura za obdobi 8 12 14 12 14",
+    "list_unsubscribe_invalid_count": 0
+}

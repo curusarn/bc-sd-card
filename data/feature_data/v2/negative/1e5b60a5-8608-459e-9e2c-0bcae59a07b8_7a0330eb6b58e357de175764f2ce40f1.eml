@@ -1,0 +1,218 @@
+{
+    "adscore": 0, 
+    "ahref_camouflage_count": 0, 
+    "ahref_total_count": 2, 
+    "ahref_verbal_count": 2, 
+    "attachments": [], 
+    "contains_list_header": true, 
+    "content": "CONTENT_DEFAULT", 
+    "date_difference": -79566684, 
+    "dkStatusDetail": "DKIM_STAT_CANTVRFY", 
+    "dk_statuses": [
+        {
+            "domain": "", 
+            "status": "FAIL", 
+            "statusDetail": "DKIM_STAT_CANTVRFY"
+        }
+    ], 
+    "dkdomain": "", 
+    "dkim_count": 1, 
+    "dkim_efrom_match": 0, 
+    "dkim_hfrom_match": 0, 
+    "dkim_passed_count": 0, 
+    "dkim_signs_cnt": 1, 
+    "dkstatus": "FAIL", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/7a0330eb6b58e357de175764f2ce40f1.eml", 
+    "extractedEmails": [], 
+    "extractedEmailsCardinality": 0, 
+    "extractedEmailsDomainCount": 0, 
+    "extractedEmailsTotalCount": 0, 
+    "extractedHrefUrls": [
+        "http://cl.stardoll.com/mail/RLS?mid=2108340073&guid=53v901559VvC1Dg&lid=1439557", 
+        "http://cl.stardoll.com/mail/RLS?mid=2108340073&guid=53v901559VvC1Dg&lid=1439558", 
+        "http://cl.stardoll.com/mail/RLS?mid=2108340073&guid=53v901559VvC1Dg&lid=1439559"
+    ], 
+    "extractedHrefUrlsCardinality": 3, 
+    "extractedHrefUrlsDomainCount": 1, 
+    "extractedHrefUrlsTotalCount": 3, 
+    "extractedSrcUrls": [
+        "http://cl.stardoll.com/stardoll/img/triggerlogo02.jpg", 
+        "http://cl.stardoll.com/stardoll/img/triggerlogo03.jpg", 
+        "http://cl.stardoll.com/images/pixel.gif", 
+        "http://cl.stardoll.com/stardoll/img/icon_linkarrow.gif", 
+        "http://www.sdcdn.com/cms/email/password_request.jpg"
+    ], 
+    "extractedSrcUrlsCardinality": 8, 
+    "extractedSrcUrlsDomainCount": 3, 
+    "extractedSrcUrlsTotalCount": 8, 
+    "extractedTxtUrls": [
+        "http://Stardoll.com"
+    ], 
+    "extractedTxtUrlsCardinality": 1, 
+    "extractedTxtUrlsDomainCount": 1, 
+    "extractedTxtUrlsTotalCount": 1, 
+    "first10words": " Stardoll Kliknutim zobrazis tento e mail ve svASm prohlizeci ", 
+    "from_match": 0, 
+    "header_from": "messages@stardoll.com", 
+    "header_from_count": 1, 
+    "header_reply_to_count": 1, 
+    "header_total_count": 22, 
+    "html_in_text_plain_count": 0, 
+    "html_script_tag_count": 0, 
+    "html_tag_total_count": 459, 
+    "html_td_tag_count": 156, 
+    "html_tr_tag_count": 112, 
+    "lang": "cs", 
+    "last10words": "lem Stardoll provozuje spolecnost Stardoll AB Hudiksvallsgatan 8 113 30 Stockholm SvASdsko ", 
+    "list_unsubscribe_http_count": 1, 
+    "list_unsubscribe_invalid_count": 0, 
+    "list_unsubscribe_mailto_count": 0, 
+    "list_unsubscribe_total_count": 1, 
+    "list_unsubscribe_urls": [
+        "http://cl.stardoll.com/mail/ISPUnregister?guid=53v901559VvC1Dg&mid=2108340073"
+    ], 
+    "mime_children_count": 2, 
+    "mime_children_types": [
+        "text/plain", 
+        "text/html"
+    ], 
+    "mime_root_type": "multipart/alternative", 
+    "notches": [
+        {
+            "module": "ill", 
+            "name": [
+                "date_in_past", 
+                "from_missmatch", 
+                "foreign_message_id"
+            ], 
+            "score": 1.1, 
+            "subscores": [
+                1, 
+                0.0, 
+                0.1
+            ]
+        }
+    ], 
+    "now": 1494598322, 
+    "pepca": "p7e09f0f231056a5c", 
+    "pepca_inline_style": "p7afe304ca64e6401", 
+    "pepca_inline_style_total": 1, 
+    "pepca_style": "", 
+    "pepca_style_total": 0, 
+    "pepcatotal": 0, 
+    "phashes": [
+        {
+            "name": "pepca", 
+            "value": "p7e09f0f231056a5c"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "p7afe304ca64e6401"
+        }
+    ], 
+    "phish_score": 0, 
+    "phishing": {
+        "body_richness": 0.467670504871568, 
+        "camouflage": 0, 
+        "fake_https": 0, 
+        "html_form": 0, 
+        "is_html": true, 
+        "max_num_dots_urls": 2, 
+        "max_num_slashes_urls": 2, 
+        "num_black_sheep_link": -1, 
+        "num_black_sheep_link_global": -1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_external_links": 8, 
+        "num_freehost_urls": 0, 
+        "num_html_script_tags": 0, 
+        "num_https_urls": 0, 
+        "num_ip_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "num_of_chars": 1128, 
+        "num_param_phish": 0, 
+        "num_path_phish": 0, 
+        "num_phish_keywords": 5, 
+        "num_sender_diff_url": 0, 
+        "num_shortened_urls": 0, 
+        "num_subdomain_phish": 0, 
+        "num_text_forms": 28, 
+        "num_tld_in_url_path": 0, 
+        "num_www_in_url_path": 0, 
+        "subject_phish_keywords": 1, 
+        "subject_richness": 0.171428571428571, 
+        "suspicious_links": [], 
+        "text_and_href": 0, 
+        "text_link_with_path": 0
+    }, 
+    "precedence": 3, 
+    "rcpts_count": 1, 
+    "rfcid_is_foreign": 1, 
+    "rfcid_is_invalid": false, 
+    "rfcid_length": 65, 
+    "self_send": 0, 
+    "senders": {
+        "cnt-pow4_w_duc": "", 
+        "cnt-pow4_w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "domain_keywords": "carmamail", 
+        "domain_keywords_detail": [
+            {
+                "confidence": 94594163.1978, 
+                "domain": "carmamail"
+            }
+        ], 
+        "ettf_w_duc": "", 
+        "ettf_w_duc_detail": [], 
+        "idf": "", 
+        "idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "log_cnt-w_duc_detail": [], 
+        "log_cnt_idf": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "log_ecnt_idf": "", 
+        "log_ecnt_idf_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "log_ecnt_log_idf_log_tidf": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "plain_domain": "stardoll", 
+        "plain_domain_detail": [
+            {
+                "confidence": 1, 
+                "domain": "stardoll"
+            }
+        ], 
+        "src_revert": "stardoll", 
+        "src_revert_detail": [
+            {
+                "confidence": 7.12542598455365, 
+                "domain": "stardoll"
+            }
+        ], 
+        "tf_log_idf": "", 
+        "tf_log_idf_detail": [], 
+        "ttf_w_duc": "", 
+        "ttf_w_duc_detail": []
+    }, 
+    "spamscore": 1.1, 
+    "spamtrap_hit": false, 
+    "spf_dom_policy_registry": "Policy not found", 
+    "spf_domain_policy": "UNKNOWN", 
+    "spf_status_registry": "Status not found", 
+    "spfstatus": "NONE", 
+    "spfstatus_hfrom": "SPF_FAIL", 
+    "subject": "Zadost o nove heslo na Stardoll", 
+    "subject_image_count": 0, 
+    "subject_word_count": 6, 
+    "word_count": 528
+}

@@ -1,0 +1,283 @@
+{
+    "adscore": 0, 
+    "ahref_camouflage_count": 0, 
+    "ahref_total_count": 3, 
+    "ahref_verbal_count": 2, 
+    "attachments": [
+        {
+            "cid": "14AC6EF8CA3F470EA5B3531F1AB47331@gpsklad", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "image/gif", 
+            "name": "image", 
+            "pepca": "pffd4e071671474a7", 
+            "size": 3743, 
+            "sumphash": "adbecc6ca1ed4a6a0e00ba1135fe204a"
+        }, 
+        {
+            "cid": "78C7BEF1AC8B4378A66F5FB65D7E45EB@gpsklad", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "image/jpeg", 
+            "name": "image", 
+            "pepca": "p267a1437ac09f45c", 
+            "size": 4379, 
+            "sumphash": "a77d8cd5cc75ec9bc71678c48697e73c"
+        }, 
+        {
+            "cid": "FF42B2B8F7A3439EA7D204125B509125@gpsklad", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "image/jpeg", 
+            "name": "image", 
+            "pepca": "p932e4fa67c64e633", 
+            "size": 3896, 
+            "sumphash": "b85e269033b3cfe3125b1c2b4dd43460"
+        }, 
+        {
+            "cid": "4B0013749F6D4921BB274497DE73A9F0@gpsklad", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "image/jpeg", 
+            "name": "image", 
+            "pepca": "p044139edd4b42ed5", 
+            "size": 4929, 
+            "sumphash": "06a03b8110ef5b02e91ddc1dae00db74"
+        }, 
+        {
+            "cid": "622CC804738C4EECA44896030BDC9ED7@gpsklad", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "image/jpeg", 
+            "name": "image", 
+            "pepca": "pf3ea37f3a0d1acfe", 
+            "size": 7628, 
+            "sumphash": "d5a71b4a85c6c86d7762454a92d53315"
+        }, 
+        {
+            "cid": "CFF00DE3F28546B295231752C95459B2@gpsklad", 
+            "cte": "BASE64", 
+            "flags": 0, 
+            "mime_type": "image/jpeg", 
+            "name": "image", 
+            "pepca": "p0e7a1d5cef691b25", 
+            "size": 4114, 
+            "sumphash": "409ebfe625b665c203bbdfac1872772e"
+        }
+    ], 
+    "content": "CONTENT_DEFAULT", 
+    "date_difference": -75957762, 
+    "dk_statuses": [
+        {
+            "domain": "gourmetpartners.cz", 
+            "selector": "a24", 
+            "status": "PASS"
+        }
+    ], 
+    "dkdomain": "gourmetpartners.cz", 
+    "dkim_count": 1, 
+    "dkim_efrom_match": 0, 
+    "dkim_hfrom_match": 1, 
+    "dkim_passed_count": 1, 
+    "dkim_signs_cnt": 1, 
+    "dkselector": "a24", 
+    "dkstatus": "PASS", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/0f5dbe8e459afc31db0d30ded9860fbe.eml", 
+    "extractedEmails": [
+        "lowi.3@seznam.cz", 
+        "eshop@gourmetpartners.cz", 
+        "info@gourmet-partners.cz"
+    ], 
+    "extractedEmailsCardinality": 3, 
+    "extractedEmailsDomainCount": 3, 
+    "extractedEmailsTotalCount": 3, 
+    "extractedHrefUrls": [], 
+    "extractedSrcUrls": [
+        "cid:FF42B2B8F7A3439EA7D204125B509125@gpsklad", 
+        "cid:4B0013749F6D4921BB274497DE73A9F0@gpsklad", 
+        "cid:622CC804738C4EECA44896030BDC9ED7@gpsklad", 
+        "cid:CFF00DE3F28546B295231752C95459B2@gpsklad", 
+        "http://www.gourmet-partners.cz//out/pictures/wysiwigpro/GP_logo.jpg"
+    ], 
+    "extractedSrcUrlsCardinality": 7, 
+    "extractedSrcUrlsDomainCount": 1, 
+    "extractedSrcUrlsTotalCount": 7, 
+    "first10words": " Vase objednavka Dobry den Vasi objednavku prave vyrizujeme Behem dnesniho dne bude dodana do prodejny Staci", 
+    "from_match": 0, 
+    "header_from": "sklad@gourmetpartners.cz", 
+    "header_from_count": 1, 
+    "header_reply_to_count": 0, 
+    "header_total_count": 19, 
+    "html_in_text_plain_count": 0, 
+    "html_script_tag_count": 0, 
+    "html_tag_total_count": 378, 
+    "html_td_tag_count": 112, 
+    "html_tr_tag_count": 36, 
+    "lang": "cs", 
+    "last10words": "733124230 Tym spolecnosti GOURMET PARTNERS Email info gourmet partners cz Telefon 420 775 402 600 ", 
+    "list_unsubscribe_http_count": 0, 
+    "list_unsubscribe_invalid_count": 0, 
+    "list_unsubscribe_mailto_count": 0, 
+    "list_unsubscribe_total_count": 0, 
+    "mime_children_count": 7, 
+    "mime_children_types": [
+        "multipart/alternative", 
+        "image/gif", 
+        "image/jpeg", 
+        "image/jpeg", 
+        "image/jpeg", 
+        "image/jpeg", 
+        "image/jpeg"
+    ], 
+    "mime_root_type": "multipart/related", 
+    "notches": [
+        {
+            "module": "ill", 
+            "name": [
+                "date_in_past", 
+                "from_missmatch"
+            ], 
+            "score": 1, 
+            "subscores": [
+                1, 
+                0.0
+            ]
+        }
+    ], 
+    "now": 1494598185, 
+    "pepca": "p5c81ae4d698555ae", 
+    "pepca_inline_style": "pd72473c1ea080552", 
+    "pepca_inline_style_total": 0, 
+    "pepca_style": "", 
+    "pepca_style_total": 0, 
+    "pepcatotal": 0, 
+    "phashes": [
+        {
+            "name": "att-pepca", 
+            "value": "pffd4e071671474a7"
+        }, 
+        {
+            "name": "att-pepca", 
+            "value": "p267a1437ac09f45c"
+        }, 
+        {
+            "name": "att-pepca", 
+            "value": "p932e4fa67c64e633"
+        }, 
+        {
+            "name": "att-pepca", 
+            "value": "p044139edd4b42ed5"
+        }, 
+        {
+            "name": "att-pepca", 
+            "value": "pf3ea37f3a0d1acfe"
+        }, 
+        {
+            "name": "att-pepca", 
+            "value": "p0e7a1d5cef691b25"
+        }, 
+        {
+            "name": "pepca", 
+            "value": "p5c81ae4d698555ae"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "pd72473c1ea080552"
+        }
+    ], 
+    "phish_score": 0, 
+    "phishing": {
+        "body_richness": 0.243512974051896, 
+        "camouflage": 0, 
+        "fake_https": 0, 
+        "html_form": 0, 
+        "is_html": true, 
+        "max_num_dots_urls": 0, 
+        "max_num_slashes_urls": 0, 
+        "num_black_sheep_link": -1, 
+        "num_black_sheep_link_global": -1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_external_links": 1, 
+        "num_freehost_urls": 0, 
+        "num_html_script_tags": 0, 
+        "num_https_urls": 0, 
+        "num_ip_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "num_of_chars": 2003, 
+        "num_param_phish": 0, 
+        "num_path_phish": 0, 
+        "num_phish_keywords": 1, 
+        "num_sender_diff_url": 0, 
+        "num_shortened_urls": 0, 
+        "num_subdomain_phish": 0, 
+        "num_text_forms": 1, 
+        "num_tld_in_url_path": 0, 
+        "num_www_in_url_path": 0, 
+        "subject_phish_keywords": 0, 
+        "subject_richness": 0.137931034482759, 
+        "suspicious_links": [], 
+        "text_and_href": 0, 
+        "text_link_with_path": 0
+    }, 
+    "precedence": 3, 
+    "rcpts_count": 1, 
+    "rfcid_is_foreign": 0, 
+    "rfcid_is_invalid": false, 
+    "rfcid_length": 40, 
+    "self_send": 0, 
+    "senders": {
+        "cnt-pow4_w_duc": "", 
+        "cnt-pow4_w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "domain_keywords": "masterinter", 
+        "domain_keywords_detail": [
+            {
+                "confidence": 25491228.990176, 
+                "domain": "masterinter"
+            }
+        ], 
+        "ettf_w_duc": "", 
+        "ettf_w_duc_detail": [], 
+        "idf": "", 
+        "idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "log_cnt-w_duc_detail": [], 
+        "log_cnt_idf": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "log_ecnt_idf": "", 
+        "log_ecnt_idf_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "log_ecnt_log_idf_log_tidf": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "plain_domain": "", 
+        "plain_domain_detail": [], 
+        "src_revert": "", 
+        "src_revert_detail": [], 
+        "tf_log_idf": "", 
+        "tf_log_idf_detail": [], 
+        "ttf_w_duc": "", 
+        "ttf_w_duc_detail": []
+    }, 
+    "spamscore": 1, 
+    "spamtrap_hit": false, 
+    "spf_dom_policy_registry": "Policy not found", 
+    "spf_domain_policy": "UNKNOWN", 
+    "spf_status_registry": "Status not found", 
+    "spfstatus": "NONE", 
+    "spfstatus_hfrom": "SPF_FAIL", 
+    "subject": "Re Vase objednavka 570 ", 
+    "subject_image_count": 0, 
+    "subject_word_count": 4, 
+    "word_count": 488
+}

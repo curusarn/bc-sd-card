@@ -1,0 +1,235 @@
+{
+    "adscore": 0, 
+    "ahref_camouflage_count": 0, 
+    "ahref_total_count": 2, 
+    "ahref_verbal_count": 1, 
+    "attachments": [
+        {
+            "cte": "BASE64", 
+            "first10words": "KOVPROF Faktura vystavena najem uzka Faktura danovy doklad Kod dokladu", 
+            "flags": 0, 
+            "lang": "cs", 
+            "mime_type": "application/pdf", 
+            "name": "FV201490000307.pdf", 
+            "pepca": "pcaaad2e31b891cbb", 
+            "size": 74998, 
+            "sumphash": "c55534a8e46a31c6702cafed00c94f1a"
+        }, 
+        {
+            "cte": "BASE64", 
+            "first10words": "Crystal Reports ActiveX Designer KOVPROF Zaloha vystavena uzka Zaloha Kod", 
+            "flags": 0, 
+            "lang": "cs", 
+            "mime_type": "application/pdf", 
+            "name": "ZV3149000244.pdf", 
+            "pepca": "pf6014a260aa472b8", 
+            "size": 112391, 
+            "sumphash": "2337a6c5f81ac5f3f22e1df013f33347"
+        }
+    ], 
+    "content": "CONTENT_DEFAULT", 
+    "date_difference": -75957902, 
+    "dkStatusDetail": "NOT_SIGNED", 
+    "dk_statuses": [
+        {
+            "status": "NEUTRAL", 
+            "statusDetail": "NOT_SIGNED"
+        }
+    ], 
+    "dkim_count": 0, 
+    "dkim_efrom_match": 0, 
+    "dkim_hfrom_match": 0, 
+    "dkim_passed_count": 0, 
+    "dkim_signs_cnt": 1, 
+    "dkstatus": "NEUTRAL", 
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/93314e7591d09cf3309befc6fc70d370.eml", 
+    "extractedEmails": [
+        "bezdecna@kovprof.cz"
+    ], 
+    "extractedEmailsCardinality": 1, 
+    "extractedEmailsDomainCount": 1, 
+    "extractedEmailsTotalCount": 1, 
+    "extractedHrefUrls": [
+        "http://www.kovprof.cz/sortiment/colorcoat_montatwin.pdf", 
+        "http://www.kovprof.cz/"
+    ], 
+    "extractedHrefUrlsCardinality": 2, 
+    "extractedHrefUrlsDomainCount": 1, 
+    "extractedHrefUrlsTotalCount": 2, 
+    "extractedSrcUrls": [
+        "http://www.kovprof.cz/images/logo.gif"
+    ], 
+    "extractedSrcUrlsCardinality": 1, 
+    "extractedSrcUrlsDomainCount": 1, 
+    "extractedSrcUrlsTotalCount": 1, 
+    "first10words": " Vazeni obchodni pratele v priloze Vam posilame fakturu cislo FV 2014 90000307 a zalohu 3149000244 ", 
+    "from_match": 0, 
+    "header_from": "Bezdecna@kovprof.cz", 
+    "header_from_count": 1, 
+    "header_reply_to_count": 0, 
+    "header_total_count": 15, 
+    "html_in_text_plain_count": 0, 
+    "html_script_tag_count": 0, 
+    "html_tag_total_count": 152, 
+    "html_td_tag_count": 6, 
+    "html_tr_tag_count": 2, 
+    "lang": "cs", 
+    "last10words": "vlaky Colorcoat Prisma az 40 let pro Colorcoat HPS 200 Ultra navstivte nasi nabidku A ", 
+    "list_unsubscribe_http_count": 0, 
+    "list_unsubscribe_invalid_count": 0, 
+    "list_unsubscribe_mailto_count": 0, 
+    "list_unsubscribe_total_count": 0, 
+    "mime_children_count": 3, 
+    "mime_children_types": [
+        "multipart/alternative", 
+        "application/pdf", 
+        "application/pdf"
+    ], 
+    "mime_root_type": "multipart/mixed", 
+    "notches": [
+        {
+            "module": "ill", 
+            "name": [
+                "date_in_past", 
+                "from_missmatch", 
+                "foreign_message_id"
+            ], 
+            "score": 1.1, 
+            "subscores": [
+                1, 
+                0.0, 
+                0.1
+            ]
+        }
+    ], 
+    "now": 1494598352, 
+    "pepca": "p229c1fbe62da8a14", 
+    "pepca_inline_style": "pf4132781d0ff6378", 
+    "pepca_inline_style_total": 0, 
+    "pepca_style": "", 
+    "pepca_style_total": 0, 
+    "pepcatotal": 0, 
+    "phashes": [
+        {
+            "name": "att-pepca", 
+            "value": "pcaaad2e31b891cbb"
+        }, 
+        {
+            "name": "att-pepca", 
+            "value": "pf6014a260aa472b8"
+        }, 
+        {
+            "name": "pepca", 
+            "value": "p229c1fbe62da8a14"
+        }, 
+        {
+            "name": "pepca_inline_style", 
+            "value": "pf4132781d0ff6378"
+        }
+    ], 
+    "phish_score": 0, 
+    "phishing": {
+        "body_richness": 0.257225433526012, 
+        "camouflage": 0, 
+        "fake_https": 0, 
+        "html_form": 0, 
+        "is_html": true, 
+        "max_num_dots_urls": 3, 
+        "max_num_slashes_urls": 2, 
+        "num_black_sheep_link": -1, 
+        "num_black_sheep_link_global": -1, 
+        "num_black_sheep_link_phish": 0, 
+        "num_domain_phish": 0, 
+        "num_external_links": 3, 
+        "num_freehost_urls": 0, 
+        "num_html_script_tags": 0, 
+        "num_https_urls": 0, 
+        "num_ip_urls": 0, 
+        "num_non_80_port_urls": 0, 
+        "num_of_chars": 691, 
+        "num_param_phish": 0, 
+        "num_path_phish": 0, 
+        "num_phish_keywords": 0, 
+        "num_sender_diff_url": 0, 
+        "num_shortened_urls": 0, 
+        "num_subdomain_phish": 0, 
+        "num_text_forms": 2, 
+        "num_tld_in_url_path": 0, 
+        "num_www_in_url_path": 0, 
+        "subject_phish_keywords": 0, 
+        "subject_richness": 0.175, 
+        "suspicious_links": [], 
+        "text_and_href": 0, 
+        "text_link_with_path": 0
+    }, 
+    "precedence": 3, 
+    "rcpts_count": 1, 
+    "rfcid_is_foreign": 1, 
+    "rfcid_is_invalid": false, 
+    "rfcid_length": 60, 
+    "self_send": 0, 
+    "senders": {
+        "cnt-pow4_w_duc": "", 
+        "cnt-pow4_w_duc_detail": [], 
+        "cnt-pow_w_duc": "", 
+        "cnt-pow_w_duc_detail": [], 
+        "domain_keywords": "profesia", 
+        "domain_keywords_detail": [
+            {
+                "confidence": 4783721.428345, 
+                "domain": "profesia"
+            }
+        ], 
+        "ettf_w_duc": "", 
+        "ettf_w_duc_detail": [], 
+        "idf": "", 
+        "idf_detail": [], 
+        "log_cnt-pow4_w_duc": "", 
+        "log_cnt-pow4_w_duc_detail": [], 
+        "log_cnt-pow_w_duc": "", 
+        "log_cnt-pow_w_duc_detail": [], 
+        "log_cnt-w_duc": "", 
+        "log_cnt-w_duc_detail": [], 
+        "log_cnt_idf": "", 
+        "log_cnt_idf_detail": [], 
+        "log_cnt_idf_log_tidf": "", 
+        "log_cnt_idf_log_tidf_detail": [], 
+        "log_ecnt-w_duc": "", 
+        "log_ecnt-w_duc_detail": [], 
+        "log_ecnt_idf": "", 
+        "log_ecnt_idf_detail": [], 
+        "log_ecnt_idf_log_tidf": "", 
+        "log_ecnt_idf_log_tidf_detail": [], 
+        "log_ecnt_log_idf_log_tidf": "", 
+        "log_ecnt_log_idf_log_tidf_detail": [], 
+        "plain_domain": "kovprof", 
+        "plain_domain_detail": [
+            {
+                "confidence": 1, 
+                "domain": "kovprof"
+            }
+        ], 
+        "src_revert": "kovprof", 
+        "src_revert_detail": [
+            {
+                "confidence": 1, 
+                "domain": "kovprof"
+            }
+        ], 
+        "tf_log_idf": "", 
+        "tf_log_idf_detail": [], 
+        "ttf_w_duc": "", 
+        "ttf_w_duc_detail": []
+    }, 
+    "spamscore": 1.1, 
+    "spamtrap_hit": false, 
+    "spf_dom_policy_registry": "Policy not found", 
+    "spf_domain_policy": "UNKNOWN", 
+    "spf_status_registry": "Status not found", 
+    "spfstatus": "NONE", 
+    "spfstatus_hfrom": "SPF_NONE", 
+    "subject": "Kovove profily spol s r o Faktura", 
+    "subject_image_count": 0, 
+    "subject_word_count": 7, 
+    "word_count": 178
+}

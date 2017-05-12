@@ -1,0 +1,199 @@
+{
+    "date_difference": -84774137,
+    "html_td_tag_count": 2,
+    "list_unsubscribe_total_count": 0,
+    "precedence": 3,
+    "spfstatus_hfrom": "SPF_SOFTFAIL",
+    "dkim_passed_count": 0,
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "score": 1,
+            "module": "ill"
+        }
+    ],
+    "extractedHrefUrlsDomainCount": 1,
+    "first10words": " Dekujeme ze jste se obratili na spolecnost Symantec Obdrzeli jsme od Vas zpravu o zapomenutem hesle k uctu Norton A",
+    "word_count": 140,
+    "pepca": "p6231d70d21601a72",
+    "extractedSrcUrlsDomainCount": 1,
+    "last10words": "e na internetove strance spolecnosti Symantec www symantec cz Symantec Corporation 350 Ellis St Mountain View CA U S A 94043 ",
+    "extractedTxtUrlsDomainCount": 2,
+    "pepcatotal": 0,
+    "pepca_style_total": 0,
+    "extractedEmails": [],
+    "mime_root_type": "text/html",
+    "extractedEmailsCardinality": 0,
+    "extractedHrefUrlsTotalCount": 2,
+    "html_tr_tag_count": 2,
+    "pepca_style": "",
+    "dkStatusDetail": "NOT_SIGNED",
+    "header_from_count": 1,
+    "header_total_count": 18,
+    "dk_statuses": [
+        {
+            "status": "NEUTRAL",
+            "statusDetail": "NOT_SIGNED"
+        }
+    ],
+    "ahref_camouflage_count": 0,
+    "extractedSrcUrlsTotalCount": 1,
+    "html_tag_total_count": 50,
+    "header_reply_to_count": 0,
+    "extractedEmailsDomainCount": 0,
+    "dkim_hfrom_match": 0,
+    "dkstatus": "NEUTRAL",
+    "ahref_total_count": 3,
+    "subject_image_count": 0,
+    "extractedTxtUrlsCardinality": 2,
+    "spf_domain_policy": "UNKNOWN",
+    "spf_status_registry": "Status not found",
+    "rfcid_is_foreign": 0,
+    "content": "CONTENT_DEFAULT",
+    "extractedSrcUrls": [
+        "https://www.mynortonaccount.com/amsweb/images/ebe/symantec.gif"
+    ],
+    "lang": "cs",
+    "extractedTxtUrls": [
+        "https://login.norton.com/sso/embedded/resetPassword?service=&displang=iso3:ces&env=prod&detectAgent=1&rpr=09bb565d-bd35-4a36-891",
+        "http://www.symantec.cz"
+    ],
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/245803.eml",
+    "spamscore": 1,
+    "attachments": [],
+    "extractedSrcUrlsCardinality": 1,
+    "from_match": 0,
+    "phashes": [
+        {
+            "name": "pepca",
+            "value": "p6231d70d21601a72"
+        },
+        {
+            "name": "pepca_inline_style",
+            "value": "pad27b978c2a395b3"
+        }
+    ],
+    "extractedHrefUrls": [
+        "https://login.norton.com/sso/embedded/resetPassword?service=&displang=iso3:ces&env=prod&detectAgent=1&rpr=09bb565d-bd35-4a36-891",
+        "www.symantec.com"
+    ],
+    "pepca_inline_style": "pad27b978c2a395b3",
+    "pepca_inline_style_total": 0,
+    "self_send": 0,
+    "now": 1494598204,
+    "mime_children_count": 0,
+    "ahref_verbal_count": 1,
+    "extractedTxtUrlsTotalCount": 2,
+    "subject_word_count": 7,
+    "rcpts_count": 1,
+    "dkim_count": 0,
+    "rfcid_is_invalid": false,
+    "header_from": "norton@symantec.com",
+    "list_unsubscribe_mailto_count": 0,
+    "rfcid_length": 77,
+    "html_in_text_plain_count": 0,
+    "extractedHrefUrlsCardinality": 2,
+    "html_script_tag_count": 0,
+    "dkim_efrom_match": 0,
+    "adscore": 0,
+    "mime_children_types": [],
+    "dkim_signs_cnt": 1,
+    "spfstatus": "NONE",
+    "extractedEmailsTotalCount": 0,
+    "spamtrap_hit": false,
+    "spf_dom_policy_registry": "Policy not found",
+    "list_unsubscribe_http_count": 0,
+    "phishing": {
+        "body_richness": 0.102489019033675,
+        "num_black_sheep_link": -1,
+        "subject_richness": 0.148936170212766,
+        "max_num_slashes_urls": 3,
+        "num_https_urls": 2,
+        "camouflage": 0,
+        "ner_domain_detected": false,
+        "html_form": 0,
+        "num_subdomain_phish": 0,
+        "num_external_links": 3,
+        "fake_https": 0,
+        "num_html_script_tags": 0,
+        "num_freehost_urls": 0,
+        "num_phish_keywords": 10,
+        "suspicious_links": [],
+        "num_sender_diff_url": 1,
+        "text_and_href": 1,
+        "subject_phish_keywords": 3,
+        "num_www_in_url_path": 0,
+        "num_domain_phish": 0,
+        "num_of_chars": 1365,
+        "num_ip_urls": 0,
+        "num_path_phish": 0,
+        "num_param_phish": 0,
+        "max_num_dots_urls": 2,
+        "num_tld_in_url_path": 0,
+        "is_html": true,
+        "num_black_sheep_link_phish": 0,
+        "num_non_80_port_urls": 0,
+        "num_text_forms": 3,
+        "num_black_sheep_link_global": -1,
+        "text_link_with_path": 1,
+        "num_shortened_urls": 0
+    },
+    "senders": {
+        "domain_keywords": "norton",
+        "log_ecnt_idf": "",
+        "log_cnt-w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_ecnt-w_duc": "",
+        "idf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt-pow4_w_duc": "",
+        "plain_domain_detail": [
+            {
+                "domain": "symantec",
+                "confidence": 1
+            }
+        ],
+        "log_cnt-pow_w_duc": "",
+        "log_cnt_idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "tf_log_idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "ettf_w_duc": "",
+        "log_ecnt_idf_detail": [],
+        "ttf_w_duc": "",
+        "plain_domain": "symantec",
+        "domain_keywords_detail": [
+            {
+                "domain": "norton",
+                "confidence": 29062067.31256
+            }
+        ],
+        "cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_ecnt-w_duc_detail": [],
+        "log_cnt_idf": "",
+        "tf_log_idf": "",
+        "src_revert_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_cnt-w_duc": "",
+        "cnt-pow4_w_duc_detail": [],
+        "idf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "src_revert": ""
+    },
+    "phish_score": 0,
+    "subject": "Zapomneli jste heslo k uctu Norton Account ",
+    "list_unsubscribe_invalid_count": 0
+}

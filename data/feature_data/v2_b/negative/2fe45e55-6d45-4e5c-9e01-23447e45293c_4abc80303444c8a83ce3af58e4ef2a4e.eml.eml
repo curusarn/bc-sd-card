@@ -1,0 +1,220 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ]
+        }
+    ],
+    "extractedTxtUrls": [
+        "http://Slevomat.cz"
+    ],
+    "spfstatus": "NONE",
+    "mime_root_type": "multipart/alternative",
+    "header_from_count": 1,
+    "now": 1494598260,
+    "dkim_efrom_match": 0,
+    "pepca_inline_style_total": 2,
+    "rcpts_count": 1,
+    "extractedEmailsTotalCount": 0,
+    "pepca_inline_style": "p72a66014f4c68bbd",
+    "pepca_style_total": 2,
+    "dkselector": "dkim",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/4abc80303444c8a83ce3af58e4ef2a4e.eml.eml",
+    "html_td_tag_count": 6,
+    "extractedHrefUrlsCardinality": 6,
+    "list_unsubscribe_mailto_count": 0,
+    "subject_word_count": 3,
+    "lang": "cs",
+    "precedence": 3,
+    "phishing": {
+        "num_html_script_tags": 0,
+        "num_text_forms": 2,
+        "fake_https": 0,
+        "is_html": true,
+        "num_non_80_port_urls": 0,
+        "num_https_urls": 8,
+        "num_of_chars": 1116,
+        "num_param_phish": 0,
+        "text_and_href": 0,
+        "body_richness": 0.153088630259624,
+        "text_link_with_path": 0,
+        "max_num_slashes_urls": 5,
+        "num_shortened_urls": 0,
+        "num_sender_diff_url": 1,
+        "num_ip_urls": 0,
+        "num_black_sheep_link": -1,
+        "subject_richness": 0.1,
+        "num_tld_in_url_path": 0,
+        "subject_phish_keywords": 0,
+        "num_black_sheep_link_global": -1,
+        "num_black_sheep_link_phish": 0,
+        "num_path_phish": 0,
+        "suspicious_links": [],
+        "html_form": 0,
+        "num_phish_keywords": 3,
+        "num_subdomain_phish": 0,
+        "num_domain_phish": 0,
+        "ner_domain_detected": true,
+        "camouflage": 0,
+        "num_freehost_urls": 0,
+        "num_external_links": 9,
+        "max_num_dots_urls": 2,
+        "num_www_in_url_path": 0
+    },
+    "spf_status_registry": "Status not found",
+    "rfcid_is_foreign": 1,
+    "from_match": 0,
+    "first10words": " Objednavka platebni udaje Hezky den Dekujeme za vas zajem o nase nabidky Vase objednavka byla prijat",
+    "extractedTxtUrlsDomainCount": 1,
+    "spf_domain_policy": "UNKNOWN",
+    "header_total_count": 16,
+    "dkim_passed_count": 1,
+    "extractedTxtUrlsCardinality": 1,
+    "dkim_signs_cnt": 1,
+    "mime_children_types": [
+        "text/plain",
+        "text/html"
+    ],
+    "ahref_verbal_count": 5,
+    "subject_image_count": 0,
+    "phish_score": 0,
+    "rfcid_is_invalid": false,
+    "dkstatus": "PASS",
+    "phashes": [
+        {
+            "value": "pf187f79c24594f45",
+            "name": "pepca"
+        },
+        {
+            "value": "pf6729eb342bdc4bf",
+            "name": "pepca_style"
+        },
+        {
+            "value": "p72a66014f4c68bbd",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "extractedTxtUrlsTotalCount": 1,
+    "self_send": 0,
+    "dkdomain": "slevomat.cz",
+    "html_tr_tag_count": 4,
+    "extractedEmails": [],
+    "html_tag_total_count": 100,
+    "mime_children_count": 2,
+    "spamtrap_hit": false,
+    "extractedEmailsDomainCount": 0,
+    "extractedHrefUrlsTotalCount": 6,
+    "dk_statuses": [
+        {
+            "selector": "dkim",
+            "status": "PASS",
+            "domain": "slevomat.cz"
+        }
+    ],
+    "extractedSrcUrlsCardinality": 4,
+    "senders": {
+        "log_cnt_idf_detail": [],
+        "log_ecnt_idf_detail": [],
+        "tf_log_idf": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "cnt-pow4_w_duc_detail": [],
+        "ttf_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "src_revert": "slevomat",
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "plain_domain": "slevomat",
+        "src_revert_detail": [
+            {
+                "confidence": 3,
+                "domain": "slevomat"
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "slevomat"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "tf_log_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 10335093.282308,
+                "domain": "ge"
+            }
+        ],
+        "domain_keywords": "ge",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt_idf": ""
+    },
+    "spamscore": 1.1,
+    "ahref_total_count": 6,
+    "extractedEmailsCardinality": 0,
+    "extractedSrcUrlsTotalCount": 4,
+    "dkim_count": 1,
+    "adscore": 0,
+    "pepca": "pf187f79c24594f45",
+    "html_script_tag_count": 0,
+    "date_difference": -73528432,
+    "html_in_text_plain_count": 0,
+    "pepca_style": "pf6729eb342bdc4bf",
+    "word_count": 171,
+    "rfcid_length": 26,
+    "spf_dom_policy_registry": "Policy not found",
+    "pepcatotal": 1,
+    "last10words": " Dekujeme Vas Slevomat cz Zijte bohatsi zivot Mate dotaz Radi vam pomuzeme Prosim kontaktujte nas ",
+    "extractedHrefUrls": [
+        "https://www.slevomat.cz/sleva/801069-ucinne-spalovace-tuku-l-carnitine?nt_id=1690271381&nt_h=832287298aa3a2cbb927dfb203a19354d4e",
+        "http://www.slevomat.cz/objednavka/spayd?orderId=7046417537&userId=714644123&utm_medium=email&utm_source=cart&utm_campaign=cart_p",
+        "https://www.gemoney.cz/ge/cz/1/zakaznicky-servis/pobocky",
+        "https://www.slevomat.cz/ucet/ge/7046417537?utm_medium=email&utm_source=cart&utm_campaign=cart_prompt_2015-01-12&nt_id=1690271381",
+        "http://www.slevomat.cz/kontakt?utm_medium=email&utm_source=cart&utm_campaign=cart_prompt_2015-01-12&nt_id=1690271381&nt_h=832287"
+    ],
+    "spfstatus_hfrom": "SPF_NEUTRAL",
+    "header_reply_to_count": 0,
+    "dkim_hfrom_match": 1,
+    "attachments": [],
+    "content": "CONTENT_DEFAULT",
+    "extractedSrcUrls": [
+        "https://slevomat.sgcdn.cz/static/images/logo-email-s.png",
+        "https://www.slevomat.cz/notification/read/1690271381?hash=832287298aa3a2cbb927dfb203a19354d4eb14f3",
+        "https://slevomat.sgcdn.cz/images/t/240/35/93/3593331-950b2a.jpg",
+        "https://chart.googleapis.com/chart?chs=125x125&cht=qr&chl=SPD*1.0*ACC:CZ3303000000000238400856*AM:399*CC:CZK*MSG:Slevomat.cz\r\nQR"
+    ],
+    "list_unsubscribe_http_count": 0,
+    "extractedHrefUrlsDomainCount": 2,
+    "subject": "Objednavka platebni udaje",
+    "list_unsubscribe_total_count": 0,
+    "extractedSrcUrlsDomainCount": 3,
+    "ahref_camouflage_count": 0,
+    "list_unsubscribe_invalid_count": 0,
+    "header_from": "neodpovidejte@slevomat.cz"
+}

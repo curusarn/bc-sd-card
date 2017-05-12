@@ -1,0 +1,235 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "score": 1.1,
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging"
+            ]
+        }
+    ],
+    "extractedTxtUrls": [
+        "http://Restu.cz",
+        "http://www.restu.cz",
+        "http://Restu.cz.Pro"
+    ],
+    "spfstatus": "NONE",
+    "mime_root_type": "multipart/alternative",
+    "header_from_count": 1,
+    "now": 1494598242,
+    "dkim_efrom_match": 0,
+    "pepca_inline_style_total": 2,
+    "rcpts_count": 1,
+    "extractedEmailsTotalCount": 1,
+    "pepca_inline_style": "p4ba8a50d4fbcab49",
+    "pepca_style_total": 2,
+    "dkselector": "mandrill",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/3eab82763ba1133013b9dea5220b8582.eml",
+    "html_td_tag_count": 40,
+    "extractedHrefUrlsCardinality": 5,
+    "list_unsubscribe_mailto_count": 0,
+    "subject_word_count": 3,
+    "lang": "cs",
+    "precedence": 3,
+    "phishing": {
+        "num_html_script_tags": 0,
+        "num_text_forms": 1,
+        "fake_https": 0,
+        "is_html": true,
+        "num_non_80_port_urls": 0,
+        "num_https_urls": 0,
+        "num_of_chars": 696,
+        "num_param_phish": 0,
+        "text_and_href": 0,
+        "body_richness": 0.285509325681492,
+        "text_link_with_path": 0,
+        "max_num_slashes_urls": 4,
+        "num_shortened_urls": 0,
+        "num_sender_diff_url": 2,
+        "num_ip_urls": 0,
+        "num_black_sheep_link": -1,
+        "subject_richness": 0.125,
+        "num_tld_in_url_path": 0,
+        "subject_phish_keywords": 0,
+        "num_black_sheep_link_global": -1,
+        "num_black_sheep_link_phish": 0,
+        "num_path_phish": 0,
+        "suspicious_links": [],
+        "html_form": 0,
+        "num_phish_keywords": 0,
+        "num_subdomain_phish": 0,
+        "num_domain_phish": 0,
+        "ner_domain_detected": false,
+        "camouflage": 1,
+        "num_freehost_urls": 0,
+        "num_external_links": 7,
+        "max_num_dots_urls": 3,
+        "num_www_in_url_path": 0
+    },
+    "spf_status_registry": "Status not found",
+    "rfcid_is_foreign": 0,
+    "from_match": 0,
+    "first10words": " Dekujeme za registraci na Restu cz www restu cz Dekujeme za registraci na Restu cz Dobry den dekuj",
+    "extractedTxtUrlsDomainCount": 2,
+    "spf_domain_policy": "UNKNOWN",
+    "header_total_count": 19,
+    "dkim_passed_count": 2,
+    "extractedTxtUrlsCardinality": 3,
+    "dkim_signs_cnt": 2,
+    "mime_children_types": [
+        "text/plain",
+        "text/html"
+    ],
+    "ahref_verbal_count": 6,
+    "subject_image_count": 0,
+    "phish_score": 0,
+    "rfcid_is_invalid": false,
+    "dkstatus": "PASS",
+    "phashes": [
+        {
+            "value": "p558a20f1a8fcd825",
+            "name": "pepca"
+        },
+        {
+            "value": "p0e574b79aa4a5056",
+            "name": "pepca_style"
+        },
+        {
+            "value": "p4ba8a50d4fbcab49",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "extractedTxtUrlsTotalCount": 3,
+    "self_send": 0,
+    "dkdomain": "mail129.wdc04.mandrillapp.com",
+    "html_tr_tag_count": 34,
+    "extractedEmails": [
+        "info@restu.cz"
+    ],
+    "html_tag_total_count": 146,
+    "mime_children_count": 2,
+    "spamtrap_hit": false,
+    "extractedEmailsDomainCount": 1,
+    "extractedHrefUrlsTotalCount": 5,
+    "dk_statuses": [
+        {
+            "selector": "mandrill",
+            "status": "PASS",
+            "domain": "mail129.wdc04.mandrillapp.com"
+        },
+        {
+            "selector": "mandrill",
+            "status": "PASS",
+            "domain": "mandrillapp.com"
+        }
+    ],
+    "extractedSrcUrlsCardinality": 2,
+    "senders": {
+        "log_cnt_idf_detail": [],
+        "log_ecnt_idf_detail": [],
+        "tf_log_idf": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "cnt-pow4_w_duc_detail": [],
+        "ttf_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "src_revert": "restu",
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "plain_domain": "cz",
+        "src_revert_detail": [
+            {
+                "confidence": 1,
+                "domain": "restu"
+            },
+            {
+                "confidence": 1,
+                "domain": "topsrovnani"
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "plain_domain_detail": [
+            {
+                "confidence": 1,
+                "domain": "cz"
+            },
+            {
+                "confidence": 2,
+                "domain": "restu"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "tf_log_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 99669957.83716,
+                "domain": "restu"
+            }
+        ],
+        "domain_keywords": "restu",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt_idf": ""
+    },
+    "spamscore": 1.1,
+    "ahref_total_count": 9,
+    "extractedEmailsCardinality": 1,
+    "extractedSrcUrlsTotalCount": 2,
+    "dkim_count": 2,
+    "adscore": 0,
+    "pepca": "p558a20f1a8fcd825",
+    "html_script_tag_count": 0,
+    "date_difference": -79567731,
+    "html_in_text_plain_count": 0,
+    "pepca_style": "p0e574b79aa4a5056",
+    "word_count": 199,
+    "rfcid_length": 77,
+    "spf_dom_policy_registry": "Policy not found",
+    "pepcatotal": 2,
+    "last10words": "it a napiste nam na info restu cz nebo nam zavolejte na telefonni cislo 420 232 000 444 Po Ne 11 00 20 00 Restu 2014 ",
+    "extractedHrefUrls": [
+        "http://mandrillapp.com/track/click/30171883/www.restu.cz?p=eyJzIjoiLXdIUjMzbGROY1lYLWl1dm9QN0xJb2w0WG5FIiwidiI6MSwicCI6IntcInVcI",
+        "http://mandrillapp.com/track/click/30171883/www.restu.cz?p=eyJzIjoibzFkbDN1NWk1NzJydnBlRkI1MmNUTm9UdGdJIiwidiI6MSwicCI6IntcInVcI",
+        "http://mandrillapp.com/track/click/30171883/www.facebook.com?p=eyJzIjoibTduOVEwclRjTVBMYjZHamdlcXI4dmhVejhnIiwidiI6MSwicCI6IntcI",
+        "http://mandrillapp.com/track/click/30171883/twitter.com?p=eyJzIjoiV1Z0Zk1PZEZPSzRXSEpGZE45a212TFNXaWcwIiwidiI6MSwicCI6IntcInVcIj",
+        "http://mandrillapp.com/track/click/30171883/blog.restu.cz?p=eyJzIjoickxoMzhzaEcxU0dmWXdqaUtId3lDcHNkaGdVIiwidiI6MSwicCI6IntcInVc"
+    ],
+    "spfstatus_hfrom": "SPF_FAIL",
+    "header_reply_to_count": 0,
+    "dkim_hfrom_match": 0,
+    "attachments": [],
+    "content": "CONTENT_DEFAULT",
+    "extractedSrcUrls": [
+        "http://www.restu.cz/images/tranemail-logo.png",
+        "http://mandrillapp.com/track/open.php?u=30171883&id=431f68880c7545ceb4985c03f130d3a7"
+    ],
+    "list_unsubscribe_http_count": 0,
+    "extractedHrefUrlsDomainCount": 1,
+    "subject": "Dekujeme za registraci",
+    "list_unsubscribe_total_count": 0,
+    "extractedSrcUrlsDomainCount": 2,
+    "ahref_camouflage_count": 2,
+    "list_unsubscribe_invalid_count": 0,
+    "header_from": "info@restu.cz"
+}

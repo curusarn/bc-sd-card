@@ -1,0 +1,213 @@
+{
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "score": 1,
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ]
+        }
+    ],
+    "extractedTxtUrls": [
+        "http://PlnaPenezenka.cz.",
+        "http://PlnaPenezenka.cz",
+        "http://plnapenezenka.cz",
+        "http://www.plnapenezenka.cz"
+    ],
+    "spfstatus": "NONE",
+    "mime_root_type": "multipart/alternative",
+    "header_from_count": 1,
+    "now": 1494598281,
+    "dkim_efrom_match": 0,
+    "pepca_inline_style_total": 0,
+    "rcpts_count": 1,
+    "extractedEmailsTotalCount": 0,
+    "pepca_inline_style": "p72007c0b60015a3f",
+    "pepca_style_total": 0,
+    "dkselector": "default",
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/5b15ae98ffed2bf3e9a4cdcbd3ab24e5.eml",
+    "html_td_tag_count": 0,
+    "extractedHrefUrlsCardinality": 4,
+    "list_unsubscribe_mailto_count": 0,
+    "subject_word_count": 7,
+    "lang": "cs",
+    "precedence": 3,
+    "phishing": {
+        "num_html_script_tags": 0,
+        "num_text_forms": 0,
+        "fake_https": 0,
+        "is_html": true,
+        "num_non_80_port_urls": 0,
+        "num_https_urls": 0,
+        "num_of_chars": 665,
+        "num_param_phish": 0,
+        "text_and_href": 0,
+        "body_richness": 0.130630630630631,
+        "text_link_with_path": 0,
+        "max_num_slashes_urls": 1,
+        "num_shortened_urls": 0,
+        "num_sender_diff_url": 0,
+        "num_ip_urls": 0,
+        "num_black_sheep_link": -1,
+        "subject_richness": 0.162790697674419,
+        "num_tld_in_url_path": 0,
+        "subject_phish_keywords": 1,
+        "num_black_sheep_link_global": -1,
+        "num_black_sheep_link_phish": 0,
+        "num_path_phish": 0,
+        "suspicious_links": [],
+        "html_form": 0,
+        "num_phish_keywords": 6,
+        "num_subdomain_phish": 0,
+        "num_domain_phish": 0,
+        "ner_domain_detected": false,
+        "camouflage": 0,
+        "num_freehost_urls": 0,
+        "num_external_links": 5,
+        "max_num_dots_urls": 3,
+        "num_www_in_url_path": 0
+    },
+    "spf_status_registry": "Status not found",
+    "rfcid_is_foreign": 0,
+    "from_match": 0,
+    "first10words": " Plna Penezenka penize zpet z vasich nakupu Hezky den na zaklade vaseho pozadavku zasilame odkaz pro vygen",
+    "extractedTxtUrlsDomainCount": 1,
+    "spf_domain_policy": "UNKNOWN",
+    "header_total_count": 16,
+    "dkim_passed_count": 1,
+    "extractedTxtUrlsCardinality": 4,
+    "dkim_signs_cnt": 1,
+    "mime_children_types": [
+        "text/plain",
+        "text/html"
+    ],
+    "ahref_verbal_count": 2,
+    "subject_image_count": 0,
+    "phish_score": 0,
+    "rfcid_is_invalid": false,
+    "dkstatus": "PASS",
+    "phashes": [
+        {
+            "value": "p7108de32bda2c583",
+            "name": "pepca"
+        },
+        {
+            "value": "p72007c0b60015a3f",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "extractedTxtUrlsTotalCount": 4,
+    "self_send": 0,
+    "dkdomain": "plnapenezenka.cz",
+    "html_tr_tag_count": 0,
+    "extractedEmails": [],
+    "html_tag_total_count": 45,
+    "mime_children_count": 2,
+    "spamtrap_hit": false,
+    "extractedEmailsDomainCount": 0,
+    "extractedHrefUrlsTotalCount": 4,
+    "dk_statuses": [
+        {
+            "selector": "default",
+            "status": "PASS",
+            "domain": "plnapenezenka.cz"
+        }
+    ],
+    "extractedSrcUrlsCardinality": 1,
+    "senders": {
+        "log_cnt_idf_detail": [],
+        "log_ecnt_idf_detail": [],
+        "tf_log_idf": "",
+        "log_cnt-pow4_w_duc": "",
+        "log_ecnt_idf_log_tidf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "cnt-pow_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "idf": "",
+        "cnt-pow4_w_duc_detail": [],
+        "ttf_w_duc_detail": [],
+        "ettf_w_duc_detail": [],
+        "log_cnt-w_duc": "",
+        "src_revert": "topsleva",
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "log_cnt-pow4_w_duc_detail": [],
+        "log_cnt-pow_w_duc": "",
+        "cnt-pow4_w_duc": "",
+        "plain_domain": "plnapenezenka",
+        "src_revert_detail": [
+            {
+                "confidence": 1,
+                "domain": "topsleva"
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "log_ecnt_idf_log_tidf": "",
+        "log_cnt-pow_w_duc_detail": [],
+        "ttf_w_duc": "",
+        "plain_domain_detail": [
+            {
+                "confidence": 5,
+                "domain": "plnapenezenka"
+            }
+        ],
+        "log_ecnt_idf": "",
+        "tf_log_idf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "domain_keywords_detail": [
+            {
+                "confidence": 10256637.2474413,
+                "domain": "mcsv"
+            }
+        ],
+        "domain_keywords": "mcsv",
+        "log_cnt-w_duc_detail": [],
+        "log_ecnt-w_duc": "",
+        "log_cnt_idf": ""
+    },
+    "spamscore": 1,
+    "ahref_total_count": 4,
+    "extractedEmailsCardinality": 0,
+    "extractedSrcUrlsTotalCount": 1,
+    "dkim_count": 1,
+    "adscore": 0,
+    "pepca": "p7108de32bda2c583",
+    "html_script_tag_count": 0,
+    "date_difference": -80016680,
+    "html_in_text_plain_count": 0,
+    "pepca_style": "",
+    "word_count": 87,
+    "rfcid_length": 28,
+    "spf_dom_policy_registry": "Policy not found",
+    "pepcatotal": 0,
+    "last10words": "m PlnaPenezenka cz info plnapenezenka cz www plnapenezenka cz Copyright 2014 PlnaPenezenka cz Vsechna prava vyhrazena ",
+    "extractedHrefUrls": [
+        "http://www.plnapenezenka.cz/",
+        "http://www.plnapenezenka.cz/zaslani-hesla?hash=a2d5fk5450cccc11b0c6.72803149&backlink=0uhle",
+        "%E2%80%9Cmailto:info@plnapenezenka.cz%22",
+        "http://www.plnapenezenka.cz/?utm_source=autorespond&utm_medium=email&utm_campaign=1-den-registrace-3-kliknuti"
+    ],
+    "spfstatus_hfrom": "SPF_FAIL",
+    "header_reply_to_count": 1,
+    "dkim_hfrom_match": 1,
+    "attachments": [],
+    "content": "CONTENT_DEFAULT",
+    "extractedSrcUrls": [
+        "http://www.plnapenezenka.cz/images/logo.png"
+    ],
+    "list_unsubscribe_http_count": 0,
+    "extractedHrefUrlsDomainCount": 1,
+    "subject": "Zadost o nove heslo na PlnaPenezenka cz",
+    "list_unsubscribe_total_count": 0,
+    "extractedSrcUrlsDomainCount": 1,
+    "ahref_camouflage_count": 0,
+    "list_unsubscribe_invalid_count": 0,
+    "header_from": "info@plnapenezenka.cz"
+}
