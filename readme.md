@@ -1,4 +1,5 @@
 # Contents of this microSD card:
+```
 .
 ├── data
 │   └── feature_data
@@ -40,6 +41,7 @@
 │   │   └── train.py
 │   └── thesis
 └── text
+```
 
 # Instalation 
 ## Dependencies
