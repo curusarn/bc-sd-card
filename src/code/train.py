@@ -18,7 +18,8 @@ class ShowHelpOnErrorParser(argparse.ArgumentParser):
         self.print_help()
         sys.exit(2)
 
-DATA_PATH = "/home/simonlet/git/nametag/feature_data"
+SRC_PATH = os.path.dirname(os.path.realpath(__file__))
+DATA_PATH = os.path.join(SRC_PATH,"../../data/feature_data")
 
 parser = ShowHelpOnErrorParser()
 parser.add_argument("data", type=str,
