@@ -1,17 +1,20 @@
 # Contents of this microSD card:
 ```
 .
-├── data
-│   └── feature_data
-├── Makefile
-├── readme.md
-├── results
-├── src
-│   ├── code
-│   │   ├── addTargetFeatures.py
-│   │   └── train.py
-│   └── thesis
-└── text
+├── data - the directory of data
+│   ├── feature_data - the directory of extracted feaatures for training 
+│   └── organizations_data - the directory of organizations data
+├── Makefile - Makefile for running selected parts of the implementation
+├── readme.md - the file with SD card contents description
+├── results - the directory with results of the training
+├── src - the directory of source codes
+│   ├── code - implementation sources
+│   │   ├── addTargetFeatures.py - script for adding target based features
+│   │   ├── train.py - script for training the phishing email detector
+│   │   └── more - more implementation sources
+│   └── thesis the directory of Latex source codes of the thesis
+└── text - the thesis text directory
+    └── thesis.pdf - the thesis text in PDF format
 ```
 
 # Instalation 
