@@ -6,19 +6,13 @@ all: train
 
 train:
 	echo "Using baseline set of features"
-	python3 src/code/train.py v1
-	echo "Using binary target feature"
-	python3 src/code/train.py v1_b
-	echo "Using top5 target feature"
-	python3 src/code/train.py v1_T
-	echo "Using top5 and binary target feature"
-	python3 src/code/train.py v1_bT
-	echo "Using binary target feature, REMOVE original features"
-	python3 src/code/train.py v1_xb
-	echo "Using top5 target feature, REMOVE original features"
-	python3 src/code/train.py v1_xT
-	echo "Using top5 and binary target feature, REMOVE original features"
-	python3 src/code/train.py v1_xbT
+	python3 src/code/train.py v2
+	echo "Using all available features"
+	python3 src/code/train.py v2_blLtT
+	echo "Using the best feature from baseline solution"
+	python3 src/code/train.py v2_blLtT -o 44 
+	echo "Using the best target-based feature"
+	python3 src/code/train.py v2_blLtT -o 29
 
 
 clean:

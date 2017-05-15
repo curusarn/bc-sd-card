@@ -3,38 +3,9 @@
 .
 ├── data
 │   └── feature_data
-│       ├── targets
-│       ├── v1
-│       ├── v1_b
-│       ├── v1_bT
-│       ├── v1_T
-│       ├── v1_xb
-│       ├── v1_xbT
-│       └── v1_xT
 ├── Makefile
-├── readme.txt
+├── readme.md
 ├── results
-│   ├── feature_names_v1_b.json
-│   ├── feature_names_v1_bT.json
-│   ├── feature_names_v1.json
-│   ├── feature_names_v1_T.json
-│   ├── feature_names_v1_xb.json
-│   ├── feature_names_v1_xbT.json
-│   ├── feature_names_v1_xT.json
-│   ├── model_v1_b.pkl
-│   ├── model_v1_bT.pkl
-│   ├── model_v1.pkl
-│   ├── model_v1_T.pkl
-│   ├── model_v1_xb.pkl
-│   ├── model_v1_xbT.pkl
-│   ├── model_v1_xT.pkl
-│   ├── report_v1_bT.txt
-│   ├── report_v1_b.txt
-│   ├── report_v1_T.txt
-│   ├── report_v1.txt
-│   ├── report_v1_xbT.txt
-│   ├── report_v1_xb.txt
-│   └── report_v1_xT.txt
 ├── src
 │   ├── code
 │   │   ├── addTargetFeatures.py
@@ -56,7 +27,7 @@ You can probably install python modules using:
 ## Makefile
 Run `make` to display this readme.
 
-Run `make train` to train models using all available feature data.
+Run `make train` to train models using 4 interesting feature configurations.
 All results are stored in results directory.
 
 Run `make clean` to delete trained models.
