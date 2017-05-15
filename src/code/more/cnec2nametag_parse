@@ -1,0 +1,12 @@
+#!/bin/bash
+
+src="cnec2.0/data/plain"
+dest="cnec2.0/data/nametag"
+
+
+for f in `ls "$src"`; do
+    echo "converting:    $src/$f    -->    $dest/$f"
+    python2 custom_scripts/cnec2nametag_parse.py "$src/$f" > "$dest/$f" 
+done
+
+echo "done, have a nice day"

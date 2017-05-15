@@ -1,0 +1,15 @@
+#!/bin/bash
+
+src="conll2003/data/conll2003"
+dest="conll2003/data/nametag"
+
+
+for f in `ls "$src"`; do
+    echo "converting:    $src/$f    -->    $dest/$f"
+    # just cut 1st and 3rd column and swap spaces with \tabs
+    # and remove docstart formating lines
+    cat "$src/$f" | cut -d' ' -f1,4 | sed 's/ /\t/'\
+       | grep -v '\-DOCSTART\-' > "$dest/$f" 
+done
+
+echo "done, have a nice day"

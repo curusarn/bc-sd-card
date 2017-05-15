@@ -1,0 +1,36 @@
+#!/bin/bash
+
+if [[ $# -lt 2 ]]; then
+    echo "USAGE: train_ner en|cs training_data [heldout_data]"
+    exit 1
+fi
+
+#default language and tagger
+lang="czech"
+tagger="morphodita:czech-morfflex-pdt-161115/czech-morfflex-pdt-161115.tagger"
+
+
+if [[ "$1" == "en" ]]; then
+    lang="english"
+    tagger="morphodita:english-morphium-wsj-140407/english-morphium-wsj-140407.tagger"
+fi
+
+
+feature_template_file="features_customized" 
+stages="1" #change to 2 for larger model and better accuracy
+iterations="10" # use 30 or 50 for longer learning times
+missing_weight="-0.2"
+inituial_learning_rate="0.1"
+final_learning_rate="0.01" # 0.1 to 0.001
+gaussian="0.5"
+hidden_layer="0" # experimental support for hidden layer in the artificial neural network classifier. To not use the hidden layer (recommended), use 0. Otherwise, specify the number of neurons in the hidden layer. Please note that non-zero values will create enormous models, slower recognition and are not guaranteed to create models with better accuracy.
+heldout_data="empty_file" #
+[[ $# -gt 1 ]] && heldout_data="$3"
+training_data="$2"
+
+src/train_ner "$lang" "$tagger" "$feature_template_file" "$stages" "$iterations" "$missing_weight" "$inituial_learning_rate" "$final_learning_rate" "$gaussian" "$hidden_layer" "$heldout_data" < "$training_data" > trained/$lang.ner.`date +"%y-%m-%d_%T"`
+
+
+echo "pkill nametag ?"
+read p
+pkill nametag

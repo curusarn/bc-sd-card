@@ -1,0 +1,6 @@
+#!/bin/bash
+
+[[ $# -lt 2 ]] && echo "$0 MODEL DATA" && exit 1
+
+src/run_ner --input=untokenized --output=vertical "$1" < "$2"
+
