@@ -55,6 +55,10 @@ TARGETS_DICT = {}
 NEXT_TARGET_ID = 0
 def topNFeature(targetData, TARGETS_DICT, NEXT_TARGET_ID, n):
     feature = {}
+    for i in range(0,n):
+        feature[str(n)+"_top_domains_id_"+str(i)] = 0
+        feature[str(n)+"_top_domains_percent_"+str(i)] = 0
+
     for x,pair in enumerate(targetData["targets"][:n]):
         target = pair[0]
         if target not in TARGETS_DICT:
