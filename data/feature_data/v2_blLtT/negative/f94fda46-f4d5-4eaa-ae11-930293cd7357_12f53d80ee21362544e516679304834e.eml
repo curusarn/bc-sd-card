@@ -1,0 +1,243 @@
+{
+    "ahref_total_count": 6,
+    "word_count": 346,
+    "extractedTxtUrlsDomainCount": 2,
+    "extractedEmails": [
+        "lpbu@seznam.cz",
+        "zakaznickyservis@be2.cz.",
+        "zakaznickyservis@be2.cz"
+    ],
+    "dkim_signs_cnt": 1,
+    "pepca": "pfda0594307bfa3e9",
+    "pepca_style": "",
+    "phashes": [
+        {
+            "value": "pfda0594307bfa3e9",
+            "name": "pepca"
+        },
+        {
+            "value": "p17ebbf19c7192ba4",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "ahref_camouflage_count": 1,
+    "extractedHrefUrls": [
+        "http://email3.be2.com/H?a=C9X7DMeNUDlk8SA9MKJY8uPnGHxKLJ142gjtS5kGd41MKoI&encrypted_user_object_id=aDgTWwJ2RTdSEILsYPHjdiAgYnpbA",
+        "http://email3.be2.com/H?a=C9X7DMeNUDlk8SA9MKJY8uPnGHxKLJ142gjtS5kGd41PKoE&encrypted_user_object_id=aDgTWwJ2RTdSEILsYPHjdiAgYnpbA",
+        "http://email3.be2.com/H?a=C9X7DMeNUDlk8SA9MKJY8uPnGHxKLJ142gjtS5kGd41OKoA&encrypted_user_object_id=aDgTWwJ2RTdSEILsYPHjdiAgYnpbA",
+        "http://email3.be2.com/H?a=C9X7DMeNUDlk8SA9MKJY8uPnGHxKLJ142gjtS5kGd41BKp8&encrypted_user_object_id=aDgTWwJ2RTdSEILsYPHjdiAgYnpbA",
+        "http://email3.be2.com/H?a=C9X7DMeNUDlk8SA9MKJY8uPnGHxKLJ142gjtS5kGd41AKp4&temp_str_2=OyFbQVBK"
+    ],
+    "mime_children_count": 2,
+    "spamtrap_hit": false,
+    "pepca_inline_style": "p17ebbf19c7192ba4",
+    "subject": "Vase heslo na be2",
+    "date_difference": -80118277,
+    "extractedTxtUrls": [
+        "http://be2.cz",
+        "https://sec.be2.com/autoLogin/index?hashStr=passwordforgotten&i=1",
+        "http://be2.cz."
+    ],
+    "spamscore": 1.2,
+    "subject_image_count": 0,
+    "html_tag_total_count": 261,
+    "header_reply_to_count": 1,
+    "list_unsubscribe_total_count": 1,
+    "header_from_count": 1,
+    "mime_root_type": "multipart/alternative",
+    "extractedHrefUrlsDomainCount": 1,
+    "dkdomain": "email3.be2.com",
+    "pepca_inline_style_total": 0,
+    "phish_score": 0,
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1,
+                0.1
+            ],
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging",
+                "foreign_message_id"
+            ],
+            "score": 1.2
+        }
+    ],
+    "adscore": 0,
+    "senders": {
+        "log_cnt_idf": "",
+        "log_ecnt-w_duc": "",
+        "ettf_w_duc_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "domain": "be2",
+                "confidence": 2
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "domain_keywords_detail": [
+            {
+                "domain": "be2",
+                "confidence": 80091159.6356294
+            }
+        ],
+        "tf_log_idf_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "be2",
+        "idf": "",
+        "log_cnt-w_duc_detail": [],
+        "src_revert_detail": [
+            {
+                "domain": "be2",
+                "confidence": 12
+            }
+        ],
+        "log_cnt_idf_log_tidf": "",
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow4_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "plain_domain": "be2",
+        "ttf_w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-pow4_w_duc": "",
+        "cnt-pow_w_duc": "",
+        "src_revert": "be2",
+        "log_cnt_idf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "log_cnt-pow_w_duc": ""
+    },
+    "content": "CONTENT_DEFAULT",
+    "self_send": 0,
+    "attachments": [],
+    "list_unsubscribe_urls": [
+        "dummy"
+    ],
+    "html_tr_tag_count": 48,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/12f53d80ee21362544e516679304834e.eml",
+    "extractedTxtUrlsTotalCount": 3,
+    "pepcatotal": 0,
+    "spf_status_registry": "Status not found",
+    "spf_dom_policy_registry": "Policy not found",
+    "spf_domain_policy": "UNKNOWN",
+    "dkim_hfrom_match": 1,
+    "dk_statuses": [
+        {
+            "selector": "emv",
+            "domain": "email3.be2.com",
+            "status": "PASS"
+        }
+    ],
+    "subject_word_count": 4,
+    "list_unsubscribe_mailto_count": 0,
+    "rcpts_count": 1,
+    "precedence": 3,
+    "now": 1494598189,
+    "rfcid_is_invalid": false,
+    "list_unsubscribe_invalid_count": 1,
+    "dkim_efrom_match": 0,
+    "html_td_tag_count": 85,
+    "contains_list_header": true,
+    "rfcid_length": 48,
+    "extractedHrefUrlsTotalCount": 10,
+    "rfcid_is_foreign": 1,
+    "spfstatus_hfrom": "SPF_FAIL",
+    "list_unsubscribe_http_count": 0,
+    "extractedEmailsTotalCount": 3,
+    "extractedEmailsCardinality": 3,
+    "extractedTxtUrlsCardinality": 3,
+    "ahref_verbal_count": 3,
+    "extractedEmailsDomainCount": 3,
+    "extractedSrcUrls": [
+        "https://img.be2.com/crm/template-button-green_left_end.jpg",
+        "https://img.be2.com/crm/template-button-green_right_end.jpg",
+        "https://img.be2.com/crm/signature-with_CS-40.png",
+        "http://www.be2.de/ectracker?user_id=6744212&send_date=20141028&email_campaign=cz_CZ:NF:00:00:PWF",
+        "http://email3.be2.com/WBS?CtX7DMeNUDlk8SA9MKJY8uPnGHxKLJ142gtm.gif"
+    ],
+    "dkim_passed_count": 1,
+    "dkselector": "emv",
+    "extractedSrcUrlsTotalCount": 12,
+    "pepca_style_total": 0,
+    "extractedHrefUrlsCardinality": 10,
+    "header_from": "be2-czechia@email3.be2.com",
+    "dkstatus": "PASS",
+    "first10words": " be2 seasonal offer Zmente sve heslo Tuto zpravu jste prijali jelikoz emailova adresa lpbu seznam cz byla zaregistrovana ",
+    "dkim_count": 1,
+    "spfstatus": "NONE",
+    "header_total_count": 18,
+    "html_script_tag_count": 0,
+    "mime_children_types": [
+        "text/plain",
+        "text/html"
+    ],
+    "from_match": 0,
+    "extractedSrcUrlsDomainCount": 2,
+    "lang": "cs",
+    "phishing": {
+        "5_top_domains_percent_4": 0,
+        "fake_https": 0,
+        "max_num_dots_urls": 2,
+        "num_sender_diff_url": 0,
+        "num_freehost_urls": 0,
+        "num_black_sheep_link_global": -1,
+        "html_form": 0,
+        "subject_richness": 0.210526315789474,
+        "num_non_80_port_urls": 0,
+        "num_phish_keywords": 5,
+        "num_text_forms": 49,
+        "is_html": true,
+        "num_path_phish": 0,
+        "num_black_sheep_link_phish": 0,
+        "num_subdomain_phish": 0,
+        "num_black_sheep_link": -1,
+        "num_html_script_tags": 0,
+        "5_top_domains_percent_3": 0,
+        "1_top_domains_id_0": 0,
+        "suspicious_links": [],
+        "num_param_phish": 0,
+        "subject_phish_keywords": 1,
+        "num_https_urls": 11,
+        "5_top_domains_percent_0": 0,
+        "num_shortened_urls": 0,
+        "max_num_slashes_urls": 2,
+        "num_of_chars": 1484,
+        "num_www_in_url_path": 0,
+        "5_top_domains_percent_1": 0,
+        "5_top_domains_id_1": 0,
+        "argessive_link_mismatch": -1,
+        "num_domain_phish": 0,
+        "5_top_domains_percent_2": 0,
+        "5_top_domains_id_0": 0,
+        "text_and_href": 0,
+        "5_top_domains_id_4": 0,
+        "1_top_domains_percent_0": 0,
+        "num_external_links": 10,
+        "body_richness": 0.232996632996633,
+        "num_tld_in_url_path": 0,
+        "benevolent_link_mismatch": -1,
+        "num_ip_urls": 0,
+        "5_top_domains_id_3": 0,
+        "text_link_with_path": 1,
+        "camouflage": 1,
+        "5_top_domains_id_2": 0,
+        "ner_domain_detected": false
+    },
+    "html_in_text_plain_count": 0,
+    "extractedSrcUrlsCardinality": 12,
+    "last10words": "chodni reditel Laetitia Pateau be2 je registrovanou znackou spolecnosti OPG Online Personals Group AG v mnoha zemich sveta "
+}

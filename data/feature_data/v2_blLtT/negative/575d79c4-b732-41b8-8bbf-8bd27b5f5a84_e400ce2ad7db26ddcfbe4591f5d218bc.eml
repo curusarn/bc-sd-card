@@ -1,0 +1,280 @@
+{
+    "ahref_total_count": 3,
+    "spf_dom_policy_registry": "Policy not found",
+    "extractedTxtUrlsDomainCount": 1,
+    "extractedEmails": [
+        "i.bogorova@seznam.cz"
+    ],
+    "dkim_signs_cnt": 1,
+    "pepca": "pa14972fe8183fef0",
+    "phashes": [
+        {
+            "value": "pc2246c4e6cc11d54",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p36f26697226c76a6",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p292bcb8755a82a15",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p9c6837cff8408852",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pa14972fe8183fef0",
+            "name": "pepca"
+        },
+        {
+            "value": "p540e55acac9d0d35",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "ahref_camouflage_count": 0,
+    "extractedHrefUrls": [
+        "http://www.ukocicek.cz/detail.php?zbozi=4147728",
+        "http://www.ukocicek.cz/detail.php?zbozi=5367625",
+        "http://www.ukocicek.cz/detail.php?zbozi=5368908",
+        "http://www.ukocicek.cz/objednavka.php?id=1775638&shop=140&datum=1418640464",
+        "http://www.ukocicek.cz/podminky.php?pdf=1&verze=1418640464&jazyk=cs"
+    ],
+    "mime_children_count": 5,
+    "spamtrap_hit": false,
+    "pepca_inline_style": "p540e55acac9d0d35",
+    "date_difference": -75957962,
+    "extractedTxtUrls": [
+        "http://www.ukocicek.cz/podminky.php?pdf=1&verze=1418640464&jazyk=cs"
+    ],
+    "spamscore": 1.1,
+    "subject_image_count": 0,
+    "html_tag_total_count": 249,
+    "header_reply_to_count": 0,
+    "list_unsubscribe_total_count": 0,
+    "header_from_count": 1,
+    "mime_root_type": "multipart/related",
+    "extractedHrefUrlsDomainCount": 1,
+    "pepca_style": "",
+    "pepca_inline_style_total": 0,
+    "phish_score": 0,
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "score": 1.1
+        }
+    ],
+    "adscore": 0,
+    "senders": {
+        "log_cnt_idf": "",
+        "log_ecnt-w_duc": "",
+        "ettf_w_duc_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "domain_keywords_detail": [
+            {
+                "domain": "superhosting",
+                "confidence": 20646382.4884113
+            }
+        ],
+        "tf_log_idf_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "superhosting",
+        "idf": "",
+        "log_cnt-w_duc_detail": [],
+        "src_revert_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow4_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "plain_domain": "",
+        "ttf_w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-pow4_w_duc": "",
+        "cnt-pow_w_duc": "",
+        "src_revert": "",
+        "log_cnt_idf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "log_cnt-pow_w_duc": ""
+    },
+    "content": "CONTENT_DEFAULT",
+    "self_send": 0,
+    "attachments": [
+        {
+            "size": 4264,
+            "name": "4145542.jpg",
+            "cid": "4145542.jpg",
+            "sumphash": "3c2e50057dc601a277eead9a10a68ccb",
+            "pepca": "pc2246c4e6cc11d54",
+            "mime_type": "image/jpeg",
+            "flags": 0,
+            "cte": "BASE64"
+        },
+        {
+            "size": 3596,
+            "name": "4147728.jpg",
+            "cid": "4147728.jpg",
+            "sumphash": "939374b7e82bd50875b105a137006bb5",
+            "pepca": "p36f26697226c76a6",
+            "mime_type": "image/jpeg",
+            "flags": 0,
+            "cte": "BASE64"
+        },
+        {
+            "size": 4855,
+            "name": "5367625.jpg",
+            "cid": "5367625.jpg",
+            "sumphash": "ffd9348af62f5c04368ce1e6d3339672",
+            "pepca": "p292bcb8755a82a15",
+            "mime_type": "image/jpeg",
+            "flags": 0,
+            "cte": "BASE64"
+        },
+        {
+            "size": 4241,
+            "name": "5368908.jpg",
+            "cid": "5368908.jpg",
+            "sumphash": "2b9b0bf3ed956df69da2249771971611",
+            "pepca": "p9c6837cff8408852",
+            "mime_type": "image/jpeg",
+            "flags": 0,
+            "cte": "BASE64"
+        }
+    ],
+    "subject": "Objednavka z E shopu U kocicek",
+    "html_tr_tag_count": 24,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/e400ce2ad7db26ddcfbe4591f5d218bc.eml",
+    "extractedTxtUrlsTotalCount": 1,
+    "pepcatotal": 0,
+    "spf_status_registry": "Status not found",
+    "last10words": "dminky platne ke dni 15 12 2014 11 47 si stahnete ve formatu PDF zde http www ukocicek cz podminky php pdf 1 verze 1418640464 jazyk cs ",
+    "spf_domain_policy": "UNKNOWN",
+    "dkim_hfrom_match": 0,
+    "word_count": 302,
+    "dk_statuses": [
+        {
+            "status": "NEUTRAL",
+            "statusDetail": "NOT_SIGNED"
+        }
+    ],
+    "subject_word_count": 6,
+    "list_unsubscribe_mailto_count": 0,
+    "rcpts_count": 1,
+    "precedence": 3,
+    "now": 1494598426,
+    "rfcid_is_invalid": false,
+    "list_unsubscribe_invalid_count": 0,
+    "dkim_efrom_match": 0,
+    "html_td_tag_count": 78,
+    "rfcid_length": 48,
+    "extractedHrefUrlsTotalCount": 6,
+    "rfcid_is_foreign": 1,
+    "spfstatus_hfrom": "SPF_NEUTRAL",
+    "list_unsubscribe_http_count": 0,
+    "extractedEmailsTotalCount": 1,
+    "extractedEmailsCardinality": 1,
+    "extractedTxtUrlsCardinality": 1,
+    "ahref_verbal_count": 1,
+    "extractedEmailsDomainCount": 1,
+    "extractedSrcUrls": [
+        "cid:4145542.jpg",
+        "cid:4147728.jpg",
+        "cid:5367625.jpg",
+        "cid:5368908.jpg"
+    ],
+    "dkim_passed_count": 0,
+    "extractedSrcUrlsTotalCount": 4,
+    "pepca_style_total": 0,
+    "extractedHrefUrlsCardinality": 6,
+    "header_from": "tothovasona@seznam.cz",
+    "dkstatus": "NEUTRAL",
+    "first10words": " Datum objednavky 15 12 2014 11 47 Cislo objednavky 141118 Zpusob odberu ceska posta dobirka Zpusob uhrady Ceska posta d",
+    "dkim_count": 0,
+    "spfstatus": "NONE",
+    "header_total_count": 13,
+    "html_script_tag_count": 0,
+    "mime_children_types": [
+        "multipart/alternative",
+        "image/jpeg",
+        "image/jpeg",
+        "image/jpeg",
+        "image/jpeg"
+    ],
+    "from_match": 0,
+    "extractedSrcUrlsDomainCount": 0,
+    "lang": "cs",
+    "phishing": {
+        "5_top_domains_percent_4": 0,
+        "fake_https": 0,
+        "max_num_dots_urls": 3,
+        "num_sender_diff_url": 1,
+        "num_freehost_urls": 0,
+        "num_black_sheep_link_global": -1,
+        "html_form": 0,
+        "subject_richness": 0.176470588235294,
+        "num_non_80_port_urls": 0,
+        "num_phish_keywords": 1,
+        "num_text_forms": 1,
+        "is_html": true,
+        "num_path_phish": 0,
+        "num_black_sheep_link_phish": 0,
+        "num_subdomain_phish": 0,
+        "num_black_sheep_link": -1,
+        "num_html_script_tags": 0,
+        "5_top_domains_percent_3": 0,
+        "1_top_domains_id_0": 0,
+        "suspicious_links": [],
+        "num_param_phish": 0,
+        "subject_phish_keywords": 0,
+        "num_https_urls": 0,
+        "5_top_domains_percent_0": 0,
+        "num_shortened_urls": 0,
+        "max_num_slashes_urls": 1,
+        "num_of_chars": 1343,
+        "num_www_in_url_path": 0,
+        "5_top_domains_percent_1": 0,
+        "5_top_domains_id_1": 0,
+        "argessive_link_mismatch": -1,
+        "num_domain_phish": 0,
+        "5_top_domains_percent_2": 0,
+        "5_top_domains_id_0": 0,
+        "text_and_href": 1,
+        "5_top_domains_id_4": 0,
+        "1_top_domains_percent_0": 0,
+        "num_external_links": 5,
+        "body_richness": 0.224702380952381,
+        "num_tld_in_url_path": 0,
+        "benevolent_link_mismatch": -1,
+        "num_ip_urls": 0,
+        "5_top_domains_id_3": 0,
+        "text_link_with_path": 1,
+        "camouflage": 0,
+        "5_top_domains_id_2": 0,
+        "ner_domain_detected": false
+    },
+    "html_in_text_plain_count": 0,
+    "extractedSrcUrlsCardinality": 4,
+    "dkStatusDetail": "NOT_SIGNED"
+}

@@ -1,0 +1,220 @@
+{
+    "ahref_total_count": 5,
+    "word_count": 277,
+    "pepca": "p82907b5ae078c3bb",
+    "extractedEmails": [
+        "cechova1@centrum.cz"
+    ],
+    "dkim_signs_cnt": 1,
+    "pepca_style": "pcfe600315c3a575a",
+    "phashes": [
+        {
+            "value": "p82907b5ae078c3bb",
+            "name": "pepca"
+        },
+        {
+            "value": "pcfe600315c3a575a",
+            "name": "pepca_style"
+        },
+        {
+            "value": "pfca20d38c190b204",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "ahref_camouflage_count": 0,
+    "extractedHrefUrls": [
+        "https://www.facebook.com/recover/code?u=100000508059718&n=502117",
+        "https://www.facebook.com/login/recover/disavow_reset_email.php?n=502117&id=100000508059718"
+    ],
+    "mime_children_count": 2,
+    "spamtrap_hit": false,
+    "pepca_inline_style": "pfca20d38c190b204",
+    "date_difference": -79743596,
+    "spamscore": 1.5,
+    "subject_image_count": 0,
+    "html_tag_total_count": 184,
+    "header_reply_to_count": 1,
+    "list_unsubscribe_total_count": 0,
+    "header_from_count": 1,
+    "resent": true,
+    "mime_root_type": "multipart/alternative",
+    "extractedHrefUrlsDomainCount": 1,
+    "dkdomain": "",
+    "pepca_inline_style_total": 0,
+    "phish_score": 0,
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.5
+            ],
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "long_subject"
+            ],
+            "score": 1.5
+        }
+    ],
+    "adscore": 0,
+    "senders": {
+        "log_cnt_idf": "",
+        "log_ecnt-w_duc": "",
+        "ettf_w_duc_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "domain_keywords_detail": [
+            {
+                "domain": "ebay",
+                "confidence": 27543795.8669938
+            }
+        ],
+        "tf_log_idf_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "ebay",
+        "idf": "",
+        "log_cnt-w_duc_detail": [],
+        "src_revert_detail": [
+            {
+                "domain": "facebookmail",
+                "confidence": 1
+            }
+        ],
+        "log_cnt_idf_log_tidf": "",
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow4_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "plain_domain": "",
+        "ttf_w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-pow4_w_duc": "",
+        "cnt-pow_w_duc": "",
+        "src_revert": "facebookmail",
+        "log_cnt_idf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "log_cnt-pow_w_duc": ""
+    },
+    "content": "CONTENT_DEFAULT",
+    "self_send": 0,
+    "attachments": [],
+    "html_tr_tag_count": 42,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/bddaf9c56626887aabc13244cf213e7c.eml",
+    "rfcid_is_foreign": 0,
+    "pepcatotal": 0,
+    "spf_status_registry": "Status not found",
+    "spf_dom_policy_registry": "Policy not found",
+    "spf_domain_policy": "UNKNOWN",
+    "dkim_hfrom_match": 0,
+    "dk_statuses": [
+        {
+            "status": "FAIL",
+            "domain": "",
+            "statusDetail": "DKIM_STAT_BADSIG"
+        }
+    ],
+    "subject_word_count": 10,
+    "list_unsubscribe_mailto_count": 0,
+    "rcpts_count": 1,
+    "precedence": 3,
+    "now": 1494598405,
+    "rfcid_is_invalid": false,
+    "list_unsubscribe_invalid_count": 0,
+    "dkim_efrom_match": 0,
+    "html_td_tag_count": 58,
+    "rfcid_length": 49,
+    "extractedHrefUrlsTotalCount": 2,
+    "dkStatusDetail": "DKIM_STAT_BADSIG",
+    "spfstatus_hfrom": "SPF_FAIL",
+    "list_unsubscribe_http_count": 0,
+    "extractedEmailsTotalCount": 1,
+    "extractedEmailsCardinality": 1,
+    "subject": "Nekdo pozadal o nove heslo k vasemu uctu na Facebooku",
+    "ahref_verbal_count": 4,
+    "extractedEmailsDomainCount": 1,
+    "extractedSrcUrls": [
+        "https://www.facebook.com/email_open_log_pic.php?mid=abef5c7G5af32ec2a046G0G178Gccfd2bc"
+    ],
+    "dkim_passed_count": 0,
+    "extractedSrcUrlsTotalCount": 1,
+    "pepca_style_total": 0,
+    "extractedHrefUrlsCardinality": 2,
+    "header_from": "password+kr4mmk5ebgxx@facebookmail.com",
+    "dkstatus": "FAIL",
+    "first10words": " Facebook Nekdo nedavno pozadat o obnoveni vaseho hesla k Facebooku Kliknete sem a zmente si heslo Pripadne muzete zada",
+    "dkim_count": 1,
+    "spfstatus": "NONE",
+    "header_total_count": 29,
+    "html_script_tag_count": 0,
+    "mime_children_types": [
+        "text/plain",
+        "text/html"
+    ],
+    "from_match": 0,
+    "extractedSrcUrlsDomainCount": 1,
+    "lang": "cs",
+    "phishing": {
+        "5_top_domains_percent_4": 0,
+        "fake_https": 0,
+        "max_num_dots_urls": 3,
+        "num_sender_diff_url": 1,
+        "num_freehost_urls": 0,
+        "num_black_sheep_link_global": -1,
+        "html_form": 0,
+        "subject_richness": 0.163934426229508,
+        "num_non_80_port_urls": 0,
+        "num_phish_keywords": 14,
+        "num_text_forms": 14,
+        "is_html": true,
+        "num_path_phish": 0,
+        "num_black_sheep_link_phish": 0,
+        "num_subdomain_phish": 0,
+        "num_black_sheep_link": -1,
+        "num_html_script_tags": 0,
+        "5_top_domains_percent_3": 0,
+        "1_top_domains_id_0": 0,
+        "suspicious_links": [],
+        "num_param_phish": 0,
+        "subject_phish_keywords": 2,
+        "num_https_urls": 3,
+        "5_top_domains_percent_0": 0,
+        "num_shortened_urls": 0,
+        "max_num_slashes_urls": 3,
+        "num_of_chars": 951,
+        "num_www_in_url_path": 0,
+        "5_top_domains_percent_1": 0,
+        "5_top_domains_id_1": 0,
+        "argessive_link_mismatch": -1,
+        "num_domain_phish": 0,
+        "5_top_domains_percent_2": 0,
+        "5_top_domains_id_0": 0,
+        "text_and_href": 0,
+        "5_top_domains_id_4": 0,
+        "1_top_domains_percent_0": 0,
+        "num_external_links": 3,
+        "body_richness": 0.290966386554622,
+        "num_tld_in_url_path": 0,
+        "benevolent_link_mismatch": -1,
+        "num_ip_urls": 0,
+        "5_top_domains_id_3": 0,
+        "text_link_with_path": 0,
+        "camouflage": 0,
+        "5_top_domains_id_2": 0,
+        "ner_domain_detected": false
+    },
+    "html_in_text_plain_count": 0,
+    "extractedSrcUrlsCardinality": 1,
+    "last10words": " na adresu cechova1 centrum cz na vasi zadost Facebook Inc Attention Department 415 PO Box 10005 Palo Alto CA 94303 "
+}

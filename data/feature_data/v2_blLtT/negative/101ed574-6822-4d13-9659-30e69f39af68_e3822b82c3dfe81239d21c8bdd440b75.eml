@@ -1,0 +1,286 @@
+{
+    "ahref_total_count": 17,
+    "spf_dom_policy_registry": "Policy not found",
+    "extractedTxtUrlsDomainCount": 3,
+    "extractedEmails": [
+        "mnavratil@tsbohemia.cz",
+        "jana.boudna@seznam.cz",
+        "eobchod@tsbohemia.cz",
+        "Jana.Boudna@seznam.cz"
+    ],
+    "dkim_signs_cnt": 1,
+    "pepca": "p0556189eb600e127",
+    "phashes": [
+        {
+            "value": "pa3bdab5e03294c94",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pc3687f25b9eb271a",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p3e5d4aa08459f56e",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p0556189eb600e127",
+            "name": "pepca"
+        },
+        {
+            "value": "pc3bf18f6b9117a21",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "ahref_camouflage_count": 0,
+    "extractedHrefUrls": [
+        "http://www.tsbohemia.cz",
+        "http://www.tsbohemia.cz/redir.asp?stiid=84826",
+        "http://www.brawat.cz/vyrobci/casio-casual-aq-180w-1b-2/",
+        "https://email.seznam.cz/",
+        "http://www.tsbohemia.cz/redir.asp?abuy=8D86BB34CE8C4A7CBCA4D835BBB31A9F"
+    ],
+    "mime_children_count": 4,
+    "spamtrap_hit": false,
+    "pepca_inline_style": "pc3bf18f6b9117a21",
+    "date_difference": -75957402,
+    "extractedTxtUrls": [
+        "http://www.tsbohemia.cz",
+        "http://www.tsbohemia.cz/redir.asp?stiid=84826",
+        "http://www.brawat.cz/vyrobci/casio-casual-aq-180w-1b-2/",
+        "http://www.tsbohemia.cz/redir.asp?abuy=8D86BB34CE8C4A7CBCA4D835BBB31A9F",
+        "http://mob.tel.:777"
+    ],
+    "spamscore": 1,
+    "subject_image_count": 0,
+    "html_tag_total_count": 407,
+    "header_reply_to_count": 0,
+    "list_unsubscribe_total_count": 0,
+    "header_from_count": 1,
+    "mime_root_type": "multipart/related",
+    "extractedHrefUrlsDomainCount": 4,
+    "pepca_style": "",
+    "pepca_inline_style_total": 0,
+    "phish_score": 0,
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "score": 1
+        }
+    ],
+    "adscore": 0,
+    "senders": {
+        "log_cnt_idf": "",
+        "log_ecnt-w_duc": "",
+        "ettf_w_duc_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "domain": "bohemia",
+                "confidence": 1
+            },
+            {
+                "domain": "mob",
+                "confidence": 1
+            },
+            {
+                "domain": "tsbohemia",
+                "confidence": 2
+            },
+            {
+                "domain": "seznam",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "domain_keywords_detail": [
+            {
+                "domain": "tsbohemia",
+                "confidence": 130685248.396438
+            }
+        ],
+        "tf_log_idf_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "tsbohemia",
+        "idf": "",
+        "log_cnt-w_duc_detail": [],
+        "src_revert_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow4_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "plain_domain": "bohemia",
+        "ttf_w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-pow4_w_duc": "",
+        "cnt-pow_w_duc": "",
+        "src_revert": "",
+        "log_cnt_idf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "log_cnt-pow_w_duc": ""
+    },
+    "content": "CONTENT_DEFAULT",
+    "self_send": 0,
+    "attachments": [
+        {
+            "size": 17845,
+            "name": "image001.jpg",
+            "cid": "image001.jpg@01D0185E.3E3E3100",
+            "sumphash": "ea5bd382f7fe1a1af16cce7b57868f5c",
+            "pepca": "pa3bdab5e03294c94",
+            "mime_type": "image/jpeg",
+            "flags": 0,
+            "cte": "BASE64"
+        },
+        {
+            "size": 6001,
+            "name": "image002.jpg",
+            "cid": "image002.jpg@01D0185E.3E3E3100",
+            "sumphash": "107861273b548953d6e3b0953e5cb508",
+            "pepca": "pc3687f25b9eb271a",
+            "mime_type": "image/jpeg",
+            "flags": 0,
+            "cte": "BASE64"
+        },
+        {
+            "size": 18280,
+            "name": "image003.png",
+            "cid": "image003.png@01D0185E.3E3E3100",
+            "sumphash": "06b6ff9dd79d7d33876576e482ce9b1e",
+            "pepca": "p3e5d4aa08459f56e",
+            "mime_type": "image/png",
+            "flags": 0,
+            "cte": "BASE64"
+        }
+    ],
+    "subject": "RE Objednavka 2140896990",
+    "html_tr_tag_count": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/e3822b82c3dfe81239d21c8bdd440b75.eml",
+    "extractedTxtUrlsTotalCount": 6,
+    "pepcatotal": 0,
+    "spf_status_registry": "Status not found",
+    "last10words": " Telefon 420 585 157 488 Fax 420 585 157 455 Tato zprava byla vygenerovana informacnim systemem I6 CyberSoft ",
+    "spf_domain_policy": "UNKNOWN",
+    "dkim_hfrom_match": 0,
+    "word_count": 721,
+    "dk_statuses": [
+        {
+            "status": "NEUTRAL",
+            "statusDetail": "NOT_SIGNED"
+        }
+    ],
+    "subject_word_count": 3,
+    "list_unsubscribe_mailto_count": 0,
+    "rcpts_count": 1,
+    "precedence": 3,
+    "now": 1494598426,
+    "rfcid_is_invalid": false,
+    "list_unsubscribe_invalid_count": 0,
+    "dkim_efrom_match": 0,
+    "html_td_tag_count": 0,
+    "rfcid_length": 65,
+    "extractedHrefUrlsTotalCount": 7,
+    "rfcid_is_foreign": 0,
+    "spfstatus_hfrom": "SPF_SOFTFAIL",
+    "list_unsubscribe_http_count": 0,
+    "extractedEmailsTotalCount": 4,
+    "extractedEmailsCardinality": 4,
+    "extractedTxtUrlsCardinality": 6,
+    "ahref_verbal_count": 3,
+    "extractedEmailsDomainCount": 2,
+    "extractedSrcUrls": [
+        "cid:image001.jpg@01D0185E.3E3E3100",
+        "cid:image002.jpg@01D0185E.3E3E3100",
+        "cid:image003.png@01D0185E.3E3E3100"
+    ],
+    "dkim_passed_count": 0,
+    "extractedSrcUrlsTotalCount": 3,
+    "pepca_style_total": 0,
+    "extractedHrefUrlsCardinality": 7,
+    "header_from": "mnavratil@tsbohemia.cz",
+    "dkstatus": "NEUTRAL",
+    "first10words": " Dobry den Za me nastaveno Dekuji S pozdravem ",
+    "dkim_count": 0,
+    "spfstatus": "NONE",
+    "header_total_count": 21,
+    "html_script_tag_count": 0,
+    "mime_children_types": [
+        "multipart/alternative",
+        "image/jpeg",
+        "image/jpeg",
+        "image/png"
+    ],
+    "from_match": 0,
+    "extractedSrcUrlsDomainCount": 0,
+    "lang": "cs",
+    "phishing": {
+        "5_top_domains_percent_4": 0,
+        "fake_https": 0,
+        "max_num_dots_urls": 3,
+        "num_sender_diff_url": 4,
+        "num_freehost_urls": 0,
+        "num_black_sheep_link_global": -1,
+        "html_form": 0,
+        "subject_richness": 0.111111111111111,
+        "num_non_80_port_urls": 0,
+        "num_phish_keywords": 1,
+        "num_text_forms": 4,
+        "is_html": true,
+        "num_path_phish": 0,
+        "num_black_sheep_link_phish": 0,
+        "num_subdomain_phish": 0,
+        "num_black_sheep_link": -1,
+        "num_html_script_tags": 0,
+        "5_top_domains_percent_3": 0,
+        "1_top_domains_id_0": 0,
+        "suspicious_links": [],
+        "num_param_phish": 0,
+        "subject_phish_keywords": 0,
+        "num_https_urls": 1,
+        "5_top_domains_percent_0": 0,
+        "num_shortened_urls": 0,
+        "max_num_slashes_urls": 3,
+        "num_of_chars": 4839,
+        "num_www_in_url_path": 0,
+        "5_top_domains_percent_1": 0,
+        "5_top_domains_id_1": 0,
+        "argessive_link_mismatch": -1,
+        "num_domain_phish": 0,
+        "5_top_domains_percent_2": 0,
+        "5_top_domains_id_0": 0,
+        "text_and_href": 5,
+        "5_top_domains_id_4": 0,
+        "1_top_domains_percent_0": 0,
+        "num_external_links": 5,
+        "body_richness": 0.14896694214876,
+        "num_tld_in_url_path": 0,
+        "benevolent_link_mismatch": -1,
+        "num_ip_urls": 0,
+        "5_top_domains_id_3": 0,
+        "text_link_with_path": 3,
+        "camouflage": 0,
+        "5_top_domains_id_2": 0,
+        "ner_domain_detected": false
+    },
+    "html_in_text_plain_count": 0,
+    "extractedSrcUrlsCardinality": 3,
+    "dkStatusDetail": "NOT_SIGNED"
+}

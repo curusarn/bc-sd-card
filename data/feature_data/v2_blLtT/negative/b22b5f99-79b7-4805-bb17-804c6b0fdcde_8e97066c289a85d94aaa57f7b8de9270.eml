@@ -1,0 +1,285 @@
+{
+    "ahref_total_count": 3,
+    "spf_dom_policy_registry": "Policy not found",
+    "extractedTxtUrlsDomainCount": 1,
+    "extractedEmails": [
+        "objednavky@wineworld.cz",
+        "objednavky@wineworld.cz.",
+        "ivca.x@email.cz",
+        "objednavky@wineworld.czwww.WineWorld.CZ"
+    ],
+    "dkim_signs_cnt": 1,
+    "pepca": "p3d763086268db82f",
+    "phashes": [
+        {
+            "value": "p01609e2f94de8d90",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p519fe1e9708601a4",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p4feb93bdf7bd00b0",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p3d763086268db82f",
+            "name": "pepca"
+        },
+        {
+            "value": "pc78c245c751d2ade",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "ahref_camouflage_count": 0,
+    "extractedHrefUrls": [
+        "http://www.facebook.com/pages/WineWorldCZ/210398572347988",
+        "http://www.wineworld.cz/",
+        "http://www.wineworld.cz/portugalsko/madeira-sweet-3-years-old/"
+    ],
+    "mime_children_count": 5,
+    "spamtrap_hit": false,
+    "pepca_inline_style": "pc78c245c751d2ade",
+    "date_difference": -75957781,
+    "extractedTxtUrls": [
+        "http://WineWorld.CZ",
+        "http://www.WineWorld.CZ",
+        "http://WineWorld.cz"
+    ],
+    "spamscore": 1.6,
+    "subject_image_count": 0,
+    "html_tag_total_count": 929,
+    "header_reply_to_count": 0,
+    "list_unsubscribe_total_count": 0,
+    "header_from_count": 1,
+    "mime_root_type": "multipart/related",
+    "extractedHrefUrlsDomainCount": 2,
+    "pepca_style": "",
+    "pepca_inline_style_total": 0,
+    "phish_score": 0,
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1,
+                0.5
+            ],
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id",
+                "long_subject"
+            ],
+            "score": 1.6
+        }
+    ],
+    "adscore": 0,
+    "senders": {
+        "log_cnt_idf": "",
+        "log_ecnt-w_duc": "",
+        "ettf_w_duc_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "domain": "wineworld",
+                "confidence": 4
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "domain_keywords_detail": [
+            {
+                "domain": "masterinter",
+                "confidence": 38236843.485264
+            }
+        ],
+        "tf_log_idf_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "masterinter",
+        "idf": "",
+        "log_cnt-w_duc_detail": [],
+        "src_revert_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow4_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "plain_domain": "wineworld",
+        "ttf_w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-pow4_w_duc": "",
+        "cnt-pow_w_duc": "",
+        "src_revert": "",
+        "log_cnt_idf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "log_cnt-pow_w_duc": ""
+    },
+    "content": "CONTENT_DEFAULT",
+    "self_send": 0,
+    "attachments": [
+        {
+            "size": 823,
+            "name": "~WRD000.jpg",
+            "cid": "~WRD000.jpg",
+            "sumphash": "f3c3e3bccbec84e477c5d475b5553680",
+            "mime_type": "image/jpeg",
+            "flags": 0,
+            "cte": "BASE64"
+        },
+        {
+            "size": 7707,
+            "name": "image001.jpg",
+            "cid": "image001.jpg@01D0185D.2DAD4660",
+            "sumphash": "af8ba1044c487c36cd4d96f844db17ac",
+            "pepca": "p01609e2f94de8d90",
+            "mime_type": "image/jpeg",
+            "flags": 0,
+            "cte": "BASE64"
+        },
+        {
+            "size": 3007,
+            "name": "image002.jpg",
+            "cid": "image002.jpg@01D0185D.2DAD4660",
+            "sumphash": "8dbf3fe14cccbd56a32d4b045977bffb",
+            "pepca": "p519fe1e9708601a4",
+            "mime_type": "image/jpeg",
+            "flags": 0,
+            "cte": "BASE64"
+        },
+        {
+            "size": 1377,
+            "name": "image003.png",
+            "cid": "image003.png@01D0185D.2DAD4660",
+            "sumphash": "50cd73cd5b31139c25a121768a638c14",
+            "pepca": "p4feb93bdf7bd00b0",
+            "mime_type": "image/png",
+            "flags": 0,
+            "cte": "BASE64"
+        }
+    ],
+    "subject": "RE WineWorld CZ primy dovozce vin z celeho sveta Objednavka 2014000077",
+    "html_tr_tag_count": 66,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/8e97066c289a85d94aaa57f7b8de9270.eml",
+    "extractedTxtUrlsTotalCount": 3,
+    "pepcatotal": 0,
+    "spf_status_registry": "Status not found",
+    "last10words": " S pratelskymi pozdravy WineWorld CZ primy dovozce vin z celeho sveta tel 420 273 132 603 email objednavky wineworld cz ",
+    "spf_domain_policy": "UNKNOWN",
+    "dkim_hfrom_match": 0,
+    "word_count": 915,
+    "dk_statuses": [
+        {
+            "status": "NEUTRAL",
+            "statusDetail": "NOT_SIGNED"
+        }
+    ],
+    "subject_word_count": 11,
+    "list_unsubscribe_mailto_count": 0,
+    "rcpts_count": 1,
+    "precedence": 3,
+    "now": 1494598348,
+    "rfcid_is_invalid": false,
+    "list_unsubscribe_invalid_count": 0,
+    "dkim_efrom_match": 0,
+    "html_td_tag_count": 168,
+    "rfcid_length": 44,
+    "extractedHrefUrlsTotalCount": 3,
+    "rfcid_is_foreign": 1,
+    "spfstatus_hfrom": "SPF_NONE",
+    "list_unsubscribe_http_count": 0,
+    "extractedEmailsTotalCount": 4,
+    "extractedEmailsCardinality": 4,
+    "extractedTxtUrlsCardinality": 3,
+    "ahref_verbal_count": 1,
+    "extractedEmailsDomainCount": 4,
+    "extractedSrcUrls": [
+        "cid:image001.jpg@01D0185D.2DAD4660",
+        "cid:image002.jpg@01D0185D.2DAD4660",
+        "cid:image003.png@01D0185D.2DAD4660",
+        "cid:~WRD000.jpg"
+    ],
+    "dkim_passed_count": 0,
+    "extractedSrcUrlsTotalCount": 4,
+    "pepca_style_total": 0,
+    "extractedHrefUrlsCardinality": 3,
+    "header_from": "objednavky@wineworld.cz",
+    "dkstatus": "NEUTRAL",
+    "first10words": " WineWorld CZ primy dovozce vin z celeho sveta Vazeny zakazniku Vase objednavka je pripravena k os",
+    "dkim_count": 0,
+    "spfstatus": "NONE",
+    "header_total_count": 16,
+    "html_script_tag_count": 0,
+    "mime_children_types": [
+        "multipart/alternative",
+        "image/jpeg",
+        "image/jpeg",
+        "image/jpeg",
+        "image/png"
+    ],
+    "from_match": 0,
+    "extractedSrcUrlsDomainCount": 0,
+    "lang": "cs",
+    "phishing": {
+        "5_top_domains_percent_4": 0,
+        "fake_https": 0,
+        "max_num_dots_urls": 2,
+        "num_sender_diff_url": 1,
+        "num_freehost_urls": 0,
+        "num_black_sheep_link_global": -1,
+        "html_form": 0,
+        "subject_richness": 0.130952380952381,
+        "num_non_80_port_urls": 0,
+        "num_phish_keywords": 1,
+        "num_text_forms": 10,
+        "is_html": true,
+        "num_path_phish": 0,
+        "num_black_sheep_link_phish": 0,
+        "num_subdomain_phish": 0,
+        "num_black_sheep_link": -1,
+        "num_html_script_tags": 0,
+        "5_top_domains_percent_3": 0,
+        "1_top_domains_id_0": 0,
+        "suspicious_links": [],
+        "num_param_phish": 0,
+        "subject_phish_keywords": 0,
+        "num_https_urls": 0,
+        "5_top_domains_percent_0": 0,
+        "num_shortened_urls": 0,
+        "max_num_slashes_urls": 3,
+        "num_of_chars": 3449,
+        "num_www_in_url_path": 0,
+        "5_top_domains_percent_1": 0,
+        "5_top_domains_id_1": 0,
+        "argessive_link_mismatch": -1,
+        "num_domain_phish": 0,
+        "5_top_domains_percent_2": 0,
+        "5_top_domains_id_0": 0,
+        "text_and_href": 0,
+        "5_top_domains_id_4": 0,
+        "1_top_domains_percent_0": 0,
+        "num_external_links": 3,
+        "body_richness": 0.265217391304348,
+        "num_tld_in_url_path": 0,
+        "benevolent_link_mismatch": -1,
+        "num_ip_urls": 0,
+        "5_top_domains_id_3": 0,
+        "text_link_with_path": 0,
+        "camouflage": 0,
+        "5_top_domains_id_2": 0,
+        "ner_domain_detected": false
+    },
+    "html_in_text_plain_count": 0,
+    "extractedSrcUrlsCardinality": 4,
+    "dkStatusDetail": "NOT_SIGNED"
+}

@@ -1,0 +1,319 @@
+{
+    "ahref_total_count": 3,
+    "word_count": 259,
+    "extractedTxtUrlsDomainCount": 2,
+    "extractedEmails": [
+        "info@usetreno.cz"
+    ],
+    "dkim_signs_cnt": 1,
+    "pepca": "p473f77429ebffc82",
+    "pepca_style": "",
+    "phashes": [
+        {
+            "value": "p5030676691575c74",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pd93592b2d889369d",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p13b9368ad2fae7d8",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p85a8f62d77f3ca65",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p67cdfd9501f92444",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p473f77429ebffc82",
+            "name": "pepca"
+        },
+        {
+            "value": "p2720de0b642077d1",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "ahref_camouflage_count": 0,
+    "extractedHrefUrls": [
+        "http://www.cspujcky.cz",
+        "http:///www.cspujcky.cz"
+    ],
+    "mime_children_count": 2,
+    "spamtrap_hit": false,
+    "pepca_inline_style": "p2720de0b642077d1",
+    "date_difference": -73527826,
+    "extractedTxtUrls": [
+        "http://www.cspujcky.cz",
+        "http://ky.cz",
+        "http://www.cspujcky.cz.",
+        "http://ky.cz."
+    ],
+    "spamscore": 2,
+    "subject_image_count": 0,
+    "html_tag_total_count": 139,
+    "header_reply_to_count": 0,
+    "list_unsubscribe_total_count": 0,
+    "header_from_count": 1,
+    "mime_root_type": "multipart/mixed",
+    "extractedHrefUrlsDomainCount": 1,
+    "dkdomain": "usetreno.cz",
+    "pepca_inline_style_total": 0,
+    "phish_score": 0,
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                1
+            ],
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "missing_message_id"
+            ],
+            "score": 2
+        }
+    ],
+    "adscore": 0,
+    "senders": {
+        "log_cnt_idf": "",
+        "log_ecnt-w_duc": "",
+        "ettf_w_duc_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "domain": "cspujcky",
+                "confidence": 2
+            },
+            {
+                "domain": "ky",
+                "confidence": 2
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "domain_keywords_detail": [
+            {
+                "domain": "zendesk",
+                "confidence": 5456925.98405967
+            }
+        ],
+        "tf_log_idf_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "zendesk",
+        "idf": "",
+        "log_cnt-w_duc_detail": [],
+        "src_revert_detail": [
+            {
+                "domain": "usetreno",
+                "confidence": 1
+            }
+        ],
+        "log_cnt_idf_log_tidf": "",
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow4_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "plain_domain": "cspujcky",
+        "ttf_w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-pow4_w_duc": "",
+        "cnt-pow_w_duc": "",
+        "src_revert": "usetreno",
+        "log_cnt_idf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "log_cnt-pow_w_duc": ""
+    },
+    "content": "CONTENT_DEFAULT",
+    "self_send": 0,
+    "attachments": [
+        {
+            "size": 1764,
+            "name": "img0.png",
+            "cid": "3ffd4844cc3579855c2e69eefd73ac26",
+            "sumphash": "a0c68aa7cd7dcaf96f228b8f3a61963e",
+            "pepca": "p5030676691575c74",
+            "mime_type": "image/png",
+            "flags": 0,
+            "cte": "BASE64"
+        },
+        {
+            "size": 923,
+            "name": "img1.png",
+            "cid": "e233f218a90b7a00b94b7f533a98c0a2",
+            "sumphash": "d68e9bf05312223fbfb1099e3486f63b",
+            "pepca": "pd93592b2d889369d",
+            "mime_type": "image/png",
+            "flags": 0,
+            "cte": "BASE64"
+        },
+        {
+            "size": 1838,
+            "name": "img2.png",
+            "cid": "65bd2c9b931f057d7307dfaaa8d5c433",
+            "sumphash": "226d6d38d9041cec18a80dc058d51e79",
+            "pepca": "p13b9368ad2fae7d8",
+            "mime_type": "image/png",
+            "flags": 0,
+            "cte": "BASE64"
+        },
+        {
+            "size": 2003,
+            "name": "img3.png",
+            "cid": "b1f8db03513912254d185addce84c7e0",
+            "sumphash": "bfa7b37ff77119e8fa19d9ea67b2786e",
+            "pepca": "p85a8f62d77f3ca65",
+            "mime_type": "image/png",
+            "flags": 0,
+            "cte": "BASE64"
+        },
+        {
+            "size": 327,
+            "name": "img4.png",
+            "cid": "e65ec4bdc2715d88073196a9f97f38a3",
+            "sumphash": "09ac8cf3ea85064bfcce6c235beaa872",
+            "mime_type": "image/png",
+            "flags": 0,
+            "cte": "BASE64"
+        },
+        {
+            "size": 147879,
+            "pepca": "p67cdfd9501f92444",
+            "mime_type": "application/pdf",
+            "cid": "1c2c775729b1a5b1bf7016a6d03a1802",
+            "name": "CS_potvrzeni_o_prijmu.pdf",
+            "sumphash": "ff6640686d6032c05fac87651611ac6e",
+            "lang": "cs",
+            "cte": "BASE64",
+            "flags": 0,
+            "first10words": "Potvrzeni zamestnavatele o vysi pracovniho prijmu zamestnance nehodici se skrtnete"
+        }
+    ],
+    "subject": "Cspujcky cz Objednavka kompletni O a59aec80ad ",
+    "html_tr_tag_count": 32,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/c5f54b17a79497ff1f709ab87498b527.eml.eml",
+    "extractedTxtUrlsTotalCount": 4,
+    "pepcatotal": 0,
+    "spf_status_registry": "Status not found",
+    "spf_dom_policy_registry": "Policy not found",
+    "spf_domain_policy": "UNKNOWN",
+    "dkim_hfrom_match": 1,
+    "dk_statuses": [
+        {
+            "selector": "superhosting",
+            "domain": "usetreno.cz",
+            "status": "PASS"
+        }
+    ],
+    "subject_word_count": 6,
+    "list_unsubscribe_mailto_count": 0,
+    "rcpts_count": 1,
+    "precedence": 3,
+    "now": 1494598412,
+    "rfcid_is_invalid": true,
+    "list_unsubscribe_invalid_count": 0,
+    "dkim_efrom_match": 0,
+    "html_td_tag_count": 38,
+    "rfcid_length": 0,
+    "extractedHrefUrlsTotalCount": 2,
+    "rfcid_is_foreign": 0,
+    "spfstatus_hfrom": "SPF_SOFTFAIL",
+    "list_unsubscribe_http_count": 0,
+    "extractedEmailsTotalCount": 1,
+    "extractedEmailsCardinality": 1,
+    "extractedTxtUrlsCardinality": 4,
+    "ahref_verbal_count": 0,
+    "extractedEmailsDomainCount": 1,
+    "extractedSrcUrls": [
+        "cid:e233f218a90b7a00b94b7f533a98c0a2",
+        "cid:65bd2c9b931f057d7307dfaaa8d5c433",
+        "cid:b1f8db03513912254d185addce84c7e0",
+        "cid:e65ec4bdc2715d88073196a9f97f38a3",
+        "http://www.adfmail.cz/email-template/track/e880e16d1d5f138468ccda6b2ba10a94"
+    ],
+    "dkim_passed_count": 1,
+    "dkselector": "superhosting",
+    "extractedSrcUrlsTotalCount": 6,
+    "pepca_style_total": 0,
+    "extractedHrefUrlsCardinality": 2,
+    "header_from": "info@usetreno.cz",
+    "dkstatus": "PASS",
+    "first10words": " Objednavka kompletni Cspujcky cz Objednavka kompletni Vazeny zakazniku dekujeme v",
+    "dkim_count": 1,
+    "spfstatus": "NONE",
+    "header_total_count": 10,
+    "html_script_tag_count": 0,
+    "mime_children_types": [
+        "multipart/alternative",
+        "application/pdf"
+    ],
+    "from_match": 0,
+    "extractedSrcUrlsDomainCount": 1,
+    "lang": "cs",
+    "phishing": {
+        "5_top_domains_percent_4": 0,
+        "fake_https": 0,
+        "max_num_dots_urls": 3,
+        "num_sender_diff_url": 2,
+        "num_freehost_urls": 0,
+        "num_black_sheep_link_global": -1,
+        "html_form": 0,
+        "subject_richness": 0.111111111111111,
+        "num_non_80_port_urls": 0,
+        "num_phish_keywords": 3,
+        "num_text_forms": 3,
+        "is_html": true,
+        "num_path_phish": 0,
+        "num_black_sheep_link_phish": 0,
+        "num_subdomain_phish": 0,
+        "num_black_sheep_link": -1,
+        "num_html_script_tags": 0,
+        "5_top_domains_percent_3": 0,
+        "1_top_domains_id_0": 0,
+        "suspicious_links": [],
+        "num_param_phish": 0,
+        "subject_phish_keywords": 0,
+        "num_https_urls": 0,
+        "5_top_domains_percent_0": 0,
+        "num_shortened_urls": 0,
+        "max_num_slashes_urls": 1,
+        "num_of_chars": 1439,
+        "num_www_in_url_path": 0,
+        "5_top_domains_percent_1": 0,
+        "5_top_domains_id_1": 0,
+        "argessive_link_mismatch": -1,
+        "num_domain_phish": 0,
+        "5_top_domains_percent_2": 0,
+        "5_top_domains_id_0": 0,
+        "text_and_href": 1,
+        "5_top_domains_id_4": 0,
+        "1_top_domains_percent_0": 0,
+        "num_external_links": 3,
+        "body_richness": 0.179861111111111,
+        "num_tld_in_url_path": 0,
+        "benevolent_link_mismatch": -1,
+        "num_ip_urls": 0,
+        "5_top_domains_id_3": 0,
+        "text_link_with_path": 0,
+        "camouflage": 0,
+        "5_top_domains_id_2": 0,
+        "ner_domain_detected": false
+    },
+    "html_in_text_plain_count": 0,
+    "extractedSrcUrlsCardinality": 6,
+    "last10words": "pujcky cz Vam prinasi spolecnost AdFinance s r o IC 24684295 DIC CZ24684295 Jemnicka 1138 1 140 00 Praha 4 "
+}

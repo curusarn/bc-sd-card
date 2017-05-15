@@ -1,0 +1,354 @@
+{
+    "ahref_total_count": 6,
+    "spf_dom_policy_registry": "Policy not found",
+    "extractedTxtUrlsDomainCount": 2,
+    "extractedEmails": [
+        "pomoc@kondomshop.cz"
+    ],
+    "dkim_signs_cnt": 1,
+    "pepca": "pdebf1ec9382dcbae",
+    "pepca_style": "p24ffc5a0052bc85d",
+    "phashes": [
+        {
+            "value": "p8dbefb84ad1603cc",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pa44603f342448502",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p9b3038569a569bf6",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p9a595cd5368d4ac1",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pd2d2cc36f1071949",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p95bfac3dd91acce8",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p8c30fbfc798b80f0",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pc2694ae315b4bd80",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pdebf1ec9382dcbae",
+            "name": "pepca"
+        },
+        {
+            "value": "p24ffc5a0052bc85d",
+            "name": "pepca_style"
+        },
+        {
+            "value": "pee617b40e5f15030",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "ahref_camouflage_count": 0,
+    "extractedHrefUrls": [
+        "http://www.kondomshop.cz",
+        "https://www.kondomshop.cz/",
+        "http://www.facebook.com/kondomshopCZ",
+        "http://www.riesenia.com"
+    ],
+    "mime_children_count": 9,
+    "spamtrap_hit": false,
+    "pepca_inline_style": "pee617b40e5f15030",
+    "date_difference": -80100593,
+    "extractedTxtUrls": [
+        "http://Kondomshop.cz",
+        "http://RIESENIA.com"
+    ],
+    "spamscore": 1,
+    "subject_image_count": 0,
+    "html_tag_total_count": 147,
+    "header_reply_to_count": 0,
+    "list_unsubscribe_total_count": 0,
+    "header_from_count": 1,
+    "mime_root_type": "multipart/related",
+    "extractedHrefUrlsDomainCount": 3,
+    "dkdomain": "",
+    "pepca_inline_style_total": 0,
+    "phish_score": 0,
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "score": 1
+        }
+    ],
+    "adscore": 0,
+    "senders": {
+        "log_cnt_idf": "",
+        "log_ecnt-w_duc": "",
+        "ettf_w_duc_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "domain": "riesenia",
+                "confidence": 2
+            },
+            {
+                "domain": "kondomshop",
+                "confidence": 3
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "domain_keywords_detail": [
+            {
+                "domain": "kondomshop",
+                "confidence": 12440626.9235954
+            }
+        ],
+        "tf_log_idf_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "kondomshop",
+        "idf": "",
+        "log_cnt-w_duc_detail": [],
+        "src_revert_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow4_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "plain_domain": "riesenia",
+        "ttf_w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-pow4_w_duc": "",
+        "cnt-pow_w_duc": "",
+        "src_revert": "",
+        "log_cnt_idf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "log_cnt-pow_w_duc": ""
+    },
+    "content": "CONTENT_DEFAULT",
+    "self_send": 0,
+    "attachments": [
+        {
+            "size": 20855,
+            "name": "logo.png",
+            "cid": "logo",
+            "sumphash": "26249f4c1311629c7a35137eeaadb435",
+            "pepca": "p8dbefb84ad1603cc",
+            "mime_type": "image/png",
+            "flags": 0,
+            "cte": "BASE64"
+        },
+        {
+            "size": 3274,
+            "name": "napis.png",
+            "cid": "napis",
+            "sumphash": "47934895e74512ccf58bebdd253a52ff",
+            "pepca": "pa44603f342448502",
+            "mime_type": "image/png",
+            "flags": 0,
+            "cte": "BASE64"
+        },
+        {
+            "size": 15103,
+            "name": "header_top.png",
+            "cid": "header_top",
+            "sumphash": "0462e5cbf571629879473db7512fb62d",
+            "pepca": "p9b3038569a569bf6",
+            "mime_type": "image/png",
+            "flags": 0,
+            "cte": "BASE64"
+        },
+        {
+            "size": 255,
+            "name": "header_center_lt.png",
+            "cid": "header_center_lt",
+            "sumphash": "87727005926568167a103d8f90b5804c",
+            "pepca": "p9a595cd5368d4ac1",
+            "mime_type": "image/png",
+            "flags": 0,
+            "cte": "BASE64"
+        },
+        {
+            "size": 7835,
+            "name": "header_center_rt.png",
+            "cid": "header_center_rt",
+            "sumphash": "2868df835bc9e89db2fba08dc937c333",
+            "pepca": "pd2d2cc36f1071949",
+            "mime_type": "image/png",
+            "flags": 0,
+            "cte": "BASE64"
+        },
+        {
+            "size": 16794,
+            "name": "header_bottom.png",
+            "cid": "header_bottom",
+            "sumphash": "c2b91f09a494b2e24851e47b1f41da9b",
+            "pepca": "p95bfac3dd91acce8",
+            "mime_type": "image/png",
+            "flags": 0,
+            "cte": "BASE64"
+        },
+        {
+            "size": 5077,
+            "name": "bg-spodok.png",
+            "cid": "bg-spodok",
+            "sumphash": "f37fd9d9d60e2a9c454d353d1800a8a2",
+            "pepca": "p8c30fbfc798b80f0",
+            "mime_type": "image/png",
+            "flags": 0,
+            "cte": "BASE64"
+        },
+        {
+            "size": 6751,
+            "name": "btn-facebook.jpg",
+            "cid": "btn-facebook",
+            "sumphash": "b41f1d8a2d3258b658a82987a545c87c",
+            "pepca": "pc2694ae315b4bd80",
+            "mime_type": "image/jpeg",
+            "flags": 0,
+            "cte": "BASE64"
+        }
+    ],
+    "subject": "Kondomshop cz Nove heslo",
+    "html_tr_tag_count": 34,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/c97f2d5a868d2667e2112e2d5602fea1.eml",
+    "extractedTxtUrlsTotalCount": 2,
+    "pepcatotal": 0,
+    "spf_status_registry": "Status not found",
+    "last10words": " 090 Tato zprava byla vygenerovana 28 10 2014 o 13 10 42 systemem RSHOP od spolecnosti RIESENIA com zo stranky Kondomshop cz ",
+    "spf_domain_policy": "UNKNOWN",
+    "dkim_hfrom_match": 0,
+    "word_count": 199,
+    "dk_statuses": [
+        {
+            "status": "FAIL",
+            "domain": "",
+            "statusDetail": "DKIM_STAT_NOKEY"
+        }
+    ],
+    "subject_word_count": 4,
+    "list_unsubscribe_mailto_count": 0,
+    "rcpts_count": 1,
+    "precedence": 3,
+    "now": 1494598415,
+    "rfcid_is_invalid": false,
+    "list_unsubscribe_invalid_count": 0,
+    "dkim_efrom_match": 0,
+    "html_td_tag_count": 48,
+    "rfcid_length": 50,
+    "extractedHrefUrlsTotalCount": 4,
+    "rfcid_is_foreign": 0,
+    "spfstatus_hfrom": "SPF_NEUTRAL",
+    "list_unsubscribe_http_count": 0,
+    "extractedEmailsTotalCount": 1,
+    "extractedEmailsCardinality": 1,
+    "extractedTxtUrlsCardinality": 2,
+    "ahref_verbal_count": 0,
+    "extractedEmailsDomainCount": 1,
+    "extractedSrcUrls": [
+        "cid:header_top",
+        "cid:header_center_lt",
+        "cid:header_center_rt",
+        "cid:header_bottom",
+        "cid:btn-facebook"
+    ],
+    "dkim_passed_count": 0,
+    "extractedSrcUrlsTotalCount": 7,
+    "pepca_style_total": 0,
+    "extractedHrefUrlsCardinality": 4,
+    "header_from": "noreply@kondomshop.cz",
+    "dkstatus": "FAIL",
+    "first10words": " Nove heslo Nove heslo Dobry den V internetovom obchode Kondomshop cz bylo vyz",
+    "dkim_count": 1,
+    "spfstatus": "NONE",
+    "header_total_count": 19,
+    "html_script_tag_count": 0,
+    "mime_children_types": [
+        "multipart/alternative",
+        "image/png",
+        "image/png",
+        "image/png",
+        "image/png",
+        "image/png",
+        "image/png",
+        "image/png",
+        "image/jpeg"
+    ],
+    "from_match": 0,
+    "extractedSrcUrlsDomainCount": 0,
+    "lang": "cs",
+    "phishing": {
+        "5_top_domains_percent_4": 0,
+        "fake_https": 0,
+        "max_num_dots_urls": 2,
+        "num_sender_diff_url": 2,
+        "num_freehost_urls": 0,
+        "num_black_sheep_link_global": -1,
+        "html_form": 0,
+        "subject_richness": 0.142857142857143,
+        "num_non_80_port_urls": 0,
+        "num_phish_keywords": 4,
+        "num_text_forms": 2,
+        "is_html": true,
+        "num_path_phish": 0,
+        "num_black_sheep_link_phish": 0,
+        "num_subdomain_phish": 0,
+        "num_black_sheep_link": -1,
+        "num_html_script_tags": 0,
+        "5_top_domains_percent_3": 0,
+        "1_top_domains_id_0": 0,
+        "suspicious_links": [],
+        "num_param_phish": 0,
+        "subject_phish_keywords": 1,
+        "num_https_urls": 1,
+        "5_top_domains_percent_0": 0,
+        "num_shortened_urls": 0,
+        "max_num_slashes_urls": 1,
+        "num_of_chars": 800,
+        "num_www_in_url_path": 0,
+        "5_top_domains_percent_1": 0,
+        "5_top_domains_id_1": 0,
+        "argessive_link_mismatch": -1,
+        "num_domain_phish": 0,
+        "5_top_domains_percent_2": 0,
+        "5_top_domains_id_0": 0,
+        "text_and_href": 0,
+        "5_top_domains_id_4": 0,
+        "1_top_domains_percent_0": 0,
+        "num_external_links": 4,
+        "body_richness": 0.248439450686642,
+        "num_tld_in_url_path": 0,
+        "benevolent_link_mismatch": -1,
+        "num_ip_urls": 0,
+        "5_top_domains_id_3": 0,
+        "text_link_with_path": 0,
+        "camouflage": 0,
+        "5_top_domains_id_2": 0,
+        "ner_domain_detected": false
+    },
+    "html_in_text_plain_count": 0,
+    "extractedSrcUrlsCardinality": 7,
+    "dkStatusDetail": "DKIM_STAT_NOKEY"
+}

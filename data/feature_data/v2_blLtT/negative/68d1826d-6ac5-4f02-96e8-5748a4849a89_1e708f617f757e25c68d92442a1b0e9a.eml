@@ -1,0 +1,354 @@
+{
+    "ahref_total_count": 11,
+    "spf_dom_policy_registry": "Policy not found",
+    "extractedTxtUrlsDomainCount": 2,
+    "extractedEmails": [
+        "Ingrid.Pertlikova@geis.cz",
+        "zdenka.doprava@seznam.cz"
+    ],
+    "dkim_signs_cnt": 1,
+    "pepca": "p4e25127d3766dbd6",
+    "phashes": [
+        {
+            "value": "pbc7a5e5d83396e07",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p64c63d66204f82cb",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pb994c224563f6d22",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pbc7a5e5d83396e07",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p64c63d66204f82cb",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p915618bb1ff7c63e",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pb994c224563f6d22",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p915618bb1ff7c63e",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p4e25127d3766dbd6",
+            "name": "pepca"
+        },
+        {
+            "value": "p73fdca63890a22c8",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "ahref_camouflage_count": 0,
+    "extractedHrefUrls": [
+        "http://www.geis.cz",
+        "http://www.geisparcel.cz",
+        "http://geispoint.cz"
+    ],
+    "mime_children_count": 9,
+    "spamtrap_hit": false,
+    "pepca_inline_style": "p73fdca63890a22c8",
+    "date_difference": -75957731,
+    "extractedTxtUrls": [
+        "http://www.geis.cz",
+        "http://www.geisparcel.cz"
+    ],
+    "spamscore": 1.1,
+    "subject_image_count": 0,
+    "html_tag_total_count": 700,
+    "header_reply_to_count": 0,
+    "list_unsubscribe_total_count": 0,
+    "header_from_count": 1,
+    "mime_root_type": "multipart/mixed",
+    "extractedHrefUrlsDomainCount": 3,
+    "pepca_style": "",
+    "pepca_inline_style_total": 0,
+    "phish_score": 0,
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "score": 1.1
+        }
+    ],
+    "adscore": 0,
+    "senders": {
+        "log_cnt_idf": "",
+        "log_ecnt-w_duc": "",
+        "ettf_w_duc_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "domain": "geisparcel",
+                "confidence": 1
+            },
+            {
+                "domain": "geispoint",
+                "confidence": 1
+            },
+            {
+                "domain": "geis",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "domain_keywords_detail": [
+            {
+                "domain": "geis",
+                "confidence": 120590310.798336
+            }
+        ],
+        "tf_log_idf_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "geis",
+        "idf": "",
+        "log_cnt-w_duc_detail": [],
+        "src_revert_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow4_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "plain_domain": "geisparcel",
+        "ttf_w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-pow4_w_duc": "",
+        "cnt-pow_w_duc": "",
+        "src_revert": "",
+        "log_cnt_idf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "log_cnt-pow_w_duc": ""
+    },
+    "content": "CONTENT_DEFAULT",
+    "self_send": 0,
+    "attachments": [
+        {
+            "size": 8625,
+            "name": "GeisGroupCZ.png",
+            "cid": "GeisGroupCZ.png",
+            "sumphash": "bb58cda6e2e5106d7b8d365da5727ae4",
+            "pepca": "pbc7a5e5d83396e07",
+            "mime_type": "image/png",
+            "flags": 0,
+            "cte": "BASE64"
+        },
+        {
+            "size": 2782,
+            "name": "tuv.jpg",
+            "cid": "tuv.jpg",
+            "sumphash": "f837442ff5d71506b2ab52050b21a9c0",
+            "pepca": "p64c63d66204f82cb",
+            "mime_type": "image/jpeg",
+            "flags": 0,
+            "cte": "BASE64"
+        },
+        {
+            "size": 18401,
+            "name": "geispoint-do-epodpisu.png",
+            "cid": "geispoint-do-epodpisu.png",
+            "sumphash": "fdda953d4ff3343fd54a0f6f14f4442c",
+            "pepca": "pb994c224563f6d22",
+            "mime_type": "image/png",
+            "flags": 0,
+            "cte": "BASE64"
+        },
+        {
+            "size": 8625,
+            "name": "GeisGroupCZ.png",
+            "cid": "GeisGroupCZ.png",
+            "sumphash": "bb58cda6e2e5106d7b8d365da5727ae4",
+            "pepca": "pbc7a5e5d83396e07",
+            "mime_type": "image/png",
+            "flags": 0,
+            "cte": "BASE64"
+        },
+        {
+            "size": 2782,
+            "name": "tuv.jpg",
+            "cid": "tuv.jpg",
+            "sumphash": "f837442ff5d71506b2ab52050b21a9c0",
+            "pepca": "p64c63d66204f82cb",
+            "mime_type": "image/jpeg",
+            "flags": 0,
+            "cte": "BASE64"
+        },
+        {
+            "size": 1456,
+            "name": "eco.jpg",
+            "cid": "eco.jpg",
+            "sumphash": "35f90c2c186d117add767e4cf1390cb3",
+            "pepca": "p915618bb1ff7c63e",
+            "mime_type": "image/jpeg",
+            "flags": 0,
+            "cte": "BASE64"
+        },
+        {
+            "size": 18401,
+            "name": "geispoint-do-epodpisu.png",
+            "cid": "geispoint-do-epodpisu.png",
+            "sumphash": "fdda953d4ff3343fd54a0f6f14f4442c",
+            "pepca": "pb994c224563f6d22",
+            "mime_type": "image/png",
+            "flags": 0,
+            "cte": "BASE64"
+        },
+        {
+            "size": 1456,
+            "name": "image003.jpg",
+            "cid": "image003.jpg@01D00E1C.D9A2E970",
+            "sumphash": "35f90c2c186d117add767e4cf1390cb3",
+            "pepca": "p915618bb1ff7c63e",
+            "mime_type": "image/jpeg",
+            "flags": 0,
+            "cte": "BASE64"
+        }
+    ],
+    "subject": "Re FW objednavka VYT 4 JIHLAVA Brno",
+    "html_tr_tag_count": 54,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/1e708f617f757e25c68d92442a1b0e9a.eml",
+    "extractedTxtUrlsTotalCount": 2,
+    "pepcatotal": 0,
+    "spf_status_registry": "Status not found",
+    "last10words": " Geis CZ s r o a Geis Parcel CZ s r o jsou drziteli certifikace dle norem ISO 9001 2008 a ISO 14001 2004 ",
+    "spf_domain_policy": "UNKNOWN",
+    "dkim_hfrom_match": 0,
+    "word_count": 796,
+    "dk_statuses": [
+        {
+            "status": "NEUTRAL",
+            "statusDetail": "NOT_SIGNED"
+        }
+    ],
+    "subject_word_count": 7,
+    "list_unsubscribe_mailto_count": 0,
+    "rcpts_count": 1,
+    "precedence": 3,
+    "now": 1494598197,
+    "rfcid_is_invalid": false,
+    "list_unsubscribe_invalid_count": 0,
+    "dkim_efrom_match": 0,
+    "html_td_tag_count": 96,
+    "rfcid_length": 39,
+    "extractedHrefUrlsTotalCount": 3,
+    "rfcid_is_foreign": 1,
+    "spfstatus_hfrom": "SPF_NEUTRAL",
+    "list_unsubscribe_http_count": 0,
+    "extractedEmailsTotalCount": 2,
+    "extractedEmailsCardinality": 2,
+    "extractedTxtUrlsCardinality": 2,
+    "ahref_verbal_count": 0,
+    "extractedEmailsDomainCount": 2,
+    "extractedSrcUrls": [
+        "cid:GeisGroupCZ.png",
+        "cid:tuv.jpg",
+        "cid:eco.jpg",
+        "cid:geispoint-do-epodpisu.png",
+        "cid:image003.jpg@01D00E1C.D9A2E970"
+    ],
+    "dkim_passed_count": 0,
+    "extractedSrcUrlsTotalCount": 5,
+    "pepca_style_total": 0,
+    "extractedHrefUrlsCardinality": 3,
+    "header_from": "zdenka.doprava@seznam.cz",
+    "dkstatus": "NEUTRAL",
+    "first10words": " Dekuju Vam S pranim hezkeho dne Zdenka Viktorova Tel 774 982 378 Puvodni zprava Od Pertlik",
+    "dkim_count": 0,
+    "spfstatus": "NONE",
+    "header_total_count": 11,
+    "html_script_tag_count": 0,
+    "mime_children_types": [
+        "multipart/alternative",
+        "image/png",
+        "image/jpeg",
+        "image/png",
+        "image/png",
+        "image/jpeg",
+        "image/jpeg",
+        "image/png",
+        "image/jpeg"
+    ],
+    "from_match": 0,
+    "extractedSrcUrlsDomainCount": 0,
+    "lang": "cs",
+    "phishing": {
+        "5_top_domains_percent_4": 0,
+        "fake_https": 0,
+        "max_num_dots_urls": 2,
+        "num_sender_diff_url": 3,
+        "num_freehost_urls": 0,
+        "num_black_sheep_link_global": -1,
+        "html_form": 0,
+        "subject_richness": 0.159090909090909,
+        "num_non_80_port_urls": 0,
+        "num_phish_keywords": 1,
+        "num_text_forms": 27,
+        "is_html": true,
+        "num_path_phish": 0,
+        "num_black_sheep_link_phish": 0,
+        "num_subdomain_phish": 0,
+        "num_black_sheep_link": -1,
+        "num_html_script_tags": 0,
+        "5_top_domains_percent_3": 0,
+        "1_top_domains_id_0": 0,
+        "suspicious_links": [],
+        "num_param_phish": 0,
+        "subject_phish_keywords": 0,
+        "num_https_urls": 0,
+        "5_top_domains_percent_0": 0,
+        "num_shortened_urls": 0,
+        "max_num_slashes_urls": 0,
+        "num_of_chars": 4508,
+        "num_www_in_url_path": 0,
+        "5_top_domains_percent_1": 0,
+        "5_top_domains_id_1": 0,
+        "argessive_link_mismatch": -1,
+        "num_domain_phish": 0,
+        "5_top_domains_percent_2": 0,
+        "5_top_domains_id_0": 0,
+        "text_and_href": 2,
+        "5_top_domains_id_4": 0,
+        "1_top_domains_percent_0": 0,
+        "num_external_links": 3,
+        "body_richness": 0.17653581725438,
+        "num_tld_in_url_path": 0,
+        "benevolent_link_mismatch": -1,
+        "num_ip_urls": 0,
+        "5_top_domains_id_3": 0,
+        "text_link_with_path": 0,
+        "camouflage": 0,
+        "5_top_domains_id_2": 0,
+        "ner_domain_detected": false
+    },
+    "html_in_text_plain_count": 0,
+    "extractedSrcUrlsCardinality": 5,
+    "dkStatusDetail": "NOT_SIGNED"
+}

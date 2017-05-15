@@ -1,0 +1,291 @@
+{
+    "ahref_total_count": 0,
+    "word_count": 267,
+    "extractedTxtUrlsDomainCount": 2,
+    "extractedEmails": [
+        "podpora@pujckomat.cz.",
+        "podpora@pujckomat.cz"
+    ],
+    "dkim_signs_cnt": 2,
+    "pepca": "p10a901a2591b973c",
+    "phashes": [
+        {
+            "value": "pf119d8b26cf1aa6e",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p32084878a028bd80",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p44ca32b703679ef8",
+            "name": "att-pepca"
+        },
+        {
+            "value": "paaa22065cd241fb3",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p10a901a2591b973c",
+            "name": "pepca"
+        },
+        {
+            "value": "pa080ac8f76cd3a3b",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "ahref_camouflage_count": 0,
+    "extractedHrefUrls": [],
+    "mime_children_count": 5,
+    "spamtrap_hit": false,
+    "pepca_inline_style": "pa080ac8f76cd3a3b",
+    "date_difference": -79601326,
+    "extractedTxtUrls": [
+        "http://Pujckomat.cz",
+        "https://www.facebook.com/pujckomat"
+    ],
+    "spamscore": 1.1,
+    "subject_image_count": 0,
+    "html_tag_total_count": 53,
+    "header_reply_to_count": 0,
+    "list_unsubscribe_total_count": 0,
+    "header_from_count": 1,
+    "mime_root_type": "multipart/mixed",
+    "dkdomain": "pujckomat.cz",
+    "pepca_inline_style_total": 0,
+    "phish_score": 0,
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "score": 1.1
+        }
+    ],
+    "adscore": 0,
+    "senders": {
+        "log_cnt_idf": "",
+        "log_ecnt-w_duc": "",
+        "ettf_w_duc_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "domain": "pujckomat",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "domain_keywords_detail": [
+            {
+                "domain": "zendesk",
+                "confidence": 18483702.7907427
+            }
+        ],
+        "tf_log_idf_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "zendesk",
+        "idf": "",
+        "log_cnt-w_duc_detail": [],
+        "src_revert_detail": [
+            {
+                "domain": "topsrovnani",
+                "confidence": 1
+            }
+        ],
+        "log_cnt_idf_log_tidf": "",
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow4_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "plain_domain": "pujckomat",
+        "ttf_w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-pow4_w_duc": "",
+        "cnt-pow_w_duc": "",
+        "src_revert": "topsrovnani",
+        "log_cnt_idf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "log_cnt-pow_w_duc": ""
+    },
+    "content": "CONTENT_DEFAULT",
+    "self_send": 0,
+    "attachments": [
+        {
+            "size": 101222,
+            "pepca": "pf119d8b26cf1aa6e",
+            "name": "20141103064416 Rozhod\u010d\u00ed smlouva.pdf",
+            "first10words": "R O Z H O D C I S M",
+            "sumphash": "f640bb4b923c74467bb43821dc517e95",
+            "lang": "cs",
+            "mime_type": "application/pdf",
+            "flags": 0,
+            "cte": "BASE64"
+        },
+        {
+            "size": 42734,
+            "pepca": "p32084878a028bd80",
+            "name": "20141103064416 Ro\u010dn\u00ed procentn\u00ed sazba n\u00e1klad\u016f.pdf",
+            "first10words": "?y Priloha c FORMULAR PRO STANDARDNI INFORMACE O SPOTREBITELSKEM UVERU",
+            "sumphash": "ef956e0d8c130c7364d0e1d862906885",
+            "lang": "cs",
+            "mime_type": "application/pdf",
+            "flags": 0,
+            "cte": "BASE64"
+        },
+        {
+            "size": 56383,
+            "pepca": "p44ca32b703679ef8",
+            "name": "smlouva_o_\u00fav\u011bru.pdf",
+            "first10words": "?y SMLOUVA O UVERU cislo Nize uvedeneho dne mesice a",
+            "sumphash": "4cb91b21be3068c081edd832668a813a",
+            "lang": "cs",
+            "mime_type": "application/pdf",
+            "flags": 0,
+            "cte": "BASE64"
+        },
+        {
+            "size": 308808,
+            "pepca": "paaa22065cd241fb3",
+            "name": "20141103064414 Smlouva o V\u0161eobecn\u00fdch podm\u00ednk\u00e1ch.pdf",
+            "first10words": "SMLOUVA O VSEOBECNYCH PODMINKACH POSKYTNUTI UVERU je uzavrena mezi Friendly",
+            "sumphash": "eb82c9561992effeaf1e7177115f818c",
+            "lang": "cs",
+            "mime_type": "application/pdf",
+            "flags": 0,
+            "cte": "BASE64"
+        }
+    ],
+    "subject": "Potvrzeni registrace a zaslani navrhu smluv",
+    "html_tr_tag_count": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/b59e3d8a41bf3a1cb9f8f79ca692948d.eml",
+    "extractedTxtUrlsTotalCount": 2,
+    "pepcatotal": 0,
+    "spf_status_registry": "Status not found",
+    "spf_dom_policy_registry": "Policy not found",
+    "spf_domain_policy": "UNKNOWN",
+    "dkim_hfrom_match": 1,
+    "dk_statuses": [
+        {
+            "selector": "mandrill",
+            "domain": "pujckomat.cz",
+            "status": "PASS"
+        },
+        {
+            "selector": "mandrill",
+            "domain": "mandrillapp.com",
+            "status": "PASS"
+        }
+    ],
+    "subject_word_count": 6,
+    "list_unsubscribe_mailto_count": 0,
+    "rcpts_count": 1,
+    "precedence": 3,
+    "now": 1494598391,
+    "rfcid_is_invalid": false,
+    "list_unsubscribe_invalid_count": 0,
+    "dkim_efrom_match": 0,
+    "html_td_tag_count": 0,
+    "rfcid_length": 40,
+    "rfcid_is_foreign": 1,
+    "spfstatus_hfrom": "SPF_ERR",
+    "list_unsubscribe_http_count": 0,
+    "extractedEmailsTotalCount": 2,
+    "extractedEmailsCardinality": 2,
+    "extractedTxtUrlsCardinality": 2,
+    "ahref_verbal_count": 0,
+    "extractedEmailsDomainCount": 2,
+    "extractedSrcUrls": [
+        "http://mandrillapp.com/track/open.php?u=30069478&id=0498ea13b68548b8b15cdf63584b5799"
+    ],
+    "dkim_passed_count": 2,
+    "dkselector": "mandrill",
+    "extractedSrcUrlsTotalCount": 1,
+    "pepca_style_total": 0,
+    "pepca_style": "",
+    "header_from": "podpora@pujckomat.cz",
+    "dkstatus": "PASS",
+    "first10words": " Vazena pani Kostkova Vitejte na strankach Pujckomat cz a dekujeme za Vasi registraci V priloze tohoto e mailu Vam posilame",
+    "dkim_count": 2,
+    "spfstatus": "NONE",
+    "header_total_count": 18,
+    "html_script_tag_count": 0,
+    "mime_children_types": [
+        "multipart/alternative",
+        "application/pdf",
+        "application/pdf",
+        "application/pdf",
+        "application/pdf"
+    ],
+    "from_match": 0,
+    "extractedSrcUrlsDomainCount": 1,
+    "lang": "cs",
+    "phishing": {
+        "5_top_domains_percent_4": 0,
+        "fake_https": 0,
+        "max_num_dots_urls": 2,
+        "num_sender_diff_url": 1,
+        "num_freehost_urls": 0,
+        "num_black_sheep_link_global": -1,
+        "html_form": 0,
+        "subject_richness": 0.125,
+        "num_non_80_port_urls": 0,
+        "num_phish_keywords": 4,
+        "num_text_forms": 20,
+        "is_html": true,
+        "num_path_phish": 0,
+        "num_black_sheep_link_phish": 0,
+        "num_subdomain_phish": 0,
+        "num_black_sheep_link": -1,
+        "num_html_script_tags": 0,
+        "5_top_domains_percent_3": 0,
+        "1_top_domains_id_0": 0,
+        "suspicious_links": [],
+        "num_param_phish": 0,
+        "subject_phish_keywords": 1,
+        "num_https_urls": 1,
+        "5_top_domains_percent_0": 0,
+        "num_shortened_urls": 0,
+        "max_num_slashes_urls": 1,
+        "num_of_chars": 2148,
+        "num_www_in_url_path": 0,
+        "5_top_domains_percent_1": 0,
+        "5_top_domains_id_1": 0,
+        "argessive_link_mismatch": 0,
+        "num_domain_phish": 0,
+        "5_top_domains_percent_2": 0,
+        "5_top_domains_id_0": 0,
+        "text_and_href": 0,
+        "5_top_domains_id_4": 0,
+        "1_top_domains_percent_0": 0,
+        "num_external_links": 1,
+        "body_richness": 0.124243834341554,
+        "num_tld_in_url_path": 0,
+        "benevolent_link_mismatch": 0,
+        "num_ip_urls": 0,
+        "5_top_domains_id_3": 0,
+        "text_link_with_path": 1,
+        "camouflage": 0,
+        "5_top_domains_id_2": 0,
+        "ner_domain_detected": false
+    },
+    "html_in_text_plain_count": 0,
+    "extractedSrcUrlsCardinality": 1,
+    "last10words": "eobecnych podminkach poskytovani uveru 1x Smlouva o uveru 1x Rozhodci smlouva 1x Rocni procentni sazba nakladu "
+}

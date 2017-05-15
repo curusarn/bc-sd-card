@@ -1,0 +1,295 @@
+{
+    "ahref_total_count": 2,
+    "word_count": 85,
+    "pepca": "pf3ddb50ce8044b54",
+    "extractedEmails": [],
+    "dkim_signs_cnt": 1,
+    "phashes": [
+        {
+            "value": "pff153415a73b8d3f",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p8ee4a365f876345e",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p6e2f96f22d65350a",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p2cefd55c6a2996c9",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pf3ddb50ce8044b54",
+            "name": "pepca"
+        },
+        {
+            "value": "p4d0c0db367802ccc",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "ahref_camouflage_count": 0,
+    "extractedHrefUrls": [
+        "http://club.costa-coffee.cz/",
+        "http://www.facebook.com/CostaCoffeeCZ"
+    ],
+    "mime_children_count": 7,
+    "spamtrap_hit": false,
+    "pepca_inline_style": "p4d0c0db367802ccc",
+    "date_difference": -80058150,
+    "spamscore": 1.1,
+    "subject_image_count": 0,
+    "html_tag_total_count": 82,
+    "header_reply_to_count": 0,
+    "list_unsubscribe_total_count": 0,
+    "header_from_count": 1,
+    "mime_root_type": "multipart/related",
+    "extractedHrefUrlsDomainCount": 2,
+    "pepca_style": "",
+    "pepca_inline_style_total": 0,
+    "phish_score": 0,
+    "extractedEmailsCardinality": 0,
+    "adscore": 0,
+    "senders": {
+        "log_cnt_idf": "",
+        "log_ecnt-w_duc": "",
+        "ettf_w_duc_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "domain": "costa-coffee",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "domain_keywords_detail": [
+            {
+                "domain": "club-opel",
+                "confidence": 5112192.8672
+            }
+        ],
+        "tf_log_idf_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "club-opel",
+        "idf": "",
+        "log_cnt-w_duc_detail": [],
+        "src_revert_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow4_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "plain_domain": "costa-coffee",
+        "ttf_w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-pow4_w_duc": "",
+        "cnt-pow_w_duc": "",
+        "src_revert": "",
+        "log_cnt_idf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "log_cnt-pow_w_duc": ""
+    },
+    "content": "CONTENT_DEFAULT",
+    "self_send": 0,
+    "attachments": [
+        {
+            "size": 2628,
+            "name": "top-border.gif",
+            "cid": "61618b2df43b290041bdd8b0971fb7f3",
+            "sumphash": "18a7f6210879dec5ea592e5cd2a617fc",
+            "pepca": "pff153415a73b8d3f",
+            "mime_type": "image/gif",
+            "flags": 0,
+            "cte": "BASE64"
+        },
+        {
+            "size": 1727,
+            "name": "costa-logo-email.png",
+            "cid": "f71cacc8262cc6979652bc872dd9b206",
+            "sumphash": "82f63c3e2a3889376892c949191cf7f2",
+            "pepca": "p8ee4a365f876345e",
+            "mime_type": "image/gif",
+            "flags": 0,
+            "cte": "BASE64"
+        },
+        {
+            "size": 667,
+            "name": "fb.png",
+            "cid": "350bb9b4492e3f107519917dbd199e19",
+            "sumphash": "28890d2aa07598c568b9759170eadf15",
+            "pepca": "p6e2f96f22d65350a",
+            "mime_type": "image/png",
+            "flags": 0,
+            "cte": "BASE64"
+        },
+        {
+            "size": 64,
+            "name": "footer-line-left.gif",
+            "cid": "2c197538e7783cddf3857030d694864f",
+            "sumphash": "b6eec6c12a9ca28325de04fa330d221a",
+            "mime_type": "image/gif",
+            "flags": 0,
+            "cte": "BASE64"
+        },
+        {
+            "size": 65,
+            "name": "footer-line-right.gif",
+            "cid": "dff24d25cb8f29c1606ff154f3cf5961",
+            "sumphash": "a8f9546cf098ff5519a9b5c3e08d9f88",
+            "mime_type": "image/gif",
+            "flags": 0,
+            "cte": "BASE64"
+        },
+        {
+            "size": 2654,
+            "name": "bottom-border.gif",
+            "cid": "26605d8ed448b32ffb1e1ccccb5c77c0",
+            "sumphash": "6d59c73e66c9adce2e5680bafc3b305e",
+            "pepca": "p2cefd55c6a2996c9",
+            "mime_type": "image/gif",
+            "flags": 0,
+            "cte": "BASE64"
+        }
+    ],
+    "html_tr_tag_count": 16,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/92191a0b501271d5500336d698cb6eac.eml",
+    "rfcid_is_foreign": 1,
+    "pepcatotal": 0,
+    "spf_status_registry": "Status not found",
+    "spf_dom_policy_registry": "Policy not found",
+    "spf_domain_policy": "UNKNOWN",
+    "dkim_hfrom_match": 0,
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "score": 1.1
+        }
+    ],
+    "dk_statuses": [
+        {
+            "status": "NEUTRAL",
+            "statusDetail": "NOT_SIGNED"
+        }
+    ],
+    "subject_word_count": 4,
+    "list_unsubscribe_mailto_count": 0,
+    "rcpts_count": 1,
+    "precedence": 3,
+    "now": 1494598351,
+    "rfcid_is_invalid": false,
+    "rfcid_length": 53,
+    "list_unsubscribe_invalid_count": 0,
+    "html_td_tag_count": 20,
+    "spfstatus": "NONE",
+    "extractedHrefUrlsTotalCount": 2,
+    "dkStatusDetail": "NOT_SIGNED",
+    "spfstatus_hfrom": "SPF_FAIL",
+    "list_unsubscribe_http_count": 0,
+    "extractedEmailsTotalCount": 0,
+    "dkim_efrom_match": 0,
+    "subject": "Costa Club Zapomenute heslo",
+    "ahref_verbal_count": 2,
+    "extractedEmailsDomainCount": 0,
+    "extractedSrcUrls": [
+        "cid:f71cacc8262cc6979652bc872dd9b206",
+        "cid:350bb9b4492e3f107519917dbd199e19",
+        "cid:2c197538e7783cddf3857030d694864f",
+        "cid:dff24d25cb8f29c1606ff154f3cf5961",
+        "cid:26605d8ed448b32ffb1e1ccccb5c77c0"
+    ],
+    "dkim_passed_count": 0,
+    "extractedSrcUrlsTotalCount": 6,
+    "pepca_style_total": 0,
+    "extractedHrefUrlsCardinality": 2,
+    "header_from": "no-reply@costa-coffee.info",
+    "dkstatus": "NEUTRAL",
+    "first10words": " Costa Coffee Club Costa Coffee Club Dobry den Vase heslo je petricek Prihlaste se prosim zde ",
+    "dkim_count": 0,
+    "header_total_count": 12,
+    "html_script_tag_count": 0,
+    "mime_children_types": [
+        "multipart/alternative",
+        "image/gif",
+        "image/gif",
+        "image/png",
+        "image/gif",
+        "image/gif",
+        "image/gif"
+    ],
+    "from_match": 0,
+    "extractedSrcUrlsDomainCount": 0,
+    "lang": "cs",
+    "phishing": {
+        "5_top_domains_percent_4": 0,
+        "fake_https": 0,
+        "max_num_dots_urls": 2,
+        "num_sender_diff_url": 1,
+        "num_freehost_urls": 0,
+        "num_black_sheep_link_global": -1,
+        "html_form": 0,
+        "subject_richness": 0.129032258064516,
+        "num_non_80_port_urls": 0,
+        "num_phish_keywords": 1,
+        "num_text_forms": 0,
+        "is_html": true,
+        "num_path_phish": 0,
+        "num_black_sheep_link_phish": 0,
+        "num_subdomain_phish": 0,
+        "num_black_sheep_link": -1,
+        "num_html_script_tags": 0,
+        "5_top_domains_percent_3": 0,
+        "1_top_domains_id_0": 0,
+        "suspicious_links": [],
+        "num_param_phish": 0,
+        "subject_phish_keywords": 1,
+        "num_https_urls": 0,
+        "5_top_domains_percent_0": 0,
+        "num_shortened_urls": 0,
+        "max_num_slashes_urls": 1,
+        "num_of_chars": 233,
+        "num_www_in_url_path": 0,
+        "5_top_domains_percent_1": 0,
+        "5_top_domains_id_1": 0,
+        "argessive_link_mismatch": -1,
+        "num_domain_phish": 0,
+        "5_top_domains_percent_2": 0,
+        "5_top_domains_id_0": 0,
+        "text_and_href": 0,
+        "5_top_domains_id_4": 0,
+        "1_top_domains_percent_0": 0,
+        "num_external_links": 2,
+        "body_richness": 0.363247863247863,
+        "num_tld_in_url_path": 0,
+        "benevolent_link_mismatch": -1,
+        "num_ip_urls": 0,
+        "5_top_domains_id_3": 0,
+        "text_link_with_path": 0,
+        "camouflage": 0,
+        "5_top_domains_id_2": 0,
+        "ner_domain_detected": false
+    },
+    "html_in_text_plain_count": 0,
+    "extractedSrcUrlsCardinality": 6,
+    "last10words": "obry den Vase heslo je petricek Prihlaste se prosim zde Dekujeme Vase Costa Coffee "
+}

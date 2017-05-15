@@ -1,0 +1,264 @@
+{
+    "ahref_total_count": 2,
+    "spf_dom_policy_registry": "Policy not found",
+    "extractedTxtUrlsDomainCount": 1,
+    "extractedEmails": [
+        "servis@mitrenga.cz",
+        "servis@mitrenga.czwww.mitrenga.cz"
+    ],
+    "dkim_signs_cnt": 1,
+    "pepca": "ped8548574ef61c0d",
+    "phashes": [
+        {
+            "value": "p24b254bf27f7ae39",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pfefc7d6615eacc09",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p0719c38ddfdd7c63",
+            "name": "att-pepca"
+        },
+        {
+            "value": "ped8548574ef61c0d",
+            "name": "pepca"
+        },
+        {
+            "value": "pbdf52e8e88477cbc",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "ahref_camouflage_count": 0,
+    "extractedHrefUrls": [
+        "http://www.mitrenga.cz/"
+    ],
+    "mime_children_count": 2,
+    "spamtrap_hit": false,
+    "pepca_inline_style": "pbdf52e8e88477cbc",
+    "date_difference": -75957711,
+    "extractedTxtUrls": [
+        "http://www.mitrenga.cz"
+    ],
+    "spamscore": 1.1,
+    "subject_image_count": 0,
+    "html_tag_total_count": 208,
+    "header_reply_to_count": 0,
+    "list_unsubscribe_total_count": 0,
+    "header_from_count": 1,
+    "mime_root_type": "multipart/mixed",
+    "extractedHrefUrlsDomainCount": 1,
+    "pepca_style": "",
+    "pepca_inline_style_total": 0,
+    "phish_score": 0,
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "score": 1.1
+        }
+    ],
+    "adscore": 0,
+    "senders": {
+        "log_cnt_idf": "",
+        "log_ecnt-w_duc": "",
+        "ettf_w_duc_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "domain": "mitrenga",
+                "confidence": 2
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "domain_keywords_detail": [
+            {
+                "domain": "pizzaprotebe",
+                "confidence": 1112421.72469
+            }
+        ],
+        "tf_log_idf_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "pizzaprotebe",
+        "idf": "",
+        "log_cnt-w_duc_detail": [],
+        "src_revert_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow4_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "plain_domain": "mitrenga",
+        "ttf_w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-pow4_w_duc": "",
+        "cnt-pow_w_duc": "",
+        "src_revert": "",
+        "log_cnt_idf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "log_cnt-pow_w_duc": ""
+    },
+    "content": "CONTENT_DEFAULT",
+    "self_send": 0,
+    "attachments": [
+        {
+            "size": 3266,
+            "name": "image001.jpg",
+            "cid": "image001.jpg@01D0185C.3D999E80",
+            "sumphash": "67761731cfe24e680e44bb6aa5d0389c",
+            "pepca": "p24b254bf27f7ae39",
+            "mime_type": "image/jpeg",
+            "flags": 0,
+            "cte": "BASE64"
+        },
+        {
+            "size": 2563,
+            "name": "image002.jpg",
+            "cid": "image002.jpg@01D0185C.3D999E80",
+            "sumphash": "898014f053613d567ce524d5e5c133c3",
+            "pepca": "pfefc7d6615eacc09",
+            "mime_type": "image/jpeg",
+            "flags": 0,
+            "cte": "BASE64"
+        },
+        {
+            "size": 887669,
+            "pepca": "p0719c38ddfdd7c63",
+            "name": "Faktura 22142372.PDF",
+            "first10words": "Dod u t MTTRENGA Kiiv nky Brno provozovna Stiitez okr",
+            "sumphash": "1e21dafa83f46d00f6ed4f5fa06879fd",
+            "lang": "un",
+            "mime_type": "application/pdf",
+            "flags": 0,
+            "cte": "BASE64"
+        }
+    ],
+    "subject": "Faktura",
+    "html_tr_tag_count": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/1c466ef761058e5ced74efee655e48bc.eml",
+    "extractedTxtUrlsTotalCount": 1,
+    "pepcatotal": 0,
+    "spf_status_registry": "Status not found",
+    "last10words": " www mitrenga cz A A A A A A A A A A A A A A A A A A A ",
+    "spf_domain_policy": "UNKNOWN",
+    "dkim_hfrom_match": 0,
+    "word_count": 185,
+    "dk_statuses": [
+        {
+            "status": "NEUTRAL",
+            "statusDetail": "NOT_SIGNED"
+        }
+    ],
+    "subject_word_count": 1,
+    "list_unsubscribe_mailto_count": 0,
+    "rcpts_count": 1,
+    "precedence": 3,
+    "now": 1494598195,
+    "rfcid_is_invalid": false,
+    "list_unsubscribe_invalid_count": 0,
+    "dkim_efrom_match": 0,
+    "html_td_tag_count": 0,
+    "rfcid_length": 34,
+    "extractedHrefUrlsTotalCount": 1,
+    "rfcid_is_foreign": 1,
+    "spfstatus_hfrom": "SPF_NONE",
+    "list_unsubscribe_http_count": 0,
+    "extractedEmailsTotalCount": 2,
+    "extractedEmailsCardinality": 2,
+    "extractedTxtUrlsCardinality": 1,
+    "ahref_verbal_count": 0,
+    "extractedEmailsDomainCount": 2,
+    "extractedSrcUrls": [
+        "cid:image001.jpg@01D0185C.3D999E80",
+        "cid:image002.jpg@01D0185C.3D999E80"
+    ],
+    "dkim_passed_count": 0,
+    "extractedSrcUrlsTotalCount": 2,
+    "pepca_style_total": 0,
+    "extractedHrefUrlsCardinality": 1,
+    "header_from": "servis@mitrenga.cz",
+    "dkstatus": "NEUTRAL",
+    "first10words": " Dobry den A VA priloze Vam zasilam fakturu za dopravu kA oprave cisterny Meprozet Dekuji A ",
+    "dkim_count": 0,
+    "spfstatus": "NONE",
+    "header_total_count": 13,
+    "html_script_tag_count": 0,
+    "mime_children_types": [
+        "multipart/related",
+        "application/pdf"
+    ],
+    "from_match": 0,
+    "extractedSrcUrlsDomainCount": 0,
+    "lang": "cs",
+    "phishing": {
+        "5_top_domains_percent_4": 0,
+        "fake_https": 0,
+        "max_num_dots_urls": 2,
+        "num_sender_diff_url": 0,
+        "num_freehost_urls": 0,
+        "num_black_sheep_link_global": -1,
+        "html_form": 0,
+        "subject_richness": 0.125,
+        "num_non_80_port_urls": 0,
+        "num_phish_keywords": 0,
+        "num_text_forms": 1,
+        "is_html": true,
+        "num_path_phish": 0,
+        "num_black_sheep_link_phish": 0,
+        "num_subdomain_phish": 0,
+        "num_black_sheep_link": -1,
+        "num_html_script_tags": 0,
+        "5_top_domains_percent_3": 0,
+        "1_top_domains_id_0": 0,
+        "suspicious_links": [],
+        "num_param_phish": 0,
+        "subject_phish_keywords": 0,
+        "num_https_urls": 0,
+        "5_top_domains_percent_0": 0,
+        "num_shortened_urls": 0,
+        "max_num_slashes_urls": 1,
+        "num_of_chars": 798,
+        "num_www_in_url_path": 0,
+        "5_top_domains_percent_1": 0,
+        "5_top_domains_id_1": 0,
+        "argessive_link_mismatch": -1,
+        "num_domain_phish": 0,
+        "5_top_domains_percent_2": 0,
+        "5_top_domains_id_0": 0,
+        "text_and_href": 0,
+        "5_top_domains_id_4": 0,
+        "1_top_domains_percent_0": 0,
+        "num_external_links": 1,
+        "body_richness": 0.23153942428035,
+        "num_tld_in_url_path": 0,
+        "benevolent_link_mismatch": -1,
+        "num_ip_urls": 0,
+        "5_top_domains_id_3": 0,
+        "text_link_with_path": 0,
+        "camouflage": 0,
+        "5_top_domains_id_2": 0,
+        "ner_domain_detected": false
+    },
+    "html_in_text_plain_count": 0,
+    "extractedSrcUrlsCardinality": 2,
+    "dkStatusDetail": "NOT_SIGNED"
+}

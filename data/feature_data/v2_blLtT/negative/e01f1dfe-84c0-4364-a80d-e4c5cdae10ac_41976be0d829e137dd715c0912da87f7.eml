@@ -1,0 +1,350 @@
+{
+    "ahref_total_count": 2,
+    "spf_dom_policy_registry": "Policy not found",
+    "extractedTxtUrlsDomainCount": 1,
+    "extractedEmails": [
+        "mhmhmh@seznam.cz"
+    ],
+    "dkim_signs_cnt": 1,
+    "pepca": "p8e982c58711d4908",
+    "pepca_style": "",
+    "phashes": [
+        {
+            "value": "pe6a6ec81e6a04fd3",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p65fa33afa7b1672a",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p1715afe5c6bf68ee",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p23434e7437efbce9",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p1206b5b2853d43db",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p5f958058683e6092",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p5bcd6c1d1e49346a",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pc652fd35a67d1173",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p92f0fbc9b7707f74",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p8e982c58711d4908",
+            "name": "pepca"
+        },
+        {
+            "value": "pb4297a2de80741df",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "ahref_camouflage_count": 0,
+    "extractedHrefUrls": [
+        "https://www.zumail.cz/uzivatel/prihlaseni/?code=58cad69fb588f3131334365l9799bb17a332fd5f2c76e6fa93f8e8108e2144d6",
+        "https://www.zumail.cz/kontakt/"
+    ],
+    "mime_children_count": 2,
+    "spamtrap_hit": false,
+    "pepca_inline_style": "pb4297a2de80741df",
+    "date_difference": -79588030,
+    "extractedTxtUrls": [
+        "http://ZUmail.cz"
+    ],
+    "spamscore": 1,
+    "subject_image_count": 0,
+    "html_tag_total_count": 102,
+    "header_reply_to_count": 1,
+    "list_unsubscribe_total_count": 0,
+    "header_from_count": 1,
+    "mime_root_type": "multipart/alternative",
+    "extractedHrefUrlsDomainCount": 1,
+    "dkdomain": "",
+    "pepca_inline_style_total": 0,
+    "phish_score": 0,
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "score": 1
+        }
+    ],
+    "adscore": 0,
+    "senders": {
+        "log_cnt_idf": "",
+        "log_ecnt-w_duc": "",
+        "ettf_w_duc_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "domain": "zumail",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "domain_keywords_detail": [
+            {
+                "domain": "skype",
+                "confidence": 8553997.73452
+            }
+        ],
+        "tf_log_idf_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "skype",
+        "idf": "",
+        "log_cnt-w_duc_detail": [],
+        "src_revert_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow4_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "plain_domain": "zumail",
+        "ttf_w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-pow4_w_duc": "",
+        "cnt-pow_w_duc": "",
+        "src_revert": "",
+        "log_cnt_idf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "log_cnt-pow_w_duc": ""
+    },
+    "content": "CONTENT_DEFAULT",
+    "self_send": 0,
+    "attachments": [
+        {
+            "size": 9973,
+            "name": "head-1-cz.png",
+            "cid": "545757a93a901",
+            "sumphash": "11cfa9dd1104021f07c6ba5193ea947a",
+            "pepca": "pe6a6ec81e6a04fd3",
+            "mime_type": "image/png",
+            "flags": 0,
+            "cte": "BASE64"
+        },
+        {
+            "size": 1087,
+            "name": "head-2.png",
+            "cid": "545757a93a9a3",
+            "sumphash": "2396997766cdb097765e3167dd372093",
+            "pepca": "p65fa33afa7b1672a",
+            "mime_type": "image/png",
+            "flags": 0,
+            "cte": "BASE64"
+        },
+        {
+            "size": 8711,
+            "name": "new_password.png",
+            "cid": "545757a93aa3b",
+            "sumphash": "350703ff54c4eb9ddd4a528129ee3ca5",
+            "pepca": "p1715afe5c6bf68ee",
+            "mime_type": "image/png",
+            "flags": 0,
+            "cte": "BASE64"
+        },
+        {
+            "size": 851,
+            "name": "head-3.png",
+            "cid": "545757a93aadf",
+            "sumphash": "2504d0d9bd78573e05615fbc182c6b9e",
+            "pepca": "p23434e7437efbce9",
+            "mime_type": "image/png",
+            "flags": 0,
+            "cte": "BASE64"
+        },
+        {
+            "size": 1472,
+            "name": "head-4.png",
+            "cid": "545757a93ab73",
+            "sumphash": "c678c76f48374db2127d4b593dd53216",
+            "pepca": "p1206b5b2853d43db",
+            "mime_type": "image/png",
+            "flags": 0,
+            "cte": "BASE64"
+        },
+        {
+            "size": 3149,
+            "name": "top-1.png",
+            "cid": "545757a93ac07",
+            "sumphash": "15d77c92cb66b380b0d5a674f5848bf2",
+            "pepca": "p5f958058683e6092",
+            "mime_type": "image/png",
+            "flags": 0,
+            "cte": "BASE64"
+        },
+        {
+            "size": 3166,
+            "name": "top-2.png",
+            "cid": "545757a93ac9e",
+            "sumphash": "6f2b91c6eec7a6dd6875cd3d12652a73",
+            "pepca": "p5bcd6c1d1e49346a",
+            "mime_type": "image/png",
+            "flags": 0,
+            "cte": "BASE64"
+        },
+        {
+            "size": 4841,
+            "name": "foot-1.png",
+            "cid": "545757a93ad2f",
+            "sumphash": "e127af5d3ad38e0877a4bbbc4e1630f2",
+            "pepca": "pc652fd35a67d1173",
+            "mime_type": "image/png",
+            "flags": 0,
+            "cte": "BASE64"
+        },
+        {
+            "size": 5595,
+            "name": "foot-2.png",
+            "cid": "545757a93adc6",
+            "sumphash": "2b47bdd2779914a6fbba8e64d1f7d471",
+            "pepca": "p92f0fbc9b7707f74",
+            "mime_type": "image/png",
+            "flags": 0,
+            "cte": "BASE64"
+        }
+    ],
+    "subject": "Nove heslo",
+    "html_tr_tag_count": 19,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/41976be0d829e137dd715c0912da87f7.eml",
+    "extractedTxtUrlsTotalCount": 1,
+    "pepcatotal": 0,
+    "spf_status_registry": "Status not found",
+    "last10words": "ail je zaslan uzivateli ZUmail mhmhmh seznam cz Pro prihlaseni do sveho uctu pokracujte zde Chcete nas kontaktovat ",
+    "spf_domain_policy": "UNKNOWN",
+    "dkim_hfrom_match": 0,
+    "word_count": 121,
+    "dk_statuses": [
+        {
+            "status": "FAIL",
+            "domain": "",
+            "statusDetail": "DKIM_STAT_CANTVRFY"
+        }
+    ],
+    "subject_word_count": 2,
+    "list_unsubscribe_mailto_count": 0,
+    "rcpts_count": 1,
+    "precedence": 3,
+    "now": 1494598247,
+    "rfcid_is_invalid": false,
+    "list_unsubscribe_invalid_count": 0,
+    "dkim_efrom_match": 0,
+    "html_td_tag_count": 30,
+    "rfcid_length": 46,
+    "extractedHrefUrlsTotalCount": 2,
+    "rfcid_is_foreign": 0,
+    "spfstatus_hfrom": "SPF_SOFTFAIL",
+    "list_unsubscribe_http_count": 0,
+    "extractedEmailsTotalCount": 1,
+    "extractedEmailsCardinality": 1,
+    "extractedTxtUrlsCardinality": 1,
+    "ahref_verbal_count": 2,
+    "extractedEmailsDomainCount": 1,
+    "extractedSrcUrls": [
+        "cid:545757a93ab73",
+        "cid:545757a93ac07",
+        "cid:545757a93ac9e",
+        "cid:545757a93ad2f",
+        "cid:545757a93adc6"
+    ],
+    "dkim_passed_count": 0,
+    "extractedSrcUrlsTotalCount": 9,
+    "pepca_style_total": 0,
+    "extractedHrefUrlsCardinality": 2,
+    "header_from": "mailing@zumail.cz",
+    "dkstatus": "FAIL",
+    "first10words": " Nove heslo Dobry den na Vasi zadost zasilame nove vygenerovane heslo k uctu ZUm",
+    "dkim_count": 1,
+    "spfstatus": "NONE",
+    "header_total_count": 13,
+    "html_script_tag_count": 0,
+    "mime_children_types": [
+        "text/plain",
+        "multipart/related"
+    ],
+    "from_match": 0,
+    "extractedSrcUrlsDomainCount": 0,
+    "lang": "cs",
+    "phishing": {
+        "5_top_domains_percent_4": 0,
+        "fake_https": 0,
+        "max_num_dots_urls": 2,
+        "num_sender_diff_url": 0,
+        "num_freehost_urls": 0,
+        "num_black_sheep_link_global": -1,
+        "html_form": 0,
+        "subject_richness": 0.166666666666667,
+        "num_non_80_port_urls": 0,
+        "num_phish_keywords": 7,
+        "num_text_forms": 5,
+        "is_html": true,
+        "num_path_phish": 0,
+        "num_black_sheep_link_phish": 0,
+        "num_subdomain_phish": 0,
+        "num_black_sheep_link": -1,
+        "num_html_script_tags": 0,
+        "5_top_domains_percent_3": 0,
+        "1_top_domains_id_0": 0,
+        "suspicious_links": [],
+        "num_param_phish": 0,
+        "subject_phish_keywords": 1,
+        "num_https_urls": 2,
+        "5_top_domains_percent_0": 0,
+        "num_shortened_urls": 0,
+        "max_num_slashes_urls": 3,
+        "num_of_chars": 417,
+        "num_www_in_url_path": 0,
+        "5_top_domains_percent_1": 0,
+        "5_top_domains_id_1": 0,
+        "argessive_link_mismatch": -1,
+        "num_domain_phish": 0,
+        "5_top_domains_percent_2": 0,
+        "5_top_domains_id_0": 0,
+        "text_and_href": 0,
+        "5_top_domains_id_4": 0,
+        "1_top_domains_percent_0": 0,
+        "num_external_links": 2,
+        "body_richness": 0.289473684210526,
+        "num_tld_in_url_path": 0,
+        "benevolent_link_mismatch": -1,
+        "num_ip_urls": 0,
+        "5_top_domains_id_3": 0,
+        "text_link_with_path": 0,
+        "camouflage": 0,
+        "5_top_domains_id_2": 0,
+        "ner_domain_detected": false
+    },
+    "html_in_text_plain_count": 0,
+    "extractedSrcUrlsCardinality": 9,
+    "dkStatusDetail": "DKIM_STAT_CANTVRFY"
+}

@@ -1,0 +1,273 @@
+{
+    "ahref_total_count": 4,
+    "word_count": 185,
+    "pepca": "p8cf1fce94f6ff16a",
+    "extractedEmails": [
+        "i.benza@seznam.cz"
+    ],
+    "dkim_signs_cnt": 1,
+    "phashes": [
+        {
+            "value": "pdc9acc191ecbed78",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pc8c01710db845c02",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p1d69457e3713823f",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p3453005f1e146358",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p8cf1fce94f6ff16a",
+            "name": "pepca"
+        },
+        {
+            "value": "pf28d0c0cb728fb6a",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "ahref_camouflage_count": 0,
+    "extractedHrefUrls": [
+        "https://safekey.mcafee.com/?recovery=1",
+        "http://home.mcafee.com/root/Campaign.aspx?cid=113298&affid=0&culture=cs-CZ",
+        "http://home.mcafee.com/root/Campaign.aspx?cid=112942&affid=0&culture=cs-CZ",
+        "http://home.mcafee.com/root/Campaign.aspx?cid=112941&affid=&culture="
+    ],
+    "mime_children_count": 5,
+    "spamtrap_hit": false,
+    "pepca_inline_style": "pf28d0c0cb728fb6a",
+    "date_difference": -79549583,
+    "spamscore": 1.1,
+    "subject_image_count": 0,
+    "html_tag_total_count": 109,
+    "header_reply_to_count": 0,
+    "list_unsubscribe_total_count": 0,
+    "header_from_count": 1,
+    "mime_root_type": "multipart/related",
+    "extractedHrefUrlsDomainCount": 1,
+    "pepca_style": "",
+    "pepca_inline_style_total": 0,
+    "phish_score": 0,
+    "extractedEmailsCardinality": 1,
+    "adscore": 0,
+    "senders": {
+        "log_cnt_idf": "",
+        "log_ecnt-w_duc": "",
+        "ettf_w_duc_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "domain_keywords_detail": [
+            {
+                "domain": "mcafee",
+                "confidence": 126680403.0852
+            }
+        ],
+        "tf_log_idf_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "mcafee",
+        "idf": "",
+        "log_cnt-w_duc_detail": [],
+        "src_revert_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow4_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "plain_domain": "",
+        "ttf_w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-pow4_w_duc": "",
+        "cnt-pow_w_duc": "",
+        "src_revert": "",
+        "log_cnt_idf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "log_cnt-pow_w_duc": ""
+    },
+    "content": "CONTENT_DEFAULT",
+    "self_send": 0,
+    "attachments": [
+        {
+            "size": 1093,
+            "name": "spacer.gif",
+            "cid": "ebbd0cafe0a1436dc9224d2b95b862fc",
+            "sumphash": "75176bab9b36170b40f27be74f1ca0a6",
+            "pepca": "pdc9acc191ecbed78",
+            "mime_type": "image/gif",
+            "flags": 0,
+            "cte": "BASE64"
+        },
+        {
+            "size": 4154,
+            "name": "logo.gif",
+            "cid": "38bfb11bf48fc2f56d2ca2d796d0b0af",
+            "sumphash": "a2a18178829df2cc629b326e001cd43e",
+            "pepca": "pc8c01710db845c02",
+            "mime_type": "image/gif",
+            "flags": 0,
+            "cte": "BASE64"
+        },
+        {
+            "size": 1974,
+            "name": "help_icon.gif",
+            "cid": "6a65c49f40bfa6a3a88deef27bf63c43",
+            "sumphash": "c4f41b9a98126074263e2a364eaeb9e8",
+            "pepca": "p1d69457e3713823f",
+            "mime_type": "image/gif",
+            "flags": 0,
+            "cte": "BASE64"
+        },
+        {
+            "size": 2195,
+            "name": "icn_phone.png",
+            "cid": "188cc4522355bc862c1146e7d26ef597",
+            "sumphash": "fa27d70212dd5d7d8c87b0e9e8ac0e4c",
+            "pepca": "p3453005f1e146358",
+            "mime_type": "image/png",
+            "flags": 0,
+            "cte": "BASE64"
+        }
+    ],
+    "html_tr_tag_count": 22,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/a9f9f2bfffdb88b7184d7285da615fc1.eml",
+    "rfcid_is_foreign": 1,
+    "pepcatotal": 0,
+    "spf_status_registry": "Status not found",
+    "spf_dom_policy_registry": "Policy not found",
+    "spf_domain_policy": "UNKNOWN",
+    "dkim_hfrom_match": 0,
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "score": 1.1
+        }
+    ],
+    "dk_statuses": [
+        {
+            "status": "NEUTRAL",
+            "statusDetail": "NOT_SIGNED"
+        }
+    ],
+    "subject_word_count": 5,
+    "list_unsubscribe_mailto_count": 0,
+    "rcpts_count": 1,
+    "precedence": 2,
+    "now": 1494598379,
+    "rfcid_is_invalid": false,
+    "rfcid_length": 51,
+    "list_unsubscribe_invalid_count": 0,
+    "html_td_tag_count": 28,
+    "spfstatus": "NONE",
+    "extractedHrefUrlsTotalCount": 4,
+    "dkStatusDetail": "NOT_SIGNED",
+    "spfstatus_hfrom": "SPF_FAIL",
+    "list_unsubscribe_http_count": 0,
+    "extractedEmailsTotalCount": 1,
+    "dkim_efrom_match": 0,
+    "subject": "Ziskejte pomoc s obnovenim hesla",
+    "ahref_verbal_count": 4,
+    "extractedEmailsDomainCount": 1,
+    "extractedSrcUrls": [
+        "cid:ebbd0cafe0a1436dc9224d2b95b862fc",
+        "cid:38bfb11bf48fc2f56d2ca2d796d0b0af",
+        "cid:6a65c49f40bfa6a3a88deef27bf63c43",
+        "cid:188cc4522355bc862c1146e7d26ef597"
+    ],
+    "dkim_passed_count": 0,
+    "extractedSrcUrlsTotalCount": 4,
+    "pepca_style_total": 0,
+    "extractedHrefUrlsCardinality": 4,
+    "header_from": "donotreply@mcafee.com",
+    "dkstatus": "NEUTRAL",
+    "first10words": " McAfee SafeKey Ziskejte pomoc s obnovenim hesla Ahoj Je nam lito ze jste zapomneli heslo do aplikace McAfee Saf",
+    "dkim_count": 0,
+    "header_total_count": 14,
+    "html_script_tag_count": 0,
+    "mime_children_types": [
+        "multipart/alternative",
+        "image/gif",
+        "image/gif",
+        "image/gif",
+        "image/png"
+    ],
+    "from_match": 0,
+    "extractedSrcUrlsDomainCount": 0,
+    "lang": "cs",
+    "phishing": {
+        "5_top_domains_percent_4": 0,
+        "fake_https": 0,
+        "max_num_dots_urls": 3,
+        "num_sender_diff_url": 0,
+        "num_freehost_urls": 0,
+        "num_black_sheep_link_global": -1,
+        "html_form": 0,
+        "subject_richness": 0.142857142857143,
+        "num_non_80_port_urls": 0,
+        "num_phish_keywords": 13,
+        "num_text_forms": 4,
+        "is_html": true,
+        "num_path_phish": 0,
+        "num_black_sheep_link_phish": 0,
+        "num_subdomain_phish": 0,
+        "num_black_sheep_link": -1,
+        "num_html_script_tags": 0,
+        "5_top_domains_percent_3": 0,
+        "1_top_domains_id_0": 0,
+        "suspicious_links": [],
+        "num_param_phish": 0,
+        "subject_phish_keywords": 3,
+        "num_https_urls": 1,
+        "5_top_domains_percent_0": 0,
+        "num_shortened_urls": 0,
+        "max_num_slashes_urls": 2,
+        "num_of_chars": 987,
+        "num_www_in_url_path": 0,
+        "5_top_domains_percent_1": 0,
+        "5_top_domains_id_1": 0,
+        "argessive_link_mismatch": -1,
+        "num_domain_phish": 0,
+        "5_top_domains_percent_2": 0,
+        "5_top_domains_id_0": 0,
+        "text_and_href": 0,
+        "5_top_domains_id_4": 0,
+        "1_top_domains_percent_0": 0,
+        "num_external_links": 4,
+        "body_richness": 0.187246963562753,
+        "num_tld_in_url_path": 0,
+        "benevolent_link_mismatch": -1,
+        "num_ip_urls": 0,
+        "5_top_domains_id_3": 0,
+        "text_link_with_path": 0,
+        "camouflage": 0,
+        "5_top_domains_id_2": 0,
+        "ner_domain_detected": false
+    },
+    "html_in_text_plain_count": 0,
+    "extractedSrcUrlsCardinality": 4,
+    "last10words": "vu neodpovidejte Na teto adrese neprijimame e maily proto nebudeme moci zareagovat Potrebujete pomoc Zavolejte nam "
+}

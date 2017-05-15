@@ -1,0 +1,268 @@
+{
+    "ahref_total_count": 5,
+    "spf_dom_policy_registry": "Policy not found",
+    "extractedTxtUrlsDomainCount": 2,
+    "extractedEmails": [
+        "lekavy@biso.eu",
+        "sklad@biso.eu",
+        "sklad@farmsystems.sk"
+    ],
+    "dkim_signs_cnt": 1,
+    "pepca": "pe81159352d969ee3",
+    "phashes": [
+        {
+            "value": "p259576335fec8255",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pb9c3aa6bfa35dd2e",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pe81159352d969ee3",
+            "name": "pepca"
+        },
+        {
+            "value": "pc2584148448f1086",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "ahref_camouflage_count": 0,
+    "extractedHrefUrls": [
+        "http://www.biso.sk/",
+        "http://www.podryvaky.cz/",
+        "http://www.avast.com/"
+    ],
+    "mime_children_count": 3,
+    "spamtrap_hit": false,
+    "pepca_inline_style": "pc2584148448f1086",
+    "date_difference": -73527679,
+    "extractedTxtUrls": [
+        "http://www.biso.sk/",
+        "http://www.podryvaky.cz"
+    ],
+    "spamscore": 1.1,
+    "subject_image_count": 0,
+    "html_tag_total_count": 326,
+    "header_reply_to_count": 0,
+    "list_unsubscribe_total_count": 0,
+    "header_from_count": 1,
+    "mime_root_type": "multipart/related",
+    "extractedHrefUrlsDomainCount": 3,
+    "pepca_style": "",
+    "pepca_inline_style_total": 0,
+    "phish_score": 0,
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "score": 1.1
+        }
+    ],
+    "adscore": 0,
+    "senders": {
+        "log_cnt_idf": "",
+        "log_ecnt-w_duc": "",
+        "ettf_w_duc_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "domain": "podryvaky",
+                "confidence": 2
+            },
+            {
+                "domain": "biso",
+                "confidence": 1
+            },
+            {
+                "domain": "avast",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "domain_keywords_detail": [
+            {
+                "domain": "biso",
+                "confidence": 15090213.7000018
+            }
+        ],
+        "tf_log_idf_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "biso",
+        "idf": "",
+        "log_cnt-w_duc_detail": [],
+        "src_revert_detail": [
+            {
+                "domain": "volny",
+                "confidence": 1
+            }
+        ],
+        "log_cnt_idf_log_tidf": "",
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow4_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "plain_domain": "podryvaky",
+        "ttf_w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-pow4_w_duc": "",
+        "cnt-pow_w_duc": "",
+        "src_revert": "volny",
+        "log_cnt_idf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "log_cnt-pow_w_duc": ""
+    },
+    "content": "CONTENT_DEFAULT",
+    "self_send": 0,
+    "attachments": [
+        {
+            "size": 2701,
+            "name": "image002.jpg",
+            "cid": "image002.jpg@01D02E77.05E05C00",
+            "sumphash": "e2bb5b06a5811a5ff4bef11427faf34b",
+            "pepca": "p259576335fec8255",
+            "mime_type": "image/jpeg",
+            "flags": 0,
+            "cte": "BASE64"
+        },
+        {
+            "size": 4128,
+            "name": "image003.gif",
+            "cid": "image003.gif@01D02E77.05E05C00",
+            "sumphash": "46497283e286ec2987bba1fb023dcedb",
+            "pepca": "pb9c3aa6bfa35dd2e",
+            "mime_type": "image/gif",
+            "flags": 0,
+            "cte": "BASE64"
+        }
+    ],
+    "subject": "RE Objednavka NSO",
+    "html_tr_tag_count": 2,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/561161c78a3f75d48089a83a76e18e12.eml.eml",
+    "extractedTxtUrlsTotalCount": 2,
+    "pepcatotal": 0,
+    "spf_status_registry": "Status not found",
+    "last10words": " Tato zprava neobsahuje viry ani jiny skodlivy kod avast Antivirus je aktivni A ",
+    "spf_domain_policy": "UNKNOWN",
+    "dkim_hfrom_match": 0,
+    "word_count": 298,
+    "dk_statuses": [
+        {
+            "status": "NEUTRAL",
+            "statusDetail": "NOT_SIGNED"
+        }
+    ],
+    "subject_word_count": 3,
+    "list_unsubscribe_mailto_count": 0,
+    "rcpts_count": 1,
+    "precedence": 3,
+    "now": 1494598271,
+    "rfcid_is_invalid": false,
+    "list_unsubscribe_invalid_count": 0,
+    "dkim_efrom_match": 0,
+    "html_td_tag_count": 4,
+    "rfcid_length": 46,
+    "extractedHrefUrlsTotalCount": 3,
+    "rfcid_is_foreign": 1,
+    "spfstatus_hfrom": "SPF_NONE",
+    "list_unsubscribe_http_count": 0,
+    "extractedEmailsTotalCount": 3,
+    "extractedEmailsCardinality": 3,
+    "extractedTxtUrlsCardinality": 2,
+    "ahref_verbal_count": 1,
+    "extractedEmailsDomainCount": 2,
+    "extractedSrcUrls": [
+        "cid:image002.jpg@01D02E77.05E05C00",
+        "cid:image003.gif@01D02E77.05E05C00",
+        "http://static.avast.com/emails/avast-mail-stamp.png"
+    ],
+    "dkim_passed_count": 0,
+    "extractedSrcUrlsTotalCount": 3,
+    "pepca_style_total": 0,
+    "extractedHrefUrlsCardinality": 3,
+    "header_from": "memerscheimer@farmsystems.sk",
+    "dkstatus": "NEUTRAL",
+    "first10words": " ok A Ing Gabriel Memerscheimer A A A veduci strediska ND Rohovce A A A A Parts Di",
+    "dkim_count": 0,
+    "spfstatus": "NONE",
+    "header_total_count": 22,
+    "html_script_tag_count": 0,
+    "mime_children_types": [
+        "multipart/alternative",
+        "image/jpeg",
+        "image/gif"
+    ],
+    "from_match": 0,
+    "extractedSrcUrlsDomainCount": 1,
+    "lang": "sk",
+    "phishing": {
+        "5_top_domains_percent_4": 0,
+        "fake_https": 0,
+        "max_num_dots_urls": 2,
+        "num_sender_diff_url": 3,
+        "num_freehost_urls": 0,
+        "num_black_sheep_link_global": -1,
+        "html_form": 0,
+        "subject_richness": 0.15,
+        "num_non_80_port_urls": 0,
+        "num_phish_keywords": 0,
+        "num_text_forms": 7,
+        "is_html": true,
+        "num_path_phish": 0,
+        "num_black_sheep_link_phish": 0,
+        "num_subdomain_phish": 0,
+        "num_black_sheep_link": -1,
+        "num_html_script_tags": 0,
+        "5_top_domains_percent_3": 0,
+        "1_top_domains_id_0": 0,
+        "suspicious_links": [],
+        "num_param_phish": 0,
+        "subject_phish_keywords": 0,
+        "num_https_urls": 0,
+        "5_top_domains_percent_0": 1.0,
+        "num_shortened_urls": 0,
+        "max_num_slashes_urls": 1,
+        "num_of_chars": 1466,
+        "num_www_in_url_path": 0,
+        "5_top_domains_percent_1": 0,
+        "5_top_domains_id_1": 0,
+        "argessive_link_mismatch": -1,
+        "num_domain_phish": 0,
+        "5_top_domains_percent_2": 0,
+        "5_top_domains_id_0": 0,
+        "text_and_href": 1,
+        "5_top_domains_id_4": 0,
+        "1_top_domains_percent_0": 1.0,
+        "num_external_links": 4,
+        "body_richness": 0.203135650988412,
+        "num_tld_in_url_path": 0,
+        "benevolent_link_mismatch": -1,
+        "num_ip_urls": 0,
+        "5_top_domains_id_3": 0,
+        "text_link_with_path": 0,
+        "camouflage": 0,
+        "5_top_domains_id_2": 0,
+        "ner_domain_detected": true
+    },
+    "html_in_text_plain_count": 0,
+    "extractedSrcUrlsCardinality": 3,
+    "dkStatusDetail": "NOT_SIGNED"
+}

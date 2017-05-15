@@ -1,0 +1,230 @@
+{
+    "ahref_total_count": 4,
+    "word_count": 94,
+    "extractedTxtUrlsDomainCount": 1,
+    "extractedEmails": [
+        "v-h-t@seznam.cz"
+    ],
+    "dkim_signs_cnt": 2,
+    "pepca": "pd421479b13053dfd",
+    "pepca_style": "p62998252cc98c6fb",
+    "phashes": [
+        {
+            "value": "pd421479b13053dfd",
+            "name": "pepca"
+        },
+        {
+            "value": "p62998252cc98c6fb",
+            "name": "pepca_style"
+        }
+    ],
+    "ahref_camouflage_count": 3,
+    "extractedHrefUrls": [
+        "http://mandrillapp.com/track/click/30157845/www.wgmods.eu?p=eyJzIjoieUQxZ0lZbkJaNFNRRmc5V2dSeXcxR3ljTUpvIiwidiI6MSwicCI6IntcInVc",
+        "http://mandrillapp.com/track/click/30157845/www.wgmods.eu?p=eyJzIjoiY2VEOTEzbElQWVVsU3I0aFJWMWd2ZnRDeWhBIiwidiI6MSwicCI6IntcInVc",
+        "http://mandrillapp.com/track/click/30157845/www.wgmods.eu?p=eyJzIjoieHZpX2RjS1NOdlliV1hnRG5reTVVOEtyTHN3IiwidiI6MSwicCI6IntcInVc",
+        "http://mandrillapp.com/track/click/30157845/www.wgmods.eu?p=eyJzIjoiTUhPMFVtUUZBczVZOEpoNF9CYjZwZ0lBaUpNIiwidiI6MSwicCI6IntcInVc"
+    ],
+    "mime_children_count": 2,
+    "spamtrap_hit": false,
+    "pepca_inline_style": "",
+    "date_difference": -79719696,
+    "extractedTxtUrls": [
+        "http://www.wgmods.eu/forum/index.php",
+        "http://www.wgmods.eu/forum/index.php?app=core&module=global&section=login",
+        "http://www.wgmods.eu/forum/index.php?app=core&module=usercp&tab=core&area=email"
+    ],
+    "spamscore": 1.1,
+    "subject_image_count": 0,
+    "html_tag_total_count": 51,
+    "header_reply_to_count": 0,
+    "list_unsubscribe_total_count": 0,
+    "header_from_count": 1,
+    "mime_root_type": "multipart/alternative",
+    "extractedHrefUrlsDomainCount": 1,
+    "dkdomain": "mail132-4.atl131.mandrillapp.com",
+    "pepca_inline_style_total": 0,
+    "phish_score": 0,
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging"
+            ],
+            "score": 1.1
+        }
+    ],
+    "adscore": 0,
+    "senders": {
+        "log_cnt_idf": "",
+        "log_ecnt-w_duc": "",
+        "ettf_w_duc_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "domain_keywords_detail": [
+            {
+                "domain": "aweber",
+                "confidence": 78697074.8110004
+            }
+        ],
+        "tf_log_idf_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "aweber",
+        "idf": "",
+        "log_cnt-w_duc_detail": [],
+        "src_revert_detail": [
+            {
+                "domain": "topsrovnani",
+                "confidence": 1
+            }
+        ],
+        "log_cnt_idf_log_tidf": "",
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow4_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "plain_domain": "",
+        "ttf_w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-pow4_w_duc": "",
+        "cnt-pow_w_duc": "",
+        "src_revert": "topsrovnani",
+        "log_cnt_idf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "log_cnt-pow_w_duc": ""
+    },
+    "content": "CONTENT_DEFAULT",
+    "self_send": 0,
+    "attachments": [],
+    "subject": "Tve nove heslo Ragnarockov ModPack",
+    "html_tr_tag_count": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/27bc76cec8d0f1de5cd0bd90c3aad8e9.eml",
+    "extractedTxtUrlsTotalCount": 3,
+    "pepcatotal": 0,
+    "spf_status_registry": "Status not found",
+    "spf_dom_policy_registry": "Policy not found",
+    "spf_domain_policy": "UNKNOWN",
+    "dkim_hfrom_match": 0,
+    "dk_statuses": [
+        {
+            "selector": "mandrill",
+            "domain": "mail132-4.atl131.mandrillapp.com",
+            "status": "PASS"
+        },
+        {
+            "selector": "mandrill",
+            "domain": "mandrillapp.com",
+            "status": "PASS"
+        }
+    ],
+    "subject_word_count": 5,
+    "list_unsubscribe_mailto_count": 0,
+    "rcpts_count": 1,
+    "precedence": 3,
+    "now": 1494598212,
+    "rfcid_is_invalid": false,
+    "list_unsubscribe_invalid_count": 0,
+    "dkim_efrom_match": 0,
+    "html_td_tag_count": 0,
+    "rfcid_length": 80,
+    "extractedHrefUrlsTotalCount": 4,
+    "rfcid_is_foreign": 0,
+    "spfstatus_hfrom": "SPF_NEUTRAL",
+    "list_unsubscribe_http_count": 0,
+    "extractedEmailsTotalCount": 1,
+    "extractedEmailsCardinality": 1,
+    "extractedTxtUrlsCardinality": 3,
+    "ahref_verbal_count": 1,
+    "extractedEmailsDomainCount": 1,
+    "extractedSrcUrls": [
+        "http://mandrillapp.com/track/open.php?u=30157845&id=13fded675b464c5998a0ec34e21e749b"
+    ],
+    "dkim_passed_count": 2,
+    "dkselector": "mandrill",
+    "extractedSrcUrlsTotalCount": 1,
+    "pepca_style_total": 1,
+    "extractedHrefUrlsCardinality": 4,
+    "header_from": "info@wgmods.eu",
+    "dkstatus": "PASS",
+    "first10words": " Tve nove heslo Ragnarockov ModPack Ragnarockov ModPack bigliberec123 This email has been sent from http www wgmods eu forum in",
+    "dkim_count": 2,
+    "spfstatus": "NONE",
+    "header_total_count": 21,
+    "html_script_tag_count": 0,
+    "mime_children_types": [
+        "text/plain",
+        "text/html"
+    ],
+    "from_match": 0,
+    "extractedSrcUrlsDomainCount": 1,
+    "lang": "en",
+    "phishing": {
+        "5_top_domains_percent_4": 0,
+        "fake_https": 0,
+        "max_num_dots_urls": 3,
+        "num_sender_diff_url": 1,
+        "num_freehost_urls": 0,
+        "num_black_sheep_link_global": -1,
+        "html_form": 0,
+        "subject_richness": 0.135135135135135,
+        "num_non_80_port_urls": 0,
+        "num_phish_keywords": 11,
+        "num_text_forms": 6,
+        "is_html": true,
+        "num_path_phish": 0,
+        "num_black_sheep_link_phish": 0,
+        "num_subdomain_phish": 0,
+        "num_black_sheep_link": -1,
+        "num_html_script_tags": 0,
+        "5_top_domains_percent_3": 0,
+        "1_top_domains_id_0": 0,
+        "suspicious_links": [],
+        "num_param_phish": 0,
+        "subject_phish_keywords": 1,
+        "num_https_urls": 0,
+        "5_top_domains_percent_0": 0,
+        "num_shortened_urls": 0,
+        "max_num_slashes_urls": 4,
+        "num_of_chars": 764,
+        "num_www_in_url_path": 0,
+        "5_top_domains_percent_1": 0,
+        "5_top_domains_id_1": 0,
+        "argessive_link_mismatch": -1,
+        "num_domain_phish": 0,
+        "5_top_domains_percent_2": 0,
+        "5_top_domains_id_0": 0,
+        "text_and_href": 0,
+        "5_top_domains_id_4": 0,
+        "1_top_domains_percent_0": 0,
+        "num_external_links": 5,
+        "body_richness": 0.122875816993464,
+        "num_tld_in_url_path": 0,
+        "benevolent_link_mismatch": -1,
+        "num_ip_urls": 0,
+        "5_top_domains_id_3": 0,
+        "text_link_with_path": 3,
+        "camouflage": 1,
+        "5_top_domains_id_2": 0,
+        "ner_domain_detected": false
+    },
+    "html_in_text_plain_count": 0,
+    "extractedSrcUrlsCardinality": 1,
+    "last10words": "to change your password User CP http www wgmods eu forum index php app core module usercp tab core area email Ragnarockov ModPack "
+}

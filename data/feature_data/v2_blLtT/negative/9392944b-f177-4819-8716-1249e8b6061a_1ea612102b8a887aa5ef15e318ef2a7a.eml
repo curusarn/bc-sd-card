@@ -1,0 +1,318 @@
+{
+    "ahref_total_count": 4,
+    "spf_dom_policy_registry": "Policy not found",
+    "extractedTxtUrlsDomainCount": 3,
+    "extractedEmails": [
+        "ludmila.holcmanova@regus.com"
+    ],
+    "dkim_signs_cnt": 1,
+    "pepca": "p93e78ec7d92d7559",
+    "phashes": [
+        {
+            "value": "p275377db6951db16",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p6abbe484b4bec193",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p7ceca4e642770f5a",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pd39571ceb49b49f5",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p6d908d784c25399a",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pf97c527da7aa263e",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p93e78ec7d92d7559",
+            "name": "pepca"
+        },
+        {
+            "value": "p30a9d20aed68fe2f",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "ahref_camouflage_count": 0,
+    "extractedHrefUrls": [
+        "blocked::blocked::mailto:ludmila.holcmanova@regus.com",
+        "blocked::blocked::http://www.facebook.com/regus.workyourway",
+        "blocked::blocked::https://twitter.com/RegusBlog",
+        "blocked::blocked::https://www.linkedin.com/company/4586?trk=tyah&trkInfo=tarId:1400078418358,tas:regus,idx:2-1-4",
+        "blocked::blocked::https://www.facebook.com/regus.workyourway"
+    ],
+    "mime_children_count": 7,
+    "spamtrap_hit": false,
+    "pepca_inline_style": "p30a9d20aed68fe2f",
+    "date_difference": -75957644,
+    "extractedTxtUrls": [
+        "http://www.facebook.com/regus.workyourway",
+        "http://www.twitter.com/RegusBlog",
+        "http://www.linkedin.com",
+        "http://www.facebook.com/regus.workyourwayTwitter:",
+        "http://www.twitter.com/RegusBlogLinkedIn:"
+    ],
+    "spamscore": 1,
+    "subject_image_count": 0,
+    "html_tag_total_count": 203,
+    "header_reply_to_count": 0,
+    "list_unsubscribe_total_count": 0,
+    "header_from_count": 1,
+    "mime_root_type": "multipart/related",
+    "extractedHrefUrlsDomainCount": 0,
+    "pepca_style": "",
+    "pepca_inline_style_total": 0,
+    "phish_score": 0,
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "score": 1
+        }
+    ],
+    "adscore": 0,
+    "senders": {
+        "log_cnt_idf": "",
+        "log_ecnt-w_duc": "",
+        "ettf_w_duc_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "domain": "linkedin",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "domain_keywords_detail": [
+            {
+                "domain": "clamav",
+                "confidence": 114565814.992
+            }
+        ],
+        "tf_log_idf_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "clamav",
+        "idf": "",
+        "log_cnt-w_duc_detail": [],
+        "src_revert_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow4_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "plain_domain": "linkedin",
+        "ttf_w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-pow4_w_duc": "",
+        "cnt-pow_w_duc": "",
+        "src_revert": "",
+        "log_cnt_idf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "log_cnt-pow_w_duc": ""
+    },
+    "content": "CONTENT_DEFAULT",
+    "self_send": 0,
+    "attachments": [
+        {
+            "size": 1859,
+            "name": "image001.jpg",
+            "cid": "image001.jpg@01D0185C.38045410",
+            "sumphash": "2bda2c5ba9215840aec972c6c9ea8b27",
+            "pepca": "p275377db6951db16",
+            "mime_type": "image/jpeg",
+            "flags": 0,
+            "cte": "BASE64"
+        },
+        {
+            "size": 1862,
+            "name": "image002.jpg",
+            "cid": "image002.jpg@01D0185C.38045410",
+            "sumphash": "a58f62a7a920e80c256ba51092bb77fc",
+            "pepca": "p6abbe484b4bec193",
+            "mime_type": "image/jpeg",
+            "flags": 0,
+            "cte": "BASE64"
+        },
+        {
+            "size": 1890,
+            "name": "image003.jpg",
+            "cid": "image003.jpg@01D0185C.38045410",
+            "sumphash": "b6331d557dd6cc0b7c843e6ce898a2c2",
+            "pepca": "p7ceca4e642770f5a",
+            "mime_type": "image/jpeg",
+            "flags": 0,
+            "cte": "BASE64"
+        },
+        {
+            "size": 12927,
+            "name": "image004.png",
+            "cid": "image004.png@01D0185C.B40AAA00",
+            "sumphash": "76721b5b6e467807e97e660f7f21e778",
+            "pepca": "pd39571ceb49b49f5",
+            "mime_type": "image/png",
+            "flags": 0,
+            "cte": "BASE64"
+        },
+        {
+            "size": 12448,
+            "name": "image005.png",
+            "cid": "image005.png@01D0185C.B40AAA00",
+            "sumphash": "6201177053b1bb57657c0a5e03f5c24b",
+            "pepca": "p6d908d784c25399a",
+            "mime_type": "image/png",
+            "flags": 0,
+            "cte": "BASE64"
+        },
+        {
+            "size": 5511,
+            "name": "image006.png",
+            "cid": "image006.png@01D0185C.B40AAA00",
+            "sumphash": "76b04e62f7bb568f438417edb2022e50",
+            "pepca": "pf97c527da7aa263e",
+            "mime_type": "image/png",
+            "flags": 0,
+            "cte": "BASE64"
+        }
+    ],
+    "subject": "Dvakrat uhrazena faktura c 1661",
+    "html_tr_tag_count": 6,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/1ea612102b8a887aa5ef15e318ef2a7a.eml",
+    "extractedTxtUrlsTotalCount": 5,
+    "pepcatotal": 0,
+    "spf_status_registry": "Status not found",
+    "last10words": "e sender immediately Regus PLC 26 Boulevard Royal L 2449 Luxembourg ",
+    "spf_domain_policy": "UNKNOWN",
+    "dkim_hfrom_match": 0,
+    "word_count": 231,
+    "dk_statuses": [
+        {
+            "status": "NEUTRAL",
+            "statusDetail": "NOT_SIGNED"
+        }
+    ],
+    "subject_word_count": 5,
+    "list_unsubscribe_mailto_count": 0,
+    "rcpts_count": 1,
+    "precedence": 3,
+    "now": 1494598197,
+    "rfcid_is_invalid": false,
+    "list_unsubscribe_invalid_count": 0,
+    "dkim_efrom_match": 0,
+    "html_td_tag_count": 6,
+    "rfcid_length": 63,
+    "extractedHrefUrlsTotalCount": 5,
+    "rfcid_is_foreign": 0,
+    "spfstatus_hfrom": "SPF_SOFTFAIL",
+    "list_unsubscribe_http_count": 0,
+    "extractedEmailsTotalCount": 1,
+    "extractedEmailsCardinality": 1,
+    "extractedTxtUrlsCardinality": 5,
+    "ahref_verbal_count": 0,
+    "extractedEmailsDomainCount": 1,
+    "extractedSrcUrls": [
+        "cid:image005.png@01D0185C.B40AAA00",
+        "cid:image006.png@01D0185C.B40AAA00",
+        "cid:image001.jpg@01D0185C.38045410",
+        "cid:image002.jpg@01D0185C.38045410",
+        "cid:image003.jpg@01D0185C.38045410"
+    ],
+    "dkim_passed_count": 0,
+    "extractedSrcUrlsTotalCount": 6,
+    "pepca_style_total": 0,
+    "extractedHrefUrlsCardinality": 5,
+    "header_from": "Ludmila.Holcmanova@regus.com",
+    "dkstatus": "NEUTRAL",
+    "first10words": " Vazena pani Bayer vazena pani Kottasova A dovoluji si upozornit ze jsme prijali dvakrat platbu za fakturu 1661 ",
+    "dkim_count": 0,
+    "spfstatus": "NONE",
+    "header_total_count": 20,
+    "html_script_tag_count": 0,
+    "mime_children_types": [
+        "multipart/alternative",
+        "image/jpeg",
+        "image/jpeg",
+        "image/jpeg",
+        "image/png",
+        "image/png",
+        "image/png"
+    ],
+    "from_match": 0,
+    "extractedSrcUrlsDomainCount": 0,
+    "lang": "en",
+    "phishing": {
+        "5_top_domains_percent_4": 0,
+        "fake_https": 0,
+        "max_num_dots_urls": 3,
+        "num_sender_diff_url": 3,
+        "num_freehost_urls": 0,
+        "num_black_sheep_link_global": -1,
+        "html_form": 0,
+        "subject_richness": 0.138888888888889,
+        "num_non_80_port_urls": 0,
+        "num_phish_keywords": 1,
+        "num_text_forms": 4,
+        "is_html": true,
+        "num_path_phish": 0,
+        "num_black_sheep_link_phish": 0,
+        "num_subdomain_phish": 0,
+        "num_black_sheep_link": -1,
+        "num_html_script_tags": 0,
+        "5_top_domains_percent_3": 0,
+        "1_top_domains_id_0": 0,
+        "suspicious_links": [],
+        "num_param_phish": 0,
+        "subject_phish_keywords": 0,
+        "num_https_urls": 0,
+        "5_top_domains_percent_0": 0,
+        "num_shortened_urls": 0,
+        "max_num_slashes_urls": 2,
+        "num_of_chars": 1349,
+        "num_www_in_url_path": 0,
+        "5_top_domains_percent_1": 0,
+        "5_top_domains_id_1": 0,
+        "argessive_link_mismatch": -1,
+        "num_domain_phish": 0,
+        "5_top_domains_percent_2": 0,
+        "5_top_domains_id_0": 0,
+        "text_and_href": 0,
+        "5_top_domains_id_4": 0,
+        "1_top_domains_percent_0": 0,
+        "num_external_links": 5,
+        "body_richness": 0.171111111111111,
+        "num_tld_in_url_path": 0,
+        "benevolent_link_mismatch": -1,
+        "num_ip_urls": 0,
+        "5_top_domains_id_3": 0,
+        "text_link_with_path": 4,
+        "camouflage": 0,
+        "5_top_domains_id_2": 0,
+        "ner_domain_detected": false
+    },
+    "html_in_text_plain_count": 0,
+    "extractedSrcUrlsCardinality": 6,
+    "dkStatusDetail": "NOT_SIGNED"
+}

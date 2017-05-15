@@ -1,0 +1,273 @@
+{
+    "ahref_total_count": 4,
+    "spf_dom_policy_registry": "Policy not found",
+    "extractedTxtUrlsDomainCount": 2,
+    "extractedEmails": [],
+    "dkim_signs_cnt": 1,
+    "pepca": "pdedcd6daba5e16c7",
+    "phashes": [
+        {
+            "value": "p3e83c3b48048dadb",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p945fbabfcd20d706",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p82e8745b34220135",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pdedcd6daba5e16c7",
+            "name": "pepca"
+        }
+    ],
+    "ahref_camouflage_count": 2,
+    "extractedHrefUrls": [
+        "http://202.85.146.119:8081/citibusinessonline.da-us.citibank.com.cgi-bin.refresh.g8913b-u99912908662ba.update.db.ls351-srv000129",
+        "http://citibank.com/domain/redirect/footer/citi.htm?BVE=http://citibank.com/citifi/scripts/&M=S&US&_u=visitor",
+        "http://citibank.com/domain/redirect/footer/disclaim.htm?BVE=http://citibank.com"
+    ],
+    "mime_children_count": 5,
+    "spamtrap_hit": false,
+    "pepca_inline_style": "",
+    "date_difference": -352509064,
+    "extractedTxtUrls": [
+        "https://citibusinessonline.da-us.citibank.com/cbusol/signon.do?ao=f",
+        "http://Citi.com"
+    ],
+    "spamscore": 1.1,
+    "subject_image_count": 0,
+    "html_tag_total_count": 81,
+    "header_reply_to_count": 0,
+    "list_unsubscribe_total_count": 0,
+    "header_from_count": 1,
+    "mime_root_type": "multipart/related",
+    "extractedHrefUrlsDomainCount": 2,
+    "pepca_style": "",
+    "pepca_inline_style_total": 0,
+    "phish_score": 0,
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging"
+            ],
+            "score": 1.1
+        }
+    ],
+    "adscore": 0,
+    "senders": {
+        "log_cnt_idf": "",
+        "log_ecnt-w_duc": "",
+        "ettf_w_duc_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "domain": "citi",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "domain_keywords_detail": [
+            {
+                "domain": "citibank",
+                "confidence": 156142558.54293
+            }
+        ],
+        "tf_log_idf_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "citibank",
+        "idf": "",
+        "log_cnt-w_duc_detail": [],
+        "src_revert_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow4_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "plain_domain": "citi",
+        "ttf_w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-pow4_w_duc": "",
+        "cnt-pow_w_duc": "",
+        "src_revert": "",
+        "log_cnt_idf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "log_cnt-pow_w_duc": ""
+    },
+    "content": "CONTENT_DEFAULT",
+    "self_send": 0,
+    "attachments": [
+        {
+            "size": 1600,
+            "name": "zie337.gif",
+            "cid": "001a01c64523$ea4d6370$0401a8c0@francik",
+            "sumphash": "aa61f694c502538552bf22cd863d26d9",
+            "pepca": "p3e83c3b48048dadb",
+            "mime_type": "image/gif",
+            "flags": 0,
+            "cte": "BASE64"
+        },
+        {
+            "size": 719,
+            "name": "buc462.gif",
+            "cid": "001b01c64523$ea4d6370$0401a8c0@francik",
+            "sumphash": "711f4e3cc9b1b8983de5e85aae7fa4a8",
+            "pepca": "p945fbabfcd20d706",
+            "mime_type": "image/gif",
+            "flags": 0,
+            "cte": "BASE64"
+        },
+        {
+            "size": 380,
+            "name": "ynn139.gif",
+            "cid": "001c01c64523$ea4d6370$0401a8c0@francik",
+            "sumphash": "901e171a84acdeab509449503daf07c2",
+            "mime_type": "image/gif",
+            "flags": 0,
+            "cte": "BASE64"
+        },
+        {
+            "size": 1463,
+            "name": "acz094.gif",
+            "cid": "001d01c64523$ea4d6370$0401a8c0@francik",
+            "sumphash": "438c23c83406b2b0af0f729b9bbbb16e",
+            "pepca": "p82e8745b34220135",
+            "mime_type": "image/gif",
+            "flags": 0,
+            "cte": "BASE64"
+        }
+    ],
+    "subject": "Important Citibank Notice REF 689 ",
+    "html_tr_tag_count": 6,
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing2/575.eml",
+    "extractedTxtUrlsTotalCount": 2,
+    "pepcatotal": 0,
+    "spf_status_registry": "Status not found",
+    "last10words": "Citibank Texas N A Member FDIC Citi com Citigroup Privacy Promise Terms Conditions Copyright 2006 Citibank ",
+    "spf_domain_policy": "UNKNOWN",
+    "dkim_hfrom_match": 0,
+    "word_count": 212,
+    "dk_statuses": [
+        {
+            "status": "NEUTRAL",
+            "statusDetail": "NOT_SIGNED"
+        }
+    ],
+    "subject_word_count": 5,
+    "list_unsubscribe_mailto_count": 0,
+    "rcpts_count": 1,
+    "precedence": 3,
+    "now": 1494597862,
+    "rfcid_is_invalid": false,
+    "list_unsubscribe_invalid_count": 0,
+    "dkim_efrom_match": 0,
+    "html_td_tag_count": 8,
+    "rfcid_length": 38,
+    "extractedHrefUrlsTotalCount": 3,
+    "rfcid_is_foreign": 0,
+    "spfstatus_hfrom": "SPF_SOFTFAIL",
+    "list_unsubscribe_http_count": 0,
+    "extractedEmailsTotalCount": 0,
+    "extractedEmailsCardinality": 0,
+    "extractedTxtUrlsCardinality": 2,
+    "ahref_verbal_count": 2,
+    "extractedEmailsDomainCount": 0,
+    "extractedSrcUrls": [
+        "cid:001b01c64523$ea4d6370$0401a8c0@francik",
+        "cid:001a01c64523$ea4d6370$0401a8c0@francik",
+        "cid:001c01c64523$ea4d6370$0401a8c0@francik",
+        "cid:001d01c64523$ea4d6370$0401a8c0@francik"
+    ],
+    "dkim_passed_count": 0,
+    "extractedSrcUrlsTotalCount": 4,
+    "pepca_style_total": 0,
+    "extractedHrefUrlsCardinality": 3,
+    "header_from": "customerservice4@citibank.com",
+    "dkstatus": "NEUTRAL",
+    "first10words": " Citibank Online Access Agreement Dear Citibank customer We are letting you know that you as a Citib",
+    "dkim_count": 0,
+    "spfstatus": "NONE",
+    "header_total_count": 22,
+    "html_script_tag_count": 0,
+    "mime_children_types": [
+        "multipart/alternative",
+        "image/gif",
+        "image/gif",
+        "image/gif",
+        "image/gif"
+    ],
+    "from_match": 0,
+    "extractedSrcUrlsDomainCount": 0,
+    "lang": "en",
+    "phishing": {
+        "5_top_domains_percent_4": 0,
+        "fake_https": 1,
+        "max_num_dots_urls": 15,
+        "num_sender_diff_url": 2,
+        "num_freehost_urls": 0,
+        "num_black_sheep_link_global": -1,
+        "html_form": 0,
+        "subject_richness": 0.135135135135135,
+        "num_non_80_port_urls": 0,
+        "num_phish_keywords": 14,
+        "num_text_forms": 0,
+        "is_html": true,
+        "num_path_phish": 0,
+        "num_black_sheep_link_phish": 0,
+        "num_subdomain_phish": 0,
+        "num_black_sheep_link": -1,
+        "num_html_script_tags": 0,
+        "5_top_domains_percent_3": 0,
+        "1_top_domains_id_0": 0,
+        "suspicious_links": [],
+        "num_param_phish": 0,
+        "subject_phish_keywords": 0,
+        "num_https_urls": 1,
+        "5_top_domains_percent_0": 0,
+        "num_shortened_urls": 0,
+        "max_num_slashes_urls": 7,
+        "num_of_chars": 1283,
+        "num_www_in_url_path": 0,
+        "5_top_domains_percent_1": 0,
+        "5_top_domains_id_1": 0,
+        "argessive_link_mismatch": -1,
+        "num_domain_phish": 0,
+        "5_top_domains_percent_2": 0,
+        "5_top_domains_id_0": 0,
+        "text_and_href": 0,
+        "5_top_domains_id_4": 0,
+        "1_top_domains_percent_0": 0,
+        "num_external_links": 3,
+        "body_richness": 0.165109034267913,
+        "num_tld_in_url_path": 0,
+        "benevolent_link_mismatch": -1,
+        "num_ip_urls": 0,
+        "5_top_domains_id_3": 0,
+        "text_link_with_path": 1,
+        "camouflage": 1,
+        "5_top_domains_id_2": 0,
+        "ner_domain_detected": false
+    },
+    "html_in_text_plain_count": 0,
+    "extractedSrcUrlsCardinality": 4,
+    "dkStatusDetail": "NOT_SIGNED"
+}

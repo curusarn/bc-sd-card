@@ -1,0 +1,286 @@
+{
+    "ahref_total_count": 2,
+    "word_count": 314,
+    "pepca": "p87660f6e84797cba",
+    "extractedEmails": [],
+    "dkim_signs_cnt": 1,
+    "phashes": [
+        {
+            "value": "p9f1d910b25bc487e",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p1bef6c283f33f15d",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pd3d267c0c861d805",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p48f0bcc54b4cb589",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p9b40f67e83adbbf3",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p87660f6e84797cba",
+            "name": "pepca"
+        }
+    ],
+    "ahref_camouflage_count": 0,
+    "extractedHrefUrls": [
+        "http://maps.google.cz/maps?q=Nemanick%C3%A1 436/7, 37010 %C4%8Cesk%C3%A9 Bud%C4%9Bjovice",
+        "http://www.sonet.cz"
+    ],
+    "mime_children_count": 6,
+    "spamtrap_hit": false,
+    "pepca_inline_style": "",
+    "date_difference": -73527766,
+    "spamscore": 1.5,
+    "subject_image_count": 0,
+    "html_tag_total_count": 282,
+    "header_reply_to_count": 0,
+    "list_unsubscribe_total_count": 0,
+    "header_from_count": 1,
+    "mime_root_type": "multipart/mixed",
+    "extractedHrefUrlsDomainCount": 2,
+    "pepca_style": "",
+    "pepca_inline_style_total": 0,
+    "phish_score": 0,
+    "extractedEmailsCardinality": 0,
+    "adscore": 0,
+    "senders": {
+        "log_cnt_idf": "",
+        "log_ecnt-w_duc": "",
+        "ettf_w_duc_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "domain": "sonet",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "domain_keywords_detail": [
+            {
+                "domain": "topsleva",
+                "confidence": 16164338.8117
+            }
+        ],
+        "tf_log_idf_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "topsleva",
+        "idf": "",
+        "log_cnt-w_duc_detail": [],
+        "src_revert_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow4_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "plain_domain": "sonet",
+        "ttf_w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-pow4_w_duc": "",
+        "cnt-pow_w_duc": "",
+        "src_revert": "",
+        "log_cnt_idf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "log_cnt-pow_w_duc": ""
+    },
+    "content": "CONTENT_DEFAULT",
+    "self_send": 0,
+    "attachments": [
+        {
+            "size": 2753,
+            "name": "rb-logo.gif",
+            "cid": "/srv/tomcat/eposman/logo/eba/rb-logo.gif",
+            "sumphash": "e5bcd3da35dd3091efb0e4bb19bc2361",
+            "pepca": "p9f1d910b25bc487e",
+            "mime_type": "image/gif",
+            "flags": 0,
+            "cte": "BASE64"
+        },
+        {
+            "size": 10377,
+            "name": "eposmanlogo_small3.jpg",
+            "cid": "/srv/tomcat/eposman/logo/eba/eposmanlogo_small3.jpg",
+            "sumphash": "208306f37588290400cd6717cb689e37",
+            "pepca": "p1bef6c283f33f15d",
+            "mime_type": "image/jpeg",
+            "flags": 0,
+            "cte": "BASE64"
+        },
+        {
+            "size": 113668,
+            "pepca": "pd3d267c0c861d805",
+            "name": "ATTCH_EBAR15010488_SU.pdf",
+            "first10words": "Protokol o servisnim zasahu Objednavka c EBAO EBAO SoNet spol",
+            "sumphash": "a3440cda2759d34b2ddd6ada03495c6d",
+            "lang": "cs",
+            "mime_type": "application/pdf",
+            "flags": 0,
+            "cte": "BASE64"
+        },
+        {
+            "size": 103983,
+            "pepca": "p48f0bcc54b4cb589",
+            "name": "ATTCH_EBAO15010421_SU.pdf",
+            "first10words": "Objednavka servisniho zasahu Objednavka c EBAO EBAO SoNet spol s",
+            "sumphash": "b3e143ea8d4bbcfc9d67e83d96f8fefb",
+            "lang": "cs",
+            "mime_type": "application/pdf",
+            "flags": 0,
+            "cte": "BASE64"
+        },
+        {
+            "size": 112996,
+            "pepca": "p9b40f67e83adbbf3",
+            "name": "ATTCH_EBAR15010488_TR.pdf",
+            "first10words": "Protokol o skoleni Obsluha platebniho terminalu a akceptace platebnich karet",
+            "sumphash": "3031e6c18fb6c1edc7fb2cfbde89f82a",
+            "lang": "cs",
+            "mime_type": "application/pdf",
+            "flags": 0,
+            "cte": "BASE64"
+        }
+    ],
+    "html_tr_tag_count": 48,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/92096a043fc9356c8e8e1aa19cce13fb.eml.eml",
+    "rfcid_is_foreign": 0,
+    "pepcatotal": 0,
+    "spf_status_registry": "Status not found",
+    "spf_dom_policy_registry": "Policy not found",
+    "spf_domain_policy": "UNKNOWN",
+    "dkim_hfrom_match": 0,
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.5
+            ],
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "long_subject"
+            ],
+            "score": 1.5
+        }
+    ],
+    "dk_statuses": [
+        {
+            "status": "NEUTRAL",
+            "statusDetail": "NOT_SIGNED"
+        }
+    ],
+    "subject_word_count": 14,
+    "list_unsubscribe_mailto_count": 0,
+    "rcpts_count": 1,
+    "precedence": 3,
+    "now": 1494598351,
+    "rfcid_is_invalid": false,
+    "rfcid_length": 50,
+    "list_unsubscribe_invalid_count": 0,
+    "html_td_tag_count": 96,
+    "spfstatus": "NONE",
+    "extractedHrefUrlsTotalCount": 2,
+    "dkStatusDetail": "NOT_SIGNED",
+    "spfstatus_hfrom": "SPF_FAIL",
+    "list_unsubscribe_http_count": 0,
+    "extractedEmailsTotalCount": 0,
+    "dkim_efrom_match": 0,
+    "subject": "Objednavka c EBAO15010421 servisni zasah Obchod kompresory Ceske Budejovice Nemanicka 436 7 ICO 14498553",
+    "ahref_verbal_count": 2,
+    "extractedEmailsDomainCount": 0,
+    "extractedSrcUrls": [
+        "cid:/srv/tomcat/eposman/logo/eba/rb-logo.gif",
+        "cid:/srv/tomcat/eposman/logo/eba/eposmanlogo_small3.jpg"
+    ],
+    "dkim_passed_count": 0,
+    "extractedSrcUrlsTotalCount": 2,
+    "pepca_style_total": 0,
+    "extractedHrefUrlsCardinality": 2,
+    "header_from": "eposman@sonet.cz",
+    "dkstatus": "NEUTRAL",
+    "first10words": " Objednavka c EBAO15010421 servisni zasah Provozovna 2044902507 SLA STA A ",
+    "dkim_count": 0,
+    "header_total_count": 11,
+    "html_script_tag_count": 0,
+    "mime_children_types": [
+        "text/html",
+        "image/gif",
+        "image/jpeg",
+        "application/pdf",
+        "application/pdf",
+        "application/pdf"
+    ],
+    "from_match": 0,
+    "extractedSrcUrlsDomainCount": 0,
+    "lang": "cs",
+    "phishing": {
+        "5_top_domains_percent_4": 0,
+        "fake_https": 0,
+        "max_num_dots_urls": 2,
+        "num_sender_diff_url": 1,
+        "num_freehost_urls": 0,
+        "num_black_sheep_link_global": -1,
+        "html_form": 0,
+        "subject_richness": 0.112,
+        "num_non_80_port_urls": 0,
+        "num_phish_keywords": 0,
+        "num_text_forms": 0,
+        "is_html": true,
+        "num_path_phish": 0,
+        "num_black_sheep_link_phish": 0,
+        "num_subdomain_phish": 0,
+        "num_black_sheep_link": -1,
+        "num_html_script_tags": 0,
+        "5_top_domains_percent_3": 0,
+        "1_top_domains_id_0": 0,
+        "suspicious_links": [],
+        "num_param_phish": 0,
+        "subject_phish_keywords": 0,
+        "num_https_urls": 0,
+        "5_top_domains_percent_0": 0,
+        "num_shortened_urls": 0,
+        "max_num_slashes_urls": 2,
+        "num_of_chars": 859,
+        "num_www_in_url_path": 0,
+        "5_top_domains_percent_1": 0,
+        "5_top_domains_id_1": 0,
+        "argessive_link_mismatch": -1,
+        "num_domain_phish": 0,
+        "5_top_domains_percent_2": 0,
+        "5_top_domains_id_0": 0,
+        "text_and_href": 0,
+        "5_top_domains_id_4": 0,
+        "1_top_domains_percent_0": 0,
+        "num_external_links": 2,
+        "body_richness": 0.365116279069767,
+        "num_tld_in_url_path": 0,
+        "benevolent_link_mismatch": -1,
+        "num_ip_urls": 0,
+        "5_top_domains_id_3": 0,
+        "text_link_with_path": 0,
+        "camouflage": 0,
+        "5_top_domains_id_2": 0,
+        "ner_domain_detected": false
+    },
+    "html_in_text_plain_count": 0,
+    "extractedSrcUrlsCardinality": 2,
+    "last10words": " nastaveno 06B A A 2004 2015 SoNet spol s r o POSMan v1 4 12 1 2015 "
+}

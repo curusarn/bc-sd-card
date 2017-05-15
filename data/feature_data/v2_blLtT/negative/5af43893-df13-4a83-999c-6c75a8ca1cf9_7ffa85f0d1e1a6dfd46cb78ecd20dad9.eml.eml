@@ -1,0 +1,242 @@
+{
+    "ahref_total_count": 24,
+    "word_count": 556,
+    "extractedTxtUrlsDomainCount": 1,
+    "extractedEmails": [
+        "zakaznici@rohlik.cz"
+    ],
+    "dkim_signs_cnt": 2,
+    "pepca": "p9afd2ff433f4f0b6",
+    "pepca_style": "p673d233a39ff8dd1",
+    "phashes": [
+        {
+            "value": "p9afd2ff433f4f0b6",
+            "name": "pepca"
+        },
+        {
+            "value": "p673d233a39ff8dd1",
+            "name": "pepca_style"
+        },
+        {
+            "value": "p2412100f332d832c",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "ahref_camouflage_count": 0,
+    "extractedHrefUrls": [
+        "http://mandrillapp.com/track/click/30281167/www.rohlik.cz?p=eyJzIjoiNV9KZkZrVXJzbEpqQnpNanNvSklSREd0NXRvIiwidiI6MSwicCI6IntcInVc",
+        "http://mandrillapp.com/track/click/30281167/www.rohlik.cz?p=eyJzIjoiNEJDOF9OaU55QUR0SVgzZHBwNll4NjhOS1hvIiwidiI6MSwicCI6IntcInVc",
+        "http://mandrillapp.com/track/click/30281167/www.rohlik.cz?p=eyJzIjoiaHRFaUpWN1lFZ1VSd3dHNDczOHFVb0lVQmkwIiwidiI6MSwicCI6IntcInVc",
+        "http://mandrillapp.com/track/click/30281167/www.rohlik.cz?p=eyJzIjoiYTU3UGFzR0k0ZHBkWHV0aGdQcnkwcUxKUTRZIiwidiI6MSwicCI6IntcInVc",
+        "http://mandrillapp.com/track/click/30281167/www.facebook.com?p=eyJzIjoiUTNEOElRSFRFYVpidllBcE9GYXhIZUdXamxZIiwidiI6MSwicCI6IntcI"
+    ],
+    "mime_children_count": 2,
+    "spamtrap_hit": false,
+    "pepca_inline_style": "p2412100f332d832c",
+    "date_difference": -73698089,
+    "extractedTxtUrls": [
+        "http://Rohlik.cz"
+    ],
+    "spamscore": 1.1,
+    "subject_image_count": 0,
+    "html_tag_total_count": 454,
+    "header_reply_to_count": 0,
+    "list_unsubscribe_total_count": 0,
+    "header_from_count": 1,
+    "mime_root_type": "multipart/alternative",
+    "extractedHrefUrlsDomainCount": 1,
+    "dkdomain": "rohlik.cz",
+    "pepca_inline_style_total": 0,
+    "phish_score": 0,
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "score": 1.1
+        }
+    ],
+    "adscore": 0,
+    "senders": {
+        "log_cnt_idf": "",
+        "log_ecnt-w_duc": "",
+        "ettf_w_duc_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "domain": "rohlik",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "domain_keywords_detail": [
+            {
+                "domain": "danone",
+                "confidence": 19456926.30164
+            }
+        ],
+        "tf_log_idf_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "danone",
+        "idf": "",
+        "log_cnt-w_duc_detail": [],
+        "src_revert_detail": [
+            {
+                "domain": "rohlik",
+                "confidence": 30
+            }
+        ],
+        "log_cnt_idf_log_tidf": "",
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow4_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "plain_domain": "rohlik",
+        "ttf_w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-pow4_w_duc": "",
+        "cnt-pow_w_duc": "",
+        "src_revert": "rohlik",
+        "log_cnt_idf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "log_cnt-pow_w_duc": ""
+    },
+    "content": "CONTENT_DEFAULT",
+    "self_send": 0,
+    "attachments": [],
+    "subject": "Objednavka z Rohlik cz 1004444585",
+    "html_tr_tag_count": 94,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/7ffa85f0d1e1a6dfd46cb78ecd20dad9.eml.eml",
+    "extractedTxtUrlsTotalCount": 1,
+    "pepcatotal": 0,
+    "spf_status_registry": "Status not found",
+    "spf_dom_policy_registry": "Policy not found",
+    "spf_domain_policy": "UNKNOWN",
+    "dkim_hfrom_match": 1,
+    "dk_statuses": [
+        {
+            "selector": "mandrill",
+            "domain": "rohlik.cz",
+            "status": "PASS"
+        },
+        {
+            "selector": "mandrill",
+            "domain": "mandrillapp.com",
+            "status": "PASS"
+        }
+    ],
+    "subject_word_count": 5,
+    "list_unsubscribe_mailto_count": 0,
+    "rcpts_count": 1,
+    "precedence": 3,
+    "now": 1494598330,
+    "rfcid_is_invalid": false,
+    "list_unsubscribe_invalid_count": 0,
+    "dkim_efrom_match": 0,
+    "html_td_tag_count": 200,
+    "rfcid_length": 27,
+    "extractedHrefUrlsTotalCount": 23,
+    "rfcid_is_foreign": 1,
+    "spfstatus_hfrom": "SPF_SOFTFAIL",
+    "list_unsubscribe_http_count": 0,
+    "extractedEmailsTotalCount": 1,
+    "extractedEmailsCardinality": 1,
+    "extractedTxtUrlsCardinality": 1,
+    "ahref_verbal_count": 22,
+    "extractedEmailsDomainCount": 1,
+    "extractedSrcUrls": [
+        "https://www.rohlik.cz/images/email/arrow-right.png",
+        "https://www.rohlik.cz/images/email/ico-fb.png",
+        "https://www.rohlik.cz/images/email/ico-phone.png",
+        "https://www.rohlik.cz/images/email/ico-mail.png",
+        "http://mandrillapp.com/track/open.php?u=30281167&id=2453ebdba8d3486ab8b0e0e405439afc"
+    ],
+    "dkim_passed_count": 2,
+    "dkselector": "mandrill",
+    "extractedSrcUrlsTotalCount": 31,
+    "pepca_style_total": 0,
+    "extractedHrefUrlsCardinality": 23,
+    "header_from": "zakaznici@rohlik.cz",
+    "dkstatus": "PASS",
+    "first10words": " Potvrzeni objednavky 1004444585 Potvrzeni objednavky 1004444585 Karolina Mullerova te",
+    "dkim_count": 2,
+    "spfstatus": "NONE",
+    "header_total_count": 19,
+    "html_script_tag_count": 0,
+    "mime_children_types": [
+        "text/plain",
+        "text/html"
+    ],
+    "from_match": 0,
+    "extractedSrcUrlsDomainCount": 2,
+    "lang": "cs",
+    "phishing": {
+        "5_top_domains_percent_4": 0,
+        "fake_https": 0,
+        "max_num_dots_urls": 3,
+        "num_sender_diff_url": 1,
+        "num_freehost_urls": 0,
+        "num_black_sheep_link_global": -1,
+        "html_form": 0,
+        "subject_richness": 0.138888888888889,
+        "num_non_80_port_urls": 0,
+        "num_phish_keywords": 2,
+        "num_text_forms": 3,
+        "is_html": true,
+        "num_path_phish": 0,
+        "num_black_sheep_link_phish": 0,
+        "num_subdomain_phish": 0,
+        "num_black_sheep_link": -1,
+        "num_html_script_tags": 0,
+        "5_top_domains_percent_3": 0,
+        "1_top_domains_id_0": 0,
+        "suspicious_links": [],
+        "num_param_phish": 0,
+        "subject_phish_keywords": 0,
+        "num_https_urls": 30,
+        "5_top_domains_percent_0": 0,
+        "num_shortened_urls": 0,
+        "max_num_slashes_urls": 4,
+        "num_of_chars": 1724,
+        "num_www_in_url_path": 0,
+        "5_top_domains_percent_1": 0,
+        "5_top_domains_id_1": 0,
+        "argessive_link_mismatch": -1,
+        "num_domain_phish": 0,
+        "5_top_domains_percent_2": 0,
+        "5_top_domains_id_0": 0,
+        "text_and_href": 0,
+        "5_top_domains_id_4": 0,
+        "1_top_domains_percent_0": 0,
+        "num_external_links": 10,
+        "body_richness": 0.32231884057971,
+        "num_tld_in_url_path": 0,
+        "benevolent_link_mismatch": -1,
+        "num_ip_urls": 0,
+        "5_top_domains_id_3": 0,
+        "text_link_with_path": 0,
+        "camouflage": 0,
+        "5_top_domains_id_2": 0,
+        "ner_domain_detected": false
+    },
+    "html_in_text_plain_count": 7,
+    "extractedSrcUrlsCardinality": 31,
+    "last10words": "ail se snazime odpovidat okamzite 2014 Rohlik cz jakoukoli vasi zpetnou vazbu radi uvitame na zakaznici rohlik cz "
+}

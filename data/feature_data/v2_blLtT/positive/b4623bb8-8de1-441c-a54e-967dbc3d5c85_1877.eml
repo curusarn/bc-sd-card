@@ -1,0 +1,275 @@
+{
+    "word_count": 303,
+    "extractedTxtUrlsDomainCount": 1,
+    "extractedEmails": [],
+    "spf_domain_policy": "UNKNOWN",
+    "mime_children_count": 0,
+    "pepca_inline_style": "",
+    "extractedTxtUrls": [
+        "https://www.paypal.com/cgi-bin/webscr?cmd=_login-run"
+    ],
+    "subject_image_count": 0,
+    "header_reply_to_count": 0,
+    "list_unsubscribe_total_count": 0,
+    "header_from_count": 1,
+    "mime_root_type": "text/html",
+    "html_in_text_plain_count": 0,
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging"
+            ],
+            "score": 1.1
+        }
+    ],
+    "adscore": 0,
+    "domainstat": {},
+    "content": "CONTENT_DEFAULT",
+    "dmarc_status": {},
+    "html_tr_tag_count": 6,
+    "extractedTxtUrlsTotalCount": 1,
+    "subject_word_count": 7,
+    "extractedSrcUrls": [
+        "http://images.paypal.com/en_US/i/logo/email_logo.gif",
+        "http://images.paypal.com/images/pixel.gif"
+    ],
+    "rcpts_count": 1,
+    "precedence": 3,
+    "now": 1494597898,
+    "dkim_passed_count": 0,
+    "rfcid_length": 40,
+    "extractedEmailsCardinality": 0,
+    "html_td_tag_count": 6,
+    "list_unsubscribe_http_count": 0,
+    "phashes": [
+        {
+            "value": "p3d14629fab1aa8f3",
+            "name": "pepca"
+        },
+        {
+            "value": "p86439fddc7707fb9",
+            "name": "pepca_style"
+        }
+    ],
+    "extractedEmailsDomainCount": 0,
+    "pepcatotal": 5,
+    "pepca_style": "p86439fddc7707fb9",
+    "extractedHrefUrlsCardinality": 2,
+    "universalprobes": [
+        {
+            "value": "1",
+            "key": "ps-from_mismatch"
+        },
+        {
+            "value": "['security', 'account', 'security', 'fraud', 'account', 'account', 'user', 'account', 'access', 'account', 'account', 'access', 'secure', 'account', 'access', 'information', 'account', 'account', 'confirm', 'information', 'account', 'access', 'account', 'access', 'account', 'account', 'information', 'account', 'security']",
+            "key": "ps-phish_keyword"
+        },
+        {
+            "value": "['update', 'information']",
+            "key": "ps-subject_phish_keyword"
+        },
+        {
+            "value": "Url(norm=http://203.85.107.4/Paypal/cgi-bin/webscrcmd=_login-run/updates-paypal/index.html, source=None) | Url(norm=https://www.paypal.com/cgi-bin/webscr?cmd=_login-run, source=txt)",
+            "key": "ps-camouflaged_href"
+        },
+        {
+            "value": "1",
+            "key": "ps-html_a_href_camouflaging"
+        },
+        {
+            "value": "[]",
+            "key": "ps-most-suspicious-links"
+        },
+        {
+            "value": "1",
+            "key": "ps-phishing"
+        }
+    ],
+    "theme": {},
+    "phNotches": [
+        {
+            "subscores": [
+                1,
+                0.5,
+                0.0,
+                0.0,
+                1,
+                8
+            ],
+            "module": "phish-score",
+            "name": [
+                "from_mismatch",
+                "phisheable",
+                "phish_keyword",
+                "subject_phish_keyword",
+                "html_a_href_camouflaging",
+                "phishing"
+            ],
+            "score": 10.5
+        }
+    ],
+    "domainstat_themes": {},
+    "subject": "Please Update Your Profile Personal Information Error ",
+    "extractedSrcUrlsCardinality": 2,
+    "last10words": "ate your assistance in helping us to maintain the integrity of the entire PayPal system Thank you for using PayPal The PayPal Team ",
+    "ahref_total_count": 1,
+    "header_from": "service@paypal.com",
+    "dkim_signs_cnt": 1,
+    "ahref_camouflage_count": 1,
+    "extractedHrefUrls": [
+        "https://www.paypal.com/us",
+        "http://203.85.107.4/Paypal/cgi-bin/webscrcmd=_login-run/updates-paypal/index.html"
+    ],
+    "spamscore": 1.1,
+    "date_difference": -317183272,
+    "spamtrap_hit": false,
+    "html_tag_total_count": 62,
+    "extractedHrefUrlsDomainCount": 2,
+    "phish_score": 15,
+    "senders": {
+        "log_cnt_idf": "",
+        "log_ecnt-w_duc": "",
+        "ettf_w_duc_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "plain_domain_detail": [],
+        "log_ecnt_log_idf_log_tidf": "",
+        "domain_keywords_detail": [
+            {
+                "domain": "paypal",
+                "confidence": 1216302073.59619
+            }
+        ],
+        "tf_log_idf_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "paypal",
+        "idf": "",
+        "log_cnt-w_duc_detail": [],
+        "src_revert_detail": [
+            {
+                "domain": "paypal",
+                "confidence": 2
+            }
+        ],
+        "log_cnt_idf_log_tidf": "",
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow4_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "plain_domain": "",
+        "ttf_w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-pow4_w_duc": "",
+        "cnt-pow_w_duc": "",
+        "src_revert": "paypal",
+        "log_cnt_idf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "log_cnt-pow_w_duc": ""
+    },
+    "attachments": [],
+    "unsub_link": {},
+    "email_path": "/mfs/replicated/datasets/phishing/DATASET/eml/public_phishing/phishing3/1877.eml",
+    "rfcid_is_foreign": 0,
+    "spf_status_registry": "Status not found",
+    "spf_dom_policy_registry": "Policy not found",
+    "dkim_hfrom_match": 0,
+    "dk_statuses": [
+        {
+            "status": "NEUTRAL",
+            "statusDetail": "NOT_SIGNED"
+        }
+    ],
+    "list_unsubscribe_invalid_count": 0,
+    "pepca_style_total": 6,
+    "spfstatus": "NONE",
+    "extractedHrefUrlsTotalCount": 2,
+    "spfstatus_hfrom": "SPF_SOFTFAIL",
+    "extractedEmailsTotalCount": 0,
+    "pepca_inline_style_total": 0,
+    "extractedTxtUrlsCardinality": 1,
+    "ahref_verbal_count": 0,
+    "list_unsubscribe_mailto_count": 0,
+    "rfcid_is_invalid": false,
+    "extractedSrcUrlsTotalCount": 2,
+    "pepca": "p3d14629fab1aa8f3",
+    "dkstatus": "NEUTRAL",
+    "dkim_efrom_match": 0,
+    "self_send": 0,
+    "dkim_count": 0,
+    "header_total_count": 18,
+    "html_script_tag_count": 0,
+    "mime_children_types": [],
+    "from_match": 0,
+    "extractedSrcUrlsDomainCount": 1,
+    "lang": "en",
+    "phishing": {
+        "5_top_domains_percent_4": 0,
+        "fake_https": 1,
+        "max_num_dots_urls": 4,
+        "num_sender_diff_url": 1,
+        "num_freehost_urls": 0,
+        "num_subject_phish_keywords": 2,
+        "num_black_sheep_link_global": -1,
+        "html_form": 0,
+        "subject_richness": 0.120689655172414,
+        "num_non_80_port_urls": 0,
+        "num_phish_keywords": 29,
+        "num_text_forms": 3,
+        "is_html": true,
+        "num_path_phish": 0,
+        "num_black_sheep_link_phish": 0,
+        "num_subdomain_phish": 0,
+        "num_black_sheep_link": -1,
+        "num_html_script_tags": 0,
+        "5_top_domains_percent_3": 0,
+        "1_top_domains_id_0": 0,
+        "suspicious_links": [],
+        "num_attachments": 0,
+        "num_param_phish": 0,
+        "subject_phish_keywords": 2,
+        "num_https_urls": 2,
+        "5_top_domains_percent_0": 1.0,
+        "num_shortened_urls": 0,
+        "max_num_slashes_urls": 5,
+        "num_of_chars": 1839,
+        "num_www_in_url_path": 0,
+        "5_top_domains_percent_1": 0,
+        "5_top_domains_id_1": 0,
+        "argessive_link_mismatch": 1,
+        "num_domain_phish": 0,
+        "5_top_domains_percent_2": 0,
+        "5_top_domains_id_0": 0,
+        "href_camouflaging": true,
+        "text_and_href": 0,
+        "5_top_domains_id_4": 0,
+        "1_top_domains_percent_0": 1.0,
+        "num_external_links": 4,
+        "body_richness": 0.164673913043478,
+        "num_tld_in_url_path": 0,
+        "benevolent_link_mismatch": 1,
+        "num_ip_urls": 0,
+        "5_top_domains_id_3": 0,
+        "text_link_with_path": 1,
+        "camouflage": 1,
+        "5_top_domains_id_2": 0,
+        "ner_domain_detected": true
+    },
+    "first10words": " PayPal PayPal is committed to maintaining a safe environment for its community of customers To protect the security of you",
+    "dkStatusDetail": "NOT_SIGNED"
+}

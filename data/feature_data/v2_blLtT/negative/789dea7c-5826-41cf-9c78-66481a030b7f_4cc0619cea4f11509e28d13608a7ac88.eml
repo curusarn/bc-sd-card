@@ -1,0 +1,319 @@
+{
+    "ahref_total_count": 6,
+    "spf_dom_policy_registry": "Policy not found",
+    "extractedTxtUrlsDomainCount": 4,
+    "extractedEmails": [
+        "frantisek.vlc@seznam.cz"
+    ],
+    "dkim_signs_cnt": 1,
+    "pepca": "p3c3366fd2d9de8cd",
+    "phashes": [
+        {
+            "value": "p02cdc0f6ca87c5f4",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pbe3ed8b5d5a9a187",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p72e78b68a89d4eff",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p4595638a255a546f",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p3c3366fd2d9de8cd",
+            "name": "pepca"
+        },
+        {
+            "value": "p9b70a410d6032b24",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "ahref_camouflage_count": 1,
+    "extractedHrefUrls": [
+        "http://www.seminka-chilli.cz",
+        "http://www.seminka-chilli.cz/klientske-centrum/nove-heslo?id=5b6bf0b8342308bb575c38d57fd153f5&address=frantisek.vlc@seznam.cz",
+        "http://www.chilli-forum.cz",
+        "http://cs-cz.facebook.com/pages/Seminka-chillicz/189771637770749",
+        "http://www.estudio.cz"
+    ],
+    "mime_children_count": 2,
+    "spamtrap_hit": false,
+    "pepca_inline_style": "p9b70a410d6032b24",
+    "date_difference": -79727944,
+    "extractedTxtUrls": [
+        "http://www.chilli-forum.cz",
+        "http://nka-Chilli.cz",
+        "http://seminka-chilli.cz",
+        "http://nka-chilli.cz",
+        "http://eStudio.cz"
+    ],
+    "spamscore": 1.2,
+    "subject_image_count": 0,
+    "html_tag_total_count": 141,
+    "header_reply_to_count": 1,
+    "list_unsubscribe_total_count": 0,
+    "header_from_count": 1,
+    "mime_root_type": "multipart/alternative",
+    "extractedHrefUrlsDomainCount": 4,
+    "pepca_style": "",
+    "pepca_inline_style_total": 1,
+    "phish_score": 0,
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1,
+                0.1
+            ],
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging",
+                "foreign_message_id"
+            ],
+            "score": 1.2
+        }
+    ],
+    "adscore": 0,
+    "senders": {
+        "log_cnt_idf": "",
+        "log_ecnt-w_duc": "",
+        "ettf_w_duc_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "domain": "seminka-chilli",
+                "confidence": 2
+            },
+            {
+                "domain": "estudio",
+                "confidence": 2
+            },
+            {
+                "domain": "nka-chilli",
+                "confidence": 2
+            },
+            {
+                "domain": "chilli-forum",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "domain_keywords_detail": [
+            {
+                "domain": "seminka-chilli",
+                "confidence": 22230076.930588
+            }
+        ],
+        "tf_log_idf_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "seminka-chilli",
+        "idf": "",
+        "log_cnt-w_duc_detail": [],
+        "src_revert_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow4_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "plain_domain": "seminka-chilli",
+        "ttf_w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-pow4_w_duc": "",
+        "cnt-pow_w_duc": "",
+        "src_revert": "",
+        "log_cnt_idf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "log_cnt-pow_w_duc": ""
+    },
+    "content": "CONTENT_DEFAULT",
+    "self_send": 0,
+    "attachments": [
+        {
+            "size": 10374,
+            "name": "chilli-rx-header.gif",
+            "cid": "bff5c3075f243340a70477fdbbe87c6d",
+            "sumphash": "f82bd081af0b2bf7e0a499a13006167a",
+            "pepca": "p02cdc0f6ca87c5f4",
+            "mime_type": "image/gif",
+            "flags": 0,
+            "cte": "BASE64"
+        },
+        {
+            "size": 43,
+            "name": "sp.gif",
+            "cid": "a18e5c2e0b7cf4a7fbe9b46b9fb799e7",
+            "sumphash": "a178fb8ca4d65d2328e77e2251f2c52a",
+            "mime_type": "image/gif",
+            "flags": 0,
+            "cte": "BASE64"
+        },
+        {
+            "size": 2789,
+            "name": "chilli-rx-shadow.gif",
+            "cid": "8555430ee0bc1a93ee7b7c746c9ecfed",
+            "sumphash": "4c58f89a9b615c66d8435dee66da16fe",
+            "pepca": "pbe3ed8b5d5a9a187",
+            "mime_type": "image/gif",
+            "flags": 0,
+            "cte": "BASE64"
+        },
+        {
+            "size": 1710,
+            "name": "chilli-rx-footer-lg.gif",
+            "cid": "ba34ff1bdf9af49ac9ebf631d1987ea9",
+            "sumphash": "0c306ee84d899b73d2fc802b96036469",
+            "pepca": "p72e78b68a89d4eff",
+            "mime_type": "image/gif",
+            "flags": 0,
+            "cte": "BASE64"
+        },
+        {
+            "size": 2347,
+            "name": "chilli-rx-footer-fb.gif",
+            "cid": "d3051c7551ec71cd70c9b494fbd52501",
+            "sumphash": "7e5f148117f1de36460770969821b9b5",
+            "pepca": "p4595638a255a546f",
+            "mime_type": "image/gif",
+            "flags": 0,
+            "cte": "BASE64"
+        },
+        {
+            "size": 259,
+            "name": "chilli-rx-footer-line.gif",
+            "cid": "d6da6fe9d09f4b2e785d00406f63ce40",
+            "sumphash": "1af953e485946a844f589be72edf7f67",
+            "mime_type": "image/gif",
+            "flags": 0,
+            "cte": "BASE64"
+        }
+    ],
+    "subject": "Reset hesla zakaznika",
+    "html_tr_tag_count": 24,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/4cc0619cea4f11509e28d13608a7ac88.eml",
+    "extractedTxtUrlsTotalCount": 5,
+    "pepcatotal": 1,
+    "spf_status_registry": "Status not found",
+    "last10words": "cek www chilli forum cz 2013 Seminka chilli cz design a tvorba eStudio cz ",
+    "spf_domain_policy": "UNKNOWN",
+    "dkim_hfrom_match": 0,
+    "word_count": 171,
+    "dk_statuses": [
+        {
+            "status": "NEUTRAL",
+            "statusDetail": "NOT_SIGNED"
+        }
+    ],
+    "subject_word_count": 3,
+    "list_unsubscribe_mailto_count": 0,
+    "rcpts_count": 1,
+    "precedence": 3,
+    "now": 1494598262,
+    "rfcid_is_invalid": false,
+    "list_unsubscribe_invalid_count": 0,
+    "dkim_efrom_match": 0,
+    "html_td_tag_count": 46,
+    "rfcid_length": 54,
+    "extractedHrefUrlsTotalCount": 5,
+    "rfcid_is_foreign": 1,
+    "spfstatus_hfrom": "SPF_NONE",
+    "list_unsubscribe_http_count": 0,
+    "extractedEmailsTotalCount": 1,
+    "extractedEmailsCardinality": 1,
+    "extractedTxtUrlsCardinality": 5,
+    "ahref_verbal_count": 2,
+    "extractedEmailsDomainCount": 1,
+    "extractedSrcUrls": [
+        "cid:a18e5c2e0b7cf4a7fbe9b46b9fb799e7",
+        "cid:8555430ee0bc1a93ee7b7c746c9ecfed",
+        "cid:ba34ff1bdf9af49ac9ebf631d1987ea9",
+        "cid:d3051c7551ec71cd70c9b494fbd52501",
+        "cid:d6da6fe9d09f4b2e785d00406f63ce40"
+    ],
+    "dkim_passed_count": 0,
+    "extractedSrcUrlsTotalCount": 6,
+    "pepca_style_total": 0,
+    "extractedHrefUrlsCardinality": 5,
+    "header_from": "info@seminka-chilli.cz",
+    "dkstatus": "NEUTRAL",
+    "first10words": " Reset hesla zakaznika Vazeny zakazniku Pro Vasi e mailovou adresu frantisek vlc seznam cz byl",
+    "dkim_count": 0,
+    "spfstatus": "NONE",
+    "header_total_count": 13,
+    "html_script_tag_count": 0,
+    "mime_children_types": [
+        "text/plain",
+        "multipart/related"
+    ],
+    "from_match": 0,
+    "extractedSrcUrlsDomainCount": 0,
+    "lang": "cs",
+    "phishing": {
+        "5_top_domains_percent_4": 0,
+        "fake_https": 0,
+        "max_num_dots_urls": 4,
+        "num_sender_diff_url": 4,
+        "num_freehost_urls": 0,
+        "num_black_sheep_link_global": -1,
+        "html_form": 0,
+        "subject_richness": 0.125,
+        "num_non_80_port_urls": 0,
+        "num_phish_keywords": 5,
+        "num_text_forms": 1,
+        "is_html": true,
+        "num_path_phish": 0,
+        "num_black_sheep_link_phish": 0,
+        "num_subdomain_phish": 0,
+        "num_black_sheep_link": -1,
+        "num_html_script_tags": 0,
+        "5_top_domains_percent_3": 0,
+        "1_top_domains_id_0": 0,
+        "suspicious_links": [],
+        "num_param_phish": 0,
+        "subject_phish_keywords": 1,
+        "num_https_urls": 0,
+        "5_top_domains_percent_0": 0,
+        "num_shortened_urls": 0,
+        "max_num_slashes_urls": 3,
+        "num_of_chars": 669,
+        "num_www_in_url_path": 0,
+        "5_top_domains_percent_1": 0,
+        "5_top_domains_id_1": 0,
+        "argessive_link_mismatch": -1,
+        "num_domain_phish": 0,
+        "5_top_domains_percent_2": 0,
+        "5_top_domains_id_0": 0,
+        "text_and_href": 1,
+        "5_top_domains_id_4": 0,
+        "1_top_domains_percent_0": 0,
+        "num_external_links": 5,
+        "body_richness": 0.255223880597015,
+        "num_tld_in_url_path": 0,
+        "benevolent_link_mismatch": -1,
+        "num_ip_urls": 0,
+        "5_top_domains_id_3": 0,
+        "text_link_with_path": 0,
+        "camouflage": 1,
+        "5_top_domains_id_2": 0,
+        "ner_domain_detected": false
+    },
+    "html_in_text_plain_count": 0,
+    "extractedSrcUrlsCardinality": 6,
+    "dkStatusDetail": "NOT_SIGNED"
+}

@@ -1,0 +1,274 @@
+{
+    "ahref_total_count": 2,
+    "spf_dom_policy_registry": "Policy not found",
+    "extractedTxtUrlsDomainCount": 2,
+    "extractedEmails": [
+        "info@nakupnicentrum.cz",
+        "hoskova.petra@seznam.cz"
+    ],
+    "dkim_signs_cnt": 1,
+    "pepca": "p2fe86227a53ead74",
+    "phashes": [
+        {
+            "value": "p82ca1cf7b225fe58",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p7b379020d3bd6849",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p2fe86227a53ead74",
+            "name": "pepca"
+        },
+        {
+            "value": "p5e9e73171ea4605d",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "ahref_camouflage_count": 0,
+    "extractedHrefUrls": [
+        "http://www.nakupnicentrum.cz/panska-kozena-penezenka-dolarovka-black-1999-t.html",
+        "http://www.facebook.com/Nakupnicentrum.cz",
+        "http://www.nakupnicentrum.cz/reference/",
+        "http://www.vivantis.cz/oceneni-a-certifikaty",
+        "http://www.vivantis.cz"
+    ],
+    "mime_children_count": 3,
+    "spamtrap_hit": false,
+    "pepca_inline_style": "p5e9e73171ea4605d",
+    "date_difference": -75957918,
+    "extractedTxtUrls": [
+        "http://nakupnicentrum.cz",
+        "http://modnidoplnky.cz",
+        "http://nakupnicentrum.cz."
+    ],
+    "spamscore": 1.1,
+    "subject_image_count": 0,
+    "html_tag_total_count": 221,
+    "header_reply_to_count": 1,
+    "list_unsubscribe_total_count": 0,
+    "header_from_count": 1,
+    "mime_root_type": "multipart/mixed",
+    "extractedHrefUrlsDomainCount": 3,
+    "pepca_style": "",
+    "pepca_inline_style_total": 0,
+    "phish_score": 0,
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "score": 1.1
+        }
+    ],
+    "adscore": 0,
+    "senders": {
+        "log_cnt_idf": "",
+        "log_ecnt-w_duc": "",
+        "ettf_w_duc_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "domain": "nakupnicentrum",
+                "confidence": 3
+            },
+            {
+                "domain": "vivantis",
+                "confidence": 1
+            },
+            {
+                "domain": "modnidoplnky",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "domain_keywords_detail": [
+            {
+                "domain": "vshosting",
+                "confidence": 56780053.3061121
+            }
+        ],
+        "tf_log_idf_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "vshosting",
+        "idf": "",
+        "log_cnt-w_duc_detail": [],
+        "src_revert_detail": [
+            {
+                "domain": "parfemy",
+                "confidence": 5
+            }
+        ],
+        "log_cnt_idf_log_tidf": "",
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow4_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "plain_domain": "nakupnicentrum",
+        "ttf_w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-pow4_w_duc": "",
+        "cnt-pow_w_duc": "",
+        "src_revert": "parfemy",
+        "log_cnt_idf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "log_cnt-pow_w_duc": ""
+    },
+    "content": "CONTENT_DEFAULT",
+    "self_send": 0,
+    "attachments": [
+        {
+            "size": 59386,
+            "pepca": "p82ca1cf7b225fe58",
+            "name": "VIVANTIS_Obchodni_podminky_2014.pdf",
+            "first10words": "OBCHODNI PODMINKY spolecnosti VIVANTIS a s OBECNA USTANOVENI Tyto obchodni",
+            "sumphash": "a326ef3ef92dbc5b4b53c71f49d535cf",
+            "lang": "cs",
+            "mime_type": "application/pdf",
+            "flags": 0,
+            "cte": "BASE64"
+        },
+        {
+            "size": 12800,
+            "pepca": "p7b379020d3bd6849",
+            "name": "VIVANTIS_Odstoupeni_od_smlouvy_2014.xls",
+            "first10words": "List Formular pro odstoupeni od kupni smlouvy Vyplnte prosim tento",
+            "sumphash": "45b7d08f2c4d6c8de63666d742609d7b",
+            "lang": "cs",
+            "mime_type": "application/vnd.ms-excel",
+            "flags": 0,
+            "cte": "BASE64"
+        }
+    ],
+    "subject": "objednavka z nakupnicentrum cz",
+    "html_tr_tag_count": 30,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/ff9b35aa597001b77475c48b438987f2.eml",
+    "extractedTxtUrlsTotalCount": 3,
+    "pepcatotal": 0,
+    "spf_status_registry": "Status not found",
+    "last10words": "jte nas na facebooku VIVANTIS a s Skolni namesti 14 537 01 Chrudim II ICO 25977687 DIC CZ25977687 ",
+    "spf_domain_policy": "UNKNOWN",
+    "dkim_hfrom_match": 0,
+    "word_count": 349,
+    "dk_statuses": [
+        {
+            "status": "NEUTRAL",
+            "statusDetail": "NOT_SIGNED"
+        }
+    ],
+    "subject_word_count": 4,
+    "list_unsubscribe_mailto_count": 0,
+    "rcpts_count": 1,
+    "precedence": 3,
+    "now": 1494598433,
+    "rfcid_is_invalid": false,
+    "list_unsubscribe_invalid_count": 0,
+    "dkim_efrom_match": 0,
+    "html_td_tag_count": 58,
+    "rfcid_length": 49,
+    "extractedHrefUrlsTotalCount": 6,
+    "rfcid_is_foreign": 1,
+    "spfstatus_hfrom": "SPF_ERR",
+    "list_unsubscribe_http_count": 0,
+    "extractedEmailsTotalCount": 2,
+    "extractedEmailsCardinality": 2,
+    "extractedTxtUrlsCardinality": 3,
+    "ahref_verbal_count": 1,
+    "extractedEmailsDomainCount": 2,
+    "extractedSrcUrls": [
+        "http://www.vivantis.cz/share/v3_mail/logo-nakupnicentrum.cz.png",
+        "http://www.vivantis.cz/share/v3_mail/fbLikeBtn.png",
+        "http://www.vivantis.cz/share/v3_mail/heureka-nakupnicentrum.cz.jpg",
+        "http://www.vivantis.cz/share/v3_mail/cert-nakupnicentrum.cz.jpg",
+        "http://www.vivantis.cz/share/v3_mail/loga-nakupnicentrum.cz.jpg"
+    ],
+    "dkim_passed_count": 0,
+    "extractedSrcUrlsTotalCount": 5,
+    "pepca_style_total": 0,
+    "extractedHrefUrlsCardinality": 6,
+    "header_from": "info@nakupnicentrum.cz",
+    "dkstatus": "NEUTRAL",
+    "first10words": " Prijeti objednavky Prijali jsme Vasi objednavku cislo 5540396810 dne 15 12 2014 v 18 00 Vazeny zaka",
+    "dkim_count": 0,
+    "spfstatus": "NONE",
+    "header_total_count": 14,
+    "html_script_tag_count": 0,
+    "mime_children_types": [
+        "multipart/alternative",
+        "application/pdf",
+        "application/vnd.ms-excel"
+    ],
+    "from_match": 0,
+    "extractedSrcUrlsDomainCount": 1,
+    "lang": "cs",
+    "phishing": {
+        "5_top_domains_percent_4": 0,
+        "fake_https": 0,
+        "max_num_dots_urls": 3,
+        "num_sender_diff_url": 3,
+        "num_freehost_urls": 0,
+        "num_black_sheep_link_global": -1,
+        "html_form": 0,
+        "subject_richness": 0.125,
+        "num_non_80_port_urls": 0,
+        "num_phish_keywords": 5,
+        "num_text_forms": 6,
+        "is_html": true,
+        "num_path_phish": 0,
+        "num_black_sheep_link_phish": 0,
+        "num_subdomain_phish": 0,
+        "num_black_sheep_link": -1,
+        "num_html_script_tags": 0,
+        "5_top_domains_percent_3": 0,
+        "1_top_domains_id_0": 0,
+        "suspicious_links": [],
+        "num_param_phish": 0,
+        "subject_phish_keywords": 0,
+        "num_https_urls": 0,
+        "5_top_domains_percent_0": 1.0,
+        "num_shortened_urls": 0,
+        "max_num_slashes_urls": 2,
+        "num_of_chars": 2085,
+        "num_www_in_url_path": 0,
+        "5_top_domains_percent_1": 0,
+        "5_top_domains_id_1": 0,
+        "argessive_link_mismatch": 1,
+        "num_domain_phish": 0,
+        "5_top_domains_percent_2": 0,
+        "5_top_domains_id_0": 0,
+        "text_and_href": 0,
+        "5_top_domains_id_4": 0,
+        "1_top_domains_percent_0": 1.0,
+        "num_external_links": 10,
+        "body_richness": 0.167305848513902,
+        "num_tld_in_url_path": 0,
+        "benevolent_link_mismatch": 1,
+        "num_ip_urls": 0,
+        "5_top_domains_id_3": 0,
+        "text_link_with_path": 0,
+        "camouflage": 0,
+        "5_top_domains_id_2": 0,
+        "ner_domain_detected": true
+    },
+    "html_in_text_plain_count": 0,
+    "extractedSrcUrlsCardinality": 5,
+    "dkStatusDetail": "NOT_SIGNED"
+}

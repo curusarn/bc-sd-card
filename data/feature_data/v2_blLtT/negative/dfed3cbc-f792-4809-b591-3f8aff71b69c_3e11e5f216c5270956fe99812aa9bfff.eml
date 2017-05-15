@@ -1,0 +1,281 @@
+{
+    "ahref_total_count": 22,
+    "spf_dom_policy_registry": "Policy not found",
+    "extractedTxtUrlsDomainCount": 1,
+    "extractedEmails": [
+        "michal.kucera@haba-sro.cz",
+        "info@haba-sro.cz",
+        "Michal.Kucera@haba-sro.cz",
+        "smerdakovo@seznam.cz"
+    ],
+    "dkim_signs_cnt": 1,
+    "pepca": "p9bc88f03e8399262",
+    "phashes": [
+        {
+            "value": "p2fe656795a0c6472",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p2fe656795a0c6472",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p9f78c33a2d4da198",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p29f30c200b43d60d",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p9bc88f03e8399262",
+            "name": "pepca"
+        },
+        {
+            "value": "pdda9d840ce0cc217",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "ahref_camouflage_count": 0,
+    "extractedHrefUrls": [
+        "http://www.haba-sro.cz/",
+        "http://www.haba-sro.cz"
+    ],
+    "mime_children_count": 3,
+    "spamtrap_hit": false,
+    "pepca_inline_style": "pdda9d840ce0cc217",
+    "date_difference": -75957801,
+    "extractedTxtUrls": [
+        "http://www.haba-sro.cz"
+    ],
+    "spamscore": 1,
+    "subject_image_count": 0,
+    "html_tag_total_count": 790,
+    "header_reply_to_count": 0,
+    "list_unsubscribe_total_count": 0,
+    "header_from_count": 1,
+    "mime_root_type": "multipart/mixed",
+    "extractedHrefUrlsDomainCount": 1,
+    "pepca_style": "",
+    "pepca_inline_style_total": 0,
+    "phish_score": 0,
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "score": 1
+        }
+    ],
+    "adscore": 0,
+    "senders": {
+        "log_cnt_idf": "",
+        "log_ecnt-w_duc": "",
+        "ettf_w_duc_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "domain": "haba-sro",
+                "confidence": 2
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "domain_keywords_detail": [
+            {
+                "domain": "jobdnes",
+                "confidence": 47452194.62784
+            }
+        ],
+        "tf_log_idf_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "jobdnes",
+        "idf": "",
+        "log_cnt-w_duc_detail": [],
+        "src_revert_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow4_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "plain_domain": "haba-sro",
+        "ttf_w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-pow4_w_duc": "",
+        "cnt-pow_w_duc": "",
+        "src_revert": "",
+        "log_cnt_idf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "log_cnt-pow_w_duc": ""
+    },
+    "content": "CONTENT_DEFAULT",
+    "self_send": 0,
+    "attachments": [
+        {
+            "size": 191,
+            "name": "image002.png",
+            "cid": "image002.png@01D0185C.E1468F20",
+            "sumphash": "bf358561d77bb0d469cd1c596e6429a5",
+            "pepca": "p2fe656795a0c6472",
+            "mime_type": "image/png",
+            "flags": 0,
+            "cte": "BASE64"
+        },
+        {
+            "size": 191,
+            "name": "image003.png",
+            "cid": "image003.png@01D0185C.E1468F20",
+            "sumphash": "bf358561d77bb0d469cd1c596e6429a5",
+            "pepca": "p2fe656795a0c6472",
+            "mime_type": "image/png",
+            "flags": 0,
+            "cte": "BASE64"
+        },
+        {
+            "size": 59392,
+            "pepca": "p9f78c33a2d4da198",
+            "name": "Kovo \u0161merda s.r.o. objedn\u00e1vka 5-2014.doc",
+            "first10words": "Objednavka c Dodavatel KOVO Smerda s r o Rousinov Vitovice",
+            "sumphash": "72134cd58ff7269045d52e285571a214",
+            "lang": "cs",
+            "mime_type": "application/msword",
+            "flags": 0,
+            "cte": "BASE64"
+        },
+        {
+            "size": 54784,
+            "pepca": "p29f30c200b43d60d",
+            "name": "Kovo \u0161merda s.r.o. dodac\u00ed list 5-2014.doc",
+            "first10words": "Dodaci list c Dodavatel KOVO Smerda s r o Rousinov",
+            "sumphash": "a39fe1cb354dc20c0ad93c907b40f01a",
+            "lang": "cs",
+            "mime_type": "application/msword",
+            "flags": 0,
+            "cte": "BASE64"
+        }
+    ],
+    "subject": "objednavka 5 2014",
+    "html_tr_tag_count": 4,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/3e11e5f216c5270956fe99812aa9bfff.eml",
+    "extractedTxtUrlsTotalCount": 1,
+    "pepcatotal": 0,
+    "spf_status_registry": "Status not found",
+    "last10words": "CZ 67167 Hrusovany nad Jevisovkou E Mail michal kucera haba sro cz E Mail info haba sro cz Internet www haba sro cz ",
+    "spf_domain_policy": "UNKNOWN",
+    "dkim_hfrom_match": 0,
+    "word_count": 744,
+    "dk_statuses": [
+        {
+            "status": "NEUTRAL",
+            "statusDetail": "NOT_SIGNED"
+        }
+    ],
+    "subject_word_count": 3,
+    "list_unsubscribe_mailto_count": 0,
+    "rcpts_count": 1,
+    "precedence": 3,
+    "now": 1494598241,
+    "rfcid_is_invalid": false,
+    "list_unsubscribe_invalid_count": 0,
+    "dkim_efrom_match": 0,
+    "html_td_tag_count": 12,
+    "rfcid_length": 78,
+    "extractedHrefUrlsTotalCount": 2,
+    "rfcid_is_foreign": 0,
+    "spfstatus_hfrom": "SPF_FAIL",
+    "list_unsubscribe_http_count": 0,
+    "extractedEmailsTotalCount": 4,
+    "extractedEmailsCardinality": 4,
+    "extractedTxtUrlsCardinality": 1,
+    "ahref_verbal_count": 0,
+    "extractedEmailsDomainCount": 2,
+    "extractedSrcUrls": [
+        "cid:image002.png@01D0185C.E1468F20",
+        "cid:image003.png@01D0185C.E1468F20"
+    ],
+    "dkim_passed_count": 0,
+    "extractedSrcUrlsTotalCount": 2,
+    "pepca_style_total": 0,
+    "extractedHrefUrlsCardinality": 2,
+    "header_from": "Michal.Kucera@haba-sro.cz",
+    "dkstatus": "NEUTRAL",
+    "first10words": " Dobry den V priloze posilam objednavku 5 2014 V pripade jak bude hotovo me prosim kontaktujte aby",
+    "dkim_count": 0,
+    "spfstatus": "NONE",
+    "header_total_count": 24,
+    "html_script_tag_count": 0,
+    "mime_children_types": [
+        "multipart/related",
+        "application/msword",
+        "application/msword"
+    ],
+    "from_match": 0,
+    "extractedSrcUrlsDomainCount": 0,
+    "lang": "cs",
+    "phishing": {
+        "5_top_domains_percent_4": 0,
+        "fake_https": 0,
+        "max_num_dots_urls": 2,
+        "num_sender_diff_url": 0,
+        "num_freehost_urls": 0,
+        "num_black_sheep_link_global": -1,
+        "html_form": 0,
+        "subject_richness": 0.157894736842105,
+        "num_non_80_port_urls": 0,
+        "num_phish_keywords": 0,
+        "num_text_forms": 11,
+        "is_html": true,
+        "num_path_phish": 0,
+        "num_black_sheep_link_phish": 0,
+        "num_subdomain_phish": 0,
+        "num_black_sheep_link": -1,
+        "num_html_script_tags": 0,
+        "5_top_domains_percent_3": 0,
+        "1_top_domains_id_0": 0,
+        "suspicious_links": [],
+        "num_param_phish": 0,
+        "subject_phish_keywords": 0,
+        "num_https_urls": 0,
+        "5_top_domains_percent_0": 0,
+        "num_shortened_urls": 0,
+        "max_num_slashes_urls": 1,
+        "num_of_chars": 4154,
+        "num_www_in_url_path": 0,
+        "5_top_domains_percent_1": 0,
+        "5_top_domains_id_1": 0,
+        "argessive_link_mismatch": -1,
+        "num_domain_phish": 0,
+        "5_top_domains_percent_2": 0,
+        "5_top_domains_id_0": 0,
+        "text_and_href": 1,
+        "5_top_domains_id_4": 0,
+        "1_top_domains_percent_0": 0,
+        "num_external_links": 2,
+        "body_richness": 0.179061371841155,
+        "num_tld_in_url_path": 0,
+        "benevolent_link_mismatch": -1,
+        "num_ip_urls": 0,
+        "5_top_domains_id_3": 0,
+        "text_link_with_path": 0,
+        "camouflage": 0,
+        "5_top_domains_id_2": 0,
+        "ner_domain_detected": false
+    },
+    "html_in_text_plain_count": 0,
+    "extractedSrcUrlsCardinality": 2,
+    "dkStatusDetail": "NOT_SIGNED"
+}

@@ -1,0 +1,246 @@
+{
+    "word_count": 317,
+    "extractedTxtUrlsDomainCount": 1,
+    "extractedEmails": [
+        "Adela.Budkova@seznam.cz",
+        "info@gopass.cz"
+    ],
+    "spf_domain_policy": "UNKNOWN",
+    "mime_children_count": 2,
+    "pepca_inline_style": "pa299ee199617f7f2",
+    "extractedTxtUrls": [
+        "http://GOPASS.cz",
+        "http://www.gopass.cz/key/caac7c15361e431332157c3c234e6fd18c9ee798",
+        "http://GOPASS.cz.",
+        "http://www.gopass.cz."
+    ],
+    "subject_image_count": 0,
+    "header_reply_to_count": 1,
+    "list_unsubscribe_total_count": 1,
+    "header_from_count": 1,
+    "mime_root_type": "multipart/alternative",
+    "html_in_text_plain_count": 0,
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "html_a_href_camouflaging"
+            ],
+            "score": 1.1
+        }
+    ],
+    "adscore": 0,
+    "content": "CONTENT_DEFAULT",
+    "list_unsubscribe_urls": [
+        "info@gopass.cz"
+    ],
+    "html_tr_tag_count": 34,
+    "extractedTxtUrlsTotalCount": 4,
+    "subject_word_count": 7,
+    "extractedSrcUrls": [
+        "http://tmr.cortex.cz/email/newsletter/20141009_1_cz/mountains.jpg",
+        "http://tmr.cortex.cz/email/newsletter/20141009_1_cz/images/1_cz_15.jpg",
+        "http://tmr.cortex.cz/email/newsletter/20141009_1_cz/images/1_cz_16.jpg",
+        "http://tmr.cortex.cz/email/newsletter/20141009_1_cz/images/1_cz_18.jpg",
+        "http://tmr.cortex.cz/email/o/8084b58db120fa40789f5c4122"
+    ],
+    "rcpts_count": 1,
+    "precedence": 3,
+    "now": 1494598205,
+    "dkim_passed_count": 1,
+    "rfcid_length": 46,
+    "extractedEmailsCardinality": 2,
+    "html_td_tag_count": 68,
+    "list_unsubscribe_http_count": 0,
+    "phashes": [
+        {
+            "value": "pfa8880adb10361c1",
+            "name": "pepca"
+        },
+        {
+            "value": "pa299ee199617f7f2",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "extractedEmailsDomainCount": 2,
+    "dkselector": "dkim",
+    "pepcatotal": 0,
+    "pepca_style": "",
+    "extractedHrefUrlsCardinality": 3,
+    "subject": "Potvrzeni registrace a overeni Vaseho e mailu",
+    "extractedSrcUrlsCardinality": 17,
+    "last10words": "gopass cz Pokud si v budoucnu neprejete dostavat novinky z programu GOPASS muzete se odhlasit kliknutim na tento odkaz ",
+    "ahref_total_count": 3,
+    "header_from": "info@gopass.cz",
+    "unsub_link_candidates": [
+        "http://tmr.cortex.cz/email/u/8084b58db120fa40789f5c4122"
+    ],
+    "dkim_signs_cnt": 1,
+    "ahref_camouflage_count": 1,
+    "extractedHrefUrls": [
+        "http://tmr.cortex.cz/email/l/8084b58db120fa40789f5c4122/8da1042411c/?u=http%3A%2F%2Ftmr.cortex.cz%2Femail%2Fv%2F8084b58db120fa40",
+        "http://tmr.cortex.cz/email/l/8084b58db120fa40789f5c4122/87afba541b8/?u=http%3A%2F%2Fwww.gopass.cz%2Fkey%2Fcaac7c15361e431332157c",
+        "http://tmr.cortex.cz/email/u/8084b58db120fa40789f5c4122"
+    ],
+    "spamscore": 1.1,
+    "date_difference": -79738173,
+    "spamtrap_hit": false,
+    "html_tag_total_count": 179,
+    "extractedHrefUrlsDomainCount": 1,
+    "dkdomain": "cortex.cz",
+    "phish_score": 0,
+    "senders": {
+        "log_cnt_idf": "",
+        "log_ecnt-w_duc": "",
+        "ettf_w_duc_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "domain": "gopass",
+                "confidence": 3
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "domain_keywords_detail": [
+            {
+                "domain": "gopass",
+                "confidence": 38692248.2251518
+            }
+        ],
+        "tf_log_idf_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "gopass",
+        "idf": "",
+        "log_cnt-w_duc_detail": [],
+        "src_revert_detail": [
+            {
+                "domain": "reserved",
+                "confidence": 17
+            }
+        ],
+        "log_cnt_idf_log_tidf": "",
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow4_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "plain_domain": "gopass",
+        "ttf_w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-pow4_w_duc": "",
+        "cnt-pow_w_duc": "",
+        "src_revert": "reserved",
+        "log_cnt_idf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "log_cnt-pow_w_duc": ""
+    },
+    "attachments": [],
+    "header_total_count": 17,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/247614ff2d93b2a2ec6e8b8aa563515e.eml",
+    "rfcid_is_foreign": 0,
+    "spf_status_registry": "Status not found",
+    "spf_dom_policy_registry": "Policy not found",
+    "dkim_hfrom_match": 0,
+    "dk_statuses": [
+        {
+            "selector": "dkim",
+            "domain": "cortex.cz",
+            "status": "PASS"
+        }
+    ],
+    "list_unsubscribe_invalid_count": 1,
+    "pepca_style_total": 0,
+    "contains_list_header": true,
+    "spfstatus": "NONE",
+    "extractedHrefUrlsTotalCount": 3,
+    "spfstatus_hfrom": "SPF_NONE",
+    "extractedEmailsTotalCount": 2,
+    "pepca_inline_style_total": 0,
+    "extractedTxtUrlsCardinality": 4,
+    "ahref_verbal_count": 2,
+    "list_unsubscribe_mailto_count": 0,
+    "rfcid_is_invalid": false,
+    "extractedSrcUrlsTotalCount": 17,
+    "pepca": "pfa8880adb10361c1",
+    "dkstatus": "PASS",
+    "dkim_efrom_match": 0,
+    "self_send": 0,
+    "dkim_count": 1,
+    "unsub_link": "http://tmr.cortex.cz/email/u/8084b58db120fa40789f5c4122",
+    "html_script_tag_count": 0,
+    "mime_children_types": [
+        "text/plain",
+        "text/html"
+    ],
+    "unsub_link_texts": [
+        "pokud si v budoucno neprat dostavat novinka z program gopass moct se odhlasit kliknuti na tento odkaz "
+    ],
+    "from_match": 0,
+    "extractedSrcUrlsDomainCount": 1,
+    "lang": "cs",
+    "phishing": {
+        "5_top_domains_percent_4": 0,
+        "fake_https": 0,
+        "max_num_dots_urls": 4,
+        "num_sender_diff_url": 1,
+        "num_freehost_urls": 0,
+        "num_black_sheep_link_global": -1,
+        "html_form": 0,
+        "subject_richness": 0.137254901960784,
+        "num_non_80_port_urls": 0,
+        "num_phish_keywords": 7,
+        "num_text_forms": 13,
+        "is_html": true,
+        "num_path_phish": 0,
+        "num_black_sheep_link_phish": 0,
+        "num_subdomain_phish": 0,
+        "num_black_sheep_link": -1,
+        "num_html_script_tags": 0,
+        "5_top_domains_percent_3": 0,
+        "1_top_domains_id_0": 0,
+        "suspicious_links": [],
+        "num_param_phish": 0,
+        "subject_phish_keywords": 2,
+        "num_https_urls": 0,
+        "5_top_domains_percent_0": 0,
+        "num_shortened_urls": 0,
+        "max_num_slashes_urls": 5,
+        "num_of_chars": 1598,
+        "num_www_in_url_path": 0,
+        "5_top_domains_percent_1": 0,
+        "5_top_domains_id_1": 0,
+        "argessive_link_mismatch": -1,
+        "num_domain_phish": 0,
+        "5_top_domains_percent_2": 0,
+        "5_top_domains_id_0": 0,
+        "text_and_href": 0,
+        "5_top_domains_id_4": 0,
+        "1_top_domains_percent_0": 0,
+        "num_external_links": 8,
+        "body_richness": 0.198248905565979,
+        "num_tld_in_url_path": 0,
+        "benevolent_link_mismatch": -1,
+        "num_ip_urls": 0,
+        "5_top_domains_id_3": 0,
+        "text_link_with_path": 1,
+        "camouflage": 1,
+        "5_top_domains_id_2": 0,
+        "ner_domain_detected": false
+    },
+    "first10words": " Potvrzeni registrace a overeni Vaseho e mailu Pokud se Vam tento e mail nezobrazuje spravne kliknete zde "
+}

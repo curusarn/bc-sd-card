@@ -1,0 +1,248 @@
+{
+    "ahref_total_count": 2,
+    "spf_dom_policy_registry": "Policy not found",
+    "extractedTxtUrlsDomainCount": 1,
+    "extractedEmails": [],
+    "dkim_signs_cnt": 1,
+    "pepca": "p34fd33bd5d763c5b",
+    "phashes": [
+        {
+            "value": "pa8e067aa6d860f44",
+            "name": "att-pepca"
+        },
+        {
+            "value": "pcdc15cad383f5ad5",
+            "name": "att-pepca"
+        },
+        {
+            "value": "p34fd33bd5d763c5b",
+            "name": "pepca"
+        },
+        {
+            "value": "pe743403a5d03cf35",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "ahref_camouflage_count": 0,
+    "extractedHrefUrls": [
+        "http://predplatne.cz/uzivatel/nh/?id=185681&hash=566857f0bf6a81f3a8c8b20230bdabd036d8195e",
+        "http://www.predplatne.cz"
+    ],
+    "mime_children_count": 2,
+    "spamtrap_hit": false,
+    "pepca_inline_style": "pe743403a5d03cf35",
+    "date_difference": -79921454,
+    "extractedTxtUrls": [
+        "http://predplatne.cz/uzivatel/nh/?id=185681&hash=566857f0bf6a81f3a8c8b20230bdabd036d8195e",
+        "http://www.predplatne.cz",
+        "http://Predplatne.cz",
+        "http://predplatne.cz"
+    ],
+    "spamscore": 1,
+    "subject_image_count": 0,
+    "html_tag_total_count": 55,
+    "header_reply_to_count": 0,
+    "list_unsubscribe_total_count": 0,
+    "header_from_count": 1,
+    "mime_root_type": "multipart/alternative",
+    "extractedHrefUrlsDomainCount": 1,
+    "pepca_style": "",
+    "pepca_inline_style_total": 0,
+    "phish_score": 0,
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "score": 1
+        }
+    ],
+    "adscore": 0,
+    "senders": {
+        "log_cnt_idf": "",
+        "log_ecnt-w_duc": "",
+        "ettf_w_duc_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "domain": "predplatne",
+                "confidence": 3
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "domain_keywords_detail": [
+            {
+                "domain": "datingfactory",
+                "confidence": 7138118.63964125
+            }
+        ],
+        "tf_log_idf_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "datingfactory",
+        "idf": "",
+        "log_cnt-w_duc_detail": [],
+        "src_revert_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow4_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "plain_domain": "predplatne",
+        "ttf_w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-pow4_w_duc": "",
+        "cnt-pow_w_duc": "",
+        "src_revert": "",
+        "log_cnt_idf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "log_cnt-pow_w_duc": ""
+    },
+    "content": "CONTENT_DEFAULT",
+    "self_send": 0,
+    "attachments": [
+        {
+            "size": 12415,
+            "name": "head.gif",
+            "cid": "98f24607afb0b82d8a6797c0defca5d9",
+            "sumphash": "ed7cc120df59d6d3c379c321bb624941",
+            "pepca": "pa8e067aa6d860f44",
+            "mime_type": "image/gif",
+            "flags": 0,
+            "cte": "BASE64"
+        },
+        {
+            "size": 2281,
+            "name": "paysec.png",
+            "cid": "86764ab0d3005c287e8f717a5a592cb2",
+            "sumphash": "43ea3784187612fef1febb2adb0070af",
+            "pepca": "pcdc15cad383f5ad5",
+            "mime_type": "image/png",
+            "flags": 0,
+            "cte": "BASE64"
+        }
+    ],
+    "subject": "Zapomenute heslo",
+    "html_tr_tag_count": 10,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/baad015a1df3630284e44fd630984928.eml",
+    "extractedTxtUrlsTotalCount": 4,
+    "pepcatotal": 0,
+    "spf_status_registry": "Status not found",
+    "last10words": "bku 1800 77 Hala A7 193 00 Praha 9 Horni Pocernice www predplatne cz 420 840 306 090 Umoznujeme platbu pomoci ",
+    "spf_domain_policy": "UNKNOWN",
+    "dkim_hfrom_match": 0,
+    "word_count": 105,
+    "dk_statuses": [
+        {
+            "status": "NEUTRAL",
+            "statusDetail": "NOT_SIGNED"
+        }
+    ],
+    "subject_word_count": 2,
+    "list_unsubscribe_mailto_count": 0,
+    "rcpts_count": 1,
+    "precedence": 3,
+    "now": 1494598403,
+    "rfcid_is_invalid": false,
+    "list_unsubscribe_invalid_count": 0,
+    "dkim_efrom_match": 0,
+    "html_td_tag_count": 10,
+    "rfcid_length": 42,
+    "extractedHrefUrlsTotalCount": 2,
+    "rfcid_is_foreign": 0,
+    "spfstatus_hfrom": "SPF_SOFTFAIL",
+    "list_unsubscribe_http_count": 0,
+    "extractedEmailsTotalCount": 0,
+    "extractedEmailsCardinality": 0,
+    "extractedTxtUrlsCardinality": 4,
+    "ahref_verbal_count": 0,
+    "extractedEmailsDomainCount": 0,
+    "extractedSrcUrls": [
+        "cid:98f24607afb0b82d8a6797c0defca5d9",
+        "cid:86764ab0d3005c287e8f717a5a592cb2"
+    ],
+    "dkim_passed_count": 0,
+    "extractedSrcUrlsTotalCount": 2,
+    "pepca_style_total": 0,
+    "extractedHrefUrlsCardinality": 2,
+    "header_from": "info@predplatne.cz",
+    "dkstatus": "NEUTRAL",
+    "first10words": " Predplatne cz Vygenerovani noveho hesla Na strankach predplatne cz jste zazadal o vygenerovani noveho hesla k uct",
+    "dkim_count": 0,
+    "spfstatus": "NONE",
+    "header_total_count": 11,
+    "html_script_tag_count": 0,
+    "mime_children_types": [
+        "text/plain",
+        "multipart/related"
+    ],
+    "from_match": 0,
+    "extractedSrcUrlsDomainCount": 0,
+    "lang": "cs",
+    "phishing": {
+        "5_top_domains_percent_4": 0,
+        "fake_https": 0,
+        "max_num_dots_urls": 2,
+        "num_sender_diff_url": 0,
+        "num_freehost_urls": 0,
+        "num_black_sheep_link_global": -1,
+        "html_form": 0,
+        "subject_richness": 0.111111111111111,
+        "num_non_80_port_urls": 0,
+        "num_phish_keywords": 8,
+        "num_text_forms": 7,
+        "is_html": true,
+        "num_path_phish": 0,
+        "num_black_sheep_link_phish": 0,
+        "num_subdomain_phish": 0,
+        "num_black_sheep_link": -1,
+        "num_html_script_tags": 0,
+        "5_top_domains_percent_3": 0,
+        "1_top_domains_id_0": 0,
+        "suspicious_links": [],
+        "num_param_phish": 0,
+        "subject_phish_keywords": 1,
+        "num_https_urls": 0,
+        "5_top_domains_percent_0": 0,
+        "num_shortened_urls": 0,
+        "max_num_slashes_urls": 3,
+        "num_of_chars": 710,
+        "num_www_in_url_path": 0,
+        "5_top_domains_percent_1": 0,
+        "5_top_domains_id_1": 0,
+        "argessive_link_mismatch": -1,
+        "num_domain_phish": 0,
+        "5_top_domains_percent_2": 0,
+        "5_top_domains_id_0": 0,
+        "text_and_href": 2,
+        "5_top_domains_id_4": 0,
+        "1_top_domains_percent_0": 0,
+        "num_external_links": 2,
+        "body_richness": 0.147679324894515,
+        "num_tld_in_url_path": 0,
+        "benevolent_link_mismatch": -1,
+        "num_ip_urls": 0,
+        "5_top_domains_id_3": 0,
+        "text_link_with_path": 1,
+        "camouflage": 0,
+        "5_top_domains_id_2": 0,
+        "ner_domain_detected": false
+    },
+    "html_in_text_plain_count": 0,
+    "extractedSrcUrlsCardinality": 2,
+    "dkStatusDetail": "NOT_SIGNED"
+}

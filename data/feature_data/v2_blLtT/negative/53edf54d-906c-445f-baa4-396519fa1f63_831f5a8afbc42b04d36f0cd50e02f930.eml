@@ -1,0 +1,259 @@
+{
+    "ahref_total_count": 0,
+    "word_count": 111,
+    "extractedTxtUrlsDomainCount": 1,
+    "extractedEmails": [
+        "pavelpavlovic@seznam.cz."
+    ],
+    "dkim_signs_cnt": 1,
+    "pepca": "p6728ae12899f9732",
+    "senders": {
+        "log_cnt_idf": "",
+        "log_ecnt-w_duc": "",
+        "ettf_w_duc_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "domain": "stesti",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "domain_keywords_detail": [
+            {
+                "domain": "stesti",
+                "confidence": 22784522.200459
+            }
+        ],
+        "tf_log_idf_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "stesti",
+        "idf": "",
+        "log_cnt-w_duc_detail": [],
+        "src_revert_detail": [],
+        "log_cnt_idf_log_tidf": "",
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow4_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "plain_domain": "stesti",
+        "ttf_w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-pow4_w_duc": "",
+        "cnt-pow_w_duc": "",
+        "src_revert": "",
+        "log_cnt_idf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "log_cnt-pow_w_duc": ""
+    },
+    "phashes": [
+        {
+            "value": "p6728ae12899f9732",
+            "name": "pepca"
+        }
+    ],
+    "ahref_camouflage_count": 0,
+    "extractedHrefUrls": [],
+    "mime_children_count": 0,
+    "spamtrap_hit": false,
+    "pepca_inline_style": "",
+    "date_difference": -79990221,
+    "extractedTxtUrls": [
+        "http://www.stesti.cz/heslo-reset/?key=445e2177052d58448813c2e5495c15",
+        "http://www.stesti.cz/heslo-reset/",
+        "http://www.stesti.cz/"
+    ],
+    "spamscore": 1.1,
+    "subject_image_count": 0,
+    "html_tag_total_count": 0,
+    "header_reply_to_count": 0,
+    "list_unsubscribe_total_count": 0,
+    "subject_word_count": 4,
+    "header_from_count": 1,
+    "mime_root_type": "text/plain",
+    "spf_domain_policy": "UNKNOWN",
+    "pepca_inline_style_total": 0,
+    "phish_score": 16.5,
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0,
+                0.1
+            ],
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch",
+                "foreign_message_id"
+            ],
+            "score": 1.1
+        }
+    ],
+    "adscore": 0,
+    "domainstat": {},
+    "universalprobes": [
+        {
+            "value": "1",
+            "key": "ps-from_mismatch"
+        },
+        {
+            "value": "['obnoven\\xc3\\xad', 'heslo', 'u\\xc5\\xbeivatel', 'u\\xc5\\xbeivatelsk\\xc3\\xbd', 'obnoven\\xc3\\xad', 'heslo', 'obnoven\\xc3\\xad', 'heslo', '\\xc3\\xba\\xc4\\x8det', 'heslo', 'obnoven\\xc3\\xad', 'heslo', 'obnoven\\xc3\\xad', 'heslo', 'heslo', 'obnoven\\xc3\\xad', 'heslo', 'obnoven\\xc3\\xad', 'heslo', '\\xc3\\xba\\xc4\\x8det', 'obnoven\\xc3\\xad', 'heslo', 'schr\\xc3\\xa1nka', 'obnoven\\xc3\\xad']",
+            "key": "ps-phish_keyword"
+        },
+        {
+            "value": "['obnoven\\xc3\\xad', 'heslo']",
+            "key": "ps-subject_phish_keyword"
+        },
+        {
+            "value": "1",
+            "key": "ps-phish_form"
+        },
+        {
+            "value": "[]",
+            "key": "ps-most-suspicious-links"
+        },
+        {
+            "value": "1",
+            "key": "ps-phishing"
+        }
+    ],
+    "content": "CONTENT_DEFAULT",
+    "self_send": 0,
+    "attachments": [],
+    "unsub_link": {},
+    "dmarc_status": {},
+    "subject": "Zdeny7 obnoveni zapomenuteho hesla",
+    "html_tr_tag_count": 0,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/831f5a8afbc42b04d36f0cd50e02f930.eml",
+    "extractedTxtUrlsTotalCount": 3,
+    "pepcatotal": 3,
+    "spf_status_registry": "Status not found",
+    "spf_dom_policy_registry": "Policy not found",
+    "dkim_hfrom_match": 0,
+    "dk_statuses": [
+        {
+            "status": "NEUTRAL",
+            "statusDetail": "NOT_SIGNED"
+        }
+    ],
+    "phNotches": [
+        {
+            "subscores": [
+                1,
+                0.5,
+                0.0,
+                0.0,
+                2.5,
+                8
+            ],
+            "module": "phish-score",
+            "name": [
+                "from_mismatch",
+                "phisheable",
+                "phish_keyword",
+                "subject_phish_keyword",
+                "phish_form",
+                "phishing"
+            ],
+            "score": 12
+        }
+    ],
+    "list_unsubscribe_mailto_count": 0,
+    "rcpts_count": 1,
+    "precedence": 3,
+    "now": 1494598333,
+    "rfcid_is_invalid": false,
+    "list_unsubscribe_invalid_count": 0,
+    "dkim_efrom_match": 0,
+    "html_td_tag_count": 0,
+    "rfcid_length": 46,
+    "dkStatusDetail": "NOT_SIGNED",
+    "spfstatus_hfrom": "SPF_NEUTRAL",
+    "list_unsubscribe_http_count": 0,
+    "extractedEmailsTotalCount": 1,
+    "extractedEmailsCardinality": 1,
+    "extractedTxtUrlsCardinality": 3,
+    "ahref_verbal_count": 0,
+    "extractedEmailsDomainCount": 1,
+    "extractedSrcUrls": [],
+    "dkim_passed_count": 0,
+    "rfcid_is_foreign": 1,
+    "pepca_style_total": 0,
+    "phishing": {
+        "5_top_domains_percent_4": 0,
+        "fake_https": 0,
+        "max_num_dots_urls": 2,
+        "num_sender_diff_url": 0,
+        "num_freehost_urls": 0,
+        "num_subject_phish_keywords": 2,
+        "num_black_sheep_link_global": -1,
+        "html_form": 0,
+        "subject_richness": 0.102564102564103,
+        "num_non_80_port_urls": 0,
+        "num_phish_keywords": 24,
+        "num_text_forms": 3,
+        "is_html": false,
+        "num_path_phish": 0,
+        "num_black_sheep_link_phish": 0,
+        "num_subdomain_phish": 0,
+        "num_black_sheep_link": -1,
+        "num_html_script_tags": 0,
+        "5_top_domains_percent_3": 0,
+        "1_top_domains_id_0": 0,
+        "suspicious_links": [],
+        "num_attachments": 0,
+        "num_param_phish": 0,
+        "subject_phish_keywords": 2,
+        "num_https_urls": 0,
+        "phish_form": true,
+        "5_top_domains_percent_0": 0,
+        "num_shortened_urls": 0,
+        "max_num_slashes_urls": 2,
+        "num_of_chars": 1029,
+        "num_www_in_url_path": 0,
+        "5_top_domains_percent_1": 0,
+        "5_top_domains_id_1": 0,
+        "argessive_link_mismatch": 0,
+        "num_domain_phish": 0,
+        "5_top_domains_percent_2": 0,
+        "5_top_domains_id_0": 0,
+        "text_and_href": 0,
+        "5_top_domains_id_4": 0,
+        "1_top_domains_percent_0": 0,
+        "num_external_links": 0,
+        "body_richness": 0.107766990291262,
+        "num_tld_in_url_path": 0,
+        "benevolent_link_mismatch": 0,
+        "num_ip_urls": 0,
+        "5_top_domains_id_3": 0,
+        "text_link_with_path": 2,
+        "camouflage": 0,
+        "5_top_domains_id_2": 0,
+        "ner_domain_detected": false
+    },
+    "pepca_style": "",
+    "header_from": "info@stesti.cz",
+    "dkstatus": "NEUTRAL",
+    "theme": {},
+    "first10words": " Na serveru stesti cz osudova seznamka byl zadan pozadavek na obnoveni hesla uzivatele Zdeny7 s e mailovou adresu pavelpavlovic seznam cz ",
+    "dkim_count": 0,
+    "spfstatus": "NONE",
+    "header_total_count": 14,
+    "html_script_tag_count": 0,
+    "mime_children_types": [],
+    "from_match": 0,
+    "lang": "cs",
+    "domainstat_themes": {},
+    "html_in_text_plain_count": 0,
+    "last10words": "im vlozite kod bezchybne a bez dlouheho opisovani http www stesti cz Dekujeme za pouzivani sluzeb stesti cz osudova seznamka"
+}

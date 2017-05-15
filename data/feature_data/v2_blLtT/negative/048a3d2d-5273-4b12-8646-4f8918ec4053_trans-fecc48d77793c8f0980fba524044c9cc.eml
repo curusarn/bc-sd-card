@@ -1,0 +1,227 @@
+{
+    "ahref_total_count": 0,
+    "word_count": 370,
+    "extractedTxtUrlsDomainCount": 1,
+    "extractedEmails": [
+        "pavlavondruskova1@seznam.cz"
+    ],
+    "dkim_signs_cnt": 1,
+    "pepca": "p3a091068862ef532",
+    "phashes": [
+        {
+            "value": "p3a091068862ef532",
+            "name": "pepca"
+        },
+        {
+            "value": "p4a80b7a57a987026",
+            "name": "pepca_inline_style"
+        }
+    ],
+    "ahref_camouflage_count": 0,
+    "extractedHrefUrls": [],
+    "mime_children_count": 2,
+    "spamtrap_hit": false,
+    "pepca_inline_style": "p4a80b7a57a987026",
+    "date_difference": -73435012,
+    "extractedTxtUrls": [
+        "http://coralorder.com"
+    ],
+    "spamscore": 1,
+    "subject_image_count": 0,
+    "html_tag_total_count": 298,
+    "header_reply_to_count": 0,
+    "list_unsubscribe_total_count": 0,
+    "header_from_count": 1,
+    "mime_root_type": "multipart/mixed",
+    "dkdomain": "",
+    "pepca_inline_style_total": 0,
+    "phish_score": 0,
+    "notches": [
+        {
+            "subscores": [
+                1,
+                0.0
+            ],
+            "module": "ill",
+            "name": [
+                "date_in_past",
+                "from_missmatch"
+            ],
+            "score": 1
+        }
+    ],
+    "adscore": 0,
+    "senders": {
+        "log_cnt_idf": "",
+        "log_ecnt-w_duc": "",
+        "ettf_w_duc_detail": [],
+        "log_cnt-pow_w_duc_detail": [],
+        "log_ecnt_idf_detail": [],
+        "log_ecnt_idf_log_tidf_detail": [],
+        "plain_domain_detail": [
+            {
+                "domain": "coralorder",
+                "confidence": 1
+            }
+        ],
+        "log_ecnt_log_idf_log_tidf": "",
+        "domain_keywords_detail": [
+            {
+                "domain": "praca",
+                "confidence": 8557828.90028
+            }
+        ],
+        "tf_log_idf_detail": [],
+        "log_cnt-w_duc": "",
+        "log_ecnt_log_idf_log_tidf_detail": [],
+        "ettf_w_duc": "",
+        "idf_detail": [],
+        "ttf_w_duc_detail": [],
+        "log_cnt_idf_log_tidf_detail": [],
+        "log_cnt-pow4_w_duc_detail": [],
+        "domain_keywords": "praca",
+        "idf": "",
+        "log_cnt-w_duc_detail": [],
+        "src_revert_detail": [
+            {
+                "domain": "centrum",
+                "confidence": 1
+            }
+        ],
+        "log_cnt_idf_log_tidf": "",
+        "cnt-pow4_w_duc": "",
+        "log_ecnt-w_duc_detail": [],
+        "tf_log_idf": "",
+        "cnt-pow4_w_duc_detail": [],
+        "log_ecnt_idf_log_tidf": "",
+        "plain_domain": "coralorder",
+        "ttf_w_duc": "",
+        "log_ecnt_idf": "",
+        "log_cnt-pow4_w_duc": "",
+        "cnt-pow_w_duc": "",
+        "src_revert": "centrum",
+        "log_cnt_idf_detail": [],
+        "cnt-pow_w_duc_detail": [],
+        "log_cnt-pow_w_duc": ""
+    },
+    "content": "CONTENT_DEFAULT",
+    "self_send": 0,
+    "attachments": [
+        {
+            "size": 0,
+            "name": "Bor.pdf",
+            "sumphash": "dc5b5ace27d0916fed08dfee55dd0748",
+            "cte": "BASE64",
+            "flags": 0,
+            "mime_type": "application/pdf"
+        }
+    ],
+    "subject": "Objednavka B Complex ",
+    "html_tr_tag_count": 54,
+    "email_path": "/mfs/replicated/datasets/phishing/transactional_dataset/transactional_merged/trans-fecc48d77793c8f0980fba524044c9cc.eml",
+    "extractedTxtUrlsTotalCount": 1,
+    "pepcatotal": 0,
+    "spf_status_registry": "Status not found",
+    "spf_dom_policy_registry": "Policy not found",
+    "spf_domain_policy": "UNKNOWN",
+    "dkim_hfrom_match": 0,
+    "dk_statuses": [
+        {
+            "status": "FAIL",
+            "domain": "",
+            "statusDetail": "DKIM_STAT_BADSIG"
+        }
+    ],
+    "subject_word_count": 3,
+    "list_unsubscribe_mailto_count": 0,
+    "rcpts_count": 1,
+    "precedence": 3,
+    "now": 1494598444,
+    "rfcid_is_invalid": false,
+    "list_unsubscribe_invalid_count": 0,
+    "dkim_efrom_match": 0,
+    "html_td_tag_count": 140,
+    "rfcid_length": 34,
+    "dkStatusDetail": "DKIM_STAT_BADSIG",
+    "spfstatus_hfrom": "SPF_NEUTRAL",
+    "list_unsubscribe_http_count": 0,
+    "extractedEmailsTotalCount": 1,
+    "extractedEmailsCardinality": 1,
+    "extractedTxtUrlsCardinality": 1,
+    "ahref_verbal_count": 0,
+    "extractedEmailsDomainCount": 1,
+    "extractedSrcUrls": [
+        "https://coralorder.com/images/logo_WW.png"
+    ],
+    "dkim_passed_count": 0,
+    "rfcid_is_foreign": 0,
+    "extractedSrcUrlsTotalCount": 1,
+    "pepca_style_total": 0,
+    "pepca_style": "",
+    "header_from": "coralclub.jicin@centrum.cz",
+    "dkstatus": "FAIL",
+    "first10words": " Ahoj Pavlo posilam ti udaje pro uhradu mnela jsi slevu 1581 Kc kterou jsem pouzil k castecne uhrade Potreba zaplatit jen ten zbytek ",
+    "dkim_count": 1,
+    "spfstatus": "NONE",
+    "header_total_count": 17,
+    "html_script_tag_count": 0,
+    "mime_children_types": [
+        "multipart/alternative",
+        "application/pdf"
+    ],
+    "from_match": 0,
+    "extractedSrcUrlsDomainCount": 1,
+    "lang": "cs",
+    "phishing": {
+        "5_top_domains_percent_4": 0,
+        "fake_https": 0,
+        "max_num_dots_urls": 1,
+        "num_sender_diff_url": 1,
+        "num_freehost_urls": 0,
+        "num_black_sheep_link_global": -1,
+        "html_form": 0,
+        "subject_richness": 0.136363636363636,
+        "num_non_80_port_urls": 0,
+        "num_phish_keywords": 2,
+        "num_text_forms": 0,
+        "is_html": true,
+        "num_path_phish": 0,
+        "num_black_sheep_link_phish": 0,
+        "num_subdomain_phish": 0,
+        "num_black_sheep_link": -1,
+        "num_html_script_tags": 0,
+        "5_top_domains_percent_3": 0,
+        "1_top_domains_id_0": 0,
+        "suspicious_links": [],
+        "num_param_phish": 0,
+        "subject_phish_keywords": 0,
+        "num_https_urls": 1,
+        "5_top_domains_percent_0": 0,
+        "num_shortened_urls": 0,
+        "max_num_slashes_urls": 0,
+        "num_of_chars": 1769,
+        "num_www_in_url_path": 0,
+        "5_top_domains_percent_1": 0,
+        "5_top_domains_id_1": 0,
+        "argessive_link_mismatch": 0,
+        "num_domain_phish": 0,
+        "5_top_domains_percent_2": 0,
+        "5_top_domains_id_0": 0,
+        "text_and_href": 0,
+        "5_top_domains_id_4": 0,
+        "1_top_domains_percent_0": 0,
+        "num_external_links": 1,
+        "body_richness": 0.209039548022599,
+        "num_tld_in_url_path": 0,
+        "benevolent_link_mismatch": 0,
+        "num_ip_urls": 0,
+        "5_top_domains_id_3": 0,
+        "text_link_with_path": 0,
+        "camouflage": 0,
+        "5_top_domains_id_2": 0,
+        "ner_domain_detected": false
+    },
+    "html_in_text_plain_count": 0,
+    "extractedSrcUrlsCardinality": 1,
+    "last10words": " zakaznici Originalni faktura Vam bude zaslana na e mail na zaklade Vasi zadosti Dekujeme "
+}
