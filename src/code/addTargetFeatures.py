@@ -136,7 +136,7 @@ def linkMismatchFeatureB(targetData, links, HIST_HREF, HIST_SRC):
 SRC_PATH = os.path.dirname(os.path.realpath(__file__))
 DATA_PATH = os.path.join(SRC_PATH,"../../data/feature_data")
 
-HIST_PATH = "/home/simonlet/git/nametag/historical_data_phishable"
+HIST_PATH = "/home/simonlet/NON_FREE_DATA/historical_data_phishable"
 HIST_HREF = json.load(open(os.path.join(HIST_PATH,"sorted_href.json"))) 
 HIST_SRC = json.load(open(os.path.join(HIST_PATH,"sorted_src.json"))) 
 
