@@ -1,6 +1,6 @@
 
 readme:
-	cat readme.txt
+	cat readme.md
 
 all: train
 
