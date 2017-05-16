@@ -12,7 +12,7 @@
 │   │   ├── addTargetFeatures.py - script for adding target based features
 │   │   ├── train.py - script for training the phishing email detector
 │   │   └── more - more implementation sources
-│   └── thesis the directory of Latex source codes of the thesis
+│   └── thesis - the directory of Latex source codes of the thesis
 └── text - the thesis text directory
     └── thesis.pdf - the thesis text in PDF format
 ```
